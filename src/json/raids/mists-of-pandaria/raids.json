@@ -1,0 +1,91 @@
+[
+	{
+		"id": "MogushanVaults",
+		"className": "card-raids card-raids-mists-of-pandaria",
+		"path": "#",
+		"cardImgClassName": "card-img-raids",
+		"cardImg": "/src/assets/img/raids/bg/mists-of-pandaria/Mogushan-Vaults.jpg",
+		"titleClassName": "card-title-raids card-title-raids-mists-of-pandaria",
+		"title": "Подземелья Могу'шан",
+		"descriptionClassName": "card-text-raids card-text-raids-mists-of-pandaria",
+		"description": "Закажите гарантированное прохождение рейда",
+		"spanClassname": "card-text-raids-mists-of-pandaria_color",
+		"priceClassName": "card-price-raids card-price-raids-mists-of-pandaria",
+		"price": 250,
+		"priceImg": "/src/assets/img/gold/bg/dollar.png",
+		"priceAlt": "$",
+		"btn": "Подробнее"
+	},
+
+	{
+		"id": "HeartOfFear",
+		"className": "card-raids card-raids-mists-of-pandaria",
+		"path": "#",
+		"cardImgClassName": "card-img-raids",
+		"cardImg": "/src/assets/img/raids/bg/mists-of-pandaria/Heart-of-Fear.jpg",
+		"titleClassName": "card-title-raids card-title-raids-mists-of-pandaria",
+		"title": "Сердце Страха",
+		"descriptionClassName": "card-text-raids card-text-raids-mists-of-pandaria",
+		"description": "Закажите гарантированное прохождение рейда",
+		"spanClassname": "card-text-raids-mists-of-pandaria_color",
+		"priceClassName": "card-price-raids card-price-raids-mists-of-pandaria",
+		"price": 260,
+		"priceImg": "/src/assets/img/gold/bg/dollar.png",
+		"priceAlt": "$",
+		"btn": "Подробнее"
+	},
+
+	{
+		"id": "TerraceOfEndlessSpring",
+		"className": "card-raids card-raids-mists-of-pandaria",
+		"path": "#",
+		"cardImgClassName": "card-img-raids",
+		"cardImg": "/src/assets/img/raids/bg/mists-of-pandaria/Terrace-of-Endless-Spring.jpg",
+		"titleClassName": "card-title-raids card-title-raids-mists-of-pandaria",
+		"title": "Терраса Вечной Весны",
+		"descriptionClassName": "card-text-raids card-text-raids-mists-of-pandaria",
+		"description": "Закажите гарантированное прохождение рейда",
+		"spanClassname": "card-text-raids-mists-of-pandaria_color",
+		"priceClassName": "card-price-raids card-price-raids-mists-of-pandaria",
+		"price": 260,
+		"priceImg": "/src/assets/img/gold/bg/dollar.png",
+		"priceAlt": "$",
+		"btn": "Подробнее"
+	},
+
+	{
+		"id": "ThroneOfThunder",
+		"className": "card-raids card-raids-mists-of-pandaria",
+		"path": "#",
+		"cardImgClassName": "card-img-raids",
+		"cardImg": "/src/assets/img/raids/bg/mists-of-pandaria/Throne-of-Thunder.jpg",
+		"titleClassName": "card-title-raids card-title-raids-mists-of-pandaria",
+		"title": "Престол Гроз",
+		"descriptionClassName": "card-text-raids card-text-raids-mists-of-pandaria",
+		"description": "Закажите гарантированное прохождение рейда",
+		"spanClassname": "card-text-raids-mists-of-pandaria_color",
+		"priceClassName": "card-price-raids card-price-raids-mists-of-pandaria",
+		"price": 270,
+		"priceImg": "/src/assets/img/gold/bg/dollar.png",
+		"priceAlt": "$",
+		"btn": "Подробнее"
+	},
+
+	{
+		"id": "SiegeOfOrgrimmar",
+		"className": "card-raids card-raids-mists-of-pandaria",
+		"path": "#",
+		"cardImgClassName": "card-img-raids",
+		"cardImg": "/src/assets/img/raids/bg/mists-of-pandaria/Siege-of-Orgrimmar.jpg",
+		"titleClassName": "card-title-raids card-title-raids-mists-of-pandaria",
+		"title": "Осада Оргриммара",
+		"descriptionClassName": "card-text-raids card-text-raids-mists-of-pandaria",
+		"description": "Закажите гарантированное прохождение рейда",
+		"spanClassname": "card-text-raids-mists-of-pandaria_color",
+		"priceClassName": "card-price-raids card-price-raids-mists-of-pandaria",
+		"price": 290,
+		"priceImg": "/src/assets/img/gold/bg/dollar.png",
+		"priceAlt": "$",
+		"btn": "Подробнее"
+	}
+]

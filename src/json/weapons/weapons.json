@@ -1,0 +1,97 @@
+[
+	{
+		"id": "one-handed-weapons",
+		"className": "card-weapons",
+		"path": "weapons/one-handed",
+		"cardImg": "/src/assets/img/weapons/bg/one-handed.png",
+		"titleClassName": "card-title-weapons",
+		"title": "Одноручное оружие",
+		"descriptionClassName": "card-text-weapons",
+		"description": "Закажите любое одноручное оружие",
+		"priceClassName": "card-price-weapons",
+		"price": 300,
+		"priceImg": "/src/assets/img/gold/bg/dollar.png",
+		"priceAlt": "$",
+		"btn": "Подробнее"
+	},
+
+	{
+		"id": "two-handed-weapons",
+		"className": "card-weapons",
+		"path": "weapons/two-handed",
+		"cardImg": "/src/assets/img/weapons/bg/two-handed.png",
+		"titleClassName": "card-title-weapons",
+		"title": "Двуручное оружие",
+		"descriptionClassName": "card-text-weapons",
+		"description": "Закажите любое двуручное оружие",
+		"priceClassName": "card-price-weapons",
+		"price": 300,
+		"priceImg": "/src/assets/img/gold/bg/dollar.png",
+		"priceAlt": "$",
+		"btn": "Подробнее"
+	},
+
+	{
+		"id": "range-weapons",
+		"className": "card-weapons",
+		"path": "weapons/range",
+		"cardImg": "/src/assets/img/weapons/bg/range.png",
+		"titleClassName": "card-title-weapons",
+		"title": "Оружие дальнего боя",
+		"descriptionClassName": "card-text-weapons",
+		"description": "Закажите любое оружие дальнего боя",
+		"priceClassName": "card-price-weapons",
+		"price": 300,
+		"priceImg": "/src/assets/img/gold/bg/dollar.png",
+		"priceAlt": "$",
+		"btn": "Подробнее"
+	},
+
+	{
+		"id": "legendary-weapons",
+		"className": "card-weapons card-weapons-legendary",
+		"path": "weapons/legendary",
+		"cardImg": "/src/assets/img/weapons/bg/legendary.png",
+		"titleClassName": "card-title-weapons card-title-weapons-legendary",
+		"title": "Легендарное оружие",
+		"descriptionClassName": "card-text-weapons card-text-weapons-legendary",
+		"description": "Закажите любое легендарное оружие",
+		"priceClassName": "card-price-weapons card-price-weapons-legendary",
+		"price": 500,
+		"priceImg": "/src/assets/img/gold/bg/dollar.png",
+		"priceAlt": "$",
+		"btn": "Подробнее"
+	},
+
+	{
+		"id": "artefact-weapons",
+		"className": "card-weapons card-weapons-artefact",
+		"path": "weapons/artefact",
+		"cardImg": "/src/assets/img/weapons/bg/artefact.png",
+		"titleClassName": "card-title-weapons card-title-weapons-artefact",
+		"title": "Артефакты Legion",
+		"descriptionClassName": "card-text-weapons card-text-weapons-artefact",
+		"description": "Закажите любое артефактное оружие",
+		"priceClassName": "card-price-weapons card-price-weapons-artefact",
+		"price": 800,
+		"priceImg": "/src/assets/img/gold/bg/dollar.png",
+		"priceAlt": "$",
+		"btn": "Подробнее"
+	},
+
+	{
+		"id": "decorative-weapons",
+		"className": "card-weapons card-weapons-decorative",
+		"path": "weapons/decorative",
+		"cardImg": "/src/assets/img/weapons/bg/decorative.png",
+		"titleClassName": "card-title-weapons card-title-weapons-decorative",
+		"title": "Декоративное оружие",
+		"descriptionClassName": "card-text-weapons card-text-weapons-decorative",
+		"description": "Закажите любое декоративное оружие",
+		"priceClassName": "card-price-weapons card-price-weapons-decorative",
+		"price": 1000,
+		"priceImg": "/src/assets/img/gold/bg/dollar.png",
+		"priceAlt": "$",
+		"btn": "Подробнее"
+	}
+]

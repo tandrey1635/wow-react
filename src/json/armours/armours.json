@@ -1,0 +1,49 @@
+[
+	{
+		"id": "shields",
+		"className": "card-armours",
+		"path": "armours/shields",
+		"cardImg": "/src/assets/img/armours/bg/shields.png",
+		"titleClassName": "card-title-armours",
+		"title": "Щиты",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите любой щит",
+		"priceClassName": "card-price-armours",
+		"price": 300,
+		"priceImg": "/src/assets/img/gold/bg/dollar.png",
+		"priceAlt": "$",
+		"btn": "Подробнее"
+	},
+
+	{
+		"id": "cloaks",
+		"className": "card-armours",
+		"path": "armours/cloaks",
+		"cardImg": "/src/assets/img/armours/bg/cloaks.png",
+		"titleClassName": "card-title-armours",
+		"title": "Плащи",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите любой плащ",
+		"priceClassName": "card-price-armours",
+		"price": 300,
+		"priceImg": "/src/assets/img/gold/bg/dollar.png",
+		"priceAlt": "$",
+		"btn": "Подробнее"
+	},
+
+	{
+		"id": "fishing-rods",
+		"className": "card-armours",
+		"path": "armours/fishing-rods",
+		"cardImg": "/src/assets/img/armours/bg/fishing-rods.png",
+		"titleClassName": "card-title-armours",
+		"title": "Удочки",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите любую удочку",
+		"priceClassName": "card-price-armours",
+		"price": 300,
+		"priceImg": "/src/assets/img/gold/bg/dollar.png",
+		"priceAlt": "$",
+		"btn": "Подробнее"
+	}
+]
