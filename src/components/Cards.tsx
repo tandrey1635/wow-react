@@ -15,6 +15,7 @@ import dataWrathOfTheLichKingRaids from '../json/raids/wrath-of-the-lich-king/ra
 import dataCataclysmRaids from '../json/raids/cataclysm/raids.json'
 import dataMistsOfPandariaRaids from '../json/raids/mists-of-pandaria/raids.json'
 import dataWarlordsOfDraenorRaids from '../json/raids/warlords-of-draenor/raids.json'
+import dataDragonflightRaids from '../json/raids/dragonflight/raids.json'
 import dataMidnightRaids from '../json/raids/midnight/raids.json'
 import dataLastTitanRaids from '../json/raids/last-titan/raids.json'
 
@@ -441,6 +442,29 @@ const Card = ({home, raidsArmourWarrior, legendaryWeapons, classes, classic, bur
 		)
 	})
 
+	const dragonflightRaids = dataDragonflightRaids.map(card=>{
+		return (
+			<div key={card.id} className={`card ${card.className}`}>
+				<Link to={card.path}>
+					<img src={card.cardImg} className={`card-img ${card.cardImgClassName}`}  alt={card.description} />
+				</Link>
+				<div className="card-body">
+					<Link className="card-link" to={card.path}>
+						<h3 className={`card-title ${card.titleClassName}`}>{card.title}</h3>
+					</Link>
+					<p className={`card-text ${card.descriptionClassName}`}>{card.description} <span className={card.spanClassname}>{card.title}</span>
+					</p>
+				</div>
+				<div className="card-footer d-flex justify-content-between align-items-center">
+					<p className={`card-price ${card.priceClassName}`}>
+						от {card.price}
+						<img className="dollar" src={card.priceImg} alt={dollarAlt} />
+					</p>
+					<Link to={card.path} className="card-btn">{card.btn}</Link>
+				</div>
+			</div>
+		)
+	})
 
 
 
@@ -1252,57 +1276,7 @@ const Card = ({home, raidsArmourWarrior, legendaryWeapons, classes, classic, bur
 
 					{ dragonflight &&
 						<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-							<div className="card card-raids-dragonflight">
-								<a href="">
-									<img src="/src/assets/img/raids/bg/dragonflight/Vault-of-the-Incarnates.jpg" className="card-img card-img-tiers" alt="" />
-								</a>
-								<div className="card-body">
-									<a className="card-link" href="">
-										<h3 className="card-title card-title-raids-dragonflight">Хранилище Воплощений</h3>
-									</a>
-									<p className="card-text card-text-raids-dragonflight">Закажите гарантированное прохождение рейда <span className="card-text-raids-dragonflight_color">Хранилище Воплощений</span>
-									</p>
-								</div>
-								<div className="card-footer d-flex justify-content-between align-items-center">
-									<p className="card-price card-price-raids-dragonflight">от 500<img className="dollar" src={dollarImg} alt="dollar" /></p>
-									<a href="" className="card-btn card-btn-tiers">Подробнее</a>
-								</div>
-							</div>
-
-							<div className="card card-raids-dragonflight">
-								<a href="">
-									<img src="/src/assets/img/raids/bg/dragonflight/Aberrus-the-Shadowed-Crucible.jpg" className="card-img card-img-tiers" alt="" />
-								</a>
-								<div className="card-body">
-									<a className="card-link" href="">
-										<h3 className="card-title card-title-raids-dragonflight">Аберрий, Затененное Горнило</h3>
-									</a>
-									<p className="card-text card-text-raids-dragonflight">Закажите гарантированное прохождение рейда <span className="card-text-raids-dragonflight_color">Аберрий, Затененное Горнило</span>
-									</p>
-								</div>
-								<div className="card-footer d-flex justify-content-between align-items-center">
-									<p className="card-price card-price-raids-dragonflight">от 520<img className="dollar" src={dollarImg} alt="dollar" /></p>
-									<a href="" className="card-btn card-btn-tiers">Подробнее</a>
-								</div>
-							</div>
-
-							<div className="card card-raids-dragonflight">
-								<a href="">
-									<img src="/src/assets/img/raids/bg/dragonflight/Amirdrassil-the-Dreams-Hope.jpg" className="card-img card-img-tiers" alt="" />
-								</a>
-								<div className="card-body">
-									<a className="card-link" href="">
-										<h3 className="card-title card-title-raids-dragonflight">Амирдрассил, Надежда Сна</h3>
-									</a>
-									<p className="card-text card-text-raids-dragonflight">Закажите гарантированное прохождение рейда <span className="card-text-raids-dragonflight_color">Амирдрассил, Надежда Сна</span>
-									</p>
-								</div>
-								<div className="card-footer d-flex justify-content-between align-items-center">
-									<p className="card-price card-price-raids-dragonflight">от 540<img className="dollar" src={dollarImg} alt="dollar" /></p>
-									<a href="" className="card-btn card-btn-tiers">Подробнее</a>
-								</div>
-							</div>
-
+							{ dragonflightRaids }
 						</div>
 					}
 
