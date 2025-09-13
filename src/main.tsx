@@ -33,6 +33,7 @@ import DecorativeWeapons  from "./pages/weapons/Decorative.tsx";
 import Ashbringer  from "./pages/weapons/weapons-details/Ashbringer.tsx";
 import Sulfuras  from "./pages/weapons/weapons-details/Sulfuras.tsx";
 import Thunderfury  from "./pages/weapons/weapons-details/Thunderfury.tsx";
+import Atiesh  from "./pages/weapons/weapons-details/Atiesh.tsx";
 
 
 
@@ -157,6 +158,8 @@ createRoot(document.getElementById("root")!).render(
 				<Route path="weapons/legendary/weapons-details/ashbringer" element={<Ashbringer />} />
 				<Route path="weapons/legendary/weapons-details/sulfuras" element={<Sulfuras />} />
 				<Route path="weapons/legendary/weapons-details/thunderfury" element={<Thunderfury />} />
+				<Route path="weapons/legendary/weapons-details/atiesh" element={<Atiesh />} />
+
 
 
 				<Route path="armours/shields" element={<Shields />} />

@@ -1,4 +1,4 @@
-const Announcement = ({ home, warrior, druid, priest, mage, monk, hunter, demonHunter, paladin, awakener, rogue, deathKnight, warlock, shaman, oneHandedWeapons, twoHandedWeapons, rangeWeapons, legendaryWeapons, artefactWeapons, decorativeWeapons, ashbringer, sulfuras, thunderfury, armours, shields, cloaks, fishingRods, waterMounts, earthMounts, flyMounts, hordeGold, allianceGold, professions, alchemy, mining, engineering, leatherworking, blacksmithing, enchanting,  inscription, tailoring, skinning, herbalism, jewelcrafting, archaeology, riding, cooking, firstAid, fishing, junkyardTinkering, pvp, honour, arena, rbg, dungeons, mythic5, mythic10, mythic15, сlassic, burningCrusade, wrathOfTheLichKing, cataclysm, mistsOfPandaria, warlordsOfDraenor, legion, battleForAzeroth, shadowlands, dragonflight, warWithin, midnight, lastTitan, lvlUp, lvlUpBase, lvlUpExpert, lvlUpMaster, achievements, quests, equipments, mounts, raidsExplorer, legacy, greatFeats, warcraftReforged, wow, diablo, hearthstone, heroesStorm, starcraft, overwatch, wowCollectionEditions, diabloCollectionEditions  }) => {
+const Announcement = ({ home, warrior, druid, priest, mage, monk, hunter, demonHunter, paladin, awakener, rogue, deathKnight, warlock, shaman, oneHandedWeapons, twoHandedWeapons, rangeWeapons, legendaryWeapons, artefactWeapons, decorativeWeapons, ashbringer, sulfuras, thunderfury, atiesh, armours, shields, cloaks, fishingRods, waterMounts, earthMounts, flyMounts, hordeGold, allianceGold, professions, alchemy, mining, engineering, leatherworking, blacksmithing, enchanting,  inscription, tailoring, skinning, herbalism, jewelcrafting, archaeology, riding, cooking, firstAid, fishing, junkyardTinkering, pvp, honour, arena, rbg, dungeons, mythic5, mythic10, mythic15, сlassic, burningCrusade, wrathOfTheLichKing, cataclysm, mistsOfPandaria, warlordsOfDraenor, legion, battleForAzeroth, shadowlands, dragonflight, warWithin, midnight, lastTitan, lvlUp, lvlUpBase, lvlUpExpert, lvlUpMaster, achievements, quests, equipments, mounts, raidsExplorer, legacy, greatFeats, warcraftReforged, wow, diablo, hearthstone, heroesStorm, starcraft, overwatch, wowCollectionEditions, diabloCollectionEditions  }) => {
 	return (
 		<section className="announcement">
 			<div className="container">
@@ -53,7 +53,7 @@ const Announcement = ({ home, warrior, druid, priest, mage, monk, hunter, demonH
 							rangeWeapons
 								? "announcement__header announcement__header_range-weapons"
 								:
-							legendaryWeapons || ashbringer || sulfuras || thunderfury
+							legendaryWeapons || ashbringer || sulfuras || thunderfury || atiesh
 								? "announcement__header announcement__header_legendary-weapons"
 								:
 							artefactWeapons
@@ -203,6 +203,9 @@ const Announcement = ({ home, warrior, druid, priest, mage, monk, hunter, demonH
 								:
 							thunderfury
 								? "Громовая Ярость, благословенный клинок Искателя Ветра"
+								:
+							atiesh
+								? "Атиеш, великий посох Хранителя"
 								:
 							shields
 								? "Щиты"
@@ -467,6 +470,9 @@ const Announcement = ({ home, warrior, druid, priest, mage, monk, hunter, demonH
 								:
 							thunderfury
 								? "Во времена Битвы Элементалей, Принц Громораан, Искатель ветра, был повержен в бою Повелителем Огня Рагнаросом. Бывшие соратники Принца, Гарр и Барон Геддон, предали его и примкнули к Рагнаросу, став его лейтенантами. Рагнарос пытался уничтожить Принца Воздуха, но так и не смог. Однако он отобрал его силу и заключил ее в артефактах, наручниках, которые и отдал своим лейтенантам. Точное количество лет, прошедших с тех пор, стерлось из памяти смертных, однако на просторах Силитуса, где остался поверженный Принц, обосновался культ Сумеречного молота. Громораан безжалостно изничтожал его служителей, однако пожалел Демитриана, когда они сошлись в схватке. Этот человек оказался подающим большие надежды шаманом и Принц решил использовать его возможности в своих целях, чтобы тот помог ему вернуть былую мощь."
+								:
+							atiesh
+								? "Атиеш, легендарный посох Медива, служил не просто орудием, а проводником его магической мощи. Это был артефакт, чья сила не знала равных. Однако тень Падшего Титана Саргераса, что жила в теле мага, не могла не коснуться его главного инструмента. Тёмное влияние извратило природу посоха, наделив его искрой собственного разума и коварства. После гибели Медива Кирин Тор снарядил экспедицию в заброшенную крепость Каражан, где и был обнаружен Атиеш. Артефакт доставили в Даларан для изучения, но оно обернулось чередой загадочных смертей, каждый маг, входивший в контакт с посохом, вскоре погибал при странных обстоятельствах. Совет Шести приказал заключить его в магические барьеры и назначил постоянного наблюдателя. Судьба Атиеша вновь изменилась, когда полчища Пылающего Легиона во главе с Архимондом обрушились на Даларан. В хаосе разрушения сработали аварийные защитные системы, которые раздробили посох на множество фрагментов, чтобы его сила не досталась врагу. Таким образом, величайший артефакт эпохи остаётся разбросанным по миру."
 								:
 							shields
 								? "Щиты, воплощение несокрушимой воли и непоколебимой стойкости. Идеальный выбор тех, кто готов принять на себя любой удар, для защиты своих союзников. Каждый блок отражает смертоносные атаки, а враги ломают клинки о стальную преграду. Неважно, что перед тобой, огненная ярость дракона или сокрушительный удар титана, щит выстоит против любого натиска и станет непреодолимой стеной между угрозой и теми, кто под защитой!"

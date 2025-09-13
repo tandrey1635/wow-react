@@ -50,7 +50,7 @@
 	{
 		"id": "AtieshGreatstaffOfTheGuardian",
 		"className": "card-weapons card-weapons-legendary",
-		"path": "#",
+		"path": "weapons-details/atiesh",
 		"cardImg": "/src/assets/img/weapons/bg/legendary/Atiesh-Greatstaff-of the-Guardian.png",
 		"titleClassName": "card-title-weapons card-title-weapons-legendary",
 		"title": "Атиеш, великий посох Хранителя",
