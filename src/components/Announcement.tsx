@@ -1,4 +1,4 @@
-const Announcement = ({ home, warrior, druid, priest, mage, monk, hunter, demonHunter, paladin, awakener, rogue, deathKnight, warlock, shaman, oneHandedWeapons, twoHandedWeapons, rangeWeapons, legendaryWeapons, artefactWeapons, decorativeWeapons, ashbringer, sulfuras, thunderfury, atiesh, warglaivesOfAzzinoth, armours, shields, cloaks, fishingRods, waterMounts, earthMounts, flyMounts, hordeGold, allianceGold, professions, alchemy, mining, engineering, leatherworking, blacksmithing, enchanting,  inscription, tailoring, skinning, herbalism, jewelcrafting, archaeology, riding, cooking, firstAid, fishing, junkyardTinkering, pvp, honour, arena, rbg, dungeons, mythic5, mythic10, mythic15, сlassic, burningCrusade, wrathOfTheLichKing, cataclysm, mistsOfPandaria, warlordsOfDraenor, legion, battleForAzeroth, shadowlands, dragonflight, warWithin, midnight, lastTitan, lvlUp, lvlUpBase, lvlUpExpert, lvlUpMaster, achievements, quests, equipments, mounts, raidsExplorer, legacy, greatFeats, warcraftReforged, wow, diablo, hearthstone, heroesStorm, starcraft, overwatch, wowCollectionEditions, diabloCollectionEditions  }) => {
+const Announcement = ({ home, warrior, druid, priest, mage, monk, hunter, demonHunter, paladin, awakener, rogue, deathKnight, warlock, shaman, oneHandedWeapons, twoHandedWeapons, rangeWeapons, legendaryWeapons, artefactWeapons, decorativeWeapons, ashbringer, sulfuras, thunderfury, atiesh, warglaivesOfAzzinoth, thoridal, armours, shields, cloaks, fishingRods, waterMounts, earthMounts, flyMounts, hordeGold, allianceGold, professions, alchemy, mining, engineering, leatherworking, blacksmithing, enchanting,  inscription, tailoring, skinning, herbalism, jewelcrafting, archaeology, riding, cooking, firstAid, fishing, junkyardTinkering, pvp, honour, arena, rbg, dungeons, mythic5, mythic10, mythic15, сlassic, burningCrusade, wrathOfTheLichKing, cataclysm, mistsOfPandaria, warlordsOfDraenor, legion, battleForAzeroth, shadowlands, dragonflight, warWithin, midnight, lastTitan, lvlUp, lvlUpBase, lvlUpExpert, lvlUpMaster, achievements, quests, equipments, mounts, raidsExplorer, legacy, greatFeats, warcraftReforged, wow, diablo, hearthstone, heroesStorm, starcraft, overwatch, wowCollectionEditions, diabloCollectionEditions  }) => {
 	return (
 		<section className="announcement">
 			<div className="container">
@@ -53,7 +53,7 @@ const Announcement = ({ home, warrior, druid, priest, mage, monk, hunter, demonH
 							rangeWeapons
 								? "announcement__header announcement__header_range-weapons"
 								:
-							legendaryWeapons || ashbringer || sulfuras || thunderfury || atiesh || warglaivesOfAzzinoth
+							legendaryWeapons || ashbringer || sulfuras || thunderfury || atiesh || warglaivesOfAzzinoth || thoridal
 								? "announcement__header announcement__header_legendary-weapons"
 								:
 							artefactWeapons
@@ -206,6 +206,9 @@ const Announcement = ({ home, warrior, druid, priest, mage, monk, hunter, demonH
 								:
 							warglaivesOfAzzinoth
 								? "Боевые клинки Аззинота"
+								:
+							thoridal
+								? "Тори'дал, Звездная Ярость"
 								:
 							atiesh
 								? "Атиеш, великий посох Хранителя"
@@ -479,6 +482,9 @@ const Announcement = ({ home, warrior, druid, priest, mage, monk, hunter, demonH
 								:
 							warglaivesOfAzzinoth
 								? "Боевые клинки Аззинота, уникальное парное оружие, традиционное для охотников на демонов. Они изогнуты подобно серпу или полумесяцу, закреплены на центральной рукояти, что позволяет ловко вращать их в бою. При необходимости две отдельные глефы можно скрепить вместе, образуя мощное сдвоенное оружие. История этих клинков начинается с легендарной встречи Иллидана Ярости Бури с могущественным демоном по имени Аззинот. Одолев чудовище, Иллидан забрал его оружие в качестве трофея. На протяжении 10 000 лет изгнания он оттачивал мастерство владения глефами, и вскоре его имя стало синонимом самого оружия. Не найдя себе равных на просторах Азерота, он бежал на Дренор. Современные версии этого оружия, которые можно встретить в руках последователей Иллидана, часто украшены изящной гравировкой, напоминающей кленовый лист, символ стремительности и смертоносной точности."
+								:
+							thoridal
+								? "Происхождение Тори'дала, Звёздной Ярости, окутано тайной, что породило множество догадок. Вот три самые распространённые теории о его появлении. Согласно первой теории Тори'дал ничто иное, как само воплощение энергии Солнечного Колодца, ее физическое проявление. Он является сгустком чистой, необузданной магии, обретшей форму совершенного оружия в час величайшей нужды эльфов. Другая версия гласит, что лук принадлежал одному из безымянных героев ночных эльфов отряды которых принимали участие в Войне древних. Его имя и подвиги канули в лету, но легендарное оружие пережило тысячелетия, чтобы вновь явить свою силу. Наиболее популярная теория гласит что луком владела Аллерия Ветрокрылая. Предполагается, что именно с ним она входила в отряд армии Альянса, давший отпор демонам у Темного Портала, и продолжила свой крестовый поход на просторах Дренора даже после его разрушения. Каждая из теорий имеет право на существование, но правда скорее всего, так навсегда и останется загадкой."
 								:
 							shields
 								? "Щиты, воплощение несокрушимой воли и непоколебимой стойкости. Идеальный выбор тех, кто готов принять на себя любой удар, для защиты своих союзников. Каждый блок отражает смертоносные атаки, а враги ломают клинки о стальную преграду. Неважно, что перед тобой, огненная ярость дракона или сокрушительный удар титана, щит выстоит против любого натиска и станет непреодолимой стеной между угрозой и теми, кто под защитой!"

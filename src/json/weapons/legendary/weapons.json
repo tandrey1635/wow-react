@@ -82,7 +82,7 @@
 	{
 		"id": "ThoridalTheStarsFury",
 		"className": "card-weapons card-weapons-legendary",
-		"path": "#",
+		"path": "weapons-details/thoridal",
 		"cardImg": "/src/assets/img/weapons/bg/legendary/Thoridal-the-Stars-Fury.png",
 		"titleClassName": "card-title-weapons card-title-weapons-legendary",
 		"title": "Тори'дал, Звездная Ярость",

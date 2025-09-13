@@ -450,6 +450,9 @@ footer {
 .promo__raitings_warglaives-of-azzinoth {
   background: url("/src/assets/img/weapons/bg/legendary/Warglaives-of-Azzinoth.png") no-repeat center/contain;
 }
+.promo__raitings_thoridal {
+  background: url("/src/assets/img/weapons/bg/legendary/Thoridal-the-Stars-Fury.png") no-repeat center/contain;
+}
 .promo__raitings_shields {
   background: url("/src/assets/img/armours/bg/shields.png") no-repeat center/contain;
 }
