@@ -435,6 +435,9 @@ footer {
 .promo__raitings_decorative-weapons {
   background: url("/src/assets/img/weapons/bg/decorative.png") no-repeat center/contain;
 }
+.promo__raitings_ashbringer {
+  background: url("/src/assets/img/weapons/bg/legendary/Ashbringer.png") no-repeat center/contain;
+}
 .promo__raitings_shields {
   background: url("/src/assets/img/armours/bg/shields.png") no-repeat center/contain;
 }

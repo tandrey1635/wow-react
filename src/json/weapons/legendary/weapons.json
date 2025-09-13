@@ -2,10 +2,10 @@
 	{
 		"id": "Ashbringer",
 		"className": "card-weapons card-weapons-legendary",
-		"path": "#",
+		"path": "weapons-details/ashbringer",
 		"cardImg": "/src/assets/img/weapons/bg/legendary/Ashbringer.png",
 		"titleClassName": "card-title-weapons card-title-weapons-legendary",
-		"title": "Испепелитель ",
+		"title": "Испепелитель",
 		"descriptionClassName": "card-text-weapons card-text-weapons-legendary",
 		"description": "Закажите Испепелитель",
 		"priceClassName": "card-price-weapons card-price-weapons-legendary",

@@ -1,4 +1,4 @@
-const Announcement = ({ home, warrior, druid, priest, mage, monk, hunter, demonHunter, paladin, awakener, rogue, deathKnight, warlock, shaman, oneHandedWeapons, twoHandedWeapons, rangeWeapons, legendaryWeapons, artefactWeapons, decorativeWeapons, armours, shields, cloaks, fishingRods, waterMounts, earthMounts, flyMounts, hordeGold, allianceGold, professions, alchemy, mining, engineering, leatherworking, blacksmithing, enchanting,  inscription, tailoring, skinning, herbalism, jewelcrafting, archaeology, riding, cooking, firstAid, fishing, junkyardTinkering, pvp, honour, arena, rbg, dungeons, mythic5, mythic10, mythic15, сlassic, burningCrusade, wrathOfTheLichKing, cataclysm, mistsOfPandaria, warlordsOfDraenor, legion, battleForAzeroth, shadowlands, dragonflight, warWithin, midnight, lastTitan, lvlUp, lvlUpBase, lvlUpExpert, lvlUpMaster, achievements, quests, equipments, mounts, raidsExplorer, legacy, greatFeats, warcraftReforged, wow, diablo, hearthstone, heroesStorm, starcraft, overwatch, wowCollectionEditions, diabloCollectionEditions  }) => {
+const Announcement = ({ home, warrior, druid, priest, mage, monk, hunter, demonHunter, paladin, awakener, rogue, deathKnight, warlock, shaman, oneHandedWeapons, twoHandedWeapons, rangeWeapons, legendaryWeapons, artefactWeapons, decorativeWeapons, ashbringer, armours, shields, cloaks, fishingRods, waterMounts, earthMounts, flyMounts, hordeGold, allianceGold, professions, alchemy, mining, engineering, leatherworking, blacksmithing, enchanting,  inscription, tailoring, skinning, herbalism, jewelcrafting, archaeology, riding, cooking, firstAid, fishing, junkyardTinkering, pvp, honour, arena, rbg, dungeons, mythic5, mythic10, mythic15, сlassic, burningCrusade, wrathOfTheLichKing, cataclysm, mistsOfPandaria, warlordsOfDraenor, legion, battleForAzeroth, shadowlands, dragonflight, warWithin, midnight, lastTitan, lvlUp, lvlUpBase, lvlUpExpert, lvlUpMaster, achievements, quests, equipments, mounts, raidsExplorer, legacy, greatFeats, warcraftReforged, wow, diablo, hearthstone, heroesStorm, starcraft, overwatch, wowCollectionEditions, diabloCollectionEditions  }) => {
 	return (
 		<section className="announcement">
 			<div className="container">
@@ -53,7 +53,7 @@ const Announcement = ({ home, warrior, druid, priest, mage, monk, hunter, demonH
 							rangeWeapons
 								? "announcement__header announcement__header_range-weapons"
 								:
-							legendaryWeapons
+							legendaryWeapons || ashbringer
 								? "announcement__header announcement__header_legendary-weapons"
 								:
 							artefactWeapons
@@ -194,6 +194,9 @@ const Announcement = ({ home, warrior, druid, priest, mage, monk, hunter, demonH
 								:
 							decorativeWeapons
 								? "Декоративное оружие"
+								:
+							ashbringer
+								? "Испепелитель"
 								:
 							shields
 								? "Щиты"
@@ -449,6 +452,9 @@ const Announcement = ({ home, warrior, druid, priest, mage, monk, hunter, demonH
 								:
 							decorativeWeapons
 								? "Декоративное оружие, воплощение безупречной эстетики и высочайшего мастерства. Идеальный выбор тех, кто верит, что истинная сила в искусстве, способном остановить время. Один лишь взгляд рождает восхищение, а сердца ценителей замирают от одного прикосновения. Неважно, что перед тобой частная коллекция ценителя или парадный зал королевского дворца, декоративный клинок затмит всё своим великолепием, повествуя о легендах и мастерах минувших дней. Это не орудие битвы, а произведение искусства, чей удар направлен прямо в сердце ценителя!"
+								:
+							ashbringer
+								? "Во время исследования Черной горы Командующий Александрос Могрейн обнаружил на теле мертвого лейтенанта орков необычный кристалл. Он почувствовал темную мощь в необычном предмете, доставленном с далекой планеты Дренор. Воздействуя на него силами Света, кристалл не разрушился, а превратился в сильнейший артефакт Света. Вместе с королевским кузнецом Магни Бронзобородом они выковали величайший клинок своего времени. Меч получил свое название в честь своего первого владельца Александроса Могрейна, чья сила обращала живых мертвецов в пепел."
 								:
 							shields
 								? "Щиты, воплощение несокрушимой воли и непоколебимой стойкости. Идеальный выбор тех, кто готов принять на себя любой удар, для защиты своих союзников. Каждый блок отражает смертоносные атаки, а враги ломают клинки о стальную преграду. Неважно, что перед тобой, огненная ярость дракона или сокрушительный удар титана, щит выстоит против любого натиска и станет непреодолимой стеной между угрозой и теми, кто под защитой!"

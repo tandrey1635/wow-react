@@ -29,6 +29,11 @@ import ArtefactWeapons  from "./pages/weapons/Artefact.tsx";
 import DecorativeWeapons  from "./pages/weapons/Decorative.tsx";
 
 
+
+import Ashbringer  from "./pages/weapons/weapons-details/Ashbringer.tsx";
+
+
+
 import Cloaks  from "./pages/armours/Cloaks.tsx";
 import Shields  from "./pages/armours/Shields.tsx";
 import FishingRods  from "./pages/armours/FishingRods.tsx";
@@ -141,9 +146,13 @@ createRoot(document.getElementById("root")!).render(
 				<Route path="weapons/one-handed" element={<OneHandedWeapons />} />
 				<Route path="weapons/two-handed" element={<TwoHandedWeapons />} />
 				<Route path="weapons/range" element={<RangeWeapons />} />
+
 				<Route path="weapons/legendary" element={<LegendaryWeapons />} />
 				<Route path="weapons/artefact" element={<ArtefactWeapons />} />
 				<Route path="weapons/decorative" element={<DecorativeWeapons />} />
+
+
+				<Route path="weapons/legendary/weapons-details/ashbringer" element={<Ashbringer />} />
 
 
 				<Route path="armours/shields" element={<Shields />} />
