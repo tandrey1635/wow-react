@@ -441,6 +441,9 @@ footer {
 .promo__raitings_sulfuras {
   background: url("/src/assets/img/weapons/bg/legendary/Sulfuras-Hand-of-Ragnaros.png") no-repeat center/contain;
 }
+.promo__raitings_thunderfury {
+  background: url("/src/assets/img/weapons/bg/legendary/Thunderfury-Blessed-Blade-of the-Windseeker.png") no-repeat center/contain;
+}
 .promo__raitings_shields {
   background: url("/src/assets/img/armours/bg/shields.png") no-repeat center/contain;
 }

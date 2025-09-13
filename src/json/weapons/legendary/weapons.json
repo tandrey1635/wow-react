@@ -34,7 +34,7 @@
 	{
 		"id": "ThunderfuryBlessedBladeOfTheWindseeker",
 		"className": "card-weapons card-weapons-legendary",
-		"path": "#",
+		"path": "weapons-details/thunderfury",
 		"cardImg": "/src/assets/img/weapons/bg/legendary/Thunderfury-Blessed-Blade-of the-Windseeker.png",
 		"titleClassName": "card-title-weapons card-title-weapons-legendary",
 		"title": "Громовая Ярость, благословенный клинок Искателя Ветра",
