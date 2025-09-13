@@ -34,6 +34,8 @@ import Ashbringer  from "./pages/weapons/weapons-details/Ashbringer.tsx";
 import Sulfuras  from "./pages/weapons/weapons-details/Sulfuras.tsx";
 import Thunderfury  from "./pages/weapons/weapons-details/Thunderfury.tsx";
 import Atiesh  from "./pages/weapons/weapons-details/Atiesh.tsx";
+import WarglaivesOfAzzinoth  from "./pages/weapons/weapons-details/WarglaivesOfAzzinoth.tsx";
+
 
 
 
@@ -159,6 +161,7 @@ createRoot(document.getElementById("root")!).render(
 				<Route path="weapons/legendary/weapons-details/sulfuras" element={<Sulfuras />} />
 				<Route path="weapons/legendary/weapons-details/thunderfury" element={<Thunderfury />} />
 				<Route path="weapons/legendary/weapons-details/atiesh" element={<Atiesh />} />
+				<Route path="weapons/legendary/weapons-details/warglaives-of-azzinoth" element={<WarglaivesOfAzzinoth />} />
 
 
 

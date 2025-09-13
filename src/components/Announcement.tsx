@@ -1,4 +1,4 @@
-const Announcement = ({ home, warrior, druid, priest, mage, monk, hunter, demonHunter, paladin, awakener, rogue, deathKnight, warlock, shaman, oneHandedWeapons, twoHandedWeapons, rangeWeapons, legendaryWeapons, artefactWeapons, decorativeWeapons, ashbringer, sulfuras, thunderfury, atiesh, armours, shields, cloaks, fishingRods, waterMounts, earthMounts, flyMounts, hordeGold, allianceGold, professions, alchemy, mining, engineering, leatherworking, blacksmithing, enchanting,  inscription, tailoring, skinning, herbalism, jewelcrafting, archaeology, riding, cooking, firstAid, fishing, junkyardTinkering, pvp, honour, arena, rbg, dungeons, mythic5, mythic10, mythic15, сlassic, burningCrusade, wrathOfTheLichKing, cataclysm, mistsOfPandaria, warlordsOfDraenor, legion, battleForAzeroth, shadowlands, dragonflight, warWithin, midnight, lastTitan, lvlUp, lvlUpBase, lvlUpExpert, lvlUpMaster, achievements, quests, equipments, mounts, raidsExplorer, legacy, greatFeats, warcraftReforged, wow, diablo, hearthstone, heroesStorm, starcraft, overwatch, wowCollectionEditions, diabloCollectionEditions  }) => {
+const Announcement = ({ home, warrior, druid, priest, mage, monk, hunter, demonHunter, paladin, awakener, rogue, deathKnight, warlock, shaman, oneHandedWeapons, twoHandedWeapons, rangeWeapons, legendaryWeapons, artefactWeapons, decorativeWeapons, ashbringer, sulfuras, thunderfury, atiesh, warglaivesOfAzzinoth, armours, shields, cloaks, fishingRods, waterMounts, earthMounts, flyMounts, hordeGold, allianceGold, professions, alchemy, mining, engineering, leatherworking, blacksmithing, enchanting,  inscription, tailoring, skinning, herbalism, jewelcrafting, archaeology, riding, cooking, firstAid, fishing, junkyardTinkering, pvp, honour, arena, rbg, dungeons, mythic5, mythic10, mythic15, сlassic, burningCrusade, wrathOfTheLichKing, cataclysm, mistsOfPandaria, warlordsOfDraenor, legion, battleForAzeroth, shadowlands, dragonflight, warWithin, midnight, lastTitan, lvlUp, lvlUpBase, lvlUpExpert, lvlUpMaster, achievements, quests, equipments, mounts, raidsExplorer, legacy, greatFeats, warcraftReforged, wow, diablo, hearthstone, heroesStorm, starcraft, overwatch, wowCollectionEditions, diabloCollectionEditions  }) => {
 	return (
 		<section className="announcement">
 			<div className="container">
@@ -53,7 +53,7 @@ const Announcement = ({ home, warrior, druid, priest, mage, monk, hunter, demonH
 							rangeWeapons
 								? "announcement__header announcement__header_range-weapons"
 								:
-							legendaryWeapons || ashbringer || sulfuras || thunderfury || atiesh
+							legendaryWeapons || ashbringer || sulfuras || thunderfury || atiesh || warglaivesOfAzzinoth
 								? "announcement__header announcement__header_legendary-weapons"
 								:
 							artefactWeapons
@@ -203,6 +203,9 @@ const Announcement = ({ home, warrior, druid, priest, mage, monk, hunter, demonH
 								:
 							thunderfury
 								? "Громовая Ярость, благословенный клинок Искателя Ветра"
+								:
+							warglaivesOfAzzinoth
+								? "Боевые клинки Аззинота"
 								:
 							atiesh
 								? "Атиеш, великий посох Хранителя"
@@ -473,6 +476,9 @@ const Announcement = ({ home, warrior, druid, priest, mage, monk, hunter, demonH
 								:
 							atiesh
 								? "Атиеш, легендарный посох Медива, служил не просто орудием, а проводником его магической мощи. Это был артефакт, чья сила не знала равных. Однако тень Падшего Титана Саргераса, что жила в теле мага, не могла не коснуться его главного инструмента. Тёмное влияние извратило природу посоха, наделив его искрой собственного разума и коварства. После гибели Медива Кирин Тор снарядил экспедицию в заброшенную крепость Каражан, где и был обнаружен Атиеш. Артефакт доставили в Даларан для изучения, но оно обернулось чередой загадочных смертей, каждый маг, входивший в контакт с посохом, вскоре погибал при странных обстоятельствах. Совет Шести приказал заключить его в магические барьеры и назначил постоянного наблюдателя. Судьба Атиеша вновь изменилась, когда полчища Пылающего Легиона во главе с Архимондом обрушились на Даларан. В хаосе разрушения сработали аварийные защитные системы, которые раздробили посох на множество фрагментов, чтобы его сила не досталась врагу. Таким образом, величайший артефакт эпохи остаётся разбросанным по миру."
+								:
+							warglaivesOfAzzinoth
+								? "Боевые клинки Аззинота, уникальное парное оружие, традиционное для охотников на демонов. Они изогнуты подобно серпу или полумесяцу, закреплены на центральной рукояти, что позволяет ловко вращать их в бою. При необходимости две отдельные глефы можно скрепить вместе, образуя мощное сдвоенное оружие. История этих клинков начинается с легендарной встречи Иллидана Ярости Бури с могущественным демоном по имени Аззинот. Одолев чудовище, Иллидан забрал его оружие в качестве трофея. На протяжении 10 000 лет изгнания он оттачивал мастерство владения глефами, и вскоре его имя стало синонимом самого оружия. Не найдя себе равных на просторах Азерота, он бежал на Дренор. Современные версии этого оружия, которые можно встретить в руках последователей Иллидана, часто украшены изящной гравировкой, напоминающей кленовый лист, символ стремительности и смертоносной точности."
 								:
 							shields
 								? "Щиты, воплощение несокрушимой воли и непоколебимой стойкости. Идеальный выбор тех, кто готов принять на себя любой удар, для защиты своих союзников. Каждый блок отражает смертоносные атаки, а враги ломают клинки о стальную преграду. Неважно, что перед тобой, огненная ярость дракона или сокрушительный удар титана, щит выстоит против любого натиска и станет непреодолимой стеной между угрозой и теми, кто под защитой!"

@@ -51,7 +51,7 @@
 		"id": "AtieshGreatstaffOfTheGuardian",
 		"className": "card-weapons card-weapons-legendary",
 		"path": "weapons-details/atiesh",
-		"cardImg": "/src/assets/img/weapons/bg/legendary/Atiesh-Greatstaff-of the-Guardian.png",
+		"cardImg": "/src/assets/img/weapons/bg/legendary/Atiesh-Greatstaff-of-the-Guardian.png",
 		"titleClassName": "card-title-weapons card-title-weapons-legendary",
 		"title": "Атиеш, великий посох Хранителя",
 		"descriptionClassName": "card-text-weapons card-text-weapons-legendary",
@@ -66,7 +66,7 @@
 	{
 		"id": "WarglaivesOfAzzinoth",
 		"className": "card-weapons card-weapons-legendary",
-		"path": "#",
+		"path": "weapons-details/warglaives-of-azzinoth",
 		"cardImg": "/src/assets/img/weapons/bg/legendary/Warglaives-of-Azzinoth.png",
 		"titleClassName": "card-title-weapons card-title-weapons-legendary",
 		"title": "Боевые клинки Аззинота",
