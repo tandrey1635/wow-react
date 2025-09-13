@@ -176,10 +176,10 @@
 	},
 
 	{
-		"id": "",
+		"id": "FyralathTheDreamrender",
 		"className": "card-weapons card-weapons-legendary",
 		"path": "#",
-		"cardImg": "/src/assets/img/weapons/bg/.png",
+		"cardImg": "/src/assets/img/weapons/bg/legendary/Fyralath-the-Dreamrender.png",
 		"titleClassName": "card-title-weapons card-title-weapons-legendary",
 		"title": "Фир'алат Воздаятель Снов",
 		"descriptionClassName": "card-text-weapons card-text-weapons-legendary",
@@ -192,10 +192,10 @@
 	},
 
 	{
-		"id": "",
+		"id": "NaszuroTheUnboundLegacy",
 		"className": "card-weapons card-weapons-legendary",
 		"path": "#",
-		"cardImg": "/src/assets/img/weapons/bg/legendary/.png",
+		"cardImg": "/src/assets/img/weapons/bg/legendary/Naszuro-the-Unbound-Legacy.png",
 		"titleClassName": "card-title-weapons card-title-weapons-legendary",
 		"title": "Наз'уро, Высвобожденное Наследие",
 		"descriptionClassName": "card-text-weapons card-text-weapons-legendary",
