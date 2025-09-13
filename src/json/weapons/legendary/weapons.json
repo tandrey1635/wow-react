@@ -1,6 +1,6 @@
 [
 	{
-		"id": "",
+		"id": "Ashbringer",
 		"className": "card-weapons card-weapons-legendary",
 		"path": "#",
 		"cardImg": "/src/assets/img/weapons/bg/legendary/Ashbringer.png",
@@ -16,7 +16,7 @@
 	},
 
 	{
-		"id": "",
+		"id": "SulfurasHandOfRagnaros",
 		"className": "card-weapons card-weapons-legendary",
 		"path": "#",
 		"cardImg": "/src/assets/img/weapons/bg/legendary/Sulfuras-Hand-of-Ragnaros.png",
@@ -48,7 +48,7 @@
 	},
 
 	{
-		"id": "",
+		"id": "AtieshGreatstaffOfTheGuardian",
 		"className": "card-weapons card-weapons-legendary",
 		"path": "#",
 		"cardImg": "/src/assets/img/weapons/bg/legendary/Atiesh-Greatstaff-of the-Guardian.png",
@@ -64,64 +64,64 @@
 	},
 
 	{
-		"id": "",
+		"id": "WarglaivesOfAzzinoth",
 		"className": "card-weapons card-weapons-legendary",
 		"path": "#",
-		"cardImg": "/src/assets/img/weapons/bg/.png",
+		"cardImg": "/src/assets/img/weapons/bg/legendary/Warglaives-of-Azzinoth.png",
 		"titleClassName": "card-title-weapons card-title-weapons-legendary",
 		"title": "Боевые клинки Аззинота",
 		"descriptionClassName": "card-text-weapons card-text-weapons-legendary",
 		"description": "Закажите Боевые клинки Аззинота",
 		"priceClassName": "card-price-weapons card-price-weapons-legendary",
-		"price": 500,
+		"price": 600,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
 		"priceAlt": "$",
 		"btn": "Подробнее"
 	},
 
 	{
-		"id": "",
+		"id": "ThoridalTheStarsFury",
 		"className": "card-weapons card-weapons-legendary",
 		"path": "#",
-		"cardImg": "/src/assets/img/weapons/bg/.png",
+		"cardImg": "/src/assets/img/weapons/bg/legendary/Thoridal-the-Stars-Fury.png",
 		"titleClassName": "card-title-weapons card-title-weapons-legendary",
 		"title": "Тори'дал, Звездная Ярость",
 		"descriptionClassName": "card-text-weapons card-text-weapons-legendary",
 		"description": "Закажите Тори'дал, Звездную Ярость",
 		"priceClassName": "card-price-weapons card-price-weapons-legendary",
-		"price": 500,
+		"price": 600,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
 		"priceAlt": "$",
 		"btn": "Подробнее"
 	},
 
 	{
-		"id": "",
+		"id": "ValanyrHammerOfAncientKings",
 		"className": "card-weapons card-weapons-legendary",
 		"path": "#",
-		"cardImg": "/src/assets/img/weapons/bg/.png",
+		"cardImg": "/src/assets/img/weapons/bg/legendary/Valanyr-Hammer-of-Ancient-Kings.png",
 		"titleClassName": "card-title-weapons card-title-weapons-legendary",
 		"title": "Вал'анир, молот древних королей",
 		"descriptionClassName": "card-text-weapons card-text-weapons-legendary",
-		"description": "Добавить описание",
+		"description": "Закажите Вал'анир, молот древних королей",
 		"priceClassName": "card-price-weapons card-price-weapons-legendary",
-		"price": 500,
+		"price": 700,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
 		"priceAlt": "$",
 		"btn": "Подробнее"
 	},
 
 	{
-		"id": "",
+		"id": "Shadowmourne",
 		"className": "card-weapons card-weapons-legendary",
 		"path": "#",
-		"cardImg": "/src/assets/img/weapons/bg/.png",
+		"cardImg": "/src/assets/img/weapons/bg/legendary/Shadowmourne.png",
 		"titleClassName": "card-title-weapons card-title-weapons-legendary",
 		"title": "Темная Скорбь",
 		"descriptionClassName": "card-text-weapons card-text-weapons-legendary",
-		"description": "Добавить описание",
+		"description": "Закажите Темную Скорбь",
 		"priceClassName": "card-price-weapons card-price-weapons-legendary",
-		"price": 500,
+		"price": 700,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
 		"priceAlt": "$",
 		"btn": "Подробнее"
@@ -135,9 +135,9 @@
 		"titleClassName": "card-title-weapons card-title-weapons-legendary",
 		"title": "Гнев Дракона, вечный покой Таресгосы",
 		"descriptionClassName": "card-text-weapons card-text-weapons-legendary",
-		"description": "Добавить описание",
+		"description": "Закажите",
 		"priceClassName": "card-price-weapons card-price-weapons-legendary",
-		"price": 500,
+		"price": 800,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
 		"priceAlt": "$",
 		"btn": "Подробнее"
@@ -153,7 +153,7 @@
 		"descriptionClassName": "card-text-weapons card-text-weapons-legendary",
 		"description": "Добавить описание",
 		"priceClassName": "card-price-weapons card-price-weapons-legendary",
-		"price": 500,
+		"price": 800,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
 		"priceAlt": "$",
 		"btn": "Подробнее"
