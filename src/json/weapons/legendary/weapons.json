@@ -18,7 +18,7 @@
 	{
 		"id": "SulfurasHandOfRagnaros",
 		"className": "card-weapons card-weapons-legendary",
-		"path": "#",
+		"path": "weapons-details/sulfuras",
 		"cardImg": "/src/assets/img/weapons/bg/legendary/Sulfuras-Hand-of-Ragnaros.png",
 		"titleClassName": "card-title-weapons card-title-weapons-legendary",
 		"title": "Сульфурас, Рука Рагнароса",

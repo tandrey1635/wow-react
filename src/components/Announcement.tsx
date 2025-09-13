@@ -1,4 +1,4 @@
-const Announcement = ({ home, warrior, druid, priest, mage, monk, hunter, demonHunter, paladin, awakener, rogue, deathKnight, warlock, shaman, oneHandedWeapons, twoHandedWeapons, rangeWeapons, legendaryWeapons, artefactWeapons, decorativeWeapons, ashbringer, armours, shields, cloaks, fishingRods, waterMounts, earthMounts, flyMounts, hordeGold, allianceGold, professions, alchemy, mining, engineering, leatherworking, blacksmithing, enchanting,  inscription, tailoring, skinning, herbalism, jewelcrafting, archaeology, riding, cooking, firstAid, fishing, junkyardTinkering, pvp, honour, arena, rbg, dungeons, mythic5, mythic10, mythic15, сlassic, burningCrusade, wrathOfTheLichKing, cataclysm, mistsOfPandaria, warlordsOfDraenor, legion, battleForAzeroth, shadowlands, dragonflight, warWithin, midnight, lastTitan, lvlUp, lvlUpBase, lvlUpExpert, lvlUpMaster, achievements, quests, equipments, mounts, raidsExplorer, legacy, greatFeats, warcraftReforged, wow, diablo, hearthstone, heroesStorm, starcraft, overwatch, wowCollectionEditions, diabloCollectionEditions  }) => {
+const Announcement = ({ home, warrior, druid, priest, mage, monk, hunter, demonHunter, paladin, awakener, rogue, deathKnight, warlock, shaman, oneHandedWeapons, twoHandedWeapons, rangeWeapons, legendaryWeapons, artefactWeapons, decorativeWeapons, ashbringer, sulfuras, armours, shields, cloaks, fishingRods, waterMounts, earthMounts, flyMounts, hordeGold, allianceGold, professions, alchemy, mining, engineering, leatherworking, blacksmithing, enchanting,  inscription, tailoring, skinning, herbalism, jewelcrafting, archaeology, riding, cooking, firstAid, fishing, junkyardTinkering, pvp, honour, arena, rbg, dungeons, mythic5, mythic10, mythic15, сlassic, burningCrusade, wrathOfTheLichKing, cataclysm, mistsOfPandaria, warlordsOfDraenor, legion, battleForAzeroth, shadowlands, dragonflight, warWithin, midnight, lastTitan, lvlUp, lvlUpBase, lvlUpExpert, lvlUpMaster, achievements, quests, equipments, mounts, raidsExplorer, legacy, greatFeats, warcraftReforged, wow, diablo, hearthstone, heroesStorm, starcraft, overwatch, wowCollectionEditions, diabloCollectionEditions  }) => {
 	return (
 		<section className="announcement">
 			<div className="container">
@@ -53,7 +53,7 @@ const Announcement = ({ home, warrior, druid, priest, mage, monk, hunter, demonH
 							rangeWeapons
 								? "announcement__header announcement__header_range-weapons"
 								:
-							legendaryWeapons || ashbringer
+							legendaryWeapons || ashbringer || sulfuras
 								? "announcement__header announcement__header_legendary-weapons"
 								:
 							artefactWeapons
@@ -197,6 +197,9 @@ const Announcement = ({ home, warrior, druid, priest, mage, monk, hunter, demonH
 								:
 							ashbringer
 								? "Испепелитель"
+								:
+							sulfuras
+								? "Сульфурас, Рука Рагнароса"
 								:
 							shields
 								? "Щиты"
@@ -455,6 +458,9 @@ const Announcement = ({ home, warrior, druid, priest, mage, monk, hunter, demonH
 								:
 							ashbringer
 								? "Во время исследования Черной горы Командующий Александрос Могрейн обнаружил на теле мертвого лейтенанта орков необычный кристалл. Он почувствовал темную мощь в необычном предмете, доставленном с далекой планеты Дренор. Воздействуя на него силами Света, кристалл не разрушился, а превратился в сильнейший артефакт Света. Вместе с королевским кузнецом Магни Бронзобородом они выковали величайший клинок своего времени. Меч получил свое название в честь своего первого владельца Александроса Могрейна, чья сила обращала живых мертвецов в пепел."
+								:
+							sulfuras
+								? "Сульфурас, могущественное оружие Рагнароса, Повелителя Огня. Он покрыт элементиумом, а его глаз заключен глубоко в основе молота. Поверхность оружия гравирована плавно перетекающими рунами. Легендарный молот покрыт шипами разных размеров и имеет высокую температуру. Он невероятно массивный, даже слишком массивный для большинства смертных Азерота. Когда какое-либо существо умирает от Сульфураса, тело жертвы воспламеняется, оставляя только груду пепла. Пепел трансформируется в твердый и темный кристалл. Этот кристалл известен как глаз Сульфураса и используется последователями Рагнароса в древних ритуалах."
 								:
 							shields
 								? "Щиты, воплощение несокрушимой воли и непоколебимой стойкости. Идеальный выбор тех, кто готов принять на себя любой удар, для защиты своих союзников. Каждый блок отражает смертоносные атаки, а враги ломают клинки о стальную преграду. Неважно, что перед тобой, огненная ярость дракона или сокрушительный удар титана, щит выстоит против любого натиска и станет непреодолимой стеной между угрозой и теми, кто под защитой!"

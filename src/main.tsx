@@ -31,6 +31,7 @@ import DecorativeWeapons  from "./pages/weapons/Decorative.tsx";
 
 
 import Ashbringer  from "./pages/weapons/weapons-details/Ashbringer.tsx";
+import Sulfuras  from "./pages/weapons/weapons-details/Sulfuras.tsx";
 
 
 
@@ -153,6 +154,7 @@ createRoot(document.getElementById("root")!).render(
 
 
 				<Route path="weapons/legendary/weapons-details/ashbringer" element={<Ashbringer />} />
+				<Route path="weapons/legendary/weapons-details/sulfuras" element={<Sulfuras />} />
 
 
 				<Route path="armours/shields" element={<Shields />} />
