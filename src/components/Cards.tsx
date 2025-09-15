@@ -1134,7 +1134,7 @@ const Card = ({home, raidsArmourWarrior, legendaryWeapons, classes, classic, bur
 						<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
 							<div className="card card-raids-battle-for-azeroth">
 								<a href="">
-									<img src="" className="card-img card-img-tiers" alt="" />
+									<img src="/src/assets/img/raids/bg/battle-for-azeroth/Uldir.jpg" className="card-img card-img-tiers" alt="" />
 								</a>
 								<div className="card-body">
 									<a className="card-link" href="">
@@ -1151,7 +1151,7 @@ const Card = ({home, raidsArmourWarrior, legendaryWeapons, classes, classic, bur
 
 							<div className="card card-raids-battle-for-azeroth">
 								<a href="">
-									<img src="" className="card-img card-img-tiers" alt="" />
+									<img src="/src/assets/img/raids/bg/battle-for-azeroth/Battle-of-Dazaralor.jpg" className="card-img card-img-tiers" alt="" />
 								</a>
 								<div className="card-body">
 									<a className="card-link" href="">
@@ -1168,13 +1168,13 @@ const Card = ({home, raidsArmourWarrior, legendaryWeapons, classes, classic, bur
 
 							<div className="card card-raids-battle-for-azeroth">
 								<a href="">
-									<img src="" className="card-img card-img-tiers" alt="" />
+									<img src="/src/assets/img/raids/bg/battle-for-azeroth/Crucible-of-Storms.jpg" className="card-img card-img-tiers" alt="" />
 								</a>
 								<div className="card-body">
 									<a className="card-link" href="">
-										<h3 className="card-title card-title-raids-battle-for-azeroth">Горонило Штормов</h3>
+										<h3 className="card-title card-title-raids-battle-for-azeroth">Горнило Штормов</h3>
 									</a>
-									<p className="card-text card-text-raids-battle-for-azeroth">Закажите гарантированное прохождение рейда <span className="card-text-raids-battle-for-azeroth_color">Горонило Штормов</span>
+									<p className="card-text card-text-raids-battle-for-azeroth">Закажите гарантированное прохождение рейда <span className="card-text-raids-battle-for-azeroth_color">Горнило Штормов</span>
 									</p>
 								</div>
 								<div className="card-footer d-flex justify-content-between align-items-center">
@@ -1185,7 +1185,7 @@ const Card = ({home, raidsArmourWarrior, legendaryWeapons, classes, classic, bur
 
 							<div className="card card-raids-battle-for-azeroth">
 								<a href="">
-									<img src="" className="card-img card-img-tiers" alt="" />
+									<img src="/src/assets/img/raids/bg/battle-for-azeroth/Eternal-Palace.jpg" className="card-img card-img-tiers" alt="" />
 								</a>
 								<div className="card-body">
 									<a className="card-link" href="">
@@ -1202,13 +1202,13 @@ const Card = ({home, raidsArmourWarrior, legendaryWeapons, classes, classic, bur
 
 							<div className="card card-raids-battle-for-azeroth">
 								<a href="">
-									<img src="" className="card-img card-img-tiers" alt="" />
+									<img src="/src/assets/img/raids/bg/battle-for-azeroth/Nyalotha-the-Waking-City.jpg" className="card-img card-img-tiers" alt="" />
 								</a>
 								<div className="card-body">
 									<a className="card-link" href="">
-										<h3 className="card-title card-title-raids-battle-for-azeroth">Ни'алота</h3>
+										<h3 className="card-title card-title-raids-battle-for-azeroth">Ни'алота, Пробуждающийся Город</h3>
 									</a>
-									<p className="card-text card-text-raids-battle-for-azeroth">Закажите гарантированное прохождение рейда <span className="card-text-raids-battle-for-azeroth_color">Ни'алота</span>
+									<p className="card-text card-text-raids-battle-for-azeroth">Закажите гарантированное прохождение рейда <span className="card-text-raids-battle-for-azeroth_color">Ни'алота, Пробуждающийся Город</span>
 									</p>
 								</div>
 								<div className="card-footer d-flex justify-content-between align-items-center">
