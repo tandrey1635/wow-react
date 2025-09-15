@@ -1223,7 +1223,7 @@ const Card = ({home, raidsArmourWarrior, legendaryWeapons, classes, classic, bur
 						<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
 							<div className="card card-raids-shadowlands">
 								<a href="">
-									<img src="/public/src/assets/img/raids/bg/shadowlands/Castle-Nathria.jpg" className="card-img card-img-tiers" alt="" />
+									<img src="/src/assets/img/raids/bg/shadowlands/Castle-Nathria.jpg" className="card-img card-img-tiers" alt="" />
 								</a>
 								<div className="card-body">
 									<a className="card-link" href="">
@@ -1240,7 +1240,7 @@ const Card = ({home, raidsArmourWarrior, legendaryWeapons, classes, classic, bur
 
 							<div className="card card-raids-shadowlands">
 								<a href="">
-									<img src="/public/src/assets/img/raids/bg/shadowlands/Sanctum-of-Domination.jpg" className="card-img card-img-tiers" alt="" />
+									<img src="/src/assets/img/raids/bg/shadowlands/Sanctum-of-Domination.jpg" className="card-img card-img-tiers" alt="" />
 								</a>
 								<div className="card-body">
 									<a className="card-link" href="">
