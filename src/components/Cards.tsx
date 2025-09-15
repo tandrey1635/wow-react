@@ -15,6 +15,7 @@ import dataWrathOfTheLichKingRaids from '../json/raids/wrath-of-the-lich-king/ra
 import dataCataclysmRaids from '../json/raids/cataclysm/raids.json'
 import dataMistsOfPandariaRaids from '../json/raids/mists-of-pandaria/raids.json'
 import dataWarlordsOfDraenorRaids from '../json/raids/warlords-of-draenor/raids.json'
+import dataShadowlandsRaids from '../json/raids/shadowlands/raids.json'
 import dataDragonflightRaids from '../json/raids/dragonflight/raids.json'
 import dataMidnightRaids from '../json/raids/midnight/raids.json'
 import dataLastTitanRaids from '../json/raids/last-titan/raids.json'
@@ -419,6 +420,30 @@ const Card = ({home, raidsArmourWarrior, legendaryWeapons, classes, classic, bur
 	})
 
 	const warlordsOfDraenorRaids = dataWarlordsOfDraenorRaids.map(card=>{
+		return (
+			<div key={card.id} className={`card ${card.className}`}>
+				<Link to={card.path}>
+					<img src={card.cardImg} className={`card-img ${card.cardImgClassName}`}  alt={card.description} />
+				</Link>
+				<div className="card-body">
+					<Link className="card-link" to={card.path}>
+						<h3 className={`card-title ${card.titleClassName}`}>{card.title}</h3>
+					</Link>
+					<p className={`card-text ${card.descriptionClassName}`}>{card.description} <span className={card.spanClassname}>{card.title}</span>
+					</p>
+				</div>
+				<div className="card-footer d-flex justify-content-between align-items-center">
+					<p className={`card-price ${card.priceClassName}`}>
+						от {card.price}
+						<img className="dollar" src={card.priceImg} alt={dollarAlt} />
+					</p>
+					<Link to={card.path} className="card-btn">{card.btn}</Link>
+				</div>
+			</div>
+		)
+	})
+
+	const shadowlandsRaids = dataShadowlandsRaids.map(card=>{
 		return (
 			<div key={card.id} className={`card ${card.className}`}>
 				<Link to={card.path}>
@@ -1221,56 +1246,7 @@ const Card = ({home, raidsArmourWarrior, legendaryWeapons, classes, classic, bur
 
 					{ shadowlands &&
 						<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-							<div className="card card-raids-shadowlands">
-								<a href="">
-									<img src="/src/assets/img/raids/bg/shadowlands/Castle-Nathria.jpg" className="card-img card-img-tiers" alt="" />
-								</a>
-								<div className="card-body">
-									<a className="card-link" href="">
-										<h3 className="card-title card-title-raids-shadowlands">Замок Нафрия</h3>
-									</a>
-									<p className="card-text card-text-raids-shadowlands">Закажите гарантированное прохождение рейда <span className="card-text-raids-shadowlands_color">Замок Нафрия</span>
-									</p>
-								</div>
-								<div className="card-footer d-flex justify-content-between align-items-center">
-									<p className="card-price card-price-raids-shadowlands">от 450<img className="dollar" src={dollarImg} alt="dollar" /></p>
-									<a href="" className="card-btn card-btn-tiers">Подробнее</a>
-								</div>
-							</div>
-
-							<div className="card card-raids-shadowlands">
-								<a href="">
-									<img src="/src/assets/img/raids/bg/shadowlands/Sanctum-of-Domination.jpg" className="card-img card-img-tiers" alt="" />
-								</a>
-								<div className="card-body">
-									<a className="card-link" href="">
-										<h3 className="card-title card-title-raids-shadowlands">Святилище Господства</h3>
-									</a>
-									<p className="card-text card-text-raids-shadowlands">Закажите гарантированное прохождение рейда <span className="card-text-raids-shadowlands_color">Святилище Господства</span>
-									</p>
-								</div>
-								<div className="card-footer d-flex justify-content-between align-items-center">
-									<p className="card-price card-price-raids-shadowlands">от 470<img className="dollar" src={dollarImg} alt="dollar" /></p>
-									<a href="" className="card-btn card-btn-tiers">Подробнее</a>
-								</div>
-							</div>
-
-							<div className="card card-raids-shadowlands">
-								<a href="">
-									<img src="/src/assets/img/raids/bg/shadowlands/Sepulcher-of-the-First-Ones.jpg" className="card-img card-img-tiers" alt="" />
-								</a>
-								<div className="card-body">
-									<a className="card-link" href="">
-										<h3 className="card-title card-title-raids-shadowlands">Гробница Предвечных</h3>
-									</a>
-									<p className="card-text card-text-raids-shadowlands">Закажите гарантированное прохождение рейда <span className="card-text-raids-shadowlands_color">Гробница Предвечных</span>
-									</p>
-								</div>
-								<div className="card-footer d-flex justify-content-between align-items-center">
-									<p className="card-price card-price-raids-shadowlands">от 490<img className="dollar" src={dollarImg} alt="dollar" /></p>
-									<a href="" className="card-btn card-btn-tiers">Подробнее</a>
-								</div>
-							</div>
+							{ shadowlandsRaids }
 						</div>
 					}
 
