@@ -16,6 +16,7 @@ import dataCataclysmRaids from '../json/raids/cataclysm/raids.json'
 import dataMistsOfPandariaRaids from '../json/raids/mists-of-pandaria/raids.json'
 import dataWarlordsOfDraenorRaids from '../json/raids/warlords-of-draenor/raids.json'
 import dataLegionRaids from '../json/raids/legion/raids.json'
+import dataBattleForAzerothRaids from '../json/raids/battle-for-azeroth/raids.json'
 import dataShadowlandsRaids from '../json/raids/shadowlands/raids.json'
 import dataDragonflightRaids from '../json/raids/dragonflight/raids.json'
 import dataMidnightRaids from '../json/raids/midnight/raids.json'
@@ -131,8 +132,6 @@ const Card = ({home, raidsArmourWarrior, legendaryWeapons, classes, classic, bur
 			</div>
 		)
 	})
-
-
 
 	const classesArtefact = dataClasses.map(card=>{
 		return (
@@ -468,7 +467,29 @@ const Card = ({home, raidsArmourWarrior, legendaryWeapons, classes, classic, bur
 		)
 	})
 
-
+	const battleForAzerothRaids = dataBattleForAzerothRaids.map(card=>{
+		return (
+			<div key={card.id} className={`card ${card.className}`}>
+				<Link to={card.path}>
+					<img src={card.cardImg} className={`card-img ${card.cardImgClassName}`}  alt={card.description} />
+				</Link>
+				<div className="card-body">
+					<Link className="card-link" to={card.path}>
+						<h3 className={`card-title ${card.titleClassName}`}>{card.title}</h3>
+					</Link>
+					<p className={`card-text ${card.descriptionClassName}`}>{card.description} <span className={card.spanClassname}>{card.title}</span>
+					</p>
+				</div>
+				<div className="card-footer d-flex justify-content-between align-items-center">
+					<p className={`card-price ${card.priceClassName}`}>
+						от {card.price}
+						<img className="dollar" src={card.priceImg} alt={dollarAlt} />
+					</p>
+					<Link to={card.path} className="card-btn">{card.btn}</Link>
+				</div>
+			</div>
+		)
+	})
 
 	const shadowlandsRaids = dataShadowlandsRaids.map(card=>{
 		return (
@@ -1101,90 +1122,7 @@ const Card = ({home, raidsArmourWarrior, legendaryWeapons, classes, classic, bur
 
 					{ battleForAzeroth &&
 						<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-							<div className="card card-raids-battle-for-azeroth">
-								<a href="">
-									<img src="/src/assets/img/raids/bg/battle-for-azeroth/Uldir.jpg" className="card-img card-img-tiers" alt="" />
-								</a>
-								<div className="card-body">
-									<a className="card-link" href="">
-										<h3 className="card-title card-title-raids-battle-for-azeroth">Ульдир</h3>
-									</a>
-									<p className="card-text card-text-raids-battle-for-azeroth">Закажите гарантированное прохождение рейда <span className="card-text-raids-battle-for-azeroth_color">Ульдир</span>
-									</p>
-								</div>
-								<div className="card-footer d-flex justify-content-between align-items-center">
-									<p className="card-price card-price-raids-battle-for-azeroth">от 400<img className="dollar" src={dollarImg} alt="dollar" /></p>
-									<a href="" className="card-btn card-btn-tiers">Подробнее</a>
-								</div>
-							</div>
-
-							<div className="card card-raids-battle-for-azeroth">
-								<a href="">
-									<img src="/src/assets/img/raids/bg/battle-for-azeroth/Battle-of-Dazaralor.jpg" className="card-img card-img-tiers" alt="" />
-								</a>
-								<div className="card-body">
-									<a className="card-link" href="">
-										<h3 className="card-title card-title-raids-battle-for-azeroth">Битва за Дазар'алор</h3>
-									</a>
-									<p className="card-text card-text-raids-battle-for-azeroth">Закажите гарантированное прохождение рейда <span className="card-text-raids-battle-for-azeroth_color">Битва за Дазар'алор</span>
-									</p>
-								</div>
-								<div className="card-footer d-flex justify-content-between align-items-center">
-									<p className="card-price card-price-raids-battle-for-azeroth">от 410<img className="dollar" src={dollarImg} alt="dollar" /></p>
-									<a href="" className="card-btn card-btn-tiers">Подробнее</a>
-								</div>
-							</div>
-
-							<div className="card card-raids-battle-for-azeroth">
-								<a href="">
-									<img src="/src/assets/img/raids/bg/battle-for-azeroth/Crucible-of-Storms.jpg" className="card-img card-img-tiers" alt="" />
-								</a>
-								<div className="card-body">
-									<a className="card-link" href="">
-										<h3 className="card-title card-title-raids-battle-for-azeroth">Горнило Штормов</h3>
-									</a>
-									<p className="card-text card-text-raids-battle-for-azeroth">Закажите гарантированное прохождение рейда <span className="card-text-raids-battle-for-azeroth_color">Горнило Штормов</span>
-									</p>
-								</div>
-								<div className="card-footer d-flex justify-content-between align-items-center">
-									<p className="card-price card-price-raids-battle-for-azeroth">от 420<img className="dollar" src={dollarImg} alt="dollar" /></p>
-									<a href="" className="card-btn card-btn-tiers">Подробнее</a>
-								</div>
-							</div>
-
-							<div className="card card-raids-battle-for-azeroth">
-								<a href="">
-									<img src="/src/assets/img/raids/bg/battle-for-azeroth/Eternal-Palace.jpg" className="card-img card-img-tiers" alt="" />
-								</a>
-								<div className="card-body">
-									<a className="card-link" href="">
-										<h3 className="card-title card-title-raids-battle-for-azeroth">Вечный Дворец</h3>
-									</a>
-									<p className="card-text card-text-raids-battle-for-azeroth">Закажите гарантированное прохождение рейда <span className="card-text-raids-battle-for-azeroth_color">Вечный Дворец</span>
-									</p>
-								</div>
-								<div className="card-footer d-flex justify-content-between align-items-center">
-									<p className="card-price card-price-raids-battle-for-azeroth">от 430<img className="dollar" src={dollarImg} alt="dollar" /></p>
-									<a href="" className="card-btn card-btn-tiers">Подробнее</a>
-								</div>
-							</div>
-
-							<div className="card card-raids-battle-for-azeroth">
-								<a href="">
-									<img src="/src/assets/img/raids/bg/battle-for-azeroth/Nyalotha-the-Waking-City.jpg" className="card-img card-img-tiers" alt="" />
-								</a>
-								<div className="card-body">
-									<a className="card-link" href="">
-										<h3 className="card-title card-title-raids-battle-for-azeroth">Ни'алота, Пробуждающийся Город</h3>
-									</a>
-									<p className="card-text card-text-raids-battle-for-azeroth">Закажите гарантированное прохождение рейда <span className="card-text-raids-battle-for-azeroth_color">Ни'алота, Пробуждающийся Город</span>
-									</p>
-								</div>
-								<div className="card-footer d-flex justify-content-between align-items-center">
-									<p className="card-price card-price-raids-battle-for-azeroth">от 440<img className="dollar" src={dollarImg} alt="dollar" /></p>
-									<a href="" className="card-btn card-btn-tiers">Подробнее</a>
-								</div>
-							</div>
+							{ battleForAzerothRaids }
 						</div>
 					}
 
