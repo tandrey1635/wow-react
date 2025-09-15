@@ -1,5 +1,101 @@
 [
 	{
+		"id": "",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/.png",
+		"titleClassName": "card-title-armours",
+		"title": "Глубокоскальная накидка",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Глубокоскальную накидку",
+		"priceClassName": "card-price-armours",
+		"price": 300,
+		"priceImg": "/src/assets/img/gold/bg/dollar.png",
+		"priceAlt": "$",
+		"btn": "Подробнее"
+	},
+
+	{
+		"id": "",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/.png",
+		"titleClassName": "card-title-armours",
+		"title": "Накидка астрального претендента",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Накидку астрального претендента",
+		"priceClassName": "card-price-armours",
+		"price": 300,
+		"priceImg": "/src/assets/img/gold/bg/dollar.png",
+		"priceAlt": "$",
+		"btn": "Подробнее"
+	},
+
+	{
+		"id": "",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/.png",
+		"titleClassName": "card-title-armours",
+		"title": "Багровая накидка бродяги",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Багровую накидку бродяги",
+		"priceClassName": "card-price-armours",
+		"price": 300,
+		"priceImg": "/src/assets/img/gold/bg/dollar.png",
+		"priceAlt": "$",
+		"btn": "Подробнее"
+	},
+
+	{
+		"id": "",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/.png",
+		"titleClassName": "card-title-armours",
+		"title": "Багровый плащ скитальца",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Багровый плащ скитальца",
+		"priceClassName": "card-price-armours",
+		"price": 300,
+		"priceImg": "/src/assets/img/gold/bg/dollar.png",
+		"priceAlt": "$",
+		"btn": "Подробнее"
+	},
+
+	{
+		"id": "MistscapeCloak",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Mistscape-Cloak.png",
+		"titleClassName": "card-title-armours",
+		"title": "Туманный плащ",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Туманный плащ",
+		"priceClassName": "card-price-armours",
+		"price": 300,
+		"priceImg": "/src/assets/img/gold/bg/dollar.png",
+		"priceAlt": "$",
+		"btn": "Подробнее"
+	},
+
+	{
+		"id": "",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/.png",
+		"titleClassName": "card-title-armours",
+		"title": "Рюкзак земельника",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Рюкзак земельника",
+		"priceClassName": "card-price-armours",
+		"price": 300,
+		"priceImg": "/src/assets/img/gold/bg/dollar.png",
+		"priceAlt": "$",
+		"btn": "Подробнее"
+	},
+
+	{
 		"id": "FenYuFuryOfXuen",
 		"className": "card-armours card-armours-legendary",
 		"path": "#",
