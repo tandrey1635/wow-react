@@ -885,8 +885,20 @@ footer {
 .card-weapons-decorative:hover {
   box-shadow: 0 0 2px 5px #dc3ef3;
 }
-.card-armors {
+.card-armours {
   background: linear-gradient(325deg, #673ab7, transparent 30%, transparent 35%, #673ab7, transparent);
+}
+.card-armours-legendary {
+  background: linear-gradient(325deg, #ff8000, transparent 30%, transparent 35%, #ff8000, transparent);
+}
+.card-armours-legendary:hover {
+  box-shadow: 0 0 2px 5px #ff8000;
+}
+.card-armours-artefact {
+  background: linear-gradient(325deg, #d9c798, transparent 30%, transparent 35%, #d9c798, transparent);
+}
+.card-armours-artefact:hover {
+  box-shadow: 0 0 2px 5px #d9c798;
 }
 .card-mounts-water {
   background: linear-gradient(325deg, #00ffff, transparent 30%, transparent 35%, #00ffff, transparent);
@@ -1136,6 +1148,12 @@ footer {
 .card-title-armours {
   color: #8400ff;
 }
+.card-title-armours-legendary {
+  color: #ff8000;
+}
+.card-title-armours-artefact {
+  color: #d9c798;
+}
 .card-title-mounts-water {
   color: #00ffff;
 }
@@ -1278,6 +1296,12 @@ footer {
 }
 .card-text-armours {
   color: #8400ff;
+}
+.card-text-armours-legendary {
+  color: #ff8000;
+}
+.card-text-armours-artefact {
+  color: #d9c798;
 }
 .card-text-mounts-water {
   color: #00ffff;
@@ -1461,8 +1485,11 @@ footer {
 .card-price-armours {
   color: #8400ff;
 }
-.card-price-armours {
-  color: #8400ff;
+.card-price-armours-legendary {
+  color: #ff8000;
+}
+.card-price-armours-artefact {
+  color: #d9c798;
 }
 .card-price-mounts-water {
   color: #00ffff;

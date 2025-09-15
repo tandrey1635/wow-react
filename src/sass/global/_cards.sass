@@ -77,8 +77,16 @@
 			background: $weaponsDecorativeBg
 			&:hover
 				box-shadow: 0 0 2px 5px $weaponsDecorativeCardHoverShadow
-	&-armors
+	&-armours
 		background: $defaultBg
+		&-legendary
+			background: $armoursLegendaryBg
+			&:hover
+				box-shadow: 0 0 2px 5px $armoursLegendaryCardHoverShadow
+		&-artefact
+			background: $armoursArtefactBg
+			&:hover
+				box-shadow: 0 0 2px 5px $armoursArtefactCardHoverShadow
 	&-mounts
 		&-water
 			background: $waterMountsBg
@@ -248,6 +256,10 @@
 			color: $weaponsDecorativeColor
 	&-armours
 		color: $armoursColor
+		&-legendary
+			color: $armoursLegendaryColor
+		&-artefact
+			color: $armoursArtefactColor
 	&-mounts
 		&-water
 			color: $waterMountsColor
@@ -348,6 +360,10 @@
 			color: $weaponsDecorativeColor
 	&-armours
 		color: $armoursColor
+		&-legendary
+			color: $armoursLegendaryColor
+		&-artefact
+			color: $armoursArtefactColor
 	&-mounts
 		&-water
 			color: $waterMountsColor
@@ -474,8 +490,10 @@
 			color: $weaponsDecorativeColor
 	&-armours
 		color: $armoursColor
-	&-armours
-		color: $armoursColor
+		&-legendary
+			color: $armoursLegendaryColor
+		&-artefact
+			color: $armoursArtefactColor
 	&-mounts-water
 		color: $waterMountsColor
 	&-mounts-earth
