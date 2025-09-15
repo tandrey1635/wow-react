@@ -15,6 +15,7 @@ import dataWrathOfTheLichKingRaids from '../json/raids/wrath-of-the-lich-king/ra
 import dataCataclysmRaids from '../json/raids/cataclysm/raids.json'
 import dataMistsOfPandariaRaids from '../json/raids/mists-of-pandaria/raids.json'
 import dataWarlordsOfDraenorRaids from '../json/raids/warlords-of-draenor/raids.json'
+import dataLegionRaids from '../json/raids/legion/raids.json'
 import dataShadowlandsRaids from '../json/raids/shadowlands/raids.json'
 import dataDragonflightRaids from '../json/raids/dragonflight/raids.json'
 import dataMidnightRaids from '../json/raids/midnight/raids.json'
@@ -442,6 +443,32 @@ const Card = ({home, raidsArmourWarrior, legendaryWeapons, classes, classic, bur
 			</div>
 		)
 	})
+
+	const legionRaids = dataLegionRaids.map(card=>{
+		return (
+			<div key={card.id} className={`card ${card.className}`}>
+				<Link to={card.path}>
+					<img src={card.cardImg} className={`card-img ${card.cardImgClassName}`}  alt={card.description} />
+				</Link>
+				<div className="card-body">
+					<Link className="card-link" to={card.path}>
+						<h3 className={`card-title ${card.titleClassName}`}>{card.title}</h3>
+					</Link>
+					<p className={`card-text ${card.descriptionClassName}`}>{card.description} <span className={card.spanClassname}>{card.title}</span>
+					</p>
+				</div>
+				<div className="card-footer d-flex justify-content-between align-items-center">
+					<p className={`card-price ${card.priceClassName}`}>
+						от {card.price}
+						<img className="dollar" src={card.priceImg} alt={dollarAlt} />
+					</p>
+					<Link to={card.path} className="card-btn">{card.btn}</Link>
+				</div>
+			</div>
+		)
+	})
+
+
 
 	const shadowlandsRaids = dataShadowlandsRaids.map(card=>{
 		return (
@@ -1068,90 +1095,7 @@ const Card = ({home, raidsArmourWarrior, legendaryWeapons, classes, classic, bur
 
 					{ legion &&
 						<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-							<div className="card card-raids-legion">
-								<a href="">
-									<img src="/src/assets/img/raids/bg/legion/Emerald-Nightmare.jpg" className="card-img card-img-tiers" alt="" />
-								</a>
-								<div className="card-body">
-									<a className="card-link" href="">
-										<h3 className="card-title card-title-raids-legion">Изумрудный Кошмар</h3>
-									</a>
-									<p className="card-text card-text-raids-legion">Закажите гарантированное прохождение рейда <span className="card-text-raids-legion_color">Изумрудный Кошмар</span>
-									</p>
-								</div>
-								<div className="card-footer d-flex justify-content-between align-items-center">
-									<p className="card-price card-price-raids-legion">от 350<img className="dollar" src={dollarImg} alt="dollar" /></p>
-									<a href="" className="card-btn card-btn-tiers">Подробнее</a>
-								</div>
-							</div>
-
-							<div className="card card-raids-legion">
-								<a href="">
-									<img src="/src/assets/img/raids/bg/legion/Trial-of-Valor.jpg" className="card-img card-img-tiers" alt="" />
-								</a>
-								<div className="card-body">
-									<a className="card-link" href="">
-										<h3 className="card-title card-title-raids-legion">Испытание Доблести</h3>
-									</a>
-									<p className="card-text card-text-raids-legion">Закажите гарантированное прохождение рейда <span className="card-text-raids-legion_color">Испытание Доблести</span>
-									</p>
-								</div>
-								<div className="card-footer d-flex justify-content-between align-items-center">
-									<p className="card-price card-price-raids-legion">от 360<img className="dollar" src={dollarImg} alt="dollar" /></p>
-									<a href="" className="card-btn card-btn-tiers">Подробнее</a>
-								</div>
-							</div>
-
-							<div className="card card-raids-legion">
-								<a href="">
-									<img src="/src/assets/img/raids/bg/legion/Nighthold.jpg" className="card-img card-img-tiers" alt="" />
-								</a>
-								<div className="card-body">
-									<a className="card-link" href="">
-										<h3 className="card-title card-title-raids-legion">Цитадель Ночи</h3>
-									</a>
-									<p className="card-text card-text-raids-legion">Закажите гарантированное прохождение рейда <span className="card-text-raids-legion_color">Цитадель Ночи</span>
-									</p>
-								</div>
-								<div className="card-footer d-flex justify-content-between align-items-center">
-									<p className="card-price card-price-raids-legion">от 370<img className="dollar" src={dollarImg} alt="dollar" /></p>
-									<a href="" className="card-btn card-btn-tiers">Подробнее</a>
-								</div>
-							</div>
-
-							<div className="card card-raids-legion">
-								<a href="">
-									<img src="/src/assets/img/raids/bg/legion/Tomb-of-Sargeras.jpg" className="card-img card-img-tiers" alt="" />
-								</a>
-								<div className="card-body">
-									<a className="card-link" href="">
-										<h3 className="card-title card-title-raids-legion">Гробница Саргераса</h3>
-									</a>
-									<p className="card-text card-text-raids-legion">Закажите гарантированное прохождение рейда <span className="card-text-raids-legion_color">Гробница Саргераса</span>
-									</p>
-								</div>
-								<div className="card-footer d-flex justify-content-between align-items-center">
-									<p className="card-price card-price-raids-legion">от 380<img className="dollar" src={dollarImg} alt="dollar" /></p>
-									<a href="" className="card-btn card-btn-tiers">Подробнее</a>
-								</div>
-							</div>
-
-							<div className="card card-raids-legion">
-								<a href="">
-									<img src="/src/assets/img/raids/bg/legion/Antorus-the-Burning-Throne.jpg" className="card-img card-img-tiers" alt="" />
-								</a>
-								<div className="card-body">
-									<a className="card-link" href="">
-										<h3 className="card-title card-title-raids-legion">Анторус Пылающий Трон</h3>
-									</a>
-									<p className="card-text card-text-raids-legion">Закажите гарантированное прохождение рейда <span className="card-text-raids-legion_color">Анторус Пылающий Трон</span>
-									</p>
-								</div>
-								<div className="card-footer d-flex justify-content-between align-items-center">
-									<p className="card-price card-price-raids-legion">от 390<img className="dollar" src={dollarImg} alt="dollar" /></p>
-									<a href="" className="card-btn card-btn-tiers">Подробнее</a>
-								</div>
-							</div>
+							{ legionRaids }
 						</div>
 					}
 
