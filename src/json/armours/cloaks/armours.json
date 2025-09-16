@@ -3,7 +3,7 @@
 		"id": "",
 		"className": "card-armours",
 		"path": "#",
-		"cardImg": "/src/assets/img/armours/bg/cloaks/.png",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Deeprock-Cape.png",
 		"titleClassName": "card-title-armours",
 		"title": "Глубокоскальная накидка",
 		"descriptionClassName": "card-text-armours",
@@ -64,6 +64,38 @@
 	},
 
 	{
+		"id": "",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/.png",
+		"titleClassName": "card-title-armours",
+		"title": "Потрепанный в боях синий плащ",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Потрепанный в боях синий плащ",
+		"priceClassName": "card-price-armours",
+		"price": 300,
+		"priceImg": "/src/assets/img/gold/bg/dollar.png",
+		"priceAlt": "$",
+		"btn": "Подробнее"
+	},
+
+	{
+		"id": "",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Careful-Coverings.png",
+		"titleClassName": "card-title-armours",
+		"title": "Аккуратные покрывала",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Аккуратные покрывала",
+		"priceClassName": "card-price-armours",
+		"price": 300,
+		"priceImg": "/src/assets/img/gold/bg/dollar.png",
+		"priceAlt": "$",
+		"btn": "Подробнее"
+	},
+
+	{
 		"id": "MistscapeCloak",
 		"className": "card-armours",
 		"path": "#",
@@ -88,6 +120,38 @@
 		"title": "Рюкзак земельника",
 		"descriptionClassName": "card-text-armours",
 		"description": "Закажите Рюкзак земельника",
+		"priceClassName": "card-price-armours",
+		"price": 300,
+		"priceImg": "/src/assets/img/gold/bg/dollar.png",
+		"priceAlt": "$",
+		"btn": "Подробнее"
+	},
+
+	{
+		"id": "",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Shroud-of-Cooperation.png",
+		"titleClassName": "card-title-armours",
+		"title": "Накидка сотрудничества",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Накидка сотрудничества",
+		"priceClassName": "card-price-armours",
+		"price": 300,
+		"priceImg": "/src/assets/img/gold/bg/dollar.png",
+		"priceAlt": "$",
+		"btn": "Подробнее"
+	},
+
+	{
+		"id": "",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/High-Priestesss-Ceremonial-Drape.png",
+		"titleClassName": "card-title-armours",
+		"title": "Церемониальная пелерина верховной жрицы",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Церемониальную пелерину верховной жрицы",
 		"priceClassName": "card-price-armours",
 		"price": 300,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
