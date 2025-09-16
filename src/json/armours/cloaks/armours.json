@@ -409,7 +409,7 @@
 		"descriptionClassName": "card-text-armours card-text-armours-legendary",
 		"description": "Закажите Сянь-Ин, Стойкость Нюцзао",
 		"priceClassName": "card-price-armours card-price-armours-legendary",
-		"price": 300,
+		"price": 500,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
 		"priceAlt": "$",
 		"btn": "Подробнее"
