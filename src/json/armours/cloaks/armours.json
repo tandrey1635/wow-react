@@ -432,10 +432,10 @@
 	},
 
 	{
-		"id": "",
+		"id": "JinaKangKindnessOfChiJi",
 		"className": "card-armours card-armours-legendary",
 		"path": "#",
-		"cardImg": "/src/assets/img/armours/bg/cloaks/.png",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Jina-Kang-Kindness-of-Chi-Ji.png",
 		"titleClassName": "card-title-armours card-title-armours-legendary",
 		"title": "Цзина-Кан, Доброта Чи-Цзи",
 		"descriptionClassName": "card-text-armours card-text-armours-legendary",
