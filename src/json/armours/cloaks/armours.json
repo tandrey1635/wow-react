@@ -425,7 +425,7 @@
 		"descriptionClassName": "card-text-armours card-text-armours-legendary",
 		"description": "Закажите Син-Хо, Дыхание Юй-лун",
 		"priceClassName": "card-price-armours card-price-armours-legendary",
-		"price": 300,
+		"price": 500,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
 		"priceAlt": "$",
 		"btn": "Подробнее"
@@ -441,23 +441,23 @@
 		"descriptionClassName": "card-text-armours card-text-armours-legendary",
 		"description": "Закажите Цзина-Кан, Доброта Чи-Цзи",
 		"priceClassName": "card-price-armours card-price-armours-legendary",
-		"price": 300,
+		"price": 500,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
 		"priceAlt": "$",
 		"btn": "Подробнее"
 	},
 
 	{
-		"id": "",
+		"id": "KazzalaxFujiedasFury",
 		"className": "card-armours card-armours-legendary",
 		"path": "#",
-		"cardImg": "/src/assets/img/armours/bg/cloaks/.png",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Kazzalax-Fujiedas-Fury.png",
 		"titleClassName": "card-title-armours card-title-armours-legendary",
 		"title": "Каззалакс, ярость Фудзиэды",
 		"descriptionClassName": "card-text-armours card-text-armours-legendary",
 		"description": "Закажите Каззалакс, ярость Фудзиэды",
 		"priceClassName": "card-price-armours card-price-armours-legendary",
-		"price": 300,
+		"price": 500,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
 		"priceAlt": "$",
 		"btn": "Подробнее"
