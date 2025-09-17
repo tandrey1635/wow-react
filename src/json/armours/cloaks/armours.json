@@ -272,22 +272,6 @@
 	},
 
 	{
-		"id": "WanderersCloudyCloak",
-		"className": "card-armours",
-		"path": "#",
-		"cardImg": "/src/assets/img/armours/bg/cloaks/Wanderers-Cloudy-Cloak.png",
-		"titleClassName": "card-title-armours",
-		"title": "Облачный плащ скитальца",
-		"descriptionClassName": "card-text-armours",
-		"description": "Закажите Облачный плащ скитальца",
-		"priceClassName": "card-price-armours",
-		"price": 300,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
-	},
-
-	{
 		"id": "WanderersGrassyCloak",
 		"className": "card-armours",
 		"path": "#",
