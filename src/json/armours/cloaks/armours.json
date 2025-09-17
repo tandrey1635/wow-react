@@ -48,6 +48,22 @@
 	},
 
 	{
+		"id": "ShroudOfStormwind",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Shroud-of-Stormwind.png",
+		"titleClassName": "card-title-armours",
+		"title": "Накидка Штормграда",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Накидку Штормграда",
+		"priceClassName": "card-price-armours",
+		"price": 300,
+		"priceImg": "/src/assets/img/gold/bg/dollar.png",
+		"priceAlt": "$",
+		"btn": "Подробнее"
+	},
+
+	{
 		"id": "DistinguishedWarcloak",
 		"className": "card-armours",
 		"path": "#",
