@@ -16,7 +16,7 @@
 	},
 
 	{
-		"id": "",
+		"id": "HighPriestesssCeremonialDrape",
 		"className": "card-armours",
 		"path": "#",
 		"cardImg": "/src/assets/img/armours/bg/cloaks/High-Priestesss-Ceremonial-Drape.png",
@@ -160,22 +160,6 @@
 	},
 
 	{
-		"id": "WanderersLivelyCloak",
-		"className": "card-armours",
-		"path": "#",
-		"cardImg": "/src/assets/img/armours/bg/cloaks/Wanderers-Lively-Cloak.png",
-		"titleClassName": "card-title-armours",
-		"title": "Яркий плащ скитальца",
-		"descriptionClassName": "card-text-armours",
-		"description": "Закажите Яркий плащ скитальца",
-		"priceClassName": "card-price-armours",
-		"price": 300,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
-	},
-
-	{
 		"id": "WanderersAzureCloak",
 		"className": "card-armours",
 		"path": "#",
@@ -184,6 +168,38 @@
 		"title": "Лазурный плащ скитальца",
 		"descriptionClassName": "card-text-armours",
 		"description": "Закажите Лазурный плащ скитальца",
+		"priceClassName": "card-price-armours",
+		"price": 300,
+		"priceImg": "/src/assets/img/gold/bg/dollar.png",
+		"priceAlt": "$",
+		"btn": "Подробнее"
+	},
+
+	{
+		"id": "WanderersVioletCloak",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Wanderers-Violet-Cloak.png",
+		"titleClassName": "card-title-armours",
+		"title": "Лиловый плащ скитальца",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Лиловый плащ скитальца",
+		"priceClassName": "card-price-armours",
+		"price": 300,
+		"priceImg": "/src/assets/img/gold/bg/dollar.png",
+		"priceAlt": "$",
+		"btn": "Подробнее"
+	},
+
+	{
+		"id": "WanderersLivelyCloak",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Wanderers-Lively-Cloak.png",
+		"titleClassName": "card-title-armours",
+		"title": "Яркий плащ скитальца",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Яркий плащ скитальца",
 		"priceClassName": "card-price-armours",
 		"price": 300,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
@@ -328,22 +344,6 @@
 		"title": "Розовый плащ скитальца",
 		"descriptionClassName": "card-text-armours",
 		"description": "Закажите Розовый плащ скитальца",
-		"priceClassName": "card-price-armours",
-		"price": 300,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
-	},
-
-	{
-		"id": "WanderersVioletCloak",
-		"className": "card-armours",
-		"path": "#",
-		"cardImg": "/src/assets/img/armours/bg/cloaks/Wanderers-Violet-Cloak.png",
-		"titleClassName": "card-title-armours",
-		"title": "Лиловый плащ скитальца",
-		"descriptionClassName": "card-text-armours",
-		"description": "Закажите Лиловый плащ скитальца",
 		"priceClassName": "card-price-armours",
 		"price": 300,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
