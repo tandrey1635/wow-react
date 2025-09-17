@@ -128,6 +128,22 @@
 	},
 
 	{
+		"id": "WanderersCarrotCloak",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Wanderers-Carrot-Cloak.png",
+		"titleClassName": "card-title-armours",
+		"title": "Морковный плащ скитальца",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Морковный плащ скитальца",
+		"priceClassName": "card-price-armours",
+		"price": 300,
+		"priceImg": "/src/assets/img/gold/bg/dollar.png",
+		"priceAlt": "$",
+		"btn": "Подробнее"
+	},
+
+	{
 		"id": "WanderersSunnyCloak",
 		"className": "card-armours",
 		"path": "#",
@@ -240,54 +256,6 @@
 	},
 
 	{
-		"id": "WanderersCamoCloak",
-		"className": "card-armours",
-		"path": "#",
-		"cardImg": "/src/assets/img/armours/bg/cloaks/Wanderers-Camo-Cloak.png",
-		"titleClassName": "card-title-armours",
-		"title": "Камуфляжный плащ скитальца",
-		"descriptionClassName": "card-text-armours",
-		"description": "Закажите Камуфляжный плащ скитальца",
-		"priceClassName": "card-price-armours",
-		"price": 300,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
-	},
-
-	{
-		"id": "WanderersGrassyCloak",
-		"className": "card-armours",
-		"path": "#",
-		"cardImg": "/src/assets/img/armours/bg/cloaks/Wanderers-Grassy-Cloak.png",
-		"titleClassName": "card-title-armours",
-		"title": "Травянистый плащ скитальца",
-		"descriptionClassName": "card-text-armours",
-		"description": "Закажите Травянистый плащ скитальца",
-		"priceClassName": "card-price-armours",
-		"price": 300,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
-	},
-
-	{
-		"id": "WanderersCarrotCloak",
-		"className": "card-armours",
-		"path": "#",
-		"cardImg": "/src/assets/img/armours/bg/cloaks/Wanderers-Carrot-Cloak.png",
-		"titleClassName": "card-title-armours",
-		"title": "Морковный плащ скитальца",
-		"descriptionClassName": "card-text-armours",
-		"description": "Закажите Морковный плащ скитальца",
-		"priceClassName": "card-price-armours",
-		"price": 300,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
-	},
-
-	{
 		"id": "WanderersSnowyCloak",
 		"className": "card-armours",
 		"path": "#",
@@ -296,22 +264,6 @@
 		"title": "Заснеженный плащ скитальца",
 		"descriptionClassName": "card-text-armours",
 		"description": "Закажите Заснеженный плащ скитальца",
-		"priceClassName": "card-price-armours",
-		"price": 300,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
-	},
-
-	{
-		"id": "WanderersFadedCloak",
-		"className": "card-armours",
-		"path": "#",
-		"cardImg": "/src/assets/img/armours/bg/cloaks/Wanderers-Faded-Cloak.png",
-		"titleClassName": "card-title-armours",
-		"title": "Выцветший плащ скитальца",
-		"descriptionClassName": "card-text-armours",
-		"description": "Закажите Выцветший плащ скитальца",
 		"priceClassName": "card-price-armours",
 		"price": 300,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
