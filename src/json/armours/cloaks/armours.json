@@ -160,6 +160,38 @@
 	},
 
 	{
+		"id": "DrapeOfTheSunreavers",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Drape-of-the-Sunreavers.png",
+		"titleClassName": "card-title-armours",
+		"title": "Пелерина Похитителей Солнца",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Пелерину Похитителей Солнца",
+		"priceClassName": "card-price-armours",
+		"price": 300,
+		"priceImg": "/src/assets/img/gold/bg/dollar.png",
+		"priceAlt": "$",
+		"btn": "Подробнее"
+	},
+
+	{
+		"id": "PermafrostCape",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Permafrost-Cape.png",
+		"titleClassName": "card-title-armours",
+		"title": "Накидка вечной мерзлоты",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Накидку вечной мерзлоты",
+		"priceClassName": "card-price-armours",
+		"price": 300,
+		"priceImg": "/src/assets/img/gold/bg/dollar.png",
+		"priceAlt": "$",
+		"btn": "Подробнее"
+	},
+
+	{
 		"id": "EmeraldDrape",
 		"className": "card-armours",
 		"path": "#",
