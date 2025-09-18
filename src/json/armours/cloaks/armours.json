@@ -64,6 +64,22 @@
 	},
 
 	{
+		"id": "ShroudOfOrgrimmar",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Shroud-of-Orgrimmar.png",
+		"titleClassName": "card-title-armours",
+		"title": "Накидка Оргриммара",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Накидку Оргриммара",
+		"priceClassName": "card-price-armours",
+		"price": 300,
+		"priceImg": "/src/assets/img/gold/bg/dollar.png",
+		"priceAlt": "$",
+		"btn": "Подробнее"
+	},
+
+	{
 		"id": "ShroudOfStormwind",
 		"className": "card-armours",
 		"path": "#",
