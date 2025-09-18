@@ -48,6 +48,22 @@
 	},
 
 	{
+		"id": "CloakOfTheDarkmoonFaire",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Cloak-of-the-Darkmoon-Faire.png",
+		"titleClassName": "card-title-armours",
+		"title": "Плащ ярмарки Новолуния",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Плащ ярмарки Новолуния",
+		"priceClassName": "card-price-armours",
+		"price": 300,
+		"priceImg": "/src/assets/img/gold/bg/dollar.png",
+		"priceAlt": "$",
+		"btn": "Подробнее"
+	},
+
+	{
 		"id": "ShroudOfStormwind",
 		"className": "card-armours",
 		"path": "#",
@@ -72,6 +88,22 @@
 		"title": "Выдающийся боевой плащ",
 		"descriptionClassName": "card-text-armours",
 		"description": "Закажите Выдающийся боевой плащ",
+		"priceClassName": "card-price-armours",
+		"price": 300,
+		"priceImg": "/src/assets/img/gold/bg/dollar.png",
+		"priceAlt": "$",
+		"btn": "Подробнее"
+	},
+
+	{
+		"id": "CloakOfTheBansheeQueen",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Cloak-of-the-Banshee-Queen.png",
+		"titleClassName": "card-title-armours",
+		"title": "Плащ Королевы-банши",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Плащ Королевы-банши",
 		"priceClassName": "card-price-armours",
 		"price": 300,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
