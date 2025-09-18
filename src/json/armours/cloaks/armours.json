@@ -768,16 +768,16 @@
 	},
 
 	{
-		"id": "",
+		"id": "CloakOfInfinitePotential",
 		"className": "card-armours card-armours-artefact",
 		"path": "#",
-		"cardImg": "/src/assets/img/armours/bg/cloaks/.png",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Cloak-of-Infinite-Potential.png",
 		"titleClassName": "card-title-armours card-title-armours-artefact",
 		"title": "Плащ бесконечных возможностей",
 		"descriptionClassName": "card-text-armours card-text-armours-artefact",
 		"description": "Закажите Плащ бесконечных возможностей",
 		"priceClassName": "card-price-armours card-price-armours-artefact",
-		"price": 300,
+		"price": 1000,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
 		"priceAlt": "$",
 		"btn": "Подробнее"
