@@ -128,6 +128,22 @@
 	},
 
 	{
+		"id": "DrapeOfForebodingMists",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Drape-of-Foreboding-Mists.png",
+		"titleClassName": "card-title-armours",
+		"title": "Пелерина гнетущих туманов",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Пелерину гнетущих туманов",
+		"priceClassName": "card-price-armours",
+		"price": 300,
+		"priceImg": "/src/assets/img/gold/bg/dollar.png",
+		"priceAlt": "$",
+		"btn": "Подробнее"
+	},
+
+	{
 		"id": "SindoreiAssassinsShroud",
 		"className": "card-armours",
 		"path": "#",
@@ -712,22 +728,6 @@
 		"title": "Посев и жатва",
 		"descriptionClassName": "card-text-armours card-text-armours-legendary",
 		"description": "Закажите Посев и жатву",
-		"priceClassName": "card-price-armours card-price-armours-legendary",
-		"price": 300,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
-	},
-
-	{
-		"id": "",
-		"className": "card-armours card-armours-legendary",
-		"path": "#",
-		"cardImg": "/src/assets/img/armours/bg/cloaks/.png",
-		"titleClassName": "card-title-armours card-title-armours-legendary",
-		"title": "Пелерина гнетущих туманов",
-		"descriptionClassName": "card-text-armours card-text-armours-legendary",
-		"description": "Закажите Пелерину гнетущих туманов",
 		"priceClassName": "card-price-armours card-price-armours-legendary",
 		"price": 300,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
