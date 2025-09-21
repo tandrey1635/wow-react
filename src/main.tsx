@@ -6,6 +6,7 @@ import './style.sass'
 import { BrowserRouter, Routes, Route } from "react-router";
 
 
+
 import Warrior  from "./pages/raids-armours/Warrior.tsx";
 import Druid  from "./pages/raids-armours/Druid.tsx";
 import Priest  from "./pages/raids-armours/Priest.tsx";
@@ -14,11 +15,12 @@ import Monk  from "./pages/raids-armours/Monk.tsx";
 import Hunter  from "./pages/raids-armours/Hunter.tsx";
 import DemonHunter  from "./pages/raids-armours/DemonHunter.tsx";
 import Paladin  from "./pages/raids-armours/Paladin.tsx";
+import Awakener  from "./pages/raids-armours/Awakener.tsx";
 import Rogue  from "./pages/raids-armours/Rogue.tsx";
 import DeathKnight  from "./pages/raids-armours/DeathKnight.tsx";
 import Warlock  from "./pages/raids-armours/Warlock.tsx";
 import Shaman  from "./pages/raids-armours/Shaman.tsx";
-import Awakener  from "./pages/raids-armours/Awakener.tsx";
+
 
 
 import OneHandedWeapons  from "./pages/weapons/OneHanded.tsx";
@@ -38,6 +40,8 @@ import WarglaivesOfAzzinoth  from "./pages/weapons/weapons-details/WarglaivesOfA
 import Thoridal  from "./pages/weapons/weapons-details/Thoridal.tsx";
 import Valanyr  from "./pages/weapons/weapons-details/Valanyr.tsx";
 import Shadowmourne  from "./pages/weapons/weapons-details/Shadowmourne.tsx";
+import Tarecgosa  from "./pages/weapons/weapons-details/Tarecgosa.tsx";
+
 
 
 import Cloaks  from "./pages/armours/Cloaks.tsx";
@@ -45,13 +49,16 @@ import Shields  from "./pages/armours/Shields.tsx";
 import FishingRods  from "./pages/armours/FishingRods.tsx";
 
 
+
 import WaterMounts  from "./pages/mounts/Water.tsx";
 import EarthMounts  from "./pages/mounts/Earth.tsx";
 import FlyMounts  from "./pages/mounts/Fly.tsx";
 
 
+
 import HordeGold  from "./pages/gold/Horde.tsx";
 import AllianceGold  from "./pages/gold/Alliance.tsx";
+
 
 
 import Alchemy  from "./pages/professions/Alchemy.tsx";
@@ -73,9 +80,11 @@ import Fishing  from "./pages/professions/Fishing.tsx";
 import JunkyardTinkering  from "./pages/professions/JunkyardTinkering.tsx";
 
 
+
 import Honour  from "./pages/pvp/Honour.tsx";
 import Arena  from "./pages/pvp/Arena.tsx";
 import Rbg  from "./pages/pvp/Rbg.tsx";
+
 
 
 import Classic  from "./pages/raids/Classic.tsx";
@@ -166,7 +175,7 @@ createRoot(document.getElementById("root")!).render(
 				<Route path="weapons/legendary/weapons-details/thoridal" element={<Thoridal />} />
 				<Route path="weapons/legendary/weapons-details/valanyr" element={<Valanyr />} />
 				<Route path="weapons/legendary/weapons-details/shadowmourne" element={<Shadowmourne />} />
-
+				<Route path="weapons/legendary/weapons-details/tarecgosa" element={<Tarecgosa />} />
 
 
 
