@@ -36,7 +36,7 @@ import Thunderfury  from "./pages/weapons/weapons-details/Thunderfury.tsx";
 import Atiesh  from "./pages/weapons/weapons-details/Atiesh.tsx";
 import WarglaivesOfAzzinoth  from "./pages/weapons/weapons-details/WarglaivesOfAzzinoth.tsx";
 import Thoridal  from "./pages/weapons/weapons-details/Thoridal.tsx";
-
+import Valanyr  from "./pages/weapons/weapons-details/Valanyr.tsx";
 
 
 
@@ -164,7 +164,7 @@ createRoot(document.getElementById("root")!).render(
 				<Route path="weapons/legendary/weapons-details/atiesh" element={<Atiesh />} />
 				<Route path="weapons/legendary/weapons-details/warglaives-of-azzinoth" element={<WarglaivesOfAzzinoth />} />
 				<Route path="weapons/legendary/weapons-details/thoridal" element={<Thoridal />} />
-
+				<Route path="weapons/legendary/weapons-details/valanyr" element={<Valanyr />} />
 
 
 

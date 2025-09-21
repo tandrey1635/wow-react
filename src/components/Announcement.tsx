@@ -1,4 +1,4 @@
-const Announcement = ({ home, warrior, druid, priest, mage, monk, hunter, demonHunter, paladin, awakener, rogue, deathKnight, warlock, shaman, oneHandedWeapons, twoHandedWeapons, rangeWeapons, legendaryWeapons, artefactWeapons, decorativeWeapons, ashbringer, sulfuras, thunderfury, atiesh, warglaivesOfAzzinoth, thoridal, armours, shields, cloaks, fishingRods, waterMounts, earthMounts, flyMounts, hordeGold, allianceGold, professions, alchemy, mining, engineering, leatherworking, blacksmithing, enchanting,  inscription, tailoring, skinning, herbalism, jewelcrafting, archaeology, riding, cooking, firstAid, fishing, junkyardTinkering, pvp, honour, arena, rbg, dungeons, mythic5, mythic10, mythic15, сlassic, burningCrusade, wrathOfTheLichKing, cataclysm, mistsOfPandaria, warlordsOfDraenor, legion, battleForAzeroth, shadowlands, dragonflight, warWithin, midnight, lastTitan, lvlUp, lvlUpBase, lvlUpExpert, lvlUpMaster, achievements, quests, equipments, mounts, raidsExplorer, legacy, greatFeats, warcraftReforged, wow, diablo, hearthstone, heroesStorm, starcraft, overwatch, wowCollectionEditions, diabloCollectionEditions  }) => {
+const Announcement = ({ home, warrior, druid, priest, mage, monk, hunter, demonHunter, paladin, awakener, rogue, deathKnight, warlock, shaman, oneHandedWeapons, twoHandedWeapons, rangeWeapons, legendaryWeapons, artefactWeapons, decorativeWeapons, ashbringer, sulfuras, thunderfury, atiesh, warglaivesOfAzzinoth, thoridal, valanyr, armours, shields, cloaks, fishingRods, waterMounts, earthMounts, flyMounts, hordeGold, allianceGold, professions, alchemy, mining, engineering, leatherworking, blacksmithing, enchanting,  inscription, tailoring, skinning, herbalism, jewelcrafting, archaeology, riding, cooking, firstAid, fishing, junkyardTinkering, pvp, honour, arena, rbg, dungeons, mythic5, mythic10, mythic15, сlassic, burningCrusade, wrathOfTheLichKing, cataclysm, mistsOfPandaria, warlordsOfDraenor, legion, battleForAzeroth, shadowlands, dragonflight, warWithin, midnight, lastTitan, lvlUp, lvlUpBase, lvlUpExpert, lvlUpMaster, achievements, quests, equipments, mounts, raidsExplorer, legacy, greatFeats, warcraftReforged, wow, diablo, hearthstone, heroesStorm, starcraft, overwatch, wowCollectionEditions, diabloCollectionEditions  }) => {
 	return (
 		<section className="announcement">
 			<div className="container">
@@ -53,7 +53,7 @@ const Announcement = ({ home, warrior, druid, priest, mage, monk, hunter, demonH
 							rangeWeapons
 								? "announcement__header announcement__header_range-weapons"
 								:
-							legendaryWeapons || ashbringer || sulfuras || thunderfury || atiesh || warglaivesOfAzzinoth || thoridal
+							legendaryWeapons || ashbringer || sulfuras || thunderfury || atiesh || warglaivesOfAzzinoth || thoridal || valanyr
 								? "announcement__header announcement__header_legendary-weapons"
 								:
 							artefactWeapons
@@ -209,6 +209,9 @@ const Announcement = ({ home, warrior, druid, priest, mage, monk, hunter, demonH
 								:
 							thoridal
 								? "Тори'дал, Звездная Ярость"
+								:
+							valanyr
+								? "Вал'анир, молот древних королей"
 								:
 							atiesh
 								? "Атиеш, великий посох Хранителя"
@@ -485,6 +488,9 @@ const Announcement = ({ home, warrior, druid, priest, mage, monk, hunter, demonH
 								:
 							thoridal
 								? "Происхождение Тори'дала, Звёздной Ярости, окутано тайной, что породило множество догадок. Вот три самые распространённые теории о его появлении. Согласно первой теории Тори'дал ничто иное, как само воплощение энергии Солнечного Колодца, ее физическое проявление. Он является сгустком чистой, необузданной магии, обретшей форму совершенного оружия в час величайшей нужды эльфов. Другая версия гласит, что лук принадлежал одному из безымянных героев ночных эльфов отряды которых принимали участие в Войне древних. Его имя и подвиги канули в лету, но легендарное оружие пережило тысячелетия, чтобы вновь явить свою силу. Наиболее популярная теория гласит что луком владела Аллерия Ветрокрылая. Предполагается, что именно с ним она входила в отряд армии Альянса, давший отпор демонам у Темного Портала, и продолжила свой крестовый поход на просторах Дренора даже после его разрушения. Каждая из теорий имеет право на существование, но правда скорее всего, так навсегда и останется загадкой."
+								:
+							valanyr
+								? "Содзанный титанами, Вал'анир был вручён первому царю Земляных (прародителей дворфов), Урелу Каменное Сердце. С ним правитель должен был дать жизнь и умиротворение своим братьям. Увы, Вал'анир был разрушен во время первой войны между Земляными и отколовшимися от них дварфами Тёмного Железа. Считалось, что остатки реликвии были безвозвратно утеряны в этом конфликте, но, как мы видим, его части всё ещё целы."
 								:
 							shields
 								? "Щиты, воплощение несокрушимой воли и непоколебимой стойкости. Идеальный выбор тех, кто готов принять на себя любой удар, для защиты своих союзников. Каждый блок отражает смертоносные атаки, а враги ломают клинки о стальную преграду. Неважно, что перед тобой, огненная ярость дракона или сокрушительный удар титана, щит выстоит против любого натиска и станет непреодолимой стеной между угрозой и теми, кто под защитой!"
