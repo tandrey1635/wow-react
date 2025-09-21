@@ -41,6 +41,7 @@ import Thoridal  from "./pages/weapons/weapons-details/Thoridal.tsx";
 import Valanyr  from "./pages/weapons/weapons-details/Valanyr.tsx";
 import Shadowmourne  from "./pages/weapons/weapons-details/Shadowmourne.tsx";
 import Tarecgosa  from "./pages/weapons/weapons-details/Tarecgosa.tsx";
+import FangsFather  from "./pages/weapons/weapons-details/FangsFather.tsx";
 
 
 
@@ -176,8 +177,7 @@ createRoot(document.getElementById("root")!).render(
 				<Route path="weapons/legendary/weapons-details/valanyr" element={<Valanyr />} />
 				<Route path="weapons/legendary/weapons-details/shadowmourne" element={<Shadowmourne />} />
 				<Route path="weapons/legendary/weapons-details/tarecgosa" element={<Tarecgosa />} />
-
-
+				<Route path="weapons/legendary/weapons-details/fangs-of-the-father" element={<FangsFather />} />
 
 
 				<Route path="armours/shields" element={<Shields />} />

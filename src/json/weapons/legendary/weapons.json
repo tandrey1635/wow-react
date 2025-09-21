@@ -146,7 +146,7 @@
 	{
 		"id": "FangsOfTheFather",
 		"className": "card-weapons card-weapons-legendary",
-		"path": "#",
+		"path": "weapons-details/fangs-of-the-father",
 		"cardImg": "/src/assets/img/weapons/bg/legendary/Fangs-of-the-Father.png",
 		"titleClassName": "card-title-weapons card-title-weapons-legendary",
 		"title": "Клыки отца",
