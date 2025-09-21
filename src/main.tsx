@@ -37,7 +37,7 @@ import Atiesh  from "./pages/weapons/weapons-details/Atiesh.tsx";
 import WarglaivesOfAzzinoth  from "./pages/weapons/weapons-details/WarglaivesOfAzzinoth.tsx";
 import Thoridal  from "./pages/weapons/weapons-details/Thoridal.tsx";
 import Valanyr  from "./pages/weapons/weapons-details/Valanyr.tsx";
-
+import Shadowmourne  from "./pages/weapons/weapons-details/Shadowmourne.tsx";
 
 
 import Cloaks  from "./pages/armours/Cloaks.tsx";
@@ -165,6 +165,9 @@ createRoot(document.getElementById("root")!).render(
 				<Route path="weapons/legendary/weapons-details/warglaives-of-azzinoth" element={<WarglaivesOfAzzinoth />} />
 				<Route path="weapons/legendary/weapons-details/thoridal" element={<Thoridal />} />
 				<Route path="weapons/legendary/weapons-details/valanyr" element={<Valanyr />} />
+				<Route path="weapons/legendary/weapons-details/shadowmourne" element={<Shadowmourne />} />
+
+
 
 
 

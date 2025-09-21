@@ -114,7 +114,7 @@
 	{
 		"id": "Shadowmourne",
 		"className": "card-weapons card-weapons-legendary",
-		"path": "#",
+		"path": "weapons-details/shadowmourne",
 		"cardImg": "/src/assets/img/weapons/bg/legendary/Shadowmourne.png",
 		"titleClassName": "card-title-weapons card-title-weapons-legendary",
 		"title": "Темная Скорбь",
