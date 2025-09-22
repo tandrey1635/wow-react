@@ -47,6 +47,7 @@ import FangsFather  from "./pages/weapons/weapons-details/FangsFather.tsx";
 
 import WarriorArtefacts  from "./pages/weapons/artefact/Warrior.tsx";
 import DruidArtefacts  from "./pages/weapons/artefact/Druid.tsx";
+import PriestArtefacts  from "./pages/weapons/artefact/Priest.tsx";
 
 
 
@@ -167,7 +168,6 @@ createRoot(document.getElementById("root")!).render(
 				<Route path="weapons/one-handed" element={<OneHandedWeapons />} />
 				<Route path="weapons/two-handed" element={<TwoHandedWeapons />} />
 				<Route path="weapons/range" element={<RangeWeapons />} />
-
 				<Route path="weapons/legendary" element={<LegendaryWeapons />} />
 				<Route path="weapons/artefact" element={<ArtefactWeapons />} />
 				<Route path="weapons/decorative" element={<DecorativeWeapons />} />
@@ -187,7 +187,8 @@ createRoot(document.getElementById("root")!).render(
 
 				<Route path="weapons/artefact/warrior" element={<WarriorArtefacts />} />
 				<Route path="weapons/artefact/druid" element={<DruidArtefacts />} />
-
+				<Route path="weapons/artefact/priest" element={<PriestArtefacts />} />
+				
 
 				<Route path="armours/shields" element={<Shields />} />
 				<Route path="armours/cloaks" element={<Cloaks />} />

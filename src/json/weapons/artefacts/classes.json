@@ -34,7 +34,7 @@
 	{
 		"id": "priest",
 		"className": "card-priest",
-		"path": "#",
+		"path": "priest",
 		"cardImg": "/src/assets/img/promo/bg/classes/Velen.png",
 		"titleClassName": "card-title-priest",
 		"title": "Жрец",
