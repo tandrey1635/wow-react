@@ -1,13 +1,45 @@
 [
 	{
-		"id": "Arms",
+		"id": "Assassination",
 		"className": "card-rogue",
 		"path": "#",
 		"cardImg": "/src/assets/img/promo/bg/classes/rogue/",
 		"titleClassName": "card-title-rogue",
-		"title": "Оружие",
+		"title": "Ликвидация",
 		"descriptionClassName": "card-text-rogue",
-		"description": "Закажите артефакты для монаха Оружия",
+		"description": "Закажите артефакты для Разбойника Ликвидации",
+		"priceClassName": "card-price-rogue",
+		"price": 800,
+		"priceImg": "/src/assets/img/gold/bg/dollar.png",
+		"priceAlt": "$",
+		"btn": "Подробнее"
+	},
+
+	{
+		"id": "Outlaw",
+		"className": "card-rogue",
+		"path": "#",
+		"cardImg": "/src/assets/img/promo/bg/classes/rogue/",
+		"titleClassName": "card-title-rogue",
+		"title": "Головорез",
+		"descriptionClassName": "card-text-rogue",
+		"description": "Закажите артефакты для Разбойника Головореза",
+		"priceClassName": "card-price-rogue",
+		"price": 800,
+		"priceImg": "/src/assets/img/gold/bg/dollar.png",
+		"priceAlt": "$",
+		"btn": "Подробнее"
+	},
+
+	{
+		"id": "Subtlety",
+		"className": "card-rogue",
+		"path": "#",
+		"cardImg": "/src/assets/img/promo/bg/classes/rogue/",
+		"titleClassName": "card-title-rogue",
+		"title": "Скрытности",
+		"descriptionClassName": "card-text-rogue",
+		"description": "Закажите артефакты для Разбойника Скрытности",
 		"priceClassName": "card-price-rogue",
 		"price": 800,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
