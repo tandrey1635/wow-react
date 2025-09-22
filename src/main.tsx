@@ -45,6 +45,11 @@ import FangsFather  from "./pages/weapons/weapons-details/FangsFather.tsx";
 
 
 
+import WarriorArtefacts  from "./pages/weapons/artefact/Warrior.tsx";
+import DruidArtefacts  from "./pages/weapons/artefact/Druid.tsx";
+
+
+
 import Cloaks  from "./pages/armours/Cloaks.tsx";
 import Shields  from "./pages/armours/Shields.tsx";
 import FishingRods  from "./pages/armours/FishingRods.tsx";
@@ -178,6 +183,10 @@ createRoot(document.getElementById("root")!).render(
 				<Route path="weapons/legendary/weapons-details/shadowmourne" element={<Shadowmourne />} />
 				<Route path="weapons/legendary/weapons-details/tarecgosa" element={<Tarecgosa />} />
 				<Route path="weapons/legendary/weapons-details/fangs-of-the-father" element={<FangsFather />} />
+
+
+				<Route path="weapons/artefact/warrior" element={<WarriorArtefacts />} />
+				<Route path="weapons/artefact/druid" element={<DruidArtefacts />} />
 
 
 				<Route path="armours/shields" element={<Shields />} />

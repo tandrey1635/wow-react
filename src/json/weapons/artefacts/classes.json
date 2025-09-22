@@ -2,7 +2,7 @@
 	{
 		"id": "warrior",
 		"className": "card-warrior",
-		"path": "#",
+		"path": "warrior",
 		"cardImg": "/src/assets/img/promo/bg/classes/Garrosh-Hellscrim.png",
 		"titleClassName": "card-title-warrior",
 		"title": "Воин",
@@ -18,7 +18,7 @@
 	{
 		"id": "druid",
 		"className": "card-druid",
-		"path": "#",
+		"path": "druid",
 		"cardImg": "/src/assets/img/promo/bg/classes/Malfurion.png",
 		"titleClassName": "card-title-druid",
 		"title": "Друид",
