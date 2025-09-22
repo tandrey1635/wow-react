@@ -6,6 +6,7 @@ import dataClasses from '../json/weapons/artefacts/classes.json'
 import dataWarriorArtefacts from '../json/weapons/artefacts/warrior.json'
 import dataDruidArtefacts from '../json/weapons/artefacts/druid.json'
 import dataPriestArtefacts from '../json/weapons/artefacts/priest.json'
+import dataMageArtefacts from '../json/weapons/artefacts/mage.json'
 import dataArmours from '../json/armours/armours.json'
 import dataCloaks from '../json/armours/cloaks/armours.json'
 import dataMounts from '../json/mounts/mounts.json'
@@ -30,7 +31,7 @@ import dataLastTitanRaids from '../json/raids/last-titan/raids.json'
 
 
 
-const Card = ({home, raidsArmourWarrior, legendaryWeapons, warriorArtefacts, druidArtefacts, priestArtefacts, cloaks, classes, classic, burningCrusade, wrathOfTheLichKing, cataclysm, mistsOfPandaria, warlordsOfDraenor, legion, battleForAzeroth, shadowlands, dragonflight, warWithin, midnight, lastTitan}) => {
+const Card = ({home, raidsArmourWarrior, legendaryWeapons, warriorArtefacts, druidArtefacts, priestArtefacts, mageArtefacts, cloaks, classes, classic, burningCrusade, wrathOfTheLichKing, cataclysm, mistsOfPandaria, warlordsOfDraenor, legion, battleForAzeroth, shadowlands, dragonflight, warWithin, midnight, lastTitan}) => {
 
 	const basePathImg = '/src/assets/img'
 
@@ -208,6 +209,29 @@ const Card = ({home, raidsArmourWarrior, legendaryWeapons, warriorArtefacts, dru
 	})
 
 	const priestArtefactsWeapons = dataPriestArtefacts.map(card=>{
+		return (
+			<div key={card.id} className={`card ${card.className}`}>
+				<Link to={card.path}>
+					<img src={card.cardImg} className="card-img" alt={card.description} />
+				</Link>
+				<div className="card-body">
+					<Link className="card-link" to={card.path}>
+						<h3 className={`card-title ${card.titleClassName}`}>{card.title}</h3>
+					</Link>
+					<p className={`card-text ${card.descriptionClassName}`}>{card.description}</p>
+				</div>
+				<div className="card-footer d-flex justify-content-between align-items-center">
+					<p className={`card-price ${card.priceClassName}`}>
+						от {card.price}
+						<img className="dollar" src={card.priceImg} alt={dollarAlt} />
+					</p>
+					<Link to={card.path} className="card-btn">{card.btn}</Link>
+				</div>
+			</div>
+		)
+	})
+
+	const mageArtefactsWeapons = dataMageArtefacts.map(card=>{
 		return (
 			<div key={card.id} className={`card ${card.className}`}>
 				<Link to={card.path}>
@@ -1161,6 +1185,14 @@ const Card = ({home, raidsArmourWarrior, legendaryWeapons, warriorArtefacts, dru
 						<div className="tab-pane fade show active" id="pills-raids-armour">
 							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
 								{ priestArtefactsWeapons }
+							</div>
+						</div>
+					}
+
+					{ mageArtefacts &&
+						<div className="tab-pane fade show active" id="pills-raids-armour">
+							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
+								{ mageArtefactsWeapons }
 							</div>
 						</div>
 					}

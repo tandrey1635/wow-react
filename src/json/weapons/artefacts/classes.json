@@ -50,7 +50,7 @@
 	{
 		"id": "mage",
 		"className": "card-mage",
-		"path": "#",
+		"path": "mage",
 		"cardImg": "/src/assets/img/promo/bg/classes/Djaina-Proudmoure.png",
 		"titleClassName": "card-title-mage",
 		"title": "Маг",
