@@ -2,7 +2,7 @@ import { useRef, useEffect  } from "react";
 
 
 const ArrowUp = () => {
-	const arrowUpRef = useRef(null)
+	const arrowUpRef = useRef('')
 
 	useEffect (() => {
 

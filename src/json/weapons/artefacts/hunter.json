@@ -1,0 +1,49 @@
+[
+	{
+		"id": "BeastMastery",
+		"className": "card-hunter",
+		"path": "#",
+		"cardImg": "/src/assets/img/promo/bg/classes/hunter/",
+		"titleClassName": "card-title-hunter",
+		"title": "Повелитель зверей",
+		"descriptionClassName": "card-text-hunter",
+		"description": "Закажите артефакты для охотника Повелителя зверей",
+		"priceClassName": "card-price-hunter",
+		"price": 800,
+		"priceImg": "/src/assets/img/gold/bg/dollar.png",
+		"priceAlt": "$",
+		"btn": "Подробнее"
+	},
+
+	{
+		"id": "Marksmanship",
+		"className": "card-hunter",
+		"path": "#",
+		"cardImg": "/src/assets/img/promo/bg/classes/hunter/",
+		"titleClassName": "card-title-hunter",
+		"title": "Стрельба",
+		"descriptionClassName": "card-text-hunter",
+		"description": "Закажите артефакты для охотника Стрельбы",
+		"priceClassName": "card-price-hunter",
+		"price": 800,
+		"priceImg": "/src/assets/img/gold/bg/dollar.png",
+		"priceAlt": "$",
+		"btn": "Подробнее"
+	},
+
+	{
+		"id": "Survival",
+		"className": "card-hunter",
+		"path": "#",
+		"cardImg": "/src/assets/img/promo/bg/classes/hunter/",
+		"titleClassName": "card-title-hunter",
+		"title": "Выживание",
+		"descriptionClassName": "card-text-hunter",
+		"description": "Закажите артефакты для охотника Выживания",
+		"priceClassName": "card-price-hunter",
+		"price": 800,
+		"priceImg": "/src/assets/img/gold/bg/dollar.png",
+		"priceAlt": "$",
+		"btn": "Подробнее"
+	}
+]

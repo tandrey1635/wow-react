@@ -1,0 +1,49 @@
+[
+	{
+		"id": "Brewmaster",
+		"className": "card-monk",
+		"path": "#",
+		"cardImg": "/src/assets/img/promo/bg/classes/monk/",
+		"titleClassName": "card-title-monk",
+		"title": "Хмелевар",
+		"descriptionClassName": "card-text-monk",
+		"description": "Закажите артефакты для Монаха Хмелевара",
+		"priceClassName": "card-price-monk",
+		"price": 800,
+		"priceImg": "/src/assets/img/gold/bg/dollar.png",
+		"priceAlt": "$",
+		"btn": "Подробнее"
+	},
+
+	{
+		"id": "Mistweaver",
+		"className": "card-monk",
+		"path": "#",
+		"cardImg": "/src/assets/img/promo/bg/classes/monk/",
+		"titleClassName": "card-title-monk",
+		"title": "Ткач туманов",
+		"descriptionClassName": "card-text-monk",
+		"description": "Закажите артефакты для Монаха Ткача туманов",
+		"priceClassName": "card-price-monk",
+		"price": 800,
+		"priceImg": "/src/assets/img/gold/bg/dollar.png",
+		"priceAlt": "$",
+		"btn": "Подробнее"
+	},
+
+	{
+		"id": "Windwalker",
+		"className": "card-monk",
+		"path": "#",
+		"cardImg": "/src/assets/img/promo/bg/classes/monk/",
+		"titleClassName": "card-title-monk",
+		"title": "Танцующий с ветром",
+		"descriptionClassName": "card-text-monk",
+		"description": "Закажите артефакты для Монаха Танцующего с ветром",
+		"priceClassName": "card-price-monk",
+		"price": 800,
+		"priceImg": "/src/assets/img/gold/bg/dollar.png",
+		"priceAlt": "$",
+		"btn": "Подробнее"
+	}
+]

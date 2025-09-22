@@ -1,0 +1,33 @@
+[
+	{
+		"id": "Arms",
+		"className": "card-shaman",
+		"path": "#",
+		"cardImg": "/src/assets/img/promo/bg/classes/shaman/",
+		"titleClassName": "card-title-shaman",
+		"title": "Оружие",
+		"descriptionClassName": "card-text-shaman",
+		"description": "Закажите артефакты для монаха Оружия",
+		"priceClassName": "card-price-shaman",
+		"price": 800,
+		"priceImg": "/src/assets/img/gold/bg/dollar.png",
+		"priceAlt": "$",
+		"btn": "Подробнее"
+	},
+
+	{
+		"id": "Arms",
+		"className": "card-shaman",
+		"path": "#",
+		"cardImg": "/src/assets/img/promo/bg/classes/shaman/",
+		"titleClassName": "card-title-shaman",
+		"title": "Оружие",
+		"descriptionClassName": "card-text-shaman",
+		"description": "Закажите артефакты для монаха Оружия",
+		"priceClassName": "card-price-shaman",
+		"price": 800,
+		"priceImg": "/src/assets/img/gold/bg/dollar.png",
+		"priceAlt": "$",
+		"btn": "Подробнее"
+	}
+]

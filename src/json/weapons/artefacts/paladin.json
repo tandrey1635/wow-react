@@ -1,0 +1,17 @@
+[
+	{
+		"id": "Arms",
+		"className": "card-paladin",
+		"path": "#",
+		"cardImg": "/src/assets/img/promo/bg/classes/paladin/",
+		"titleClassName": "card-title-paladin",
+		"title": "Оружие",
+		"descriptionClassName": "card-text-paladin",
+		"description": "Закажите артефакты для монаха Оружия",
+		"priceClassName": "card-price-paladin",
+		"price": 800,
+		"priceImg": "/src/assets/img/gold/bg/dollar.png",
+		"priceAlt": "$",
+		"btn": "Подробнее"
+	}
+]

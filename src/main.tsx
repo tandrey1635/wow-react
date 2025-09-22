@@ -49,6 +49,15 @@ import WarriorArtefacts  from "./pages/weapons/artefact/Warrior.tsx";
 import DruidArtefacts  from "./pages/weapons/artefact/Druid.tsx";
 import PriestArtefacts  from "./pages/weapons/artefact/Priest.tsx";
 import MageArtefacts  from "./pages/weapons/artefact/Mage.tsx";
+import MonkArtefacts  from "./pages/weapons/artefact/Monk.tsx";
+import HunterArtefacts  from "./pages/weapons/artefact/Hunter.tsx";
+import DemonHunterArtefacts  from "./pages/weapons/artefact/DemonHunter.tsx";
+import PaladinArtefacts  from "./pages/weapons/artefact/Paladin.tsx";
+import RogueArtefacts  from "./pages/weapons/artefact/Rogue.tsx";
+import DeathKnightArtefacts  from "./pages/weapons/artefact/DeathKnight.tsx";
+import WarlockArtefacts  from "./pages/weapons/artefact/Warlock.tsx";
+import ShamanArtefacts  from "./pages/weapons/artefact/Shaman.tsx";
+
 
 
 import Cloaks  from "./pages/armours/Cloaks.tsx";
@@ -189,6 +198,14 @@ createRoot(document.getElementById("root")!).render(
 				<Route path="weapons/artefact/druid" element={<DruidArtefacts />} />
 				<Route path="weapons/artefact/priest" element={<PriestArtefacts />} />
 				<Route path="weapons/artefact/mage" element={<MageArtefacts />} />
+				<Route path="weapons/artefact/monk" element={<MonkArtefacts />} />
+				<Route path="weapons/artefact/hunter" element={<HunterArtefacts />} />
+				<Route path="weapons/artefact/demon-hunter" element={<DemonHunterArtefacts />} />
+				<Route path="weapons/artefact/paladin" element={<PaladinArtefacts />} />
+				<Route path="weapons/artefact/rogue" element={<RogueArtefacts />} />
+				<Route path="weapons/artefact/death-knight" element={<DeathKnightArtefacts />} />
+				<Route path="weapons/artefact/warlock" element={<WarlockArtefacts />} />
+				<Route path="weapons/artefact/shaman" element={<ShamanArtefacts />} />
 
 
 				<Route path="armours/shields" element={<Shields />} />
