@@ -1,13 +1,45 @@
 [
 	{
-		"id": "Arms",
+		"id": "Holy",
 		"className": "card-paladin",
 		"path": "#",
 		"cardImg": "/src/assets/img/promo/bg/classes/paladin/",
 		"titleClassName": "card-title-paladin",
-		"title": "Оружие",
+		"title": "Свет ",
 		"descriptionClassName": "card-text-paladin",
-		"description": "Закажите артефакты для монаха Оружия",
+		"description": "Закажите артефакты для Паладина Света",
+		"priceClassName": "card-price-paladin",
+		"price": 800,
+		"priceImg": "/src/assets/img/gold/bg/dollar.png",
+		"priceAlt": "$",
+		"btn": "Подробнее"
+	},
+
+	{
+		"id": "Protection",
+		"className": "card-paladin",
+		"path": "#",
+		"cardImg": "/src/assets/img/promo/bg/classes/paladin/",
+		"titleClassName": "card-title-paladin",
+		"title": "Защита",
+		"descriptionClassName": "card-text-paladin",
+		"description": "Закажите артефакты для Паладина Защиты",
+		"priceClassName": "card-price-paladin",
+		"price": 800,
+		"priceImg": "/src/assets/img/gold/bg/dollar.png",
+		"priceAlt": "$",
+		"btn": "Подробнее"
+	},
+
+	{
+		"id": "Retribution",
+		"className": "card-paladin",
+		"path": "#",
+		"cardImg": "/src/assets/img/promo/bg/classes/paladin/",
+		"titleClassName": "card-title-paladin",
+		"title": "Воздаяние",
+		"descriptionClassName": "card-text-paladin",
+		"description": "Закажите артефакты для Паладина Воздаяния",
 		"priceClassName": "card-price-paladin",
 		"price": 800,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
