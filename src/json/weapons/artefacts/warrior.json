@@ -35,7 +35,7 @@
 		"id": "Protection",
 		"className": "card-warrior",
 		"path": "#",
-		"cardImg": "/src/assets/img/promo/bg/classes/warrior/",
+		"cardImg": "/src/assets/img/promo/bg/classes/warrior/Protection.jpg",
 		"titleClassName": "card-title-warrior",
 		"title": "Защита",
 		"descriptionClassName": "card-text-warrior",
