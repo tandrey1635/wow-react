@@ -35,7 +35,7 @@
 		"id": "Restoration",
 		"className": "card-shaman",
 		"path": "#",
-		"cardImg": "/src/assets/img/promo/bg/classes/shaman/",
+		"cardImg": "/src/assets/img/promo/bg/classes/shaman/Restoration.jpg",
 		"titleClassName": "card-title-shaman",
 		"title": "Исцеление",
 		"descriptionClassName": "card-text-shaman",
