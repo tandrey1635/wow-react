@@ -60,6 +60,11 @@ import ShamanArtefacts  from "./pages/weapons/artefact/Shaman.tsx";
 
 
 
+import Arms  from "./pages/weapons/artefact/warrior/Arms.tsx";
+import Fury  from "./pages/weapons/artefact/warrior/Fury.tsx";
+import Protection  from "./pages/weapons/artefact/warrior/Protection.tsx";
+
+
 import Cloaks  from "./pages/armours/Cloaks.tsx";
 import Shields  from "./pages/armours/Shields.tsx";
 import FishingRods  from "./pages/armours/FishingRods.tsx";
@@ -206,6 +211,11 @@ createRoot(document.getElementById("root")!).render(
 				<Route path="weapons/artefact/death-knight" element={<DeathKnightArtefacts />} />
 				<Route path="weapons/artefact/warlock" element={<WarlockArtefacts />} />
 				<Route path="weapons/artefact/shaman" element={<ShamanArtefacts />} />
+
+
+				<Route path="weapons/artefact/warrior/arms" element={<Arms />} />
+				<Route path="weapons/artefact/warrior/fury" element={<Fury />} />
+				<Route path="weapons/artefact/warrior/protection" element={<Protection />} />
 
 
 				<Route path="armours/shields" element={<Shields />} />
