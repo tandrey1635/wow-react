@@ -97,7 +97,7 @@ const Card = ({home, raidsArmourWarrior, legendaryWeapons, classes, warriorArtef
 	const dollarAlt = '$'
 
 
-	const raidsArmours = dataRaidArmours.map(card=>{
+	const renderCardItems = (dataJson) => dataJson.map(card=> {
 		return (
 			<div key={card.id} className={`card ${card.className}`}>
 				<Link to={card.path}>
@@ -120,557 +120,8 @@ const Card = ({home, raidsArmourWarrior, legendaryWeapons, classes, warriorArtef
 		)
 	})
 
-	const weapons = dataWeapons.map(card=>{
-		return (
-			<div key={card.id} className={`card ${card.className}`}>
-				<Link to={card.path}>
-					<img src={card.cardImg} className="card-img" alt={card.description} />
-				</Link>
-				<div className="card-body">
-					<Link className="card-link" to={card.path}>
-						<h3 className={`card-title ${card.titleClassName}`}>{card.title}</h3>
-					</Link>
-					<p className={`card-text ${card.descriptionClassName}`}>{card.description}</p>
-				</div>
-				<div className="card-footer d-flex justify-content-between align-items-center">
-					<p className={`card-price ${card.priceClassName}`}>
-						от {card.price}
-						<img className="dollar" src={card.priceImg} alt={dollarAlt} />
-					</p>
-					<Link to={card.path} className="card-btn">{card.btn}</Link>
-				</div>
-			</div>
-		)
-	})
 
-	const legendary = dataLegendaryWeapons.map(card=>{
-		return (
-			<div key={card.id} className={`card ${card.className}`}>
-				<Link to={card.path}>
-					<img src={card.cardImg} className="card-img" alt={card.description} />
-				</Link>
-				<div className="card-body">
-					<Link className="card-link" to={card.path}>
-						<h3 className={`card-title ${card.titleClassName}`}>{card.title}</h3>
-					</Link>
-					<p className={`card-text ${card.descriptionClassName}`}>{card.description}</p>
-				</div>
-				<div className="card-footer d-flex justify-content-between align-items-center">
-					<p className={`card-price ${card.priceClassName}`}>
-						от {card.price}
-						<img className="dollar" src={card.priceImg} alt={dollarAlt} />
-					</p>
-					<Link to={card.path} className="card-btn">{card.btn}</Link>
-				</div>
-			</div>
-		)
-	})
 
-	const classesArtefact = dataClasses.map(card=>{
-		return (
-			<div key={card.id} className={`card ${card.className}`}>
-				<Link to={card.path}>
-					<img src={card.cardImg} className="card-img" alt={card.description} />
-				</Link>
-				<div className="card-body">
-					<Link className="card-link" to={card.path}>
-						<h3 className={`card-title ${card.titleClassName}`}>{card.title}</h3>
-					</Link>
-					<p className={`card-text ${card.descriptionClassName}`}>{card.description}</p>
-				</div>
-				<div className="card-footer d-flex justify-content-between align-items-center">
-					<p className={`card-price ${card.priceClassName}`}>
-						от {card.price}
-						<img className="dollar" src={card.priceImg} alt={dollarAlt} />
-					</p>
-					<Link to={card.path} className="card-btn">{card.btn}</Link>
-				</div>
-			</div>
-		)
-	})
-
-	const warriorArtefactsWeapons = dataWarriorArtefacts.map(card=>{
-		return (
-			<div key={card.id} className={`card ${card.className}`}>
-				<Link to={card.path}>
-					<img src={card.cardImg} className="card-img" alt={card.description} />
-				</Link>
-				<div className="card-body">
-					<Link className="card-link" to={card.path}>
-						<h3 className={`card-title ${card.titleClassName}`}>{card.title}</h3>
-					</Link>
-					<p className={`card-text ${card.descriptionClassName}`}>{card.description}</p>
-				</div>
-				<div className="card-footer d-flex justify-content-between align-items-center">
-					<p className={`card-price ${card.priceClassName}`}>
-						от {card.price}
-						<img className="dollar" src={card.priceImg} alt={dollarAlt} />
-					</p>
-					<Link to={card.path} className="card-btn">{card.btn}</Link>
-				</div>
-			</div>
-		)
-	})
-
-	const druidArtefactsWeapons = dataDruidArtefacts.map(card=>{
-		return (
-			<div key={card.id} className={`card ${card.className}`}>
-				<Link to={card.path}>
-					<img src={card.cardImg} className="card-img" alt={card.description} />
-				</Link>
-				<div className="card-body">
-					<Link className="card-link" to={card.path}>
-						<h3 className={`card-title ${card.titleClassName}`}>{card.title}</h3>
-					</Link>
-					<p className={`card-text ${card.descriptionClassName}`}>{card.description}</p>
-				</div>
-				<div className="card-footer d-flex justify-content-between align-items-center">
-					<p className={`card-price ${card.priceClassName}`}>
-						от {card.price}
-						<img className="dollar" src={card.priceImg} alt={dollarAlt} />
-					</p>
-					<Link to={card.path} className="card-btn">{card.btn}</Link>
-				</div>
-			</div>
-		)
-	})
-
-	const priestArtefactsWeapons = dataPriestArtefacts.map(card=>{
-		return (
-			<div key={card.id} className={`card ${card.className}`}>
-				<Link to={card.path}>
-					<img src={card.cardImg} className="card-img" alt={card.description} />
-				</Link>
-				<div className="card-body">
-					<Link className="card-link" to={card.path}>
-						<h3 className={`card-title ${card.titleClassName}`}>{card.title}</h3>
-					</Link>
-					<p className={`card-text ${card.descriptionClassName}`}>{card.description}</p>
-				</div>
-				<div className="card-footer d-flex justify-content-between align-items-center">
-					<p className={`card-price ${card.priceClassName}`}>
-						от {card.price}
-						<img className="dollar" src={card.priceImg} alt={dollarAlt} />
-					</p>
-					<Link to={card.path} className="card-btn">{card.btn}</Link>
-				</div>
-			</div>
-		)
-	})
-
-	const mageArtefactsWeapons = dataMageArtefacts.map(card=>{
-		return (
-			<div key={card.id} className={`card ${card.className}`}>
-				<Link to={card.path}>
-					<img src={card.cardImg} className="card-img" alt={card.description} />
-				</Link>
-				<div className="card-body">
-					<Link className="card-link" to={card.path}>
-						<h3 className={`card-title ${card.titleClassName}`}>{card.title}</h3>
-					</Link>
-					<p className={`card-text ${card.descriptionClassName}`}>{card.description}</p>
-				</div>
-				<div className="card-footer d-flex justify-content-between align-items-center">
-					<p className={`card-price ${card.priceClassName}`}>
-						от {card.price}
-						<img className="dollar" src={card.priceImg} alt={dollarAlt} />
-					</p>
-					<Link to={card.path} className="card-btn">{card.btn}</Link>
-				</div>
-			</div>
-		)
-	})
-
-	const monkArtefactsWeapons = dataMonkArtefacts.map(card=>{
-		return (
-			<div key={card.id} className={`card ${card.className}`}>
-				<Link to={card.path}>
-					<img src={card.cardImg} className="card-img" alt={card.description} />
-				</Link>
-				<div className="card-body">
-					<Link className="card-link" to={card.path}>
-						<h3 className={`card-title ${card.titleClassName}`}>{card.title}</h3>
-					</Link>
-					<p className={`card-text ${card.descriptionClassName}`}>{card.description}</p>
-				</div>
-				<div className="card-footer d-flex justify-content-between align-items-center">
-					<p className={`card-price ${card.priceClassName}`}>
-						от {card.price}
-						<img className="dollar" src={card.priceImg} alt={dollarAlt} />
-					</p>
-					<Link to={card.path} className="card-btn">{card.btn}</Link>
-				</div>
-			</div>
-		)
-	})
-
-	const hunterArtefactsWeapons = dataHunterArtefacts.map(card=>{
-		return (
-			<div key={card.id} className={`card ${card.className}`}>
-				<Link to={card.path}>
-					<img src={card.cardImg} className="card-img" alt={card.description} />
-				</Link>
-				<div className="card-body">
-					<Link className="card-link" to={card.path}>
-						<h3 className={`card-title ${card.titleClassName}`}>{card.title}</h3>
-					</Link>
-					<p className={`card-text ${card.descriptionClassName}`}>{card.description}</p>
-				</div>
-				<div className="card-footer d-flex justify-content-between align-items-center">
-					<p className={`card-price ${card.priceClassName}`}>
-						от {card.price}
-						<img className="dollar" src={card.priceImg} alt={dollarAlt} />
-					</p>
-					<Link to={card.path} className="card-btn">{card.btn}</Link>
-				</div>
-			</div>
-		)
-	})
-
-	const demonHunterArtefactsWeapons = dataDemonHunterArtefacts.map(card=>{
-		return (
-			<div key={card.id} className={`card ${card.className}`}>
-				<Link to={card.path}>
-					<img src={card.cardImg} className="card-img" alt={card.description} />
-				</Link>
-				<div className="card-body">
-					<Link className="card-link" to={card.path}>
-						<h3 className={`card-title ${card.titleClassName}`}>{card.title}</h3>
-					</Link>
-					<p className={`card-text ${card.descriptionClassName}`}>{card.description}</p>
-				</div>
-				<div className="card-footer d-flex justify-content-between align-items-center">
-					<p className={`card-price ${card.priceClassName}`}>
-						от {card.price}
-						<img className="dollar" src={card.priceImg} alt={dollarAlt} />
-					</p>
-					<Link to={card.path} className="card-btn">{card.btn}</Link>
-				</div>
-			</div>
-		)
-	})
-
-	const paladinArtefactsWeapons = dataPaladinArtefacts.map(card=>{
-		return (
-			<div key={card.id} className={`card ${card.className}`}>
-				<Link to={card.path}>
-					<img src={card.cardImg} className="card-img" alt={card.description} />
-				</Link>
-				<div className="card-body">
-					<Link className="card-link" to={card.path}>
-						<h3 className={`card-title ${card.titleClassName}`}>{card.title}</h3>
-					</Link>
-					<p className={`card-text ${card.descriptionClassName}`}>{card.description}</p>
-				</div>
-				<div className="card-footer d-flex justify-content-between align-items-center">
-					<p className={`card-price ${card.priceClassName}`}>
-						от {card.price}
-						<img className="dollar" src={card.priceImg} alt={dollarAlt} />
-					</p>
-					<Link to={card.path} className="card-btn">{card.btn}</Link>
-				</div>
-			</div>
-		)
-	})
-
-	const rogueArtefactsWeapons = dataRogueArtefacts.map(card=>{
-		return (
-			<div key={card.id} className={`card ${card.className}`}>
-				<Link to={card.path}>
-					<img src={card.cardImg} className="card-img" alt={card.description} />
-				</Link>
-				<div className="card-body">
-					<Link className="card-link" to={card.path}>
-						<h3 className={`card-title ${card.titleClassName}`}>{card.title}</h3>
-					</Link>
-					<p className={`card-text ${card.descriptionClassName}`}>{card.description}</p>
-				</div>
-				<div className="card-footer d-flex justify-content-between align-items-center">
-					<p className={`card-price ${card.priceClassName}`}>
-						от {card.price}
-						<img className="dollar" src={card.priceImg} alt={dollarAlt} />
-					</p>
-					<Link to={card.path} className="card-btn">{card.btn}</Link>
-				</div>
-			</div>
-		)
-	})
-
-	const deathKnightArtefactsWeapons = dataDeathKnightArtefacts.map(card=>{
-		return (
-			<div key={card.id} className={`card ${card.className}`}>
-				<Link to={card.path}>
-					<img src={card.cardImg} className="card-img" alt={card.description} />
-				</Link>
-				<div className="card-body">
-					<Link className="card-link" to={card.path}>
-						<h3 className={`card-title ${card.titleClassName}`}>{card.title}</h3>
-					</Link>
-					<p className={`card-text ${card.descriptionClassName}`}>{card.description}</p>
-				</div>
-				<div className="card-footer d-flex justify-content-between align-items-center">
-					<p className={`card-price ${card.priceClassName}`}>
-						от {card.price}
-						<img className="dollar" src={card.priceImg} alt={dollarAlt} />
-					</p>
-					<Link to={card.path} className="card-btn">{card.btn}</Link>
-				</div>
-			</div>
-		)
-	})
-
-	const warlockArtefactsWeapons = dataWarlockArtefacts.map(card=>{
-		return (
-			<div key={card.id} className={`card ${card.className}`}>
-				<Link to={card.path}>
-					<img src={card.cardImg} className="card-img" alt={card.description} />
-				</Link>
-				<div className="card-body">
-					<Link className="card-link" to={card.path}>
-						<h3 className={`card-title ${card.titleClassName}`}>{card.title}</h3>
-					</Link>
-					<p className={`card-text ${card.descriptionClassName}`}>{card.description}</p>
-				</div>
-				<div className="card-footer d-flex justify-content-between align-items-center">
-					<p className={`card-price ${card.priceClassName}`}>
-						от {card.price}
-						<img className="dollar" src={card.priceImg} alt={dollarAlt} />
-					</p>
-					<Link to={card.path} className="card-btn">{card.btn}</Link>
-				</div>
-			</div>
-		)
-	})
-
-	const shamanArtefactsWeapons = dataShamanArtefacts.map(card=>{
-		return (
-			<div key={card.id} className={`card ${card.className}`}>
-				<Link to={card.path}>
-					<img src={card.cardImg} className="card-img" alt={card.description} />
-				</Link>
-				<div className="card-body">
-					<Link className="card-link" to={card.path}>
-						<h3 className={`card-title ${card.titleClassName}`}>{card.title}</h3>
-					</Link>
-					<p className={`card-text ${card.descriptionClassName}`}>{card.description}</p>
-				</div>
-				<div className="card-footer d-flex justify-content-between align-items-center">
-					<p className={`card-price ${card.priceClassName}`}>
-						от {card.price}
-						<img className="dollar" src={card.priceImg} alt={dollarAlt} />
-					</p>
-					<Link to={card.path} className="card-btn">{card.btn}</Link>
-				</div>
-			</div>
-		)
-	})
-
-	const armsWarriorArtefact = dataArmsWarriorArtefact.map(card=>{
-		return (
-			<div key={card.id} className={`card ${card.className}`}>
-				<Link to={card.path}>
-					<img src={card.cardImg} className="card-img" alt={card.description} />
-				</Link>
-				<div className="card-body">
-					<Link className="card-link" to={card.path}>
-						<h3 className={`card-title ${card.titleClassName}`}>{card.title}</h3>
-					</Link>
-					<p className={`card-text ${card.descriptionClassName}`}>{card.description}</p>
-				</div>
-				<div className="card-footer d-flex justify-content-between align-items-center">
-					<p className={`card-price ${card.priceClassName}`}>
-						от {card.price}
-						<img className="dollar" src={card.priceImg} alt={dollarAlt} />
-					</p>
-					<Link to={card.path} className="card-btn">{card.btn}</Link>
-				</div>
-			</div>
-		)
-	})
-
-	const furyWarriorArtefact = dataFuryWarriorArtefact.map(card=>{
-		return (
-			<div key={card.id} className={`card ${card.className}`}>
-				<Link to={card.path}>
-					<img src={card.cardImg} className="card-img" alt={card.description} />
-				</Link>
-				<div className="card-body">
-					<Link className="card-link" to={card.path}>
-						<h3 className={`card-title ${card.titleClassName}`}>{card.title}</h3>
-					</Link>
-					<p className={`card-text ${card.descriptionClassName}`}>{card.description}</p>
-				</div>
-				<div className="card-footer d-flex justify-content-between align-items-center">
-					<p className={`card-price ${card.priceClassName}`}>
-						от {card.price}
-						<img className="dollar" src={card.priceImg} alt={dollarAlt} />
-					</p>
-					<Link to={card.path} className="card-btn">{card.btn}</Link>
-				</div>
-			</div>
-		)
-	})
-
-	const protectionWarriorArtefact = dataProtectionWarriorArtefact.map(card=>{
-		return (
-			<div key={card.id} className={`card ${card.className}`}>
-				<Link to={card.path}>
-					<img src={card.cardImg} className="card-img" alt={card.description} />
-				</Link>
-				<div className="card-body">
-					<Link className="card-link" to={card.path}>
-						<h3 className={`card-title ${card.titleClassName}`}>{card.title}</h3>
-					</Link>
-					<p className={`card-text ${card.descriptionClassName}`}>{card.description}</p>
-				</div>
-				<div className="card-footer d-flex justify-content-between align-items-center">
-					<p className={`card-price ${card.priceClassName}`}>
-						от {card.price}
-						<img className="dollar" src={card.priceImg} alt={dollarAlt} />
-					</p>
-					<Link to={card.path} className="card-btn">{card.btn}</Link>
-				</div>
-			</div>
-		)
-	})
-
-	const armours = dataArmours.map(card=>{
-		return (
-			<div key={card.id} className={`card ${card.className}`}>
-				<Link to={card.path}>
-					<img src={card.cardImg} className="card-img" alt={card.description} />
-				</Link>
-				<div className="card-body">
-					<Link className="card-link" to={card.path}>
-						<h3 className={`card-title ${card.titleClassName}`}>{card.title}</h3>
-					</Link>
-					<p className={`card-text ${card.descriptionClassName}`}>{card.description}</p>
-				</div>
-				<div className="card-footer d-flex justify-content-between align-items-center">
-					<p className={`card-price ${card.priceClassName}`}>
-						от {card.price}
-						<img className="dollar" src={card.priceImg} alt={dollarAlt} />
-					</p>
-					<Link to={card.path} className="card-btn">{card.btn}</Link>
-				</div>
-			</div>
-		)
-	})
-
-	const cloaksArmours = dataCloaks.map(card=>{
-		return (
-			<div key={card.id} className={`card ${card.className}`}>
-				<Link to={card.path}>
-					<img src={card.cardImg} className="card-img" alt={card.description} />
-				</Link>
-				<div className="card-body">
-					<Link className="card-link" to={card.path}>
-						<h3 className={`card-title ${card.titleClassName}`}>{card.title}</h3>
-					</Link>
-					<p className={`card-text ${card.descriptionClassName}`}>{card.description}</p>
-				</div>
-				<div className="card-footer d-flex justify-content-between align-items-center">
-					<p className={`card-price ${card.priceClassName}`}>
-						от {card.price}
-						<img className="dollar" src={card.priceImg} alt={dollarAlt} />
-					</p>
-					<Link to={card.path} className="card-btn">{card.btn}</Link>
-				</div>
-			</div>
-		)
-	})
-
-	const mounts = dataMounts.map(card=>{
-		return (
-			<div key={card.id} className={`card ${card.className}`}>
-				<Link to={card.path}>
-					<img src={card.cardImg} className="card-img" alt={card.description} />
-				</Link>
-				<div className="card-body">
-					<Link className="card-link" to={card.path}>
-						<h3 className={`card-title ${card.titleClassName}`}>{card.title}</h3>
-					</Link>
-					<p className={`card-text ${card.descriptionClassName}`}>{card.description}</p>
-				</div>
-				<div className="card-footer d-flex justify-content-between align-items-center">
-					<p className={`card-price ${card.priceClassName}`}>
-						от {card.price}
-						<img className="dollar" src={card.priceImg} alt={dollarAlt} />
-					</p>
-					<Link to={card.path} className="card-btn">{card.btn}</Link>
-				</div>
-			</div>
-		)
-	})
-
-	const gold = dataGold.map(card=>{
-		return (
-			<div key={card.id} className={`card ${card.className}`}>
-				<Link to={card.path}>
-					<img src={card.cardImg} className="card-img" alt={card.description} />
-				</Link>
-				<div className="card-body">
-					<Link className="card-link" to={card.path}>
-						<h3 className={`card-title ${card.titleClassName}`}>{card.title}</h3>
-					</Link>
-					<p className={`card-text ${card.descriptionClassName}`}>{card.description}</p>
-				</div>
-				<div className="card-footer d-flex justify-content-between align-items-center">
-					<p className={`card-price ${card.priceClassName}`}>
-						от {card.price}
-						<img className="dollar" src={card.priceImg} alt={dollarAlt} />
-					</p>
-					<Link to={card.path} className="card-btn">{card.btn}</Link>
-				</div>
-			</div>
-		)
-	})
-
-	const professions = dataProfessions.map(card=>{
-		return (
-			<div key={card.id} className={`card ${card.className}`}>
-				<Link to={card.path}>
-					<img src={card.cardImg} className="card-img" alt={card.description} />
-				</Link>
-				<div className="card-body">
-					<Link className="card-link" to={card.path}>
-						<h3 className={`card-title ${card.titleClassName}`}>{card.title}</h3>
-					</Link>
-					<p className={`card-text ${card.descriptionClassName}`}>{card.description}</p>
-				</div>
-				<div className="card-footer d-flex justify-content-between align-items-center">
-					<p className={`card-price ${card.priceClassName}`}>
-						от {card.price}
-						<img className="dollar" src={card.priceImg} alt={dollarAlt} />
-					</p>
-					<Link to={card.path} className="card-btn">{card.btn}</Link>
-				</div>
-			</div>
-		)
-	})
-
-	const pvp = dataPvp.map(card=>{
-		return (
-			<div key={card.id} className={`card ${card.className}`}>
-				<Link to={card.path}>
-					<img src={card.cardImg} className="card-img" alt={card.description} />
-				</Link>
-				<div className="card-body">
-					<Link className="card-link" to={card.path}>
-						<h3 className={`card-title ${card.titleClassName}`}>{card.title}</h3>
-					</Link>
-					<p className={`card-text ${card.descriptionClassName}`}>{card.description}</p>
-				</div>
-				<div className="card-footer d-flex justify-content-between align-items-center">
-					<p className={`card-price ${card.priceClassName}`}>
-						от {card.price}
-						<img className="dollar" src={card.priceImg} alt={dollarAlt} />
-					</p>
-					<Link to={card.path} className="card-btn">{card.btn}</Link>
-				</div>
-			</div>
-		)
-	})
 
 
 
@@ -1023,49 +474,49 @@ const Card = ({home, raidsArmourWarrior, legendaryWeapons, classes, warriorArtef
 							{/* Таб контент рейдовая броня */}
 							<div className="tab-pane fade show active" id="pills-raids-armour">
 								<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-									{ raidsArmours }
+									{ renderCardItems(dataRaidArmours) }
 								</div>
 							</div>
 
 							{ /* Таб контент оружие */}
 							<div className="tab-pane fade show active mt-5" id="pills-weapons">
 								<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-									{ weapons }
+									{ renderCardItems(dataWeapons) }
 								</div>
 							</div>
 
 							{/* Таб контент броня */}
 							<div className="tab-pane fade show active mt-5" id="pills-armours">
 								<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-									{ armours }
+									{ renderCardItems(dataArmours) }
 								</div>
 							</div>
 
 							{/* Таб контент маунты */}
 							<div className="tab-pane fade fade show active mt-5" id="pills-mounts" >
 								<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-									{ mounts }
+									{ renderCardItems(dataMounts) }
 								</div>
 							</div>
 
 							{/* Таб контент голд */}
 							<div className="tab-pane fade fade show active mt-5" id="pills-gold">
 								<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-									{ gold }
+									{ renderCardItems(dataGold) }
 								</div>
 							</div>
 
 							{/* Таб контент профессии */}
 							<div className="tab-pane fade fade show active mt-5" id="pills-professions">
 								<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-									{ professions }
+									{ renderCardItems(dataProfessions) }
 								</div>
 							</div>
 
 							{/* Таб контент pvp */}
 							<div className="tab-pane fade fade show active mt-5" id="pills-pvp">
 								<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-									{ pvp }
+									{ renderCardItems(dataPvp) }
 								</div>
 							</div>
 
@@ -1432,7 +883,7 @@ const Card = ({home, raidsArmourWarrior, legendaryWeapons, classes, warriorArtef
 					{ legendaryWeapons &&
 						<div className="tab-pane fade show active" id="pills-raids-armour">
 							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-								{ legendary }
+								{ renderCardItems(dataLegendaryWeapons) }
 							</div>
 						</div>
 					}
@@ -1440,7 +891,7 @@ const Card = ({home, raidsArmourWarrior, legendaryWeapons, classes, warriorArtef
 					{ classes &&
 						<div className="tab-pane fade show active" id="pills-raids-armour">
 							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-								{ classesArtefact }
+								{ renderCardItems(dataClasses) }
 							</div>
 						</div>
 					}
@@ -1448,7 +899,7 @@ const Card = ({home, raidsArmourWarrior, legendaryWeapons, classes, warriorArtef
 					{ warriorArtefacts &&
 						<div className="tab-pane fade show active" id="pills-raids-armour">
 							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-								{ warriorArtefactsWeapons }
+								{ renderCardItems(dataWarriorArtefacts) }
 							</div>
 						</div>
 					}
@@ -1456,7 +907,7 @@ const Card = ({home, raidsArmourWarrior, legendaryWeapons, classes, warriorArtef
 					{ druidArtefacts &&
 						<div className="tab-pane fade show active" id="pills-raids-armour">
 							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-								{ druidArtefactsWeapons }
+								{ renderCardItems(dataDruidArtefacts) }
 							</div>
 						</div>
 					}
@@ -1464,7 +915,7 @@ const Card = ({home, raidsArmourWarrior, legendaryWeapons, classes, warriorArtef
 					{ priestArtefacts &&
 						<div className="tab-pane fade show active" id="pills-raids-armour">
 							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-								{ priestArtefactsWeapons }
+								{ renderCardItems(dataPriestArtefacts) }
 							</div>
 						</div>
 					}
@@ -1472,7 +923,7 @@ const Card = ({home, raidsArmourWarrior, legendaryWeapons, classes, warriorArtef
 					{ mageArtefacts &&
 						<div className="tab-pane fade show active" id="pills-raids-armour">
 							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-								{ mageArtefactsWeapons }
+								{ renderCardItems(dataMageArtefacts) }
 							</div>
 						</div>
 					}
@@ -1480,7 +931,7 @@ const Card = ({home, raidsArmourWarrior, legendaryWeapons, classes, warriorArtef
 					{ monkArtefacts &&
 						<div className="tab-pane fade show active" id="pills-raids-armour">
 							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-								{ monkArtefactsWeapons }
+								{ renderCardItems(dataMonkArtefacts) }
 							</div>
 						</div>
 					}
@@ -1488,7 +939,7 @@ const Card = ({home, raidsArmourWarrior, legendaryWeapons, classes, warriorArtef
 					{ hunterArtefacts &&
 						<div className="tab-pane fade show active" id="pills-raids-armour">
 							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-								{ hunterArtefactsWeapons }
+								{ renderCardItems(dataHunterArtefacts) }
 							</div>
 						</div>
 					}
@@ -1496,7 +947,7 @@ const Card = ({home, raidsArmourWarrior, legendaryWeapons, classes, warriorArtef
 					{ demonHunterArtefacts &&
 						<div className="tab-pane fade show active" id="pills-raids-armour">
 							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-								{ demonHunterArtefactsWeapons }
+								{ renderCardItems(dataDemonHunterArtefacts) }
 							</div>
 						</div>
 					}
@@ -1504,7 +955,7 @@ const Card = ({home, raidsArmourWarrior, legendaryWeapons, classes, warriorArtef
 					{ paladinArtefacts &&
 						<div className="tab-pane fade show active" id="pills-raids-armour">
 							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-								{ paladinArtefactsWeapons }
+								{ renderCardItems(dataPaladinArtefacts) }
 							</div>
 						</div>
 					}
@@ -1512,7 +963,7 @@ const Card = ({home, raidsArmourWarrior, legendaryWeapons, classes, warriorArtef
 					{ rogueArtefacts &&
 						<div className="tab-pane fade show active" id="pills-raids-armour">
 							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-								{ rogueArtefactsWeapons }
+								{ renderCardItems(dataRogueArtefacts) }
 							</div>
 						</div>
 					}
@@ -1520,7 +971,7 @@ const Card = ({home, raidsArmourWarrior, legendaryWeapons, classes, warriorArtef
 					{ deathKnightArtefacts &&
 						<div className="tab-pane fade show active" id="pills-raids-armour">
 							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-								{ deathKnightArtefactsWeapons }
+								{ renderCardItems(dataDeathKnightArtefacts) }
 							</div>
 						</div>
 					}
@@ -1528,7 +979,7 @@ const Card = ({home, raidsArmourWarrior, legendaryWeapons, classes, warriorArtef
 					{ warlockArtefacts &&
 						<div className="tab-pane fade show active" id="pills-raids-armour">
 							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-								{ warlockArtefactsWeapons }
+								{ renderCardItems(dataWarlockArtefacts) }
 							</div>
 						</div>
 					}
@@ -1536,7 +987,7 @@ const Card = ({home, raidsArmourWarrior, legendaryWeapons, classes, warriorArtef
 					{ shamanArtefacts &&
 						<div className="tab-pane fade show active" id="pills-raids-armour">
 							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-								{ shamanArtefactsWeapons }
+								{ renderCardItems(dataShamanArtefacts) }
 							</div>
 						</div>
 					}
@@ -1544,7 +995,7 @@ const Card = ({home, raidsArmourWarrior, legendaryWeapons, classes, warriorArtef
 					{ armsWarrior &&
 						<div className="tab-pane fade show active" id="pills-raids-armour">
 							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-								{ armsWarriorArtefact }
+								{ renderCardItems(dataArmsWarriorArtefact) }
 							</div>
 						</div>
 					}
@@ -1552,7 +1003,7 @@ const Card = ({home, raidsArmourWarrior, legendaryWeapons, classes, warriorArtef
 					{ furyWarrior &&
 						<div className="tab-pane fade show active" id="pills-raids-armour">
 							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-								{ furyWarriorArtefact }
+								{ renderCardItems(dataFuryWarriorArtefact) }
 							</div>
 						</div>
 					}
@@ -1560,7 +1011,7 @@ const Card = ({home, raidsArmourWarrior, legendaryWeapons, classes, warriorArtef
 					{ protectionWarrior &&
 						<div className="tab-pane fade show active" id="pills-raids-armour">
 							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-								{ protectionWarriorArtefact }
+								{ renderCardItems(dataProtectionWarriorArtefact) }
 							</div>
 						</div>
 					}
@@ -1568,7 +1019,7 @@ const Card = ({home, raidsArmourWarrior, legendaryWeapons, classes, warriorArtef
 					{ cloaks &&
 						<div className="tab-pane fade show active" id="pills-raids-armour">
 							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-								{ cloaksArmours }
+								{ renderCardItems(dataCloaks) }
 							</div>
 						</div>
 					}
