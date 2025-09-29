@@ -4,136 +4,136 @@ const Announcement = ({ home, warrior, druid, priest, mage, monk, hunter, demonH
 			<div className="container">
 				<div className="announcement__description my-4 my-lg-5">
 					<h1
-						className={`${
+						className={`announcement__header ${
 							warrior
-								? "announcement__header announcement__header_warrior"
+								? "announcement__header_warrior"
 								:
 							druid
-								? "announcement__header announcement__header_druid"
+								? "announcement__header_druid"
 								:
 							priest
-								? "announcement__header announcement__header_priest"
+								? "announcement__header_priest"
 								:
 							mage
-								? "announcement__header announcement__header_mage"
+								? "announcement__header_mage"
 								:
 							monk
-								? "announcement__header announcement__header_monk"
+								? "announcement__header_monk"
 								:
 							hunter
-								? "announcement__header announcement__header_hunter"
+								? "announcement__header_hunter"
 								:
 							demonHunter
-								? "announcement__header announcement__header_demon-hunter"
+								? "announcement__header_demon-hunter"
 								:
 							paladin
-								? "announcement__header announcement__header_paladin"
+								? "announcement__header_paladin"
 								:
 							rogue
-								? "announcement__header announcement__header_rogue"
+								? "announcement__header_rogue"
 								:
 							deathKnight
-								? "announcement__header announcement__header_death-knight"
+								? "announcement__header_death-knight"
 								:
 							warlock
-								? "announcement__header announcement__header_warlock"
+								? "announcement__header_warlock"
 								:
 							shaman
-								? "announcement__header announcement__header_shaman"
+								? "announcement__header_shaman"
 								:
 							awakener
-								? "announcement__header announcement__header_awakener"
+								? "announcement__header_awakener"
 								:
 							oneHandedWeapons
-								? "announcement__header announcement__header_one-handed-weapons"
+								? "announcement__header_one-handed-weapons"
 								:
 							twoHandedWeapons
-								? "announcement__header announcement__header_two-handed-weapons"
+								? "announcement__header_two-handed-weapons"
 								:
 							rangeWeapons
-								? "announcement__header announcement__header_range-weapons"
+								? "announcement__header_range-weapons"
 								:
 							legendaryWeapons || ashbringer || sulfuras || thunderfury || atiesh || warglaivesOfAzzinoth || thoridal || valanyr || shadowmourne || tarecgosa || fangsFather
-								? "announcement__header announcement__header_legendary-weapons"
+								? "announcement__header_legendary-weapons"
 								:
 							artefactWeapons || armsWarrior || furyWarrior || protectionWarrior
-								? "announcement__header announcement__header_artefact-weapons"
+								? "announcement__header_artefact-weapons"
 								:
 							decorativeWeapons
-								? "announcement__header announcement__header_decorative-weapons"
+								? "announcement__header_decorative-weapons"
 								:
 							armours
-								? "announcement__header announcement__header_armours"
+								? "announcement__header_armours"
 								:
 							waterMounts
-								? "announcement__header announcement__header_water-mounts"
+								? "announcement__header_water-mounts"
 								:
 							earthMounts
-								? "announcement__header announcement__header_earth-mounts"
+								? "announcement__header_earth-mounts"
 								:
 							flyMounts
-								? "announcement__header announcement__header_fly-mounts"
+								? "announcement__header_fly-mounts"
 								:
 							hordeGold
-								? "announcement__header announcement__header_horde-gold"
+								? "announcement__header_horde-gold"
 								:
 							allianceGold
-								? "announcement__header announcement__header_alliance-gold"
+								? "announcement__header_alliance-gold"
 								:
 							professions
-								? "announcement__header announcement__header_professions"
+								? "announcement__header_professions"
 								:
 							pvp
-								? "announcement__header announcement__header_pvp"
+								? "announcement__header_pvp"
 								:
 							dungeons
-								? "announcement__header announcement__header_dungeons"
+								? "announcement__header_dungeons"
 								:
 							сlassic
-								? "announcement__header announcement__header_сlassic"
+								? "announcement__header_сlassic"
 								:
 							burningCrusade
-								? "announcement__header announcement__header_burning-crusade"
+								? "announcement__header_burning-crusade"
 								:
 							wrathOfTheLichKing
-								? "announcement__header announcement__header_wrath-of-the-lich-king"
+								? "announcement__header_wrath-of-the-lich-king"
 								:
 							cataclysm
-								? "announcement__header announcement__header_cataclysm"
+								? "announcement__header_cataclysm"
 								:
 							mistsOfPandaria
-								? "announcement__header announcement__header_mists-of-pandaria"
+								? "announcement__header_mists-of-pandaria"
 								:
 							warlordsOfDraenor
-								? "announcement__header announcement__header_warlords-of-draenor"
+								? "announcement__header_warlords-of-draenor"
 								:
 							legion
-								? "announcement__header announcement__header_legion"
+								? "announcement__header_legion"
 								:
 							battleForAzeroth
-								? "announcement__header announcement__header_battle-for-azeroth"
+								? "announcement__header_battle-for-azeroth"
 								:
 							shadowlands
-								? "announcement__header announcement__header_shadowlands"
+								? "announcement__header_shadowlands"
 								:
 							dragonflight
-								? "announcement__header announcement__header_dragonflight"
+								? "announcement__header_dragonflight"
 								:
 							warWithin
-								? "announcement__header announcement__header_war-within"
+								? "announcement__header_war-within"
 								:
 							midnight
-								? "announcement__header announcement__header_midnight"
+								? "announcement__header_midnight"
 								:
 							lastTitan
-								? "announcement__header announcement__header_last-titan"
+								? "announcement__header_last-titan"
 								:
 							lvlUp
-								? "announcement__header announcement__header_lvl-up"
+								? "announcement__header_lvl-up"
 								:
 							achievements
-								? "announcement__header announcement__header_achievements"
-								: "announcement__header"
+								? "announcement__header_achievements"
+								: null
 							} text-center`
 						}
 					>

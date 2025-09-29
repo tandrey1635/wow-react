@@ -30,289 +30,289 @@ const Promo = ({ warrior, druid, priest, mage, monk, hunter, demonHunter, paladi
 					</div>
 				</div>
 				<div
-					className={`${
+					className={`promo__raitings ${
 						warrior
-							? "promo__raitings promo__raitings_warrior"
+							? "promo__raitings_warrior"
 							:
 						druid
-							? "promo__raitings promo__raitings_druid"
+							? "promo__raitings_druid"
 							:
 						priest
-							? "promo__raitings promo__raitings_priest"
+							? "promo__raitings_priest"
 							:
 						mage
-							? "promo__raitings promo__raitings_mage"
+							? "promo__raitings_mage"
 							:
 						monk
-							? "promo__raitings promo__raitings_monk"
+							? "promo__raitings_monk"
 							:
 						hunter
-							? "promo__raitings promo__raitings_hunter"
+							? "promo__raitings_hunter"
 							:
 						demonHunter
-							? "promo__raitings promo__raitings_demon-hunter"
+							? "promo__raitings_demon-hunter"
 							:
 						paladin
-							? "promo__raitings promo__raitings_paladin"
+							? "promo__raitings_paladin"
 							:
 						awakener
-							? "promo__raitings promo__raitings_awakener"
+							? "promo__raitings_awakener"
 							:
 						rogue
-							? "promo__raitings promo__raitings_rogue"
+							? "promo__raitings_rogue"
 							:
 						deathKnight
-							? "promo__raitings promo__raitings_death-knight"
+							? "promo__raitings_death-knight"
 							:
 						warlock
-							? "promo__raitings promo__raitings_warlock"
+							? "promo__raitings_warlock"
 							:
 						shaman
-							? "promo__raitings promo__raitings_shaman"
+							? "promo__raitings_shaman"
 							:
 						oneHandedWeapons
-							? "promo__raitings promo__raitings_one-handed-weapons"
+							? "promo__raitings_one-handed-weapons"
 							:
 						twoHandedWeapons
-							? "promo__raitings promo__raitings_two-handed-weapons"
+							? "promo__raitings_two-handed-weapons"
 							:
 						rangeWeapons
-							? "promo__raitings promo__raitings_range-weapons"
+							? "promo__raitings_range-weapons"
 							:
 						legendaryWeapons
-							? "promo__raitings promo__raitings_legendary-weapons"
+							? "promo__raitings_legendary-weapons"
 							:
 						artefactWeapons
-							? "promo__raitings promo__raitings_artefact-weapons"
+							? "promo__raitings_artefact-weapons"
 							:
 						decorativeWeapons
-							? "promo__raitings promo__raitings_decorative-weapons"
+							? "promo__raitings_decorative-weapons"
 							:
 						ashbringer
-							? "promo__raitings promo__raitings_ashbringer"
+							? "promo__raitings_ashbringer"
 							:
 						sulfuras
-							? "promo__raitings promo__raitings_sulfuras"
+							? "promo__raitings_sulfuras"
 							:
 						thunderfury
-							? "promo__raitings promo__raitings_thunderfury"
+							? "promo__raitings_thunderfury"
 							:
 						atiesh
-							? "promo__raitings promo__raitings_atiesh"
+							? "promo__raitings_atiesh"
 							:
 						warglaivesOfAzzinoth
-							? "promo__raitings promo__raitings_warglaives-of-azzinoth"
+							? "promo__raitings_warglaives-of-azzinoth"
 							:
 						thoridal
-							? "promo__raitings promo__raitings_thoridal"
+							? "promo__raitings_thoridal"
 							:
 						valanyr
-							? "promo__raitings promo__raitings_valanyr"
+							? "promo__raitings_valanyr"
 							:
 						shadowmourne
-							? "promo__raitings promo__raitings_shadowmourne"
+							? "promo__raitings_shadowmourne"
 							:
 						tarecgosa
-							? "promo__raitings promo__raitings_tarecgosa"
+							? "promo__raitings_tarecgosa"
 							:
 						fangsFather
-							? "promo__raitings promo__raitings_fangs-of-the-father"
+							? "promo__raitings_fangs-of-the-father"
 							:
 						armsWarrior
-							? "promo__raitings promo__raitings_arms-warrior"
+							? "promo__raitings_arms-warrior"
 							:
 						furyWarrior
-							? "promo__raitings promo__raitings_fury-warrior"
+							? "promo__raitings_fury-warrior"
 							:
 						protectionWarrior
-							? "promo__raitings promo__raitings_protection-warrior"
+							? "promo__raitings_protection-warrior"
 							:
 						shields
-							? "promo__raitings promo__raitings_shields"
+							? "promo__raitings_shields"
 							:
 						cloaks
-							? "promo__raitings promo__raitings_cloaks"
+							? "promo__raitings_cloaks"
 							:
 						fishingRods
-							? "promo__raitings promo__raitings_fishing-rods"
+							? "promo__raitings_fishing-rods"
 							:
 						waterMounts
-							? "promo__raitings promo__raitings_water-mounts"
+							? "promo__raitings_water-mounts"
 							:
 						earthMounts
-							? "promo__raitings promo__raitings_earth-mounts"
+							? "promo__raitings_earth-mounts"
 							:
 						flyMounts
-							? "promo__raitings promo__raitings_fly-mounts"
+							? "promo__raitings_fly-mounts"
 							:
 						hordeGold
-							? "promo__raitings promo__raitings_horde-gold"
+							? "promo__raitings_horde-gold"
 							:
 						allianceGold
-							? "promo__raitings promo__raitings_alliance-gold"
+							? "promo__raitings_alliance-gold"
 							:
 						alchemy
-							? "promo__raitings promo__raitings_alchemy"
+							? "promo__raitings_alchemy"
 							:
 						mining
-							? "promo__raitings promo__raitings_mining"
+							? "promo__raitings_mining"
 							:
 						engineering
-							? "promo__raitings promo__raitings_engineering"
+							? "promo__raitings_engineering"
 							:
 						leatherworking
-							? "promo__raitings promo__raitings_leatherworking"
+							? "promo__raitings_leatherworking"
 							:
 						blacksmithing
-							? "promo__raitings promo__raitings_blacksmithing"
+							? "promo__raitings_blacksmithing"
 							:
 						enchanting
-							? "promo__raitings promo__raitings_enchanting"
+							? "promo__raitings_enchanting"
 							:
 						inscription
-							? "promo__raitings promo__raitings_inscription"
+							? "promo__raitings_inscription"
 							:
 						tailoring
-							? "promo__raitings promo__raitings_tailoring"
+							? "promo__raitings_tailoring"
 							:
 						skinning
-							? "promo__raitings promo__raitings_skinning"
+							? "promo__raitings_skinning"
 							:
 						herbalism
-							? "promo__raitings promo__raitings_herbalism"
+							? "promo__raitings_herbalism"
 							:
 						jewelcrafting
-							? "promo__raitings promo__raitings_jewelcrafting"
+							? "promo__raitings_jewelcrafting"
 							:
 						archaeology
-							? "promo__raitings promo__raitings_archaeology"
+							? "promo__raitings_archaeology"
 							:
 						riding
-							? "promo__raitings promo__raitings_riding"
+							? "promo__raitings_riding"
 							:
 						cooking
-							? "promo__raitings promo__raitings_cooking"
+							? "promo__raitings_cooking"
 							:
 						firstAid
-							? "promo__raitings promo__raitings_first-aid"
+							? "promo__raitings_first-aid"
 							:
 						fishing
-							? "promo__raitings promo__raitings_fishing"
+							? "promo__raitings_fishing"
 							:
 						junkyardTinkering
-							? "promo__raitings promo__raitings_junkyard-tinkering"
+							? "promo__raitings_junkyard-tinkering"
 							:
 						honour
-							? "promo__raitings promo__raitings_honour"
+							? "promo__raitings_honour"
 							:
 						arena
-							? "promo__raitings promo__raitings_arena"
+							? "promo__raitings_arena"
 							:
 						rbg
-							? "promo__raitings promo__raitings_rbg"
+							? "promo__raitings_rbg"
 							:
 						mythic5
-							? "promo__raitings promo__raitings_mythic5"
+							? "promo__raitings_mythic5"
 							:
 						mythic10
-							? "promo__raitings promo__raitings_mythic10"
+							? "promo__raitings_mythic10"
 							:
 						mythic15
-							? "promo__raitings promo__raitings_mythic15"
+							? "promo__raitings_mythic15"
 							:
 						сlassic
-							? "promo__raitings promo__raitings_сlassic"
+							? "promo__raitings_сlassic"
 							:
 						burningCrusade
-							? "promo__raitings promo__raitings_burning-crusade"
+							? "promo__raitings_burning-crusade"
 							:
 						wrathOfTheLichKing
-							? "promo__raitings promo__raitings_wrath-of-the-lich-king"
+							? "promo__raitings_wrath-of-the-lich-king"
 							:
 						cataclysm
-							? "promo__raitings promo__raitings_cataclysm"
+							? "promo__raitings_cataclysm"
 							:
 						mistsOfPandaria
-							? "promo__raitings promo__raitings_mists-of-pandaria"
+							? "promo__raitings_mists-of-pandaria"
 							:
 						warlordsOfDraenor
-							? "promo__raitings promo__raitings_warlords-of-draenor"
+							? "promo__raitings_warlords-of-draenor"
 							:
 						legion
-							? "promo__raitings promo__raitings_legion"
+							? "promo__raitings_legion"
 							:
 						battleForAzeroth
-							? "promo__raitings promo__raitings_battle-for-azeroth"
+							? "promo__raitings_battle-for-azeroth"
 							:
 						shadowlands
-							? "promo__raitings promo__raitings_shadowlands"
+							? "promo__raitings_shadowlands"
 							:
 						dragonflight
-							? "promo__raitings promo__raitings_dragonflight"
+							? "promo__raitings_dragonflight"
 							:
 						warWithin
-							? "promo__raitings promo__raitings_war-within"
+							? "promo__raitings_war-within"
 							:
 						midnight
-							? "promo__raitings promo__raitings_midnight"
+							? "promo__raitings_midnight"
 							:
 						lastTitan
-							? "promo__raitings promo__raitings_last-titan"
+							? "promo__raitings_last-titan"
 							:
 						lvlUpBase
-							? "promo__raitings promo__raitings_lvl-up-base"
+							? "promo__raitings_lvl-up-base"
 							:
 						lvlUpExpert
-							? "promo__raitings promo__raitings_lvl-up-expert"
+							? "promo__raitings_lvl-up-expert"
 							:
 						lvlUpMaster
-							? "promo__raitings promo__raitings_lvl-up-master"
+							? "promo__raitings_lvl-up-master"
 							:
 						quests
-							? "promo__raitings promo__raitings_quests"
+							? "promo__raitings_quests"
 							:
 						equipments
-							? "promo__raitings promo__raitings_equipments"
+							? "promo__raitings_equipments"
 							:
 						mounts
-							? "promo__raitings promo__raitings_mounts"
+							? "promo__raitings_mounts"
 							:
 						raidsExplorer
-							? "promo__raitings promo__raitings_raids-explorer"
+							? "promo__raitings_raids-explorer"
 							:
 						legacy
-							? "promo__raitings promo__raitings_legacy"
+							? "promo__raitings_legacy"
 							:
 						greatFeats
-							? "promo__raitings promo__raitings_great-feats"
+							? "promo__raitings_great-feats"
 							:
 						warcraftReforged
-							? "promo__raitings promo__raitings_warcraft-reforged"
+							? "promo__raitings_warcraft-reforged"
 							:
 						wow
-							? "promo__raitings promo__raitings_wow"
+							? "promo__raitings_wow"
 							:
 						diablo
-							? "promo__raitings promo__raitings_diablo"
+							? "promo__raitings_diablo"
 							:
 						hearthstone
-							? "promo__raitings promo__raitings_hearthstone"
+							? "promo__raitings_hearthstone"
 							:
 						heroesStorm
-							? "promo__raitings promo__raitings_heroes-storm"
+							? "promo__raitings_heroes-storm"
 							:
 						starcraft
-							? "promo__raitings promo__raitings_starcraft"
+							? "promo__raitings_starcraft"
 							:
 						overwatch
-							? "promo__raitings promo__raitings_overwatch"
+							? "promo__raitings_overwatch"
 							:
 						wowCollectionEditions
-							? "promo__raitings promo__raitings_wow-collection-editions"
+							? "promo__raitings_wow-collection-editions"
 							:
 						diabloCollectionEditions
-							? "promo__raitings promo__raitings_diablo-collection-editions"
-							: "promo__raitings"
+							? "promo__raitings_diablo-collection-editions"
+							: null
 						} mt-md-5`
 					}
 				></div>
