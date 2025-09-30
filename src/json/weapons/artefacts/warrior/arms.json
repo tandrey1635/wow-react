@@ -320,10 +320,10 @@
 	},
 
 	{
-		"id": "ArcaniteBladebreaker",
+		"id": "ArcaniteBladebreakerBase",
 		"className": "card-warrior",
 		"path": "#",
-		"cardImg": "/src/assets/img/promo/bg/classes/warrior/.jpg",
+		"cardImg": "/src/assets/img/weapons/bg/artefact/warrior/Arcanite-Bladebreaker-base.png",
 		"titleClassName": "card-title-warrior",
 		"title": "Арканитовый крушитель клинков",
 		"descriptionClassName": "card-text-warrior",
@@ -336,10 +336,10 @@
 	},
 
 	{
-		"id": "ArcaniteBladebreaker",
+		"id": "ArcaniteBladebreakerdungeonsDungeons",
 		"className": "card-warrior",
 		"path": "#",
-		"cardImg": "/src/assets/img/promo/bg/classes/warrior/.jpg",
+		"cardImg": "/src/assets/img/weapons/bg/artefact/warrior/Arcanite-Bladebreaker-dungeons.png",
 		"titleClassName": "card-title-warrior",
 		"title": "Арканитовый крушитель клинков",
 		"descriptionClassName": "card-text-warrior",
@@ -352,10 +352,10 @@
 	},
 
 	{
-		"id": "ArcaniteBladebreaker",
+		"id": "ArcaniteBladebreakerWorldQuests",
 		"className": "card-warrior",
 		"path": "#",
-		"cardImg": "/src/assets/img/promo/bg/classes/warrior/.jpg",
+		"cardImg": "/src/assets/img/weapons/bg/artefact/warrior/Arcanite-Bladebreaker-world-quests.png",
 		"titleClassName": "card-title-warrior",
 		"title": "Арканитовый крушитель клинков",
 		"descriptionClassName": "card-text-warrior",
@@ -368,10 +368,10 @@
 	},
 
 	{
-		"id": "ArcaniteBladebreaker",
+		"id": "ArcaniteBladebreakerPvp",
 		"className": "card-warrior",
 		"path": "#",
-		"cardImg": "/src/assets/img/promo/bg/classes/warrior/.jpg",
+		"cardImg": "/src/assets/img/weapons/bg/artefact/warrior/Arcanite-Bladebreaker-pvp.png",
 		"titleClassName": "card-title-warrior",
 		"title": "Арканитовый крушитель клинков",
 		"descriptionClassName": "card-text-warrior",
