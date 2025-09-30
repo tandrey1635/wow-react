@@ -256,10 +256,10 @@
 	},
 
 	{
-		"id": "BladeOfTheSkyChampion",
+		"id": "BladeOfTheSkyChampionBase",
 		"className": "card-warrior",
 		"path": "#",
-		"cardImg": "/src/assets/img/promo/bg/classes/warrior/.jpg",
+		"cardImg": "/src/assets/img/weapons/bg/artefact/warrior/Blade-of-the-Sky-Champion-base.png",
 		"titleClassName": "card-title-warrior",
 		"title": "Клинок защитника небес",
 		"descriptionClassName": "card-text-warrior",
@@ -272,10 +272,10 @@
 	},
 
 	{
-		"id": "BladeOfTheSkyChampion",
+		"id": "BladeOfTheSkyChampionHeroicKiljaeden",
 		"className": "card-warrior",
 		"path": "#",
-		"cardImg": "/src/assets/img/promo/bg/classes/warrior/.jpg",
+		"cardImg": "/src/assets/img/weapons/bg/artefact/warrior/Blade-of-the-Sky-Champion-heroic-Kiljaeden.png",
 		"titleClassName": "card-title-warrior",
 		"title": "Клинок защитника небес",
 		"descriptionClassName": "card-text-warrior",
@@ -288,10 +288,10 @@
 	},
 
 	{
-		"id": "BladeOfTheSkyChampion",
+		"id": "BladeOfTheSkyChampionRbg",
 		"className": "card-warrior",
 		"path": "#",
-		"cardImg": "/src/assets/img/promo/bg/classes/warrior/.jpg",
+		"cardImg": "/src/assets/img/weapons/bg/artefact/warrior/Blade-of-the-Sky-Champion-rbg.png",
 		"titleClassName": "card-title-warrior",
 		"title": "Клинок защитника небес",
 		"descriptionClassName": "card-text-warrior",
@@ -304,10 +304,10 @@
 	},
 
 	{
-		"id": "BladeOfTheSkyChampion",
+		"id": "BladeOfTheSkyChampionDungeons",
 		"className": "card-warrior",
 		"path": "#",
-		"cardImg": "/src/assets/img/promo/bg/classes/warrior/.jpg",
+		"cardImg": "/src/assets/img/weapons/bg/artefact/warrior/Blade-of-the-Sky-Champion-dungeons.png",
 		"titleClassName": "card-title-warrior",
 		"title": "Клинок защитника небес",
 		"descriptionClassName": "card-text-warrior",
