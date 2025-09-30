@@ -192,10 +192,10 @@
 	},
 
 	{
-		"id": "WrathsEdge",
+		"id": "WrathsEdgeBase",
 		"className": "card-warrior",
 		"path": "#",
-		"cardImg": "/src/assets/img/promo/bg/classes/warrior/.jpg",
+		"cardImg": "/src/assets/img/weapons/bg/artefact/warrior/Wraths-Edge-base.png",
 		"titleClassName": "card-title-warrior",
 		"title": "Клинок гнева",
 		"descriptionClassName": "card-text-warrior",
@@ -208,10 +208,10 @@
 	},
 
 	{
-		"id": "WrathsEdge",
+		"id": "WrathsEdgePvp30Lvl",
 		"className": "card-warrior",
 		"path": "#",
-		"cardImg": "/src/assets/img/promo/bg/classes/warrior/.jpg",
+		"cardImg": "/src/assets/img/weapons/bg/artefact/warrior/Wraths-Edge-pvp-30-lvl.png",
 		"titleClassName": "card-title-warrior",
 		"title": "Клинок гнева",
 		"descriptionClassName": "card-text-warrior",
@@ -224,10 +224,10 @@
 	},
 
 	{
-		"id": "WrathsEdge",
+		"id": "WrathsEdgePvp50Lvl",
 		"className": "card-warrior",
 		"path": "#",
-		"cardImg": "/src/assets/img/promo/bg/classes/warrior/.jpg",
+		"cardImg": "/src/assets/img/weapons/bg/artefact/warrior/Wraths-Edge-pvp-50-lvl.png",
 		"titleClassName": "card-title-warrior",
 		"title": "Клинок гнева",
 		"descriptionClassName": "card-text-warrior",
@@ -240,10 +240,10 @@
 	},
 
 	{
-		"id": "WrathsEdge",
+		"id": "WrathsEdgePvp80Lvl",
 		"className": "card-warrior",
 		"path": "#",
-		"cardImg": "/src/assets/img/promo/bg/classes/warrior/.jpg",
+		"cardImg": "/src/assets/img/weapons/bg/artefact/warrior/Wraths-Edge-pvp-80-lvl.png",
 		"titleClassName": "card-title-warrior",
 		"title": "Клинок гнева",
 		"descriptionClassName": "card-text-warrior",
