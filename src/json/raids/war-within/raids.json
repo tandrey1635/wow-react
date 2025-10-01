@@ -1,6 +1,7 @@
 [
 	{
 		"id": "NerubarPalace",
+		"raids": true,
 		"className": "card-raids card-raids-war-within",
 		"path": "#",
 		"cardImgClassName": "card-img-raids",
@@ -18,6 +19,7 @@
 
 	{
 		"id": "LiberationOfUndermine",
+		"raids": true,
 		"className": "card-raids card-raids-war-within",
 		"path": "#",
 		"cardImgClassName": "card-img-raids",
@@ -35,6 +37,7 @@
 
 	{
 		"id": "ManaforgeOmega",
+		"raids": true,
 		"className": "card-raids card-raids-war-within",
 		"path": "#",
 		"cardImgClassName": "card-img-raids",

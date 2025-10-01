@@ -1,6 +1,7 @@
 [
 	{
 		"id": "LastTitan",
+		"raids": true,
 		"className": "card-raids card-raids-last-titan",
 		"path": "#",
 		"cardImgClassName": "card-img-raids",

@@ -1,6 +1,7 @@
 [
 	{
 		"id": "VaultOfArchavon",
+		"raids": true,
 		"className": "card-raids card-raids-wrath-of-the-lich-king",
 		"path": "#",
 		"cardImgClassName": "card-img-raids",
@@ -18,6 +19,7 @@
 
 	{
 		"id": "Naxxramas",
+		"raids": true,
 		"className": "card-raids card-raids-wrath-of-the-lich-king",
 		"path": "#",
 		"cardImgClassName": "card-img-raids",
@@ -35,6 +37,7 @@
 
 	{
 		"id": "ObsidianSanctum",
+		"raids": true,
 		"className": "card-raids card-raids-wrath-of-the-lich-king",
 		"path": "#",
 		"cardImgClassName": "card-img-raids",
@@ -52,6 +55,7 @@
 
 	{
 		"id": "EyeOfEternity",
+		"raids": true,
 		"className": "card-raids card-raids-wrath-of-the-lich-king",
 		"path": "#",
 		"cardImgClassName": "card-img-raids",
@@ -69,6 +73,7 @@
 
 	{
 		"id": "Ulduar",
+		"raids": true,
 		"className": "card-raids card-raids-wrath-of-the-lich-king",
 		"path": "#",
 		"cardImgClassName": "card-img-raids",
@@ -86,6 +91,7 @@
 
 	{
 		"id": "TrialOfTheCrusader",
+		"raids": true,
 		"className": "card-raids card-raids-wrath-of-the-lich-king",
 		"path": "#",
 		"cardImgClassName": "card-img-raids",
@@ -103,6 +109,7 @@
 
 	{
 		"id": "OnyxiasLair",
+		"raids": true,
 		"className": "card-raids card-raids-wrath-of-the-lich-king",
 		"path": "#",
 		"cardImgClassName": "card-img-raids",
@@ -120,6 +127,7 @@
 
 	{
 		"id": "IcecrownCitadel",
+		"raids": true,
 		"className": "card-raids card-raids-wrath-of-the-lich-king",
 		"path": "#",
 		"cardImgClassName": "card-img-raids",
@@ -137,6 +145,7 @@
 
 	{
 		"id": "RubySanctum",
+		"raids": true,
 		"className": "card-raids card-raids-wrath-of-the-lich-king",
 		"path": "#",
 		"cardImgClassName": "card-img-raids",

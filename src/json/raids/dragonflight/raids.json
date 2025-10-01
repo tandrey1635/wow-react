@@ -1,6 +1,7 @@
 [
 	{
 		"id": "VaultOfTheIncarnates",
+		"raids": true,
 		"className": "card-raids card-raids-dragonflight",
 		"path": "#",
 		"cardImgClassName": "card-img-raids",
@@ -18,6 +19,7 @@
 
 	{
 		"id": "AberrusTheShadowedCrucible",
+		"raids": true,
 		"className": "card-raids card-raids-dragonflight",
 		"path": "#",
 		"cardImgClassName": "card-img-raids",
@@ -35,6 +37,7 @@
 
 	{
 		"id": "AmirdrassilTheDreamsHope",
+		"raids": true,
 		"className": "card-raids card-raids-dragonflight",
 		"path": "#",
 		"cardImgClassName": "card-img-raids",

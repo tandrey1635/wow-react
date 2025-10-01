@@ -1,6 +1,7 @@
 [
 	{
 		"id": "Uldir",
+		"raids": true,
 		"className": "card-raids card-raids-battle-for-azeroth",
 		"path": "#",
 		"cardImgClassName": "card-img-raids",
@@ -18,6 +19,7 @@
 
 	{
 		"id": "BattleOfDazaralor",
+		"raids": true,
 		"className": "card-raids card-raids-battle-for-azeroth",
 		"path": "#",
 		"cardImgClassName": "card-img-raids",
@@ -35,6 +37,7 @@
 
 	{
 		"id": "CrucibleOfStorms",
+		"raids": true,
 		"className": "card-raids card-raids-battle-for-azeroth",
 		"path": "#",
 		"cardImgClassName": "card-img-raids",
@@ -52,6 +55,7 @@
 
 	{
 		"id": "EternalPalace",
+		"raids": true,
 		"className": "card-raids card-raids-battle-for-azeroth",
 		"path": "#",
 		"cardImgClassName": "card-img-raids",
@@ -69,6 +73,7 @@
 
 	{
 		"id": "NyalothaTheWakingCity",
+		"raids": true,
 		"className": "card-raids card-raids-battle-for-azeroth",
 		"path": "#",
 		"cardImgClassName": "card-img-raids",

@@ -1,6 +1,7 @@
 [
 	{
 		"id": "Karazhan",
+		"raids": true,
 		"className": "card-raids card-raids-burning-crusade",
 		"path": "#",
 		"cardImgClassName": "card-img-raids",
@@ -18,6 +19,7 @@
 
 	{
 		"id": "GruulsLair",
+		"raids": true,
 		"className": "card-raids card-raids-burning-crusade",
 		"path": "#",
 		"cardImgClassName": "card-img-raids",
@@ -35,6 +37,7 @@
 
 	{
 		"id": "MagtheridonsLair",
+		"raids": true,
 		"className": "card-raids card-raids-burning-crusade",
 		"path": "#",
 		"cardImgClassName": "card-img-raids",
@@ -52,6 +55,7 @@
 
 	{
 		"id": "SerpentshrineCavern",
+		"raids": true,
 		"className": "card-raids card-raids-burning-crusade",
 		"path": "#",
 		"cardImgClassName": "card-img-raids",
@@ -69,6 +73,7 @@
 
 	{
 		"id": "TempestKeep",
+		"raids": true,
 		"className": "card-raids card-raids-burning-crusade",
 		"path": "#",
 		"cardImgClassName": "card-img-raids",
@@ -86,6 +91,7 @@
 
 	{
 		"id": "HyjalSummit",
+		"raids": true,
 		"className": "card-raids card-raids-burning-crusade",
 		"path": "#",
 		"cardImgClassName": "card-img-raids",
@@ -103,6 +109,7 @@
 
 	{
 		"id": "BlackTemple",
+		"raids": true,
 		"className": "card-raids card-raids-burning-crusade",
 		"path": "#",
 		"cardImgClassName": "card-img-raids",
@@ -120,6 +127,7 @@
 
 	{
 		"id": "ZulAman",
+		"raids": true,
 		"className": "card-raids card-raids-burning-crusade",
 		"path": "#",
 		"cardImgClassName": "card-img-raids",
@@ -137,6 +145,7 @@
 
 	{
 		"id": "SunwellPlateau",
+		"raids": true,
 		"className": "card-raids card-raids-burning-crusade",
 		"path": "#",
 		"cardImgClassName": "card-img-raids",

@@ -1,6 +1,7 @@
 [
 	{
 		"id": "CastleNathria",
+		"raids": true,
 		"className": "card-raids card-raids-shadowlands",
 		"path": "#",
 		"cardImgClassName": "card-img-raids",
@@ -18,6 +19,7 @@
 
 	{
 		"id": "SanctumOfDomination",
+		"raids": true,
 		"className": "card-raids card-raids-shadowlands",
 		"path": "#",
 		"cardImgClassName": "card-img-raids",
@@ -35,6 +37,7 @@
 
 	{
 		"id": "SepulcherOfTheFirstOnes",
+		"raids": true,
 		"className": "card-raids card-raids-shadowlands",
 		"path": "#",
 		"cardImgClassName": "card-img-raids",

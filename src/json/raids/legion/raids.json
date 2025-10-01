@@ -1,6 +1,7 @@
 [
 	{
 		"id": "EmeraldNightmare",
+		"raids": true,
 		"className": "card-raids card-raids-legion",
 		"path": "#",
 		"cardImgClassName": "card-img-raids",
@@ -18,6 +19,7 @@
 
 	{
 		"id": "TrialOfValor",
+		"raids": true,
 		"className": "card-raids card-raids-legion",
 		"path": "#",
 		"cardImgClassName": "card-img-raids",
@@ -35,6 +37,7 @@
 
 	{
 		"id": "Nighthold",
+		"raids": true,
 		"className": "card-raids card-raids-legion",
 		"path": "#",
 		"cardImgClassName": "card-img-raids",
@@ -52,6 +55,7 @@
 
 	{
 		"id": "TombOfSargeras",
+		"raids": true,
 		"className": "card-raids card-raids-legion",
 		"path": "#",
 		"cardImgClassName": "card-img-raids",
@@ -69,6 +73,7 @@
 
 	{
 		"id": "AntorusTheBurningThrone",
+		"raids": true,
 		"className": "card-raids card-raids-legion",
 		"path": "#",
 		"cardImgClassName": "card-img-raids",

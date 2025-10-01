@@ -1,4 +1,5 @@
 import { Link } from "react-router";
+import Card from './Card.tsx'
 
 
 import dataRaidArmours from '../json/raids-armours/raids-armours.json';
@@ -58,7 +59,7 @@ import dataWrathOfTheLichKingRaids from '../json/raids/wrath-of-the-lich-king/ra
 
 
 
-const Card = ({home, raidsArmourWarrior, legendaryWeapons, classes, warriorArtifacts, druidArtifacts, priestArtifacts, mageArtifacts, monkArtifacts, hunterArtifacts, demonHunterArtifacts, paladinArtifacts, rogueArtifacts, deathKnightArtifacts, warlockArtifacts, shamanArtifacts, armsWarrior, furyWarrior, protectionWarrior, cloaks, classic, burningCrusade, wrathOfTheLichKing, cataclysm, mistsOfPandaria, warlordsOfDraenor, legion, battleForAzeroth, shadowlands, dragonflight, warWithin, midnight, lastTitan}) => {
+const Cards = ({home, raidsArmourWarrior, legendaryWeapons, classes, warriorArtifacts, druidArtifacts, priestArtifacts, mageArtifacts, monkArtifacts, hunterArtifacts, demonHunterArtifacts, paladinArtifacts, rogueArtifacts, deathKnightArtifacts, warlockArtifacts, shamanArtifacts, armsWarrior, furyWarrior, protectionWarrior, cloaks, classic, burningCrusade, wrathOfTheLichKing, cataclysm, mistsOfPandaria, warlordsOfDraenor, legion, battleForAzeroth, shadowlands, dragonflight, warWithin, midnight, lastTitan}) => {
 
 	const basePathImg = '/src/assets/img'
 
@@ -97,7 +98,7 @@ const Card = ({home, raidsArmourWarrior, legendaryWeapons, classes, warriorArtif
 	const dollarAlt = '$'
 
 
-	const renderCardItems = (dataJson) => dataJson.map(card=> {
+	/* const renderCardItems = (dataJson) => dataJson.map(card=> {
 		return (
 			<div key={card.id} className={`card ${card.className}`}>
 				<Link to={card.path}>
@@ -112,356 +113,38 @@ const Card = ({home, raidsArmourWarrior, legendaryWeapons, classes, warriorArtif
 				<div className="card-footer d-flex justify-content-between align-items-center">
 					<p className={`card-price ${card.priceClassName}`}>
 						от {card.price}
-						<img className="dollar" src={card.priceImg} alt={dollarAlt} />
+						<img className="dollar" src={card.priceImg} alt={card.priceAlt} />
 					</p>
 					<Link to={card.path} className="card-btn">Подробнее</Link>
 				</div>
 			</div>
 		)
-	})
+	}) */
 
 
-
-
-
-
-
-
-	const raids = dataRaids.map(card=>{
+	const renderCardItems = ( dataJson) => dataJson.map(card=> {
 		return (
-			<div key={card.id} className={`card ${card.className}`}>
-				<Link to={card.path}>
-					<img src={card.cardImg} className={`card-img ${card.cardImgClassName}`}  alt={card.description} />
-				</Link>
-				<div className="card-body">
-					<Link className="card-link" to={card.path}>
-						<h3 className={`card-title ${card.titleClassName}`}>{card.title}</h3>
-					</Link>
-					<p className={`card-text ${card.descriptionClassName}`}>{card.description} <span className={card.spanClassname}>{card.title}</span>
-					</p>
-				</div>
-				<div className="card-footer d-flex justify-content-between align-items-center">
-					<p className={`card-price ${card.priceClassName}`}>
-						от {card.price}
-						<img className="dollar" src={card.priceImg} alt={dollarAlt} />
-					</p>
-					<Link to={card.path} className="card-btn">{card.btn}</Link>
-				</div>
-			</div>
+			<Card
+				key={card.id}
+				className={card.className}
+				path={card.path}
+				cardImg={card.cardImg}
+				cardImgClassName={card.cardImgClassName}
+				descriptionClassName={card.descriptionClassName}
+				spanClassname={card.spanClassname}
+				description={card.description}
+				titleClassName={card.titleClassName}
+				title={card.title}
+				priceClassName={card.priceClassName}
+				price={card.price}
+				priceImg={card.priceImg}
+				priceAlt={card.priceAlt}
+				raids={card.raids === true}
+			/>
 		)
 	})
 
-	const classicRaids = dataClassicRaids.map(card=>{
-		return (
-			<div key={card.id} className={`card ${card.className}`}>
-				<Link to={card.path}>
-					<img src={card.cardImg} className={`card-img ${card.cardImgClassName}`}  alt={card.description} />
-				</Link>
-				<div className="card-body">
-					<Link className="card-link" to={card.path}>
-						<h3 className={`card-title ${card.titleClassName}`}>{card.title}</h3>
-					</Link>
-					<p className={`card-text ${card.descriptionClassName}`}>{card.description} <span className={card.spanClassname}>{card.title}</span>
-					</p>
-				</div>
-				<div className="card-footer d-flex justify-content-between align-items-center">
-					<p className={`card-price ${card.priceClassName}`}>
-						от {card.price}
-						<img className="dollar" src={card.priceImg} alt={dollarAlt} />
-					</p>
-					<Link to={card.path} className="card-btn">{card.btn}</Link>
-				</div>
-			</div>
-		)
-	})
 
-	const burningCrusadeRaids = dataBurningCrusadeRaids.map(card=>{
-		return (
-			<div key={card.id} className={`card ${card.className}`}>
-				<Link to={card.path}>
-					<img src={card.cardImg} className={`card-img ${card.cardImgClassName}`}  alt={card.description} />
-				</Link>
-				<div className="card-body">
-					<Link className="card-link" to={card.path}>
-						<h3 className={`card-title ${card.titleClassName}`}>{card.title}</h3>
-					</Link>
-					<p className={`card-text ${card.descriptionClassName}`}>{card.description} <span className={card.spanClassname}>{card.title}</span>
-					</p>
-				</div>
-				<div className="card-footer d-flex justify-content-between align-items-center">
-					<p className={`card-price ${card.priceClassName}`}>
-						от {card.price}
-						<img className="dollar" src={card.priceImg} alt={dollarAlt} />
-					</p>
-					<Link to={card.path} className="card-btn">{card.btn}</Link>
-				</div>
-			</div>
-		)
-	})
-
-	const wrathOfTheLichKingRaids = dataWrathOfTheLichKingRaids.map(card=>{
-		return (
-			<div key={card.id} className={`card ${card.className}`}>
-				<Link to={card.path}>
-					<img src={card.cardImg} className={`card-img ${card.cardImgClassName}`}  alt={card.description} />
-				</Link>
-				<div className="card-body">
-					<Link className="card-link" to={card.path}>
-						<h3 className={`card-title ${card.titleClassName}`}>{card.title}</h3>
-					</Link>
-					<p className={`card-text ${card.descriptionClassName}`}>{card.description} <span className={card.spanClassname}>{card.title}</span>
-					</p>
-				</div>
-				<div className="card-footer d-flex justify-content-between align-items-center">
-					<p className={`card-price ${card.priceClassName}`}>
-						от {card.price}
-						<img className="dollar" src={card.priceImg} alt={dollarAlt} />
-					</p>
-					<Link to={card.path} className="card-btn">{card.btn}</Link>
-				</div>
-			</div>
-		)
-	})
-
-	const cataclysmRaids = dataCataclysmRaids.map(card=>{
-		return (
-			<div key={card.id} className={`card ${card.className}`}>
-				<Link to={card.path}>
-					<img src={card.cardImg} className={`card-img ${card.cardImgClassName}`}  alt={card.description} />
-				</Link>
-				<div className="card-body">
-					<Link className="card-link" to={card.path}>
-						<h3 className={`card-title ${card.titleClassName}`}>{card.title}</h3>
-					</Link>
-					<p className={`card-text ${card.descriptionClassName}`}>{card.description} <span className={card.spanClassname}>{card.title}</span>
-					</p>
-				</div>
-				<div className="card-footer d-flex justify-content-between align-items-center">
-					<p className={`card-price ${card.priceClassName}`}>
-						от {card.price}
-						<img className="dollar" src={card.priceImg} alt={dollarAlt} />
-					</p>
-					<Link to={card.path} className="card-btn">{card.btn}</Link>
-				</div>
-			</div>
-		)
-	})
-
-	const mistsOfPandariaRaids = dataMistsOfPandariaRaids.map(card=>{
-		return (
-			<div key={card.id} className={`card ${card.className}`}>
-				<Link to={card.path}>
-					<img src={card.cardImg} className={`card-img ${card.cardImgClassName}`}  alt={card.description} />
-				</Link>
-				<div className="card-body">
-					<Link className="card-link" to={card.path}>
-						<h3 className={`card-title ${card.titleClassName}`}>{card.title}</h3>
-					</Link>
-					<p className={`card-text ${card.descriptionClassName}`}>{card.description} <span className={card.spanClassname}>{card.title}</span>
-					</p>
-				</div>
-				<div className="card-footer d-flex justify-content-between align-items-center">
-					<p className={`card-price ${card.priceClassName}`}>
-						от {card.price}
-						<img className="dollar" src={card.priceImg} alt={dollarAlt} />
-					</p>
-					<Link to={card.path} className="card-btn">{card.btn}</Link>
-				</div>
-			</div>
-		)
-	})
-
-	const warlordsOfDraenorRaids = dataWarlordsOfDraenorRaids.map(card=>{
-		return (
-			<div key={card.id} className={`card ${card.className}`}>
-				<Link to={card.path}>
-					<img src={card.cardImg} className={`card-img ${card.cardImgClassName}`}  alt={card.description} />
-				</Link>
-				<div className="card-body">
-					<Link className="card-link" to={card.path}>
-						<h3 className={`card-title ${card.titleClassName}`}>{card.title}</h3>
-					</Link>
-					<p className={`card-text ${card.descriptionClassName}`}>{card.description} <span className={card.spanClassname}>{card.title}</span>
-					</p>
-				</div>
-				<div className="card-footer d-flex justify-content-between align-items-center">
-					<p className={`card-price ${card.priceClassName}`}>
-						от {card.price}
-						<img className="dollar" src={card.priceImg} alt={dollarAlt} />
-					</p>
-					<Link to={card.path} className="card-btn">{card.btn}</Link>
-				</div>
-			</div>
-		)
-	})
-
-	const legionRaids = dataLegionRaids.map(card=>{
-		return (
-			<div key={card.id} className={`card ${card.className}`}>
-				<Link to={card.path}>
-					<img src={card.cardImg} className={`card-img ${card.cardImgClassName}`}  alt={card.description} />
-				</Link>
-				<div className="card-body">
-					<Link className="card-link" to={card.path}>
-						<h3 className={`card-title ${card.titleClassName}`}>{card.title}</h3>
-					</Link>
-					<p className={`card-text ${card.descriptionClassName}`}>{card.description} <span className={card.spanClassname}>{card.title}</span>
-					</p>
-				</div>
-				<div className="card-footer d-flex justify-content-between align-items-center">
-					<p className={`card-price ${card.priceClassName}`}>
-						от {card.price}
-						<img className="dollar" src={card.priceImg} alt={dollarAlt} />
-					</p>
-					<Link to={card.path} className="card-btn">{card.btn}</Link>
-				</div>
-			</div>
-		)
-	})
-
-	const battleForAzerothRaids = dataBattleForAzerothRaids.map(card=>{
-		return (
-			<div key={card.id} className={`card ${card.className}`}>
-				<Link to={card.path}>
-					<img src={card.cardImg} className={`card-img ${card.cardImgClassName}`}  alt={card.description} />
-				</Link>
-				<div className="card-body">
-					<Link className="card-link" to={card.path}>
-						<h3 className={`card-title ${card.titleClassName}`}>{card.title}</h3>
-					</Link>
-					<p className={`card-text ${card.descriptionClassName}`}>{card.description} <span className={card.spanClassname}>{card.title}</span>
-					</p>
-				</div>
-				<div className="card-footer d-flex justify-content-between align-items-center">
-					<p className={`card-price ${card.priceClassName}`}>
-						от {card.price}
-						<img className="dollar" src={card.priceImg} alt={dollarAlt} />
-					</p>
-					<Link to={card.path} className="card-btn">{card.btn}</Link>
-				</div>
-			</div>
-		)
-	})
-
-	const shadowlandsRaids = dataShadowlandsRaids.map(card=>{
-		return (
-			<div key={card.id} className={`card ${card.className}`}>
-				<Link to={card.path}>
-					<img src={card.cardImg} className={`card-img ${card.cardImgClassName}`}  alt={card.description} />
-				</Link>
-				<div className="card-body">
-					<Link className="card-link" to={card.path}>
-						<h3 className={`card-title ${card.titleClassName}`}>{card.title}</h3>
-					</Link>
-					<p className={`card-text ${card.descriptionClassName}`}>{card.description} <span className={card.spanClassname}>{card.title}</span>
-					</p>
-				</div>
-				<div className="card-footer d-flex justify-content-between align-items-center">
-					<p className={`card-price ${card.priceClassName}`}>
-						от {card.price}
-						<img className="dollar" src={card.priceImg} alt={dollarAlt} />
-					</p>
-					<Link to={card.path} className="card-btn">{card.btn}</Link>
-				</div>
-			</div>
-		)
-	})
-
-	const dragonflightRaids = dataDragonflightRaids.map(card=>{
-		return (
-			<div key={card.id} className={`card ${card.className}`}>
-				<Link to={card.path}>
-					<img src={card.cardImg} className={`card-img ${card.cardImgClassName}`}  alt={card.description} />
-				</Link>
-				<div className="card-body">
-					<Link className="card-link" to={card.path}>
-						<h3 className={`card-title ${card.titleClassName}`}>{card.title}</h3>
-					</Link>
-					<p className={`card-text ${card.descriptionClassName}`}>{card.description} <span className={card.spanClassname}>{card.title}</span>
-					</p>
-				</div>
-				<div className="card-footer d-flex justify-content-between align-items-center">
-					<p className={`card-price ${card.priceClassName}`}>
-						от {card.price}
-						<img className="dollar" src={card.priceImg} alt={dollarAlt} />
-					</p>
-					<Link to={card.path} className="card-btn">{card.btn}</Link>
-				</div>
-			</div>
-		)
-	})
-
-	const warWithinRaids = dataWarWithinRaids.map(card=>{
-		return (
-			<div key={card.id} className={`card ${card.className}`}>
-				<Link to={card.path}>
-					<img src={card.cardImg} className={`card-img ${card.cardImgClassName}`}  alt={card.description} />
-				</Link>
-				<div className="card-body">
-					<Link className="card-link" to={card.path}>
-						<h3 className={`card-title ${card.titleClassName}`}>{card.title}</h3>
-					</Link>
-					<p className={`card-text ${card.descriptionClassName}`}>{card.description} <span className={card.spanClassname}>{card.title}</span>
-					</p>
-				</div>
-				<div className="card-footer d-flex justify-content-between align-items-center">
-					<p className={`card-price ${card.priceClassName}`}>
-						от {card.price}
-						<img className="dollar" src={card.priceImg} alt={dollarAlt} />
-					</p>
-					<Link to={card.path} className="card-btn">{card.btn}</Link>
-				</div>
-			</div>
-		)
-	})
-
-	const midnightRaids = dataMidnightRaids.map(card=>{
-		return (
-			<div key={card.id} className={`card ${card.className}`}>
-				<Link to={card.path}>
-					<img src={card.cardImg} className={`card-img ${card.cardImgClassName}`}  alt={card.description} />
-				</Link>
-				<div className="card-body">
-					<Link className="card-link" to={card.path}>
-						<h3 className={`card-title ${card.titleClassName}`}>{card.title}</h3>
-					</Link>
-					<p className={`card-text ${card.descriptionClassName}`}>{card.description} <span className={card.spanClassname}>{card.title}</span>
-					</p>
-				</div>
-				<div className="card-footer d-flex justify-content-between align-items-center">
-					<p className={`card-price ${card.priceClassName}`}>
-						от {card.price}
-						<img className="dollar" src={card.priceImg} alt={dollarAlt} />
-					</p>
-					<Link to={card.path} className="card-btn">{card.btn}</Link>
-				</div>
-			</div>
-		)
-	})
-
-	const lastTitanRaids = dataLastTitanRaids.map(card=>{
-		return (
-			<div key={card.id} className={`card ${card.className}`}>
-				<Link to={card.path}>
-					<img src={card.cardImg} className={`card-img ${card.cardImgClassName}`}  alt={card.description} />
-				</Link>
-				<div className="card-body">
-					<Link className="card-link" to={card.path}>
-						<h3 className={`card-title ${card.titleClassName}`}>{card.title}</h3>
-					</Link>
-					<p className={`card-text ${card.descriptionClassName}`}>{card.description} <span className={card.spanClassname}>{card.title}</span>
-					</p>
-				</div>
-				<div className="card-footer d-flex justify-content-between align-items-center">
-					<p className={`card-price ${card.priceClassName}`}>
-						от {card.price}
-						<img className="dollar" src={card.priceImg} alt={dollarAlt} />
-					</p>
-					<Link to={card.path} className="card-btn">{card.btn}</Link>
-				</div>
-			</div>
-		)
-	})
 
 
 
@@ -576,7 +259,7 @@ const Card = ({home, raidsArmourWarrior, legendaryWeapons, classes, warriorArtif
 							{/* Таб контент рейды */}
 							<div className="tab-pane fade fade show active mt-5" id="pills-raids">
 								<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-									{ raids }
+									{ renderCardItems(dataRaids) }
 								</div>
 							</div>
 
@@ -1081,79 +764,79 @@ const Card = ({home, raidsArmourWarrior, legendaryWeapons, classes, warriorArtif
 
 					{ classic &&
 						<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-							{ classicRaids }
+							{ renderCardItems(dataClassicRaids) }
 						</div>
 					}
 
 					{ burningCrusade &&
 						<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-							{ burningCrusadeRaids }
+							{ renderCardItems(dataBurningCrusadeRaids) }
 						</div>
 					}
 
 					{ wrathOfTheLichKing &&
 						<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-							{ wrathOfTheLichKingRaids }
+							{ renderCardItems(dataWrathOfTheLichKingRaids) }
 						</div>
 					}
 
 					{ cataclysm &&
 						<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-							{ cataclysmRaids }
+							{ renderCardItems(dataCataclysmRaids) }
 						</div>
 					}
 
 					{ mistsOfPandaria &&
 						<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-							{ mistsOfPandariaRaids }
+							{ renderCardItems(dataMistsOfPandariaRaids) }
 						</div>
 					}
 
 					{ warlordsOfDraenor &&
 						<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-							{ warlordsOfDraenorRaids }
+							{ renderCardItems(dataWarlordsOfDraenorRaids) }
 						</div>
 					}
 
 					{ legion &&
 						<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-							{ legionRaids }
+							{ renderCardItems(dataLegionRaids) }
 						</div>
 					}
 
 					{ battleForAzeroth &&
 						<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-							{ battleForAzerothRaids }
+							{ renderCardItems(dataBattleForAzerothRaids) }
 						</div>
 					}
 
 					{ shadowlands &&
 						<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-							{ shadowlandsRaids }
+							{ renderCardItems(dataShadowlandsRaids) }
 						</div>
 					}
 
 					{ dragonflight &&
 						<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-							{ dragonflightRaids }
+							{ renderCardItems(dataDragonflightRaids) }
 						</div>
 					}
 
 					{ warWithin &&
 						<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-							{ warWithinRaids }
+							{ renderCardItems(dataWarWithinRaids) }
 						</div>
 					}
 
 					{ midnight &&
 						<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-							{ midnightRaids }
+							{ renderCardItems(dataMidnightRaids) }
 						</div>
 					}
 
 					{ lastTitan &&
 						<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-							{ lastTitanRaids }
+							{ renderCardItems(dataLastTitanRaids) }
 						</div>
 					}
 				</div>
@@ -1163,4 +846,4 @@ const Card = ({home, raidsArmourWarrior, legendaryWeapons, classes, warriorArtif
 }
 
 
-export default Card
+export default Cards

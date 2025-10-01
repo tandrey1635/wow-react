@@ -1,6 +1,7 @@
 [
 	{
 		"id": "Highmaul",
+		"raids": true,
 		"className": "card-raids card-raids-warlords-of-draenor",
 		"path": "#",
 		"cardImgClassName": "card-img-raids",
@@ -18,6 +19,7 @@
 
 	{
 		"id": "BlackrockFoundry",
+		"raids": true,
 		"className": "card-raids card-raids-warlords-of-draenor",
 		"path": "#",
 		"cardImgClassName": "card-img-raids",
@@ -35,6 +37,7 @@
 
 	{
 		"id": "HellfireCitadel",
+		"raids": true,
 		"className": "card-raids card-raids-warlords-of-draenor",
 		"path": "#",
 		"cardImgClassName": "card-img-raids",

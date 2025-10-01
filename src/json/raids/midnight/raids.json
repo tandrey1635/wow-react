@@ -1,6 +1,7 @@
 [
 	{
 		"id": "Midnight",
+		"raids": true,
 		"className": "card-raids card-raids-midnight",
 		"path": "#",
 		"cardImgClassName": "card-img-raids",
