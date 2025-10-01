@@ -13,8 +13,7 @@
 		"priceClassName": "card-price-raids card-price-raids-wrath-of-the-lich-king",
 		"price": 150,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	},
 
 	{
@@ -31,8 +30,7 @@
 		"priceClassName": "card-price-raids card-price-raids-wrath-of-the-lich-king",
 		"price": 160,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	},
 
 	{
@@ -49,8 +47,7 @@
 		"priceClassName": "card-price-raids card-price-raids-wrath-of-the-lich-king",
 		"price": 160,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	},
 
 	{
@@ -67,8 +64,7 @@
 		"priceClassName": "card-price-raids card-price-raids-wrath-of-the-lich-king",
 		"price": 160,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	},
 
 	{
@@ -85,8 +81,7 @@
 		"priceClassName": "card-price-raids card-price-raids-wrath-of-the-lich-king",
 		"price": 170,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	},
 
 	{
@@ -103,8 +98,7 @@
 		"priceClassName": "card-price-raids card-price-raids-wrath-of-the-lich-king",
 		"price": 180,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	},
 
 	{
@@ -121,8 +115,7 @@
 		"priceClassName": "card-price-raids card-price-raids-wrath-of-the-lich-king",
 		"price": 180,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	},
 
 	{
@@ -139,8 +132,7 @@
 		"priceClassName": "card-price-raids card-price-raids-wrath-of-the-lich-king",
 		"price": 190,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	},
 
 	{
@@ -157,7 +149,6 @@
 		"priceClassName": "card-price-raids card-price-raids-wrath-of-the-lich-king",
 		"price": 195,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	}
 ]

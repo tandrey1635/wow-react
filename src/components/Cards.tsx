@@ -114,7 +114,7 @@ const Card = ({home, raidsArmourWarrior, legendaryWeapons, classes, warriorArtif
 						от {card.price}
 						<img className="dollar" src={card.priceImg} alt={dollarAlt} />
 					</p>
-					<Link to={card.path} className="card-btn">{card.btn}</Link>
+					<Link to={card.path} className="card-btn">Подробнее</Link>
 				</div>
 			</div>
 		)

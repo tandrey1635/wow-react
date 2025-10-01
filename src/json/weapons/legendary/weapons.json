@@ -11,8 +11,7 @@
 		"priceClassName": "card-price-weapons card-price-weapons-legendary",
 		"price": 500,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	},
 
 	{
@@ -27,8 +26,7 @@
 		"priceClassName": "card-price-weapons card-price-weapons-legendary",
 		"price": 500,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	},
 
 	{
@@ -43,8 +41,7 @@
 		"priceClassName": "card-price-weapons card-price-weapons-legendary",
 		"price": 500,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	},
 
 	{
@@ -59,8 +56,7 @@
 		"priceClassName": "card-price-weapons card-price-weapons-legendary",
 		"price": 500,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	},
 
 	{
@@ -75,8 +71,7 @@
 		"priceClassName": "card-price-weapons card-price-weapons-legendary",
 		"price": 600,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	},
 
 	{
@@ -91,8 +86,7 @@
 		"priceClassName": "card-price-weapons card-price-weapons-legendary",
 		"price": 600,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	},
 
 	{
@@ -107,8 +101,7 @@
 		"priceClassName": "card-price-weapons card-price-weapons-legendary",
 		"price": 700,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	},
 
 	{
@@ -123,8 +116,7 @@
 		"priceClassName": "card-price-weapons card-price-weapons-legendary",
 		"price": 700,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	},
 
 	{
@@ -139,8 +131,7 @@
 		"priceClassName": "card-price-weapons card-price-weapons-legendary",
 		"price": 800,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	},
 
 	{
@@ -155,8 +146,7 @@
 		"priceClassName": "card-price-weapons card-price-weapons-legendary",
 		"price": 800,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	},
 
 	{
@@ -171,8 +161,7 @@
 		"priceClassName": "card-price-weapons card-price-weapons-legendary",
 		"price": 900,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	},
 
 	{
@@ -187,8 +176,7 @@
 		"priceClassName": "card-price-weapons card-price-weapons-legendary",
 		"price": 1000,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	},
 
 	{
@@ -203,7 +191,6 @@
 		"priceClassName": "card-price-weapons card-price-weapons-legendary",
 		"price": 1000,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	}
 ]

@@ -13,8 +13,7 @@
 		"priceClassName": "card-price-raids card-price-raids-dragonflight",
 		"price": 500,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	},
 
 	{
@@ -31,8 +30,7 @@
 		"priceClassName": "card-price-raids card-price-raids-dragonflight",
 		"price": 520,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	},
 
 	{
@@ -49,7 +47,6 @@
 		"priceClassName": "card-price-raids card-price-raids-dragonflight",
 		"price": 540,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	}
 ]

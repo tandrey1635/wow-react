@@ -13,8 +13,7 @@
 		"priceClassName": "card-price-raids card-price-raids-burning-crusade",
 		"price": 100,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	},
 
 	{
@@ -31,8 +30,7 @@
 		"priceClassName": "card-price-raids card-price-raids-burning-crusade",
 		"price": 100,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	},
 
 	{
@@ -49,8 +47,7 @@
 		"priceClassName": "card-price-raids card-price-raids-burning-crusade",
 		"price": 100,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	},
 
 	{
@@ -67,8 +64,7 @@
 		"priceClassName": "card-price-raids card-price-raids-burning-crusade",
 		"price": 120,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	},
 
 	{
@@ -85,8 +81,7 @@
 		"priceClassName": "card-price-raids card-price-raids-burning-crusade",
 		"price": 120,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	},
 
 	{
@@ -103,8 +98,7 @@
 		"priceClassName": "card-price-raids card-price-raids-burning-crusade",
 		"price": 130,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	},
 
 	{
@@ -121,8 +115,7 @@
 		"priceClassName": "card-price-raids card-price-raids-burning-crusade",
 		"price": 130,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	},
 
 	{
@@ -139,8 +132,7 @@
 		"priceClassName": "card-price-raids card-price-raids-burning-crusade",
 		"price": 130,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	},
 
 	{
@@ -157,7 +149,6 @@
 		"priceClassName": "card-price-raids card-price-raids-burning-crusade",
 		"price": 140,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	}
 ]

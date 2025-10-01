@@ -13,8 +13,7 @@
 		"priceClassName": "card-price-raids card-price-raids-cataclysm",
 		"price": 200,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	},
 
 	{
@@ -31,8 +30,7 @@
 		"priceClassName": "card-price-raids card-price-raids-cataclysm",
 		"price": 220,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	},
 
 	{
@@ -49,8 +47,7 @@
 		"priceClassName": "card-price-raids card-price-raids-cataclysm",
 		"price": 220,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	},
 
 	{
@@ -67,8 +64,7 @@
 		"priceClassName": "card-price-raids card-price-raids-cataclysm",
 		"price": 220,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	},
 
 	{
@@ -85,8 +81,7 @@
 		"priceClassName": "card-price-raids card-price-raids-cataclysm",
 		"price": 230,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	},
 
 	{
@@ -103,7 +98,6 @@
 		"priceClassName": "card-price-raids card-price-raids-cataclysm",
 		"price": 240,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	}
 ]

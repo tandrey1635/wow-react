@@ -11,8 +11,7 @@
 		"priceClassName": "card-price-mounts card-price-mounts-water",
 		"price": 100,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	},
 
 	{
@@ -27,8 +26,7 @@
 		"priceClassName": "card-price-mounts card-price-mounts-earth",
 		"price": 100,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	},
 
 	{
@@ -43,7 +41,6 @@
 		"priceClassName": "card-price-mounts card-price-mounts-fly",
 		"price": 100,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	}
 ]

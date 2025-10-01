@@ -13,8 +13,7 @@
 		"priceClassName": "card-price-raids card-price-raids-classic",
 		"price": 50,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	},
 
 	{
@@ -31,8 +30,7 @@
 		"priceClassName": "card-price-raids card-price-raids-burning-crusade",
 		"price": 100,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	},
 
 	{
@@ -49,8 +47,7 @@
 		"priceClassName": "card-price-raids card-price-raids-wrath-of-the-lich-king",
 		"price": 150,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	},
 
 	{
@@ -67,8 +64,7 @@
 		"priceClassName": "card-price-raids card-price-raids-cataclysm",
 		"price": 200,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	},
 
 	{
@@ -85,8 +81,7 @@
 		"priceClassName": "card-price-raids card-price-raids-mists-of-pandaria",
 		"price": 250,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	},
 
 	{
@@ -103,8 +98,7 @@
 		"priceClassName": "card-price-raids card-price-raids-warlords-of-draenor",
 		"price": 300,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	},
 
 	{
@@ -121,8 +115,7 @@
 		"priceClassName": "card-price-raids card-price-raids-legion",
 		"price": 350,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	},
 
 	{
@@ -139,8 +132,7 @@
 		"priceClassName": "card-price-raids card-price-raids-battle-for-azeroth",
 		"price": 400,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	},
 
 	{
@@ -157,8 +149,7 @@
 		"priceClassName": "card-price-raids card-price-raids-shadowlands",
 		"price": 450,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	},
 
 	{
@@ -175,8 +166,7 @@
 		"priceClassName": "card-price-raids card-price-raids-dragonflight",
 		"price": 500,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	},
 
 	{
@@ -193,8 +183,7 @@
 		"priceClassName": "card-price-raids card-price-raids-war-within",
 		"price": 600,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	},
 
 	{
@@ -211,8 +200,7 @@
 		"priceClassName": "card-price-raids card-price-raids-midnight",
 		"price": 800,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	},
 
 	{
@@ -229,7 +217,6 @@
 		"priceClassName": "card-price-raids card-price-raids-last-titan",
 		"price": 1000,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	}
 ]

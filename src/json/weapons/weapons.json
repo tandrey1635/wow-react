@@ -11,8 +11,7 @@
 		"priceClassName": "card-price-weapons",
 		"price": 300,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	},
 
 	{
@@ -27,8 +26,7 @@
 		"priceClassName": "card-price-weapons",
 		"price": 300,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	},
 
 	{
@@ -43,8 +41,7 @@
 		"priceClassName": "card-price-weapons",
 		"price": 300,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	},
 
 	{
@@ -59,8 +56,7 @@
 		"priceClassName": "card-price-weapons card-price-weapons-legendary",
 		"price": 500,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	},
 
 	{
@@ -75,8 +71,7 @@
 		"priceClassName": "card-price-weapons card-price-weapons-artifact",
 		"price": 800,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	},
 
 	{
@@ -91,7 +86,6 @@
 		"priceClassName": "card-price-weapons card-price-weapons-decorative",
 		"price": 1000,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	}
 ]

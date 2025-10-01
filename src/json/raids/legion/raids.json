@@ -13,8 +13,7 @@
 		"priceClassName": "card-price-raids card-price-raids-legion",
 		"price": 350,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	},
 
 	{
@@ -31,8 +30,7 @@
 		"priceClassName": "card-price-raids card-price-raids-legion",
 		"price": 360,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	},
 
 	{
@@ -49,8 +47,7 @@
 		"priceClassName": "card-price-raids card-price-raids-legion",
 		"price": 370,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	},
 
 	{
@@ -67,8 +64,7 @@
 		"priceClassName": "card-price-raids card-price-raids-legion",
 		"price": 380,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	},
 
 	{
@@ -85,7 +81,6 @@
 		"priceClassName": "card-price-raids card-price-raids-legion",
 		"price": 390,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	}
 ]

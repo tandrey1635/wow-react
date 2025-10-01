@@ -27,9 +27,6 @@ const ArrowUp = () => {
 
 		return () => {
 			window.removeEventListener('scroll', handleScroll);
-			if (arrowUpRef.current) {
-				arrowUpRef.current.removeEventListener('click', handleClick)
-			}
 		}
 
 	}, [])

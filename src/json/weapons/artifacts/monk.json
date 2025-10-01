@@ -11,8 +11,7 @@
 		"priceClassName": "card-price-monk",
 		"price": 800,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	},
 
 	{
@@ -27,8 +26,7 @@
 		"priceClassName": "card-price-monk",
 		"price": 800,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	},
 
 	{
@@ -43,7 +41,6 @@
 		"priceClassName": "card-price-monk",
 		"price": 800,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	}
 ]

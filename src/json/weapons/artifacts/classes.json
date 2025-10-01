@@ -11,8 +11,7 @@
 		"priceClassName": "card-price-warrior",
 		"price": 800,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	},
 
 	{
@@ -27,8 +26,7 @@
 		"priceClassName": "card-price-druid",
 		"price": 800,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	},
 
 	{
@@ -43,8 +41,7 @@
 		"priceClassName": "card-price-priest",
 		"price": 800,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	},
 
 	{
@@ -59,8 +56,7 @@
 		"priceClassName": "card-price-mage",
 		"price": 800,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	},
 
 	{
@@ -75,8 +71,7 @@
 		"priceClassName": "card-price-monk",
 		"price": 800,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	},
 
 	{
@@ -91,8 +86,7 @@
 		"priceClassName": "card-price-hunter",
 		"price": 800,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	},
 
 	{
@@ -107,8 +101,7 @@
 		"priceClassName": "card-price-demon-hunter",
 		"price": 800,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	},
 
 	{
@@ -123,8 +116,7 @@
 		"priceClassName": "card-price-paladin",
 		"price": 800,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	},
 
 	{
@@ -139,8 +131,7 @@
 		"priceClassName": "card-price-rogue",
 		"price": 800,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	},
 
 	{
@@ -155,8 +146,7 @@
 		"priceClassName": "card-price-death-knight",
 		"price": 800,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	},
 
 	{
@@ -171,8 +161,7 @@
 		"priceClassName": "card-price-warlock",
 		"price": 800,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	},
 
 	{
@@ -187,7 +176,6 @@
 		"priceClassName": "card-price-shaman",
 		"price": 800,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	}
 ]

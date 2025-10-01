@@ -13,7 +13,6 @@
 		"priceClassName": "card-price-raids card-price-raids-last-titan",
 		"price": 1000,
 		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$",
-		"btn": "Подробнее"
+		"priceAlt": "$"
 	}
 ]

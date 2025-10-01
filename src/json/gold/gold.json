@@ -11,8 +11,7 @@
 		"priceClassName": "card-price-gold card-price-gold-horde",
 		"price": 1000,
 		"priceImg": "/src/assets/img/gold/bg/gold.png",
-		"priceAlt": "gold",
-		"btn": "Подробнее"
+		"priceAlt": "gold"
 	},
 
 	{
@@ -27,7 +26,6 @@
 		"priceClassName": "card-price-gold card-price-gold-alliance",
 		"price": 1000,
 		"priceImg": "/src/assets/img/gold/bg/gold.png",
-		"priceAlt": "gold",
-		"btn": "Подробнее"
+		"priceAlt": "gold"
 	}
 ]

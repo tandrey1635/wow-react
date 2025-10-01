@@ -13,19 +13,17 @@ import Cards from "./components/Cards";
 
 const App = () => {
 	return (
-		<>
-			<Wrapper>
-				<Header />
-				<Main>
-					<Announcement home />
-					<Promo />
-					<Nav />
-					<Cards home />
-				</Main>
-				<Footer />
-				<ArrowUp />
-			</Wrapper>
-		</>
+		<Wrapper>
+			<Header />
+			<Main>
+				<Announcement home />
+				<Promo />
+				<Nav />
+				<Cards home />
+			</Main>
+			<Footer />
+			<ArrowUp />
+		</Wrapper>
 	)
 }
 
