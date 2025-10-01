@@ -98,28 +98,6 @@ const Cards = ({home, raidsArmourWarrior, legendaryWeapons, classes, warriorArti
 	const dollarAlt = '$'
 
 
-	/* const renderCardItems = (dataJson) => dataJson.map(card=> {
-		return (
-			<div key={card.id} className={`card ${card.className}`}>
-				<Link to={card.path}>
-					<img src={card.cardImg} className="card-img" alt={card.description} />
-				</Link>
-				<div className="card-body">
-					<Link className="card-link" to={card.path}>
-						<h3 className={`card-title ${card.titleClassName}`}>{card.title}</h3>
-					</Link>
-					<p className={`card-text ${card.descriptionClassName}`}>{card.description}</p>
-				</div>
-				<div className="card-footer d-flex justify-content-between align-items-center">
-					<p className={`card-price ${card.priceClassName}`}>
-						от {card.price}
-						<img className="dollar" src={card.priceImg} alt={card.priceAlt} />
-					</p>
-					<Link to={card.path} className="card-btn">Подробнее</Link>
-				</div>
-			</div>
-		)
-	}) */
 
 
 	const renderCardItems = ( dataJson) => dataJson.map(card=> {
@@ -143,8 +121,6 @@ const Cards = ({home, raidsArmourWarrior, legendaryWeapons, classes, warriorArti
 			/>
 		)
 	})
-
-
 
 
 
