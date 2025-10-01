@@ -80,10 +80,10 @@
 	},
 
 	{
-		"id": "VengeanceOfTheFallen",
+		"id": "VengeanceOfTheFallenAllPropertiesArtifact",
 		"className": "card-warrior",
 		"path": "#",
-		"cardImg": "/src/assets/img/weapons/bg/artefact/warrior/Vengeance-of-the-Fallen-1.png",
+		"cardImg": "/src/assets/img/weapons/bg/artefact/warrior/Vengeance-of-the-Fallen-all-properties-artifact.png",
 		"titleClassName": "card-title-warrior",
 		"title": "Месть павших",
 		"descriptionClassName": "card-text-warrior",
@@ -96,10 +96,10 @@
 	},
 
 	{
-		"id": "VengeanceOfTheFallen",
+		"id": "VengeanceOfTheFallenFullPowerArtifact",
 		"className": "card-warrior",
 		"path": "#",
-		"cardImg": "/src/assets/img/weapons/bg/artefact/warrior/Vengeance-of-the-Fallen-2.png",
+		"cardImg": "/src/assets/img/weapons/bg/artefact/warrior/Vengeance-of-the-Fallen-full-power-artifact.png",
 		"titleClassName": "card-title-warrior",
 		"title": "Месть павших",
 		"descriptionClassName": "card-text-warrior",
@@ -112,10 +112,10 @@
 	},
 
 	{
-		"id": "VengeanceOfTheFallen",
+		"id": "VengeanceOfTheFallenArchaeology",
 		"className": "card-warrior",
 		"path": "#",
-		"cardImg": "/src/assets/img/weapons/bg/artefact/warrior/Vengeance-of-the-Fallen-3.png",
+		"cardImg": "/src/assets/img/weapons/bg/artefact/warrior/Vengeance-of-the-Fallen-archaeology.png",
 		"titleClassName": "card-title-warrior",
 		"title": "Месть павших",
 		"descriptionClassName": "card-text-warrior",
@@ -144,10 +144,10 @@
 	},
 
 	{
-		"id": "FlamereaperBalanceOfPower",
+		"id": "FlamereaperWorldBosses",
 		"className": "card-warrior",
 		"path": "#",
-		"cardImg": "/src/assets/img/weapons/bg/artefact/warrior/Flamereaper-Balance-of-power.png",
+		"cardImg": "/src/assets/img/weapons/bg/artefact/warrior/Flamereaper-world-bosses.png",
 		"titleClassName": "card-title-warrior",
 		"title": "Огненный жнец",
 		"descriptionClassName": "card-text-warrior",
@@ -160,10 +160,10 @@
 	},
 
 	{
-		"id": "FlamereaperMythycDungeons",
+		"id": "FlamereaperMythycDungeons15",
 		"className": "card-warrior",
 		"path": "#",
-		"cardImg": "/src/assets/img/weapons/bg/artefact/warrior/Flamereaper-mythyc-dungeons.png",
+		"cardImg": "/src/assets/img/weapons/bg/artefact/warrior/Flamereaper-mythyc-dungeons-15.png",
 		"titleClassName": "card-title-warrior",
 		"title": "Огненный жнец",
 		"descriptionClassName": "card-text-warrior",
@@ -176,10 +176,10 @@
 	},
 
 	{
-		"id": "FlamereaperGlory",
+		"id": "FlamereaperGloryOfTheLegionHero",
 		"className": "card-warrior",
 		"path": "#",
-		"cardImg": "/src/assets/img/weapons/bg/artefact/warrior/Flamereaper-Glory.png",
+		"cardImg": "/src/assets/img/weapons/bg/artefact/warrior/Flamereaper-Glory-of-the-legion-hero.png",
 		"titleClassName": "card-title-warrior",
 		"title": "Огненный жнец",
 		"descriptionClassName": "card-text-warrior",
@@ -208,10 +208,10 @@
 	},
 
 	{
-		"id": "WrathsEdgePvp30Lvl",
+		"id": "WrathsEdgePvp6Lvl",
 		"className": "card-warrior",
 		"path": "#",
-		"cardImg": "/src/assets/img/weapons/bg/artefact/warrior/Wraths-Edge-pvp-30-lvl.png",
+		"cardImg": "/src/assets/img/weapons/bg/artefact/warrior/Wraths-Edge-pvp-6-lvl.png",
 		"titleClassName": "card-title-warrior",
 		"title": "Клинок гнева",
 		"descriptionClassName": "card-text-warrior",
@@ -224,10 +224,10 @@
 	},
 
 	{
-		"id": "WrathsEdgePvp50Lvl",
+		"id": "WrathsEdgePvp10Lvl",
 		"className": "card-warrior",
 		"path": "#",
-		"cardImg": "/src/assets/img/weapons/bg/artefact/warrior/Wraths-Edge-pvp-50-lvl.png",
+		"cardImg": "/src/assets/img/weapons/bg/artefact/warrior/Wraths-Edge-pvp-10-lvl.png",
 		"titleClassName": "card-title-warrior",
 		"title": "Клинок гнева",
 		"descriptionClassName": "card-text-warrior",
@@ -240,10 +240,10 @@
 	},
 
 	{
-		"id": "WrathsEdgePvp80Lvl",
+		"id": "WrathsEdgePvp14Lvl",
 		"className": "card-warrior",
 		"path": "#",
-		"cardImg": "/src/assets/img/weapons/bg/artefact/warrior/Wraths-Edge-pvp-80-lvl.png",
+		"cardImg": "/src/assets/img/weapons/bg/artefact/warrior/Wraths-Edge-pvp-14-lvl.png",
 		"titleClassName": "card-title-warrior",
 		"title": "Клинок гнева",
 		"descriptionClassName": "card-text-warrior",
