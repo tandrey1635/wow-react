@@ -12,9 +12,7 @@
 		"description": "Закажите гарантированное прохождение рейда",
 		"spanClassname": "card-text-raids-legion_color",
 		"priceClassName": "card-price-raids card-price-raids-legion",
-		"price": 350,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 350
 	},
 
 	{
@@ -30,9 +28,7 @@
 		"description": "Закажите гарантированное прохождение рейда",
 		"spanClassname": "card-text-raids-legion_color",
 		"priceClassName": "card-price-raids card-price-raids-legion",
-		"price": 360,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 360
 	},
 
 	{
@@ -48,9 +44,7 @@
 		"description": "Закажите гарантированное прохождение рейда",
 		"spanClassname": "card-text-raids-legion_color",
 		"priceClassName": "card-price-raids card-price-raids-legion",
-		"price": 370,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 370
 	},
 
 	{
@@ -66,9 +60,7 @@
 		"description": "Закажите гарантированное прохождение рейда",
 		"spanClassname": "card-text-raids-legion_color",
 		"priceClassName": "card-price-raids card-price-raids-legion",
-		"price": 380,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 380
 	},
 
 	{
@@ -84,8 +76,6 @@
 		"description": "Закажите гарантированное прохождение рейда",
 		"spanClassname": "card-text-raids-legion_color",
 		"priceClassName": "card-price-raids card-price-raids-legion",
-		"price": 390,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 390
 	}
 ]

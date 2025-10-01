@@ -117,6 +117,7 @@ const Cards = ({home, raidsArmourWarrior, legendaryWeapons, classes, warriorArti
 				price={card.price}
 				priceImg={card.priceImg}
 				priceAlt={card.priceAlt}
+				gold={card.gold === true}
 				raids={card.raids === true}
 			/>
 		)

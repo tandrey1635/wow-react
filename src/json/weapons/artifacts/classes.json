@@ -9,9 +9,7 @@
 		"descriptionClassName": "card-text-warrior",
 		"description": "Артефакты для Воина",
 		"priceClassName": "card-price-warrior",
-		"price": 800,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 800
 	},
 
 	{
@@ -24,9 +22,7 @@
 		"descriptionClassName": "card-text-druid",
 		"description": "Артефакты для Друида",
 		"priceClassName": "card-price-druid",
-		"price": 800,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 800
 	},
 
 	{
@@ -39,9 +35,7 @@
 		"descriptionClassName": "card-text-priest",
 		"description": "Артефакты для Жреца",
 		"priceClassName": "card-price-priest",
-		"price": 800,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 800
 	},
 
 	{
@@ -54,9 +48,7 @@
 		"descriptionClassName": "card-text-mage",
 		"description": "Артефакты для Мага",
 		"priceClassName": "card-price-mage",
-		"price": 800,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 800
 	},
 
 	{
@@ -69,9 +61,7 @@
 		"descriptionClassName": "card-text-monk",
 		"description": "Артефакты для Монаха",
 		"priceClassName": "card-price-monk",
-		"price": 800,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 800
 	},
 
 	{
@@ -84,9 +74,7 @@
 		"descriptionClassName": "card-text-hunter",
 		"description": "Артефакты для Охотника",
 		"priceClassName": "card-price-hunter",
-		"price": 800,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 800
 	},
 
 	{
@@ -99,9 +87,7 @@
 		"descriptionClassName": "card-text-demon-hunter",
 		"description": "Артефакты для Охотника на демонов",
 		"priceClassName": "card-price-demon-hunter",
-		"price": 800,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 800
 	},
 
 	{
@@ -114,9 +100,7 @@
 		"descriptionClassName": "card-text-paladin",
 		"description": "Артефакты для Паладина",
 		"priceClassName": "card-price-paladin",
-		"price": 800,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 800
 	},
 
 	{
@@ -129,9 +113,7 @@
 		"descriptionClassName": "card-text-rogue",
 		"description": "Артефакты для Разбойника",
 		"priceClassName": "card-price-rogue",
-		"price": 800,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 800
 	},
 
 	{
@@ -144,9 +126,7 @@
 		"descriptionClassName": "card-text-death-knight",
 		"description": "Артефакты для Рыцаря смерти",
 		"priceClassName": "card-price-death-knight",
-		"price": 800,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 800
 	},
 
 	{
@@ -159,9 +139,7 @@
 		"descriptionClassName": "card-text-warlock",
 		"description": "Артефакты для Чернокнижника",
 		"priceClassName": "card-price-warlock",
-		"price": 800,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 800
 	},
 
 	{
@@ -174,8 +152,6 @@
 		"descriptionClassName": "card-text-shaman",
 		"description": "Артефакты для Шамана",
 		"priceClassName": "card-price-shaman",
-		"price": 800,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 800
 	}
 ]

@@ -9,9 +9,7 @@
 		"descriptionClassName": "card-text-death-knight",
 		"description": "Закажите артефакты для Рыцаря смерти Крови",
 		"priceClassName": "card-price-death-knight",
-		"price": 800,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 800
 	},
 
 	{
@@ -24,9 +22,7 @@
 		"descriptionClassName": "card-text-death-knight",
 		"description": "Закажите артефакты для Рыцаря смерти Льда",
 		"priceClassName": "card-price-death-knight",
-		"price": 800,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 800
 	},
 
 	{
@@ -39,8 +35,6 @@
 		"descriptionClassName": "card-text-death-knight",
 		"description": "Закажите артефакты для Рыцаря смерти Нечестивости",
 		"priceClassName": "card-price-death-knight",
-		"price": 800,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 800
 	}
 ]

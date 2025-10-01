@@ -12,8 +12,6 @@
 		"description": "Закажите гарантированное прохождение рейда",
 		"spanClassname": "card-text-raids-midnight_color",
 		"priceClassName": "card-price-raids card-price-raids-midnight",
-		"price": 800,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 800
 	}
 ]

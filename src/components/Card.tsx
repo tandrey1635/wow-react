@@ -1,7 +1,7 @@
 import { Link } from "react-router";
 
 
-const Card = ({ id, className, path, cardImg, cardImgClassName, description, titleClassName, title, descriptionClassName, spanClassname, priceClassName, price, priceImg, priceAlt,  raids }) => {
+const Card = ({ className, path, cardImg, cardImgClassName, description, titleClassName, title, descriptionClassName, spanClassname, priceClassName, price, priceImg, priceAlt, gold, raids }) => {
 	return (
 		<div className={`card ${className}`}>
 			<Link to={path}>
@@ -17,7 +17,19 @@ const Card = ({ id, className, path, cardImg, cardImgClassName, description, tit
 			<div className="card-footer d-flex justify-content-between align-items-center">
 				<p className={`card-price ${priceClassName}`}>
 					от {price}
-					<img className="dollar" src={priceImg} alt={priceAlt} />
+					<img
+						className="dollar"
+						src={
+							gold
+							? "/src/assets/img/gold/bg/gold.png"
+							: "/src/assets/img/gold/bg/dollar.png"
+						}
+						alt={
+							gold
+							? "gold"
+							: "$"
+						}
+					/>
 				</p>
 				<Link to={path} className="card-btn">Подробнее</Link>
 			</div>

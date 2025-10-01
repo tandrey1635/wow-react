@@ -9,9 +9,7 @@
 		"descriptionClassName": "card-text-warlock",
 		"description": "Закажите артефакты для Чернокнижника Колдовства",
 		"priceClassName": "card-price-warlock",
-		"price": 800,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 800
 	},
 
 	{
@@ -24,9 +22,7 @@
 		"descriptionClassName": "card-text-warlock",
 		"description": "Закажите артефакты для Чернокнижника Демонологии",
 		"priceClassName": "card-price-warlock",
-		"price": 800,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 800
 	},
 
 	{
@@ -39,8 +35,6 @@
 		"descriptionClassName": "card-text-warlock",
 		"description": "Закажите артефакты для Чернокнижника Разрушения",
 		"priceClassName": "card-price-warlock",
-		"price": 800,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 800
 	}
 ]

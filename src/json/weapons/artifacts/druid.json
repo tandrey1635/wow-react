@@ -9,9 +9,7 @@
 		"descriptionClassName": "card-text-druid",
 		"description": "Закажите артефакты для Друида Баланса",
 		"priceClassName": "card-price-druid",
-		"price": 800,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 800
 	},
 
 	{
@@ -24,9 +22,7 @@
 		"descriptionClassName": "card-text-druid",
 		"description": "Закажите артефакты для Друида Силы зверя",
 		"priceClassName": "card-price-druid",
-		"price": 800,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 800
 	},
 
 	{
@@ -39,9 +35,7 @@
 		"descriptionClassName": "card-text-druid",
 		"description": "Закажите артефакты для Друида Стража",
 		"priceClassName": "card-price-druid",
-		"price": 800,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 800
 	},
 
 	{
@@ -54,9 +48,7 @@
 		"descriptionClassName": "card-text-druid",
 		"description": "Закажите артефакты для Друида Исцеления",
 		"priceClassName": "card-price-druid",
-		"price": 800,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 800
 	}
 
 ]

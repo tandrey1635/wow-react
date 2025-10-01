@@ -9,9 +9,7 @@
 		"descriptionClassName": "card-text-warrior",
 		"description": "Закажите Боевые мечи валарьяров",
 		"priceClassName": "card-price-warrior",
-		"price": 800,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 800
 	},
 
 	{
@@ -24,9 +22,7 @@
 		"descriptionClassName": "card-text-warrior",
 		"description": "Закажите Боевые мечи валарьяров",
 		"priceClassName": "card-price-warrior",
-		"price": 800,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 800
 	},
 
 	{
@@ -39,9 +35,7 @@
 		"descriptionClassName": "card-text-warrior",
 		"description": "Закажите Боевые мечи валарьяров",
 		"priceClassName": "card-price-warrior",
-		"price": 800,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 800
 	},
 
 	{
@@ -54,9 +48,7 @@
 		"descriptionClassName": "card-text-warrior",
 		"description": "Закажите Боевые мечи валарьяров",
 		"priceClassName": "card-price-warrior",
-		"price": 800,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 800
 	},
 
 	{
@@ -69,9 +61,7 @@
 		"descriptionClassName": "card-text-warrior",
 		"description": "Закажите Длань укротителя драконов",
 		"priceClassName": "card-price-warrior",
-		"price": 1000,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 1000
 	},
 
 	{
@@ -84,9 +74,7 @@
 		"descriptionClassName": "card-text-warrior",
 		"description": "Закажите Длань укротителя драконов",
 		"priceClassName": "card-price-warrior",
-		"price": 1000,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 1000
 	},
 
 	{
@@ -99,9 +87,7 @@
 		"descriptionClassName": "card-text-warrior",
 		"description": "Закажите Длань укротителя драконов",
 		"priceClassName": "card-price-warrior",
-		"price": 1000,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 1000
 	},
 
 	{
@@ -114,9 +100,7 @@
 		"descriptionClassName": "card-text-warrior",
 		"description": "Закажите Длань укротителя драконов",
 		"priceClassName": "card-price-warrior",
-		"price": 1000,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 1000
 	},
 
 	{
@@ -129,9 +113,7 @@
 		"descriptionClassName": "card-text-warrior",
 		"description": "Закажите Лик доблести",
 		"priceClassName": "card-price-warrior",
-		"price": 1200,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 1200
 	},
 
 	{
@@ -144,9 +126,7 @@
 		"descriptionClassName": "card-text-warrior",
 		"description": "Закажите Лик доблести",
 		"priceClassName": "card-price-warrior",
-		"price": 1200,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 1200
 	},
 
 	{
@@ -159,9 +139,7 @@
 		"descriptionClassName": "card-text-warrior",
 		"description": "Закажите Лик доблести",
 		"priceClassName": "card-price-warrior",
-		"price": 1200,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 1200
 	},
 
 	{
@@ -174,9 +152,7 @@
 		"descriptionClassName": "card-text-warrior",
 		"description": "Закажите Лик доблести",
 		"priceClassName": "card-price-warrior",
-		"price": 1200,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 1200
 	},
 
 	{
@@ -189,9 +165,7 @@
 		"descriptionClassName": "card-text-warrior",
 		"description": "Закажите Дыхание шторма",
 		"priceClassName": "card-price-warrior",
-		"price": 1500,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 1500
 	},
 
 	{
@@ -204,9 +178,7 @@
 		"descriptionClassName": "card-text-warrior",
 		"description": "Закажите Дыхание шторма",
 		"priceClassName": "card-price-warrior",
-		"price": 1500,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 1500
 	},
 
 	{
@@ -219,9 +191,7 @@
 		"descriptionClassName": "card-text-warrior",
 		"description": "Закажите Дыхание шторма",
 		"priceClassName": "card-price-warrior",
-		"price": 1500,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 1500
 	},
 
 	{
@@ -234,9 +204,7 @@
 		"descriptionClassName": "card-text-warrior",
 		"description": "Закажите Дыхание шторма",
 		"priceClassName": "card-price-warrior",
-		"price": 1500,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 1500
 	},
 
 	{
@@ -249,9 +217,7 @@
 		"descriptionClassName": "card-text-warrior",
 		"description": "Закажите Взор Хелии",
 		"priceClassName": "card-price-warrior",
-		"price": 1800,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 1800
 	},
 
 	{
@@ -264,9 +230,7 @@
 		"descriptionClassName": "card-text-warrior",
 		"description": "Закажите Взор Хелии",
 		"priceClassName": "card-price-warrior",
-		"price": 1800,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 1800
 	},
 
 	{
@@ -279,9 +243,7 @@
 		"descriptionClassName": "card-text-warrior",
 		"description": "Закажите Взор Хелии",
 		"priceClassName": "card-price-warrior",
-		"price": 1800,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 1800
 	},
 
 	{
@@ -294,9 +256,7 @@
 		"descriptionClassName": "card-text-warrior",
 		"description": "Закажите Взор Хелии",
 		"priceClassName": "card-price-warrior",
-		"price": 1800,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 1800
 	},
 
 	{
@@ -309,9 +269,7 @@
 		"descriptionClassName": "card-text-warrior",
 		"description": "Закажите Клинки убийцы драконов",
 		"priceClassName": "card-price-warrior",
-		"price": 2000,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 2000
 	},
 
 	{
@@ -324,9 +282,7 @@
 		"descriptionClassName": "card-text-warrior",
 		"description": "Закажите Клинки убийцы драконов",
 		"priceClassName": "card-price-warrior",
-		"price": 2000,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 2000
 	},
 
 	{
@@ -339,9 +295,7 @@
 		"descriptionClassName": "card-text-warrior",
 		"description": "Закажите Клинки убийцы драконов",
 		"priceClassName": "card-price-warrior",
-		"price": 2000,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 2000
 	},
 
 	{
@@ -354,8 +308,6 @@
 		"descriptionClassName": "card-text-warrior",
 		"description": "Закажите Клинки убийцы драконов",
 		"priceClassName": "card-price-warrior",
-		"price": 2000,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 2000
 	}
 ]

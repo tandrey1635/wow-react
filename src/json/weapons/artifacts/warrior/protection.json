@@ -9,8 +9,6 @@
 		"descriptionClassName": "card-text-warrior",
 		"description": "Закажите Панцирь Хранителя Земли",
 		"priceClassName": "card-price-warrior",
-		"price": 800,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 800
 	}
 ]

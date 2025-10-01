@@ -9,9 +9,7 @@
 		"descriptionClassName": "card-text-demon-hunter",
 		"description": "Закажите артефакты для Охотника на демонов Истребления",
 		"priceClassName": "card-price-demon-hunter",
-		"price": 800,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 800
 	},
 
 	{
@@ -24,8 +22,6 @@
 		"descriptionClassName": "card-text-demon-hunter",
 		"description": "Закажите артефакты для Охотника на демонов Мести",
 		"priceClassName": "card-price-demon-hunter",
-		"price": 800,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 800
 	}
 ]

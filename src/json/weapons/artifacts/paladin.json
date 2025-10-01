@@ -9,9 +9,7 @@
 		"descriptionClassName": "card-text-paladin",
 		"description": "Закажите артефакты для Паладина Света",
 		"priceClassName": "card-price-paladin",
-		"price": 800,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 800
 	},
 
 	{
@@ -24,9 +22,7 @@
 		"descriptionClassName": "card-text-paladin",
 		"description": "Закажите артефакты для Паладина Защиты",
 		"priceClassName": "card-price-paladin",
-		"price": 800,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 800
 	},
 
 	{
@@ -39,8 +35,6 @@
 		"descriptionClassName": "card-text-paladin",
 		"description": "Закажите артефакты для Паладина Воздаяния",
 		"priceClassName": "card-price-paladin",
-		"price": 800,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 800
 	}
 ]

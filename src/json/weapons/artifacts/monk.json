@@ -9,9 +9,7 @@
 		"descriptionClassName": "card-text-monk",
 		"description": "Закажите артефакты для Монаха Хмелевара",
 		"priceClassName": "card-price-monk",
-		"price": 800,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 800
 	},
 
 	{
@@ -24,9 +22,7 @@
 		"descriptionClassName": "card-text-monk",
 		"description": "Закажите артефакты для Монаха Ткача туманов",
 		"priceClassName": "card-price-monk",
-		"price": 800,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 800
 	},
 
 	{
@@ -39,8 +35,6 @@
 		"descriptionClassName": "card-text-monk",
 		"description": "Закажите артефакты для Монаха Танцующего с ветром",
 		"priceClassName": "card-price-monk",
-		"price": 800,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 800
 	}
 ]

@@ -12,9 +12,7 @@
 		"description": "Закажите гарантированное прохождение рейда",
 		"spanClassname": "card-text-raids-battle-for-azeroth_color",
 		"priceClassName": "card-price-raids card-price-raids-battle-for-azeroth",
-		"price": 400,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 400
 	},
 
 	{
@@ -30,9 +28,7 @@
 		"description": "Закажите гарантированное прохождение рейда",
 		"spanClassname": "card-text-raids-battle-for-azeroth_color",
 		"priceClassName": "card-price-raids card-price-raids-battle-for-azeroth",
-		"price": 410,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 410
 	},
 
 	{
@@ -48,9 +44,7 @@
 		"description": "Закажите гарантированное прохождение рейда",
 		"spanClassname": "card-text-raids-battle-for-azeroth_color",
 		"priceClassName": "card-price-raids card-price-raids-battle-for-azeroth",
-		"price": 420,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 420
 	},
 
 	{
@@ -66,9 +60,7 @@
 		"description": "Закажите гарантированное прохождение рейда",
 		"spanClassname": "card-text-raids-battle-for-azeroth_color",
 		"priceClassName": "card-price-raids card-price-raids-battle-for-azeroth",
-		"price": 430,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 430
 	},
 
 	{
@@ -84,8 +76,6 @@
 		"description": "Закажите гарантированное прохождение рейда",
 		"spanClassname": "card-text-raids-battle-for-azeroth_color",
 		"priceClassName": "card-price-raids card-price-raids-battle-for-azeroth",
-		"price": 440,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 440
 	}
 ]

@@ -9,9 +9,7 @@
 		"descriptionClassName": "card-text-warrior",
 		"description": "Комплекты рейдовой брони для Воина",
 		"priceClassName": "card-price-warrior",
-		"price": 100,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 100
 	},
 
 	{
@@ -24,9 +22,7 @@
 		"descriptionClassName": "card-text-druid",
 		"description": "Комплекты рейдовой брони для Друида",
 		"priceClassName": "card-price-druid",
-		"price": 100,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 100
 	},
 
 	{
@@ -39,9 +35,7 @@
 		"descriptionClassName": "card-text-priest",
 		"description": "Комплекты рейдовой брони для Жреца",
 		"priceClassName": "card-price-priest",
-		"price": 100,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 100
 	},
 
 	{
@@ -54,9 +48,7 @@
 		"descriptionClassName": "card-text-mage",
 		"description": "Комплекты рейдовой брони для Мага",
 		"priceClassName": "card-price-mage",
-		"price": 100,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 100
 	},
 
 	{
@@ -69,9 +61,7 @@
 		"descriptionClassName": "card-text-monk",
 		"description": "Комплекты рейдовой брони для Монаха",
 		"priceClassName": "card-price-monk",
-		"price": 100,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 100
 	},
 
 	{
@@ -84,9 +74,7 @@
 		"descriptionClassName": "card-text-hunter",
 		"description": "Комплекты рейдовой брони для Охотника",
 		"priceClassName": "card-price-hunter",
-		"price": 100,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 100
 	},
 
 	{
@@ -99,9 +87,7 @@
 		"descriptionClassName": "card-text-demon-hunter",
 		"description": "Комплекты рейдовой брони для Охотника на демонов",
 		"priceClassName": "card-price-demon-hunter",
-		"price": 100,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 100
 	},
 
 	{
@@ -114,9 +100,7 @@
 		"descriptionClassName": "card-text-paladin",
 		"description": "Комплекты рейдовой брони для Паладина",
 		"priceClassName": "card-price-paladin",
-		"price": 100,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 100
 	},
 
 	{
@@ -129,9 +113,7 @@
 		"descriptionClassName": "card-text-awakener",
 		"description": "Комплекты рейдовой брони для Пробудителя",
 		"priceClassName": "card-price-awakener",
-		"price": 100,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 100
 	},
 
 	{
@@ -144,9 +126,7 @@
 		"descriptionClassName": "card-text-rogue",
 		"description": "Комплекты рейдовой брони для Разбойника",
 		"priceClassName": "card-price-rogue",
-		"price": 100,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 100
 	},
 
 	{
@@ -159,9 +139,7 @@
 		"descriptionClassName": "card-text-death-knight",
 		"description": "Комплекты рейдовой брони для Рыцаря смерти",
 		"priceClassName": "card-price-death-knight",
-		"price": 100,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 100
 	},
 
 	{
@@ -174,9 +152,7 @@
 		"descriptionClassName": "card-text-warlock",
 		"description": "Комплекты рейдовой брони для Чернокнижника",
 		"priceClassName": "card-price-warlock",
-		"price": 100,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 100
 	},
 
 	{
@@ -189,8 +165,6 @@
 		"descriptionClassName": "card-text-shaman",
 		"description": "Комплекты рейдовой брони для Шамана",
 		"priceClassName": "card-price-shaman",
-		"price": 100,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 100
 	}
 ]

@@ -12,9 +12,7 @@
 		"description": "Закажите гарантированное прохождение рейда",
 		"spanClassname": "card-text-raids-dragonflight_color",
 		"priceClassName": "card-price-raids card-price-raids-dragonflight",
-		"price": 500,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 500
 	},
 
 	{
@@ -30,9 +28,7 @@
 		"description": "Закажите гарантированное прохождение рейда",
 		"spanClassname": "card-text-raids-dragonflight_color",
 		"priceClassName": "card-price-raids card-price-raids-dragonflight",
-		"price": 520,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 520
 	},
 
 	{
@@ -48,8 +44,6 @@
 		"description": "Закажите гарантированное прохождение рейда",
 		"spanClassname": "card-text-raids-dragonflight_color",
 		"priceClassName": "card-price-raids card-price-raids-dragonflight",
-		"price": 540,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 540
 	}
 ]

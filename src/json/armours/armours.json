@@ -9,9 +9,7 @@
 		"descriptionClassName": "card-text-armours",
 		"description": "Закажите любой щит",
 		"priceClassName": "card-price-armours",
-		"price": 300,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 300
 	},
 
 	{
@@ -24,9 +22,7 @@
 		"descriptionClassName": "card-text-armours",
 		"description": "Закажите любой плащ",
 		"priceClassName": "card-price-armours",
-		"price": 300,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 300
 	},
 
 	{
@@ -39,8 +35,6 @@
 		"descriptionClassName": "card-text-armours",
 		"description": "Закажите любую удочку",
 		"priceClassName": "card-price-armours",
-		"price": 300,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 300
 	}
 ]

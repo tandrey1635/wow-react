@@ -9,9 +9,7 @@
 		"descriptionClassName": "card-text-priest",
 		"description": "Закажите артефакты для Жреца Послушания",
 		"priceClassName": "card-price-priest",
-		"price": 800,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 800
 	},
 
 	{
@@ -24,9 +22,7 @@
 		"descriptionClassName": "card-text-priest",
 		"description": "Закажите артефакты для Жреца Света",
 		"priceClassName": "card-price-priest",
-		"price": 800,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 800
 	},
 
 	{
@@ -39,8 +35,6 @@
 		"descriptionClassName": "card-text-priest",
 		"description": "Закажите артефакты для Жреца Тьмы",
 		"priceClassName": "card-price-priest",
-		"price": 800,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 800
 	}
 ]

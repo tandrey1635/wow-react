@@ -9,9 +9,7 @@
 		"descriptionClassName": "card-text-professions",
 		"description": "С помощью алхимии можно создавать мощные зелья, настои и элексиры",
 		"priceClassName": "card-price-professions",
-		"price": 200,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "dollar"
+		"price": 200
 	},
 
 	{
@@ -24,9 +22,7 @@
 		"descriptionClassName": "card-text-professions",
 		"description": "Горное дело позволяет добывать руду во множестве мест по всему миру",
 		"priceClassName": "card-price-professions",
-		"price": 200,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "dollar"
+		"price": 200
 	},
 
 	{
@@ -39,9 +35,7 @@
 		"descriptionClassName": "card-text-professions",
 		"description": "Инженеры превращают различные материалы в интересные и полезные гаджеты, необычные предметы и даже в эпические шлемы и очки, оружия дальнего боя и прицелы к ним",
 		"priceClassName": "card-price-professions",
-		"price": 200,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "dollar"
+		"price": 200
 	},
 
 	{
@@ -54,9 +48,7 @@
 		"descriptionClassName": "card-text-professions",
 		"description": "Ремесленная профессия, которая использует шкуры и кожу для изготовления доспехов и барабанов",
 		"priceClassName": "card-price-professions",
-		"price": 200,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "dollar"
+		"price": 200
 	},
 
 	{
@@ -69,9 +61,7 @@
 		"descriptionClassName": "card-text-professions",
 		"description": "Ремесленная профессия которая использует различные металлы для изготовления пластинчатых доспехов, оружия и других полезных предметов",
 		"priceClassName": "card-price-professions",
-		"price": 200,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "dollar"
+		"price": 200
 	},
 
 	{
@@ -84,9 +74,7 @@
 		"descriptionClassName": "card-text-professions",
 		"description": "Наложение чар позволяет получать материалы для зачаровывания путем распыления брони необычного или лучшего качества и превращать их в постоянные улучшения для собственной брони или брони союзников",
 		"priceClassName": "card-price-professions",
-		"price": 200,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "dollar"
+		"price": 200
 	},
 
 	{
@@ -99,9 +87,7 @@
 		"descriptionClassName": "card-text-professions",
 		"description": "Начертание позволяет создавать символы, свитки и карты с помощью чернил получаемых при измельчении трав",
 		"priceClassName": "card-price-professions",
-		"price": 200,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "dollar"
+		"price": 200
 	},
 
 	{
@@ -114,9 +100,7 @@
 		"descriptionClassName": "card-text-professions",
 		"description": "Ремесленная профессия которая использует различные ткани для создания брони, сумок, чародейских нитей и даже ковров-самолетов",
 		"priceClassName": "card-price-professions",
-		"price": 200,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "dollar"
+		"price": 200
 	},
 
 	{
@@ -129,9 +113,7 @@
 		"descriptionClassName": "card-text-professions",
 		"description": "Собирательная профессия, позволяющая снимать кожу, шкуры, чешуйки и панцири с убитых животных, драконов, нерубов и силитидов",
 		"priceClassName": "card-price-professions",
-		"price": 200,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "dollar"
+		"price": 200
 	},
 
 	{
@@ -144,9 +126,7 @@
 		"descriptionClassName": "card-text-professions",
 		"description": "Собирательная профессия позволяющая собирать травы",
 		"priceClassName": "card-price-professions",
-		"price": 200,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "dollar"
+		"price": 200
 	},
 
 	{
@@ -159,9 +139,7 @@
 		"descriptionClassName": "card-text-professions",
 		"description": "Ремесленная профессия с помощью которой можно создавать различные драгоценные камни, повышающие различные характеристики. Эти камни могут быть вставлены в экипировку",
 		"priceClassName": "card-price-professions",
-		"price": 200,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "dollar"
+		"price": 200
 	},
 
 	{
@@ -174,9 +152,7 @@
 		"descriptionClassName": "card-text-professions",
 		"description": "Вторичная профессия позволяющая увидеть, что скрывают в себе глубины Азерота. Археологи должны путешествовать по всему миру в поисках фрагментов древних артефактов, которые содержат интереснейшие частицы истории мира",
 		"priceClassName": "card-price-professions",
-		"price": 200,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "dollar"
+		"price": 200
 	},
 
 	{
@@ -189,9 +165,7 @@
 		"descriptionClassName": "card-text-professions",
 		"description": "Пассивный навык, позволяющий использовать верховых животных для передвижения по всему миру. Чем выше навык верховой езды, тем быстрее ваши верховые животные могут передвигаться по миру",
 		"priceClassName": "card-price-professions",
-		"price": 200,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "dollar"
+		"price": 200
 	},
 
 	{
@@ -204,9 +178,7 @@
 		"descriptionClassName": "card-text-professions",
 		"description": "Вторичная профессия, позволяющая комбинировать рыбу или мясо, превращая их во вкусную еду и напитки, восстанавливающие здоровье или ману, и дающие полезные боевые баффы",
 		"priceClassName": "card-price-professions",
-		"price": 200,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "dollar"
+		"price": 200
 	},
 
 	{
@@ -219,9 +191,7 @@
 		"descriptionClassName": "card-text-professions",
 		"description": "Вторичная профессия позволяющая превращать ткани в бинты. Очень полезна классам, у которых нет собственного лечащего заклинания",
 		"priceClassName": "card-price-professions",
-		"price": 200,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "dollar"
+		"price": 200
 	},
 
 	{
@@ -234,9 +204,7 @@
 		"descriptionClassName": "card-text-professions",
 		"description": "Вторичная собирательная профессия, позволяющая рыбачить в различных водоемах по всему миру",
 		"priceClassName": "card-price-professions",
-		"price": 200,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "dollar"
+		"price": 200
 	},
 
 	{
@@ -249,8 +217,6 @@
 		"descriptionClassName": "card-text-professions",
 		"description": "Паскал-К0Р0Л6, огромный железный робот, изготавливающий снаряжение, средства передвижения, игрушки, расходные материалы и другие полезные вещи в обмен на запчасти и аккумуляторы, которые можно добывать в Мехагоне. Также на острове можно находить чертежи новых предметов",
 		"priceClassName": "card-price-professions",
-		"price": 200,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "dollar"
+		"price": 200
 	}
 ]

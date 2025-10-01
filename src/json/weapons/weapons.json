@@ -9,9 +9,7 @@
 		"descriptionClassName": "card-text-weapons",
 		"description": "Закажите любое одноручное оружие",
 		"priceClassName": "card-price-weapons",
-		"price": 300,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 300
 	},
 
 	{
@@ -24,9 +22,7 @@
 		"descriptionClassName": "card-text-weapons",
 		"description": "Закажите любое двуручное оружие",
 		"priceClassName": "card-price-weapons",
-		"price": 300,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 300
 	},
 
 	{
@@ -39,9 +35,7 @@
 		"descriptionClassName": "card-text-weapons",
 		"description": "Закажите любое оружие дальнего боя",
 		"priceClassName": "card-price-weapons",
-		"price": 300,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 300
 	},
 
 	{
@@ -54,9 +48,7 @@
 		"descriptionClassName": "card-text-weapons card-text-weapons-legendary",
 		"description": "Закажите любое легендарное оружие",
 		"priceClassName": "card-price-weapons card-price-weapons-legendary",
-		"price": 500,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 500
 	},
 
 	{
@@ -69,9 +61,7 @@
 		"descriptionClassName": "card-text-weapons card-text-weapons-artifact",
 		"description": "Закажите любое артефактное оружие",
 		"priceClassName": "card-price-weapons card-price-weapons-artifact",
-		"price": 800,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 800
 	},
 
 	{
@@ -84,8 +74,6 @@
 		"descriptionClassName": "card-text-weapons card-text-weapons-decorative",
 		"description": "Закажите любое декоративное оружие",
 		"priceClassName": "card-price-weapons card-price-weapons-decorative",
-		"price": 1000,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 1000
 	}
 ]

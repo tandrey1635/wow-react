@@ -12,9 +12,7 @@
 		"description": "Закажите гарантированное прохождение рейда",
 		"spanClassname": "card-text-raids-war-within_color",
 		"priceClassName": "card-price-raids card-price-raids-war-within",
-		"price": 600,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 600
 	},
 
 	{
@@ -30,9 +28,7 @@
 		"description": "Закажите гарантированное прохождение рейда",
 		"spanClassname": "card-text-raids-war-within_color",
 		"priceClassName": "card-price-raids card-price-raids-war-within",
-		"price": 620,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 620
 	},
 
 	{
@@ -48,8 +44,6 @@
 		"description": "Закажите гарантированное прохождение рейда",
 		"spanClassname": "card-text-raids-war-within_color",
 		"priceClassName": "card-price-raids card-price-raids-war-within",
-		"price": 640,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 640
 	}
 ]

@@ -9,9 +9,7 @@
 		"descriptionClassName": "card-text-pvp",
 		"description": "Очки чести необходимые для покупки PvP экипировки",
 		"priceClassName": "card-price-pvp",
-		"price": 100,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "dollar"
+		"price": 100
 	},
 
 
@@ -25,9 +23,7 @@
 		"descriptionClassName": "card-text-pvp",
 		"description": "Очки Арены необходимые для покупки мощной и самой лучшей PvP экипировки",
 		"priceClassName": "card-price-pvp",
-		"price": 200,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "dollar"
+		"price": 200
 	},
 
 	{
@@ -40,8 +36,6 @@
 		"descriptionClassName": "card-text-pvp",
 		"description": "Рейтинговые бои для покупки уникальной PvP экипировки и званий таких как Гладиатор",
 		"priceClassName": "card-price-pvp",
-		"price": 300,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "dollar"
+		"price": 300
 	}
 ]

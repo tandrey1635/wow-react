@@ -9,9 +9,7 @@
 		"descriptionClassName": "card-text-armours",
 		"description": "Закажите Плащ алого ревнителя",
 		"priceClassName": "card-price-armours",
-		"price": 300,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 300
 	},
 
 	{
@@ -24,9 +22,7 @@
 		"descriptionClassName": "card-text-armours",
 		"description": "Закажите Церемониальную пелерину верховной жрицы",
 		"priceClassName": "card-price-armours",
-		"price": 300,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 300
 	},
 
 	{
@@ -39,9 +35,7 @@
 		"descriptionClassName": "card-text-armours",
 		"description": "Закажите Плащ лунного жреца",
 		"priceClassName": "card-price-armours",
-		"price": 300,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 300
 	},
 
 	{
@@ -54,9 +48,7 @@
 		"descriptionClassName": "card-text-armours",
 		"description": "Закажите Пернатый плащ верховного мага",
 		"priceClassName": "card-price-armours",
-		"price": 300,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 300
 	},
 
 	{
@@ -69,9 +61,7 @@
 		"descriptionClassName": "card-text-armours",
 		"description": "Закажите Плащ ярмарки Новолуния",
 		"priceClassName": "card-price-armours",
-		"price": 300,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 300
 	},
 
 	{
@@ -84,9 +74,7 @@
 		"descriptionClassName": "card-text-armours",
 		"description": "Закажите Накидку Оргриммара",
 		"priceClassName": "card-price-armours",
-		"price": 300,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 300
 	},
 
 	{
@@ -99,9 +87,7 @@
 		"descriptionClassName": "card-text-armours",
 		"description": "Закажите Накидку Подгорода",
 		"priceClassName": "card-price-armours",
-		"price": 300,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 300
 	},
 
 	{
@@ -114,9 +100,7 @@
 		"descriptionClassName": "card-text-armours",
 		"description": "Закажите Накидку Штормграда",
 		"priceClassName": "card-price-armours",
-		"price": 300,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 300
 	},
 
 	{
@@ -129,9 +113,7 @@
 		"descriptionClassName": "card-text-armours",
 		"description": "Закажите Выдающийся боевой плащ",
 		"priceClassName": "card-price-armours",
-		"price": 300,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 300
 	},
 
 	{
@@ -144,9 +126,7 @@
 		"descriptionClassName": "card-text-armours",
 		"description": "Закажите Пелерину яростных бурь",
 		"priceClassName": "card-price-armours",
-		"price": 300,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 300
 	},
 
 	{
@@ -159,9 +139,7 @@
 		"descriptionClassName": "card-text-armours",
 		"description": "Закажите Пелерину яростных бурь",
 		"priceClassName": "card-price-armours",
-		"price": 300,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 300
 	},
 
 	{
@@ -174,9 +152,7 @@
 		"descriptionClassName": "card-text-armours",
 		"description": "Закажите Пелерину гнетущих туманов",
 		"priceClassName": "card-price-armours",
-		"price": 300,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 300
 	},
 
 	{
@@ -189,9 +165,7 @@
 		"descriptionClassName": "card-text-armours",
 		"description": "Закажите Покров син'дорай убийцы",
 		"priceClassName": "card-price-armours",
-		"price": 300,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 300
 	},
 
 	{
@@ -204,9 +178,7 @@
 		"descriptionClassName": "card-text-armours",
 		"description": "Закажите Пелерину магистра с каменьями",
 		"priceClassName": "card-price-armours",
-		"price": 300,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 300
 	},
 
 	{
@@ -219,9 +191,7 @@
 		"descriptionClassName": "card-text-armours",
 		"description": "Закажите Пелерину Похитителей Солнца",
 		"priceClassName": "card-price-armours",
-		"price": 300,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 300
 	},
 
 	{
@@ -234,9 +204,7 @@
 		"descriptionClassName": "card-text-armours",
 		"description": "Закажите Накидку вечной мерзлоты",
 		"priceClassName": "card-price-armours",
-		"price": 300,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 300
 	},
 
 	{
@@ -249,9 +217,7 @@
 		"descriptionClassName": "card-text-armours",
 		"description": "Закажите Изумрудную пелерину",
 		"priceClassName": "card-price-armours",
-		"price": 300,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 300
 	},
 
 	{
@@ -264,9 +230,7 @@
 		"descriptionClassName": "card-text-armours",
 		"description": "Закажите Багровый плащ скитальца",
 		"priceClassName": "card-price-armours",
-		"price": 300,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 300
 	},
 
 	{
@@ -279,9 +243,7 @@
 		"descriptionClassName": "card-text-armours",
 		"description": "Закажите Морковный плащ скитальца",
 		"priceClassName": "card-price-armours",
-		"price": 300,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 300
 	},
 
 	{
@@ -294,9 +256,7 @@
 		"descriptionClassName": "card-text-armours",
 		"description": "Закажите Солнечный плащ скитальца",
 		"priceClassName": "card-price-armours",
-		"price": 300,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 300
 	},
 
 	{
@@ -309,9 +269,7 @@
 		"descriptionClassName": "card-text-armours",
 		"description": "Закажите Яркий плащ скитальца",
 		"priceClassName": "card-price-armours",
-		"price": 300,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 300
 	},
 
 	{
@@ -324,9 +282,7 @@
 		"descriptionClassName": "card-text-armours",
 		"description": "Закажите Водный плащ скитальца",
 		"priceClassName": "card-price-armours",
-		"price": 300,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 300
 	},
 
 	{
@@ -339,9 +295,7 @@
 		"descriptionClassName": "card-text-armours",
 		"description": "Закажите Лазурный плащ скитальца",
 		"priceClassName": "card-price-armours",
-		"price": 300,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 300
 	},
 
 	{
@@ -354,9 +308,7 @@
 		"descriptionClassName": "card-text-armours",
 		"description": "Закажите Лиловый плащ скитальца",
 		"priceClassName": "card-price-armours",
-		"price": 300,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 300
 	},
 
 	{
@@ -369,9 +321,7 @@
 		"descriptionClassName": "card-text-armours",
 		"description": "Закажите Светло-бурый плащ скитальца",
 		"priceClassName": "card-price-armours",
-		"price": 300,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 300
 	},
 
 	{
@@ -384,9 +334,7 @@
 		"descriptionClassName": "card-text-armours",
 		"description": "Закажите Розовый плащ скитальца",
 		"priceClassName": "card-price-armours",
-		"price": 300,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 300
 	},
 
 	{
@@ -399,9 +347,7 @@
 		"descriptionClassName": "card-text-armours",
 		"description": "Закажите Заснеженный плащ скитальца",
 		"priceClassName": "card-price-armours",
-		"price": 300,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 300
 	},
 
 	{
@@ -414,9 +360,7 @@
 		"descriptionClassName": "card-text-armours card-text-armours-legendary",
 		"description": "Закажите Фэнь-Ю, Гнев Сюэня",
 		"priceClassName": "card-price-armours card-price-armours-legendary",
-		"price": 500,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 500
 	},
 
 	{
@@ -429,9 +373,7 @@
 		"descriptionClassName": "card-text-armours card-text-armours-legendary",
 		"description": "Закажите Сянь-Ин, Стойкость Нюцзао",
 		"priceClassName": "card-price-armours card-price-armours-legendary",
-		"price": 500,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 500
 	},
 
 	{
@@ -444,9 +386,7 @@
 		"descriptionClassName": "card-text-armours card-text-armours-legendary",
 		"description": "Закажите Син-Хо, Дыхание Юй-лун",
 		"priceClassName": "card-price-armours card-price-armours-legendary",
-		"price": 500,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 500
 	},
 
 	{
@@ -459,9 +399,7 @@
 		"descriptionClassName": "card-text-armours card-text-armours-legendary",
 		"description": "Закажите Цзина-Кан, Доброта Чи-Цзи",
 		"priceClassName": "card-price-armours card-price-armours-legendary",
-		"price": 500,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 500
 	},
 
 	{
@@ -474,9 +412,7 @@
 		"descriptionClassName": "card-text-armours card-text-armours-legendary",
 		"description": "Закажите Каззалакс, ярость Фудзиэды",
 		"priceClassName": "card-price-armours card-price-armours-legendary",
-		"price": 500,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 500
 	},
 
 	{
@@ -489,9 +425,7 @@
 		"descriptionClassName": "card-text-armours card-text-armours-legendary",
 		"description": "Закажите Сияющий лунный свет",
 		"priceClassName": "card-price-armours card-price-armours-legendary",
-		"price": 500,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 500
 	},
 
 	{
@@ -504,9 +438,7 @@
 		"descriptionClassName": "card-text-armours card-text-armours-legendary",
 		"description": "Закажите Неистовость природы",
 		"priceClassName": "card-price-armours card-price-armours-legendary",
-		"price": 500,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 500
 	},
 
 	{
@@ -519,9 +451,7 @@
 		"descriptionClassName": "card-text-armours card-text-armours-legendary",
 		"description": "Закажите Кс'анши, накидку архиепископа Бенедикта",
 		"priceClassName": "card-price-armours card-price-armours-legendary",
-		"price": 500,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 500
 	},
 
 	{
@@ -534,9 +464,7 @@
 		"descriptionClassName": "card-text-armours card-text-armours-legendary",
 		"description": "Закажите Экстерминатус Зека",
 		"priceClassName": "card-price-armours card-price-armours-legendary",
-		"price": 500,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 500
 	},
 
 	{
@@ -549,9 +477,7 @@
 		"descriptionClassName": "card-text-armours card-text-armours-legendary",
 		"description": "Закажите Путь в никуда",
 		"priceClassName": "card-price-armours card-price-armours-legendary",
-		"price": 500,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 500
 	},
 
 	{
@@ -564,9 +490,7 @@
 		"descriptionClassName": "card-text-armours card-text-armours-legendary",
 		"description": "Закажите Сенедрил, Отражатель Ненависти",
 		"priceClassName": "card-price-armours card-price-armours-legendary",
-		"price": 500,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 500
 	},
 
 	{
@@ -579,9 +503,7 @@
 		"descriptionClassName": "card-text-armours card-text-armours-legendary",
 		"description": "Закажите Плащ невидимого хищника",
 		"priceClassName": "card-price-armours card-price-armours-legendary",
-		"price": 500,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 500
 	},
 
 	{
@@ -594,9 +516,7 @@
 		"descriptionClassName": "card-text-armours card-text-armours-legendary",
 		"description": "Закажите Проворство Ветрокрылых",
 		"priceClassName": "card-price-armours card-price-armours-legendary",
-		"price": 500,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 500
 	},
 
 	{
@@ -609,9 +529,7 @@
 		"descriptionClassName": "card-text-armours card-text-armours-legendary",
 		"description": "Закажите Плащ пламени Скверны",
 		"priceClassName": "card-price-armours card-price-armours-legendary",
-		"price": 500,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 500
 	},
 
 	{
@@ -624,9 +542,7 @@
 		"descriptionClassName": "card-text-armours card-text-armours-legendary",
 		"description": "Закажите Теорию хаоса",
 		"priceClassName": "card-price-armours card-price-armours-legendary",
-		"price": 500,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 500
 	},
 
 	{
@@ -639,9 +555,7 @@
 		"descriptionClassName": "card-text-armours card-text-armours-legendary",
 		"description": "Закажите Предсмертный вздох Мараада",
 		"priceClassName": "card-price-armours card-price-armours-legendary",
-		"price": 500,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 500
 	},
 
 	{
@@ -654,9 +568,7 @@
 		"descriptionClassName": "card-text-armours card-text-armours-legendary",
 		"description": "Закажите Шепот натрезимов",
 		"priceClassName": "card-price-armours card-price-armours-legendary",
-		"price": 500,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 500
 	},
 
 	{
@@ -669,9 +581,7 @@
 		"descriptionClassName": "card-text-armours card-text-armours-legendary",
 		"description": "Закажите Уловку повелителя ужаса",
 		"priceClassName": "card-price-armours card-price-armours-legendary",
-		"price": 500,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 500
 	},
 
 	{
@@ -684,9 +594,7 @@
 		"descriptionClassName": "card-text-armours card-text-armours-legendary",
 		"description": "Закажите Проклятие беспокойства",
 		"priceClassName": "card-price-armours card-price-armours-legendary",
-		"price": 500,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 500
 	},
 
 	{
@@ -699,9 +607,7 @@
 		"descriptionClassName": "card-text-armours card-text-armours-legendary",
 		"description": "Закажите Пелерину Акеруса",
 		"priceClassName": "card-price-armours card-price-armours-legendary",
-		"price": 500,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 500
 	},
 
 	{
@@ -714,9 +620,7 @@
 		"descriptionClassName": "card-text-armours card-text-armours-legendary",
 		"description": "Закажите Одр, шаль имирьяров",
 		"priceClassName": "card-price-armours card-price-armours-legendary",
-		"price": 500,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 500
 	},
 
 	{
@@ -729,9 +633,7 @@
 		"descriptionClassName": "card-text-armours card-text-armours-legendary",
 		"description": "Закажите Посев и жатву",
 		"priceClassName": "card-price-armours card-price-armours-legendary",
-		"price": 500,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 500
 	},
 
 	{
@@ -744,9 +646,7 @@
 		"descriptionClassName": "card-text-armours card-text-armours-legendary",
 		"description": "Закажите Ашжра'камас, Покров Решимости",
 		"priceClassName": "card-price-armours card-price-armours-legendary",
-		"price": 500,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 500
 	},
 
 	{
@@ -759,9 +659,7 @@
 		"descriptionClassName": "card-text-armours card-text-armours-artifact",
 		"description": "Закажите Повязки реши",
 		"priceClassName": "card-price-armours card-price-armours-artifact",
-		"price": 1000,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 1000
 	},
 
 	{
@@ -774,8 +672,6 @@
 		"descriptionClassName": "card-text-armours card-text-armours-artifact",
 		"description": "Закажите Плащ бесконечных возможностей",
 		"priceClassName": "card-price-armours card-price-armours-artifact",
-		"price": 1000,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 1000
 	}
 ]

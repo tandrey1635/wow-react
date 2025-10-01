@@ -12,9 +12,7 @@
 		"description": "Закажите гарантированное прохождение рейда",
 		"spanClassname": "card-text-raids-cataclysm_color",
 		"priceClassName": "card-price-raids card-price-raids-cataclysm",
-		"price": 200,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 200
 	},
 
 	{
@@ -30,9 +28,7 @@
 		"description": "Закажите гарантированное прохождение рейда",
 		"spanClassname": "card-text-raids-cataclysm_color",
 		"priceClassName": "card-price-raids card-price-raids-cataclysm",
-		"price": 220,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 220
 	},
 
 	{
@@ -48,9 +44,7 @@
 		"description": "Закажите гарантированное прохождение рейда",
 		"spanClassname": "card-text-raids-cataclysm_color",
 		"priceClassName": "card-price-raids card-price-raids-cataclysm",
-		"price": 220,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 220
 	},
 
 	{
@@ -66,9 +60,7 @@
 		"description": "Закажите гарантированное прохождение рейда",
 		"spanClassname": "card-text-raids-cataclysm_color",
 		"priceClassName": "card-price-raids card-price-raids-cataclysm",
-		"price": 220,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 220
 	},
 
 	{
@@ -84,9 +76,7 @@
 		"description": "Закажите гарантированное прохождение рейда",
 		"spanClassname": "card-text-raids-cataclysm_color",
 		"priceClassName": "card-price-raids card-price-raids-cataclysm",
-		"price": 230,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 230
 	},
 
 	{
@@ -102,8 +92,6 @@
 		"description": "Закажите гарантированное прохождение рейда",
 		"spanClassname": "card-text-raids-cataclysm_color",
 		"priceClassName": "card-price-raids card-price-raids-cataclysm",
-		"price": 240,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 240
 	}
 ]

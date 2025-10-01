@@ -12,9 +12,7 @@
 		"description": "Закажите гарантированное прохождение любого рейда из дополнения",
 		"spanClassname": "card-text-raids-classic_color",
 		"priceClassName": "card-price-raids card-price-raids-classic",
-		"price": 50,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 50
 	},
 
 	{
@@ -30,9 +28,7 @@
 		"description": "Закажите гарантированное прохождение любого рейда из дополнения",
 		"spanClassname": "card-text-raids-burning-crusade_color",
 		"priceClassName": "card-price-raids card-price-raids-burning-crusade",
-		"price": 100,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 100
 	},
 
 	{
@@ -48,9 +44,7 @@
 		"description": "Закажите гарантированное прохождение любого рейда из дополнения",
 		"spanClassname": "card-text-raids-wrath-of-the-lich-king_color",
 		"priceClassName": "card-price-raids card-price-raids-wrath-of-the-lich-king",
-		"price": 150,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 150
 	},
 
 	{
@@ -66,9 +60,7 @@
 		"description": "Закажите гарантированное прохождение любого рейда из дополнения",
 		"spanClassname": "card-text-raids-cataclysm_color",
 		"priceClassName": "card-price-raids card-price-raids-cataclysm",
-		"price": 200,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 200
 	},
 
 	{
@@ -84,9 +76,7 @@
 		"description": "Закажите гарантированное прохождение любого рейда из дополнения",
 		"spanClassname": "card-text-raids-mists-of-pandaria_color",
 		"priceClassName": "card-price-raids card-price-raids-mists-of-pandaria",
-		"price": 250,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 250
 	},
 
 	{
@@ -102,9 +92,7 @@
 		"description": "Закажите гарантированное прохождение любого рейда из дополнения",
 		"spanClassname": "card-text-raids-warlords-of-draenor_color",
 		"priceClassName": "card-price-raids card-price-raids-warlords-of-draenor",
-		"price": 300,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 300
 	},
 
 	{
@@ -120,9 +108,7 @@
 		"description": "Закажите гарантированное прохождение любого рейда из дополнения",
 		"spanClassname": "card-text-raids-legion_color",
 		"priceClassName": "card-price-raids card-price-raids-legion",
-		"price": 350,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 350
 	},
 
 	{
@@ -138,9 +124,7 @@
 		"description": "Закажите гарантированное прохождение любого рейда из дополнения",
 		"spanClassname": "card-text-raids-battle-for-azeroth_color",
 		"priceClassName": "card-price-raids card-price-raids-battle-for-azeroth",
-		"price": 400,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 400
 	},
 
 	{
@@ -156,9 +140,7 @@
 		"description": "Закажите гарантированное прохождение любого рейда из дополнения",
 		"spanClassname": "card-text-raids-shadowlands_color",
 		"priceClassName": "card-price-raids card-price-raids-shadowlands",
-		"price": 450,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 450
 	},
 
 	{
@@ -174,9 +156,7 @@
 		"description": "Закажите гарантированное прохождение любого рейда из дополнения",
 		"spanClassname": "card-text-raids-dragonflight_color",
 		"priceClassName": "card-price-raids card-price-raids-dragonflight",
-		"price": 500,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 500
 	},
 
 	{
@@ -192,9 +172,7 @@
 		"description": "Закажите гарантированное прохождение любого рейда из дополнения",
 		"spanClassname": "card-text-raids-war-within_color",
 		"priceClassName": "card-price-raids card-price-raids-war-within",
-		"price": 600,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 600
 	},
 
 	{
@@ -210,9 +188,7 @@
 		"description": "Закажите гарантированное прохождение любого рейда из дополнения",
 		"spanClassname": "card-text-raids-midnight_color",
 		"priceClassName": "card-price-raids card-price-raids-midnight",
-		"price": 800,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 800
 	},
 
 	{
@@ -228,8 +204,6 @@
 		"description": "Закажите гарантированное прохождение любого рейда из дополнения",
 		"spanClassname": "card-text-raids-last-titan_color",
 		"priceClassName": "card-price-raids card-price-raids-last-titan",
-		"price": 1000,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 1000
 	}
 ]

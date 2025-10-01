@@ -9,9 +9,7 @@
 		"descriptionClassName": "card-text-shaman",
 		"description": "Закажите артефакты для Шамана Стихий",
 		"priceClassName": "card-price-shaman",
-		"price": 800,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 800
 	},
 
 	{
@@ -24,9 +22,7 @@
 		"descriptionClassName": "card-text-shaman",
 		"description": "Закажите артефакты для Шамана Совершенствования",
 		"priceClassName": "card-price-shaman",
-		"price": 800,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 800
 	},
 
 	{
@@ -39,8 +35,6 @@
 		"descriptionClassName": "card-text-shaman",
 		"description": "Закажите артефакты для Шамана Исцеления",
 		"priceClassName": "card-price-shaman",
-		"price": 800,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 800
 	}
 ]

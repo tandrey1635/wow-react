@@ -12,8 +12,6 @@
 		"description": "Закажите гарантированное прохождение рейда",
 		"spanClassname": "card-text-raids-last-titan_color",
 		"priceClassName": "card-price-raids card-price-raids-last-titan",
-		"price": 1000,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 1000
 	}
 ]

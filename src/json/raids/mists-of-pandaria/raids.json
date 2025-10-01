@@ -12,9 +12,7 @@
 		"description": "Закажите гарантированное прохождение рейда",
 		"spanClassname": "card-text-raids-mists-of-pandaria_color",
 		"priceClassName": "card-price-raids card-price-raids-mists-of-pandaria",
-		"price": 250,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 250
 	},
 
 	{
@@ -30,9 +28,7 @@
 		"description": "Закажите гарантированное прохождение рейда",
 		"spanClassname": "card-text-raids-mists-of-pandaria_color",
 		"priceClassName": "card-price-raids card-price-raids-mists-of-pandaria",
-		"price": 260,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 260
 	},
 
 	{
@@ -48,9 +44,7 @@
 		"description": "Закажите гарантированное прохождение рейда",
 		"spanClassname": "card-text-raids-mists-of-pandaria_color",
 		"priceClassName": "card-price-raids card-price-raids-mists-of-pandaria",
-		"price": 260,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 260
 	},
 
 	{
@@ -66,9 +60,7 @@
 		"description": "Закажите гарантированное прохождение рейда",
 		"spanClassname": "card-text-raids-mists-of-pandaria_color",
 		"priceClassName": "card-price-raids card-price-raids-mists-of-pandaria",
-		"price": 270,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 270
 	},
 
 	{
@@ -84,8 +76,6 @@
 		"description": "Закажите гарантированное прохождение рейда",
 		"spanClassname": "card-text-raids-mists-of-pandaria_color",
 		"priceClassName": "card-price-raids card-price-raids-mists-of-pandaria",
-		"price": 290,
-		"priceImg": "/src/assets/img/gold/bg/dollar.png",
-		"priceAlt": "$"
+		"price": 290
 	}
 ]
