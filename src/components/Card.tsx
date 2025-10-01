@@ -3,7 +3,7 @@ import { Link } from "react-router";
 
 const Card = ({ id, className, path, cardImg, cardImgClassName, description, titleClassName, title, descriptionClassName, spanClassname, priceClassName, price, priceImg, priceAlt,  raids }) => {
 	return (
-		<div key={id} className={`card ${className}`}>
+		<div className={`card ${className}`}>
 			<Link to={path}>
 				<img src={cardImg} className={`card-img ${cardImgClassName}`}  alt={description} />
 			</Link>
