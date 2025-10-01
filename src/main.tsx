@@ -27,7 +27,7 @@ import OneHandedWeapons  from "./pages/weapons/OneHanded.tsx";
 import TwoHandedWeapons  from "./pages/weapons/TwoHanded.tsx";
 import RangeWeapons  from "./pages/weapons/Range.tsx";
 import LegendaryWeapons  from "./pages/weapons/Legendary.tsx";
-import ArtefactWeapons  from "./pages/weapons/Artefact.tsx";
+import ArtifactWeapons  from "./pages/weapons/Artifact.tsx";
 import DecorativeWeapons  from "./pages/weapons/Decorative.tsx";
 
 
@@ -45,24 +45,24 @@ import FangsFather  from "./pages/weapons/weapons-details/FangsFather.tsx";
 
 
 
-import WarriorArtefacts  from "./pages/weapons/artefact/Warrior.tsx";
-import DruidArtefacts  from "./pages/weapons/artefact/Druid.tsx";
-import PriestArtefacts  from "./pages/weapons/artefact/Priest.tsx";
-import MageArtefacts  from "./pages/weapons/artefact/Mage.tsx";
-import MonkArtefacts  from "./pages/weapons/artefact/Monk.tsx";
-import HunterArtefacts  from "./pages/weapons/artefact/Hunter.tsx";
-import DemonHunterArtefacts  from "./pages/weapons/artefact/DemonHunter.tsx";
-import PaladinArtefacts  from "./pages/weapons/artefact/Paladin.tsx";
-import RogueArtefacts  from "./pages/weapons/artefact/Rogue.tsx";
-import DeathKnightArtefacts  from "./pages/weapons/artefact/DeathKnight.tsx";
-import WarlockArtefacts  from "./pages/weapons/artefact/Warlock.tsx";
-import ShamanArtefacts  from "./pages/weapons/artefact/Shaman.tsx";
+import WarriorArtifacts  from "./pages/weapons/artifact/Warrior.tsx";
+import DruidArtifacts  from "./pages/weapons/artifact/Druid.tsx";
+import PriestArtifacts  from "./pages/weapons/artifact/Priest.tsx";
+import MageArtifacts  from "./pages/weapons/artifact/Mage.tsx";
+import MonkArtifacts  from "./pages/weapons/artifact/Monk.tsx";
+import HunterArtifacts  from "./pages/weapons/artifact/Hunter.tsx";
+import DemonHunterArtifacts  from "./pages/weapons/artifact/DemonHunter.tsx";
+import PaladinArtifacts  from "./pages/weapons/artifact/Paladin.tsx";
+import RogueArtifacts  from "./pages/weapons/artifact/Rogue.tsx";
+import DeathKnightArtifacts  from "./pages/weapons/artifact/DeathKnight.tsx";
+import WarlockArtifacts  from "./pages/weapons/artifact/Warlock.tsx";
+import ShamanArtifacts  from "./pages/weapons/artifact/Shaman.tsx";
 
 
 
-import Arms  from "./pages/weapons/artefact/warrior/Arms.tsx";
-import Fury  from "./pages/weapons/artefact/warrior/Fury.tsx";
-import Protection  from "./pages/weapons/artefact/warrior/Protection.tsx";
+import Arms  from "./pages/weapons/artifact/warrior/Arms.tsx";
+import Fury  from "./pages/weapons/artifact/warrior/Fury.tsx";
+import Protection  from "./pages/weapons/artifact/warrior/Protection.tsx";
 
 
 import Cloaks  from "./pages/armours/Cloaks.tsx";
@@ -183,7 +183,7 @@ createRoot(document.getElementById("root")!).render(
 				<Route path="weapons/two-handed" element={<TwoHandedWeapons />} />
 				<Route path="weapons/range" element={<RangeWeapons />} />
 				<Route path="weapons/legendary" element={<LegendaryWeapons />} />
-				<Route path="weapons/artefact" element={<ArtefactWeapons />} />
+				<Route path="weapons/artifact" element={<ArtifactWeapons />} />
 				<Route path="weapons/decorative" element={<DecorativeWeapons />} />
 
 
@@ -199,23 +199,23 @@ createRoot(document.getElementById("root")!).render(
 				<Route path="weapons/legendary/weapons-details/fangs-of-the-father" element={<FangsFather />} />
 
 
-				<Route path="weapons/artefact/warrior" element={<WarriorArtefacts />} />
-				<Route path="weapons/artefact/druid" element={<DruidArtefacts />} />
-				<Route path="weapons/artefact/priest" element={<PriestArtefacts />} />
-				<Route path="weapons/artefact/mage" element={<MageArtefacts />} />
-				<Route path="weapons/artefact/monk" element={<MonkArtefacts />} />
-				<Route path="weapons/artefact/hunter" element={<HunterArtefacts />} />
-				<Route path="weapons/artefact/demon-hunter" element={<DemonHunterArtefacts />} />
-				<Route path="weapons/artefact/paladin" element={<PaladinArtefacts />} />
-				<Route path="weapons/artefact/rogue" element={<RogueArtefacts />} />
-				<Route path="weapons/artefact/death-knight" element={<DeathKnightArtefacts />} />
-				<Route path="weapons/artefact/warlock" element={<WarlockArtefacts />} />
-				<Route path="weapons/artefact/shaman" element={<ShamanArtefacts />} />
+				<Route path="weapons/artifact/warrior" element={<WarriorArtifacts />} />
+				<Route path="weapons/artifact/druid" element={<DruidArtifacts />} />
+				<Route path="weapons/artifact/priest" element={<PriestArtifacts />} />
+				<Route path="weapons/artifact/mage" element={<MageArtifacts />} />
+				<Route path="weapons/artifact/monk" element={<MonkArtifacts />} />
+				<Route path="weapons/artifact/hunter" element={<HunterArtifacts />} />
+				<Route path="weapons/artifact/demon-hunter" element={<DemonHunterArtifacts />} />
+				<Route path="weapons/artifact/paladin" element={<PaladinArtifacts />} />
+				<Route path="weapons/artifact/rogue" element={<RogueArtifacts />} />
+				<Route path="weapons/artifact/death-knight" element={<DeathKnightArtifacts />} />
+				<Route path="weapons/artifact/warlock" element={<WarlockArtifacts />} />
+				<Route path="weapons/artifact/shaman" element={<ShamanArtifacts />} />
 
 
-				<Route path="weapons/artefact/warrior/arms" element={<Arms />} />
-				<Route path="weapons/artefact/warrior/fury" element={<Fury />} />
-				<Route path="weapons/artefact/warrior/protection" element={<Protection />} />
+				<Route path="weapons/artifact/warrior/arms" element={<Arms />} />
+				<Route path="weapons/artifact/warrior/fury" element={<Fury />} />
+				<Route path="weapons/artifact/warrior/protection" element={<Protection />} />
 
 
 				<Route path="armours/shields" element={<Shields />} />

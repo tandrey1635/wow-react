@@ -86,7 +86,7 @@ const Nav = ({home, warrior, druid, priest, mage, monk, hunter, demonHunter, pal
 								</li>
 
 								<li className="nav-item">
-									<a className="nav-link services__link nav-link-weapons" href="html/weapons/artefact.html">Артефактное</a>
+									<a className="nav-link services__link nav-link-weapons" href="html/weapons/artifact.html">Артефактное</a>
 								</li>
 
 								<li className="nav-item">

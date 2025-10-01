@@ -1,64 +1,64 @@
 import { Link } from "react-router";
 
 
-import dataRaidArmours from '../json/raids-armours/raids-armours.json'
-import dataWeapons from '../json/weapons/weapons.json'
-import dataLegendaryWeapons from '../json/weapons/legendary/weapons.json'
+import dataRaidArmours from '../json/raids-armours/raids-armours.json';
+import dataLegendaryWeapons from '../json/weapons/legendary/weapons.json';
+import dataWeapons from '../json/weapons/weapons.json';
 
 
-import dataClasses from '../json/weapons/artefacts/classes.json'
+import dataClasses from '../json/weapons/artifacts/classes.json';
 
 
-import dataWarriorArtefacts from '../json/weapons/artefacts/warrior.json'
-import dataDruidArtefacts from '../json/weapons/artefacts/druid.json'
-import dataPriestArtefacts from '../json/weapons/artefacts/priest.json'
-import dataMageArtefacts from '../json/weapons/artefacts/mage.json'
-import dataMonkArtefacts from '../json/weapons/artefacts/monk.json'
-import dataHunterArtefacts from '../json/weapons/artefacts/hunter.json'
-import dataDemonHunterArtefacts from '../json/weapons/artefacts/demon-hunter.json'
-import dataPaladinArtefacts from '../json/weapons/artefacts/paladin.json'
-import dataRogueArtefacts from '../json/weapons/artefacts/rogue.json'
-import dataDeathKnightArtefacts from '../json/weapons/artefacts/death-knight.json'
-import dataWarlockArtefacts from '../json/weapons/artefacts/warlock.json'
-import dataShamanArtefacts from '../json/weapons/artefacts/shaman.json'
+import dataWarriorArtifacts from '../json/weapons/artifacts/warrior.json';
+import dataDruidArtifacts from '../json/weapons/artifacts/druid.json';
+import dataPriestArtifacts from '../json/weapons/artifacts/priest.json';
+import dataMageArtifacts from '../json/weapons/artifacts/mage.json';
+import dataMonkArtifacts from '../json/weapons/artifacts/monk.json';
+import dataHunterArtifacts from '../json/weapons/artifacts/hunter.json';
+import dataDemonHunterArtifacts from '../json/weapons/artifacts/demon-hunter.json';
+import dataPaladinArtifacts from '../json/weapons/artifacts/paladin.json';
+import dataRogueArtifacts from '../json/weapons/artifacts/rogue.json';
+import dataDeathKnightArtifacts from '../json/weapons/artifacts/death-knight.json';
+import dataWarlockArtifacts from '../json/weapons/artifacts/warlock.json';
+import dataShamanArtifacts from '../json/weapons/artifacts/shaman.json';
 
 
-import dataArmsWarriorArtefact from '../json/weapons/artefacts/warrior/arms.json'
-import dataFuryWarriorArtefact from '../json/weapons/artefacts/warrior/fury.json'
-import dataProtectionWarriorArtefact from '../json/weapons/artefacts/warrior/protection.json'
+import dataArmsWarriorArtifact from '../json/weapons/artifacts/warrior/arms.json';
+import dataFuryWarriorArtifact from '../json/weapons/artifacts/warrior/fury.json';
+import dataProtectionWarriorArtifact from '../json/weapons/artifacts/warrior/protection.json';
 
 
-import dataArmours from '../json/armours/armours.json'
+import dataArmours from '../json/armours/armours.json';
 
 
-import dataCloaks from '../json/armours/cloaks/armours.json'
+import dataCloaks from '../json/armours/cloaks/armours.json';
 
 
-import dataMounts from '../json/mounts/mounts.json'
-import dataGold from '../json/gold/gold.json'
-import dataProfessions from '../json/professions/professions.json'
-import dataPvp from '../json/pvp/pvp.json'
-import dataRaids from '../json/raids/raids.json'
+import dataGold from '../json/gold/gold.json';
+import dataMounts from '../json/mounts/mounts.json';
+import dataProfessions from '../json/professions/professions.json';
+import dataPvp from '../json/pvp/pvp.json';
+import dataRaids from '../json/raids/raids.json';
 
 
-import dataClassicRaids from '../json/raids/classic/raids.json'
-import dataBurningCrusadeRaids from '../json/raids/burning-crusade/raids.json'
-import dataWrathOfTheLichKingRaids from '../json/raids/wrath-of-the-lich-king/raids.json'
-import dataCataclysmRaids from '../json/raids/cataclysm/raids.json'
-import dataMistsOfPandariaRaids from '../json/raids/mists-of-pandaria/raids.json'
-import dataWarlordsOfDraenorRaids from '../json/raids/warlords-of-draenor/raids.json'
-import dataLegionRaids from '../json/raids/legion/raids.json'
-import dataBattleForAzerothRaids from '../json/raids/battle-for-azeroth/raids.json'
-import dataShadowlandsRaids from '../json/raids/shadowlands/raids.json'
-import dataDragonflightRaids from '../json/raids/dragonflight/raids.json'
-import dataWarWithinRaids from '../json/raids/war-within/raids.json'
-import dataMidnightRaids from '../json/raids/midnight/raids.json'
-import dataLastTitanRaids from '../json/raids/last-titan/raids.json'
+import dataBattleForAzerothRaids from '../json/raids/battle-for-azeroth/raids.json';
+import dataBurningCrusadeRaids from '../json/raids/burning-crusade/raids.json';
+import dataCataclysmRaids from '../json/raids/cataclysm/raids.json';
+import dataClassicRaids from '../json/raids/classic/raids.json';
+import dataDragonflightRaids from '../json/raids/dragonflight/raids.json';
+import dataLastTitanRaids from '../json/raids/last-titan/raids.json';
+import dataLegionRaids from '../json/raids/legion/raids.json';
+import dataMidnightRaids from '../json/raids/midnight/raids.json';
+import dataMistsOfPandariaRaids from '../json/raids/mists-of-pandaria/raids.json';
+import dataShadowlandsRaids from '../json/raids/shadowlands/raids.json';
+import dataWarWithinRaids from '../json/raids/war-within/raids.json';
+import dataWarlordsOfDraenorRaids from '../json/raids/warlords-of-draenor/raids.json';
+import dataWrathOfTheLichKingRaids from '../json/raids/wrath-of-the-lich-king/raids.json';
 
 
 
 
-const Card = ({home, raidsArmourWarrior, legendaryWeapons, classes, warriorArtefacts, druidArtefacts, priestArtefacts, mageArtefacts, monkArtefacts, hunterArtefacts, demonHunterArtefacts, paladinArtefacts, rogueArtefacts, deathKnightArtefacts, warlockArtefacts, shamanArtefacts, armsWarrior, furyWarrior, protectionWarrior, cloaks, classic, burningCrusade, wrathOfTheLichKing, cataclysm, mistsOfPandaria, warlordsOfDraenor, legion, battleForAzeroth, shadowlands, dragonflight, warWithin, midnight, lastTitan}) => {
+const Card = ({home, raidsArmourWarrior, legendaryWeapons, classes, warriorArtifacts, druidArtifacts, priestArtifacts, mageArtifacts, monkArtifacts, hunterArtifacts, demonHunterArtifacts, paladinArtifacts, rogueArtifacts, deathKnightArtifacts, warlockArtifacts, shamanArtifacts, armsWarrior, furyWarrior, protectionWarrior, cloaks, classic, burningCrusade, wrathOfTheLichKing, cataclysm, mistsOfPandaria, warlordsOfDraenor, legion, battleForAzeroth, shadowlands, dragonflight, warWithin, midnight, lastTitan}) => {
 
 	const basePathImg = '/src/assets/img'
 
@@ -896,98 +896,98 @@ const Card = ({home, raidsArmourWarrior, legendaryWeapons, classes, warriorArtef
 						</div>
 					}
 
-					{ warriorArtefacts &&
+					{ warriorArtifacts &&
 						<div className="tab-pane fade show active" id="pills-raids-armour">
 							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-								{ renderCardItems(dataWarriorArtefacts) }
+								{ renderCardItems(dataWarriorArtifacts) }
 							</div>
 						</div>
 					}
 
-					{ druidArtefacts &&
+					{ druidArtifacts &&
 						<div className="tab-pane fade show active" id="pills-raids-armour">
 							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-								{ renderCardItems(dataDruidArtefacts) }
+								{ renderCardItems(dataDruidArtifacts) }
 							</div>
 						</div>
 					}
 
-					{ priestArtefacts &&
+					{ priestArtifacts &&
 						<div className="tab-pane fade show active" id="pills-raids-armour">
 							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-								{ renderCardItems(dataPriestArtefacts) }
+								{ renderCardItems(dataPriestArtifacts) }
 							</div>
 						</div>
 					}
 
-					{ mageArtefacts &&
+					{ mageArtifacts &&
 						<div className="tab-pane fade show active" id="pills-raids-armour">
 							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-								{ renderCardItems(dataMageArtefacts) }
+								{ renderCardItems(dataMageArtifacts) }
 							</div>
 						</div>
 					}
 
-					{ monkArtefacts &&
+					{ monkArtifacts &&
 						<div className="tab-pane fade show active" id="pills-raids-armour">
 							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-								{ renderCardItems(dataMonkArtefacts) }
+								{ renderCardItems(dataMonkArtifacts) }
 							</div>
 						</div>
 					}
 
-					{ hunterArtefacts &&
+					{ hunterArtifacts &&
 						<div className="tab-pane fade show active" id="pills-raids-armour">
 							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-								{ renderCardItems(dataHunterArtefacts) }
+								{ renderCardItems(dataHunterArtifacts) }
 							</div>
 						</div>
 					}
 
-					{ demonHunterArtefacts &&
+					{ demonHunterArtifacts &&
 						<div className="tab-pane fade show active" id="pills-raids-armour">
 							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-								{ renderCardItems(dataDemonHunterArtefacts) }
+								{ renderCardItems(dataDemonHunterArtifacts) }
 							</div>
 						</div>
 					}
 
-					{ paladinArtefacts &&
+					{ paladinArtifacts &&
 						<div className="tab-pane fade show active" id="pills-raids-armour">
 							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-								{ renderCardItems(dataPaladinArtefacts) }
+								{ renderCardItems(dataPaladinArtifacts) }
 							</div>
 						</div>
 					}
 
-					{ rogueArtefacts &&
+					{ rogueArtifacts &&
 						<div className="tab-pane fade show active" id="pills-raids-armour">
 							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-								{ renderCardItems(dataRogueArtefacts) }
+								{ renderCardItems(dataRogueArtifacts) }
 							</div>
 						</div>
 					}
 
-					{ deathKnightArtefacts &&
+					{ deathKnightArtifacts &&
 						<div className="tab-pane fade show active" id="pills-raids-armour">
 							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-								{ renderCardItems(dataDeathKnightArtefacts) }
+								{ renderCardItems(dataDeathKnightArtifacts) }
 							</div>
 						</div>
 					}
 
-					{ warlockArtefacts &&
+					{ warlockArtifacts &&
 						<div className="tab-pane fade show active" id="pills-raids-armour">
 							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-								{ renderCardItems(dataWarlockArtefacts) }
+								{ renderCardItems(dataWarlockArtifacts) }
 							</div>
 						</div>
 					}
 
-					{ shamanArtefacts &&
+					{ shamanArtifacts &&
 						<div className="tab-pane fade show active" id="pills-raids-armour">
 							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-								{ renderCardItems(dataShamanArtefacts) }
+								{ renderCardItems(dataShamanArtifacts) }
 							</div>
 						</div>
 					}
@@ -995,7 +995,7 @@ const Card = ({home, raidsArmourWarrior, legendaryWeapons, classes, warriorArtef
 					{ armsWarrior &&
 						<div className="tab-pane fade show active" id="pills-raids-armour">
 							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-								{ renderCardItems(dataArmsWarriorArtefact) }
+								{ renderCardItems(dataArmsWarriorArtifact) }
 							</div>
 						</div>
 					}
@@ -1003,7 +1003,7 @@ const Card = ({home, raidsArmourWarrior, legendaryWeapons, classes, warriorArtef
 					{ furyWarrior &&
 						<div className="tab-pane fade show active" id="pills-raids-armour">
 							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-								{ renderCardItems(dataFuryWarriorArtefact) }
+								{ renderCardItems(dataFuryWarriorArtifact) }
 							</div>
 						</div>
 					}
@@ -1011,7 +1011,7 @@ const Card = ({home, raidsArmourWarrior, legendaryWeapons, classes, warriorArtef
 					{ protectionWarrior &&
 						<div className="tab-pane fade show active" id="pills-raids-armour">
 							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-								{ renderCardItems(dataProtectionWarriorArtefact) }
+								{ renderCardItems(dataProtectionWarriorArtifact) }
 							</div>
 						</div>
 					}

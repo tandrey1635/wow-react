@@ -1,4 +1,4 @@
-const Announcement = ({ home, warrior, druid, priest, mage, monk, hunter, demonHunter, paladin, awakener, rogue, deathKnight, warlock, shaman, oneHandedWeapons, twoHandedWeapons, rangeWeapons, legendaryWeapons, artefactWeapons, decorativeWeapons, ashbringer, sulfuras, thunderfury, atiesh, warglaivesOfAzzinoth, thoridal, valanyr, shadowmourne, tarecgosa, fangsFather, armsWarrior, furyWarrior, protectionWarrior, armours, shields, cloaks, fishingRods, waterMounts, earthMounts, flyMounts, hordeGold, allianceGold, professions, alchemy, mining, engineering, leatherworking, blacksmithing, enchanting,  inscription, tailoring, skinning, herbalism, jewelcrafting, archaeology, riding, cooking, firstAid, fishing, junkyardTinkering, pvp, honour, arena, rbg, dungeons, mythic5, mythic10, mythic15, сlassic, burningCrusade, wrathOfTheLichKing, cataclysm, mistsOfPandaria, warlordsOfDraenor, legion, battleForAzeroth, shadowlands, dragonflight, warWithin, midnight, lastTitan, lvlUp, lvlUpBase, lvlUpExpert, lvlUpMaster, achievements, quests, equipments, mounts, raidsExplorer, legacy, greatFeats, warcraftReforged, wow, diablo, hearthstone, heroesStorm, starcraft, overwatch, wowCollectionEditions, diabloCollectionEditions  }) => {
+const Announcement = ({ home, warrior, druid, priest, mage, monk, hunter, demonHunter, paladin, awakener, rogue, deathKnight, warlock, shaman, oneHandedWeapons, twoHandedWeapons, rangeWeapons, legendaryWeapons, artifactWeapons, decorativeWeapons, ashbringer, sulfuras, thunderfury, atiesh, warglaivesOfAzzinoth, thoridal, valanyr, shadowmourne, tarecgosa, fangsFather, armsWarrior, furyWarrior, protectionWarrior, armours, shields, cloaks, fishingRods, waterMounts, earthMounts, flyMounts, hordeGold, allianceGold, professions, alchemy, mining, engineering, leatherworking, blacksmithing, enchanting,  inscription, tailoring, skinning, herbalism, jewelcrafting, archaeology, riding, cooking, firstAid, fishing, junkyardTinkering, pvp, honour, arena, rbg, dungeons, mythic5, mythic10, mythic15, сlassic, burningCrusade, wrathOfTheLichKing, cataclysm, mistsOfPandaria, warlordsOfDraenor, legion, battleForAzeroth, shadowlands, dragonflight, warWithin, midnight, lastTitan, lvlUp, lvlUpBase, lvlUpExpert, lvlUpMaster, achievements, quests, equipments, mounts, raidsExplorer, legacy, greatFeats, warcraftReforged, wow, diablo, hearthstone, heroesStorm, starcraft, overwatch, wowCollectionEditions, diabloCollectionEditions  }) => {
 	return (
 		<section className="announcement">
 			<div className="container">
@@ -56,8 +56,8 @@ const Announcement = ({ home, warrior, druid, priest, mage, monk, hunter, demonH
 							legendaryWeapons || ashbringer || sulfuras || thunderfury || atiesh || warglaivesOfAzzinoth || thoridal || valanyr || shadowmourne || tarecgosa || fangsFather
 								? "announcement__header_legendary-weapons"
 								:
-							artefactWeapons || armsWarrior || furyWarrior || protectionWarrior
-								? "announcement__header_artefact-weapons"
+							artifactWeapons || armsWarrior || furyWarrior || protectionWarrior
+								? "announcement__header_artifact-weapons"
 								:
 							decorativeWeapons
 								? "announcement__header_decorative-weapons"
@@ -189,7 +189,7 @@ const Announcement = ({ home, warrior, druid, priest, mage, monk, hunter, demonH
 							legendaryWeapons
 								? "Легендарное оружие"
 								:
-							artefactWeapons
+							artifactWeapons
 								? "Артефакты Legion"
 								:
 							decorativeWeapons
@@ -483,7 +483,7 @@ const Announcement = ({ home, warrior, druid, priest, mage, monk, hunter, demonH
 							legendaryWeapons
 								? "Легендарное оружие, воплощение мифов, чья слава живёт в веках. Идеальный выбор тех, кто стремится к совершенству, недостижимому для простых смертных. Будь то меткий выстрел, сокрушительный удар, могущественное заклинание или целительное прикосновение, каждое действие меняет ход истории Азерота. Неважно, что перед тобой полчища Плети или демоны Пылающего Легиона, сила легенды в твоих руках обратит любого врага в прах. Один взмах, выстрел, заклинание или целительное прикосновение, и мир узнает, почему это оружие стало легендой!"
 								:
-							artefactWeapons
+							artifactWeapons
 								? "Артефактное оружие, воплощение воли титанов, ярости древних богов и наследие величайших героев Азерота. Это не просто инструмент битвы, а символ эпохи, чья душа откликается лишь тому, кто достоин продолжить её легенду. Идеальный выбор тех, кто не стремится к славе, но чьи поступки сами творят историю. Будь то сокрушительный удар, рассекающий саму магию, или благословение, воскрешающее павших героев, каждое действие артефакта оставляет вечный след в судьбе мира. Неважно, что перед тобой полчища Плети, демоны Пылающего Легиона или сама ненависть Древних Богов, мощь, что течёт в его жилах, не знает границ. Один взмах и реальность склонится перед тобой. Одно заклинание и сама бездна отступает. Это не легенда из прошлого, это сила, которая творит будущее. И теперь она в твоих руках!"
 								:
 							decorativeWeapons
