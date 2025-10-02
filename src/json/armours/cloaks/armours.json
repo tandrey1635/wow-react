@@ -13,6 +13,32 @@
 	},
 
 	{
+		"id": "AdventurousLamplightersCloak",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Adventurous-Lamplighters-Cloak.png",
+		"titleClassName": "card-title-armours",
+		"title": "Плащ отважного фонарщика",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Плащ отважного фонарщика",
+		"priceClassName": "card-price-armours",
+		"price": 300
+	},
+
+	{
+		"id": "SacredShawlOfThePriory",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Sacred-Shawl-of-the-Priory.png",
+		"titleClassName": "card-title-armours",
+		"title": "Священная пелерина приората",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Священную пелерину приората",
+		"priceClassName": "card-price-armours",
+		"price": 300
+	},
+
+	{
 		"id": "HighPriestesssCeremonialDrape",
 		"className": "card-armours",
 		"path": "#",
@@ -39,6 +65,19 @@
 	},
 
 	{
+		"id": "WinterbornGreatcloak",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Winterborn-Greatcloak.png",
+		"titleClassName": "card-title-armours",
+		"title": "Теплый плащ зиморожденного",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Теплый плащ зиморожденного",
+		"priceClassName": "card-price-armours",
+		"price": 300
+	},
+
+	{
 		"id": "FeatheredDrapeOfTheArchmage",
 		"className": "card-armours",
 		"path": "#",
@@ -47,6 +86,19 @@
 		"title": "Пернатый плащ верховного мага",
 		"descriptionClassName": "card-text-armours",
 		"description": "Закажите Пернатый плащ верховного мага",
+		"priceClassName": "card-price-armours",
+		"price": 300
+	},
+
+	{
+		"id": "FieryCloak",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Fiery-Cloak.png",
+		"titleClassName": "card-title-armours",
+		"title": "Огненный плащ",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Огненный плащ",
 		"priceClassName": "card-price-armours",
 		"price": 300
 	},
@@ -86,6 +138,19 @@
 		"title": "Накидка Подгорода",
 		"descriptionClassName": "card-text-armours",
 		"description": "Закажите Накидку Подгорода",
+		"priceClassName": "card-price-armours",
+		"price": 300
+	},
+
+	{
+		"id": "ShroudOfSilvermoon",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Shroud-of-Silvermoon.png",
+		"titleClassName": "card-title-armours",
+		"title": "Накидка Луносвета",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Накидку Луносвета",
 		"priceClassName": "card-price-armours",
 		"price": 300
 	},
