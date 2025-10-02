@@ -169,6 +169,19 @@
 	},
 
 	{
+		"id": "ShroudOfGilneas",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Shroud-of-Gilneas.png",
+		"titleClassName": "card-title-armours",
+		"title": "Накидка Гилнеаса",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Накидку Гилнеаса",
+		"priceClassName": "card-price-armours",
+		"price": 300
+	},
+
+	{
 		"id": "DistinguishedWarcloak",
 		"className": "card-armours",
 		"path": "#",
@@ -221,6 +234,32 @@
 	},
 
 	{
+		"id": "ShadowmoonDestroyersDrape",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Shadowmoon-Destroyers-Drape.png",
+		"titleClassName": "card-title-armours",
+		"title": "Пелерина разрушителя из клана призрачной луны",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Пелерину разрушителя из клана призрачной луны",
+		"priceClassName": "card-price-armours",
+		"price": 300
+	},
+
+	{
+		"id": "RoyalCloakOfTheSunstriders",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Royal-Cloak-of-the-Sunstriders.png",
+		"titleClassName": "card-title-armours",
+		"title": "Королевский плащ Солнечных Скитальцев",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Королевский плащ Солнечных Скитальцев",
+		"priceClassName": "card-price-armours",
+		"price": 300
+	},
+
+	{
 		"id": "SindoreiAssassinsShroud",
 		"className": "card-armours",
 		"path": "#",
@@ -229,6 +268,32 @@
 		"title": "Покров син'дорай убийцы",
 		"descriptionClassName": "card-text-armours",
 		"description": "Закажите Покров син'дорай убийцы",
+		"priceClassName": "card-price-armours",
+		"price": 300
+	},
+
+	{
+		"id": "DrapeOfTheSullenGoddess",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Drape-of-the-Sullen-Goddess.png",
+		"titleClassName": "card-title-armours",
+		"title": "Пелерина угрюмой богини",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Пелерина угрюмой богини",
+		"priceClassName": "card-price-armours",
+		"price": 300
+	},
+
+	{
+		"id": "ShawlOfHauntedMemories",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Shawl-of-Haunted-Memories.png",
+		"titleClassName": "card-title-armours",
+		"title": "Шаль мучительных воспоминаний",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Шаль мучительных воспоминаний",
 		"priceClassName": "card-price-armours",
 		"price": 300
 	},
@@ -281,6 +346,19 @@
 		"title": "Изумрудная пелерина",
 		"descriptionClassName": "card-text-armours",
 		"description": "Закажите Изумрудную пелерину",
+		"priceClassName": "card-price-armours",
+		"price": 300
+	},
+
+	{
+		"id": "CloudburstCloak",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Cloudburst-Cloak.png",
+		"titleClassName": "card-title-armours",
+		"title": "Плащ грозовой сферы",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Плащ грозовой сферы",
 		"priceClassName": "card-price-armours",
 		"price": 300
 	},
