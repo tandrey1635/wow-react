@@ -32,16 +32,16 @@ import DecorativeWeapons  from "./pages/weapons/Decorative.tsx";
 
 
 
-import Ashbringer  from "./pages/weapons/weapons-details/Ashbringer.tsx";
-import Sulfuras  from "./pages/weapons/weapons-details/Sulfuras.tsx";
-import Thunderfury  from "./pages/weapons/weapons-details/Thunderfury.tsx";
-import Atiesh  from "./pages/weapons/weapons-details/Atiesh.tsx";
-import WarglaivesOfAzzinoth  from "./pages/weapons/weapons-details/WarglaivesOfAzzinoth.tsx";
-import Thoridal  from "./pages/weapons/weapons-details/Thoridal.tsx";
-import Valanyr  from "./pages/weapons/weapons-details/Valanyr.tsx";
-import Shadowmourne  from "./pages/weapons/weapons-details/Shadowmourne.tsx";
-import Tarecgosa  from "./pages/weapons/weapons-details/Tarecgosa.tsx";
-import FangsFather  from "./pages/weapons/weapons-details/FangsFather.tsx";
+import Ashbringer  from "./pages/weapons/legendary/weapons-details/Ashbringer.tsx";
+import Sulfuras  from "./pages/weapons/legendary/weapons-details/Sulfuras.tsx";
+import Thunderfury  from "./pages/weapons/legendary/weapons-details/Thunderfury.tsx";
+import Atiesh  from "./pages/weapons/legendary/weapons-details/Atiesh.tsx";
+import WarglaivesOfAzzinoth  from "./pages/weapons/legendary/weapons-details/WarglaivesOfAzzinoth.tsx";
+import Thoridal  from "./pages/weapons/legendary/weapons-details/Thoridal.tsx";
+import Valanyr  from "./pages/weapons/legendary/weapons-details/Valanyr.tsx";
+import Shadowmourne  from "./pages/weapons/legendary/weapons-details/Shadowmourne.tsx";
+import Tarecgosa  from "./pages/weapons/legendary/weapons-details/Tarecgosa.tsx";
+import FangsFather  from "./pages/weapons/legendary/weapons-details/FangsFather.tsx";
 
 
 
