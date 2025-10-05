@@ -572,6 +572,32 @@
 	},
 
 	{
+		"id": "JadefireDrape",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Jadefire-Drape.png",
+		"titleClassName": "card-title-armours",
+		"title": "Пелерина нефритового пламени",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Пелерину нефритового пламени",
+		"priceClassName": "card-price-armours",
+		"price": 300
+	},
+
+	{
+		"id": "CranewingCloak",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Cranewing-Cloak.png",
+		"titleClassName": "card-title-armours",
+		"title": "Плащ журавлиного крыла",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Плащ журавлиного крыла",
+		"priceClassName": "card-price-armours",
+		"price": 300
+	},
+
+	{
 		"id": "FenYuFuryOfXuen",
 		"className": "card-armours card-armours-legendary",
 		"path": "#",
