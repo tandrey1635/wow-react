@@ -546,6 +546,32 @@
 	},
 
 	{
+		"id": "TigerclawCape",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Tigerclaw-Cape.png",
+		"titleClassName": "card-title-armours",
+		"title": "Плащ тигриного когтя",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Плащ тигриного когтя",
+		"priceClassName": "card-price-armours",
+		"price": 300
+	},
+
+	{
+		"id": "OxhoofGreatcloak",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Oxhoof-Greatcloak.png",
+		"titleClassName": "card-title-armours",
+		"title": "Теплый плащ неистового быка",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Теплый плащ неистового быка",
+		"priceClassName": "card-price-armours",
+		"price": 300
+	},
+
+	{
 		"id": "FenYuFuryOfXuen",
 		"className": "card-armours card-armours-legendary",
 		"path": "#",
