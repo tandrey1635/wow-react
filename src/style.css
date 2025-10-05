@@ -477,6 +477,9 @@ footer {
 .promo__raitings_cloaks {
   background: url("/src/assets/img/armours/bg/cloaks.png") no-repeat center/contain;
 }
+.promo__raitings_tabards {
+  background: url("/src/assets/img/armours/bg/tabards.png") no-repeat center/contain;
+}
 .promo__raitings_fishing-rods {
   background: url("/src/assets/img/armours/bg/fishing-rods.png") no-repeat center/contain;
 }

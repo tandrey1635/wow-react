@@ -26,6 +26,19 @@
 	},
 
 	{
+		"id": "tabards",
+		"className": "card-armours",
+		"path": "armours/tabards",
+		"cardImg": "/src/assets/img/armours/bg/tabards.png",
+		"titleClassName": "card-title-armours",
+		"title": "Гербовые накидки",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите любую гербовую накидку",
+		"priceClassName": "card-price-armours",
+		"price": 300
+	},
+
+	{
 		"id": "fishing-rods",
 		"className": "card-armours",
 		"path": "armours/fishing-rods",

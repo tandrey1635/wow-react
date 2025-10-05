@@ -67,6 +67,7 @@ import Protection  from "./pages/weapons/artifact/warrior/Protection.tsx";
 
 import Cloaks  from "./pages/armours/Cloaks.tsx";
 import Shields  from "./pages/armours/Shields.tsx";
+import Tabards  from "./pages/armours/Tabards.tsx";
 import FishingRods  from "./pages/armours/FishingRods.tsx";
 
 
@@ -220,6 +221,7 @@ createRoot(document.getElementById("root")!).render(
 
 				<Route path="armours/shields" element={<Shields />} />
 				<Route path="armours/cloaks" element={<Cloaks />} />
+				<Route path="armours/tabards" element={<Tabards />} />
 				<Route path="armours/fishing-rods" element={<FishingRods />} />
 
 
