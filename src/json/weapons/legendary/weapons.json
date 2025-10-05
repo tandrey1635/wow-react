@@ -132,7 +132,7 @@
 	{
 		"id": "RaeshalareDeathsWhisper",
 		"className": "card-weapons card-weapons-legendary",
-		"path": "#",
+		"path": "weapons-details/raeshalare-deaths-whisper",
 		"cardImg": "/src/assets/img/weapons/bg/legendary/Raeshalare-Deaths-Whisper.png",
 		"titleClassName": "card-title-weapons card-title-weapons-legendary",
 		"title": "Раэ'шаларе, Шепот Смерти",

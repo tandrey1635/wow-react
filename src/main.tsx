@@ -42,6 +42,8 @@ import Valanyr  from "./pages/weapons/legendary/weapons-details/Valanyr.tsx";
 import Shadowmourne  from "./pages/weapons/legendary/weapons-details/Shadowmourne.tsx";
 import Tarecgosa  from "./pages/weapons/legendary/weapons-details/Tarecgosa.tsx";
 import FangsFather  from "./pages/weapons/legendary/weapons-details/FangsFather.tsx";
+import RaeshalareDeathsWhisper  from "./pages/weapons/legendary/weapons-details/RaeshalareDeathsWhisper.tsx";
+
 
 
 
@@ -198,6 +200,7 @@ createRoot(document.getElementById("root")!).render(
 				<Route path="weapons/legendary/weapons-details/shadowmourne" element={<Shadowmourne />} />
 				<Route path="weapons/legendary/weapons-details/tarecgosa" element={<Tarecgosa />} />
 				<Route path="weapons/legendary/weapons-details/fangs-of-the-father" element={<FangsFather />} />
+				<Route path="weapons/legendary/weapons-details/raeshalare-deaths-whisper" element={<RaeshalareDeathsWhisper />} />
 
 
 				<Route path="weapons/artifact/warrior" element={<WarriorArtifacts />} />
