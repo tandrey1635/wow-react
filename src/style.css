@@ -456,6 +456,9 @@ footer {
 .promo__raitings_valanyr {
   background: url("/src/assets/img/weapons/bg/legendary/Valanyr-Hammer-of-Ancient-Kings.png") no-repeat center/contain;
 }
+.promo__raitings_frostmourne {
+  background: url("/src/assets/img/weapons/bg/legendary/Frostmourne.png") no-repeat center/contain;
+}
 .promo__raitings_shadowmourne {
   background: url("/src/assets/img/weapons/bg/legendary/Shadowmourne.png") no-repeat center/contain;
 }
@@ -467,6 +470,12 @@ footer {
 }
 .promo__raitings_raeshalare-deaths-whisper {
   background: url("/src/assets/img/weapons/bg/legendary/Raeshalare-Deaths-Whisper.png") no-repeat center/contain;
+}
+.promo__raitings_fyralath-the-dreamrender {
+  background: url("/src/assets/img/weapons/bg/legendary/Fyralath-the-Dreamrender.png") no-repeat center/contain;
+}
+.promo__raitings_naszuro-the-unbound-legacy {
+  background: url("/src/assets/img/weapons/bg/legendary/Naszuro-the-Unbound-Legacy.png") no-repeat center/contain;
 }
 .promo__raitings_arms-warrior {
   background: url("/src/assets/img/promo/bg/weapons/artifact/warrior/Stromkar-the-Warbreaker.png") no-repeat center/contain;

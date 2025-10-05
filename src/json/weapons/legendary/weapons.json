@@ -91,6 +91,19 @@
 	},
 
 	{
+		"id": "Frostmourne",
+		"className": "card-weapons card-weapons-legendary",
+		"path": "weapons-details/frostmourne",
+		"cardImg": "/src/assets/img/weapons/bg/legendary/Frostmourne.png",
+		"titleClassName": "card-title-weapons card-title-weapons-legendary",
+		"title": "Ледяная Скорбь",
+		"descriptionClassName": "card-text-weapons card-text-weapons-legendary",
+		"description": "Закажите Ледяную Скорбь",
+		"priceClassName": "card-price-weapons card-price-weapons-legendary",
+		"price": 700
+	},
+
+	{
 		"id": "Shadowmourne",
 		"className": "card-weapons card-weapons-legendary",
 		"path": "weapons-details/shadowmourne",
@@ -145,7 +158,7 @@
 	{
 		"id": "FyralathTheDreamrender",
 		"className": "card-weapons card-weapons-legendary",
-		"path": "#",
+		"path": "weapons-details/fyralath-the-dreamrender",
 		"cardImg": "/src/assets/img/weapons/bg/legendary/Fyralath-the-Dreamrender.png",
 		"titleClassName": "card-title-weapons card-title-weapons-legendary",
 		"title": "Фир'алат Воздаятель Снов",
@@ -158,7 +171,7 @@
 	{
 		"id": "NaszuroTheUnboundLegacy",
 		"className": "card-weapons card-weapons-legendary",
-		"path": "#",
+		"path": "weapons-details/naszuro-the-unbound-legacy",
 		"cardImg": "/src/assets/img/weapons/bg/legendary/Naszuro-the-Unbound-Legacy.png",
 		"titleClassName": "card-title-weapons card-title-weapons-legendary",
 		"title": "Наз'уро, Высвобожденное Наследие",

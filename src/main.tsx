@@ -40,12 +40,12 @@ import WarglaivesOfAzzinoth  from "./pages/weapons/legendary/weapons-details/War
 import Thoridal  from "./pages/weapons/legendary/weapons-details/Thoridal.tsx";
 import Valanyr  from "./pages/weapons/legendary/weapons-details/Valanyr.tsx";
 import Shadowmourne  from "./pages/weapons/legendary/weapons-details/Shadowmourne.tsx";
+import Frostmourne  from "./pages/weapons/legendary/weapons-details/Frostmourne.tsx";
 import Tarecgosa  from "./pages/weapons/legendary/weapons-details/Tarecgosa.tsx";
 import FangsFather  from "./pages/weapons/legendary/weapons-details/FangsFather.tsx";
 import RaeshalareDeathsWhisper  from "./pages/weapons/legendary/weapons-details/RaeshalareDeathsWhisper.tsx";
-
-
-
+import FyralathTheDreamrender  from "./pages/weapons/legendary/weapons-details/FyralathTheDreamrender.tsx";
+import NaszuroTheUnboundLegacy  from "./pages/weapons/legendary/weapons-details/NaszuroTheUnboundLegacy.tsx";
 
 import WarriorArtifacts  from "./pages/weapons/artifact/Warrior.tsx";
 import DruidArtifacts  from "./pages/weapons/artifact/Druid.tsx";
@@ -197,10 +197,13 @@ createRoot(document.getElementById("root")!).render(
 				<Route path="weapons/legendary/weapons-details/warglaives-of-azzinoth" element={<WarglaivesOfAzzinoth />} />
 				<Route path="weapons/legendary/weapons-details/thoridal" element={<Thoridal />} />
 				<Route path="weapons/legendary/weapons-details/valanyr" element={<Valanyr />} />
+				<Route path="weapons/legendary/weapons-details/frostmourne" element={<Frostmourne />} />
 				<Route path="weapons/legendary/weapons-details/shadowmourne" element={<Shadowmourne />} />
 				<Route path="weapons/legendary/weapons-details/tarecgosa" element={<Tarecgosa />} />
 				<Route path="weapons/legendary/weapons-details/fangs-of-the-father" element={<FangsFather />} />
 				<Route path="weapons/legendary/weapons-details/raeshalare-deaths-whisper" element={<RaeshalareDeathsWhisper />} />
+				<Route path="weapons/legendary/weapons-details/fyralath-the-dreamrender" element={<FyralathTheDreamrender />} />
+				<Route path="weapons/legendary/weapons-details/naszuro-the-unbound-legacy" element={<NaszuroTheUnboundLegacy />} />
 
 
 				<Route path="weapons/artifact/warrior" element={<WarriorArtifacts />} />
