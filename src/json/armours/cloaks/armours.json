@@ -182,6 +182,19 @@
 	},
 
 	{
+		"id": "ShroudOfDarnassus",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Shroud-of-Darnassus.png",
+		"titleClassName": "card-title-armours",
+		"title": "Накидка Дарнаса",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Накидку Дарнаса",
+		"priceClassName": "card-price-armours",
+		"price": 300
+	},
+
+	{
 		"id": "DistinguishedWarcloak",
 		"className": "card-armours",
 		"path": "#",
@@ -190,6 +203,45 @@
 		"title": "Выдающийся боевой плащ",
 		"descriptionClassName": "card-text-armours",
 		"description": "Закажите Выдающийся боевой плащ",
+		"priceClassName": "card-price-armours",
+		"price": 300
+	},
+
+	{
+		"id": "DreadAspirantsGreatcloak",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Dread-Aspirants-Greatcloak.png",
+		"titleClassName": "card-title-armours",
+		"title": "Теплый плащ ужасающего претендента",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Теплый плащ ужасающего претендента",
+		"priceClassName": "card-price-armours",
+		"price": 300
+	},
+
+	{
+		"id": "RecruitsSturdyCloak",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Recruits-Sturdy-Cloak.png",
+		"titleClassName": "card-title-armours",
+		"title": "Прочный плащ новобранца",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Прочный плащ новобранца",
+		"priceClassName": "card-price-armours",
+		"price": 300
+	},
+
+	{
+		"id": "7thLegionnairesCape",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/7th-Legionnaires-Cape.png",
+		"titleClassName": "card-title-armours",
+		"title": "Мантия 7-го легиона",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Мантию 7-го легиона",
 		"priceClassName": "card-price-armours",
 		"price": 300
 	},
