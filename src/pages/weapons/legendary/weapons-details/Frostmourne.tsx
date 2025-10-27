@@ -9,7 +9,7 @@ import Announcement from "../../../../components/Announcement";
 import Promo from "../../../../components/Promo";
 
 
-const Shadowmourne = () => {
+const Frostmourne = () => {
 	return (
 		<>
 			<Wrapper>
@@ -27,4 +27,4 @@ const Shadowmourne = () => {
 }
 
 
-export default Shadowmourne
+export default Frostmourne

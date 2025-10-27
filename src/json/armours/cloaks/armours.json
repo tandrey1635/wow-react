@@ -91,6 +91,45 @@
 	},
 
 	{
+		"id": "DominantGladiatorsDrapeOfPiety",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Dominant-Gladiators-Drape-of-Piety.png",
+		"titleClassName": "card-title-armours",
+		"title": "Пелерина благочестия господствующего гладиатора",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Пелерину благочестия господствующего гладиатора",
+		"priceClassName": "card-price-armours",
+		"price": 300
+	},
+
+	{
+		"id": "DemonicGladiatorsDrapeOfPiety",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Demonic-Gladiators-Drape-of-Piety.png",
+		"titleClassName": "card-title-armours",
+		"title": "Пелерина благочестия демонического гладиатора",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Пелерину благочестия демонического гладиатора",
+		"priceClassName": "card-price-armours",
+		"price": 300
+	},
+
+	{
+		"id": "GildedSeraphsDrape",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Gilded-Seraphs-Drape.png",
+		"titleClassName": "card-title-armours",
+		"title": "Золотая пелерина серафима",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Золотую пелерину серафима",
+		"priceClassName": "card-price-armours",
+		"price": 300
+	},
+
+	{
 		"id": "FieryCloak",
 		"className": "card-armours",
 		"path": "#",

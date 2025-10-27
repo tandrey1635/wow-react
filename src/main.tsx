@@ -47,6 +47,12 @@ import RaeshalareDeathsWhisper  from "./pages/weapons/legendary/weapons-details/
 import FyralathTheDreamrender  from "./pages/weapons/legendary/weapons-details/FyralathTheDreamrender.tsx";
 import NaszuroTheUnboundLegacy  from "./pages/weapons/legendary/weapons-details/NaszuroTheUnboundLegacy.tsx";
 
+
+
+import WeaponsDetails  from "./pages/weapons/legendary/weapons-details/WeaponsDetails.tsx";
+
+
+
 import WarriorArtifacts  from "./pages/weapons/artifact/Warrior.tsx";
 import DruidArtifacts  from "./pages/weapons/artifact/Druid.tsx";
 import PriestArtifacts  from "./pages/weapons/artifact/Priest.tsx";
@@ -190,8 +196,8 @@ createRoot(document.getElementById("root")!).render(
 				<Route path="weapons/decorative" element={<DecorativeWeapons />} />
 
 
-				<Route path="weapons/legendary/weapons-details/ashbringer" element={<Ashbringer />} />
-				<Route path="weapons/legendary/weapons-details/sulfuras" element={<Sulfuras />} />
+				{/* <Route path="weapons/legendary/weapons-details/:id" element={<Ashbringer />} />
+				<Route path="weapons/legendary/weapons-details/:id" element={<Sulfuras />} />
 				<Route path="weapons/legendary/weapons-details/thunderfury" element={<Thunderfury />} />
 				<Route path="weapons/legendary/weapons-details/atiesh" element={<Atiesh />} />
 				<Route path="weapons/legendary/weapons-details/warglaives-of-azzinoth" element={<WarglaivesOfAzzinoth />} />
@@ -203,7 +209,11 @@ createRoot(document.getElementById("root")!).render(
 				<Route path="weapons/legendary/weapons-details/fangs-of-the-father" element={<FangsFather />} />
 				<Route path="weapons/legendary/weapons-details/raeshalare-deaths-whisper" element={<RaeshalareDeathsWhisper />} />
 				<Route path="weapons/legendary/weapons-details/fyralath-the-dreamrender" element={<FyralathTheDreamrender />} />
-				<Route path="weapons/legendary/weapons-details/naszuro-the-unbound-legacy" element={<NaszuroTheUnboundLegacy />} />
+				<Route path="weapons/legendary/weapons-details/naszuro-the-unbound-legacy" element={<NaszuroTheUnboundLegacy />} /> */}
+
+
+
+				<Route path="weapons/legendary/weapons-details/:id" element={<WeaponsDetails />} />
 
 
 				<Route path="weapons/artifact/warrior" element={<WarriorArtifacts />} />
