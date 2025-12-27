@@ -1,0 +1,81 @@
+[
+	{
+		"id": "EmeraldNightmare",
+		"raids": true,
+		"className": "card-raids card-raids-legion",
+		"path": "#",
+		"cardImgClassName": "card-img-raids",
+		"cardImg": "/src/assets/img/raids/bg/legion/Emerald-Nightmare.jpg",
+		"titleClassName": "card-title-raids card-title-raids-legion",
+		"title": "Изумрудный Кошмар",
+		"descriptionClassName": "card-text-raids card-text-raids-legion",
+		"description": "Закажите гарантированное прохождение рейда",
+		"spanClassname": "card-text-raids-legion_color",
+		"priceClassName": "card-price-raids card-price-raids-legion",
+		"price": 350
+	},
+
+	{
+		"id": "TrialOfValor",
+		"raids": true,
+		"className": "card-raids card-raids-legion",
+		"path": "#",
+		"cardImgClassName": "card-img-raids",
+		"cardImg": "/src/assets/img/raids/bg/legion/Trial-of-Valor.jpg",
+		"titleClassName": "card-title-raids card-title-raids-legion",
+		"title": "Испытание Доблести",
+		"descriptionClassName": "card-text-raids card-text-raids-legion",
+		"description": "Закажите гарантированное прохождение рейда",
+		"spanClassname": "card-text-raids-legion_color",
+		"priceClassName": "card-price-raids card-price-raids-legion",
+		"price": 360
+	},
+
+	{
+		"id": "Nighthold",
+		"raids": true,
+		"className": "card-raids card-raids-legion",
+		"path": "#",
+		"cardImgClassName": "card-img-raids",
+		"cardImg": "/src/assets/img/raids/bg/legion/Nighthold.jpg",
+		"titleClassName": "card-title-raids card-title-raids-legion",
+		"title": "Цитадель Ночи",
+		"descriptionClassName": "card-text-raids card-text-raids-legion",
+		"description": "Закажите гарантированное прохождение рейда",
+		"spanClassname": "card-text-raids-legion_color",
+		"priceClassName": "card-price-raids card-price-raids-legion",
+		"price": 370
+	},
+
+	{
+		"id": "TombOfSargeras",
+		"raids": true,
+		"className": "card-raids card-raids-legion",
+		"path": "#",
+		"cardImgClassName": "card-img-raids",
+		"cardImg": "/src/assets/img/raids/bg/legion/Tomb-of-Sargeras.jpg",
+		"titleClassName": "card-title-raids card-title-raids-legion",
+		"title": "Гробница Саргераса",
+		"descriptionClassName": "card-text-raids card-text-raids-legion",
+		"description": "Закажите гарантированное прохождение рейда",
+		"spanClassname": "card-text-raids-legion_color",
+		"priceClassName": "card-price-raids card-price-raids-legion",
+		"price": 380
+	},
+
+	{
+		"id": "AntorusTheBurningThrone",
+		"raids": true,
+		"className": "card-raids card-raids-legion",
+		"path": "#",
+		"cardImgClassName": "card-img-raids",
+		"cardImg": "/src/assets/img/raids/bg/legion/Antorus-the-Burning-Throne.jpg",
+		"titleClassName": "card-title-raids card-title-raids-legion",
+		"title": "Анторус Пылающий Трон",
+		"descriptionClassName": "card-text-raids card-text-raids-legion",
+		"description": "Закажите гарантированное прохождение рейда",
+		"spanClassname": "card-text-raids-legion_color",
+		"priceClassName": "card-price-raids card-price-raids-legion",
+		"price": 390
+	}
+]

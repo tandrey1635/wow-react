@@ -1,0 +1,97 @@
+[
+	{
+		"id": "BaradinHold",
+		"raids": true,
+		"className": "card-raids card-raids-cataclysm",
+		"path": "#",
+		"cardImgClassName": "card-img-raids",
+		"cardImg": "/src/assets/img/raids/bg/cataclysm/Baradin-Hold.jpg",
+		"titleClassName": "card-title-raids card-title-raids-cataclysm",
+		"title": "Крепость Барадин",
+		"descriptionClassName": "card-text-raids card-text-raids-cataclysm",
+		"description": "Закажите гарантированное прохождение рейда",
+		"spanClassname": "card-text-raids-cataclysm_color",
+		"priceClassName": "card-price-raids card-price-raids-cataclysm",
+		"price": 200
+	},
+
+	{
+		"id": "BlackwingDescent",
+		"raids": true,
+		"className": "card-raids card-raids-cataclysm",
+		"path": "#",
+		"cardImgClassName": "card-img-raids",
+		"cardImg": "/src/assets/img/raids/bg/cataclysm/Blackwing-Descent.jpg",
+		"titleClassName": "card-title-raids card-title-raids-cataclysm",
+		"title": "Твердыня Крыла Тьмы",
+		"descriptionClassName": "card-text-raids card-text-raids-cataclysm",
+		"description": "Закажите гарантированное прохождение рейда",
+		"spanClassname": "card-text-raids-cataclysm_color",
+		"priceClassName": "card-price-raids card-price-raids-cataclysm",
+		"price": 220
+	},
+
+	{
+		"id": "BastionOfTwilight",
+		"raids": true,
+		"className": "card-raids card-raids-cataclysm",
+		"path": "#",
+		"cardImgClassName": "card-img-raids",
+		"cardImg": "/src/assets/img/raids/bg/cataclysm/Bastion-of-Twilight.jpg",
+		"titleClassName": "card-title-raids card-title-raids-cataclysm",
+		"title": "Сумеречный Бастион",
+		"descriptionClassName": "card-text-raids card-text-raids-cataclysm",
+		"description": "Закажите гарантированное прохождение рейда",
+		"spanClassname": "card-text-raids-cataclysm_color",
+		"priceClassName": "card-price-raids card-price-raids-cataclysm",
+		"price": 220
+	},
+
+	{
+		"id": "ThroneOfTheFourWinds",
+		"raids": true,
+		"className": "card-raids card-raids-cataclysm",
+		"path": "#",
+		"cardImgClassName": "card-img-raids",
+		"cardImg": "/src/assets/img/raids/bg/cataclysm/Throne-of-the-Four-Winds.jpg",
+		"titleClassName": "card-title-raids card-title-raids-cataclysm",
+		"title": "Трон Четырех Ветров",
+		"descriptionClassName": "card-text-raids card-text-raids-cataclysm",
+		"description": "Закажите гарантированное прохождение рейда",
+		"spanClassname": "card-text-raids-cataclysm_color",
+		"priceClassName": "card-price-raids card-price-raids-cataclysm",
+		"price": 220
+	},
+
+	{
+		"id": "Firelands",
+		"raids": true,
+		"className": "card-raids card-raids-cataclysm",
+		"path": "#",
+		"cardImgClassName": "card-img-raids",
+		"cardImg": "/src/assets/img/raids/bg/cataclysm/Firelands.jpg",
+		"titleClassName": "card-title-raids card-title-raids-cataclysm",
+		"title": "Огненные Просторы",
+		"descriptionClassName": "card-text-raids card-text-raids-cataclysm",
+		"description": "Закажите гарантированное прохождение рейда",
+		"spanClassname": "card-text-raids-cataclysm_color",
+		"priceClassName": "card-price-raids card-price-raids-cataclysm",
+		"price": 230
+	},
+
+	{
+		"id": "DragonSoul",
+		"raids": true,
+		"className": "card-raids card-raids-cataclysm",
+		"path": "#",
+		"cardImgClassName": "card-img-raids",
+		"cardImg": "/src/assets/img/raids/bg/cataclysm/Dragon-Soul.jpg",
+		"titleClassName": "card-title-raids card-title-raids-cataclysm",
+		"title": "Душа Дракона",
+		"descriptionClassName": "card-text-raids card-text-raids-cataclysm",
+		"description": "Закажите гарантированное прохождение рейда",
+		"spanClassname": "card-text-raids-cataclysm_color",
+		"priceClassName": "card-price-raids card-price-raids-cataclysm",
+		"price": 240
+	}
+]

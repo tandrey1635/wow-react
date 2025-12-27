@@ -1,0 +1,113 @@
+[
+	{
+		"id": "ZulGurub",
+		"raids": true,
+		"className": "card-raids card-raids-classic",
+		"path": "#",
+		"cardImgClassName": "card-img-raids",
+		"cardImg": "/src/assets/img/raids/bg/classic/ZulGurub.jpg",
+		"titleClassName": "card-title-raids card-title-raids-classic",
+		"title": "Зул'Гуруб",
+		"descriptionClassName": "card-text-raids card-text-raids-classic",
+		"description": "Закажите гарантированное прохождение рейда",
+		"spanClassname": "card-text-raids-classic_color",
+		"priceClassName": "card-price-raids card-price-raids-classic",
+		"price": 50
+	},
+
+	{
+		"id": "OnyxiasLair",
+		"raids": true,
+		"className": "card-raids card-raids-classic",
+		"path": "#",
+		"cardImgClassName": "card-img-raids",
+		"cardImg": "/src/assets/img/raids/bg/classic/Onyxias-Lair.jpg",
+		"titleClassName": "card-title-raids card-title-raids-classic",
+		"title": "Логово Ониксии Classic",
+		"descriptionClassName": "card-text-raids card-text-raids-classic",
+		"description": "Закажите гарантированное прохождение рейда",
+		"spanClassname": "card-text-raids-classic_color",
+		"priceClassName": "card-price-raids card-price-raids-classic",
+		"price": 50
+	},
+
+	{
+		"id": "MoltenCore",
+		"raids": true,
+		"className": "card-raids card-raids-classic",
+		"path": "#",
+		"cardImgClassName": "card-img-raids",
+		"cardImg": "/src/assets/img/raids/bg/classic/Molten-Core.jpg",
+		"titleClassName": "card-title-raids card-title-raids-classic",
+		"title": "Огненные Недра",
+		"descriptionClassName": "card-text-raids card-text-raids-classic",
+		"description": "Закажите гарантированное прохождение рейда",
+		"spanClassname": "card-text-raids-classic_color",
+		"priceClassName": "card-price-raids card-price-raids-classic",
+		"price": 60
+	},
+
+	{
+		"id": "RuinsOfAhnqiraj",
+		"raids": true,
+		"className": "card-raids card-raids-classic",
+		"path": "#",
+		"cardImgClassName": "card-img-raids",
+		"cardImg": "/src/assets/img/raids/bg/classic/Ruins-of-Ahnqiraj.jpg",
+		"titleClassName": "card-title-raids card-title-raids-classic",
+		"title": "Руины Ан'киража",
+		"descriptionClassName": "card-text-raids card-text-raids-classic",
+		"description": "Закажите гарантированное прохождение рейда",
+		"spanClassname": "card-text-raids-classic_color",
+		"priceClassName": "card-price-raids card-price-raids-classic",
+		"price": 60
+	},
+
+	{
+		"id": "BlackwingLair",
+		"raids": true,
+		"className": "card-raids card-raids-classic",
+		"path": "#",
+		"cardImgClassName": "card-img-raids",
+		"cardImg": "/src/assets/img/raids/bg/classic/Blackwing-Lair.jpg",
+		"titleClassName": "card-title-raids card-title-raids-classic",
+		"title": "Логово Крыла Тьмы",
+		"descriptionClassName": "card-text-raids card-text-raids-classic",
+		"description": "Закажите гарантированное прохождение рейда",
+		"spanClassname": "card-text-raids-classic_color",
+		"priceClassName": "card-price-raids card-price-raids-classic",
+		"price": 70
+	},
+
+	{
+		"id": "TempleOfAhnqiraj",
+		"raids": true,
+		"className": "card-raids card-raids-classic",
+		"path": "#",
+		"cardImgClassName": "card-img-raids",
+		"cardImg": "/src/assets/img/raids/bg/classic/Temple-of-Ahnqiraj.jpg",
+		"titleClassName": "card-title-raids card-title-raids-classic",
+		"title": "Храм Ан'киража",
+		"descriptionClassName": "card-text-raids card-text-raids-classic",
+		"description": "Закажите гарантированное прохождение рейда",
+		"spanClassname": "card-text-raids-classic_color",
+		"priceClassName": "card-price-raids card-price-raids-classic",
+		"price": 80
+	},
+
+	{
+		"id": "Naxxramas",
+		"raids": true,
+		"className": "card-raids card-raids-classic",
+		"path": "#",
+		"cardImgClassName": "card-img-raids",
+		"cardImg": "/src/assets/img/raids/bg/classic/Naxxramas.jpg",
+		"titleClassName": "card-title-raids card-title-raids-classic",
+		"title": "Наксрамас Classic",
+		"descriptionClassName": "card-text-raids card-text-raids-classic",
+		"description": "Закажите гарантированное прохождение рейда",
+		"spanClassname": "card-text-raids-classic_color",
+		"priceClassName": "card-price-raids card-price-raids-classic",
+		"price": 90
+	}
+]

@@ -1,0 +1,963 @@
+[
+	{
+		"id": "ScarletZealotsCloak",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Scarlet-Zealots-Cloak.png",
+		"titleClassName": "card-title-armours",
+		"title": "Плащ алого ревнителя",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Плащ алого ревнителя",
+		"priceClassName": "card-price-armours",
+		"price": 300
+	},
+
+	{
+		"id": "AdventurousLamplightersCloak",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Adventurous-Lamplighters-Cloak.png",
+		"titleClassName": "card-title-armours",
+		"title": "Плащ отважного фонарщика",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Плащ отважного фонарщика",
+		"priceClassName": "card-price-armours",
+		"price": 300
+	},
+
+	{
+		"id": "SacredShawlOfThePriory",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Sacred-Shawl-of-the-Priory.png",
+		"titleClassName": "card-title-armours",
+		"title": "Священная пелерина приората",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Священную пелерину приората",
+		"priceClassName": "card-price-armours",
+		"price": 300
+	},
+
+	{
+		"id": "HighPriestesssCeremonialDrape",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/High-Priestesss-Ceremonial-Drape.png",
+		"titleClassName": "card-title-armours",
+		"title": "Церемониальная пелерина верховной жрицы",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Церемониальную пелерину верховной жрицы",
+		"priceClassName": "card-price-armours",
+		"price": 300
+	},
+
+	{
+		"id": "MoonpriestsCloak",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Moonpriests-Cloak.png",
+		"titleClassName": "card-title-armours",
+		"title": "Плащ лунного жреца",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Плащ лунного жреца",
+		"priceClassName": "card-price-armours",
+		"price": 300
+	},
+
+	{
+		"id": "WinterbornGreatcloak",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Winterborn-Greatcloak.png",
+		"titleClassName": "card-title-armours",
+		"title": "Теплый плащ зиморожденного",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Теплый плащ зиморожденного",
+		"priceClassName": "card-price-armours",
+		"price": 300
+	},
+
+	{
+		"id": "FeatheredDrapeOfTheArchmage",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Feathered-Drape-of-the-Archmage.png",
+		"titleClassName": "card-title-armours",
+		"title": "Пернатый плащ верховного мага",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Пернатый плащ верховного мага",
+		"priceClassName": "card-price-armours",
+		"price": 300
+	},
+
+	{
+		"id": "DominantGladiatorsDrapeOfPiety",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Dominant-Gladiators-Drape-of-Piety.png",
+		"titleClassName": "card-title-armours",
+		"title": "Пелерина благочестия господствующего гладиатора",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Пелерину благочестия господствующего гладиатора",
+		"priceClassName": "card-price-armours",
+		"price": 300
+	},
+
+	{
+		"id": "DemonicGladiatorsDrapeOfPiety",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Demonic-Gladiators-Drape-of-Piety.png",
+		"titleClassName": "card-title-armours",
+		"title": "Пелерина благочестия демонического гладиатора",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Пелерину благочестия демонического гладиатора",
+		"priceClassName": "card-price-armours",
+		"price": 300
+	},
+
+	{
+		"id": "GildedSeraphsDrape",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Gilded-Seraphs-Drape.png",
+		"titleClassName": "card-title-armours",
+		"title": "Золотая пелерина серафима",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Золотую пелерину серафима",
+		"priceClassName": "card-price-armours",
+		"price": 300
+	},
+
+	{
+		"id": "FieryCloak",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Fiery-Cloak.png",
+		"titleClassName": "card-title-armours",
+		"title": "Огненный плащ",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Огненный плащ",
+		"priceClassName": "card-price-armours",
+		"price": 300
+	},
+
+	{
+		"id": "CloakOfTheDarkmoonFaire",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Cloak-of-the-Darkmoon-Faire.png",
+		"titleClassName": "card-title-armours",
+		"title": "Плащ ярмарки Новолуния",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Плащ ярмарки Новолуния",
+		"priceClassName": "card-price-armours",
+		"price": 300
+	},
+
+	{
+		"id": "ShroudOfOrgrimmar",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Shroud-of-Orgrimmar.png",
+		"titleClassName": "card-title-armours",
+		"title": "Накидка Оргриммара",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Накидку Оргриммара",
+		"priceClassName": "card-price-armours",
+		"price": 300
+	},
+
+	{
+		"id": "ShroudOfUndercity",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Shroud-of-Undercity.png",
+		"titleClassName": "card-title-armours",
+		"title": "Накидка Подгорода",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Накидку Подгорода",
+		"priceClassName": "card-price-armours",
+		"price": 300
+	},
+
+	{
+		"id": "ShroudOfSilvermoon",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Shroud-of-Silvermoon.png",
+		"titleClassName": "card-title-armours",
+		"title": "Накидка Луносвета",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Накидку Луносвета",
+		"priceClassName": "card-price-armours",
+		"price": 300
+	},
+
+	{
+		"id": "ShroudOfStormwind",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Shroud-of-Stormwind.png",
+		"titleClassName": "card-title-armours",
+		"title": "Накидка Штормграда",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Накидку Штормграда",
+		"priceClassName": "card-price-armours",
+		"price": 300
+	},
+
+	{
+		"id": "ShroudOfGilneas",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Shroud-of-Gilneas.png",
+		"titleClassName": "card-title-armours",
+		"title": "Накидка Гилнеаса",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Накидку Гилнеаса",
+		"priceClassName": "card-price-armours",
+		"price": 300
+	},
+
+	{
+		"id": "ShroudOfDarnassus",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Shroud-of-Darnassus.png",
+		"titleClassName": "card-title-armours",
+		"title": "Накидка Дарнаса",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Накидку Дарнаса",
+		"priceClassName": "card-price-armours",
+		"price": 300
+	},
+
+	{
+		"id": "DistinguishedWarcloak",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Distinguished-Warcloak.png",
+		"titleClassName": "card-title-armours",
+		"title": "Выдающийся боевой плащ",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Выдающийся боевой плащ",
+		"priceClassName": "card-price-armours",
+		"price": 300
+	},
+
+	{
+		"id": "DreadAspirantsGreatcloak",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Dread-Aspirants-Greatcloak.png",
+		"titleClassName": "card-title-armours",
+		"title": "Теплый плащ ужасающего претендента",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Теплый плащ ужасающего претендента",
+		"priceClassName": "card-price-armours",
+		"price": 300
+	},
+
+	{
+		"id": "RecruitsSturdyCloak",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Recruits-Sturdy-Cloak.png",
+		"titleClassName": "card-title-armours",
+		"title": "Прочный плащ новобранца",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Прочный плащ новобранца",
+		"priceClassName": "card-price-armours",
+		"price": 300
+	},
+
+	{
+		"id": "7thLegionnairesCape",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/7th-Legionnaires-Cape.png",
+		"titleClassName": "card-title-armours",
+		"title": "Мантия 7-го легиона",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Мантию 7-го легиона",
+		"priceClassName": "card-price-armours",
+		"price": 300
+	},
+
+	{
+		"id": "WrapOfRagingTempestsGreen",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Wrap-of-Raging-Tempests-green.png",
+		"titleClassName": "card-title-armours",
+		"title": "Пелерина яростных бурь",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Пелерину яростных бурь",
+		"priceClassName": "card-price-armours",
+		"price": 300
+	},
+
+	{
+		"id": "WrapOfRagingTempestsBlue",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Wrap-of-Raging-Tempests-blue.png",
+		"titleClassName": "card-title-armours",
+		"title": "Пелерина яростных бурь",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Пелерину яростных бурь",
+		"priceClassName": "card-price-armours",
+		"price": 300
+	},
+
+	{
+		"id": "DrapeOfForebodingMists",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Drape-of-Foreboding-Mists.png",
+		"titleClassName": "card-title-armours",
+		"title": "Пелерина гнетущих туманов",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Пелерину гнетущих туманов",
+		"priceClassName": "card-price-armours",
+		"price": 300
+	},
+
+	{
+		"id": "ShadowmoonDestroyersDrape",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Shadowmoon-Destroyers-Drape.png",
+		"titleClassName": "card-title-armours",
+		"title": "Пелерина разрушителя из клана призрачной луны",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Пелерину разрушителя из клана призрачной луны",
+		"priceClassName": "card-price-armours",
+		"price": 300
+	},
+
+	{
+		"id": "RoyalCloakOfTheSunstriders",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Royal-Cloak-of-the-Sunstriders.png",
+		"titleClassName": "card-title-armours",
+		"title": "Королевский плащ Солнечных Скитальцев",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Королевский плащ Солнечных Скитальцев",
+		"priceClassName": "card-price-armours",
+		"price": 300
+	},
+
+	{
+		"id": "SindoreiAssassinsShroud",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Sindorei-Assassins-Shroud.png",
+		"titleClassName": "card-title-armours",
+		"title": "Покров син'дорай убийцы",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Покров син'дорай убийцы",
+		"priceClassName": "card-price-armours",
+		"price": 300
+	},
+
+	{
+		"id": "DrapeOfTheSullenGoddess",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Drape-of-the-Sullen-Goddess.png",
+		"titleClassName": "card-title-armours",
+		"title": "Пелерина угрюмой богини",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Пелерину угрюмой богини",
+		"priceClassName": "card-price-armours",
+		"price": 300
+	},
+
+	{
+		"id": "ShawlOfHauntedMemories",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Shawl-of-Haunted-Memories.png",
+		"titleClassName": "card-title-armours",
+		"title": "Шаль мучительных воспоминаний",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Шаль мучительных воспоминаний",
+		"priceClassName": "card-price-armours",
+		"price": 300
+	},
+
+	{
+		"id": "MagistersJeweledDrape",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Magisters-Jeweled-Drape.png",
+		"titleClassName": "card-title-armours",
+		"title": "Пелерина магистра с каменьями",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Пелерину магистра с каменьями",
+		"priceClassName": "card-price-armours",
+		"price": 300
+	},
+
+	{
+		"id": "DrapeOfTheSunreavers",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Drape-of-the-Sunreavers.png",
+		"titleClassName": "card-title-armours",
+		"title": "Пелерина Похитителей Солнца",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Пелерину Похитителей Солнца",
+		"priceClassName": "card-price-armours",
+		"price": 300
+	},
+
+	{
+		"id": "PermafrostCape",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Permafrost-Cape.png",
+		"titleClassName": "card-title-armours",
+		"title": "Накидка вечной мерзлоты",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Накидку вечной мерзлоты",
+		"priceClassName": "card-price-armours",
+		"price": 300
+	},
+
+	{
+		"id": "EmeraldDrape",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Emerald-Drape.png",
+		"titleClassName": "card-title-armours",
+		"title": "Изумрудная пелерина",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Изумрудную пелерину",
+		"priceClassName": "card-price-armours",
+		"price": 300
+	},
+
+	{
+		"id": "CloudburstCloak",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Cloudburst-Cloak.png",
+		"titleClassName": "card-title-armours",
+		"title": "Плащ грозовой сферы",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Плащ грозовой сферы",
+		"priceClassName": "card-price-armours",
+		"price": 300
+	},
+
+	{
+		"id": "WanderersCrimsonCloak",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Wanderers-Crimson-Cloak.png",
+		"titleClassName": "card-title-armours",
+		"title": "Багровый плащ скитальца",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Багровый плащ скитальца",
+		"priceClassName": "card-price-armours",
+		"price": 300
+	},
+
+	{
+		"id": "WanderersCarrotCloak",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Wanderers-Carrot-Cloak.png",
+		"titleClassName": "card-title-armours",
+		"title": "Морковный плащ скитальца",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Морковный плащ скитальца",
+		"priceClassName": "card-price-armours",
+		"price": 300
+	},
+
+	{
+		"id": "WanderersSunnyCloak",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Wanderers-Sunny-Cloak.png",
+		"titleClassName": "card-title-armours",
+		"title": "Солнечный плащ скитальца",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Солнечный плащ скитальца",
+		"priceClassName": "card-price-armours",
+		"price": 300
+	},
+
+	{
+		"id": "WanderersLivelyCloak",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Wanderers-Lively-Cloak.png",
+		"titleClassName": "card-title-armours",
+		"title": "Яркий плащ скитальца",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Яркий плащ скитальца",
+		"priceClassName": "card-price-armours",
+		"price": 300
+	},
+
+	{
+		"id": "WanderersAquaticCloak",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Wanderers-Aquatic-Cloak.png",
+		"titleClassName": "card-title-armours",
+		"title": "Водный плащ скитальца",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Водный плащ скитальца",
+		"priceClassName": "card-price-armours",
+		"price": 300
+	},
+
+	{
+		"id": "WanderersAzureCloak",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Wanderers-Azure-Cloak.png",
+		"titleClassName": "card-title-armours",
+		"title": "Лазурный плащ скитальца",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Лазурный плащ скитальца",
+		"priceClassName": "card-price-armours",
+		"price": 300
+	},
+
+	{
+		"id": "WanderersVioletCloak",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Wanderers-Violet-Cloak.png",
+		"titleClassName": "card-title-armours",
+		"title": "Лиловый плащ скитальца",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Лиловый плащ скитальца",
+		"priceClassName": "card-price-armours",
+		"price": 300
+	},
+
+	{
+		"id": "WanderersSepiaCloak",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Wanderers-Sepia-Cloak.png",
+		"titleClassName": "card-title-armours",
+		"title": "Светло-бурый плащ скитальца",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Светло-бурый плащ скитальца",
+		"priceClassName": "card-price-armours",
+		"price": 300
+	},
+
+	{
+		"id": "WanderersRosyCloak",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Wanderers-Rosy-Cloak.png",
+		"titleClassName": "card-title-armours",
+		"title": "Розовый плащ скитальца",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Розовый плащ скитальца",
+		"priceClassName": "card-price-armours",
+		"price": 300
+	},
+
+	{
+		"id": "WanderersSnowyCloak",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Wanderers-Snowy-Cloak.png",
+		"titleClassName": "card-title-armours",
+		"title": "Заснеженный плащ скитальца",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Заснеженный плащ скитальца",
+		"priceClassName": "card-price-armours",
+		"price": 300
+	},
+
+	{
+		"id": "TigerclawCape",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Tigerclaw-Cape.png",
+		"titleClassName": "card-title-armours",
+		"title": "Плащ тигриного когтя",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Плащ тигриного когтя",
+		"priceClassName": "card-price-armours",
+		"price": 300
+	},
+
+	{
+		"id": "OxhoofGreatcloak",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Oxhoof-Greatcloak.png",
+		"titleClassName": "card-title-armours",
+		"title": "Теплый плащ неистового быка",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Теплый плащ неистового быка",
+		"priceClassName": "card-price-armours",
+		"price": 300
+	},
+
+	{
+		"id": "JadefireDrape",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Jadefire-Drape.png",
+		"titleClassName": "card-title-armours",
+		"title": "Пелерина нефритового пламени",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Пелерину нефритового пламени",
+		"priceClassName": "card-price-armours",
+		"price": 300
+	},
+
+	{
+		"id": "CranewingCloak",
+		"className": "card-armours",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Cranewing-Cloak.png",
+		"titleClassName": "card-title-armours",
+		"title": "Плащ журавлиного крыла",
+		"descriptionClassName": "card-text-armours",
+		"description": "Закажите Плащ журавлиного крыла",
+		"priceClassName": "card-price-armours",
+		"price": 300
+	},
+
+	{
+		"id": "FenYuFuryOfXuen",
+		"className": "card-armours card-armours-legendary",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/FenYu-Fury-of-Xuen.png",
+		"titleClassName": "card-title-armours card-title-armours-legendary",
+		"title": "Фэнь-Ю, Гнев Сюэня",
+		"descriptionClassName": "card-text-armours card-text-armours-legendary",
+		"description": "Закажите Фэнь-Ю, Гнев Сюэня",
+		"priceClassName": "card-price-armours card-price-armours-legendary",
+		"price": 500
+	},
+
+	{
+		"id": "QianYingFortitudeOfNiuzao",
+		"className": "card-armours card-armours-legendary",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/QianYing-Fortitude-of-Niuzao.png",
+		"titleClassName": "card-title-armours card-title-armours-legendary",
+		"title": "Сянь-Ин, Стойкость Нюцзао",
+		"descriptionClassName": "card-text-armours card-text-armours-legendary",
+		"description": "Закажите Сянь-Ин, Стойкость Нюцзао",
+		"priceClassName": "card-price-armours card-price-armours-legendary",
+		"price": 500
+	},
+
+	{
+		"id": "XingHoBreathOfYulon",
+		"className": "card-armours card-armours-legendary",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/XingHo-Breath-of-Yulon.png",
+		"titleClassName": "card-title-armours card-title-armours-legendary",
+		"title": "Син-Хо, Дыхание Юй-лун",
+		"descriptionClassName": "card-text-armours card-text-armours-legendary",
+		"description": "Закажите Син-Хо, Дыхание Юй-лун",
+		"priceClassName": "card-price-armours card-price-armours-legendary",
+		"price": 500
+	},
+
+	{
+		"id": "JinaKangKindnessOfChiJi",
+		"className": "card-armours card-armours-legendary",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Jina-Kang-Kindness-of-Chi-Ji.png",
+		"titleClassName": "card-title-armours card-title-armours-legendary",
+		"title": "Цзина-Кан, Доброта Чи-Цзи",
+		"descriptionClassName": "card-text-armours card-text-armours-legendary",
+		"description": "Закажите Цзина-Кан, Доброта Чи-Цзи",
+		"priceClassName": "card-price-armours card-price-armours-legendary",
+		"price": 500
+	},
+
+	{
+		"id": "KazzalaxFujiedasFury",
+		"className": "card-armours card-armours-legendary",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Kazzalax-Fujiedas-Fury.png",
+		"titleClassName": "card-title-armours card-title-armours-legendary",
+		"title": "Каззалакс, ярость Фудзиэды",
+		"descriptionClassName": "card-text-armours card-text-armours-legendary",
+		"description": "Закажите Каззалакс, ярость Фудзиэды",
+		"priceClassName": "card-price-armours card-price-armours-legendary",
+		"price": 500
+	},
+
+	{
+		"id": "RadiantMoonlight",
+		"className": "card-armours card-armours-legendary",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Radiant-Moonlight.png",
+		"titleClassName": "card-title-armours card-title-armours-legendary",
+		"title": "Сияющий лунный свет",
+		"descriptionClassName": "card-text-armours card-text-armours-legendary",
+		"description": "Закажите Сияющий лунный свет",
+		"priceClassName": "card-price-armours card-price-armours-legendary",
+		"price": 500
+	},
+
+	{
+		"id": "FuryOfNature",
+		"className": "card-armours card-armours-legendary",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Fury-of-Nature.png",
+		"titleClassName": "card-title-armours card-title-armours-legendary",
+		"title": "Неистовость природы",
+		"descriptionClassName": "card-text-armours card-text-armours-legendary",
+		"description": "Закажите Неистовость природы",
+		"priceClassName": "card-price-armours card-price-armours-legendary",
+		"price": 500
+	},
+
+	{
+		"id": "XanshiShroudOfArchbishopBenedictus",
+		"className": "card-armours card-armours-legendary",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Xanshi-Shroud-of-Archbishop-Benedictus.png",
+		"titleClassName": "card-title-armours card-title-armours-legendary",
+		"title": "Кс'анши, накидка архиепископа Бенедикта",
+		"descriptionClassName": "card-text-armours card-text-armours-legendary",
+		"description": "Закажите Кс'анши, накидку архиепископа Бенедикта",
+		"priceClassName": "card-price-armours card-price-armours-legendary",
+		"price": 500
+	},
+
+	{
+		"id": "ZeksExterminatus",
+		"className": "card-armours card-armours-legendary",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Zeks-Exterminatus.png",
+		"titleClassName": "card-title-armours card-title-armours-legendary",
+		"title": "Экстерминатус Зека",
+		"descriptionClassName": "card-text-armours card-text-armours-legendary",
+		"description": "Закажите Экстерминатус Зека",
+		"priceClassName": "card-price-armours card-price-armours-legendary",
+		"price": 500
+	},
+
+	{
+		"id": "DoorwayToNowhere",
+		"className": "card-armours card-armours-legendary",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Doorway-to-Nowhere.png",
+		"titleClassName": "card-title-armours card-title-armours-legendary",
+		"title": "Путь в никуда",
+		"descriptionClassName": "card-text-armours card-text-armours-legendary",
+		"description": "Закажите Путь в никуда",
+		"priceClassName": "card-price-armours card-price-armours-legendary",
+		"price": 500
+	},
+
+	{
+		"id": "CenedrilReflectorOfHatred",
+		"className": "card-armours card-armours-legendary",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Cenedril-Reflector-of-Hatred.png",
+		"titleClassName": "card-title-armours card-title-armours-legendary",
+		"title": "Сенедрил, Отражатель Ненависти",
+		"descriptionClassName": "card-text-armours card-text-armours-legendary",
+		"description": "Закажите Сенедрил, Отражатель Ненависти",
+		"priceClassName": "card-price-armours card-price-armours-legendary",
+		"price": 500
+	},
+
+	{
+		"id": "UnseenPredatorsCloak",
+		"className": "card-armours card-armours-legendary",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Unseen-Predators-Cloak.png",
+		"titleClassName": "card-title-armours card-title-armours-legendary",
+		"title": "Плащ невидимого хищника",
+		"descriptionClassName": "card-text-armours card-text-armours-legendary",
+		"description": "Закажите Плащ невидимого хищника",
+		"priceClassName": "card-price-armours card-price-armours-legendary",
+		"price": 500
+	},
+
+	{
+		"id": "CelerityOfTheWindrunners",
+		"className": "card-armours card-armours-legendary",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Celerity-of-the-Windrunners.png",
+		"titleClassName": "card-title-armours card-title-armours-legendary",
+		"title": "Проворство Ветрокрылых",
+		"descriptionClassName": "card-text-armours card-text-armours-legendary",
+		"description": "Закажите Проворство Ветрокрылых",
+		"priceClassName": "card-price-armours card-price-armours-legendary",
+		"price": 500
+	},
+
+	{
+		"id": "CloakOfFelFlames",
+		"className": "card-armours card-armours-legendary",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Cloak-of-Fel-Flames.png",
+		"titleClassName": "card-title-armours card-title-armours-legendary",
+		"title": "Плащ пламени Скверны",
+		"descriptionClassName": "card-text-armours card-text-armours-legendary",
+		"description": "Закажите Плащ пламени Скверны",
+		"priceClassName": "card-price-armours card-price-armours-legendary",
+		"price": 500
+	},
+
+	{
+		"id": "ChaosTheory",
+		"className": "card-armours card-armours-legendary",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Chaos-Theory.png",
+		"titleClassName": "card-title-armours card-title-armours-legendary",
+		"title": "Теория хаоса",
+		"descriptionClassName": "card-text-armours card-text-armours-legendary",
+		"description": "Закажите Теорию хаоса",
+		"priceClassName": "card-price-armours card-price-armours-legendary",
+		"price": 500
+	},
+
+	{
+		"id": "MaraadsDyingBreath",
+		"className": "card-armours card-armours-legendary",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Maraads-Dying-Breath.png",
+		"titleClassName": "card-title-armours card-title-armours-legendary",
+		"title": "Предсмертный вздох Мараада",
+		"descriptionClassName": "card-text-armours card-text-armours-legendary",
+		"description": "Закажите Предсмертный вздох Мараада",
+		"priceClassName": "card-price-armours card-price-armours-legendary",
+		"price": 500
+	},
+
+	{
+		"id": "WhisperOfTheNathrezim",
+		"className": "card-armours card-armours-legendary",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Whisper-of-the-Nathrezim.png",
+		"titleClassName": "card-title-armours card-title-armours-legendary",
+		"title": "Шепот натрезимов",
+		"descriptionClassName": "card-text-armours card-text-armours-legendary",
+		"description": "Закажите Шепот натрезимов",
+		"priceClassName": "card-price-armours card-price-armours-legendary",
+		"price": 500
+	},
+
+	{
+		"id": "DreadlordsDeceit",
+		"className": "card-armours card-armours-legendary",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Dreadlords-Deceit.png",
+		"titleClassName": "card-title-armours card-title-armours-legendary",
+		"title": "Уловка повелителя ужаса",
+		"descriptionClassName": "card-text-armours card-text-armours-legendary",
+		"description": "Закажите Уловку повелителя ужаса",
+		"priceClassName": "card-price-armours card-price-armours-legendary",
+		"price": 500
+	},
+
+	{
+		"id": "CurseOfRestlessness",
+		"className": "card-armours card-armours-legendary",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Curse-of-Restlessness.png",
+		"titleClassName": "card-title-armours card-title-armours-legendary",
+		"title": "Проклятие беспокойства",
+		"descriptionClassName": "card-text-armours card-text-armours-legendary",
+		"description": "Закажите Проклятие беспокойства",
+		"priceClassName": "card-price-armours card-price-armours-legendary",
+		"price": 500
+	},
+
+	{
+		"id": "AcherusDrapes",
+		"className": "card-armours card-armours-legendary",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Acherus-Drapes.png",
+		"titleClassName": "card-title-armours card-title-armours-legendary",
+		"title": "Пелерина Акеруса",
+		"descriptionClassName": "card-text-armours card-text-armours-legendary",
+		"description": "Закажите Пелерину Акеруса",
+		"priceClassName": "card-price-armours card-price-armours-legendary",
+		"price": 500
+	},
+
+	{
+		"id": "OdrShawlOfTheYmirjar",
+		"className": "card-armours card-armours-legendary",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Odr-Shawl-of-the-Ymirjar.png",
+		"titleClassName": "card-title-armours card-title-armours-legendary",
+		"title": "Одр, шаль имирьяров",
+		"descriptionClassName": "card-text-armours card-text-armours-legendary",
+		"description": "Закажите Одр, шаль имирьяров",
+		"priceClassName": "card-price-armours card-price-armours-legendary",
+		"price": 500
+	},
+
+	{
+		"id": "ReapAndSow",
+		"className": "card-armours card-armours-legendary",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Reap-and-Sow.png",
+		"titleClassName": "card-title-armours card-title-armours-legendary",
+		"title": "Посев и жатва",
+		"descriptionClassName": "card-text-armours card-text-armours-legendary",
+		"description": "Закажите Посев и жатву",
+		"priceClassName": "card-price-armours card-price-armours-legendary",
+		"price": 500
+	},
+
+	{
+		"id": "AshjrakamasShroudOfResolve",
+		"className": "card-armours card-armours-legendary",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Ashjrakamas-Shroud-of-Resolve.png",
+		"titleClassName": "card-title-armours card-title-armours-legendary",
+		"title": "Ашжра'камас, Покров Решимости",
+		"descriptionClassName": "card-text-armours card-text-armours-legendary",
+		"description": "Закажите Ашжра'камас, Покров Решимости",
+		"priceClassName": "card-price-armours card-price-armours-legendary",
+		"price": 500
+	},
+
+	{
+		"id": "ReshiiWraps",
+		"className": "card-armours card-armours-artifact",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Reshii-Wraps.png",
+		"titleClassName": "card-title-armours card-title-armours-artifact",
+		"title": "Повязки реши",
+		"descriptionClassName": "card-text-armours card-text-armours-artifact",
+		"description": "Закажите Повязки реши",
+		"priceClassName": "card-price-armours card-price-armours-artifact",
+		"price": 1000
+	},
+
+	{
+		"id": "CloakOfInfinitePotential",
+		"className": "card-armours card-armours-artifact",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Cloak-of-Infinite-Potential.png",
+		"titleClassName": "card-title-armours card-title-armours-artifact",
+		"title": "Плащ бесконечных возможностей",
+		"descriptionClassName": "card-text-armours card-text-armours-artifact",
+		"description": "Закажите Плащ бесконечных возможностей",
+		"priceClassName": "card-price-armours card-price-armours-artifact",
+		"price": 1000
+	}
+]

@@ -1,0 +1,40 @@
+[
+	{
+		"id": "Blood",
+		"className": "card-death-knight",
+		"path": "#",
+		"cardImg": "/src/assets/img/promo/bg/classes/death-knight/Blood.jpg",
+		"titleClassName": "card-title-death-knight",
+		"title": "Кровь",
+		"descriptionClassName": "card-text-death-knight",
+		"description": "Закажите артефакты для Рыцаря смерти Крови",
+		"priceClassName": "card-price-death-knight",
+		"price": 800
+	},
+
+	{
+		"id": "Frost",
+		"className": "card-death-knight",
+		"path": "#",
+		"cardImg": "/src/assets/img/promo/bg/classes/death-knight/Frost.jpg",
+		"titleClassName": "card-title-death-knight",
+		"title": "Лед",
+		"descriptionClassName": "card-text-death-knight",
+		"description": "Закажите артефакты для Рыцаря смерти Льда",
+		"priceClassName": "card-price-death-knight",
+		"price": 800
+	},
+
+	{
+		"id": "Unholy",
+		"className": "card-death-knight",
+		"path": "#",
+		"cardImg": "/src/assets/img/promo/bg/classes/death-knight/Unholy.jpg",
+		"titleClassName": "card-title-death-knight",
+		"title": "Нечестивость",
+		"descriptionClassName": "card-text-death-knight",
+		"description": "Закажите артефакты для Рыцаря смерти Нечестивости",
+		"priceClassName": "card-price-death-knight",
+		"price": 800
+	}
+]

@@ -1,0 +1,145 @@
+[
+	{
+		"id": "Karazhan",
+		"raids": true,
+		"className": "card-raids card-raids-burning-crusade",
+		"path": "#",
+		"cardImgClassName": "card-img-raids",
+		"cardImg": "/src/assets/img/raids/bg/burning-crusade/Karazhan.jpg",
+		"titleClassName": "card-title-raids card-title-raids-burning-crusade",
+		"title": "Каражан",
+		"descriptionClassName": "card-text-raids card-text-raids-burning-crusade",
+		"description": "Закажите гарантированное прохождение рейда",
+		"spanClassname": "card-text-raids-burning-crusade_color",
+		"priceClassName": "card-price-raids card-price-raids-burning-crusade",
+		"price": 100
+	},
+
+	{
+		"id": "GruulsLair",
+		"raids": true,
+		"className": "card-raids card-raids-burning-crusade",
+		"path": "#",
+		"cardImgClassName": "card-img-raids",
+		"cardImg": "/src/assets/img/raids/bg/burning-crusade/Gruuls-Lair.jpg",
+		"titleClassName": "card-title-raids card-title-raids-burning-crusade",
+		"title": "Логово Груула",
+		"descriptionClassName": "card-text-raids card-text-raids-burning-crusade",
+		"description": "Закажите гарантированное прохождение рейда",
+		"spanClassname": "card-text-raids-burning-crusade_color",
+		"priceClassName": "card-price-raids card-price-raids-burning-crusade",
+		"price": 100
+	},
+
+	{
+		"id": "MagtheridonsLair",
+		"raids": true,
+		"className": "card-raids card-raids-burning-crusade",
+		"path": "#",
+		"cardImgClassName": "card-img-raids",
+		"cardImg": "/src/assets/img/raids/bg/burning-crusade/Magtheridons-Lair.jpg",
+		"titleClassName": "card-title-raids card-title-raids-burning-crusade",
+		"title": "Логово Магтеридона",
+		"descriptionClassName": "card-text-raids card-text-raids-burning-crusade",
+		"description": "Закажите гарантированное прохождение рейда",
+		"spanClassname": "card-text-raids-burning-crusade_color",
+		"priceClassName": "card-price-raids card-price-raids-burning-crusade",
+		"price": 100
+	},
+
+	{
+		"id": "SerpentshrineCavern",
+		"raids": true,
+		"className": "card-raids card-raids-burning-crusade",
+		"path": "#",
+		"cardImgClassName": "card-img-raids",
+		"cardImg": "/src/assets/img/raids/bg/burning-crusade/Serpentshrine-Cavern.jpg",
+		"titleClassName": "card-title-raids card-title-raids-burning-crusade",
+		"title": "Змеиное Святилище",
+		"descriptionClassName": "card-text-raids card-text-raids-burning-crusade",
+		"description": "Закажите гарантированное прохождение рейда",
+		"spanClassname": "card-text-raids-burning-crusade_color",
+		"priceClassName": "card-price-raids card-price-raids-burning-crusade",
+		"price": 120
+	},
+
+	{
+		"id": "TempestKeep",
+		"raids": true,
+		"className": "card-raids card-raids-burning-crusade",
+		"path": "#",
+		"cardImgClassName": "card-img-raids",
+		"cardImg": "/src/assets/img/raids/bg/burning-crusade/Tempest-Keep.jpg",
+		"titleClassName": "card-title-raids card-title-raids-burning-crusade",
+		"title": "Крепость Бурь",
+		"descriptionClassName": "card-text-raids card-text-raids-burning-crusade",
+		"description": "Закажите гарантированное прохождение рейда",
+		"spanClassname": "card-text-raids-burning-crusade_color",
+		"priceClassName": "card-price-raids card-price-raids-burning-crusade",
+		"price": 120
+	},
+
+	{
+		"id": "HyjalSummit",
+		"raids": true,
+		"className": "card-raids card-raids-burning-crusade",
+		"path": "#",
+		"cardImgClassName": "card-img-raids",
+		"cardImg": "/src/assets/img/raids/bg/burning-crusade/Hyjal-Summit.jpg",
+		"titleClassName": "card-title-raids card-title-raids-burning-crusade",
+		"title": "Вершина Хиджала",
+		"descriptionClassName": "card-text-raids card-text-raids-burning-crusade",
+		"description": "Закажите гарантированное прохождение рейда",
+		"spanClassname": "card-text-raids-burning-crusade_color",
+		"priceClassName": "card-price-raids card-price-raids-burning-crusade",
+		"price": 130
+	},
+
+	{
+		"id": "BlackTemple",
+		"raids": true,
+		"className": "card-raids card-raids-burning-crusade",
+		"path": "#",
+		"cardImgClassName": "card-img-raids",
+		"cardImg": "/src/assets/img/raids/bg/burning-crusade/Black-Temple.jpg",
+		"titleClassName": "card-title-raids card-title-raids-burning-crusade",
+		"title": "Черный Храм",
+		"descriptionClassName": "card-text-raids card-text-raids-burning-crusade",
+		"description": "Закажите гарантированное прохождение рейда",
+		"spanClassname": "card-text-raids-burning-crusade_color",
+		"priceClassName": "card-price-raids card-price-raids-burning-crusade",
+		"price": 130
+	},
+
+	{
+		"id": "ZulAman",
+		"raids": true,
+		"className": "card-raids card-raids-burning-crusade",
+		"path": "#",
+		"cardImgClassName": "card-img-raids",
+		"cardImg": "/src/assets/img/raids/bg/burning-crusade/ZulAman.jpg",
+		"titleClassName": "card-title-raids card-title-raids-burning-crusade",
+		"title": "Зул'Аман",
+		"descriptionClassName": "card-text-raids card-text-raids-burning-crusade",
+		"description": "Закажите гарантированное прохождение рейда",
+		"spanClassname": "card-text-raids-burning-crusade_color",
+		"priceClassName": "card-price-raids card-price-raids-burning-crusade",
+		"price": 130
+	},
+
+	{
+		"id": "SunwellPlateau",
+		"raids": true,
+		"className": "card-raids card-raids-burning-crusade",
+		"path": "#",
+		"cardImgClassName": "card-img-raids",
+		"cardImg": "/src/assets/img/raids/bg/burning-crusade/Sunwell-Plateau.jpg",
+		"titleClassName": "card-title-raids card-title-raids-burning-crusade",
+		"title": "Плато Солнечного Колодца",
+		"descriptionClassName": "card-text-raids card-text-raids-burning-crusade",
+		"description": "Закажите гарантированное прохождение рейда",
+		"spanClassname": "card-text-raids-burning-crusade_color",
+		"priceClassName": "card-price-raids card-price-raids-burning-crusade",
+		"price": 140
+	}
+]

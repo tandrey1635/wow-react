@@ -1,0 +1,49 @@
+[
+	{
+		"id": "CastleNathria",
+		"raids": true,
+		"className": "card-raids card-raids-shadowlands",
+		"path": "#",
+		"cardImgClassName": "card-img-raids",
+		"cardImg": "/src/assets/img/raids/bg/shadowlands/Castle-Nathria.jpg",
+		"titleClassName": "card-title-raids card-title-raids-shadowlands",
+		"title": "Замок Нафрия",
+		"descriptionClassName": "card-text-raids card-text-raids-shadowlands",
+		"description": "Закажите гарантированное прохождение рейда",
+		"spanClassname": "card-text-raids-shadowlands_color",
+		"priceClassName": "card-price-raids card-price-raids-shadowlands",
+		"price": 450
+	},
+
+	{
+		"id": "SanctumOfDomination",
+		"raids": true,
+		"className": "card-raids card-raids-shadowlands",
+		"path": "#",
+		"cardImgClassName": "card-img-raids",
+		"cardImg": "/src/assets/img/raids/bg/shadowlands/Sanctum-of-Domination.jpg",
+		"titleClassName": "card-title-raids card-title-raids-shadowlands",
+		"title": "Святилище Господства",
+		"descriptionClassName": "card-text-raids card-text-raids-shadowlands",
+		"description": "Закажите гарантированное прохождение рейда",
+		"spanClassname": "card-text-raids-shadowlands_color",
+		"priceClassName": "card-price-raids card-price-raids-shadowlands",
+		"price": 470
+	},
+
+	{
+		"id": "SepulcherOfTheFirstOnes",
+		"raids": true,
+		"className": "card-raids card-raids-shadowlands",
+		"path": "#",
+		"cardImgClassName": "card-img-raids",
+		"cardImg": "/src/assets/img/raids/bg/shadowlands/Sepulcher-of-the-First-Ones.jpg",
+		"titleClassName": "card-title-raids card-title-raids-shadowlands",
+		"title": "Гробница Предвечных",
+		"descriptionClassName": "card-text-raids card-text-raids-shadowlands",
+		"description": "Закажите гарантированное прохождение рейда",
+		"spanClassname": "card-text-raids-shadowlands_color",
+		"priceClassName": "card-price-raids card-price-raids-shadowlands",
+		"price": 490
+	}
+]

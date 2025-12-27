@@ -1,0 +1,40 @@
+[
+	{
+		"id": "Holy",
+		"className": "card-paladin",
+		"path": "#",
+		"cardImg": "/src/assets/img/promo/bg/classes/paladin/Holy.jpg",
+		"titleClassName": "card-title-paladin",
+		"title": "Свет ",
+		"descriptionClassName": "card-text-paladin",
+		"description": "Закажите артефакты для Паладина Света",
+		"priceClassName": "card-price-paladin",
+		"price": 800
+	},
+
+	{
+		"id": "Protection",
+		"className": "card-paladin",
+		"path": "#",
+		"cardImg": "/src/assets/img/promo/bg/classes/paladin/Protection.jpg",
+		"titleClassName": "card-title-paladin",
+		"title": "Защита",
+		"descriptionClassName": "card-text-paladin",
+		"description": "Закажите артефакты для Паладина Защиты",
+		"priceClassName": "card-price-paladin",
+		"price": 800
+	},
+
+	{
+		"id": "Retribution",
+		"className": "card-paladin",
+		"path": "#",
+		"cardImg": "/src/assets/img/promo/bg/classes/paladin/Retribution.jpg",
+		"titleClassName": "card-title-paladin",
+		"title": "Воздаяние",
+		"descriptionClassName": "card-text-paladin",
+		"description": "Закажите артефакты для Паладина Воздаяния",
+		"priceClassName": "card-price-paladin",
+		"price": 800
+	}
+]

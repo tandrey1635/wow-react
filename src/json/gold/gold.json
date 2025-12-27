@@ -1,0 +1,29 @@
+[
+	{
+		"id": "gold-horde",
+		"gold": true,
+		"className": "card-gold card-gold-horde",
+		"path": "gold/horde",
+		"cardImg": "/src/assets/img/promo/bg/gold/horde.png",
+		"titleClassName": "card-title-gold card-title-gold-horde",
+		"title": "Орда",
+		"descriptionClassName": "card-text-gold card-text-gold-horde",
+		"description": "Золото для игроков Орды. Любой сервер. За Орду!",
+		"priceClassName": "card-price-gold card-price-gold-horde",
+		"price": 1000
+	},
+
+	{
+		"id": "gold-alliance",
+		"gold": true,
+		"className": "card-gold card-gold-alliance",
+		"path": "gold/alliance",
+		"cardImg": "/src/assets/img/promo/bg/gold/alliance.png",
+		"titleClassName": "card-title-gold card-title-gold-alliance",
+		"title": "Альянс",
+		"descriptionClassName": "card-text-gold card-text-gold-alliance",
+		"description": "Золото для игроков Альянса. Любой сервер. За Альянс!",
+		"priceClassName": "card-price-gold card-price-gold-alliance",
+		"price": 1000
+	}
+]

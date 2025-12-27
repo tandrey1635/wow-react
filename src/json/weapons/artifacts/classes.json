@@ -1,0 +1,157 @@
+[
+	{
+		"id": "warrior",
+		"className": "card-warrior",
+		"path": "warrior",
+		"cardImg": "/src/assets/img/promo/bg/classes/Garrosh-Hellscrim.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Воин",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Артефакты для Воина",
+		"priceClassName": "card-price-warrior",
+		"price": 800
+	},
+
+	{
+		"id": "druid",
+		"className": "card-druid",
+		"path": "druid",
+		"cardImg": "/src/assets/img/promo/bg/classes/Malfurion.png",
+		"titleClassName": "card-title-druid",
+		"title": "Друид",
+		"descriptionClassName": "card-text-druid",
+		"description": "Артефакты для Друида",
+		"priceClassName": "card-price-druid",
+		"price": 800
+	},
+
+	{
+		"id": "priest",
+		"className": "card-priest",
+		"path": "priest",
+		"cardImg": "/src/assets/img/promo/bg/classes/Velen.png",
+		"titleClassName": "card-title-priest",
+		"title": "Жрец",
+		"descriptionClassName": "card-text-priest",
+		"description": "Артефакты для Жреца",
+		"priceClassName": "card-price-priest",
+		"price": 800
+	},
+
+	{
+		"id": "mage",
+		"className": "card-mage",
+		"path": "mage",
+		"cardImg": "/src/assets/img/promo/bg/classes/Djaina-Proudmoure.png",
+		"titleClassName": "card-title-mage",
+		"title": "Маг",
+		"descriptionClassName": "card-text-mage",
+		"description": "Артефакты для Мага",
+		"priceClassName": "card-price-mage",
+		"price": 800
+	},
+
+	{
+		"id": "monk",
+		"className": "card-monk",
+		"path": "monk",
+		"cardImg": "/src/assets/img/promo/bg/classes/Tjan-Dju.png",
+		"titleClassName": "card-title-monk",
+		"title": "Монах",
+		"descriptionClassName": "card-text-monk",
+		"description": "Артефакты для Монаха",
+		"priceClassName": "card-price-monk",
+		"price": 800
+	},
+
+	{
+		"id": "hunter",
+		"className": "card-hunter",
+		"path": "hunter",
+		"cardImg": "/src/assets/img/promo/bg/classes/Rexar.png",
+		"titleClassName": "card-title-hunter",
+		"title": "Охотник",
+		"descriptionClassName": "card-text-hunter",
+		"description": "Артефакты для Охотника",
+		"priceClassName": "card-price-hunter",
+		"price": 800
+	},
+
+	{
+		"id": "demon-hunter",
+		"className": "card-demon-hunter",
+		"path": "demon-hunter",
+		"cardImg": "/src/assets/img/promo/bg/classes/Illidan.png",
+		"titleClassName": "card-title-demon-hunter",
+		"title": "Охотник на демонов",
+		"descriptionClassName": "card-text-demon-hunter",
+		"description": "Артефакты для Охотника на демонов",
+		"priceClassName": "card-price-demon-hunter",
+		"price": 800
+	},
+
+	{
+		"id": "paladin",
+		"className": "card-paladin",
+		"path": "paladin",
+		"cardImg": "/src/assets/img/promo/bg/classes/Tirion-Fordring.png",
+		"titleClassName": "card-title-paladin",
+		"title": "Паладин",
+		"descriptionClassName": "card-text-paladin",
+		"description": "Артефакты для Паладина",
+		"priceClassName": "card-price-paladin",
+		"price": 800
+	},
+
+	{
+		"id": "rogue",
+		"className": "card-rogue",
+		"path": "rogue",
+		"cardImg": "/src/assets/img/promo/bg/classes/Valira-Sangvinar.png",
+		"titleClassName": "card-title-rogue",
+		"title": "Разбойник",
+		"descriptionClassName": "card-text-rogue",
+		"description": "Артефакты для Разбойника",
+		"priceClassName": "card-price-rogue",
+		"price": 800
+	},
+
+	{
+		"id": "death-knight",
+		"className": "card-death-knight",
+		"path": "death-knight",
+		"cardImg": "/src/assets/img/promo/bg/classes/Lich-King.png",
+		"titleClassName": "card-title-death-knight",
+		"title": "Рыцарь Смерти",
+		"descriptionClassName": "card-text-death-knight",
+		"description": "Артефакты для Рыцаря смерти",
+		"priceClassName": "card-price-death-knight",
+		"price": 800
+	},
+
+	{
+		"id": "warlock",
+		"className": "card-warlock",
+		"path": "warlock",
+		"cardImg": "/src/assets/img/promo/bg/classes/Guldan.png",
+		"titleClassName": "card-title-warlock",
+		"title": "Чернокнижник",
+		"descriptionClassName": "card-text-warlock",
+		"description": "Артефакты для Чернокнижника",
+		"priceClassName": "card-price-warlock",
+		"price": 800
+	},
+
+	{
+		"id": "shaman",
+		"className": "card-shaman",
+		"path": "shaman",
+		"cardImg": "/src/assets/img/promo/bg/classes/Thrall.png",
+		"titleClassName": "card-title-shaman",
+		"title": "Шаман",
+		"descriptionClassName": "card-text-shaman",
+		"description": "Артефакты для Шамана",
+		"priceClassName": "card-price-shaman",
+		"price": 800
+	}
+]

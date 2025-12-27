@@ -1,0 +1,157 @@
+[
+	{
+		"id": "LawbringerArmor",
+		"className": "card-paladin",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/paladin/Lawbringer-Armor.png",
+		"titleClassName": "card-title-paladin",
+		"title": "Доспехи Законника",
+		"descriptionClassName": "card-text-paladin",
+		"description": "Первый комплект брони для паладина из рейда 60-го уровня Огненные Недра дополнения Сlassic. Повелитель Огня будет повержен! Очищение огнем пройдено!",
+		"priceClassName": "card-price-paladin",
+		"price": 100
+	},
+
+	{
+		"id": "JudgmentArmor",
+		"className": "card-paladin",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/paladin/Judgment-Armor.png",
+		"titleClassName": "card-title-paladin",
+		"title": "Доспехи Правосудия",
+		"descriptionClassName": "card-text-paladin",
+		"description": "Второй комплект брони для паладина из рейда 60-го уровня Логово Крыла Тьмы дополнения Classic. Лорд Черной Горы будет повержен! Теперь вы почти бессмертны!",
+		"priceClassName": "card-price-paladin",
+		"price": 100
+	},
+
+	{
+		"id": "AvengersBattlegear",
+		"className": "card-paladin",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/paladin/Avengers-Battlegear.png",
+		"titleClassName": "card-title-paladin",
+		"title": "Броня Мстителя",
+		"descriptionClassName": "card-text-paladin",
+		"description": "Комплект брони для паладина 2.5 из рейда 60-го уровня Храм Ан'Киража дополнения Classic. Владыка Ан'Киража будет повержен! Вы еще не мертвы!",
+		"priceClassName": "card-price-paladin",
+		"price": 100
+	},
+
+	{
+		"id": "RedemptionArmor",
+		"className": "card-paladin",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/paladin/Redemption-Armor.png",
+		"titleClassName": "card-title-paladin",
+		"title": "Доспехи Искупления",
+		"descriptionClassName": "card-text-paladin",
+		"description": "Третий комплект брони для паладина из рейда 60-го уровня Наксрамас дополнения Classic. Верховный Лич будет повержен! Некромантия вам не страшна!",
+		"priceClassName": "card-price-paladin",
+		"price": 100
+	},
+
+	{
+		"id": "PlateIcebaneSet",
+		"className": "card-paladin",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/general/plate/paladin/Plate-Icebane-Set-paladin.png",
+		"titleClassName": "card-title-paladin",
+		"title": "Латный Комплект Ледяной Погибели",
+		"descriptionClassName": "card-text-paladin",
+		"description": "Награда за цепочку заданий исследования Наксрамаса дополнения Classic. Ледяной Змей будет повержен! Потрясающая защита от магии льда!",
+		"priceClassName": "card-price-paladin",
+		"price": 100
+	},
+
+	{
+		"id": "TelhamatAnchoritesRaiment",
+		"className": "card-paladin",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/general/plate/paladin/Telhamat-Anchorites-Raiment-paladin.png",
+		"titleClassName": "card-title-paladin",
+		"title": "Облачение Телхаматского Анахорета",
+		"descriptionClassName": "card-text-paladin",
+		"description": "Комплект брони в награду за путешествия во времени по подземельям дополнения The Burning Crusade. Броня, дарованная Хранителями Времени за череду подвигов в их походах по лабиринтам вечности. Ваша броня закалена в схватках с аномалиями прошлого и будущего, а её сталь несёт несокрушимую мощь самого времени!",
+		"priceClassName": "card-price-paladin",
+		"price": 200
+	},
+
+	{
+		"id": " CrusadersOrnamentedBattlegear",
+		"className": "card-paladin",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/general/plate/paladin/Crusaders-Ornamented-Battlegear-paladin.png",
+		"titleClassName": "card-title-paladin",
+		"title": "Чешуйчатая Броня Рыцаря",
+		"descriptionClassName": "card-text-paladin",
+		"description": "Комплект брони за репутацию у фракций Нижний город, Траллмар, Хранители Времени, Кенарийская экспедиция и Ша'тар дополнения The Burning Crusade. Вы стали непоколебимым щитом Нижнего города, грозной ударной силой Запределья! Ваша броня несет несокрушимую мощь временных потоков, укреплена силой древних лесов и озарена светом Наару на пути к победе над тьмой!",
+		"priceClassName": "card-price-paladin",
+		"price": 200
+	},
+
+	{
+		"id": "RighteousArmor",
+		"className": "card-paladin",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/general/plate/paladin/Righteous-Armor-paladin.png",
+		"titleClassName": "card-title-paladin",
+		"title": "Броня Праведности",
+		"descriptionClassName": "card-text-paladin",
+		"description": "Комплект брони из подземелий дополнения The Burning Crusade. Броня, закалённая в героических походах по самым опасным подземельям Запределья, от огненных недр Кузницы Крови до кошмарных лабиринтов Гробниц Маны. Вы прошли через адский огонь и тенистую глушь, и теперь ваша сталь звенит песней побед!",
+		"priceClassName": "card-price-paladin",
+		"price": 200
+	},
+
+	{
+		"id": "JusticarArmor",
+		"className": "card-paladin",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/paladin/Justicar-Armor.png",
+		"titleClassName": "card-title-paladin",
+		"title": "Доспехи Вершителя Правосудия",
+		"descriptionClassName": "card-text-paladin",
+		"description": "Первый комплект брони для паладина из рейдов 70-го уровня Каражан, Логово Магтеридона и Логово Груула дополнения The Burning Crusade. Принц Эредеров, Повелитель Преисподней и Огров будут повержены! Станьте его погибелью! Оберните кровь против него самого! Никакой пощады ограм!",
+		"priceClassName": "card-price-paladin",
+		"price": 200
+	},
+
+	{
+		"id": "CrystalforgeArmor",
+		"className": "card-paladin",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/paladin/Crystalforge-Armor.png",
+		"titleClassName": "card-title-paladin",
+		"title": "Доспехи Хрустальной Кузницы",
+		"descriptionClassName": "card-text-paladin",
+		"description": "Второй комплект брони для паладина из рейдов 70-го уровня Змеиное святилище и Крепость Бурь дополнения The Burning Crusade. Королева Наг и Принц Кель'Таласа будут повержены! Укажите место Королеве Наг положенное ей по праву! Теперь вы почувствуете вкус истинной мощи! За Кель'Талас!",
+		"priceClassName": "card-price-paladin",
+		"price": 200
+	},
+
+	{
+		"id": "LightbringerArmor",
+		"className": "card-paladin",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/paladin/Lightbringer-Armor.png",
+		"titleClassName": "card-title-paladin",
+		"title": "Доспехи Светоносного",
+		"descriptionClassName": "card-text-paladin",
+		"description": "Третий комплект брони для паладина из рейдов 70-го уровня Гора Хиджал и Черный Храм дополнения The Burning Crusade. Правитель Пылающего Легиона и Владыка Запределья будет повержен! Этот мир не сгорит! Теперь вы готовы!",
+		"priceClassName": "card-price-paladin",
+		"price": 200
+	},
+
+	{
+		"id": "LightbringerSunwellBattlegear",
+		"className": "card-paladin",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/paladin/Lightbringer-Sunwell-Battlegear.png",
+		"titleClassName": "card-title-paladin",
+		"title": "Доспехи Светоносного Солнечного Колодца",
+		"descriptionClassName": "card-text-paladin",
+		"description": "Четвертый комплект брони для паладина из рейда 70-го уровня Плато Солнечного Колодца дополнения The Burning Crusade. Искуситель будет повержен! Оберните силу Солнечного Колодца против него самого!",
+		"priceClassName": "card-price-paladin",
+		"price": 200
+	}
+]

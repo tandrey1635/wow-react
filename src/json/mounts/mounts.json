@@ -1,0 +1,40 @@
+[
+	{
+		"id": "water-mounts",
+		"className": "card-mounts card-mounts-water",
+		"path": "mounts/water",
+		"cardImg": "/src/assets/img/promo/bg/mounts/water.png",
+		"titleClassName": "card-title-mounts card-title-mounts-water",
+		"title": "Водные",
+		"descriptionClassName": "card-text-mounts card-text-mounts-water",
+		"description": "Водные маунты, обитатели морей и океанов, могучие владыки глубин. Они обеспечат вам скорость морской бури и откроют тайны подводного мира. Покорите глубины Азерота!",
+		"priceClassName": "card-price-mounts card-price-mounts-water",
+		"price": 100
+	},
+
+	{
+		"id": "earth-mounts",
+		"className": "card-mounts card-mounts-earth",
+		"path": "mounts/earth",
+		"cardImg": "/src/assets/img/promo/bg/mounts/earth.png",
+		"titleClassName": "card-title-mounts card-title-mounts-earth",
+		"title": "Наземные",
+		"descriptionClassName": "card-text-mounts card-text-mounts-earth",
+		"description": "Наземные маунты, обитатели пещер, могучие бегуны. Они обеспечат вам молниеносную скорость и превосходство в любом путешествии. Покорите бескрайние просторы Азерота!",
+		"priceClassName": "card-price-mounts card-price-mounts-earth",
+		"price": 100
+	},
+
+	{
+		"id": "fly-mounts",
+		"className": "card-mounts card-mounts-fly",
+		"path": "mounts/fly",
+		"cardImg": "/src/assets/img/promo/bg/mounts/fly.png",
+		"titleClassName": "card-title-mounts card-title-mounts-fly",
+		"title": "Летающие",
+		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
+		"description": "Летающие маунты, властелины небес, повелители бескрайних воздушных просторов. Они обеспечат вам скорость ветра и абсолютное превосходство в воздухе. Покорите небеса Азерота!",
+		"priceClassName": "card-price-mounts card-price-mounts-fly",
+		"price": 100
+	}
+]
