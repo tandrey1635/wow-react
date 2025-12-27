@@ -40,7 +40,7 @@ import dataCloaks from '../json/armours/cloaks/armours.json';
 
 
 import dataWaterMounts from '../json/mounts/water/water.json';
-
+import dataFlyMounts from '../json/mounts/fly/fly.json';
 
 
 
@@ -68,7 +68,7 @@ import dataWrathOfTheLichKingRaids from '../json/raids/wrath-of-the-lich-king/ra
 
 
 
-const Cards = ({home, raidsArmoursWarrior, raidsArmoursMage, raidsArmoursPaladin, raidsArmoursDeathKnight, legendaryWeapons, classes, warriorArtifacts, druidArtifacts, priestArtifacts, mageArtifacts, monkArtifacts, hunterArtifacts, demonHunterArtifacts, paladinArtifacts, rogueArtifacts, deathKnightArtifacts, warlockArtifacts, shamanArtifacts, armsWarrior, furyWarrior, protectionWarrior, cloaks, waterMounts, classic, burningCrusade, wrathOfTheLichKing, cataclysm, mistsOfPandaria, warlordsOfDraenor, legion, battleForAzeroth, shadowlands, dragonflight, warWithin, midnight, lastTitan}) => {
+const Cards = ({home, raidsArmoursWarrior, raidsArmoursMage, raidsArmoursPaladin, raidsArmoursDeathKnight, legendaryWeapons, classes, warriorArtifacts, druidArtifacts, priestArtifacts, mageArtifacts, monkArtifacts, hunterArtifacts, demonHunterArtifacts, paladinArtifacts, rogueArtifacts, deathKnightArtifacts, warlockArtifacts, shamanArtifacts, armsWarrior, furyWarrior, protectionWarrior, cloaks, waterMounts, flyMounts, classic, burningCrusade, wrathOfTheLichKing, cataclysm, mistsOfPandaria, warlordsOfDraenor, legion, battleForAzeroth, shadowlands, dragonflight, warWithin, midnight, lastTitan}) => {
 
 	const basePathImg = '/src/assets/img'
 
@@ -720,6 +720,14 @@ const Cards = ({home, raidsArmoursWarrior, raidsArmoursMage, raidsArmoursPaladin
 						<div className="tab-pane fade show active" id="pills-raids-armour">
 							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
 								{ renderCardItems(dataWaterMounts) }
+							</div>
+						</div>
+					}
+
+					{ flyMounts &&
+						<div className="tab-pane fade show active" id="pills-raids-armour">
+							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
+								{ renderCardItems(dataFlyMounts) }
 							</div>
 						</div>
 					}
