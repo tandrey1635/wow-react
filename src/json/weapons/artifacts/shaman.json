@@ -1,0 +1,40 @@
+[
+	{
+		"id": "Elemental",
+		"className": "card-shaman",
+		"path": "#",
+		"cardImg": "/src/assets/img/promo/bg/classes/shaman/Elemental.jpg",
+		"titleClassName": "card-title-shaman",
+		"title": "Стихии",
+		"descriptionClassName": "card-text-shaman",
+		"description": "Закажите артефакты для Шамана Стихий",
+		"priceClassName": "card-price-shaman",
+		"price": 800
+	},
+
+	{
+		"id": "Enhancement",
+		"className": "card-shaman",
+		"path": "#",
+		"cardImg": "/src/assets/img/promo/bg/classes/shaman/Enhancement.jpg",
+		"titleClassName": "card-title-shaman",
+		"title": "Совершенствование",
+		"descriptionClassName": "card-text-shaman",
+		"description": "Закажите артефакты для Шамана Совершенствования",
+		"priceClassName": "card-price-shaman",
+		"price": 800
+	},
+
+	{
+		"id": "Restoration",
+		"className": "card-shaman",
+		"path": "#",
+		"cardImg": "/src/assets/img/promo/bg/classes/shaman/Restoration.jpg",
+		"titleClassName": "card-title-shaman",
+		"title": "Исцеление",
+		"descriptionClassName": "card-text-shaman",
+		"description": "Закажите артефакты для Шамана Исцеления",
+		"priceClassName": "card-price-shaman",
+		"price": 800
+	}
+]

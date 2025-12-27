@@ -1,0 +1,17 @@
+[
+	{
+		"id": "LastTitan",
+		"raids": true,
+		"className": "card-raids card-raids-last-titan",
+		"path": "#",
+		"cardImgClassName": "card-img-raids",
+		"cardImg": "/src/assets/img/raids/bg/last-titan/Last-Titan.png",
+		"titleClassName": "card-title-raids card-title-raids-last-titan",
+		"title": "The Last Titan",
+		"descriptionClassName": "card-text-raids card-text-raids-last-titan",
+		"description": "Закажите гарантированное прохождение рейда",
+		"spanClassname": "card-text-raids-last-titan_color",
+		"priceClassName": "card-price-raids card-price-raids-last-titan",
+		"price": 1000
+	}
+]

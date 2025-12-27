@@ -1,0 +1,40 @@
+[
+	{
+		"id": "Affliction",
+		"className": "card-warlock",
+		"path": "#",
+		"cardImg": "/src/assets/img/promo/bg/classes/warlock/Affliction.jpg",
+		"titleClassName": "card-title-warlock",
+		"title": "Колдовство",
+		"descriptionClassName": "card-text-warlock",
+		"description": "Закажите артефакты для Чернокнижника Колдовства",
+		"priceClassName": "card-price-warlock",
+		"price": 800
+	},
+
+	{
+		"id": "Demonology",
+		"className": "card-warlock",
+		"path": "#",
+		"cardImg": "/src/assets/img/promo/bg/classes/warlock/Demonology.jpg",
+		"titleClassName": "card-title-warlock",
+		"title": "Демонология",
+		"descriptionClassName": "card-text-warlock",
+		"description": "Закажите артефакты для Чернокнижника Демонологии",
+		"priceClassName": "card-price-warlock",
+		"price": 800
+	},
+
+	{
+		"id": "Destruction",
+		"className": "card-warlock",
+		"path": "#",
+		"cardImg": "/src/assets/img/promo/bg/classes/warlock/Destruction.jpg",
+		"titleClassName": "card-title-warlock",
+		"title": "Разрушение",
+		"descriptionClassName": "card-text-warlock",
+		"description": "Закажите артефакты для Чернокнижника Разрушения",
+		"priceClassName": "card-price-warlock",
+		"price": 800
+	}
+]

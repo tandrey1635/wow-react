@@ -1,0 +1,40 @@
+[
+	{
+		"id": "Arcane",
+		"className": "card-mage",
+		"path": "#",
+		"cardImg": "/src/assets/img/promo/bg/classes/mage/Arcane.jpg",
+		"titleClassName": "card-title-mage",
+		"title": "Тайная магия",
+		"descriptionClassName": "card-text-mage",
+		"description": "Закажите артефакты для Мага Тайной магии",
+		"priceClassName": "card-price-mage",
+		"price": 800
+	},
+
+	{
+		"id": "Fire",
+		"className": "card-mage",
+		"path": "#",
+		"cardImg": "/src/assets/img/promo/bg/classes/mage/Fire.jpg",
+		"titleClassName": "card-title-mage",
+		"title": "Огонь",
+		"descriptionClassName": "card-text-mage",
+		"description": "Закажите артефакты для Мага Огня",
+		"priceClassName": "card-price-mage",
+		"price": 800
+	},
+
+	{
+		"id": "Frost",
+		"className": "card-mage",
+		"path": "#",
+		"cardImg": "/src/assets/img/promo/bg/classes/mage/Frost.jpg",
+		"titleClassName": "card-title-mage",
+		"title": "Лед",
+		"descriptionClassName": "card-text-mage",
+		"description": "Закажите артефакты для Мага Льда",
+		"priceClassName": "card-price-mage",
+		"price": 800
+	}
+]

@@ -1,0 +1,27 @@
+[
+	{
+		"id": "Havoc",
+		"className": "card-demon-hunter",
+		"path": "#",
+		"cardImg": "/src/assets/img/promo/bg/classes/demon-hunter/Havoc.jpg",
+		"titleClassName": "card-title-demon-hunter",
+		"title": "Истребление",
+		"descriptionClassName": "card-text-demon-hunter",
+		"description": "Закажите артефакты для Охотника на демонов Истребления",
+		"priceClassName": "card-price-demon-hunter",
+		"price": 800
+	},
+
+	{
+		"id": "Vengeance",
+		"className": "card-demon-hunter",
+		"path": "#",
+		"cardImg": "/src/assets/img/promo/bg/classes/demon-hunter/Vengeance.jpg",
+		"titleClassName": "card-title-demon-hunter",
+		"title": "Месть",
+		"descriptionClassName": "card-text-demon-hunter",
+		"description": "Закажите артефакты для Охотника на демонов Мести",
+		"priceClassName": "card-price-demon-hunter",
+		"price": 800
+	}
+]

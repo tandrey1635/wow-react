@@ -1,0 +1,40 @@
+[
+	{
+		"id": "Arms",
+		"className": "card-warrior",
+		"path": "arms",
+		"cardImg": "/src/assets/img/promo/bg/classes/warrior/Arms.jpg",
+		"titleClassName": "card-title-warrior",
+		"title": "Оружие",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Закажите артефакты для Воина Оружия",
+		"priceClassName": "card-price-warrior",
+		"price": 800
+	},
+
+	{
+		"id": "Fury",
+		"className": "card-warrior",
+		"path": "fury",
+		"cardImg": "/src/assets/img/promo/bg/classes/warrior/Fury.jpg",
+		"titleClassName": "card-title-warrior",
+		"title": "Неистовство",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Закажите артефакты для Воина Неистовства",
+		"priceClassName": "card-price-warrior",
+		"price": 800
+	},
+
+	{
+		"id": "Protection",
+		"className": "card-warrior",
+		"path": "protection",
+		"cardImg": "/src/assets/img/promo/bg/classes/warrior/Protection.jpg",
+		"titleClassName": "card-title-warrior",
+		"title": "Защита",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Закажите артефакты для Воина Защиты",
+		"priceClassName": "card-price-warrior",
+		"price": 800
+	}
+]

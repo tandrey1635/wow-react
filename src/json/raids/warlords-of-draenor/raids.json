@@ -1,0 +1,49 @@
+[
+	{
+		"id": "Highmaul",
+		"raids": true,
+		"className": "card-raids card-raids-warlords-of-draenor",
+		"path": "#",
+		"cardImgClassName": "card-img-raids",
+		"cardImg": "/src/assets/img/raids/bg/warlords-of-draenor/Highmaul.jpg",
+		"titleClassName": "card-title-raids card-title-raids-warlords-of-draenor",
+		"title": "Верховный Молот",
+		"descriptionClassName": "card-text-raids card-text-raids-warlords-of-draenor",
+		"description": "Закажите гарантированное прохождение рейда",
+		"spanClassname": "card-text-raids-warlords-of-draenor_color",
+		"priceClassName": "card-price-raids card-price-raids-warlords-of-draenor",
+		"price": 300
+	},
+
+	{
+		"id": "BlackrockFoundry",
+		"raids": true,
+		"className": "card-raids card-raids-warlords-of-draenor",
+		"path": "#",
+		"cardImgClassName": "card-img-raids",
+		"cardImg": "/src/assets/img/raids/bg/warlords-of-draenor/Blackrock-Foundry.jpg",
+		"titleClassName": "card-title-raids card-title-raids-warlords-of-draenor",
+		"title": "Литейная клана Черной горы",
+		"descriptionClassName": "card-text-raids card-text-raids-warlords-of-draenor",
+		"description": "Закажите гарантированное прохождение рейда",
+		"spanClassname": "card-text-raids-warlords-of-draenor_color",
+		"priceClassName": "card-price-raids card-price-raids-warlords-of-draenor",
+		"price": 320
+	},
+
+	{
+		"id": "HellfireCitadel",
+		"raids": true,
+		"className": "card-raids card-raids-warlords-of-draenor",
+		"path": "#",
+		"cardImgClassName": "card-img-raids",
+		"cardImg": "/src/assets/img/raids/bg/warlords-of-draenor/Hellfire-Citadel.jpg",
+		"titleClassName": "card-title-raids card-title-raids-warlords-of-draenor",
+		"title": "Цитадель Адского Пламени",
+		"descriptionClassName": "card-text-raids card-text-raids-warlords-of-draenor",
+		"description": "Закажите гарантированное прохождение рейда",
+		"spanClassname": "card-text-raids-warlords-of-draenor_color",
+		"priceClassName": "card-price-raids card-price-raids-warlords-of-draenor",
+		"price": 340
+	}
+]

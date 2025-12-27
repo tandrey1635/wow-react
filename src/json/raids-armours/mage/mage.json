@@ -1,0 +1,222 @@
+[
+	{
+		"id": "ArcanistRegalia",
+		"className": "card-mage",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/mage/Arcanist-Regalia.png",
+		"titleClassName": "card-title-mage",
+		"title": "Регалии Чародея",
+		"descriptionClassName": "card-text-mage",
+		"description": "Первый комплект брони для мага из рейда 60-го уровня Огненные Недра дополнения Сlassic. Повелитель Огня будет повержен! Очищение огнем пройдено!",
+		"priceClassName": "card-price-mage",
+		"price": 100
+	},
+
+	{
+		"id": "NetherwindRegalia",
+		"className": "card-mage",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/mage/Netherwind-Regalia.png",
+		"titleClassName": "card-title-mage",
+		"title": "Регалии Ветра Пустоты ",
+		"descriptionClassName": "card-text-mage",
+		"description": "Второй комплект брони для мага из рейда 60-го уровня Логово Крыла Тьмы дополнения Classic. Лорд Черной Горы будет повержен! Теперь мощь вашей магии безгранична!",
+		"priceClassName": "card-price-mage",
+		"price": 100
+	},
+
+	{
+		"id": "EnigmaVestments",
+		"className": "card-mage",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/mage/Enigma-Vestments.png",
+		"titleClassName": "card-title-mage",
+		"title": "Облачение Таинства",
+		"descriptionClassName": "card-text-mage",
+		"description": "Комплект брони для мага 2.5 из рейда 60-го уровня Храм Ан'Киража дополнения Classic. Владыка Ан'Киража будет повержен! Вы еще не мертвы!",
+		"priceClassName": "card-price-mage",
+		"price": 100
+	},
+
+	{
+		"id": "FrostfireRegalia",
+		"className": "card-mage",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/mage/Frostfire-Regalia.png",
+		"titleClassName": "card-title-mage",
+		"title": "Регалии Ледяного Огня",
+		"descriptionClassName": "card-text-mage",
+		"description": "Третий комплект брони для мага из рейда 60-го уровня Наксрамас дополнения Classic. Верховный Лич будет повержен! Некромантия вам не страшна!",
+		"priceClassName": "card-price-mage",
+		"price": 100
+	},
+
+	{
+		"id": "GlacialRegaliaSet",
+		"className": "card-mage",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/general/cloth/mage/Glacial-Regalia-Set-mage.png",
+		"titleClassName": "card-title-mage",
+		"title": "Ледовый Тканевый Комплект",
+		"descriptionClassName": "card-text-mage",
+		"description": "Награда за цепочку заданий исследования Наксрамаса дополнения Classic. Ледяной Змей будет повержен! Потрясающая защита от магии льда!",
+		"priceClassName": "card-price-mage",
+		"price": 100
+	},
+
+	{
+		"id": "AuchenaiPriestsRaiment",
+		"className": "card-mage",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/general/cloth/mage/Auchenai-Priests-Raiment-mage.png",
+		"titleClassName": "card-title-mage",
+		"title": "Облачение Аукенайского Жреца",
+		"descriptionClassName": "card-text-mage",
+		"description": "Комплект брони в награду за путешествия во времени по подземельям дополнения The Burning Crusade. Броня, дарованная Хранителями Времени за череду подвигов в их походах по лабиринтам вечности. Ваша броня закалена в схватках с аномалиями прошлого и будущего, а её сталь несёт несокрушимую мощь самого времени!",
+		"priceClassName": "card-price-mage",
+		"price": 200
+	},
+
+	{
+		"id": "MoonclothBattlegear",
+		"className": "card-mage",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/general/cloth/mage/Mooncloth-Battlegear-mage.png",
+		"titleClassName": "card-title-mage",
+		"title": "Облачение из Луноткани",
+		"descriptionClassName": "card-text-mage",
+		"description": "Комплект брони за репутацию у фракций Нижний город, Траллмар, Хранители Времени, Кенарийская экспедиция и Ша'тар дополнения The Burning Crusade. Вы стали непоколебимым щитом Нижнего города, грозной ударной силой Запределья! Ваша броня несет несокрушимую мощь временных потоков, укреплена силой древних лесов и озарена светом Наару на пути к победе над тьмой!",
+		"priceClassName": "card-price-mage",
+		"price": 200
+	},
+
+	{
+		"id": "HallowedRaiment",
+		"className": "card-mage",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/general/cloth/mage/Hallowed-Raiment-mage.png",
+		"titleClassName": "card-title-mage",
+		"title": "Благословенные Ризы",
+		"descriptionClassName": "card-text-mage",
+		"description": "Комплект брони из подземелий дополнения The Burning Crusade. Броня, закалённая в героических походах по самым опасным подземельям Запределья, от огненных недр Кузницы Крови до кошмарных лабиринтов Гробниц Маны. Вы прошли через адский огонь и тенистую глушь, и теперь ваша сталь звенит песней побед!",
+		"priceClassName": "card-price-mage",
+		"price": 200
+	},
+
+	{
+		"id": "ManaEtchedRegalia",
+		"className": "card-mage",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/general/cloth/mage/Mana-Etched-Regalia-mage.png",
+		"titleClassName": "card-title-mage",
+		"title": "Пропитанные маной Одежды",
+		"descriptionClassName": "card-text-mage",
+		"description": "Комплект брони из подземелий дополнения The Burning Crusade. Броня, закалённая в героических походах по самым опасным подземельям Запределья, от огненных недр Кузницы Крови до кошмарных лабиринтов Гробниц Маны. Вы прошли через адский огонь и тенистую глушь, и теперь ваша сталь звенит песней побед!",
+		"priceClassName": "card-price-mage",
+		"price": 200
+	},
+
+	{
+		"id": "ShadowmoonWarlocksVestments",
+		"className": "card-mage",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/general/cloth/mage/Shadowmoon-Warlocks-Vestments-mage.png",
+		"titleClassName": "card-title-mage",
+		"title": "Одежды Чернокнижника Клана Призрачной Луны",
+		"descriptionClassName": "card-text-mage",
+		"description": "Комплект брони в награду за путешествия во времени по подземельям дополнения The Burning Crusade. Броня, дарованная Хранителями Времени за череду подвигов в их походах по лабиринтам вечности. Ваша броня закалена в схватках с аномалиями прошлого и будущего, а её сталь несёт несокрушимую мощь самого времени!",
+		"priceClassName": "card-price-mage",
+		"price": 200
+	},
+
+	{
+		"id": "DreadweaveBattlegear",
+		"className": "card-mage",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/general/cloth/mage/Dreadweave-Battlegear-mage.png",
+		"titleClassName": "card-title-mage",
+		"title": "Облачение из Ткани Ужаса",
+		"descriptionClassName": "card-text-mage",
+		"description": "Комплект брони за репутацию у фракций Нижний город, Траллмар, Хранители Времени, Кенарийская экспедиция и Ша'тар дополнения The Burning Crusade. Вы стали непоколебимым щитом Нижнего города, грозной ударной силой Запределья! Ваша броня несет несокрушимую мощь временных потоков, укреплена силой древних лесов и озарена светом Наару на пути к победе над тьмой!",
+		"priceClassName": "card-price-mage",
+		"price": 200
+	},
+
+	{
+		"id": "OblivionRaiment",
+		"className": "card-mage",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/general/cloth/mage/Oblivion-Raiment-mage.png",
+		"titleClassName": "card-title-mage",
+		"title": "Одежды Забвения",
+		"descriptionClassName": "card-text-mage",
+		"description": "Комплект брони из подземелий дополнения The Burning Crusade. Броня, закалённая в героических походах по самым опасным подземельям Запределья, от огненных недр Кузницы Крови до кошмарных лабиринтов Гробниц Маны. Вы прошли через адский огонь и тенистую глушь, и теперь ваша сталь звенит песней побед!",
+		"priceClassName": "card-price-mage",
+		"price": 200
+	},
+
+	{
+		"id": "MindwrackRaiment",
+		"className": "card-mage",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/general/cloth/mage/Mindwrack-Raiment-mage.png",
+		"titleClassName": "card-title-mage",
+		"title": "Одеяния Насилия над Разумом",
+		"descriptionClassName": "card-text-mage",
+		"description": "Комплект брони в духе дополнения The Burning Crusade. Добавлен в игру в 2018 году в рамках события «Наденьте это немедленно!» — особого праздника трансмогрификации (2 сезон). Стоимость комплекта составляет 60 жетонов шоу у специальных продавцов в столицах.",
+		"priceClassName": "card-price-mage",
+		"price": 200
+	},
+
+	{
+		"id": "AldorRegalia",
+		"className": "card-mage",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/mage/Aldor-Regalia.png",
+		"titleClassName": "card-title-mage",
+		"title": "Регалии Алдоров",
+		"descriptionClassName": "card-text-mage",
+		"description": "Первый комплект брони для мага из рейдов 70-го уровня Каражан, Логово Магтеридона и Логово Груула дополнения The Burning Crusade. Принц Эредеров, Повелитель Преисподней и Огров будут повержены! Станьте его погибелью! Оберните кровь против него самого! Никакой пощады ограм!",
+		"priceClassName": "card-price-mage",
+		"price": 200
+	},
+
+	{
+		"id": "TirisfalRegalia",
+		"className": "card-mage",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/mage/Tirisfal-Regalia.png",
+		"titleClassName": "card-title-mage",
+		"title": "Тирисфальские Регалии",
+		"descriptionClassName": "card-text-mage",
+		"description": "Второй комплект брони для мага из рейдов 70-го уровня Змеиное святилище и Крепость Бурь дополнения The Burning Crusade. Королева Наг и Принц Кель'Таласа будут повержены! Укажите место Королеве Наг положенное ей по праву! Теперь вы почувствуете вкус истинной мощи! За Кель'Талас!",
+		"priceClassName": "card-price-mage",
+		"price": 200
+	},
+
+	{
+		"id": "TempestRegalia",
+		"className": "card-mage",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/mage/Tempest-Regalia.png",
+		"titleClassName": "card-title-mage",
+		"title": "Регалии Урагана",
+		"descriptionClassName": "card-text-mage",
+		"description": "Третий комплект брони для мага из рейдов 70-го уровня Гора Хиджал и Черный Храм дополнения The Burning Crusade. Правитель Пылающего Легиона и Владыка Запределья будет повержен! Этот мир не сгорит! Теперь вы готовы!",
+		"priceClassName": "card-price-mage",
+		"price": 200
+	},
+
+	{
+		"id": "TempestSunwellGarb",
+		"className": "card-mage",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/mage/Tempest-Sunwell-Garb.png",
+		"titleClassName": "card-title-mage",
+		"title": "Регалии Урагана Солнечного Колодца",
+		"descriptionClassName": "card-text-mage",
+		"description": "Четвертый комплект брони для мага из рейда 70-го уровня Плато Солнечного Колодца дополнения The Burning Crusade. Искуситель будет повержен! Оберните силу Солнечного Колодца против него самого!",
+		"priceClassName": "card-price-mage",
+		"price": 200
+	}
+]

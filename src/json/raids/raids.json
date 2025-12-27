@@ -1,0 +1,209 @@
+[
+	{
+		"id": "classic",
+		"raids": true,
+		"className": "card-raids card-raids-classic",
+		"path": "raids/classic",
+		"cardImgClassName": "card-img-raids",
+		"cardImg": "/src/assets/img/promo/bg/raids/classic.png",
+		"titleClassName": "card-title-raids card-title-raids-classic",
+		"title": "Classic",
+		"descriptionClassName": "card-text-raids card-text-raids-classic",
+		"description": "Закажите гарантированное прохождение любого рейда из дополнения",
+		"spanClassname": "card-text-raids-classic_color",
+		"priceClassName": "card-price-raids card-price-raids-classic",
+		"price": 50
+	},
+
+	{
+		"id": "burning-crusade",
+		"raids": true,
+		"className": "card-raids card-raids-burning-crusade",
+		"path": "raids/burning-crusade",
+		"cardImgClassName": "card-img-raids",
+		"cardImg": "/src/assets/img/promo/bg/raids/burning-crusade.png",
+		"titleClassName": "card-title-raids card-title-raids-burning-crusade",
+		"title": "The Burning Crusade",
+		"descriptionClassName": "card-text-raids card-text-raids-burning-crusade",
+		"description": "Закажите гарантированное прохождение любого рейда из дополнения",
+		"spanClassname": "card-text-raids-burning-crusade_color",
+		"priceClassName": "card-price-raids card-price-raids-burning-crusade",
+		"price": 100
+	},
+
+	{
+		"id": "wrath-of-the-lich-king",
+		"raids": true,
+		"className": "card-raids card-raids-wrath-of-the-lich-king",
+		"path": "raids/wrath-of-the-lich-king",
+		"cardImgClassName": "card-img-raids",
+		"cardImg": "/src/assets/img/promo/bg/raids/wrath-of-the-lich-king.png",
+		"titleClassName": "card-title-raids card-title-raids-wrath-of-the-lich-king",
+		"title": "Wrath of the Lich King",
+		"descriptionClassName": "card-text-raids card-text-raids-wrath-of-the-lich-king",
+		"description": "Закажите гарантированное прохождение любого рейда из дополнения",
+		"spanClassname": "card-text-raids-wrath-of-the-lich-king_color",
+		"priceClassName": "card-price-raids card-price-raids-wrath-of-the-lich-king",
+		"price": 150
+	},
+
+	{
+		"id": "cataclysm",
+		"raids": true,
+		"className": "card-raids card-raids-cataclysm",
+		"path": "raids/cataclysm",
+		"cardImgClassName": "card-img-raids",
+		"cardImg": "/src/assets/img/promo/bg/raids/cataclysm.png",
+		"titleClassName": "card-title-raids card-title-raids-cataclysm",
+		"title": "Cataclysm",
+		"descriptionClassName": "card-text-raids card-text-raids-cataclysm",
+		"description": "Закажите гарантированное прохождение любого рейда из дополнения",
+		"spanClassname": "card-text-raids-cataclysm_color",
+		"priceClassName": "card-price-raids card-price-raids-cataclysm",
+		"price": 200
+	},
+
+	{
+		"id": "mists-of-pandaria",
+		"raids": true,
+		"className": "card-raids card-raids-mists-of-pandaria",
+		"path": "raids/mists-of-pandaria",
+		"cardImgClassName": "card-img-raids",
+		"cardImg": "/src/assets/img/promo/bg/raids/mists-of-pandaria.png",
+		"titleClassName": "card-title-raids card-title-raids-mists-of-pandaria",
+		"title": "Mists of Pandaria",
+		"descriptionClassName": "card-text-raids card-text-raids-mists-of-pandaria",
+		"description": "Закажите гарантированное прохождение любого рейда из дополнения",
+		"spanClassname": "card-text-raids-mists-of-pandaria_color",
+		"priceClassName": "card-price-raids card-price-raids-mists-of-pandaria",
+		"price": 250
+	},
+
+	{
+		"id": "warlords-of-draenor",
+		"raids": true,
+		"className": "card-raids card-raids-warlords-of-draenor",
+		"path": "raids/warlords-of-draenor",
+		"cardImgClassName": "card-img-raids",
+		"cardImg": "/src/assets/img/promo/bg/raids/warlords-of-draenor.png",
+		"titleClassName": "card-title-raids card-title-raids-warlords-of-draenor",
+		"title": "Warlords of Draenor",
+		"descriptionClassName": "card-text-raids card-text-raids-warlords-of-draenor",
+		"description": "Закажите гарантированное прохождение любого рейда из дополнения",
+		"spanClassname": "card-text-raids-warlords-of-draenor_color",
+		"priceClassName": "card-price-raids card-price-raids-warlords-of-draenor",
+		"price": 300
+	},
+
+	{
+		"id": "legion",
+		"raids": true,
+		"className": "card-raids card-raids-legion",
+		"path": "raids/legion",
+		"cardImgClassName": "card-img-raids",
+		"cardImg": "/src/assets/img/promo/bg/raids/legion.png",
+		"titleClassName": "card-title-raids card-title-raids-legion",
+		"title": "Legion",
+		"descriptionClassName": "card-text-raids card-text-raids-legion",
+		"description": "Закажите гарантированное прохождение любого рейда из дополнения",
+		"spanClassname": "card-text-raids-legion_color",
+		"priceClassName": "card-price-raids card-price-raids-legion",
+		"price": 350
+	},
+
+	{
+		"id": "battle-for-azeroth",
+		"raids": true,
+		"className": "card-raids card-raids-battle-for-azeroth",
+		"path": "raids/battle-for-azeroth",
+		"cardImgClassName": "card-img-raids",
+		"cardImg": "/src/assets/img/promo/bg/raids/battle-for-azeroth.png",
+		"titleClassName": "card-title-raids card-title-raids-battle-for-azeroth",
+		"title": "Battle for Azeroth",
+		"descriptionClassName": "card-text-raids card-text-raids-battle-for-azeroth",
+		"description": "Закажите гарантированное прохождение любого рейда из дополнения",
+		"spanClassname": "card-text-raids-battle-for-azeroth_color",
+		"priceClassName": "card-price-raids card-price-raids-battle-for-azeroth",
+		"price": 400
+	},
+
+	{
+		"id": "shadowlands",
+		"raids": true,
+		"className": "card-raids card-raids-shadowlands",
+		"path": "raids/shadowlands",
+		"cardImgClassName": "card-img-raids",
+		"cardImg": "/src/assets/img/promo/bg/raids/shadowlands.png",
+		"titleClassName": "card-title-raids card-title-raids-shadowlands",
+		"title": "Shadowlands",
+		"descriptionClassName": "card-text-raids card-text-raids-shadowlands",
+		"description": "Закажите гарантированное прохождение любого рейда из дополнения",
+		"spanClassname": "card-text-raids-shadowlands_color",
+		"priceClassName": "card-price-raids card-price-raids-shadowlands",
+		"price": 450
+	},
+
+	{
+		"id": "dragonflight",
+		"raids": true,
+		"className": "card-raids card-raids-dragonflight",
+		"path": "raids/dragonflight",
+		"cardImgClassName": "card-img-raids",
+		"cardImg": "/src/assets/img/promo/bg/raids/dragonflight.png",
+		"titleClassName": "card-title-raids card-title-raids-dragonflight",
+		"title": "Dragonflight",
+		"descriptionClassName": "card-text-raids card-text-raids-dragonflight",
+		"description": "Закажите гарантированное прохождение любого рейда из дополнения",
+		"spanClassname": "card-text-raids-dragonflight_color",
+		"priceClassName": "card-price-raids card-price-raids-dragonflight",
+		"price": 500
+	},
+
+	{
+		"id": "war-within",
+		"raids": true,
+		"className": "card-raids card-raids-war-within",
+		"path": "raids/war-within",
+		"cardImgClassName": "card-img-raids",
+		"cardImg": "/src/assets/img/promo/bg/raids/war-within.png",
+		"titleClassName": "card-title-raids card-title-raids-war-within",
+		"title": "The War Within",
+		"descriptionClassName": "card-text-raids card-text-raids-war-within",
+		"description": "Закажите гарантированное прохождение любого рейда из дополнения",
+		"spanClassname": "card-text-raids-war-within_color",
+		"priceClassName": "card-price-raids card-price-raids-war-within",
+		"price": 600
+	},
+
+	{
+		"id": "midnight",
+		"raids": true,
+		"className": "card-raids card-raids-midnight",
+		"path": "raids/midnight",
+		"cardImgClassName": "card-img-raids",
+		"cardImg": "/src/assets/img/promo/bg/raids/midnight.png",
+		"titleClassName": "card-title-raids card-title-raids-midnight",
+		"title": "Midnight",
+		"descriptionClassName": "card-text-raids card-text-raids-midnight",
+		"description": "Закажите гарантированное прохождение любого рейда из дополнения",
+		"spanClassname": "card-text-raids-midnight_color",
+		"priceClassName": "card-price-raids card-price-raids-midnight",
+		"price": 800
+	},
+
+	{
+		"id": "last-titan",
+		"raids": true,
+		"className": "card-raids card-raids-last-titan",
+		"path": "raids/last-titan",
+		"cardImgClassName": "card-img-raids",
+		"cardImg": "/src/assets/img/promo/bg/raids/last-titan.png",
+		"titleClassName": "card-title-raids card-title-raids-last-titan",
+		"title": "The Last Titan",
+		"descriptionClassName": "card-text-raids card-text-raids-last-titan",
+		"description": "Закажите гарантированное прохождение любого рейда из дополнения",
+		"spanClassname": "card-text-raids-last-titan_color",
+		"priceClassName": "card-price-raids card-price-raids-last-titan",
+		"price": 1000
+	}
+]

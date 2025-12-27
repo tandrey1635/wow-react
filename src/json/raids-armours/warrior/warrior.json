@@ -1,0 +1,820 @@
+[
+	{
+		"id": "BattlegearOfMight",
+		"className": "card-warrior",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/warrior/Battlegear-of-Might.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Броня Мощи",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Первый комплект брони для воина из рейда 60-го уровня Огненные Недра дополнения Classic. Повелитель Огня будет повержен! Очищение огнем пройдено!",
+		"priceClassName": "card-price-warrior",
+		"price": 100
+	},
+
+	{
+		"id": "BattlegearOfWrath",
+		"className": "card-warrior",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/warrior/Battlegear-of-Wrath.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Броня Гнева",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Второй комплект брони для воина из рейда 60-го уровня Логово Крыла Тьмы дополнения Classic. Лорд Черной Горы будет повержен! Теперь у вас невероятная сила!",
+		"priceClassName": "card-price-warrior",
+		"price": 100
+	},
+
+	{
+		"id": "ConquerorsBattlegear",
+		"className": "card-warrior",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/warrior/Conquerors-Battlegear.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Броня Завоевателя",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Комплект брони для воина 2.5 из рейда 60-го уровня Храм Ан'Киража дополнения Classic. Владыка Ан'Киража будет повержен! Вы еще не мертвы!",
+		"priceClassName": "card-price-warrior",
+		"price": 100
+	},
+
+	{
+		"id": "DreadnaughtsBattlegear",
+		"className": "card-warrior",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/warrior/Dreadnaughts-Battlegear.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Броня Неустрашимости",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Третий комплект брони для воина из рейда 60-го уровня Наксрамас дополнения Classic. Верховный Лич будет повержен! Некромантия вам не страшна!",
+		"priceClassName": "card-price-warrior",
+		"price": 100
+	},
+
+	{
+		"id": "PlateIcebaneSet",
+		"className": "card-warrior",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/general/plate/warrior/Plate-Icebane-Set-warrior.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Латный Комплект Ледяной Погибели",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Награда за цепочку заданий исследования Наксрамаса дополнения Classic. Ледяной Змей будет повержен! Потрясающая защита от магии льда!",
+		"priceClassName": "card-price-warrior",
+		"price": 100
+	},
+
+	{
+		"id": "TelhamatAnchoritesRaiment",
+		"className": "card-warrior",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/general/plate/warrior/Telhamat-Anchorites-Raiment-warrior.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Облачение Телхаматского Анахорета",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Комплект брони в награду за путешествия во времени по подземельям дополнения The Burning Crusade. Броня, дарованная Хранителями Времени за череду подвигов в их походах по лабиринтам вечности. Ваша броня закалена в схватках с аномалиями прошлого и будущего, а её сталь несёт несокрушимую мощь самого времени!",
+		"priceClassName": "card-price-warrior",
+		"price": 200
+	},
+
+	{
+		"id": " CrusadersOrnamentedBattlegear",
+		"className": "card-warrior",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/general/plate/warrior/Crusaders-Ornamented-Battlegear-warrior.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Чешуйчатая Броня Рыцаря",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Комплект брони за репутацию у фракций Нижний город, Траллмар, Хранители Времени, Кенарийская экспедиция и Ша'тар дополнения The Burning Crusade. Вы стали непоколебимым щитом Нижнего города, грозной ударной силой Запределья! Ваша броня несет несокрушимую мощь временных потоков, укреплена силой древних лесов и озарена светом Наару на пути к победе над тьмой!",
+		"priceClassName": "card-price-warrior",
+		"price": 200
+	},
+
+	{
+		"id": "RighteousArmor",
+		"className": "card-warrior",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/general/plate/warrior/Righteous-Armor-warrior.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Броня Праведности",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Комплект брони из подземелий дополнения The Burning Crusade. Броня, закалённая в героических походах по самым опасным подземельям Запределья, от огненных недр Кузницы Крови до кошмарных лабиринтов Гробниц Маны. Вы прошли через адский огонь и тенистую глушь, и теперь ваша сталь звенит песней побед!",
+		"priceClassName": "card-price-warrior",
+		"price": 200
+	},
+
+	{
+		"id": "WarbringerArmor",
+		"className": "card-warrior",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/warrior/Warbringer-Armor.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Доспехи Вестника Войны",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Первый комплект брони для воина из рейдов 70-го уровня Каражан, Логово Магтеридона и Логово Груула дополнения The Burning Crusade. Принц Эредеров, Повелитель Преисподней и Огров будут повержены! Станьте его погибелью! Оберните кровь против него самого! Никакой пощады ограм!",
+		"priceClassName": "card-price-warrior",
+		"price": 200
+	},
+
+	{
+		"id": "DestroyerArmor",
+		"className": "card-warrior",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/warrior/Destroyer-Armor.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Доспехи Разрушителя",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Второй комплект брони для воина из рейдов 70-го уровня Змеиное святилище и Крепость Бурь дополнения The Burning Crusade. Королева Наг и Принц Кель'Таласа будут повержены! Укажите место Королеве Наг положенное ей по праву! Теперь вы почувствуете вкус истинной мощи! За Кель'Талас!",
+		"priceClassName": "card-price-warrior",
+		"price": 200
+	},
+
+	{
+		"id": "OnslaughtArmor",
+		"className": "card-warrior",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/warrior/Onslaught-Armor.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Доспехи натиска",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Третий комплект брони для воина из рейдов 70-го уровня Гора Хиджал и Черный Храм дополнения The Burning Crusade. Правитель Пылающего Легиона и Владыка Запределья будет повержен! Этот мир не сгорит! Теперь вы готовы!",
+		"priceClassName": "card-price-warrior",
+		"price": 200
+	},
+
+	{
+		"id": "OnslaughtSunwellBattlegear",
+		"className": "card-warrior",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/warrior/Onslaught-Sunwell-Battlegear.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Броня Натиска Солнечного Колодца",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Четвертый комплект брони для воина из рейда 70-го уровня Плато Солнечного Колодца дополнения The Burning Crusade. Искуситель будет повержен! Оберните силу Солнечного Колодца против него самого!",
+		"priceClassName": "card-price-warrior",
+		"price": 200
+	},
+
+	{
+		"id": "HeroesDreadnaughtBattlegear10",
+		"className": "card-warrior",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/warrior/Garrosh-Hellscrim.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Героическая Броня Неустрашимости",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Первый комплект брони для воина из рейда 80-го уровня Наксрамас 10 игроков дополнения Wrath of The Lich King. Верховный лич вернулся! и снова будет повержен! Некромантия вам не страшна!",
+		"priceClassName": "card-price-warrior",
+		"price": 300
+	},
+
+	{
+		"id": "ValorousDreadnaughtBattlegear25",
+		"className": "card-warrior",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/warrior/Garrosh-Hellscrim.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Доблестная Броня Неустрашимости",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Первый комплект брони для воина из рейда 80-го уровня Наксрамас 25 игроков дополнения Wrath of The Lich King. Верховный лич вернулся! и снова будет повержен! Некромантия вам не страшна!",
+		"priceClassName": "card-price-warrior",
+		"price": 300
+	},
+
+	{
+		"id": "ValorousSiegebreakerBattlegear10",
+		"className": "card-warrior",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/warrior/Garrosh-Hellscrim.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Доблестная Осадная Броня",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Второй комплект брони для воина из рейда 80-го уровня Осада Ульдуара 10 игроков дополнения Wrath of The Lich King. Бог Смерти будет повержен! Невероятная защита от безумия!",
+		"priceClassName": "card-price-warrior",
+		"price": 300
+	},
+
+	{
+		"id": "ConquerorsSiegebreakerBattlegear25",
+		"className": "card-warrior",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/warrior/Garrosh-Hellscrim.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Осадная Броня Завоевателя",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Второй комплект брони для воина из рейда 80-го уровня Осада Ульдуара 25 игроков дополнения Wrath of The Lich King. Бог Смерти будет повержен! Невероятная защита от безумия!",
+		"priceClassName": "card-price-warrior",
+		"price": 300
+	},
+
+	{
+		"id": "HellscreamsBattlegear",
+		"className": "card-warrior",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/warrior/Garrosh-Hellscrim.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Триумфальная Броня Адского Крика",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Третий комплект брони для воина из рейда 80-го уровня Испытание Крестоносца 10 и 25 игроков только для Орды дополнения Wrath of The Lich King. Король Азжол-Неруба будет повержен! Слава Чемпионам Серебряного Авангарда!",
+		"priceClassName": "card-price-warrior",
+		"price": 300
+	},
+
+	{
+		"id": "WrynnsBattlegear",
+		"className": "card-warrior",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/warrior/Garrosh-Hellscrim.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Триумфальная Броня Ринна",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Третий комплект брони для воина из рейда 80-го уровня Испытание Крестоносца 10 и 25 игроков только для Альянса дополнения Wrath of The Lich King. Король Азжол-Неруба будет повержен! Слава Чемпионам Серебряного Авангарда!",
+		"priceClassName": "card-price-warrior",
+		"price": 300
+	},
+
+	{
+		"id": "YmirjarLordsBattlegear10Normal",
+		"className": "card-warrior",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/warrior/Garrosh-Hellscrim.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Броня Повелителя Имирьяров",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Четвертый комплект брони для воина из рейда 80-го уровня Цитадель Ледяной Короны 10 игроков обычного уровня сложности дополнения Wrath of The Lich King. Король Лич будет повержен! Эту Броню носит сам Верховный Воевода Саурфанг! Свет защитит вас!",
+		"priceClassName": "card-price-warrior",
+		"price": 300
+	},
+
+	{
+		"id": "SanctifiedYmirjarLordsBattlegear10Heroic25Normal",
+		"className": "card-warrior",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/warrior/Garrosh-Hellscrim.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Освященная Броня Повелителя Имирьяров",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Четвертый комплект брони для воина из рейда 80-го уровня Цитадель Ледяной Короны 10 или 25 игроков героического/обычного уровня сложности дополнения Wrath of The Lich King. Король Лич будет повержен! Эту Броню носит сам Верховный Воевода Саурфанг! Свет защитит вас!",
+		"priceClassName": "card-price-warrior",
+		"price": 300
+	},
+
+	{
+		"id": "SanctifiedYmirjarLordsBattlegear25Heroic",
+		"className": "card-warrior",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/warrior/Garrosh-Hellscrim.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Освященная Броня Повелителя Имирьяров",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Четвертый комплект брони для воина из рейда 80-го уровня Цитадель Ледяной Короны 25 игроков героического уровня сложности дополнения Wrath of The Lich King. Король Лич будет повержен! Эту Броню носит сам Верховный Воевода Саурфанг! Свет защитит вас!",
+		"priceClassName": "card-price-warrior",
+		"price": 300
+	},
+
+	{
+		"id": "EarthenBattleplateNormal",
+		"className": "card-warrior",
+		"path": "",
+		"cardImg": "/src/assets/img/promo/bg/classes/Garrosh-Hellscrim.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Боевой Доспех Земли",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Первый комплект брони для воина из рейдов 85-го уровня Твердыня Крыла Тьмы, Сумеречный Бастион и Трон Четырех Ветров обычного уровня сложности дополнения Cataclysm. Лорд Черной Горы, Вождь клана Сумеречного Молота и Повелитель ветра будут повержены! Культ Сумеречного Молота вам больше не страшен! Доспехи в стиле Подземья!",
+		"priceClassName": "card-price-warrior",
+		"price": 500
+	},
+
+	{
+		"id": "EarthenBattleplateHeroic",
+		"className": "card-warrior",
+		"path": "",
+		"cardImg": "/src/assets/img/promo/bg/classes/Garrosh-Hellscrim.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Боевой Доспех Земли",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Первый комплект брони для воина из рейдов 85-го уровня Твердыня Крыла Тьмы, Сумеречный Бастион и Трон Четырех Ветров героического уровня сложности дополнения Cataclysm. Лорд Черной Горы, Вождь клана Сумеречного Молота и Повелитель ветра будут повержены! Культ Сумеречного Молота вам больше не страшен! Доспехи в стиле Подземья!",
+		"priceClassName": "card-price-warrior",
+		"price": 500
+	},
+
+	{
+		"id": "MoltenGiantBattleplateNormal",
+		"className": "card-warrior",
+		"path": "",
+		"cardImg": "/src/assets/img/promo/bg/classes/Garrosh-Hellscrim.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Боевой Доспех Огненного Великана",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Второй комплект брони для воина из рейда 85-го уровня Огненные Просторы обычного уровня сложности дополнения Cataclysm. Повелитель Огня вернулся! и снова будет повержен! Вы неуязвимы для пламени Сульфурона!",
+		"priceClassName": "card-price-warrior",
+		"price": 500
+	},
+
+	{
+		"id": "MoltenGiantBattleplateHeroic",
+		"className": "card-warrior",
+		"path": "",
+		"cardImg": "/src/assets/img/promo/bg/classes/Garrosh-Hellscrim.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Боевой Доспех Огненного Великана",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Второй комплект брони для воина из рейда 85-го уровня Огненные Просторы героического уровня сложности дополнения Cataclysm. Повелитель Огня вернулся! и снова будет повержен! Вы неуязвимы для пламени Сульфурона!",
+		"priceClassName": "card-price-warrior",
+		"price": 500
+	},
+
+	{
+		"id": "ColossalDragonplateBattlegearRaidFinder",
+		"className": "card-warrior",
+		"path": "",
+		"cardImg": "/src/assets/img/promo/bg/classes/Garrosh-Hellscrim.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Броня из Чешуи Гигантского Дракона",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Третий комплект брони для воина из рейда 85-го уровня Душа Дракона режима поиска рейдов дополнения Cataclysm. Аспект Смерти, Разрушитель Миров будет повержен! Броня Из Чешуи самого Смертокрыла! Катаклизм отменяется!",
+		"priceClassName": "card-price-warrior",
+		"price": 500
+	},
+
+	{
+		"id": "ColossalDragonplateBattlegearNormal",
+		"className": "card-warrior",
+		"path": "",
+		"cardImg": "/src/assets/img/promo/bg/classes/Garrosh-Hellscrim.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Броня из Чешуи Гигантского Дракона",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Третий комплект брони для воина из рейда 85-го уровня Душа Дракона обычного уровня сложности дополнения Cataclysm. Аспект Смерти, Разрушитель Миров будет повержен! Броня Из Чешуи самого Смертокрыла! Катаклизм отменяется!",
+		"priceClassName": "card-price-warrior",
+		"price": 500
+	},
+
+	{
+		"id": "ColossalDragonplateBattlegearHeroic",
+		"className": "card-warrior",
+		"path": "",
+		"cardImg": "/src/assets/img/promo/bg/classes/Garrosh-Hellscrim.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Броня из Чешуи Гигантского Дракона",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Третий комплект брони для воина из рейда 85-го уровня Душа Дракона героического уровня сложности дополнения Cataclysm. Аспект Смерти, Разрушитель Миров будет повержен! Броня Из Чешуи самого Смертокрыла! Катаклизм отменяется!",
+		"priceClassName": "card-price-warrior",
+		"price": 500
+	},
+
+	{
+		"id": "BattleplateOfResoundingRingsRaidFinder",
+		"className": "card-warrior",
+		"path": "",
+		"cardImg": "/src/assets/img/promo/bg/classes/Garrosh-Hellscrim.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Боевые Латы из Резонирующих Колец",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Первый комплект брони для воина из рейдов 90-го уровня Сердце Страха и Терасса Вечной Весны режима поиска рейдов дополнения Mists of Pandaria. Императрица Богомолов и Воплощение Ужаса будут повержены! Вам не ведом страх!",
+		"priceClassName": "card-price-warrior",
+		"price": 800
+	},
+
+	{
+		"id": "BattleplateOfResoundingRingsNormal",
+		"className": "card-warrior",
+		"path": "",
+		"cardImg": "/src/assets/img/promo/bg/classes/Garrosh-Hellscrim.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Боевые Латы из Резонирующих Колец",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Первый комплект брони для воина из рейдов 90-го уровня Сердце Страха и Терасса Вечной Весны обычного уровня сложности дополнения Mists of Pandaria. Императрица Богомолов и Воплощение Ужаса будут повержены! Вам не ведом страх!",
+		"priceClassName": "card-price-warrior",
+		"price": 800
+	},
+
+	{
+		"id": "BattleplateOfResoundingRingsHeroic",
+		"className": "card-warrior",
+		"path": "",
+		"cardImg": "/src/assets/img/promo/bg/classes/Garrosh-Hellscrim.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Боевые Латы из Резонирующих Колец",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Первый комплект брони для воина из рейдов 90-го уровня Сердце Страха и Терасса Вечной Весны героического уровня сложности дополнения Mists of Pandaria. Императрица Богомолов и Воплощение Ужаса будут повержены! Вам не ведом страх!",
+		"priceClassName": "card-price-warrior",
+		"price": 800
+	},
+
+	{
+		"id": "GoldenKingPlate",
+		"className": "card-warrior",
+		"path": "",
+		"cardImg": "/src/assets/img/promo/bg/classes/Garrosh-Hellscrim.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Броня Золотистого Льва",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Комплект брони для воина в награду за достижение Победитель в испытаниях: золото. Пройдите все подземелья в режиме испытаний, получив золотой рейтинг. Слава Чемпионам Mists of Pandaria! Вы лучший боец!",
+		"priceClassName": "card-price-warrior",
+		"price": 1000
+	},
+
+	{
+		"id": "BattleplateOfTheLastMoguRaidFinder",
+		"className": "card-warrior",
+		"path": "",
+		"cardImg": "/src/assets/img/promo/bg/classes/Garrosh-Hellscrim.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Боевой Доспех Последнего Могу",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Второй комплект брони для воина из рейда 90-го уровня Престол Гроз режима поиска рейдов дополнения Mists of Pandaria. Властелин Грома будет повержен! Вы неуязвимы для молний! Подчините силу грома!",
+		"priceClassName": "card-price-warrior",
+		"price": 800
+	},
+
+	{
+		"id": "BattleplateOfTheLastMoguNormal",
+		"className": "card-warrior",
+		"path": "",
+		"cardImg": "/src/assets/img/promo/bg/classes/Garrosh-Hellscrim.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Боевой Доспех Последнего Могу",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Второй комплект брони для воина из рейда 90-го уровня Престол Гроз обычного уровня сложности дополнения Mists of Pandaria. Властелин Грома будет повержен! Вы неуязвимы для молний! Подчините силу грома!",
+		"priceClassName": "card-price-warrior",
+		"price": 800
+	},
+
+	{
+		"id": "BattleplateOfTheLastMoguHeroic",
+		"className": "card-warrior",
+		"path": "",
+		"cardImg": "/src/assets/img/promo/bg/classes/Garrosh-Hellscrim.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Боевой Доспех Последнего Могу",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Второй комплект брони для воина из рейда 90-го уровня Престол Гроз героического уровня сложности дополнения Mists of Pandaria. Властелин Грома будет повержен! Вы неуязвимы для молний! Подчините силу грома!",
+		"priceClassName": "card-price-warrior",
+		"price": 800
+	},
+
+	{
+		"id": "BattleplateOfThePrehistoricMarauderRaidFinder",
+		"className": "card-warrior",
+		"path": "",
+		"cardImg": "/src/assets/img/promo/bg/classes/Garrosh-Hellscrim.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Боевой Доспех Доисторического Разорителя",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Третий комплект брони для воина из рейда 90-го уровня Осада Оргриммара режима поиска рейдов дополнения Mists of Pandaria. Предводитель Настоящей Орды Орков будет повержен! Злость, Отчаяние, Сомнение, Ненависть, Жестокость, Страх и Гордыня над вами не властны! Вы не уязвимы для всех семи воплощений ша!",
+		"priceClassName": "card-price-warrior",
+		"price": 800
+	},
+
+	{
+		"id": "BattleplateOfThePrehistoricMarauderNormal",
+		"className": "card-warrior",
+		"path": "",
+		"cardImg": "/src/assets/img/promo/bg/classes/Garrosh-Hellscrim.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Боевой Доспех Доисторического Разорителя",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Третий комплект брони для воина из рейда 90-го уровня Осада Оргриммара обычного уровня сложности дополнения Mists of Pandaria. Предводитель Настоящей Орды Орков будет повержен! Злость, Отчаяние, Сомнение, Ненависть, Жестокость, Страх и Гордыня над вами не властны! Вы не уязвимы для всех семи воплощений ша!",
+		"priceClassName": "card-price-warrior",
+		"price": 800
+	},
+
+	{
+		"id": "BattleplateOfThePrehistoricMarauderHeroic",
+		"className": "card-warrior",
+		"path": "",
+		"cardImg": "/src/assets/img/promo/bg/classes/Garrosh-Hellscrim.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Боевой Доспех Доисторического Разорителя",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Третий комплект брони для воина из рейда 90-го уровня Осада Оргриммара героического уровня сложности дополнения Mists of Pandaria. Предводитель Настоящей Орды Орков будет повержен! Злость, Отчаяние, Сомнение, Ненависть, Жестокость, Страх и Гордыня над вами не властны! Вы не уязвимы для всех семи воплощений ша!",
+		"priceClassName": "card-price-warrior",
+		"price": 800
+	},
+
+	{
+		"id": "BattleplateOfThePrehistoricMarauderMythic",
+		"className": "card-warrior",
+		"path": "",
+		"cardImg": "/src/assets/img/promo/bg/classes/Garrosh-Hellscrim.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Боевой Доспех Доисторического Разорителя",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Третий комплект брони для воина из рейда 90-го уровня Осада Оргриммара эпохального уровня сложности дополнения Mists of Pandaria. Предводитель Настоящей Орды Орков будет повержен! Злость, Отчаяние, Сомнение, Ненависть, Жестокость, Страх и Гордыня над вами не властны! Вы не уязвимы для всех семи воплощений ша!",
+		"priceClassName": "card-price-warrior",
+		"price": 800
+	},
+
+	{
+		"id": "BlackhandsBattlegearNormal",
+		"className": "card-warrior",
+		"path": "",
+		"cardImg": "/src/assets/img/promo/bg/classes/Garrosh-Hellscrim.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Броня Чернорука",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Первый комплект брони для воина из рейда 100-го уровня Литейная клана Черной горы обычного уровня сложности дополнения Warlords of Draenor. Вождь Клана Черной Горы будет повержен! Секрет выплавки руды Черной горы раскрыт! Вы не уязвимы для пламени Сердца Черной Горы!",
+		"priceClassName": "card-price-warrior",
+		"price": 1000
+	},
+
+	{
+		"id": "BlackhandsBattlegearHeroic",
+		"className": "card-warrior",
+		"path": "",
+		"cardImg": "/src/assets/img/promo/bg/classes/Garrosh-Hellscrim.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Броня Чернорука",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Первый комплект брони для воина из рейда 100-го уровня Литейная клана Черной горы героического уровня сложности дополнения Warlords of Draenor. Вождь Клана Черной Горы будет повержен! Секрет выплавки руды Черной горы раскрыт! Вы не уязвимы для пламени Сердца Черной Горы!",
+		"priceClassName": "card-price-warrior",
+		"price": 1000
+	},
+
+	{
+		"id": "BlackhandsBattlegearMythic",
+		"className": "card-warrior",
+		"path": "",
+		"cardImg": "/src/assets/img/promo/bg/classes/Garrosh-Hellscrim.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Броня Чернорука",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Первый комплект брони для воина из рейда 100-го уровня Литейная клана Черной горы эпохального уровня сложности дополнения Warlords of Draenor. Вождь Клана Черной Горы будет повержен! Секрет выплавки руды Черной горы раскрыт! Вы не уязвимы для пламени Сердца Черной Горы!",
+		"priceClassName": "card-price-warrior",
+		"price": 1000
+	},
+
+	{
+		"id": "BlackrockPlate",
+		"className": "card-warrior",
+		"path": "",
+		"cardImg": "/src/assets/img/promo/bg/classes/Garrosh-Hellscrim.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Броня Черной Горы",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Комплект брони для воина в гарнизонном здании Военной фабрики для Орды или Дворфийском бункере для Альянса 2-го или 3-го уровня. Превосходная броня выкованная в самом сердце Литейной Клана Черной Горы! Секрет выплавки этой брони до сих пор не раскрыт!",
+		"priceClassName": "card-price-warrior",
+		"price": 1000
+	},
+
+	{
+		"id": "BattlegearOfIronWrathNormal",
+		"className": "card-warrior",
+		"path": "",
+		"cardImg": "/src/assets/img/promo/bg/classes/Garrosh-Hellscrim.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Броня Железной Ярости",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Второй комплект брони для воина из рейда 100-го уровня Цитадель Адского Пламени обычного уровня сложности дополнения Warlords of Draenor.",
+		"priceClassName": "card-price-warrior",
+		"price": 1000
+	},
+
+	{
+		"id": "BattlegearOfIronWrathHeroic",
+		"className": "card-warrior",
+		"path": "",
+		"cardImg": "/src/assets/img/promo/bg/classes/Garrosh-Hellscrim.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Броня Железной Ярости",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Второй комплект брони для воина из рейда 100-го уровня Цитадель Адского Пламени героического уровня сложности дополнения Warlords of Draenor.",
+		"priceClassName": "card-price-warrior",
+		"price": 1000
+	},
+
+	{
+		"id": "BattlegearOfIronWrathMythic",
+		"className": "card-warrior",
+		"path": "",
+		"cardImg": "/src/assets/img/promo/bg/classes/Garrosh-Hellscrim.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Броня Железной Ярости",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Второй комплект брони для воина из рейда 100-го уровня Цитадель Адского Пламени эпохального уровня сложности дополнения Warlords of Draenor.",
+		"priceClassName": "card-price-warrior",
+		"price": 1000
+	},
+
+	{
+		"id": "WarplateOfTheObsidianAspectRaidFinder",
+		"className": "card-warrior",
+		"path": "",
+		"cardImg": "/src/assets/img/promo/bg/classes/Garrosh-Hellscrim.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Боевые Латы Обсидианового Аспекта",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Первый комплект брони для воина из рейда 110-го уровня Цитадель Ночи режима поиска рейдов дополнения Legion.",
+		"priceClassName": "card-price-warrior",
+		"price": 1200
+	},
+
+	{
+		"id": "WarplateOfTheObsidianAspectNormal",
+		"className": "card-warrior",
+		"path": "",
+		"cardImg": "/src/assets/img/promo/bg/classes/Garrosh-Hellscrim.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Боевые Латы Обсидианового Аспекта",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Первый комплект брони для воина из рейда 110-го уровня Цитадель Ночи обычного уровня сложности дополнения Legion.",
+		"priceClassName": "card-price-warrior",
+		"price": 1200
+	},
+
+	{
+		"id": "WarplateOfTheObsidianAspectHeroic",
+		"className": "card-warrior",
+		"path": "",
+		"cardImg": "/src/assets/img/promo/bg/classes/Garrosh-Hellscrim.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Боевые Латы Обсидианового Аспекта",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Первый комплект брони для воина из рейда 110-го уровня Цитадель Ночи героического уровня сложности дополнения Legion.",
+		"priceClassName": "card-price-warrior",
+		"price": 1200
+	},
+
+	{
+		"id": "WarplateOfTheObsidianAspectMythic",
+		"className": "card-warrior",
+		"path": "",
+		"cardImg": "/src/assets/img/promo/bg/classes/Garrosh-Hellscrim.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Боевые Латы Обсидианового Аспекта",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Первый комплект брони для воина из рейда 110-го уровня Цитадель Ночи эпохального уровня сложности дополнения Legion.",
+		"priceClassName": "card-price-warrior",
+		"price": 1200
+	},
+
+	{
+		"id": "FuneraryPlateOfTheChosenDeadRaidFinder",
+		"className": "card-warrior",
+		"path": "",
+		"cardImg": "/src/assets/img/promo/bg/classes/Garrosh-Hellscrim.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Траурные Латы Избранных Мертвецов",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Второй комплект брони для воина из рейда 110-го уровня Испытание Доблести режима поиска рейдов дополнения Legion.",
+		"priceClassName": "card-price-warrior",
+		"price": 1200
+	},
+
+	{
+		"id": "FuneraryPlateOfTheChosenDeadNormal",
+		"className": "card-warrior",
+		"path": "",
+		"cardImg": "/src/assets/img/promo/bg/classes/Garrosh-Hellscrim.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Траурные Латы Избранных Мертвецов",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Второй комплект брони для воина из рейда 110-го уровня Испытание Доблести обычного уровня сложности дополнения Legion.",
+		"priceClassName": "card-price-warrior",
+		"price": 1200
+	},
+
+	{
+		"id": "FuneraryPlateOfTheChosenDeadHeroic",
+		"className": "card-warrior",
+		"path": "",
+		"cardImg": "/src/assets/img/promo/bg/classes/Garrosh-Hellscrim.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Траурные Латы Избранных Мертвецов",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Второй комплект брони для воина из рейда 110-го уровня Испытание Доблести героического уровня сложности дополнения Legion.",
+		"priceClassName": "card-price-warrior",
+		"price": 1200
+	},
+
+	{
+		"id": "FuneraryPlateOfTheChosenDeadMythic",
+		"className": "card-warrior",
+		"path": "",
+		"cardImg": "/src/assets/img/promo/bg/classes/Garrosh-Hellscrim.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Траурные Латы Избранных Мертвецов",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Второй комплект брони для воина из рейда 110-го уровня Испытание Доблести эпохального уровня сложности дополнения Legion.",
+		"priceClassName": "card-price-warrior",
+		"price": 1200
+	},
+
+	{
+		"id": "TitanicOnslaughtArmorRaidFinder",
+		"className": "card-warrior",
+		"path": "",
+		"cardImg": "/src/assets/img/promo/bg/classes/Garrosh-Hellscrim.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Доспехи Титанического Натиска",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Третий комплект брони для воина из рейда 110-го уровня Гробница Саргераса режима поиска рейдов дополнения Legion.",
+		"priceClassName": "card-price-warrior",
+		"price": 1200
+	},
+
+	{
+		"id": "TitanicOnslaughtArmorNormal",
+		"className": "card-warrior",
+		"path": "",
+		"cardImg": "/src/assets/img/promo/bg/classes/Garrosh-Hellscrim.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Доспехи Титанического Натиска",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Третий комплект брони для воина из рейда 110-го уровня Гробница Саргераса обычного уровня сложности дополнения Legion.",
+		"priceClassName": "card-price-warrior",
+		"price": 1200
+	},
+
+	{
+		"id": "TitanicOnslaughtArmorHeroic",
+		"className": "card-warrior",
+		"path": "",
+		"cardImg": "/src/assets/img/promo/bg/classes/Garrosh-Hellscrim.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Доспехи Титанического Натиска",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Третий комплект брони для воина из рейда 110-го уровня Гробница Саргераса героического уровня сложности дополнения Legion.",
+		"priceClassName": "card-price-warrior",
+		"price": 1200
+	},
+
+	{
+		"id": "TitanicOnslaughtArmorMythic",
+		"className": "card-warrior",
+		"path": "",
+		"cardImg": "/src/assets/img/promo/bg/classes/Garrosh-Hellscrim.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Доспехи Титанического Натиска",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Третий комплект брони для воина из рейда 110-го уровня Гробница Саргераса эпохального уровня сложности дополнения Legion.",
+		"priceClassName": "card-price-warrior",
+		"price": 1200
+	},
+
+	{
+		"id": "WorldDefilersArmor",
+		"className": "card-warrior",
+		"path": "",
+		"cardImg": "/src/assets/img/promo/bg/classes/Garrosh-Hellscrim.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Доспехи Осквернителя Миров",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Комплект брони для воина из локации Аргус с редких элитных монстров дополнения Legion.",
+		"priceClassName": "card-price-warrior",
+		"price": 1500
+	},
+
+	{
+		"id": "JuggernautBattlegearRaidFinder",
+		"className": "card-warrior",
+		"path": "",
+		"cardImg": "/src/assets/img/promo/bg/classes/Garrosh-Hellscrim.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Боевое Облачение Исполина",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Четвертый комплект брони для воина из рейда 110-го уровня Анторус, Пылающий Трон режима поиска рейдов дополнения Legion.",
+		"priceClassName": "card-price-warrior",
+		"price": 1200
+	},
+
+	{
+		"id": "JuggernautBattlegearNormal",
+		"className": "card-warrior",
+		"path": "",
+		"cardImg": "/src/assets/img/promo/bg/classes/Garrosh-Hellscrim.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Боевое Облачение Исполина",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Четвертый комплект брони для воина из рейда 110-го уровня Анторус, Пылающий Трон обычного уровня сложности дополнения Legion.",
+		"priceClassName": "card-price-warrior",
+		"price": 1200
+	},
+
+	{
+		"id": "JuggernautBattlegearHeroic",
+		"className": "card-warrior",
+		"path": "",
+		"cardImg": "/src/assets/img/promo/bg/classes/Garrosh-Hellscrim.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Боевое Облачение Исполина",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Четвертый комплект брони для воина из рейда 110-го уровня Анторус, Пылающий Трон героического уровня сложности дополнения Legion.",
+		"priceClassName": "card-price-warrior",
+		"price": 1200
+	},
+
+	{
+		"id": "JuggernautBattlegearMythic",
+		"className": "card-warrior",
+		"path": "",
+		"cardImg": "/src/assets/img/promo/bg/classes/Garrosh-Hellscrim.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Боевое Облачение Исполина",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Четвертый комплект брони для воина из рейда 110-го уровня Анторус, Пылающий Трон эпохального уровня сложности дополнения Legion.",
+		"priceClassName": "card-price-warrior",
+		"price": 1200
+	}
+]

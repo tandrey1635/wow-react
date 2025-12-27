@@ -1,0 +1,14 @@
+[
+	{
+		"id": "ScaleOfTheEarthWarder",
+		"className": "card-warrior",
+		"path": "#",
+		"cardImg": "/src/assets/img/promo/bg/classes/warrior/.jpg",
+		"titleClassName": "card-title-warrior",
+		"title": "Панцирь Хранителя Земли",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Закажите Панцирь Хранителя Земли",
+		"priceClassName": "card-price-warrior",
+		"price": 800
+	}
+]

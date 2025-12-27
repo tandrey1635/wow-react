@@ -1,0 +1,54 @@
+[
+	{
+		"id": "Balance",
+		"className": "card-druid",
+		"path": "#",
+		"cardImg": "/src/assets/img/promo/bg/classes/druid/Balance.jpg",
+		"titleClassName": "card-title-druid",
+		"title": "Баланс",
+		"descriptionClassName": "card-text-druid",
+		"description": "Закажите артефакты для Друида Баланса",
+		"priceClassName": "card-price-druid",
+		"price": 800
+	},
+
+	{
+		"id": "Feral",
+		"className": "card-druid",
+		"path": "#",
+		"cardImg": "/src/assets/img/promo/bg/classes/druid/Feral.jpg",
+		"titleClassName": "card-title-druid",
+		"title": "Сила зверя",
+		"descriptionClassName": "card-text-druid",
+		"description": "Закажите артефакты для Друида Силы зверя",
+		"priceClassName": "card-price-druid",
+		"price": 800
+	},
+
+	{
+		"id": "Guardian",
+		"className": "card-druid",
+		"path": "#",
+		"cardImg": "/src/assets/img/promo/bg/classes/druid/Guardian.jpg",
+		"titleClassName": "card-title-druid",
+		"title": "Страж",
+		"descriptionClassName": "card-text-druid",
+		"description": "Закажите артефакты для Друида Стража",
+		"priceClassName": "card-price-druid",
+		"price": 800
+	},
+
+	{
+		"id": "Restoration",
+		"className": "card-druid",
+		"path": "#",
+		"cardImg": "/src/assets/img/promo/bg/classes/druid/Restoration.jpg",
+		"titleClassName": "card-title-druid",
+		"title": "Исцеление",
+		"descriptionClassName": "card-text-druid",
+		"description": "Закажите артефакты для Друида Исцеления",
+		"priceClassName": "card-price-druid",
+		"price": 800
+	}
+
+]
