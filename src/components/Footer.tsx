@@ -69,6 +69,7 @@ const Footer = () => {
 
 					<div className="footer__bottom mt-5">
 						<p className="footer__copyright text-center">&copy; WowForAll Все права защищены {currentYear}</p>
+						<p className="footer__copyright text-center">World of Warcraft и Blizzard Entertainment являются товарными знаками Blizzard Entertainment.</p>
 					</div>
 				</div>
 			</div>

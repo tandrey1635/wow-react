@@ -1,18 +1,5 @@
 [
 	{
-		"id": "DeepstarPolyp",
-		"className": "card-mounts card-mounts-water",
-		"path": "",
-		"cardImg": "/src/assets/img/mounts/bg/water/Deepstar-Polyp.png",
-		"titleClassName": "card-title-mounts card-title-mounts-water",
-		"title": "Аурелид Звездных Глубин",
-		"descriptionClassName": "card-text-mounts card-text-mounts-water",
-		"description": "Этот редкий неуловимый аурелид чувствует себя в воде так же комфортно, как в воздухе. Профессия: Рыбная ловля. Места рыбной ловли: Зерет Мортис.",
-		"priceClassName": "card-price-mounts card-price-mounts-water",
-		"price": 100
-	},
-
-	{
 		"id": "CrimsonTidestallion",
 		"className": "card-mounts card-mounts-water",
 		"path": "",
@@ -72,7 +59,7 @@
 		"titleClassName": "card-title-mounts card-title-mounts-water",
 		"title": "Верховая Черепаха",
 		"descriptionClassName": "card-text-mounts card-text-mounts-water",
-		"description": "Двигаясь медленно и постепенно, гонку ты не выиграешь... но к месту назначения точно прибудешь. Торговец: Ландро Дальнострел. Зона: Пиратская Бухта.",
+		"description": "Двигаясь медленно и постепенно, гонку ты не выиграешь... но к месту назначения точно прибудешь. Источник: Промоакция (лут код третьего уровня из издания коллекционной карточной игры World of Warcraft: Trading Card Game Heroes of Azeroth. Вероятность получения: 0.21%), Обитатель ледяных пещер: редкое существо которое можно выловить в гарнизоне на Дреноре с помощью рыбной ловли.",
 		"priceClassName": "card-price-mounts card-price-mounts-water",
 		"price": 100
 	},
@@ -163,7 +150,7 @@
 		"titleClassName": "card-title-mounts card-title-mounts-water",
 		"title": "Мерцающий Аурелид",
 		"descriptionClassName": "card-text-mounts card-text-mounts-water",
-		"description": "Когда-то это существо было создано для защиты Гробницы Предвечных. Теперь его основная задача завершена, и оно покорно выполняет ваши команды. Награда за достижение: Слава рейдеру Гробницы.",
+		"description": "Когда-то это существо было создано для защиты Гробницы Предвечных. Теперь его основная задача завершена, и оно покорно выполняет ваши команды. Награда за достижение: Слава Рейдеру Гробницы.",
 		"priceClassName": "card-price-mounts card-price-mounts-water",
 		"price": 100
 	},
@@ -176,7 +163,7 @@
 		"titleClassName": "card-title-mounts card-title-mounts-water",
 		"title": "Морская Черепаха",
 		"descriptionClassName": "card-text-mounts card-text-mounts-water",
-		"description": "Рыбаки часто вылавливают таких молодых черепашек. В воде они чувствуют себя намного увереннее, чем на суше. Профессия: Рыбная ловля. Места рыбной ловли: Локации Нордскола, Пандарии, Сумеречное нагорье, Полуостров Тол Барад, Остров Новолуния.",
+		"description": "Рыбаки часто вылавливают таких молодых черепашек. В воде они чувствуют себя намного увереннее, чем на суше. Профессия: Рыбная ловля. Места рыбной ловли: Локации Нордскола, Пандарии, Сумеречное нагорье, Полуостров Тол Барад, Остров Новолуния, Обитатель ледяных пещер: редкое существо которое можно выловить в гарнизоне на Дреноре с помощью рыбной ловли.",
 		"priceClassName": "card-price-mounts card-price-mounts-water",
 		"price": 100
 	},
@@ -241,7 +228,20 @@
 		"titleClassName": "card-title-mounts card-title-mounts-water",
 		"title": "Поводья Посейдуса",
 		"descriptionClassName": "card-text-mounts card-text-mounts-water",
-		"description": "Лишь тот по-настоящему жил, кто пронесся на морском коньке через приливное течение, сказал некто. Неизвестно когда. Источник: Посейдус. Зона: Вайш'ир.",
+		"description": "Лишь тот по-настоящему жил, кто пронесся на морском коньке через приливное течение, сказал некто. Неизвестно когда. Источник: Посейдус. Зона: Вайш'ир. Вероятность получения: 99.50%.",
+		"priceClassName": "card-price-mounts card-price-mounts-water",
+		"price": 100
+	},
+
+	{
+		"id": "DeepstarPolyp",
+		"className": "card-mounts card-mounts-water",
+		"path": "",
+		"cardImg": "/src/assets/img/mounts/bg/water/Deepstar-Polyp.png",
+		"titleClassName": "card-title-mounts card-title-mounts-water",
+		"title": "Полип Звездных Глубин",
+		"descriptionClassName": "card-text-mounts card-text-mounts-water",
+		"description": "Этот редкий неуловимый аурелид чувствует себя в воде так же комфортно, как в воздухе. Источник: Гирукон. Профессия: Рыбная ловля. Места рыбной ловли: Зерет Мортис. Вероятность получения: 4.58%.",
 		"priceClassName": "card-price-mounts card-price-mounts-water",
 		"price": 100
 	},
@@ -267,7 +267,7 @@
 		"titleClassName": "card-title-mounts card-title-mounts-water",
 		"title": "Приносящая Удачу Верховая Черепаха",
 		"descriptionClassName": "card-text-mounts card-text-mounts-water",
-		"description": "Двигаясь медленно и постепенно, гонку ты не выиграешь... но к месту назначения точно прибудешь. Торговец: Ландро Дальнострел. Зона: Пиратская Бухта.",
+		"description": "Двигаясь медленно и постепенно, гонку ты не выиграешь... но к месту назначения точно прибудешь. Источник: Промоакция Великий учитель школы Азерот (только для Китая), Обитатель ледяных пещер: редкое существо которое можно выловить в гарнизоне на Дреноре с помощью рыбной ловли.",
 		"priceClassName": "card-price-mounts card-price-mounts-water",
 		"price": 100
 	},
@@ -358,7 +358,7 @@
 		"titleClassName": "card-title-mounts card-title-mounts-water",
 		"title": "Свирепая Черная Боевая Черепаха",
 		"descriptionClassName": "card-text-mounts card-text-mounts-water",
-		"description": "Питаясь энергией неиссякаемой ярости, пушки выцеливают врагов и обрушивают на них залуженную кару. Что может быть лучше? Источник: Промоакция.",
+		"description": "Питаясь энергией неиссякаемой ярости, пушки выцеливают врагов и обрушивают на них залуженную кару. Что может быть лучше? Источник: Промоакция (к 20 летней годовщине игры World of Warcraft компания SteelSeries выпустила набор тематических физических товаров. При покупке этих товаров к каждому из них дополнительно прилагается код на получение внутриигровой награды).",
 		"priceClassName": "card-price-mounts card-price-mounts-water",
 		"price": 100
 	},
