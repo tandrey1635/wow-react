@@ -5,7 +5,7 @@ const Card = ({ className, path, cardImg, description, titleClassName, title, de
 	return (
 		<div className={`card ${className}`}>
 			<Link to={path}>
-				<img src={cardImg} className="card-img"  alt={description} />
+				<img src={cardImg} className="card-img"  alt={title} />
 			</Link>
 			<div className="card-body">
 				<Link className="card-link" to={path}>

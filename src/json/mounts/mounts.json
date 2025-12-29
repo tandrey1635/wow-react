@@ -22,7 +22,7 @@
 		"descriptionClassName": "card-text-mounts card-text-mounts-earth",
 		"description": "Наземные маунты, обитатели пещер, могучие бегуны. Они обеспечат вам молниеносную скорость и превосходство в любом путешествии. Покорите бескрайние просторы Азерота!",
 		"priceClassName": "card-price-mounts card-price-mounts-earth",
-		"price": 100
+		"price": 200
 	},
 
 	{
@@ -35,6 +35,6 @@
 		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
 		"description": "Летающие маунты, властелины небес, повелители бескрайних воздушных просторов. Они обеспечат вам скорость ветра и абсолютное превосходство в воздухе. Покорите небеса Азерота!",
 		"priceClassName": "card-price-mounts card-price-mounts-fly",
-		"price": 100
+		"price": 300
 	}
 ]
