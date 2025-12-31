@@ -254,7 +254,7 @@
 		"titleClassName": "card-title-mounts card-title-mounts-fly",
 		"title": "Бань Лу, Спутник Великого Мастера",
 		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "Бань Лу, сын Сюэня, на протяжении многих лет верой и правдой служил каждому из великих мастеров. Классовый маунт монахов. Награда за задание: Испытание Бань Лу.",
+		"description": "Бань Лу, сын Сюэня, на протяжении многих лет верой и правдой служил каждому из великих мастеров. Классовый маунт Монаха. Награда за задание: Испытание Бань Лу.",
 		"priceClassName": "card-price-mounts card-price-mounts-fly",
 		"price": 300
 	},
@@ -494,66 +494,66 @@
 	},
 
 	{
-		"id": "",
+		"id": "ArmoredGoldenPterrordax",
 		"className": "card-mounts card-mounts-fly",
 		"path": "",
-		"cardImg": "/src/assets/img/mounts/bg/fly/.png",
+		"cardImg": "/src/assets/img/mounts/bg/fly/Armored-Golden-Pterrordax.png",
 		"titleClassName": "card-title-mounts card-title-mounts-fly",
 		"title": "Бронированный Золотой Терродактиль",
 		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "1",
+		"description": "Эти расписанные красками и украшенные золотом терродактили кружат в небе над гробницей Атал'Дазара. Источник: Торговая лавка.",
 		"priceClassName": "card-price-mounts card-price-mounts-fly",
 		"price": 300
 	},
 
 	{
-		"id": "",
+		"id": "ArmoredRedDragonhawk",
 		"className": "card-mounts card-mounts-fly",
 		"path": "",
-		"cardImg": "/src/assets/img/mounts/bg/fly/.png",
+		"cardImg": "/src/assets/img/mounts/bg/fly/Armored-Red-Dragonhawk.png",
 		"titleClassName": "card-title-mounts card-title-mounts-fly",
 		"title": "Бронированный Красный Дракондор",
 		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "1",
+		"description": "Этот редкий вид дракондора, подаренный Орде эльфами крови, считается символом чести. Он является подтверждением ваших неустанных усилий по сбору армии зверей. Фракция: Орда. Награда за достижение: Парад ездовых животных.",
 		"priceClassName": "card-price-mounts card-price-mounts-fly",
 		"price": 300
 	},
 
 	{
-		"id": "",
+		"id": "ArmoredBloodwing",
 		"className": "card-mounts card-mounts-fly",
 		"path": "",
-		"cardImg": "/src/assets/img/mounts/bg/fly/.png",
+		"cardImg": "/src/assets/img/mounts/bg/fly/Armored-Bloodwing.png",
 		"titleClassName": "card-title-mounts card-title-mounts-fly",
 		"title": "Бронированный Кровокрыл",
 		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "1",
+		"description": "Эта чудовищная плотоядная летучая мышь является бесспорным хозяином ночного неба. Источник: Внутриигровой магазин.",
 		"priceClassName": "card-price-mounts card-price-mounts-fly",
 		"price": 300
 	},
 
 	{
-		"id": "",
+		"id": "ArmoredBlueWindRider",
 		"className": "card-mounts card-mounts-fly",
 		"path": "",
-		"cardImg": "/src/assets/img/mounts/bg/fly/.png",
+		"cardImg": "/src/assets/img/mounts/bg/fly/Armored-Blue-Wind-Rider.png",
 		"titleClassName": "card-title-mounts card-title-mounts-fly",
 		"title": "Бронированный Синий Ветрокрыл",
 		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "1",
+		"description": "Нордскол для ветрокрылов не родная земля, но они удивительно хорошо приспособились к холоду, Мей Франкис. Фракция: Орда. Торговец: Мей Франкис. Зона: Даларан (Нордскол).",
 		"priceClassName": "card-price-mounts card-price-mounts-fly",
 		"price": 300
 	},
 
 	{
-		"id": "",
+		"id": "ArmoredBlueDragonhawk",
 		"className": "card-mounts card-mounts-fly",
 		"path": "",
-		"cardImg": "/src/assets/img/mounts/bg/fly/.png",
+		"cardImg": "/src/assets/img/mounts/bg/fly/Armored-Blue-Dragonhawk.png",
 		"titleClassName": "card-title-mounts card-title-mounts-fly",
 		"title": "Бронированный Синий Дракондор",
 		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "1",
+		"description": "Когда вы соберете 200 экземпляров ездовых животных, ассоциация животноводов Альянса вышлет вам помощника, чтобы упорядочить ваш зверинец (и избавить вас от скопившейся шерсти). Фракция: Альянс. Награда за достижение: Парад ездовых животных.",
 		"priceClassName": "card-price-mounts card-price-mounts-fly",
 		"price": 300
 	},
@@ -572,27 +572,27 @@
 	},
 
 	{
-		"id": "",
+		"id": "SwiftGloomhoof",
 		"className": "card-mounts card-mounts-fly",
 		"path": "",
-		"cardImg": "/src/assets/img/mounts/bg/fly/.png",
+		"cardImg": "/src/assets/img/mounts/bg/fly/Swift-Gloomhoof.png",
 		"titleClassName": "card-title-mounts card-title-mounts-fly",
 		"title": "Быстрая Чернокопытная Лошадь",
 		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "1",
+		"description": "Арденвельдские баллады гласят, что рождение темнорога знаменует переход в загробный мир одного из добрых Диких богов. Поэтому увидеть темнорога это одновременно и благословение, и проклятие. Источник: Ночная Кобыла. Зона: Арденвельд. Вероятность получения: 85.55%.",
 		"priceClassName": "card-price-mounts card-price-mounts-fly",
 		"price": 300
 	},
 
 	{
-		"id": "",
-		"className": "card-mounts card-mounts-fly",
+		"id": "BallisticBronco",
+		"className": "card-mounts card-mounts-fly card-object-fit",
 		"path": "",
-		"cardImg": "/src/assets/img/mounts/bg/fly/.png",
+		"cardImg": "/src/assets/img/mounts/bg/fly/Ballistic-Bronco.png",
 		"titleClassName": "card-title-mounts card-title-mounts-fly",
 		"title": "Быстроходный Бронко",
 		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "1",
+		"description": "Идеальный транспорт для бойца, который никогда не промахивается. Фракция: бойцовская гильдия (8-й ранг). Торговец: Пол Норт/Квакенбуш. Зона: Арена Морд'Бой/Потасовочная У Бизмо. Орда/Альянс.",
 		"priceClassName": "card-price-mounts card-price-mounts-fly",
 		"price": 300
 	},
@@ -4082,14 +4082,14 @@
 	},
 
 	{
-		"id": "",
+		"id": "ReinsOfTheBronzeDrake",
 		"className": "card-mounts card-mounts-fly",
 		"path": "",
-		"cardImg": "/src/assets/img/mounts/bg/fly/.png",
+		"cardImg": "/src/assets/img/mounts/bg/fly/Reins-of-the-Bronze-Drake.png",
 		"titleClassName": "card-title-mounts card-title-mounts-fly",
 		"title": "Поводья Бронзового Дракона",
 		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "1",
+		"description": "Потерянное время никогда не вернуть. Ой! Вот оно, нашла... – Хронорму. Источник: Осквернитель из Рода Бесконечности. Зона: Очищение Стратхольма (героический режим). Вероятность получения: 91.85%.",
 		"priceClassName": "card-price-mounts card-price-mounts-fly",
 		"price": 300
 	},
