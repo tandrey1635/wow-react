@@ -780,14 +780,14 @@
 	},
 
 	{
-		"id": "",
+		"id": "FlyingMachine",
 		"className": "card-mounts card-mounts-fly",
 		"path": "",
-		"cardImg": "/src/assets/img/mounts/bg/fly/.png",
+		"cardImg": "/src/assets/img/mounts/bg/fly/Flying-Machine.png",
 		"titleClassName": "card-title-mounts card-title-mounts-fly",
 		"title": "Ветролет",
 		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "1",
+		"description": "Основной костяк воздушных сил Альянса составляют быстрые и маневренные гномские ветролеты. Профессия: Инженерное дело.",
 		"priceClassName": "card-price-mounts card-price-mounts-fly",
 		"price": 300
 	},
@@ -806,53 +806,53 @@
 	},
 
 	{
-		"id": "",
-		"className": "card-mounts card-mounts-fly",
+		"id": "AerialUnitR21X",
+		"className": "card-mounts card-mounts-fly card-object-fit",
 		"path": "",
-		"cardImg": "/src/assets/img/mounts/bg/fly/.png",
+		"cardImg": "/src/assets/img/mounts/bg/fly/Aerial-Unit-R-21X.png",
 		"titleClassName": "card-title-mounts card-title-mounts-fly",
 		"title": "Воздушное Судно R-21/X",
 		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "1",
+		"description": "Личный воздушный транспорт короля Мехагона, оснащенный развертываемой пушкой и системой подогрева ног. Источник: Король Мехагон. Зона: Операция Мехагон (эпохальный режим). Вероятность получения: 100%.",
 		"priceClassName": "card-price-mounts card-price-mounts-fly",
 		"price": 300
 	},
 
 	{
-		"id": "",
+		"id": "WindborneVelocidrake",
 		"className": "card-mounts card-mounts-fly",
 		"path": "",
-		"cardImg": "/src/assets/img/mounts/bg/fly/.png",
+		"cardImg": "/src/assets/img/mounts/bg/fly/Windborne-Velocidrake.png",
 		"titleClassName": "card-title-mounts card-title-mounts-fly",
 		"title": "Воздушный Велоцидракон",
 		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "1",
+		"description": "Длинные когти велоцидраконов дают им преимущество на равнинах. Награда за достижение: Драконьи острова воздушный велоцидракон.",
 		"priceClassName": "card-price-mounts card-price-mounts-fly",
 		"price": 300
 	},
 
 	{
-		"id": "",
+		"id": "EbonGryphon",
 		"className": "card-mounts card-mounts-fly",
 		"path": "",
-		"cardImg": "/src/assets/img/mounts/bg/fly/.png",
+		"cardImg": "/src/assets/img/mounts/bg/fly/Ebon-Gryphon.png",
 		"titleClassName": "card-title-mounts card-title-mounts-fly",
 		"title": "Вороной Грифон",
 		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "1",
+		"description": "В Штормграде любят львов, а грифон как раз наполовину лев. Только им не понравится, что это как раз та половина, которая без гривы, – укротитель грифонов Разящий Коготь. Фракция: Альянс. Торговец: Таннек Каменный Клюв. Зона: Штормград.",
 		"priceClassName": "card-price-mounts card-price-mounts-fly",
 		"price": 300
 	},
 
 	{
-		"id": "",
+		"id": "RestorationDeathwalker",
 		"className": "card-mounts card-mounts-fly",
 		"path": "",
-		"cardImg": "/src/assets/img/mounts/bg/fly/.png",
+		"cardImg": "/src/assets/img/mounts/bg/fly/Restoration-Deathwalker.png",
 		"titleClassName": "card-title-mounts card-title-mounts-fly",
 		"title": "Восстановленный Вестник Смерти",
 		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "1",
+		"description": "После гибели Тюремщика и вознесения нового Арбитра Темные Земли возвращаются к своему великому Предназначению. В благодарность за помощь, которую оказали смертные герои, некоторые вестники смерти готовы им служить. Награда за достижение: Мастер ключей Shadowlands 4-го сезона.",
 		"priceClassName": "card-price-mounts card-price-mounts-fly",
 		"price": 300
 	},
@@ -871,14 +871,14 @@
 	},
 
 	{
-		"id": "",
+		"id": "NyalothaAllseer",
 		"className": "card-mounts card-mounts-fly",
 		"path": "",
-		"cardImg": "/src/assets/img/mounts/bg/fly/.png",
+		"cardImg": "/src/assets/img/mounts/bg/fly/Nyalotha-Allseer.png",
 		"titleClassName": "card-title-mounts card-title-mounts-fly",
 		"title": "Всевидец из Ни'алоты",
 		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "1",
+		"description": "Чтобы найти его, погрузитесь в круг звезд. Источник: Н'Зот Заразитель. Зона: Ни'алота, Пробуждающийся Город (эпохальный режим). Вероятность получения: 1%.",
 		"priceClassName": "card-price-mounts card-price-mounts-fly",
 		"price": 300
 	},
