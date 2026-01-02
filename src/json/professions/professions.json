@@ -218,5 +218,18 @@
 		"description": "Паскал-К0Р0Л6, огромный железный робот, изготавливающий снаряжение, средства передвижения, игрушки, расходные материалы и другие полезные вещи в обмен на запчасти и аккумуляторы, которые можно добывать в Мехагоне. Также на острове можно находить чертежи новых предметов",
 		"priceClassName": "card-price-professions",
 		"price": 200
+	},
+
+	{
+		"id": "protoformSynthesis",
+		"className": "card-professions",
+		"path": "professions/protoform-synthesis",
+		"cardImg": "/src/assets/img/promo/bg/professions/protoform-synthesis.png",
+		"titleClassName": "card-title-professions",
+		"title": "Протосинтез",
+		"descriptionClassName": "card-text-professions",
+		"description": "Система протосинтеза позволяет собирать реагенты из многих источников в Зерет Мортис и использовать их для создания множества питомцев и ездовых животных.",
+		"priceClassName": "card-price-professions",
+		"price": 200
 	}
 ]

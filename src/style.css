@@ -418,22 +418,22 @@ footer {
   background: url("/src/assets/img/promo/bg/classes/Thrall.png") no-repeat center/contain;
 }
 .promo__raitings_one-handed-weapons {
-  background: url("/src/assets/img/weapons/bg/one-handed.png") no-repeat center/contain;
+  background: url("/src/assets/img/promo/bg/weapons/one-handed.png") no-repeat center/contain;
 }
 .promo__raitings_two-handed-weapons {
-  background: url("/src/assets/img/weapons/bg/two-handed.png") no-repeat center/contain;
+  background: url("/src/assets/img/promo/bg/weapons/two-handed.png") no-repeat center/contain;
 }
 .promo__raitings_range-weapons {
-  background: url("/src/assets/img/weapons/bg/range.png") no-repeat center/contain;
+  background: url("/src/assets/img/promo/bg/weapons/range.png") no-repeat center/contain;
 }
 .promo__raitings_legendary-weapons {
-  background: url("/src/assets/img/weapons/bg/legendary.png") no-repeat center/contain;
+  background: url("/src/assets/img/promo/bg/weapons/legendary.png") no-repeat center/contain;
 }
 .promo__raitings_artifact-weapons {
-  background: url("/src/assets/img/weapons/bg/artifact.png") no-repeat center/contain;
+  background: url("/src/assets/img/promo/bg/weapons/artifact.png") no-repeat center/contain;
 }
 .promo__raitings_decorative-weapons {
-  background: url("/src/assets/img/weapons/bg/decorative.png") no-repeat center/contain;
+  background: url("/src/assets/img/promo/bg/weapons/decorative.png") no-repeat center/contain;
 }
 .promo__raitings_ashbringer {
   background: url("/src/assets/img/weapons/bg/legendary/Ashbringer.png") no-repeat center/contain;
@@ -477,23 +477,17 @@ footer {
 .promo__raitings_naszuro-the-unbound-legacy {
   background: url("/src/assets/img/weapons/bg/legendary/Naszuro-the-Unbound-Legacy.png") no-repeat center/contain;
 }
-.promo__raitings_arms-warrior {
-  background: url("/src/assets/img/promo/bg/weapons/artifact/warrior/Stromkar-the-Warbreaker.png") no-repeat center/contain;
-}
-.promo__raitings_fury-warrior {
-  background: url("/src/assets/img/promo/bg/weapons/artifact/warrior/Arm-of-the-Dragonrider.png") no-repeat center/contain;
-}
 .promo__raitings_shields {
-  background: url("/src/assets/img/armours/bg/shields.png") no-repeat center/contain;
+  background: url("/src/assets/img/promo/bg/armours/shields.png") no-repeat center/contain;
 }
 .promo__raitings_cloaks {
-  background: url("/src/assets/img/armours/bg/cloaks.png") no-repeat center/contain;
+  background: url("/src/assets/img/promo/bg/armours/cloaks.png") no-repeat center/contain;
 }
 .promo__raitings_tabards {
-  background: url("/src/assets/img/armours/bg/tabards.png") no-repeat center/contain;
+  background: url("/src/assets/img/promo/bg/armours/tabards.png") no-repeat center/contain;
 }
 .promo__raitings_fishing-rods {
-  background: url("/src/assets/img/armours/bg/fishing-rods.png") no-repeat center/contain;
+  background: url("/src/assets/img/promo/bg/armours/fishing-rods.png") no-repeat center/contain;
 }
 .promo__raitings_water-mounts {
   background: url("/src/assets/img/mounts/bg/water.png") no-repeat center/contain;
@@ -511,55 +505,58 @@ footer {
   background: url("/src/assets/img/gold/bg/alliance.png") no-repeat center/contain;
 }
 .promo__raitings_alchemy {
-  background: url("/src/assets/img/professions/bg/alchemy.png") no-repeat center/contain;
+  background: url("/src/assets/img/promo/bg/professions/alchemy.png") no-repeat center/contain;
 }
 .promo__raitings_mining {
-  background: url("/src/assets/img/professions/bg/mining.png") no-repeat center/contain;
+  background: url("/src/assets/img/promo/bg/professions/mining.png") no-repeat center/contain;
 }
 .promo__raitings_engineering {
-  background: url("/src/assets/img/professions/bg/engineering.png") no-repeat center/contain;
+  background: url("/src/assets/img/promo/bg/professions/engineering.png") no-repeat center/contain;
 }
 .promo__raitings_leatherworking {
-  background: url("/src/assets/img/professions/bg/leatherworking.png") no-repeat center/contain;
+  background: url("/src/assets/img/promo/bg/professions/leatherworking.png") no-repeat center/contain;
 }
 .promo__raitings_blacksmithing {
-  background: url("/src/assets/img/professions/bg/blacksmithing.png") no-repeat center/contain;
+  background: url("/src/assets/img/promo/bg/professions/blacksmithing.png") no-repeat center/contain;
 }
 .promo__raitings_enchanting {
-  background: url("/src/assets/img/professions/bg/enchanting.png") no-repeat center/contain;
+  background: url("/src/assets/img/promo/bg/professions/enchanting.png") no-repeat center/contain;
 }
 .promo__raitings_inscription {
-  background: url("/src/assets/img/professions/bg/inscription.png") no-repeat center/contain;
+  background: url("/src/assets/img/promo/bg/professions/inscription.png") no-repeat center/contain;
 }
 .promo__raitings_tailoring {
-  background: url("/src/assets/img/professions/bg/tailoring.png") no-repeat center/contain;
+  background: url("/src/assets/img/promo/bg/professions/tailoring.png") no-repeat center/contain;
 }
 .promo__raitings_skinning {
-  background: url("/src/assets/img/professions/bg/skinning.png") no-repeat center/contain;
+  background: url("/src/assets/img/promo/bg/professions/skinning.png") no-repeat center/contain;
 }
 .promo__raitings_herbalism {
-  background: url("/src/assets/img/professions/bg/herbalism.png") no-repeat center/contain;
+  background: url("/src/assets/img/promo/bg/professions/herbalism.png") no-repeat center/contain;
 }
 .promo__raitings_jewelcrafting {
-  background: url("/src/assets/img/professions/bg/jewelcrafting.png") no-repeat center/contain;
+  background: url("/src/assets/img/promo/bg/professions/jewelcrafting.png") no-repeat center/contain;
 }
 .promo__raitings_archaeology {
-  background: url("/src/assets/img/professions/bg/archaeology.png") no-repeat center/contain;
+  background: url("/src/assets/img/promo/bg/professions/archaeology.png") no-repeat center/contain;
 }
 .promo__raitings_riding {
-  background: url("/src/assets/img/professions/bg/riding.png") no-repeat center/contain;
+  background: url("/src/assets/img/promo/bg/professions/riding.png") no-repeat center/contain;
 }
 .promo__raitings_cooking {
-  background: url("/src/assets/img/professions/bg/cooking.png") no-repeat center/contain;
+  background: url("/src/assets/img/promo/bg/professions/cooking.png") no-repeat center/contain;
 }
 .promo__raitings_first-aid {
-  background: url("/src/assets/img/professions/bg/first-aid.png") no-repeat center/contain;
+  background: url("/src/assets/img/promo/bg/professions/first-aid.png") no-repeat center/contain;
 }
 .promo__raitings_fishing {
-  background: url("/src/assets/img/professions/bg/fishing.png") no-repeat center/contain;
+  background: url("/src/assets/img/promo/bg/professions/fishing.png") no-repeat center/contain;
 }
 .promo__raitings_junkyard-tinkering {
-  background: url("/src/assets/img/professions/bg/junkyard-tinkering.png") no-repeat center/contain;
+  background: url("/src/assets/img/promo/bg/professions/junkyard-tinkering.png") no-repeat center/contain;
+}
+.promo__raitings_protoform-synthesis {
+  background: url("/src/assets/img/promo/bg/professions/protoform-synthesis.png") no-repeat center/contain;
 }
 .promo__raitings_honour {
   background: url("/src/assets/img/pvp/bg/honour.png") no-repeat center/contain;

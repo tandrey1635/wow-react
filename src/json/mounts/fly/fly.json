@@ -585,27 +585,27 @@
 	},
 
 	{
-		"id": "",
-		"className": "card-mounts card-mounts-fly",
+		"id": "XiwyllagATV",
+		"className": "card-mounts card-mounts-fly card-object-fit",
 		"path": "",
-		"cardImg": "/src/assets/img/mounts/bg/fly/.png",
+		"cardImg": "/src/assets/img/mounts/bg/fly/Xiwyllag-ATV.png",
 		"titleClassName": "card-title-mounts card-title-mounts-fly",
 		"title": "Везделет Скивиллаг",
 		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "1",
+		"description": "Говорят, что дизайн этого изобретения создавался по образу и подобию одного весьма состоятельного гоблина. Хотя сходство не так уж и очевидно. Профессия: Инженерное и Кузнечное дело.",
 		"priceClassName": "card-price-mounts card-price-mounts-fly",
 		"price": 300
 	},
 
 	{
-		"id": "",
-		"className": "card-mounts card-mounts-fly",
+		"id": "DelversGobTrotter",
+		"className": "card-mounts card-mounts-fly card-object-fit",
 		"path": "",
-		"cardImg": "/src/assets/img/mounts/bg/fly/.png",
+		"cardImg": "/src/assets/img/mounts/bg/fly/Delvers-Gob-Trotter.png",
 		"titleClassName": "card-title-mounts card-title-mounts-fly",
-		"title": "Вездешлямзель для вылазок",
+		"title": "Вездешлямзель для Вылазок",
 		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "1",
+		"description": "Этот воздушный транспорт доставит вас прямо к приключениям, если не взорвется раньше! Награда за локальное задание: Верните мне шляпу. Зона: Остров Дорн.",
 		"priceClassName": "card-price-mounts card-price-mounts-fly",
 		"price": 300
 	},
@@ -637,105 +637,93 @@
 	},
 
 	{
-		"id": "",
+		"id": "GrandArmoredWyvern",
 		"className": "card-mounts card-mounts-fly",
 		"path": "",
-		"cardImg": "/src/assets/img/mounts/bg/fly/.png",
+		"cardImg": "/src/assets/img/mounts/bg/fly/Grand-Armored-Wyvern.png",
 		"titleClassName": "card-title-mounts card-title-mounts-fly",
 		"title": "Величественная Бронированная Виверна",
 		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "1",
+		"description": "Этот свирепый зверь широко известен среди ловцов виверн. Он был одним из первых оседлан ордынской Армией Покорителей. Фракция: Орда. Торговец: Клыкодер Грукна. Зона: Красарангские джунгли.",
 		"priceClassName": "card-price-mounts card-price-mounts-fly",
 		"price": 300
 	},
 
 	{
-		"id": "",
+		"id": "GrandWyvern",
 		"className": "card-mounts card-mounts-fly",
 		"path": "",
-		"cardImg": "/src/assets/img/mounts/bg/fly/.png",
+		"cardImg": "/src/assets/img/mounts/bg/fly/Grand-Wyvern.png",
 		"titleClassName": "card-title-mounts card-title-mounts-fly",
 		"title": "Величественная Виверна",
 		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "1",
+		"description": "Виверны родом из самых неблагоприятных регионов Калимдора, что позволяет им мастерски адаптироваться к любой среде обитания. Фракция: Орда. Награда за задание: Дыхание непроглядной тьмы. Зона: Вершина Кунь-Лай.",
 		"priceClassName": "card-price-mounts card-price-mounts-fly",
 		"price": 300
 	},
 
 	{
-		"id": "",
+		"id": "GrandArmoredGryphon",
 		"className": "card-mounts card-mounts-fly",
 		"path": "",
-		"cardImg": "/src/assets/img/mounts/bg/fly/.png",
+		"cardImg": "/src/assets/img/mounts/bg/fly/Grand-Armored-Gryphon.png",
 		"titleClassName": "card-title-mounts card-title-mounts-fly",
 		"title": "Величественный Бронированный Грифон",
 		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "1",
+		"description": "Этот благородный грифон станет проявлением верности и боевых качеств, о которых любой член Альянса может только мечтать. Фракция: Альянс. Торговец: Агент Мэлли. Зона: Красарангские джунгли.",
 		"priceClassName": "card-price-mounts card-price-mounts-fly",
 		"price": 300
 	},
 
 	{
-		"id": "",
+		"id": "GrandGryphon",
 		"className": "card-mounts card-mounts-fly",
 		"path": "",
-		"cardImg": "/src/assets/img/mounts/bg/fly/.png",
+		"cardImg": "/src/assets/img/mounts/bg/fly/Grand-Gryphon.png",
 		"titleClassName": "card-title-mounts card-title-mounts-fly",
 		"title": "Величественный Грифон",
 		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "1",
+		"description": "Острое зрение грифонов позволяет им заметить опасность на огромном расстоянии и заблаговременно предупредить своего наездника. Фракция: Альянс. Награда за задание: Тишина. Зона: Вершина Кунь-Лай.",
 		"priceClassName": "card-price-mounts card-price-mounts-fly",
 		"price": 300
 	},
 
 	{
-		"id": "",
+		"id": "HeartbondLupine",
 		"className": "card-mounts card-mounts-fly",
 		"path": "",
-		"cardImg": "/src/assets/img/mounts/bg/fly/.png",
+		"cardImg": "/src/assets/img/mounts/bg/fly/Heartbond-Lupine.png",
 		"titleClassName": "card-title-mounts card-title-mounts-fly",
 		"title": "Верный Люпин",
 		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "1",
+		"description": "Этот лишенный стали люпин искренне привязался к вам с самого своего создания. Профессия: Протосинтез.",
 		"priceClassName": "card-price-mounts card-price-mounts-fly",
 		"price": 300
 	},
 
-	{
-		"id": "",
-		"className": "card-mounts card-mounts-fly",
-		"path": "",
-		"cardImg": "/src/assets/img/mounts/bg/fly/.png",
-		"titleClassName": "card-title-mounts card-title-mounts-fly",
-		"title": "Весенняя Бабочка",
-		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "1",
-		"priceClassName": "card-price-mounts card-price-mounts-fly",
-		"price": 300
-	},
 
 	{
-		"id": "",
+		"id": "BronzewingVespoid",
 		"className": "card-mounts card-mounts-fly",
 		"path": "",
-		"cardImg": "/src/assets/img/mounts/bg/fly/.png",
+		"cardImg": "/src/assets/img/mounts/bg/fly/Bronzewing-Vespoid.png",
 		"titleClassName": "card-title-mounts card-title-mounts-fly",
 		"title": "Веспоид Бронзокрыл",
 		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "1",
+		"description": "Веспоид-бронзокрыл – результат попытки синтезировать матку отдельно от улья. Синтезировать целый улей пока не удалось ни одному смертному, но из бронзокрылов получились хорошие ездовые животные. Профессия: Протосинтез.",
 		"priceClassName": "card-price-mounts card-price-mounts-fly",
 		"price": 300
 	},
 
 	{
-		"id": "",
+		"id": "VespoidFlutterer",
 		"className": "card-mounts card-mounts-fly",
 		"path": "",
-		"cardImg": "/src/assets/img/mounts/bg/fly/.png",
+		"cardImg": "/src/assets/img/mounts/bg/fly/Vespoid-Flutterer.png",
 		"titleClassName": "card-title-mounts card-title-mounts-fly",
 		"title": "Веспоид Стрекотун",
 		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "1",
+		"description": "Стрекотуны – это громадные веспоиды-рабочие, которых создали для езды верхом. Наездник заменяет им матку улья, чьей воле они обычно подчиняются во всем. Профессия: Протосинтез.",
 		"priceClassName": "card-price-mounts card-price-mounts-fly",
 		"price": 300
 	},
@@ -754,27 +742,27 @@
 	},
 
 	{
-		"id": "",
+		"id": "RememberedWindRider",
 		"className": "card-mounts card-mounts-fly",
 		"path": "",
-		"cardImg": "/src/assets/img/mounts/bg/fly/.png",
+		"cardImg": "/src/assets/img/mounts/bg/fly/Remembered-Wind-Rider.png",
 		"titleClassName": "card-title-mounts card-title-mounts-fly",
-		"title": "Ветрокрыл из воспоминания",
+		"title": "Ветрокрыл из Воспоминания",
 		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "1",
+		"description": "Эти благородные создания участвовали в сотнях битв и помогли одержать сотни побед. Фракция: Орда. Торговец: Мнемомант Амуул. Зона: Даларан (Расколотые Острова).",
 		"priceClassName": "card-price-mounts card-price-mounts-fly",
 		"price": 300
 	},
 
 	{
-		"id": "",
+		"id": "ChaosForgedWindRider",
 		"className": "card-mounts card-mounts-fly",
 		"path": "",
-		"cardImg": "/src/assets/img/mounts/bg/fly/.png",
+		"cardImg": "/src/assets/img/mounts/bg/fly/Chaos-Forged-Wind-Rider.png",
 		"titleClassName": "card-title-mounts card-title-mounts-fly",
 		"title": "Ветрокрыл из Кузни Хаоса",
 		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "1",
+		"description": "Это существо родилось и выросло во времена великой смуты. Трудно представить, какие испытания ему пришлось пережить. Источник: Внутриигровой магазин.",
 		"priceClassName": "card-price-mounts card-price-mounts-fly",
 		"price": 300
 	},
@@ -793,14 +781,14 @@
 	},
 
 	{
-		"id": "",
+		"id": "RampartScreecher",
 		"className": "card-mounts card-mounts-fly",
 		"path": "",
-		"cardImg": "/src/assets/img/mounts/bg/fly/.png",
+		"cardImg": "/src/assets/img/mounts/bg/fly/Rampart-Screecher.png",
 		"titleClassName": "card-title-mounts card-title-mounts-fly",
 		"title": "Визгун с Укреплений",
 		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "1",
+		"description": "Эти огромные нетопыри, гнездящиеся на укреплениях замка Нафрия, служат дополнительными часовыми и учатся атаковать подступающих врагов с воздуха. Награда за достижение: Слава Рейдеру Нафрии.",
 		"priceClassName": "card-price-mounts card-price-mounts-fly",
 		"price": 300
 	},
@@ -858,14 +846,14 @@
 	},
 
 	{
-		"id": "",
-		"className": "card-mounts card-mounts-fly",
+		"id": "SalvagedGoblinGazillionairesFlyingMachine",
+		"className": "card-mounts card-mounts-fly card-object-fit",
 		"path": "",
-		"cardImg": "/src/assets/img/mounts/bg/fly/.png",
+		"cardImg": "/src/assets/img/mounts/bg/fly/Salvaged-Goblin-Gazillionaires-Flying-Machine.png",
 		"titleClassName": "card-title-mounts card-title-mounts-fly",
 		"title": "Восстановленный Ветролет Гоблина Триллиардера",
 		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "1",
+		"description": "Когда-то этот ветролет считался очень престижным в высшем гоблинском обществе, но он оказался на свалке, когда его сменила более крупная, яркая и взрывная модель. Источник: Мусор из Галаджио. Зона: Нижняя Шахта. Вероятность получения: 1.63%.",
 		"priceClassName": "card-price-mounts card-price-mounts-fly",
 		"price": 300
 	},
@@ -884,14 +872,14 @@
 	},
 
 	{
-		"id": "",
+		"id": "ForgedSpiteflyer",
 		"className": "card-mounts card-mounts-fly",
 		"path": "",
-		"cardImg": "/src/assets/img/mounts/bg/fly/.png",
+		"cardImg": "/src/assets/img/mounts/bg/fly/Forged-Spiteflyer.png",
 		"titleClassName": "card-title-mounts card-title-mounts-fly",
 		"title": "Выкованный Злыдень",
 		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "1",
+		"description": "Хотите по-настоящему почувствовать, как прекрасна жизнь? Попробуйте прокатиться по царству Смерти верхом на существе, которое вас ненавидит. Профессия: Протосинтез.",
 		"priceClassName": "card-price-mounts card-price-mounts-fly",
 		"price": 300
 	},

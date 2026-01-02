@@ -108,6 +108,8 @@ import Cooking  from "./pages/professions/Cooking.tsx";
 import FirstAid  from "./pages/professions/FirstAid.tsx";
 import Fishing  from "./pages/professions/Fishing.tsx";
 import JunkyardTinkering  from "./pages/professions/JunkyardTinkering.tsx";
+import ProtoformSynthesis  from "./pages/professions/ProtoformSynthesis.tsx";
+
 
 
 
@@ -267,6 +269,7 @@ createRoot(document.getElementById("root")!).render(
 				<Route path="professions/first-aid" element={<FirstAid />} />
 				<Route path="professions/fishing" element={<Fishing />} />
 				<Route path="professions/junkyard-tinkering" element={<JunkyardTinkering />} />
+				<Route path="professions/protoform-synthesis" element={<ProtoformSynthesis />} />
 
 
 				<Route path="pvp/honour" element={<Honour />} />
