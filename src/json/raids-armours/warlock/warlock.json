@@ -1,0 +1,222 @@
+[
+	{
+		"id": "FelheartRaiment",
+		"className": "card-warlock",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/warlock/Felheart-Raiment.png",
+		"titleClassName": "card-title-warlock",
+		"title": "Одеяния Сердца Скверны",
+		"descriptionClassName": "card-text-warlock",
+		"description": "Первый комплект брони для чернокнижника из рейда 60-го уровня Огненные Недра дополнения Сlassic. Повелитель Огня будет повержен! Очищение огнем пройдено!",
+		"priceClassName": "card-price-warlock",
+		"price": 100
+	},
+
+	{
+		"id": "NemesisRaiment",
+		"className": "card-warlock",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/warlock/Nemesis-Raiment.png",
+		"titleClassName": "card-title-warlock",
+		"title": "Одеяния Возмездия",
+		"descriptionClassName": "card-text-warlock",
+		"description": "Второй комплект брони для чернокнижника из рейда 60-го уровня Логово Крыла Тьмы дополнения Classic. Лорд Черной Горы будет повержен! Теперь вам подвластен сам Лорд Джараксус!",
+		"priceClassName": "card-price-warlock",
+		"price": 100
+	},
+
+	{
+		"id": "DoomcallersAttire",
+		"className": "card-warlock",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/warlock/Doomcallers-Attire.png",
+		"titleClassName": "card-title-warlock",
+		"title": "Наряд Призывателя Рока",
+		"descriptionClassName": "card-text-warlock",
+		"description": "Комплект брони для чернокнижника 2.5 из рейда 60-го уровня Храм Ан'Киража дополнения Classic. Владыка Ан'Киража будет повержен! Вы еще не мертвы!",
+		"priceClassName": "card-price-warlock",
+		"price": 100
+	},
+
+	{
+		"id": "PlagueheartRaiment",
+		"className": "card-warlock",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/warlock/Plagueheart-Raiment.png",
+		"titleClassName": "card-title-warlock",
+		"title": "Облачение Проклятого Сердца",
+		"descriptionClassName": "card-text-warlock",
+		"description": "Третий комплект брони для чернокнижника из рейда 60-го уровня Наксрамас дополнения Classic. Верховный Лич будет повержен! Некромантия вам не страшна!",
+		"priceClassName": "card-price-warlock",
+		"price": 100
+	},
+
+	{
+		"id": "GlacialRegaliaSet",
+		"className": "card-warlock",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/general/cloth/warlock/Glacial-Regalia-Set-warlock.png",
+		"titleClassName": "card-title-warlock",
+		"title": "Ледовый Тканевый Комплект",
+		"descriptionClassName": "card-text-warlock",
+		"description": "Награда за цепочку заданий исследования Наксрамаса дополнения Classic. Ледяной Змей будет повержен! Потрясающая защита от магии льда!",
+		"priceClassName": "card-price-warlock",
+		"price": 100
+	},
+
+	{
+		"id": "AuchenaiPriestsRaiment",
+		"className": "card-warlock",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/general/cloth/warlock/Auchenai-Priests-Raiment-warlock.png",
+		"titleClassName": "card-title-warlock",
+		"title": "Облачение Аукенайского Жреца",
+		"descriptionClassName": "card-text-warlock",
+		"description": "Комплект брони в награду за путешествия во времени по подземельям дополнения The Burning Crusade. Броня, дарованная Хранителями Времени за череду подвигов в их походах по лабиринтам вечности. Ваша броня закалена в схватках с аномалиями прошлого и будущего, а её сталь несёт несокрушимую мощь самого времени!",
+		"priceClassName": "card-price-warlock",
+		"price": 200
+	},
+
+	{
+		"id": "MoonclothBattlegear",
+		"className": "card-warlock",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/general/cloth/warlock/Mooncloth-Battlegear-warlock.png",
+		"titleClassName": "card-title-warlock",
+		"title": "Облачение из Луноткани",
+		"descriptionClassName": "card-text-warlock",
+		"description": "Комплект брони за репутацию у фракций Нижний город, Траллмар, Хранители Времени, Кенарийская экспедиция и Ша'тар дополнения The Burning Crusade. Вы стали непоколебимым щитом Нижнего города, грозной ударной силой Запределья! Ваша броня несет несокрушимую мощь временных потоков, укреплена силой древних лесов и озарена светом Наару на пути к победе над тьмой!",
+		"priceClassName": "card-price-warlock",
+		"price": 200
+	},
+
+	{
+		"id": "HallowedRaiment",
+		"className": "card-warlock",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/general/cloth/warlock/Hallowed-Raiment-warlock.png",
+		"titleClassName": "card-title-warlock",
+		"title": "Благословенные Ризы",
+		"descriptionClassName": "card-text-warlock",
+		"description": "Комплект брони из подземелий дополнения The Burning Crusade. Броня, закалённая в героических походах по самым опасным подземельям Запределья, от огненных недр Кузницы Крови до кошмарных лабиринтов Гробниц Маны. Вы прошли через адский огонь и тенистую глушь, и теперь ваша сталь звенит песней побед!",
+		"priceClassName": "card-price-warlock",
+		"price": 200
+	},
+
+	{
+		"id": "ManaEtchedRegalia",
+		"className": "card-warlock",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/general/cloth/warlock/Mana-Etched-Regalia-warlock.png",
+		"titleClassName": "card-title-warlock",
+		"title": "Пропитанные маной Одежды",
+		"descriptionClassName": "card-text-warlock",
+		"description": "Комплект брони из подземелий дополнения The Burning Crusade. Броня, закалённая в героических походах по самым опасным подземельям Запределья, от огненных недр Кузницы Крови до кошмарных лабиринтов Гробниц Маны. Вы прошли через адский огонь и тенистую глушь, и теперь ваша сталь звенит песней побед!",
+		"priceClassName": "card-price-warlock",
+		"price": 200
+	},
+
+	{
+		"id": "ShadowmoonWarlocksVestments",
+		"className": "card-warlock",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/general/cloth/warlock/Shadowmoon-Warlocks-Vestments-warlock.png",
+		"titleClassName": "card-title-warlock",
+		"title": "Одежды Чернокнижника Клана Призрачной Луны",
+		"descriptionClassName": "card-text-warlock",
+		"description": "Комплект брони в награду за путешествия во времени по подземельям дополнения The Burning Crusade. Броня, дарованная Хранителями Времени за череду подвигов в их походах по лабиринтам вечности. Ваша броня закалена в схватках с аномалиями прошлого и будущего, а её сталь несёт несокрушимую мощь самого времени!",
+		"priceClassName": "card-price-warlock",
+		"price": 200
+	},
+
+	{
+		"id": "DreadweaveBattlegear",
+		"className": "card-warlock",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/general/cloth/warlock/Dreadweave-Battlegear-warlock.png",
+		"titleClassName": "card-title-warlock",
+		"title": "Облачение из Ткани Ужаса",
+		"descriptionClassName": "card-text-warlock",
+		"description": "Комплект брони за репутацию у фракций Нижний город, Траллмар, Хранители Времени, Кенарийская экспедиция и Ша'тар дополнения The Burning Crusade. Вы стали непоколебимым щитом Нижнего города, грозной ударной силой Запределья! Ваша броня несет несокрушимую мощь временных потоков, укреплена силой древних лесов и озарена светом Наару на пути к победе над тьмой!",
+		"priceClassName": "card-price-warlock",
+		"price": 200
+	},
+
+	{
+		"id": "OblivionRaiment",
+		"className": "card-warlock",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/general/cloth/warlock/Oblivion-Raiment-warlock.png",
+		"titleClassName": "card-title-warlock",
+		"title": "Одежды Забвения",
+		"descriptionClassName": "card-text-warlock",
+		"description": "Комплект брони из подземелий дополнения The Burning Crusade. Броня, закалённая в героических походах по самым опасным подземельям Запределья, от огненных недр Кузницы Крови до кошмарных лабиринтов Гробниц Маны. Вы прошли через адский огонь и тенистую глушь, и теперь ваша сталь звенит песней побед!",
+		"priceClassName": "card-price-warlock",
+		"price": 200
+	},
+
+	{
+		"id": "MindwrackRaiment",
+		"className": "card-warlock",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/general/cloth/warlock/Mindwrack-Raiment-warlock.png",
+		"titleClassName": "card-title-warlock",
+		"title": "Одеяния Насилия над Разумом",
+		"descriptionClassName": "card-text-warlock",
+		"description": "Комплект брони в духе дополнения The Burning Crusade. Добавлен в игру в 2018 году в рамках события «Наденьте это немедленно!» — особого праздника трансмогрификации (2 сезон). Стоимость комплекта составляет 60 жетонов шоу у специальных продавцов в столицах.",
+		"priceClassName": "card-price-warlock",
+		"price": 200
+	},
+
+	{
+		"id": "VoidheartRaiment",
+		"className": "card-warlock",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/warlock/Voidheart-Raiment.png",
+		"titleClassName": "card-title-warlock",
+		"title": "Одеяния Сердца Бездны",
+		"descriptionClassName": "card-text-warlock",
+		"description": "Первый комплект брони для чернокнижника из рейдов 70-го уровня Каражан, Логово Магтеридона и Логово Груула дополнения The Burning Crusade. Принц Эредеров, Повелитель Преисподней и Огров будут повержены! Станьте его погибелью! Оберните кровь против него самого! Никакой пощады ограм!",
+		"priceClassName": "card-price-warlock",
+		"price": 200
+	},
+
+	{
+		"id": "CorruptorRaiment",
+		"className": "card-warlock",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/warlock/Corruptor-Raiment.png",
+		"titleClassName": "card-title-warlock",
+		"title": "Одеяния Осквернителя",
+		"descriptionClassName": "card-text-warlock",
+		"description": "Второй комплект брони для чернокнижника из рейдов 70-го уровня Змеиное святилище и Крепость Бурь дополнения The Burning Crusade. Королева Наг и Принц Кель'Таласа будут повержены! Укажите место Королеве Наг положенное ей по праву! Теперь вы почувствуете вкус истинной мощи! За Кель'Талас!",
+		"priceClassName": "card-price-warlock",
+		"price": 200
+	},
+
+	{
+		"id": "MaleficRaiment",
+		"className": "card-warlock",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/warlock/Malefic-Raiment.png",
+		"titleClassName": "card-title-warlock",
+		"title": "Одеяния Пагубы",
+		"descriptionClassName": "card-text-warlock",
+		"description": "Третий комплект брони для чернокнижника из рейдов 70-го уровня Гора Хиджал и Черный Храм дополнения The Burning Crusade. Правитель Пылающего Легиона и Владыка Запределья будет повержен! Этот мир не сгорит! Теперь вы готовы!",
+		"priceClassName": "card-price-warlock",
+		"price": 200
+	},
+
+	{
+		"id": "MaleficSunwellRegalia",
+		"className": "card-warlock",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/warlock/Malefic-Sunwell-Regalia.png",
+		"titleClassName": "card-title-warlock",
+		"title": "Одеяния Пагубы Солнечного Колодца",
+		"descriptionClassName": "card-text-warlock",
+		"description": "Четвертый комплект брони для чернокнижника из рейда 70-го уровня Плато Солнечного Колодца дополнения The Burning Crusade. Искуситель будет повержен! Оберните силу Солнечного Колодца против него самого!",
+		"priceClassName": "card-price-warlock",
+		"price": 200
+	}
+]

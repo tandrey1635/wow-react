@@ -18,6 +18,7 @@ const Warlock = () => {
 				<h1 style={{fontSize: 120}} className="text-center text-danger">В разработке</h1>
 				<Announcement warlock />
 				<Promo warlock />
+				<Cards raidsArmoursWarlock />
 			</Main>
 			<Footer />
 			<ArrowUp />
