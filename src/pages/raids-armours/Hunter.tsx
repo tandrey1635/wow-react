@@ -18,6 +18,7 @@ const Hunter = () => {
 				<h1 style={{fontSize: 120}} className="text-center text-danger">В разработке</h1>
 				<Announcement hunter />
 				<Promo hunter />
+				<Cards raidsArmoursHunter />
 			</Main>
 			<Footer />
 			<ArrowUp />

@@ -1,0 +1,157 @@
+[
+	{
+		"id": "GiantstalkerArmor",
+		"className": "card-hunter",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/hunter/Giantstalker-Armor.png",
+		"titleClassName": "card-title-hunter",
+		"title": "Доспехи Истребителя Великанов",
+		"descriptionClassName": "card-text-hunter",
+		"description": "Первый комплект брони для охотника из рейда 60-го уровня Огненные Недра дополнения Сlassic. Повелитель Огня будет повержен! Очищение огнем пройдено!",
+		"priceClassName": "card-price-hunter",
+		"price": 100
+	},
+
+	{
+		"id": "DragonstalkerArmor",
+		"className": "card-hunter",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/hunter/Dragonstalker-Armor.png",
+		"titleClassName": "card-title-hunter",
+		"title": "Доспехи Охотника на Драконов",
+		"descriptionClassName": "card-text-hunter",
+		"description": "Второй комплект брони для охотника из рейда 60-го уровня Логово Крыла Тьмы дополнения Classic. Лорд Черной Горы будет повержен! Теперь ваше оружие незнает преград!",
+		"priceClassName": "card-price-hunter",
+		"price": 100
+	},
+
+	{
+		"id": "StrikersGarb",
+		"className": "card-hunter",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/hunter/Strikers-Garb.png",
+		"titleClassName": "card-title-hunter",
+		"title": "Одеяния Бойца",
+		"descriptionClassName": "card-text-hunter",
+		"description": "Комплект брони для охотника 2.5 из рейда 60-го уровня Храм Ан'Киража дополнения Classic. Владыка Ан'Киража будет повержен! Вы еще не мертвы!",
+		"priceClassName": "card-price-hunter",
+		"price": 100
+	},
+
+	{
+		"id": "CryptstalkerArmor",
+		"className": "card-hunter",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/hunter/Cryptstalker-Armor.png",
+		"titleClassName": "card-title-hunter",
+		"title": "Доспехи Расхитителя Гробниц",
+		"descriptionClassName": "card-text-hunter",
+		"description": "Третий комплект брони для охотника из рейда 60-го уровня Наксрамас дополнения Classic. Верховный Лич будет повержен! Некромантия вам не страшна!",
+		"priceClassName": "card-price-hunter",
+		"price": 100
+	},
+
+	{
+		"id": "IcyScaleMailSet",
+		"className": "card-hunter",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/general/mail/hunter/Icy-Scale-Mail-Set-hunter.png",
+		"titleClassName": "card-title-hunter",
+		"title": "Кольчужный Комплект из Ледяной Чешуи",
+		"descriptionClassName": "card-text-hunter",
+		"description": "Награда за цепочку заданий исследования Наксрамаса дополнения Classic. Ледяной Змей будет повержен! Потрясающая защита от магии льда!",
+		"priceClassName": "card-price-hunter",
+		"price": 100
+	},
+
+	{
+		"id": "BoulderfistMysticsBattlegear",
+		"className": "card-hunter",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/general/mail/hunter/Boulderfist-Mystics-Battlegear-hunter.png",
+		"titleClassName": "card-title-hunter",
+		"title": "Боевое Сняряжение Мистика из Клана Тяжелого Кулака",
+		"descriptionClassName": "card-text-hunter",
+		"description": "Комплект брони в награду за путешествия во времени по подземельям дополнения The Burning Crusade. Броня, дарованная Хранителями Времени за череду подвигов в их походах по лабиринтам вечности. Ваша броня закалена в схватках с аномалиями прошлого и будущего, а её сталь несёт несокрушимую мощь самого времени!",
+		"priceClassName": "card-price-hunter",
+		"price": 200
+	},
+
+	{
+		"id": "SeersMailBattlegear",
+		"className": "card-hunter",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/general/mail/hunter/Seers-Mail-Battlegear-hunter.png",
+		"titleClassName": "card-title-hunter",
+		"title": "Кольчужная Броня Провидца",
+		"descriptionClassName": "card-text-hunter",
+		"description": "Комплект брони за репутацию у фракций Нижний город, Траллмар, Хранители Времени, Кенарийская экспедиция и Ша'тар дополнения The Burning Crusade. Вы стали непоколебимым щитом Нижнего города, грозной ударной силой Запределья! Ваша броня несет несокрушимую мощь временных потоков, укреплена силой древних лесов и озарена светом Наару на пути к победе над тьмой!",
+		"priceClassName": "card-price-hunter",
+		"price": 200
+	},
+
+	{
+		"id": "TidefuryRaiment",
+		"className": "card-hunter",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/general/mail/hunter/Tidefury-Raiment-hunter.png",
+		"titleClassName": "card-title-hunter",
+		"title": "Одеяния Яростного Прилива",
+		"descriptionClassName": "card-text-hunter",
+		"description": "Комплект брони из подземелий дополнения The Burning Crusade. Броня, закалённая в героических походах по самым опасным подземельям Запределья, от огненных недр Кузницы Крови до кошмарных лабиринтов Гробниц Маны. Вы прошли через адский огонь и тенистую глушь, и теперь ваша сталь звенит песней побед!",
+		"priceClassName": "card-price-hunter",
+		"price": 200
+	},
+
+	{
+		"id": "DemonStalkerArmor",
+		"className": "card-hunter",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/hunter/Demon-Stalker-Armor.png",
+		"titleClassName": "card-title-hunter",
+		"title": "Доспехи Ловчего Демонов",
+		"descriptionClassName": "card-text-hunter",
+		"description": "Первый комплект брони для охотника из рейдов 70-го уровня Каражан, Логово Магтеридона и Логово Груула дополнения The Burning Crusade. Принц Эредеров, Повелитель Преисподней и Огров будут повержены! Станьте его погибелью! Оберните кровь против него самого! Никакой пощады ограм!",
+		"priceClassName": "card-price-hunter",
+		"price": 200
+	},
+
+	{
+		"id": "RiftStalkerArmor",
+		"className": "card-hunter",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/hunter/Rift-Stalker-Armor.png",
+		"titleClassName": "card-title-hunter",
+		"title": "Доспехи Следопыта Ущелий",
+		"descriptionClassName": "card-text-hunter",
+		"description": "Второй комплект брони для охотника из рейдов 70-го уровня Змеиное святилище и Крепость Бурь дополнения The Burning Crusade. Королева Наг и Принц Кель'Таласа будут повержены! Укажите место Королеве Наг положенное ей по праву! Теперь вы почувствуете вкус истинной мощи! За Кель'Талас!",
+		"priceClassName": "card-price-hunter",
+		"price": 200
+	},
+
+	{
+		"id": "GronnstalkersArmor",
+		"className": "card-hunter",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/hunter/Gronnstalkers-Armor.png",
+		"titleClassName": "card-title-hunter",
+		"title": "Доспехи Охотника на Гроннов",
+		"descriptionClassName": "card-text-hunter",
+		"description": "Третий комплект брони для охотника из рейдов 70-го уровня Гора Хиджал и Черный Храм дополнения The Burning Crusade. Правитель Пылающего Легиона и Владыка Запределья будет повержен! Этот мир не сгорит! Теперь вы готовы!",
+		"priceClassName": "card-price-hunter",
+		"price": 200
+	},
+
+	{
+		"id": "GronnstalkersSunwellBattlegear",
+		"className": "card-hunter",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/hunter/Gronnstalkers-Sunwell-Battlegear.png",
+		"titleClassName": "card-title-hunter",
+		"title": "Доспехи Охотника на Гроннов Солнечного Колодца",
+		"descriptionClassName": "card-text-hunter",
+		"description": "Четвертый комплект брони для охотника из рейда 70-го уровня Плато Солнечного Колодца дополнения The Burning Crusade. Искуситель будет повержен! Оберните силу Солнечного Колодца против него самого!",
+		"priceClassName": "card-price-hunter",
+		"price": 200
+	}
+]

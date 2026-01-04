@@ -5,6 +5,7 @@ import Card from './Card.tsx'
 import dataRaidArmours from '../json/raids-armours/raids-armours.json';
 import dataWarriorRaidArmours from '../json/raids-armours/warrior/warrior.json';
 import dataMageRaidArmours from '../json/raids-armours/mage/mage.json';
+import dataHunterRaidArmours from '../json/raids-armours/hunter/hunter.json';
 import dataPaladinRaidArmours from '../json/raids-armours/paladin/paladin.json';
 import dataDeathKnightRaidArmours from '../json/raids-armours/death-knight/death-knight.json';
 import dataWarlockRaidArmours from '../json/raids-armours/warlock/warlock.json';
@@ -69,7 +70,7 @@ import dataWrathOfTheLichKingRaids from '../json/raids/wrath-of-the-lich-king/ra
 
 
 
-const Cards = ({home, raidsArmoursWarrior, raidsArmoursMage, raidsArmoursPaladin, raidsArmoursDeathKnight, raidsArmoursWarlock, legendaryWeapons, classes, warriorArtifacts, druidArtifacts, priestArtifacts, mageArtifacts, monkArtifacts, hunterArtifacts, demonHunterArtifacts, paladinArtifacts, rogueArtifacts, deathKnightArtifacts, warlockArtifacts, shamanArtifacts, armsWarrior, furyWarrior, protectionWarrior, cloaks, waterMounts, flyMounts, classic, burningCrusade, wrathOfTheLichKing, cataclysm, mistsOfPandaria, warlordsOfDraenor, legion, battleForAzeroth, shadowlands, dragonflight, warWithin, midnight, lastTitan}) => {
+const Cards = ({home, raidsArmoursWarrior, raidsArmoursMage, raidsArmoursHunter, raidsArmoursPaladin, raidsArmoursDeathKnight, raidsArmoursWarlock, legendaryWeapons, classes, warriorArtifacts, druidArtifacts, priestArtifacts, mageArtifacts, monkArtifacts, hunterArtifacts, demonHunterArtifacts, paladinArtifacts, rogueArtifacts, deathKnightArtifacts, warlockArtifacts, shamanArtifacts, armsWarrior, furyWarrior, protectionWarrior, cloaks, waterMounts, flyMounts, classic, burningCrusade, wrathOfTheLichKing, cataclysm, mistsOfPandaria, warlordsOfDraenor, legion, battleForAzeroth, shadowlands, dragonflight, warWithin, midnight, lastTitan}) => {
 
 	const basePathImg = '/src/assets/img'
 
@@ -558,6 +559,12 @@ const Cards = ({home, raidsArmoursWarrior, raidsArmoursMage, raidsArmoursPaladin
 					{ raidsArmoursMage &&
 						<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
 							{ renderCardItems(dataMageRaidArmours) }
+						</div>
+					}
+
+					{ raidsArmoursHunter &&
+						<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
+							{ renderCardItems(dataHunterRaidArmours) }
 						</div>
 					}
 
