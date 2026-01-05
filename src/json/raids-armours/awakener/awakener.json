@@ -1,0 +1,53 @@
+[
+	{
+		"id": "IcyScaleMailSet",
+		"className": "card-awakener",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/general/mail/awakener/Icy-Scale-Mail-Set-awakener.png",
+		"titleClassName": "card-title-awakener",
+		"title": "Кольчужный Комплект из Ледяной Чешуи",
+		"descriptionClassName": "card-text-awakener",
+		"description": "Награда за цепочку заданий исследования Наксрамаса дополнения Classic. Ледяной Змей будет повержен! Потрясающая защита от магии льда!",
+		"priceClassName": "card-price-awakener",
+		"price": 100
+	},
+
+	{
+		"id": "BoulderfistMysticsBattlegear",
+		"className": "card-awakener",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/general/mail/awakener/Boulderfist-Mystics-Battlegear-awakener.png",
+		"titleClassName": "card-title-awakener",
+		"title": "Боевое Сняряжение Мистика из Клана Тяжелого Кулака",
+		"descriptionClassName": "card-text-awakener",
+		"description": "Комплект брони в награду за путешествия во времени по подземельям дополнения The Burning Crusade. Броня, дарованная Хранителями Времени за череду подвигов в их походах по лабиринтам вечности. Ваша броня закалена в схватках с аномалиями прошлого и будущего, а её сталь несёт несокрушимую мощь самого времени!",
+		"priceClassName": "card-price-awakener",
+		"price": 200
+	},
+
+	{
+		"id": "SeersMailBattlegear",
+		"className": "card-awakener",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/general/mail/awakener/Seers-Mail-Battlegear-awakener.png",
+		"titleClassName": "card-title-awakener",
+		"title": "Кольчужная Броня Провидца",
+		"descriptionClassName": "card-text-awakener",
+		"description": "Комплект брони за репутацию у фракций Нижний город, Траллмар, Хранители Времени, Кенарийская экспедиция и Ша'тар дополнения The Burning Crusade. Вы стали непоколебимым щитом Нижнего города, грозной ударной силой Запределья! Ваша броня несет несокрушимую мощь временных потоков, укреплена силой древних лесов и озарена светом Наару на пути к победе над тьмой!",
+		"priceClassName": "card-price-awakener",
+		"price": 200
+	},
+
+	{
+		"id": "TidefuryRaiment",
+		"className": "card-awakener",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/general/mail/awakener/Tidefury-Raiment-awakener.png",
+		"titleClassName": "card-title-awakener",
+		"title": "Одеяния Яростного Прилива",
+		"descriptionClassName": "card-text-awakener",
+		"description": "Комплект брони из подземелий дополнения The Burning Crusade. Броня, закалённая в героических походах по самым опасным подземельям Запределья, от огненных недр Кузницы Крови до кошмарных лабиринтов Гробниц Маны. Вы прошли через адский огонь и тенистую глушь, и теперь ваша сталь звенит песней побед!",
+		"priceClassName": "card-price-awakener",
+		"price": 200
+	}
+]
