@@ -176,7 +176,7 @@
 		"titleClassName": "card-title-mounts card-title-mounts-fly",
 		"title": "Аннигилятор из Оскверненной Стали",
 		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "Аннигилятор из оскверненной стали был создан обезумевшим кузнецом в глубинах цитадели Адского Пламени. В нем идеально сочетаются самые передовые технологии металлистов Железной Орды и хаотические силы Скверны, подчиненные Пылающему Легиону. Источник: Архимонд. Зона: Цитадель Адского Пламени (эпохальный режим). Вероятность получения: 3.52%.",
+		"description": "Аннигилятор из оскверненной стали был создан обезумевшим кузнецом в глубинах цитадели Адского Пламени. В нем идеально сочетаются самые передовые технологии металлистов Железной Орды и хаотические силы Скверны, подчиненные Пылающему Легиону. Источник: Архимонд. Зона: Цитадель Адского Пламени (эпохальный режим). Вероятность получения: 1%.",
 		"priceClassName": "card-price-mounts card-price-mounts-fly",
 		"price": 300
 	},
@@ -566,7 +566,7 @@
 		"titleClassName": "card-title-mounts card-title-mounts-fly",
 		"title": "Быстрая Чернокопытная Лошадь",
 		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "Арденвельдские баллады гласят, что рождение темнорога знаменует переход в загробный мир одного из добрых Диких богов. Поэтому увидеть темнорога это одновременно и благословение, и проклятие. Источник: Ночная Кобыла. Зона: Арденвельд. Вероятность получения: 85.55%.",
+		"description": "Арденвельдские баллады гласят, что рождение темнорога знаменует переход в загробный мир одного из добрых Диких богов. Поэтому увидеть темнорога это одновременно и благословение, и проклятие. Источник: Ночная Кобыла. Зона: Арденвельд. Вероятность получения: 100%.",
 		"priceClassName": "card-price-mounts card-price-mounts-fly",
 		"price": 300
 	},
@@ -1035,7 +1035,7 @@
 		"titleClassName": "card-title-mounts card-title-mounts-fly",
 		"title": "Голова Мимирона",
 		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "Игрушка титанов, чем-то приглянувшаяся древнему богу Йогг-Сарону. На данный момент это самая большая голова механического гнома в Азероте. Источник: Йогг-Сарон (без помощи хранителей). Зона: Ульдуар 25 игроков. Вероятность получения: 0.98%.",
+		"description": "Игрушка титанов, чем-то приглянувшаяся древнему богу Йогг-Сарону. На данный момент это самая большая голова механического гнома в Азероте. Источник: Йогг-Сарон (без помощи хранителей). Зона: Ульдуар 25 игроков. Вероятность получения: 1%.",
 		"priceClassName": "card-price-mounts card-price-mounts-fly",
 		"price": 300
 	},
@@ -3888,14 +3888,14 @@
 	},
 
 	{
-		"id": "",
+		"id": "FieryHearthsteed",
 		"className": "card-mounts card-mounts-fly",
 		"path": "",
-		"cardImg": "/src/assets/img/mounts/bg/fly/.png",
+		"cardImg": "/src/assets/img/mounts/bg/fly/Fiery-Hearthsteed.png",
 		"titleClassName": "card-title-mounts card-title-mounts-fly",
 		"title": "Пламенный Азарт",
 		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "1",
+		"description": "Эти летающие существа незримой молнией проносятся в небесах. Но вам повезло: этот решил показаться вам на глаза. Источник: Промоакция (годовщина Hearthstone).",
 		"priceClassName": "card-price-mounts card-price-mounts-fly",
 		"price": 300
 	},
@@ -3940,14 +3940,14 @@
 	},
 
 	{
-		"id": "",
+		"id": "ReinsOfTheScarletPterrordax",
 		"className": "card-mounts card-mounts-fly",
 		"path": "",
-		"cardImg": "/src/assets/img/mounts/bg/fly/.png",
+		"cardImg": "/src/assets/img/mounts/bg/fly/Reins-of-the-Scarlet-Pterrordax.png",
 		"titleClassName": "card-title-mounts card-title-mounts-fly",
 		"title": "Поводья Алого Терродактиля",
 		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "1",
+		"description": "Этот терродактиль так рвался взлететь в небеса, что его не успели как следует выдрессировать. Фракция: Орда. Награда за задание: Пора взлететь.",
 		"priceClassName": "card-price-mounts card-price-mounts-fly",
 		"price": 300
 	},
@@ -3966,14 +3966,14 @@
 	},
 
 	{
-		"id": "",
+		"id": "ReinsOfAnurelosFlamesGuidance",
 		"className": "card-mounts card-mounts-fly",
 		"path": "",
-		"cardImg": "/src/assets/img/mounts/bg/fly/.png",
+		"cardImg": "/src/assets/img/mounts/bg/fly/Reins-of-Anurelos-Flames-Guidance.png",
 		"titleClassName": "card-title-mounts card-title-mounts-fly",
 		"title": "Поводья Ану'релоса, Наставления Пламени",
 		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "1",
+		"description": "Ее перья сияют отсветами пламени, но не обжигают, а всего лишь излучают приятное тепло. Источник: Фиракк. Амирдрассил, Надежда Сна (эпохальный режим). Вероятность получения: 1%.",
 		"priceClassName": "card-price-mounts card-price-mounts-fly",
 		"price": 300
 	},
@@ -4064,33 +4064,33 @@
 		"titleClassName": "card-title-mounts card-title-mounts-fly",
 		"title": "Поводья Бронзового Дракона",
 		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "Потерянное время никогда не вернуть. Ой! Вот оно, нашла... – Хронорму. Источник: Осквернитель из Рода Бесконечности. Зона: Очищение Стратхольма (героический режим). Вероятность получения: 91.85%.",
+		"description": "Потерянное время никогда не вернуть. Ой! Вот оно, нашла... – Хронорму. Источник: Осквернитель из Рода Бесконечности. Зона: Очищение Стратхольма (героический режим). Вероятность получения: 100%.",
 		"priceClassName": "card-price-mounts card-price-mounts-fly",
 		"price": 300
 	},
 
 	{
-		"id": "",
+		"id": "ReinsOfTheArmoredSkyscreamer",
 		"className": "card-mounts card-mounts-fly",
 		"path": "",
-		"cardImg": "/src/assets/img/mounts/bg/fly/.png",
+		"cardImg": "/src/assets/img/mounts/bg/fly/Reins-of-the-Armored-Skyscreamer.png",
 		"titleClassName": "card-title-mounts card-title-mounts-fly",
 		"title": "Поводья Бронированного Небесного Крикуна",
 		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "1",
+		"description": "Только героические души, преодолевшие все испытания деспотов могу, с гордостью рассекают облака на небесном крикуне, всегда готовом ринуться в бой. Награда за достижение: Слава Рейдеру Престола Гроз.",
 		"priceClassName": "card-price-mounts card-price-mounts-fly",
 		"price": 300
 	},
 
 	{
-		"id": "",
+		"id": "ReinsOfTheMajesticAzurePeafowl",
 		"className": "card-mounts card-mounts-fly",
 		"path": "",
-		"cardImg": "/src/assets/img/mounts/bg/fly/.png",
+		"cardImg": "/src/assets/img/mounts/bg/fly/Reins-of-the-Majestic-Azure-Peafowl.png",
 		"titleClassName": "card-title-mounts card-title-mounts-fly",
 		"title": "Поводья Великолепного Лазурного Павлина",
 		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "1",
+		"description": "Эти птицы славятся своим пышным оперением и яркими красками. Источник: Торговая лавка.",
 		"priceClassName": "card-price-mounts card-price-mounts-fly",
 		"price": 300
 	},
@@ -4148,14 +4148,14 @@
 	},
 
 	{
-		"id": "",
+		"id": "ReinsOfTheVolcanicStoneDrake",
 		"className": "card-mounts card-mounts-fly",
 		"path": "",
-		"cardImg": "/src/assets/img/mounts/bg/fly/.png",
+		"cardImg": "/src/assets/img/mounts/bg/fly/Reins-of-the-Volcanic-Stone-Drake.png",
 		"titleClassName": "card-title-mounts card-title-mounts-fly",
 		"title": "Поводья Вулканического Дракона",
 		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "1",
+		"description": "Огонь способен удивительно преображать камень. Только не говорите Матери-Скале, что я это сказала, – заклинательница земли Ева. Награда за достижение: Слава Герою Cataclysm.",
 		"priceClassName": "card-price-mounts card-price-mounts-fly",
 		"price": 300
 	},
@@ -4590,14 +4590,14 @@
 	},
 
 	{
-		"id": "",
+		"id": "ReinsOfTheVitreousStoneDrake",
 		"className": "card-mounts card-mounts-fly",
 		"path": "",
-		"cardImg": "/src/assets/img/mounts/bg/fly/.png",
+		"cardImg": "/src/assets/img/mounts/bg/fly/Reins-of-the-Vitreous-Stone-Drake.png",
 		"titleClassName": "card-title-mounts card-title-mounts-fly",
 		"title": "Поводья Камнешкурого Дракона",
 		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "1",
+		"description": "Из этих голубых штуковин получился бы изумительный кулончик или колечко. Дай мне знать, если эта тварь сбросит шкуру, полиняет или что-нибудь в этом роде, – Калинда. Источник: Камнешкур. Зона: Каменные Недра (обычный и героический режимы). Вероятность получения: 1%.",
 		"priceClassName": "card-price-mounts card-price-mounts-fly",
 		"price": 300
 	},
@@ -4954,14 +4954,14 @@
 	},
 
 	{
-		"id": "",
+		"id": "InvinciblesReins",
 		"className": "card-mounts card-mounts-fly",
 		"path": "",
-		"cardImg": "/src/assets/img/mounts/bg/fly/.png",
+		"cardImg": "/src/assets/img/mounts/bg/fly/Invincibles-Reins.png",
 		"titleClassName": "card-title-mounts card-title-mounts-fly",
 		"title": "Поводья Непобедимого",
 		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "1",
+		"description": "Знаменитый жеребец Артаса Менетила служил принцу и при жизни, и после смерти. Оседлать его поистине великий подвиг. Источник: Король-лич. Зона: Цитадель Ледяной Короны 25 игроков (героический режим). Вероятность получения: 1%.",
 		"priceClassName": "card-price-mounts card-price-mounts-fly",
 		"price": 300
 	},
