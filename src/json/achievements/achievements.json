@@ -1,0 +1,196 @@
+[
+	{
+		"id": "quests",
+		"className": "card-achievements",
+		"path": "achievements/quests",
+		"cardImg": "/src/assets/img/promo/bg/achievements/quests.jpg",
+		"titleClassName": "card-title-achievements",
+		"title": "Задания",
+		"descriptionClassName": "card-text-achievements",
+		"description": "От «Принеси 10 шкур» до спасения Азерота. Полный цикл.",
+		"priceClassName": "card-price-achievements",
+		"price": 1000
+	},
+
+	{
+		"id": "max-equipments",
+		"className": "card-achievements",
+		"path": "achievements/equipments",
+		"cardImg": "/src/assets/img/promo/bg/achievements/max-equipments.jpg",
+		"titleClassName": "card-title-achievements",
+		"title": "Экипировка 1000 уровня",
+		"descriptionClassName": "card-text-achievements",
+		"description": "Илвел — не просто цифра. Это пропуск в элитный клуб Азерота.",
+		"priceClassName": "card-price-achievements",
+		"price": 1000
+	},
+
+	{
+		"id": "mounts",
+		"className": "card-achievements",
+		"path": "achievements/mounts",
+		"cardImg": "/src/assets/img/promo/bg/achievements/mounts.jpg",
+		"titleClassName": "card-title-achievements",
+		"title": "1000 маунтов",
+		"descriptionClassName": "card-text-achievements",
+		"description": "«Повелитель табунов». Коллекция, за которой охотятся. Ваш гарнизон утонет в сене.",
+		"priceClassName": "card-price-achievements",
+		"price": 1000
+	},
+
+	{
+		"id": "raids-explorer",
+		"className": "card-achievements",
+		"path": "achievements/raids-explorer",
+		"cardImg": "/src/assets/img/promo/bg/achievements/raids-explorer.jpg",
+		"titleClassName": "card-title-achievements",
+		"title": "Исследователь рейдов",
+		"descriptionClassName": "card-text-achievements",
+		"description": "Знак мастера. Вы прошли огонь, лёд и скверну. Испытание завершено. Все боссы пали, все секреты раскрыты.",
+		"priceClassName": "card-price-achievements",
+		"price": 1000
+	},
+
+	{
+		"id": "legacy",
+		"className": "card-achievements",
+		"path": "achievements/legacy",
+		"cardImg": "/src/assets/img/promo/bg/achievements/legacy.jpg",
+		"titleClassName": "card-title-achievements",
+		"title": "Наследие",
+		"descriptionClassName": "card-text-achievements",
+		"description": "Трофеи ушедших эпох. Доказательство, что вы там были.",
+		"priceClassName": "card-price-achievements",
+		"price": 1000
+	},
+
+	{
+		"id": "great-feats",
+		"className": "card-achievements",
+		"path": "achievements/great-feats",
+		"cardImg": "/src/assets/img/promo/bg/achievements/great-feats.jpg",
+		"titleClassName": "card-title-achievements",
+		"title": "Великие подвиги",
+		"descriptionClassName": "card-text-achievements",
+		"description": "Подвиги, которые не стираются временем. Ваше имя в Легенде.",
+		"priceClassName": "card-price-achievements",
+		"price": 1000
+	},
+
+	{
+		"id": "warcraft-reforged",
+		"className": "card-achievements",
+		"path": "achievements/warcraft-reforged",
+		"cardImg": "/src/assets/img/promo/bg/achievements/warcraft-reforged.jpg",
+		"titleClassName": "card-title-achievements",
+		"title": "Годовщина Warcraft 3 Reforged",
+		"descriptionClassName": "card-text-achievements",
+		"description": "Определите судьбу мира Warcraft!",
+		"priceClassName": "card-price-achievements",
+		"price": 1000
+	},
+
+	{
+		"id": "wow",
+		"className": "card-achievements",
+		"path": "achievements/wow",
+		"cardImg": "/src/assets/img/promo/bg/achievements/wow.jpg",
+		"titleClassName": "card-title-achievements",
+		"title": "Годовщина World of Warcraft",
+		"descriptionClassName": "card-text-achievements",
+		"description": "Великое приключение длиной в 20 лет. Путешествие, достойное легенды!",
+		"priceClassName": "card-price-achievements",
+		"price": 1000
+	},
+
+	{
+		"id": "diablo",
+		"className": "card-achievements",
+		"path": "achievements/diablo",
+		"cardImg": "/src/assets/img/promo/bg/achievements/diablo.jpg",
+		"titleClassName": "card-title-achievements",
+		"title": "Годовщина Diablo",
+		"descriptionClassName": "card-text-achievements",
+		"description": "Нет никакого коровьего уровня!",
+		"priceClassName": "card-price-achievements",
+		"price": 1000
+	},
+
+	{
+		"id": "hearthstone",
+		"className": "card-achievements",
+		"path": "achievements/hearthstone",
+		"cardImg": "/src/assets/img/promo/bg/achievements/hearthstone.jpg",
+		"titleClassName": "card-title-achievements",
+		"title": "Годовщина Hearthstone",
+		"descriptionClassName": "card-text-achievements",
+		"description": "Hearthstone: Heroes of Warcraft!",
+		"priceClassName": "card-price-achievements",
+		"price": 1000
+	},
+
+	{
+		"id": "heroes-of-the-storm",
+		"className": "card-achievements",
+		"path": "achievements/heroes-storm",
+		"cardImg": "/src/assets/img/promo/bg/achievements/heroes-of-the-storm.jpg",
+		"titleClassName": "card-title-achievements",
+		"title": "Годовщина Heroes of the Storm",
+		"descriptionClassName": "card-text-achievements",
+		"description": "В Нексусе все ещё ждут. Кого вы возьмёте в свою юбилейную команду?",
+		"priceClassName": "card-price-achievements",
+		"price": 1000
+	},
+
+	{
+		"id": "starcraft",
+		"className": "card-achievements",
+		"path": "achievements/starcraft",
+		"cardImg": "/src/assets/img/promo/bg/achievements/starcraft.jpg",
+		"titleClassName": "card-title-achievements",
+		"title": "Годовщина StarCraft",
+		"descriptionClassName": "card-text-achievements",
+		"description": "Да здравствует StarCraft!",
+		"priceClassName": "card-price-achievements",
+		"price": 1000
+	},
+
+	{
+		"id": "overwatch",
+		"className": "card-achievements",
+		"path": "achievements/overwatch",
+		"cardImg": "/src/assets/img/promo/bg/achievements/overwatch.jpg",
+		"titleClassName": "card-title-achievements",
+		"title": "Годовщина Overwatch",
+		"descriptionClassName": "card-text-achievements",
+		"description": "Будущее за которе стоит бороться!",
+		"priceClassName": "card-price-achievements",
+		"price": 1000
+	},
+
+	{
+		"id": "wow-collection-editions",
+		"className": "card-achievements",
+		"path": "achievements/wow-collection-editions",
+		"cardImg": "/src/assets/img/promo/bg/achievements/wow-collection-editions.jpg",
+		"titleClassName": "card-title-achievements",
+		"title": "Коллекционные издания World of Warcraft",
+		"descriptionClassName": "card-text-achievements",
+		"description": "Пыльные артефакты. Ваш почётный знак ветерана на полке.",
+		"priceClassName": "card-price-achievements",
+		"price": 1000
+	},
+
+	{
+		"id": "diablo-collection-editions",
+		"className": "card-achievements",
+		"path": "achievements/diablo-collection-editions",
+		"cardImg": "/src/assets/img/promo/bg/achievements/diablo-collection-editions.jpg",
+		"titleClassName": "card-title-achievements",
+		"title": "Коллекционные издания Diablo",
+		"descriptionClassName": "card-text-achievements",
+		"description": "Ваша полка привлекает демонов. И мы это одобряем.",
+		"priceClassName": "card-price-achievements",
+		"price": 1000
+	}
+]

@@ -490,19 +490,19 @@ footer {
   background: url("/src/assets/img/promo/bg/armours/fishing-rods.png") no-repeat center/contain;
 }
 .promo__raitings_water-mounts {
-  background: url("/src/assets/img/mounts/bg/water.png") no-repeat center/contain;
+  background: url("/src/assets/img/promo/bg/mounts/water.png") no-repeat center/contain;
 }
 .promo__raitings_earth-mounts {
-  background: url("/src/assets/img/mounts/bg/earth.png") no-repeat center/contain;
+  background: url("/src/assets/img/promo/bg/mounts/earth.png") no-repeat center/contain;
 }
 .promo__raitings_fly-mounts {
-  background: url("/src/assets/img/mounts/bg/fly.png") no-repeat center/contain;
+  background: url("/src/assets/img/promo/bg/mounts/fly.png") no-repeat center/contain;
 }
 .promo__raitings_horde-gold {
-  background: url("/src/assets/img/gold/bg/horde.png") no-repeat center/contain;
+  background: url("/src/assets/img/promo/bg/gold/horde.png") no-repeat center/contain;
 }
 .promo__raitings_alliance-gold {
-  background: url("/src/assets/img/gold/bg/alliance.png") no-repeat center/contain;
+  background: url("/src/assets/img/promo/bg/gold/alliance.png") no-repeat center/contain;
 }
 .promo__raitings_alchemy {
   background: url("/src/assets/img/promo/bg/professions/alchemy.png") no-repeat center/contain;
@@ -559,13 +559,13 @@ footer {
   background: url("/src/assets/img/promo/bg/professions/protoform-synthesis.png") no-repeat center/contain;
 }
 .promo__raitings_honour {
-  background: url("/src/assets/img/pvp/bg/honour.png") no-repeat center/contain;
+  background: url("/src/assets/img/promo/bg/pvp/honour.png") no-repeat center/contain;
 }
 .promo__raitings_arena {
-  background: url("/src/assets/img/pvp/bg/arena.png") no-repeat center/contain;
+  background: url("/src/assets/img/promo/bg/pvp/arena.png") no-repeat center/contain;
 }
 .promo__raitings_rbg {
-  background: url("/src/assets/img/pvp/bg/rbg.png") no-repeat center/contain;
+  background: url("/src/assets/img/promo/bg/pvp/rbg.png") no-repeat center/contain;
 }
 .promo__raitings_mythic5 {
   background: url("/src/assets/img/dungeons/bg/mythic-5.jpg") no-repeat center/contain;
@@ -625,49 +625,49 @@ footer {
   background: url("/src/assets/img/lvl-up/bg/lvl-up-master.png") no-repeat center/contain;
 }
 .promo__raitings_quests {
-  background: url("/src/assets/img/achievements/bg/quests.jpg") no-repeat center/contain;
+  background: url("/src/assets/img/promo/bg/achievements/quests.jpg") no-repeat center/contain;
 }
 .promo__raitings_equipments {
-  background: url("/src/assets/img/achievements/bg/equipments.jpg") no-repeat center/contain;
+  background: url("/src/assets/img/promo/bg/achievements/max-equipments.jpg") no-repeat center/contain;
 }
 .promo__raitings_mounts {
-  background: url("/src/assets/img/achievements/bg/mounts.jpg") no-repeat center/contain;
+  background: url("/src/assets/img/promo/bg/achievements/mounts.jpg") no-repeat center/contain;
 }
 .promo__raitings_raids-explorer {
-  background: url("/src/assets/img/achievements/bg/raids-explorer.jpg") no-repeat center/contain;
+  background: url("/src/assets/img/promo/bg/achievements/raids-explorer.jpg") no-repeat center/contain;
 }
 .promo__raitings_legacy {
-  background: url("/src/assets/img/achievements/bg/legacy.jpg") no-repeat center/contain;
+  background: url("/src/assets/img/promo/bg/achievements/legacy.jpg") no-repeat center/contain;
 }
 .promo__raitings_great-feats {
-  background: url("/src/assets/img/achievements/bg/great-feats.jpg") no-repeat center/contain;
+  background: url("/src/assets/img/promo/bg/achievements/great-feats.jpg") no-repeat center/contain;
 }
 .promo__raitings_warcraft-reforged {
-  background: url("/src/assets/img/achievements/bg/warcraft-reforged.jpg") no-repeat center/contain;
+  background: url("/src/assets/img/promo/bg/achievements/warcraft-reforged.jpg") no-repeat center/contain;
 }
 .promo__raitings_wow {
-  background: url("/src/assets/img/achievements/bg/wow.jpg") no-repeat center/contain;
+  background: url("/src/assets/img/promo/bg/achievements/wow.jpg") no-repeat center/contain;
 }
 .promo__raitings_diablo {
-  background: url("/src/assets/img/achievements/bg/diablo.jpg") no-repeat center/contain;
+  background: url("/src/assets/img/promo/bg/achievements/diablo.jpg") no-repeat center/contain;
 }
 .promo__raitings_hearthstone {
-  background: url("/src/assets/img/achievements/bg/hearthstone.jpg") no-repeat center/contain;
+  background: url("/src/assets/img/promo/bg/achievements/hearthstone.jpg") no-repeat center/contain;
 }
 .promo__raitings_heroes-storm {
-  background: url("/src/assets/img/achievements/bg/heroes-of-the-storm.jpg") no-repeat center/contain;
+  background: url("/src/assets/img/promo/bg/achievements/heroes-of-the-storm.jpg") no-repeat center/contain;
 }
 .promo__raitings_starcraft {
-  background: url("/src/assets/img/achievements/bg/starcraft.jpg") no-repeat center/contain;
+  background: url("/src/assets/img/promo/bg/achievements/starcraft.jpg") no-repeat center/contain;
 }
 .promo__raitings_overwatch {
-  background: url("/src/assets/img/achievements/bg/overwatch.jpg") no-repeat center/contain;
+  background: url("/src/assets/img/promo/bg/achievements/overwatch.jpg") no-repeat center/contain;
 }
 .promo__raitings_wow-collection-editions {
-  background: url("/src/assets/img/achievements/bg/wow-collection-editions.jpg") no-repeat center/contain;
+  background: url("/src/assets/img/promo/bg/achievements/wow-collection-editions.jpg") no-repeat center/contain;
 }
 .promo__raitings_diablo-collection-editions {
-  background: url("/src/assets/img/achievements/bg/diablo-collection-editions.jpg") no-repeat center/contain;
+  background: url("/src/assets/img/promo/bg/achievements/diablo-collection-editions.jpg") no-repeat center/contain;
 }
 .promo__warnings {
   max-width: 300px;
