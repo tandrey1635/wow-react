@@ -18,6 +18,7 @@ const Druid = () => {
 				<h1 style={{fontSize: 120}} className="text-center text-danger">В разработке</h1>
 				<Announcement druid />
 				<Promo druid />
+				<Cards raidsArmoursDruid />
 			</Main>
 			<Footer />
 			<ArrowUp />
