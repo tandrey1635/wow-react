@@ -55,17 +55,18 @@
 рейдовая броня
 воин - орк
 человек - паладин
-рога - вульпер
 пробудитель - драктир
 монк - пандарен
 хант - дворф
-друид - таурен
-шаман - троль
 маг - ночнорожденный
 лок - эльф бездны
 прист - дреней
 дх - эльф крови
 дк - андед
+рога - вульпер
+друид - таурен
+шаман - троль
+новая расса эльфов в миднайте - ночной эльф
 
 
 
@@ -76,9 +77,7 @@
 анимация лока magereadyspellcast - прическа dark tides
 анимация охотника readyCrossbow / и аналоги для лука и винтовки  - прическа short, борода - medium
 анимация пробужденный magereadyspellcast, внешность: earth - wing, chest - regal, helm - crown, upper arms - rerebraces, lower arms - talons, breechcloth, regal, feet- talons, thighs - ornate, wing decoration - talon, horn color - 12, horns - curved
-
-
-
+анимация шамана stand прическа windswept, цвет волос 14 - синий яркий
 
 
 переделать пути в фото

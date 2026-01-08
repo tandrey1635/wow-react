@@ -1,0 +1,157 @@
+[
+	{
+		"id": "Earthfury",
+		"className": "card-shaman",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/shaman/Earthfury.png",
+		"titleClassName": "card-title-shaman",
+		"title": "Ярость Земли",
+		"descriptionClassName": "card-text-shaman",
+		"description": "Первый комплект брони для шамана из рейда 60-го уровня Огненные Недра дополнения Сlassic. Повелитель Огня будет повержен! Очищение огнем пройдено!",
+		"priceClassName": "card-price-shaman",
+		"price": 100
+	},
+
+	{
+		"id": "TenStorms",
+		"className": "card-shaman",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/shaman/Ten-Storms.png",
+		"titleClassName": "card-title-shaman",
+		"title": "Десять Бурь",
+		"descriptionClassName": "card-text-shaman",
+		"description": "Второй комплект брони для шамана из рейда 60-го уровня Логово Крыла Тьмы дополнения Classic. Лорд Черной Горы будет повержен! Теперь ваша сила стихий вызывает катаклизмы!",
+		"priceClassName": "card-price-shaman",
+		"price": 100
+	},
+
+	{
+		"id": "StormcallersGarb",
+		"className": "card-shaman",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/shaman/Stormcallers-Garb.png",
+		"titleClassName": "card-title-shaman",
+		"title": "Одеяния Зовущего Бурю",
+		"descriptionClassName": "card-text-shaman",
+		"description": "Комплект брони для шамана 2.5 из рейда 60-го уровня Храм Ан'Киража дополнения Classic. Владыка Ан'Киража будет повержен! Вы еще не мертвы!",
+		"priceClassName": "card-price-shaman",
+		"price": 100
+	},
+
+	{
+		"id": "Earthshatterer",
+		"className": "card-shaman",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/shaman/Earthshatterer.png",
+		"titleClassName": "card-title-shaman",
+		"title": "Регалии Землекрушителя",
+		"descriptionClassName": "card-text-shaman",
+		"description": "Третий комплект брони для шамана из рейда 60-го уровня Наксрамас дополнения Classic. Верховный Лич будет повержен! Некромантия вам не страшна!",
+		"priceClassName": "card-price-shaman",
+		"price": 100
+	},
+
+	{
+		"id": "IcyScaleMailSet",
+		"className": "card-shaman",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/general/mail/shaman/Icy-Scale-Mail-Set-shaman.png",
+		"titleClassName": "card-title-shaman",
+		"title": "Кольчужный Комплект из Ледяной Чешуи",
+		"descriptionClassName": "card-text-shaman",
+		"description": "Награда за цепочку заданий исследования Наксрамаса дополнения Classic. Ледяной Змей будет повержен! Потрясающая защита от магии льда!",
+		"priceClassName": "card-price-shaman",
+		"price": 100
+	},
+
+	{
+		"id": "BoulderfistMysticsBattlegear",
+		"className": "card-shaman",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/general/mail/shaman/Boulderfist-Mystics-Battlegear-shaman.png",
+		"titleClassName": "card-title-shaman",
+		"title": "Боевое Сняряжение Мистика из Клана Тяжелого Кулака",
+		"descriptionClassName": "card-text-shaman",
+		"description": "Комплект брони в награду за путешествия во времени по подземельям дополнения The Burning Crusade. Броня, дарованная Хранителями Времени за череду подвигов в их походах по лабиринтам вечности. Ваша броня закалена в схватках с аномалиями прошлого и будущего, а её сталь несёт несокрушимую мощь самого времени!",
+		"priceClassName": "card-price-shaman",
+		"price": 200
+	},
+
+	{
+		"id": "SeersMailBattlegear",
+		"className": "card-shaman",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/general/mail/shaman/Seers-Mail-Battlegear-shaman.png",
+		"titleClassName": "card-title-shaman",
+		"title": "Кольчужная Броня Провидца",
+		"descriptionClassName": "card-text-shaman",
+		"description": "Комплект брони за репутацию у фракций Нижний город, Траллмар, Хранители Времени, Кенарийская экспедиция и Ша'тар дополнения The Burning Crusade. Вы стали непоколебимым щитом Нижнего города, грозной ударной силой Запределья! Ваша броня несет несокрушимую мощь временных потоков, укреплена силой древних лесов и озарена светом Наару на пути к победе над тьмой!",
+		"priceClassName": "card-price-shaman",
+		"price": 200
+	},
+
+	{
+		"id": "TidefuryRaiment",
+		"className": "card-shaman",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/general/mail/shaman/Tidefury-Raiment-shaman.png",
+		"titleClassName": "card-title-shaman",
+		"title": "Одеяния Яростного Прилива",
+		"descriptionClassName": "card-text-shaman",
+		"description": "Комплект брони из подземелий дополнения The Burning Crusade. Броня, закалённая в героических походах по самым опасным подземельям Запределья, от огненных недр Кузницы Крови до кошмарных лабиринтов Гробниц Маны. Вы прошли через адский огонь и тенистую глушь, и теперь ваша сталь звенит песней побед!",
+		"priceClassName": "card-price-shaman",
+		"price": 200
+	},
+
+	{
+		"id": "CycloneRegalia",
+		"className": "card-shaman",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/shaman/Cyclone-Regalia.png",
+		"titleClassName": "card-title-shaman",
+		"title": "Регалии Смерча",
+		"descriptionClassName": "card-text-shaman",
+		"description": "Первый комплект брони для шамана из рейдов 70-го уровня Каражан, Логово Магтеридона и Логово Груула дополнения The Burning Crusade. Принц Эредеров, Повелитель Преисподней и Огров будут повержены! Станьте его погибелью! Оберните кровь против него самого! Никакой пощады ограм!",
+		"priceClassName": "card-price-shaman",
+		"price": 200
+	},
+
+	{
+		"id": "CataclysmRegalia",
+		"className": "card-shaman",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/shaman/Cataclysm-Regalia.png",
+		"titleClassName": "card-title-shaman",
+		"title": "Регалии Катаклизма",
+		"descriptionClassName": "card-text-shaman",
+		"description": "Второй комплект брони для шамана из рейдов 70-го уровня Змеиное святилище и Крепость Бурь дополнения The Burning Crusade. Королева Наг и Принц Кель'Таласа будут повержены! Укажите место Королеве Наг положенное ей по праву! Теперь вы почувствуете вкус истинной мощи! За Кель'Талас!",
+		"priceClassName": "card-price-shaman",
+		"price": 200
+	},
+
+	{
+		"id": "SkyshatterRegalia",
+		"className": "card-shaman",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/shaman/Skyshatter-Regalia.png",
+		"titleClassName": "card-title-shaman",
+		"title": "Регалии Небокрушителя",
+		"descriptionClassName": "card-text-shaman",
+		"description": "Третий комплект брони для шамана из рейдов 70-го уровня Гора Хиджал и Черный Храм дополнения The Burning Crusade. Правитель Пылающего Легиона и Владыка Запределья будет повержен! Этот мир не сгорит! Теперь вы готовы!",
+		"priceClassName": "card-price-shaman",
+		"price": 200
+	},
+
+	{
+		"id": "SkyshatterSunwellRaiment",
+		"className": "card-shaman",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/shaman/Skyshatter-Sunwell-Raiment.png",
+		"titleClassName": "card-title-shaman",
+		"title": "Регалии Небокрушителя Солнечного Колодца",
+		"descriptionClassName": "card-text-shaman",
+		"description": "Четвертый комплект брони для шамана из рейда 70-го уровня Плато Солнечного Колодца дополнения The Burning Crusade. Искуситель будет повержен! Оберните силу Солнечного Колодца против него самого!",
+		"priceClassName": "card-price-shaman",
+		"price": 200
+	}
+]

@@ -18,6 +18,7 @@ const Shaman = () => {
 				<h1 style={{fontSize: 120}} className="text-center text-danger">В разработке</h1>
 				<Announcement shaman />
 				<Promo shaman />
+				<Cards raidsArmoursShaman />
 			</Main>
 			<Footer />
 			<ArrowUp />
