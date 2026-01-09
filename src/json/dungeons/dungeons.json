@@ -1,0 +1,29 @@
+[
+	{
+		"id": "mythic-5",
+		"type": "dungeons",
+		"path": "dungeons/mythic5",
+		"cardImg": "/src/assets/img/promo/bg/dungeons/mythic-5.jpg",
+		"title": "Эпохальные Подземелья М+5",
+		"description": "Любые Эпохальные Подземелья Мythic+5 в таймер",
+		"price": 300
+	},
+
+	{
+		"id": "mythic-10",
+		"path": "dungeons/mythic10",
+		"cardImg": "/src/assets/img/promo/bg/dungeons/mythic-10.jpg",
+		"title": "Эпохальные Подземелья М+10",
+		"description": "Любые Эпохальные Подземелья Мythic+10 в таймер",
+		"price": 500
+	},
+
+	{
+		"id": "mythic-15",
+		"path": "dungeons/mythic15",
+		"cardImg": "/src/assets/img/promo/bg/dungeons/mythic-15.jpg",
+		"title": "Эпохальные Подземелья М+15",
+		"description": "Любые Эпохальные Подземелья Мythic+15 в таймер",
+		"price": 1000
+	}
+]

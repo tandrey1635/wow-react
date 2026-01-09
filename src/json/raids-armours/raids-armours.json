@@ -1,118 +1,92 @@
 [
 	{
-		"id": "warrior",
-		"className": "card-warrior",
+		"id": "Warrior",
+		"type": "warrior",
 		"path": "raids-armours/warrior",
 		"cardImg": "/src/assets/img/promo/bg/classes/Garrosh-Hellscrim.png",
-		"titleClassName": "card-title-warrior",
 		"title": "Воин",
-		"descriptionClassName": "card-text-warrior",
 		"description": "Комплекты рейдовой брони для Воина",
-		"priceClassName": "card-price-warrior",
 		"price": 100
 	},
 
 	{
-		"id": "druid",
-		"className": "card-druid",
+		"id": "Druid",
+		"type": "druid",
 		"path": "raids-armours/druid",
 		"cardImg": "/src/assets/img/promo/bg/classes/Malfurion.png",
-		"titleClassName": "card-title-druid",
 		"title": "Друид",
-		"descriptionClassName": "card-text-druid",
 		"description": "Комплекты рейдовой брони для Друида",
-		"priceClassName": "card-price-druid",
 		"price": 100
 	},
 
 	{
-		"id": "priest",
-		"className": "card-priest",
+		"id": "Priest",
+		"type": "priest",
 		"path": "raids-armours/priest",
 		"cardImg": "/src/assets/img/promo/bg/classes/Velen.png",
 		"titleClassName": "card-title-priest",
 		"title": "Жрец",
-		"descriptionClassName": "card-text-priest",
 		"description": "Комплекты рейдовой брони для Жреца",
-		"priceClassName": "card-price-priest",
 		"price": 100
 	},
 
 	{
-		"id": "mage",
-		"className": "card-mage",
+		"id": "Mage",
+		"type": "mage",
 		"path": "raids-armours/mage",
 		"cardImg": "/src/assets/img/promo/bg/classes/Djaina-Proudmoure.png",
-		"titleClassName": "card-title-mage",
 		"title": "Маг",
-		"descriptionClassName": "card-text-mage",
 		"description": "Комплекты рейдовой брони для Мага",
-		"priceClassName": "card-price-mage",
 		"price": 100
 	},
 
 	{
-		"id": "monk",
-		"className": "card-monk",
+		"id": "Monk",
+		"type": "monk",
 		"path": "raids-armours/monk",
 		"cardImg": "/src/assets/img/promo/bg/classes/Tjan-Dju.png",
-		"titleClassName": "card-title-monk",
 		"title": "Монах",
-		"descriptionClassName": "card-text-monk",
 		"description": "Комплекты рейдовой брони для Монаха",
-		"priceClassName": "card-price-monk",
 		"price": 100
 	},
 
 	{
-		"id": "hunter",
-		"className": "card-hunter",
+		"id": "Hunter",
+		"type": "hunter",
 		"path": "raids-armours/hunter",
 		"cardImg": "/src/assets/img/promo/bg/classes/Rexar.png",
-		"titleClassName": "card-title-hunter",
 		"title": "Охотник",
-		"descriptionClassName": "card-text-hunter",
 		"description": "Комплекты рейдовой брони для Охотника",
-		"priceClassName": "card-price-hunter",
 		"price": 100
 	},
 
 	{
-		"id": "demon-hunter",
-		"className": "card-demon-hunter",
+		"id": "DemonHunter",
+		"type": "demon-hunter",
 		"path": "raids-armours/demon-hunter",
 		"cardImg": "/src/assets/img/promo/bg/classes/Illidan.png",
-		"titleClassName": "card-title-demon-hunter",
 		"title": "Охотник на демонов",
-		"descriptionClassName": "card-text-demon-hunter",
 		"description": "Комплекты рейдовой брони для Охотника на демонов",
-		"priceClassName": "card-price-demon-hunter",
 		"price": 100
 	},
 
 	{
-		"id": "paladin",
-		"className": "card-paladin",
+		"id": "Paladin",
+		"type": "paladin",
 		"path": "raids-armours/paladin",
 		"cardImg": "/src/assets/img/promo/bg/classes/Tirion-Fordring.png",
-		"titleClassName": "card-title-paladin",
 		"title": "Паладин",
-		"descriptionClassName": "card-text-paladin",
 		"description": "Комплекты рейдовой брони для Паладина",
-		"priceClassName": "card-price-paladin",
 		"price": 100
 	},
 
 	{
-		"id": "awakener",
-		"className": "card-awakener",
+		"id": "Awakener",
+		"type": "awakener",
 		"path": "raids-armours/awakener",
 		"cardImg": "/src/assets/img/promo/bg/classes/Scalecommander-Cindrethresh.png",
-		"titleClassName": "card-title-awakener",
 		"title": "Пробудитель",
-		"descriptionClassName": "card-text-awakener",
 		"description": "Комплекты рейдовой брони для Пробудителя",
-		"priceClassName": "card-price-awakener",
 		"price": 100
 	},
 

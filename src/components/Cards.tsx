@@ -39,8 +39,6 @@ import dataProtectionWarriorArtifact from '../json/weapons/artifacts/warrior/pro
 
 
 import dataArmours from '../json/armours/armours.json';
-
-
 import dataCloaks from '../json/armours/cloaks/armours.json';
 
 
@@ -53,6 +51,7 @@ import dataGold from '../json/gold/gold.json';
 import dataMounts from '../json/mounts/mounts.json';
 import dataProfessions from '../json/professions/professions.json';
 import dataPvp from '../json/pvp/pvp.json';
+import dataDungeons from '../json/dungeons/dungeons.json';
 import dataRaids from '../json/raids/raids.json';
 
 
@@ -81,17 +80,10 @@ const Cards = ({home, raidsArmoursWarrior, raidsArmoursDruid, raidsArmoursMage, 
 
 	const basePathImg = '/src/assets/img'
 
-
-	/* Фото подземелья гл стр */
-	const Mythic5CardImg = `${basePathImg}/dungeons/bg/mythic-5.jpg`
-	const Mythic10CardImg = `${basePathImg}/dungeons/bg/mythic-10.jpg`
-	const Mythic15CardImg = `${basePathImg}/dungeons/bg/mythic-15.jpg`
-
 	/* Фото прокачка персонажей гл стр */
 	const LvlUpBaseCardImg = `${basePathImg}/lvl-up/bg/lvl-up-base.png`
 	const LvlUpExpertCardImg = `${basePathImg}/lvl-up/bg/lvl-up-expert.png`
 	const LvlUpMasterCardImg = `${basePathImg}/lvl-up/bg/lvl-up-master.png`
-
 
 
 	const dollarImg = `${basePathImg}/gold/bg/dollar.png`
@@ -103,18 +95,13 @@ const Cards = ({home, raidsArmoursWarrior, raidsArmoursDruid, raidsArmoursMage, 
 		return (
 			<Card
 				key={card.id}
-				className={card.className}
+				type={card.type}
 				path={card.path}
 				cardImg={card.cardImg}
-				descriptionClassName={card.descriptionClassName}
 				spanClassname={card.spanClassname}
 				description={card.description}
-				titleClassName={card.titleClassName}
 				title={card.title}
-				priceClassName={card.priceClassName}
 				price={card.price}
-				priceImg={card.priceImg}
-				priceAlt={card.priceAlt}
 				gold={card.gold === true}
 				raids={card.raids === true}
 			/>
@@ -181,53 +168,7 @@ const Cards = ({home, raidsArmoursWarrior, raidsArmoursDruid, raidsArmoursMage, 
 							{/* Таб контент эпохальные подземелья */}
 							<div className="tab-pane fade show active mt-5" id="pills-dungeons">
 								<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-									<div className="card card-mythic card-mythic-5">
-										<Link to="dungeons/mythic5">
-											<img src={Mythic5CardImg} className="card-img card-img-mythic" alt="Эпохальные Подземелья М+5" />
-										</Link>
-										<div className="card-body">
-											<Link className="card-link" to="dungeons/mythic5">
-												<h3 className="card-title card-title-mythic card-title-mythic-10">Эпохальные Подземелья М+5</h3>
-											</Link>
-											<p className="card-text card-text-mythic card-text-mythic-10">Любые Эпохальные Подземелья Мythic+5 в таймер</p>
-										</div>
-										<div className="card-footer d-flex justify-content-between align-items-center">
-											<p className="card-price card-price-mythic price-mythic-10">от 300<img className="dollar" src={dollarImg} alt={dollarAlt} /></p>
-											<Link to="dungeons/mythic5" className="card-btn card-btn-mythic card-btn-mythic-10">Подробнее</Link>
-										</div>
-									</div>
-
-									<div className="card card-mythic card-mythic-10">
-										<Link to="dungeons/mythic10">
-											<img src={Mythic10CardImg} className="card-img card-img-mythic" alt="Эпохальные Подземелья М+10" />
-										</Link>
-										<div className="card-body">
-											<Link className="card-link" to="dungeons/mythic10">
-												<h3 className="card-title card-title-mythic card-title-mythic-10">Эпохальные Подземелья М+10</h3>
-											</Link>
-											<p className="card-text card-text-mythic card-text-mythic-10">Любые Эпохальные Подземелья Мythic+10 в таймер</p>
-										</div>
-										<div className="card-footer d-flex justify-content-between align-items-center">
-											<p className="card-price card-price-mythic price-mythic-10">от 500<img className="dollar" src={dollarImg} alt={dollarAlt} /></p>
-											<Link to="dungeons/mythic10" className="card-btn card-btn-mythic card-btn-mythic-10">Подробнее</Link>
-										</div>
-									</div>
-
-									<div className="card card-mythic card-mythic-15">
-										<Link to="dungeons/mythic15">
-											<img src={Mythic15CardImg} className="card-img card-img-mythic" alt="Эпохальные Подземелья М+15" />
-										</Link>
-										<div className="card-body">
-											<Link className="card-link" to="dungeons/mythic15">
-												<h3 className="card-title card-title-mythic card-title-mythic-15">Эпохальные Подземелья М+15</h3>
-											</Link>
-											<p className="card-text card-text-mythic card-text-mythic-15">Любые Эпохальные Подземелья Мythic+15 в таймер</p>
-										</div>
-										<div className="card-footer d-flex justify-content-between align-items-center">
-											<p className="card-price card-price-mythic price-mythic-15">от 1000<img className="dollar" src={dollarImg} alt={dollarAlt} /></p>
-											<Link to="dungeons/mythic15" className="card-btn card-btn-mythic card-btn-mythic-15">Подробнее</Link>
-										</div>
-									</div>
+									{ renderCardItems(dataDungeons) }
 								</div>
 							</div>
 

@@ -1,170 +1,131 @@
 [
 	{
 		"id": "BattlegearOfMight",
-		"className": "card-warrior",
+		"type": "warrior",
 		"path": "",
 		"cardImg": "/src/assets/img/raids-armours/bg/warrior/Battlegear-of-Might.png",
-		"titleClassName": "card-title-warrior",
 		"title": "Броня Мощи",
-		"descriptionClassName": "card-text-warrior",
 		"description": "Первый комплект брони для воина из рейда 60-го уровня Огненные Недра дополнения Classic. Повелитель Огня будет повержен! Очищение огнем пройдено!",
-		"priceClassName": "card-price-warrior",
 		"price": 100
 	},
 
 	{
 		"id": "BattlegearOfWrath",
-		"className": "card-warrior",
+		"type": "warrior",
 		"path": "",
 		"cardImg": "/src/assets/img/raids-armours/bg/warrior/Battlegear-of-Wrath.png",
-		"titleClassName": "card-title-warrior",
 		"title": "Броня Гнева",
-		"descriptionClassName": "card-text-warrior",
 		"description": "Второй комплект брони для воина из рейда 60-го уровня Логово Крыла Тьмы дополнения Classic. Лорд Черной Горы будет повержен! Теперь у вас невероятная сила!",
-		"priceClassName": "card-price-warrior",
 		"price": 100
 	},
 
 	{
 		"id": "ConquerorsBattlegear",
-		"className": "card-warrior",
+		"type": "warrior",
 		"path": "",
 		"cardImg": "/src/assets/img/raids-armours/bg/warrior/Conquerors-Battlegear.png",
-		"titleClassName": "card-title-warrior",
 		"title": "Броня Завоевателя",
-		"descriptionClassName": "card-text-warrior",
 		"description": "Комплект брони для воина 2.5 из рейда 60-го уровня Храм Ан'Киража дополнения Classic. Владыка Ан'Киража будет повержен! Вы еще не мертвы!",
-		"priceClassName": "card-price-warrior",
 		"price": 100
 	},
 
 	{
 		"id": "DreadnaughtsBattlegear",
-		"className": "card-warrior",
+		"type": "warrior",
 		"path": "",
 		"cardImg": "/src/assets/img/raids-armours/bg/warrior/Dreadnaughts-Battlegear.png",
-		"titleClassName": "card-title-warrior",
 		"title": "Броня Неустрашимости",
-		"descriptionClassName": "card-text-warrior",
 		"description": "Третий комплект брони для воина из рейда 60-го уровня Наксрамас дополнения Classic. Верховный Лич будет повержен! Некромантия вам не страшна!",
-		"priceClassName": "card-price-warrior",
 		"price": 100
 	},
 
 	{
 		"id": "PlateIcebaneSet",
-		"className": "card-warrior",
+		"type": "warrior",
 		"path": "",
 		"cardImg": "/src/assets/img/raids-armours/bg/general/plate/warrior/Plate-Icebane-Set-warrior.png",
-		"titleClassName": "card-title-warrior",
 		"title": "Латный Комплект Ледяной Погибели",
-		"descriptionClassName": "card-text-warrior",
 		"description": "Награда за цепочку заданий исследования Наксрамаса дополнения Classic. Ледяной Змей будет повержен! Потрясающая защита от магии льда!",
-		"priceClassName": "card-price-warrior",
 		"price": 100
 	},
 
 	{
 		"id": "TelhamatAnchoritesRaiment",
-		"className": "card-warrior",
+		"type": "warrior",
 		"path": "",
 		"cardImg": "/src/assets/img/raids-armours/bg/general/plate/warrior/Telhamat-Anchorites-Raiment-warrior.png",
-		"titleClassName": "card-title-warrior",
 		"title": "Облачение Телхаматского Анахорета",
-		"descriptionClassName": "card-text-warrior",
 		"description": "Комплект брони в награду за путешествия во времени по подземельям дополнения The Burning Crusade. Броня, дарованная Хранителями Времени за череду подвигов в их походах по лабиринтам вечности. Ваша броня закалена в схватках с аномалиями прошлого и будущего, а её сталь несёт несокрушимую мощь самого времени!",
-		"priceClassName": "card-price-warrior",
 		"price": 200
 	},
 
 	{
 		"id": " CrusadersOrnamentedBattlegear",
-		"className": "card-warrior",
+		"type": "warrior",
 		"path": "",
 		"cardImg": "/src/assets/img/raids-armours/bg/general/plate/warrior/Crusaders-Ornamented-Battlegear-warrior.png",
-		"titleClassName": "card-title-warrior",
 		"title": "Чешуйчатая Броня Рыцаря",
-		"descriptionClassName": "card-text-warrior",
 		"description": "Комплект брони за репутацию у фракций Нижний город, Траллмар, Хранители Времени, Кенарийская экспедиция и Ша'тар дополнения The Burning Crusade. Вы стали непоколебимым щитом Нижнего города, грозной ударной силой Запределья! Ваша броня несет несокрушимую мощь временных потоков, укреплена силой древних лесов и озарена светом Наару на пути к победе над тьмой!",
-		"priceClassName": "card-price-warrior",
 		"price": 200
 	},
 
 	{
 		"id": "RighteousArmor",
-		"className": "card-warrior",
+		"type": "warrior",
 		"path": "",
 		"cardImg": "/src/assets/img/raids-armours/bg/general/plate/warrior/Righteous-Armor-warrior.png",
-		"titleClassName": "card-title-warrior",
 		"title": "Броня Праведности",
-		"descriptionClassName": "card-text-warrior",
 		"description": "Комплект брони из подземелий дополнения The Burning Crusade. Броня, закалённая в героических походах по самым опасным подземельям Запределья, от огненных недр Кузницы Крови до кошмарных лабиринтов Гробниц Маны. Вы прошли через адский огонь и тенистую глушь, и теперь ваша сталь звенит песней побед!",
-		"priceClassName": "card-price-warrior",
 		"price": 200
 	},
 
 	{
 		"id": "WarbringerArmor",
-		"className": "card-warrior",
+		"type": "warrior",
 		"path": "",
 		"cardImg": "/src/assets/img/raids-armours/bg/warrior/Warbringer-Armor.png",
-		"titleClassName": "card-title-warrior",
 		"title": "Доспехи Вестника Войны",
-		"descriptionClassName": "card-text-warrior",
 		"description": "Первый комплект брони для воина из рейдов 70-го уровня Каражан, Логово Магтеридона и Логово Груула дополнения The Burning Crusade. Принц Эредеров, Повелитель Преисподней и Огров будут повержены! Станьте его погибелью! Оберните кровь против него самого! Никакой пощады ограм!",
-		"priceClassName": "card-price-warrior",
 		"price": 200
 	},
 
 	{
 		"id": "DestroyerArmor",
-		"className": "card-warrior",
+		"type": "warrior",
 		"path": "",
 		"cardImg": "/src/assets/img/raids-armours/bg/warrior/Destroyer-Armor.png",
-		"titleClassName": "card-title-warrior",
 		"title": "Доспехи Разрушителя",
-		"descriptionClassName": "card-text-warrior",
 		"description": "Второй комплект брони для воина из рейдов 70-го уровня Змеиное святилище и Крепость Бурь дополнения The Burning Crusade. Королева Наг и Принц Кель'Таласа будут повержены! Укажите место Королеве Наг положенное ей по праву! Теперь вы почувствуете вкус истинной мощи! За Кель'Талас!",
-		"priceClassName": "card-price-warrior",
 		"price": 200
 	},
 
 	{
 		"id": "OnslaughtArmor",
-		"className": "card-warrior",
+		"type": "warrior",
 		"path": "",
 		"cardImg": "/src/assets/img/raids-armours/bg/warrior/Onslaught-Armor.png",
-		"titleClassName": "card-title-warrior",
 		"title": "Доспехи Натиска",
-		"descriptionClassName": "card-text-warrior",
 		"description": "Третий комплект брони для воина из рейдов 70-го уровня Гора Хиджал и Черный Храм дополнения The Burning Crusade. Правитель Пылающего Легиона и Владыка Запределья будет повержен! Этот мир не сгорит! Теперь вы готовы!",
-		"priceClassName": "card-price-warrior",
 		"price": 200
 	},
 
 	{
 		"id": "OnslaughtSunwellBattlegear",
-		"className": "card-warrior",
+		"type": "warrior",
 		"path": "",
 		"cardImg": "/src/assets/img/raids-armours/bg/warrior/Onslaught-Sunwell-Battlegear.png",
-		"titleClassName": "card-title-warrior",
 		"title": "Доспехи Натиска Солнечного Колодца",
-		"descriptionClassName": "card-text-warrior",
 		"description": "Четвертый комплект брони для воина из рейда 70-го уровня Плато Солнечного Колодца дополнения The Burning Crusade. Искуситель будет повержен! Оберните силу Солнечного Колодца против него самого!",
-		"priceClassName": "card-price-warrior",
 		"price": 200
 	},
 
 	{
 		"id": "HeroesDreadnaughtBattlegear10",
-		"className": "card-warrior",
+		"type": "warrior",
 		"path": "",
 		"cardImg": "/src/assets/img/raids-armours/warrior/Garrosh-Hellscrim.png",
-		"titleClassName": "card-title-warrior",
 		"title": "Героическая Броня Неустрашимости",
-		"descriptionClassName": "card-text-warrior",
 		"description": "Первый комплект брони для воина из рейда 80-го уровня Наксрамас 10 игроков дополнения Wrath of The Lich King. Верховный лич вернулся! и снова будет повержен! Некромантия вам не страшна!",
-		"priceClassName": "card-price-warrior",
 		"price": 300
 	},
 

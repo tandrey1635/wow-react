@@ -568,13 +568,13 @@ footer {
   background: url("/src/assets/img/promo/bg/pvp/rbg.png") no-repeat center/contain;
 }
 .promo__raitings_mythic5 {
-  background: url("/src/assets/img/dungeons/bg/mythic-5.jpg") no-repeat center/contain;
+  background: url("/src/assets/img/promo/bg/dungeons/mythic-5.jpg") no-repeat center/contain;
 }
 .promo__raitings_mythic10 {
-  background: url("/src/assets/img/dungeons/bg/mythic-10.jpg") no-repeat center/contain;
+  background: url("/src/assets/img/promo/bg/dungeons/mythic-10.jpg") no-repeat center/contain;
 }
 .promo__raitings_mythic15 {
-  background: url("/src/assets/img/dungeons/bg/mythic-15.jpg") no-repeat center/contain;
+  background: url("/src/assets/img/promo/bg/dungeons/mythic-15.jpg") no-repeat center/contain;
 }
 .promo__raitings_сlassic {
   background: url("/src/assets/img/promo/bg/raids/classic.png") no-repeat center/contain;
