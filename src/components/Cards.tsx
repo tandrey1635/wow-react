@@ -5,6 +5,7 @@ import Card from './Card.tsx'
 import dataRaidArmours from '../json/raids-armours/raids-armours.json';
 import dataWarriorRaidArmours from '../json/raids-armours/warrior/warrior.json';
 import dataDruidRaidArmours from '../json/raids-armours/druid/druid.json';
+import dataPriestRaidArmours from '../json/raids-armours/priest/priest.json';
 import dataMageRaidArmours from '../json/raids-armours/mage/mage.json';
 import dataHunterRaidArmours from '../json/raids-armours/hunter/hunter.json';
 import dataPaladinRaidArmours from '../json/raids-armours/paladin/paladin.json';
@@ -76,7 +77,7 @@ import dataAchievements from '../json/achievements/achievements.json';
 
 
 
-const Cards = ({home, raidsArmoursWarrior, raidsArmoursDruid, raidsArmoursMage, raidsArmoursHunter, raidsArmoursPaladin, raidsArmoursAwakener, raidsArmoursDeathKnight, raidsArmoursWarlock, raidsArmoursShaman, legendaryWeapons, classes, warriorArtifacts, druidArtifacts, priestArtifacts, mageArtifacts, monkArtifacts, hunterArtifacts, demonHunterArtifacts, paladinArtifacts, rogueArtifacts, deathKnightArtifacts, warlockArtifacts, shamanArtifacts, armsWarrior, furyWarrior, protectionWarrior, cloaks, waterMounts, flyMounts, classic, burningCrusade, wrathOfTheLichKing, cataclysm, mistsOfPandaria, warlordsOfDraenor, legion, battleForAzeroth, shadowlands, dragonflight, warWithin, midnight, lastTitan}) => {
+const Cards = ({home, raidsArmoursWarrior, raidsArmoursDruid, raidsArmoursPriest, raidsArmoursMage, raidsArmoursHunter, raidsArmoursPaladin, raidsArmoursAwakener, raidsArmoursDeathKnight, raidsArmoursWarlock, raidsArmoursShaman, legendaryWeapons, classes, warriorArtifacts, druidArtifacts, priestArtifacts, mageArtifacts, monkArtifacts, hunterArtifacts, demonHunterArtifacts, paladinArtifacts, rogueArtifacts, deathKnightArtifacts, warlockArtifacts, shamanArtifacts, armsWarrior, furyWarrior, protectionWarrior, cloaks, waterMounts, flyMounts, classic, burningCrusade, wrathOfTheLichKing, cataclysm, mistsOfPandaria, warlordsOfDraenor, legion, battleForAzeroth, shadowlands, dragonflight, warWithin, midnight, lastTitan}) => {
 
 	const basePathImg = '/src/assets/img'
 
@@ -250,6 +251,12 @@ const Cards = ({home, raidsArmoursWarrior, raidsArmoursDruid, raidsArmoursMage, 
 					{ raidsArmoursDruid &&
 						<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
 							{ renderCardItems(dataDruidRaidArmours) }
+						</div>
+					}
+
+					{ raidsArmoursPriest &&
+						<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
+							{ renderCardItems(dataPriestRaidArmours) }
 						</div>
 					}
 
