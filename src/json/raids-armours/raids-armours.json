@@ -24,7 +24,6 @@
 		"type": "priest",
 		"path": "raids-armours/priest",
 		"cardImg": "/src/assets/img/promo/bg/classes/Velen.png",
-		"titleClassName": "card-title-priest",
 		"title": "Жрец",
 		"description": "Комплекты рейдовой брони для Жреца",
 		"price": 100
@@ -91,7 +90,7 @@
 	},
 
 	{
-		"id": "rogue",
+		"id": "Rogue",
 		"type": "rogue",
 		"path": "raids-armours/rogue",
 		"cardImg": "/src/assets/img/promo/bg/classes/Valira-Sangvinar.png",
@@ -101,41 +100,32 @@
 	},
 
 	{
-		"id": "death-knight",
-		"className": "card-death-knight",
+		"id": "DeathKnight",
+		"type": "death-knight",
 		"path": "raids-armours/death-knight",
 		"cardImg": "/src/assets/img/promo/bg/classes/Lich-King.png",
-		"titleClassName": "card-title-death-knight",
 		"title": "Рыцарь Смерти",
-		"descriptionClassName": "card-text-death-knight",
 		"description": "Комплекты рейдовой брони для Рыцаря смерти",
-		"priceClassName": "card-price-death-knight",
 		"price": 100
 	},
 
 	{
-		"id": "warlock",
-		"className": "card-warlock",
+		"id": "Warlock",
+		"type": "warlock",
 		"path": "raids-armours/warlock",
 		"cardImg": "/src/assets/img/promo/bg/classes/Guldan.png",
-		"titleClassName": "card-title-warlock",
 		"title": "Чернокнижник",
-		"descriptionClassName": "card-text-warlock",
 		"description": "Комплекты рейдовой брони для Чернокнижника",
-		"priceClassName": "card-price-warlock",
 		"price": 100
 	},
 
 	{
-		"id": "shaman",
-		"className": "card-shaman",
+		"id": "Shaman",
+		"type": "shaman",
 		"path": "raids-armours/shaman",
 		"cardImg": "/src/assets/img/promo/bg/classes/Thrall.png",
-		"titleClassName": "card-title-shaman",
 		"title": "Шаман",
-		"descriptionClassName": "card-text-shaman",
 		"description": "Комплекты рейдовой брони для Шамана",
-		"priceClassName": "card-price-shaman",
 		"price": 100
 	}
 ]

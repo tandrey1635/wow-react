@@ -1,53 +1,41 @@
 [
 	{
-		"id": "one-handed-weapons",
-		"className": "card-weapons",
+		"id": "OneHandedWeapons",
+		"type": "weapons",
 		"path": "weapons/one-handed",
 		"cardImg": "/src/assets/img/promo/bg/weapons/one-handed.png",
-		"titleClassName": "card-title-weapons",
 		"title": "Одноручное оружие",
-		"descriptionClassName": "card-text-weapons",
 		"description": "Закажите любое одноручное оружие",
-		"priceClassName": "card-price-weapons",
 		"price": 300
 	},
 
 	{
-		"id": "two-handed-weapons",
-		"className": "card-weapons",
+		"id": "TwoHandedWeapons",
+		"type": "weapons",
 		"path": "weapons/two-handed",
 		"cardImg": "/src/assets/img/promo/bg/weapons/two-handed.png",
-		"titleClassName": "card-title-weapons",
 		"title": "Двуручное оружие",
-		"descriptionClassName": "card-text-weapons",
 		"description": "Закажите любое двуручное оружие",
-		"priceClassName": "card-price-weapons",
 		"price": 300
 	},
 
 	{
-		"id": "range-weapons",
-		"className": "card-weapons",
+		"id": "RangeWeapons",
+		"type": "weapons",
 		"path": "weapons/range",
 		"cardImg": "/src/assets/img/promo/bg/weapons/range.png",
-		"titleClassName": "card-title-weapons",
 		"title": "Оружие дальнего боя",
-		"descriptionClassName": "card-text-weapons",
 		"description": "Закажите любое оружие дальнего боя",
-		"priceClassName": "card-price-weapons",
 		"price": 300
 	},
 
 	{
-		"id": "legendary-weapons",
-		"className": "card-weapons card-weapons-legendary",
+		"id": "LegendaryWeapons",
+		"type": "legendary-weapons",
 		"path": "weapons/legendary",
 		"cardImg": "/src/assets/img/promo/bg/weapons/legendary.png",
-		"titleClassName": "card-title-weapons card-title-weapons-legendary",
 		"title": "Легендарное оружие",
-		"descriptionClassName": "card-text-weapons card-text-weapons-legendary",
 		"description": "Закажите любое легендарное оружие",
-		"priceClassName": "card-price-weapons card-price-weapons-legendary",
 		"price": 500
 	},
 

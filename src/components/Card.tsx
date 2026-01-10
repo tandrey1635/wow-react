@@ -34,6 +34,21 @@ const Card = ({type, path, cardImg, description, title, spanClassname, price, go
 			type == "rogue"
 				? "card-rogue"
 				:
+			type == "death-knight"
+				? "card-death-knight"
+				:
+			type == "warlock"
+				? "card-warlock"
+				:
+			type == "shaman"
+				? "card-shaman"
+				:
+			type == "shaman"
+				? "card-shaman"
+				:
+			type == "legendary-weapons"
+				? "card-weapons-legendary"
+				:
 			type == "dungeons"
 				? "card-mythic"
 				: null
@@ -77,6 +92,18 @@ const Card = ({type, path, cardImg, description, title, spanClassname, price, go
 						type == "rogue"
 							? "card-title-rogue"
 							:
+						type == "death-knight"
+							? "card-title-death-knight"
+							:
+						type == "warlock"
+							? "card-title-warlock"
+							:
+						type == "shaman"
+							? "card-title-shaman"
+							:
+						type == "legendary-weapons"
+							? "card-title-weapons-legendary"
+							:
 						type == "dungeons"
 							? "card-title-mythic"
 							: null
@@ -116,6 +143,18 @@ const Card = ({type, path, cardImg, description, title, spanClassname, price, go
 						:
 					type == "rogue"
 						? "card-text-rogue"
+						:
+					type == "death-knight"
+						? "card-text-death-knight"
+						:
+					type == "warlock"
+						? "card-text-warlock"
+						:
+					type == "shaman"
+						? "card-text-shaman"
+						:
+					type == "legendary-weapons"
+						? "card-text-weapons-legendary"
 						:
 					type == "dungeons"
 						? "card-text-mythic"
@@ -157,6 +196,18 @@ const Card = ({type, path, cardImg, description, title, spanClassname, price, go
 						:
 					type == "rogue"
 						? "card-price-rogue"
+						:
+					type == "death-knight"
+						? "card-price-death-knight"
+						:
+					type == "warlock"
+						? "card-price-warlock"
+						:
+					type == "shaman"
+						? "card-price-shaman"
+						:
+					type == "legendary-weapons"
+						? "card-price-weapons-legendary"
 						:
 					type == "dungeons"
 						? "card-price-mythic"

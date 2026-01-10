@@ -1,183 +1,141 @@
 [
 	{
 		"id": "Ashbringer",
-		"className": "card-weapons card-weapons-legendary",
+		"type": "legendary-weapons",
 		"path": "weapons-details/ashbringer",
 		"cardImg": "/src/assets/img/weapons/bg/legendary/Ashbringer.png",
-		"titleClassName": "card-title-weapons card-title-weapons-legendary",
 		"title": "Испепелитель",
-		"descriptionClassName": "card-text-weapons card-text-weapons-legendary",
 		"description": "Закажите Испепелитель",
-		"priceClassName": "card-price-weapons card-price-weapons-legendary",
 		"price": 500
 	},
 
 	{
 		"id": "SulfurasHandOfRagnaros",
-		"className": "card-weapons card-weapons-legendary",
+		"type": "legendary-weapons",
 		"path": "weapons-details/sulfuras",
 		"cardImg": "/src/assets/img/weapons/bg/legendary/Sulfuras-Hand-of-Ragnaros.png",
-		"titleClassName": "card-title-weapons card-title-weapons-legendary",
 		"title": "Сульфурас, Рука Рагнароса",
-		"descriptionClassName": "card-text-weapons card-text-weapons-legendary",
 		"description": "Закажите Сульфурас, Рука Рагнароса",
-		"priceClassName": "card-price-weapons card-price-weapons-legendary",
 		"price": 500
 	},
 
 	{
 		"id": "ThunderfuryBlessedBladeOfTheWindseeker",
-		"className": "card-weapons card-weapons-legendary",
+		"type": "legendary-weapons",
 		"path": "weapons-details/thunderfury",
-		"cardImg": "/src/assets/img/weapons/bg/legendary/Thunderfury-Blessed-Blade-of the-Windseeker.png",
-		"titleClassName": "card-title-weapons card-title-weapons-legendary",
-		"title": "Громовая Ярость, благословенный клинок Искателя Ветра",
-		"descriptionClassName": "card-text-weapons card-text-weapons-legendary",
-		"description": "Закажите Громовую Ярость, благословенный клинок Искателя Ветра",
-		"priceClassName": "card-price-weapons card-price-weapons-legendary",
+		"cardImg": "/src/assets/img/weapons/bg/legendary/Thunderfury-Blessed-Blade-of-the-Windseeker.png",
+		"title": "Громовая Ярость, Благословенный Клинок Искателя Ветра",
+		"description": "Закажите Громовую Ярость, Благословенный Клинок Искателя Ветра",
 		"price": 500
 	},
 
 	{
 		"id": "AtieshGreatstaffOfTheGuardian",
-		"className": "card-weapons card-weapons-legendary",
+		"type": "legendary-weapons",
 		"path": "weapons-details/atiesh",
 		"cardImg": "/src/assets/img/weapons/bg/legendary/Atiesh-Greatstaff-of-the-Guardian.png",
-		"titleClassName": "card-title-weapons card-title-weapons-legendary",
-		"title": "Атиеш, великий посох Хранителя",
-		"descriptionClassName": "card-text-weapons card-text-weapons-legendary",
-		"description": "Закажите Атиеш, великий посох Хранителя",
-		"priceClassName": "card-price-weapons card-price-weapons-legendary",
+		"title": "Атиеш, Великий Посох Хранителя",
+		"description": "Закажите Атиеш, Великий Посох Хранителя",
 		"price": 500
 	},
 
 	{
 		"id": "WarglaivesOfAzzinoth",
-		"className": "card-weapons card-weapons-legendary",
+		"type": "legendary-weapons",
 		"path": "weapons-details/warglaives-of-azzinoth",
 		"cardImg": "/src/assets/img/weapons/bg/legendary/Warglaives-of-Azzinoth.png",
-		"titleClassName": "card-title-weapons card-title-weapons-legendary",
-		"title": "Боевые клинки Аззинота",
-		"descriptionClassName": "card-text-weapons card-text-weapons-legendary",
-		"description": "Закажите Боевые клинки Аззинота",
-		"priceClassName": "card-price-weapons card-price-weapons-legendary",
+		"title": "Боевые Клинки Аззинота",
+		"description": "Закажите Боевые Клинки Аззинота",
 		"price": 600
 	},
 
 	{
 		"id": "ThoridalTheStarsFury",
-		"className": "card-weapons card-weapons-legendary",
+		"type": "legendary-weapons",
 		"path": "weapons-details/thoridal",
 		"cardImg": "/src/assets/img/weapons/bg/legendary/Thoridal-the-Stars-Fury.png",
-		"titleClassName": "card-title-weapons card-title-weapons-legendary",
 		"title": "Тори'дал, Звездная Ярость",
-		"descriptionClassName": "card-text-weapons card-text-weapons-legendary",
 		"description": "Закажите Тори'дал, Звездную Ярость",
-		"priceClassName": "card-price-weapons card-price-weapons-legendary",
 		"price": 600
 	},
 
 	{
 		"id": "ValanyrHammerOfAncientKings",
-		"className": "card-weapons card-weapons-legendary",
+		"type": "legendary-weapons",
 		"path": "weapons-details/valanyr",
 		"cardImg": "/src/assets/img/weapons/bg/legendary/Valanyr-Hammer-of-Ancient-Kings.png",
-		"titleClassName": "card-title-weapons card-title-weapons-legendary",
-		"title": "Вал'анир, молот древних королей",
-		"descriptionClassName": "card-text-weapons card-text-weapons-legendary",
-		"description": "Закажите Вал'анир, молот древних королей",
-		"priceClassName": "card-price-weapons card-price-weapons-legendary",
+		"title": "Вал'анир, Молот Древних Королей",
+		"description": "Закажите Вал'анир, Молот Древних Королей",
 		"price": 700
 	},
 
 	{
 		"id": "Frostmourne",
-		"className": "card-weapons card-weapons-legendary",
+		"type": "legendary-weapons",
 		"path": "weapons-details/frostmourne",
 		"cardImg": "/src/assets/img/weapons/bg/legendary/Frostmourne.png",
-		"titleClassName": "card-title-weapons card-title-weapons-legendary",
 		"title": "Ледяная Скорбь",
-		"descriptionClassName": "card-text-weapons card-text-weapons-legendary",
 		"description": "Закажите Ледяную Скорбь",
-		"priceClassName": "card-price-weapons card-price-weapons-legendary",
 		"price": 700
 	},
 
 	{
 		"id": "Shadowmourne",
-		"className": "card-weapons card-weapons-legendary",
+		"type": "legendary-weapons",
 		"path": "weapons-details/shadowmourne",
 		"cardImg": "/src/assets/img/weapons/bg/legendary/Shadowmourne.png",
-		"titleClassName": "card-title-weapons card-title-weapons-legendary",
 		"title": "Темная Скорбь",
-		"descriptionClassName": "card-text-weapons card-text-weapons-legendary",
 		"description": "Закажите Темную Скорбь",
-		"priceClassName": "card-price-weapons card-price-weapons-legendary",
 		"price": 700
 	},
 
 	{
 		"id": "DragonwrathTarecgosasRest",
-		"className": "card-weapons card-weapons-legendary",
+		"type": "legendary-weapons",
 		"path": "weapons-details/tarecgosa",
 		"cardImg": "/src/assets/img/weapons/bg/legendary/Dragonwrath-Tarecgosas-Rest.png",
-		"titleClassName": "card-title-weapons card-title-weapons-legendary",
-		"title": "Гнев Дракона, вечный покой Таресгосы",
-		"descriptionClassName": "card-text-weapons card-text-weapons-legendary",
-		"description": "Закажите Гнев Дракона, вечный покой Таресгосы",
-		"priceClassName": "card-price-weapons card-price-weapons-legendary",
+		"title": "Гнев Дракона, Вечный Покой Таресгосы",
+		"description": "Закажите Гнев Дракона, Вечный Покой Таресгосы",
 		"price": 800
 	},
 
 	{
 		"id": "FangsOfTheFather",
-		"className": "card-weapons card-weapons-legendary",
+		"type": "legendary-weapons",
 		"path": "weapons-details/fangs-of-the-father",
 		"cardImg": "/src/assets/img/weapons/bg/legendary/Fangs-of-the-Father.png",
-		"titleClassName": "card-title-weapons card-title-weapons-legendary",
 		"title": "Клыки отца",
-		"descriptionClassName": "card-text-weapons card-text-weapons-legendary",
 		"description": "Закажите Клыки отца",
-		"priceClassName": "card-price-weapons card-price-weapons-legendary",
 		"price": 800
 	},
 
 	{
 		"id": "RaeshalareDeathsWhisper",
-		"className": "card-weapons card-weapons-legendary",
+		"type": "legendary-weapons",
 		"path": "weapons-details/raeshalare-deaths-whisper",
 		"cardImg": "/src/assets/img/weapons/bg/legendary/Raeshalare-Deaths-Whisper.png",
-		"titleClassName": "card-title-weapons card-title-weapons-legendary",
 		"title": "Раэ'шаларе, Шепот Смерти",
-		"descriptionClassName": "card-text-weapons card-text-weapons-legendary",
 		"description": "Закажите Раэ'шаларе, Шепот Смерти",
-		"priceClassName": "card-price-weapons card-price-weapons-legendary",
 		"price": 900
 	},
 
 	{
 		"id": "FyralathTheDreamrender",
-		"className": "card-weapons card-weapons-legendary",
+		"type": "legendary-weapons",
 		"path": "weapons-details/fyralath-the-dreamrender",
 		"cardImg": "/src/assets/img/weapons/bg/legendary/Fyralath-the-Dreamrender.png",
-		"titleClassName": "card-title-weapons card-title-weapons-legendary",
 		"title": "Фир'алат Воздаятель Снов",
-		"descriptionClassName": "card-text-weapons card-text-weapons-legendary",
 		"description": "Закажите Фир'алат Воздаятель Снов",
-		"priceClassName": "card-price-weapons card-price-weapons-legendary",
 		"price": 1000
 	},
 
 	{
 		"id": "NaszuroTheUnboundLegacy",
-		"className": "card-weapons card-weapons-legendary",
+		"type": "legendary-weapons",
 		"path": "weapons-details/naszuro-the-unbound-legacy",
 		"cardImg": "/src/assets/img/weapons/bg/legendary/Naszuro-the-Unbound-Legacy.png",
-		"titleClassName": "card-title-weapons card-title-weapons-legendary",
 		"title": "Наз'уро, Высвобожденное Наследие",
-		"descriptionClassName": "card-text-weapons card-text-weapons-legendary",
 		"description": "Закажите Наз'уро, Высвобожденное Наследие",
-		"priceClassName": "card-price-weapons card-price-weapons-legendary",
 		"price": 1000
 	}
 ]
