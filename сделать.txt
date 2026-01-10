@@ -77,10 +77,10 @@
 анимация лока magereadyspellcast - прическа dark tides
 анимация охотника readyCrossbow / и аналоги для лука и винтовки  - прическа short, борода - medium
 анимация пробужденный magereadyspellcast, внешность: earth - wing, chest - regal, helm - crown, upper arms - rerebraces, lower arms - talons, breechcloth, regal, feet- talons, thighs - ornate, wing decoration - talon, horn color - 12, horns - curved
-анимация шамана stand прическа windswept, цвет волос 14 - синий яркий
+анимация шамана dressingroom прическа windswept, цвет волос 14 - синий яркий
 анимация друида magereadyspellcast - прическа braids
 анимация дренея magereadyspellcast прическа - horned
-
+анимация разбойника dressingroom
 
 
 

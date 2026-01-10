@@ -1,0 +1,121 @@
+[
+	{
+		"id": "NightslayerArmor",
+		"type": "rogue",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/rogue/Nightslayer-Armor.png",
+		"title": "Доспехи Ночного Убийцы",
+		"description": "Первый комплект брони для разбойника из рейда 60-го уровня Огненные Недра дополнения Сlassic. Повелитель Огня будет повержен! Очищение огнем пройдено!",
+		"price": 100
+	},
+
+	{
+		"id": "BloodfangArmor",
+		"type": "rogue",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/rogue/Bloodfang-Armor.png",
+		"title": "Доспехи Кровавых Клыков",
+		"description": "Второй комплект брони для разбойника из рейда 60-го уровня Логово Крыла Тьмы дополнения Classic. Лорд Черной Горы будет повержен! Теперь вы сливаетесь с тенью и мгновенно убиваете противника!",
+		"price": 100
+	},
+
+	{
+		"id": "DeathdealersEmbrace",
+		"type": "rogue",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/rogue/Deathdealers-Embrace.png",
+		"title": "Объятия Торговца Смертью",
+		"description": "Комплект брони для разбойника 2.5 из рейда 60-го уровня Храм Ан'Киража дополнения Classic. Владыка Ан'Киража будет повержен! Вы еще не мертвы!",
+		"price": 100
+	},
+
+	{
+		"id": "BonescytheArmor",
+		"type": "rogue",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/rogue/Bonescythe-Armor.png",
+		"title": "Доспехи Костяной Косы",
+		"description": "Третий комплект брони для разбойника из рейда 60-го уровня Наксрамас дополнения Classic. Верховный Лич будет повержен! Некромантия вам не страшна!",
+		"price": 100
+	},
+
+	{
+		"id": "PolarArmorSet",
+		"type": "rogue",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/general/leather/rogue/Polar-Armor-Set-rogue.png",
+		"title": "Снежный Кожаный Комплект",
+		"description": "Награда за цепочку заданий исследования Наксрамаса дополнения Classic. Ледяной Змей будет повержен! Потрясающая защита от магии льда!",
+		"price": 100
+	},
+
+	{
+		"id": "CenarionMendersBattlegear",
+		"type": "rogue",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/general/leather/rogue/Cenarion-Menders-Battlegear-rogue.png",
+		"title": "Боевое Снаряжение Кенарийского Целителя",
+		"description": "Комплект брони в награду за путешествия во времени по подземельям дополнения The Burning Crusade. Броня, дарованная Хранителями Времени за череду подвигов в их походах по лабиринтам вечности. Ваша броня закалена в схватках с аномалиями прошлого и будущего, а её сталь несёт несокрушимую мощь самого времени!",
+		"price": 200
+	},
+
+	{
+		"id": "DragonhideBattlegear",
+		"type": "rogue",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/general/leather/rogue/Dragonhide-Battlegear-rogue.png",
+		"title": "Броня из Драконьей Шкуры",
+		"description": "Комплект брони за репутацию у фракций Нижний город, Траллмар, Хранители Времени, Кенарийская экспедиция и Ша'тар дополнения The Burning Crusade. Вы стали непоколебимым щитом Нижнего города, грозной ударной силой Запределья! Ваша броня несет несокрушимую мощь временных потоков, укреплена силой древних лесов и озарена светом Наару на пути к победе над тьмой!",
+		"price": 200
+	},
+
+	{
+		"id": "MoongladeRaiment",
+		"type": "rogue",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/general/leather/rogue/Moonglade-Raiment-rogue.png",
+		"title": "Боевое Облачение Лунной Поляны",
+		"description": "Комплект брони из подземелий дополнения The Burning Crusade. Броня, закалённая в героических походах по самым опасным подземельям Запределья, от огненных недр Кузницы Крови до кошмарных лабиринтов Гробниц Маны. Вы прошли через адский огонь и тенистую глушь, и теперь ваша сталь звенит песней побед!",
+		"price": 200
+	},
+
+	{
+		"id": "Netherblade",
+		"type": "rogue",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/rogue/Netherblade.png",
+		"title": "Клинок Пустоты",
+		"description": "Первый комплект брони для разбойника из рейдов 70-го уровня Каражан, Логово Магтеридона и Логово Груула дополнения The Burning Crusade. Принц Эредеров, Повелитель Преисподней и Огров будут повержены! Станьте его погибелью! Оберните кровь против него самого! Никакой пощады ограм!",
+		"price": 200
+	},
+
+	{
+		"id": "Deathmantle",
+		"type": "rogue",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/rogue/Deathmantle.png",
+		"title": "Мантия смерти",
+		"description": "Второй комплект брони для разбойника из рейдов 70-го уровня Змеиное святилище и Крепость Бурь дополнения The Burning Crusade. Королева Наг и Принц Кель'Таласа будут повержены! Укажите место Королеве Наг положенное ей по праву! Теперь вы почувствуете вкус истинной мощи! За Кель'Талас!",
+		"price": 200
+	},
+
+	{
+		"id": "SlayersArmor",
+		"type": "rogue",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/rogue/Slayers-Armor.png",
+		"title": "Доспехи Убийцы",
+		"description": "Третий комплект брони для разбойника из рейдов 70-го уровня Гора Хиджал и Черный Храм дополнения The Burning Crusade. Правитель Пылающего Легиона и Владыка Запределья будет повержен! Этот мир не сгорит! Теперь вы готовы!",
+		"price": 200
+	},
+
+	{
+		"id": "SlayersSunwellBattlegear",
+		"type": "rogue",
+		"path": "",
+		"cardImg": "/src/assets/img/raids-armours/bg/rogue/Slayers-Sunwell-Battlegear.png",
+		"title": "Доспехи Убийцы Солнечного Колодца",
+		"description": "Четвертый комплект брони для разбойника из рейда 70-го уровня Плато Солнечного Колодца дополнения The Burning Crusade. Искуситель будет повержен! Оберните силу Солнечного Колодца против него самого!",
+		"price": 200
+	}
+]

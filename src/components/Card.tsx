@@ -31,6 +31,9 @@ const Card = ({type, path, cardImg, description, title, spanClassname, price, go
 			type == "awakener"
 				? "card-awakener"
 				:
+			type == "rogue"
+				? "card-rogue"
+				:
 			type == "dungeons"
 				? "card-mythic"
 				: null
@@ -71,6 +74,9 @@ const Card = ({type, path, cardImg, description, title, spanClassname, price, go
 						type == "awakener"
 							? "card-title-awakener"
 							:
+						type == "rogue"
+							? "card-title-rogue"
+							:
 						type == "dungeons"
 							? "card-title-mythic"
 							: null
@@ -107,6 +113,9 @@ const Card = ({type, path, cardImg, description, title, spanClassname, price, go
 						:
 					type == "awakener"
 						? "card-text-awakener"
+						:
+					type == "rogue"
+						? "card-text-rogue"
 						:
 					type == "dungeons"
 						? "card-text-mythic"
@@ -145,6 +154,9 @@ const Card = ({type, path, cardImg, description, title, spanClassname, price, go
 						:
 					type == "awakener"
 						? "card-price-awakener"
+						:
+					type == "rogue"
+						? "card-price-rogue"
 						:
 					type == "dungeons"
 						? "card-price-mythic"
