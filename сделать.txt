@@ -81,6 +81,7 @@
 анимация друида magereadyspellcast - прическа braids
 анимация дренея magereadyspellcast прическа - horned
 анимация разбойника dressingroom
+анимация монаха dressingroom прическа - backbrushed
 
 
 
