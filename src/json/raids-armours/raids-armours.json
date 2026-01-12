@@ -47,7 +47,7 @@
 		"id": "Monk",
 		"type": "monk",
 		"path": "raids-armours/monk",
-		"cardImg": "/src/assets/img/promo/bg/classes/Tjan-Dju.png",
+		"img": "/src/assets/img/promo/bg/classes/Tjan-Dju.png",
 		"objectFit": false,
 		"title": "Монах",
 		"description": "Комплекты рейдовой брони для Монаха",

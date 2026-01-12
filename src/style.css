@@ -811,6 +811,10 @@ footer {
   border: none;
   background: linear-gradient(325deg, #673ab7, transparent 30%, transparent 35%, #673ab7, transparent);
 }
+.card [alt] {
+  text-shadow: 2px 2px 2px #000;
+  color: #673ab7;
+}
 .card:hover {
   transition: 0.5s all;
   transform: scale(1.05);
@@ -819,11 +823,17 @@ footer {
 .card-warrior {
   background: linear-gradient(325deg, #854c27, transparent 30%, transparent 35%, #854c27, transparent);
 }
+.card-warrior [alt] {
+  color: #854c27;
+}
 .card-warrior:hover {
   box-shadow: 0 0 2px 5px #854c27;
 }
 .card-druid {
   background: linear-gradient(325deg, #ff7d0a, transparent 30%, transparent 35%, #ff7d0a, transparent);
+}
+.card-druid [alt] {
+  color: #ff7d0a;
 }
 .card-druid:hover {
   box-shadow: 0 0 2px 5px #ff7d0a;
@@ -831,11 +841,17 @@ footer {
 .card-priest {
   background: linear-gradient(325deg, #fff, transparent 30%, transparent 35%, #fff, transparent);
 }
+.card-priest [alt] {
+  color: #fff;
+}
 .card-priest:hover {
   box-shadow: 0 0 2px 5px #fff;
 }
 .card-mage {
   background: linear-gradient(325deg, #00bfff, transparent 30%, transparent 35%, #00bfff, transparent);
+}
+.card-mage [alt] {
+  color: #00bfff;
 }
 .card-mage:hover {
   box-shadow: 0 0 2px 5px #00bfff;
@@ -843,11 +859,17 @@ footer {
 .card-monk {
   background: linear-gradient(325deg, #0ae979, transparent 30%, transparent 35%, #0ae979, transparent);
 }
+.card-monk [alt] {
+  color: #0ae979;
+}
 .card-monk:hover {
   box-shadow: 0 0 2px 5px #0ae979;
 }
 .card-hunter {
   background: linear-gradient(325deg, rgba(134, 197, 102, 0.9098039216), transparent 30%, transparent 35%, rgba(134, 197, 102, 0.9098039216), transparent);
+}
+.card-hunter [alt] {
+  color: rgba(134, 197, 102, 0.9098039216);
 }
 .card-hunter:hover {
   box-shadow: 0 0 2px 5px rgba(134, 197, 102, 0.9098039216);
@@ -855,17 +877,35 @@ footer {
 .card-demon-hunter {
   background: linear-gradient(325deg, #8b00ff, transparent 30%, transparent 35%, #8b00ff, transparent);
 }
+.card-demon-hunter [alt] {
+  color: #8b00ff;
+}
 .card-demon-hunter:hover {
   box-shadow: 0 0 2px 5px #8b00ff;
 }
 .card-paladin {
   background: linear-gradient(325deg, #fb3a86, transparent 30%, transparent 35%, #fb3a86, transparent);
 }
+.card-paladin [alt] {
+  color: #fb3a86;
+}
 .card-paladin:hover {
   box-shadow: 0 0 2px 5px #fb3a86;
 }
+.card-awakener {
+  background: linear-gradient(325deg, #00c199, transparent 30%, transparent 35%, #00c199, transparent);
+}
+.card-awakener [alt] {
+  color: #00c199;
+}
+.card-awakener:hover {
+  box-shadow: 0 0 2px 5px #00c199;
+}
 .card-rogue {
   background: linear-gradient(325deg, #ddcb17, transparent 30%, transparent 35%, #ddcb17, transparent);
+}
+.card-rogue [alt] {
+  color: #ddcb17;
 }
 .card-rogue:hover {
   box-shadow: 0 0 2px 5px #ddcb17;
@@ -873,11 +913,17 @@ footer {
 .card-death-knight {
   background: linear-gradient(325deg, #c41f3b, transparent 30%, transparent 35%, #c41f3b, transparent);
 }
+.card-death-knight [alt] {
+  color: #c41f3b;
+}
 .card-death-knight:hover {
   box-shadow: 0 0 2px 5px #c41f3b;
 }
 .card-warlock {
   background: linear-gradient(325deg, #7b13df, transparent 30%, transparent 35%, #7b13df, transparent);
+}
+.card-warlock [alt] {
+  color: #7b13df;
 }
 .card-warlock:hover {
   box-shadow: 0 0 2px 5px #7b13df;
@@ -885,14 +931,11 @@ footer {
 .card-shaman {
   background: linear-gradient(325deg, #185ec1, transparent 30%, transparent 35%, #185ec1, transparent);
 }
+.card-shaman [alt] {
+  color: #185ec1;
+}
 .card-shaman:hover {
   box-shadow: 0 0 2px 5px #185ec1;
-}
-.card-awakener {
-  background: linear-gradient(325deg, #00c199, transparent 30%, transparent 35%, #00c199, transparent);
-}
-.card-awakener:hover {
-  box-shadow: 0 0 2px 5px #00c199;
 }
 .card-weapons {
   background: linear-gradient(325deg, #673ab7, transparent 30%, transparent 35%, #673ab7, transparent);
