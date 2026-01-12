@@ -80,7 +80,7 @@
 		"id": "Paladin",
 		"type": "paladin",
 		"path": "raids-armours/paladin",
-		"cardImg": "/src/assets/img/promo/bg/classes/Tirion-Fordring.png",
+		"img": "/src/assets/img/promo/bg/classes/Tirion-Fordring.png",
 		"objectFit": false,
 		"title": "Паладин",
 		"description": "Комплекты рейдовой брони для Паладина",

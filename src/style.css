@@ -1505,6 +1505,9 @@ footer {
   color: #673ab7;
   filter: drop-shadow(2px 2px 2px #000);
 }
+.card-price [alt] {
+  padding: 0;
+}
 .card-price:hover {
   transition: 0.5s all;
   transform: scale(1.1);
