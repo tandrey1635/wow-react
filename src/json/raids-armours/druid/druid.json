@@ -4,6 +4,7 @@
 		"type": "druid",
 		"path": "",
 		"cardImg": "/src/assets/img/raids-armours/bg/druid/Cenarion-Raiment.png",
+		"objectFit": false,
 		"title": "Кенарийские Одеяния",
 		"description": "Первый комплект брони для друида из рейда 60-го уровня Огненные Недра дополнения Сlassic. Повелитель Огня будет повержен! Очищение огнем пройдено!",
 		"price": 100
@@ -14,6 +15,7 @@
 		"type": "druid",
 		"path": "",
 		"cardImg": "/src/assets/img/raids-armours/bg/druid/Stormrage-Raiment.png",
+		"objectFit": false,
 		"title": "Одеяния Ярости Бури",
 		"description": "Второй комплект брони для друида из рейда 60-го уровня Логово Крыла Тьмы дополнения Classic. Лорд Черной Горы будет повержен! Теперь вашу форму нельзя развеять!",
 		"price": 100
@@ -24,6 +26,7 @@
 		"type": "druid",
 		"path": "",
 		"cardImg": "/src/assets/img/raids-armours/bg/druid/Genesis-Raiment.png",
+		"objectFit": false,
 		"title": "Ризы Сотворения",
 		"description": "Комплект брони для друида 2.5 из рейда 60-го уровня Храм Ан'Киража дополнения Classic. Владыка Ан'Киража будет повержен! Вы еще не мертвы!",
 		"price": 100
@@ -34,6 +37,7 @@
 		"type": "druid",
 		"path": "",
 		"cardImg": "/src/assets/img/raids-armours/bg/druid/Dreamwalker-Raiment.png",
+		"objectFit": false,
 		"title": "Одеяния Сновидца",
 		"description": "Третий комплект брони для друида из рейда 60-го уровня Наксрамас дополнения Classic. Верховный Лич будет повержен! Некромантия вам не страшна!",
 		"price": 100
@@ -44,6 +48,7 @@
 		"type": "druid",
 		"path": "",
 		"cardImg": "/src/assets/img/raids-armours/bg/general/leather/druid/Polar-Armor-Set-druid.png",
+		"objectFit": false,
 		"title": "Снежный Кожаный Комплект",
 		"description": "Награда за цепочку заданий исследования Наксрамаса дополнения Classic. Ледяной Змей будет повержен! Потрясающая защита от магии льда!",
 		"price": 100
@@ -54,6 +59,7 @@
 		"type": "druid",
 		"path": "",
 		"cardImg": "/src/assets/img/raids-armours/bg/general/leather/druid/Cenarion-Menders-Battlegear-druid.png",
+		"objectFit": false,
 		"title": "Боевое Снаряжение Кенарийского Целителя",
 		"description": "Комплект брони в награду за путешествия во времени по подземельям дополнения The Burning Crusade. Броня, дарованная Хранителями Времени за череду подвигов в их походах по лабиринтам вечности. Ваша броня закалена в схватках с аномалиями прошлого и будущего, а её сталь несёт несокрушимую мощь самого времени!",
 		"price": 200
@@ -64,6 +70,7 @@
 		"type": "druid",
 		"path": "",
 		"cardImg": "/src/assets/img/raids-armours/bg/general/leather/druid/Dragonhide-Battlegear-druid.png",
+		"objectFit": false,
 		"title": "Броня из Драконьей Шкуры",
 		"description": "Комплект брони за репутацию у фракций Нижний город, Траллмар, Хранители Времени, Кенарийская экспедиция и Ша'тар дополнения The Burning Crusade. Вы стали непоколебимым щитом Нижнего города, грозной ударной силой Запределья! Ваша броня несет несокрушимую мощь временных потоков, укреплена силой древних лесов и озарена светом Наару на пути к победе над тьмой!",
 		"price": 200
@@ -74,6 +81,7 @@
 		"type": "druid",
 		"path": "",
 		"cardImg": "/src/assets/img/raids-armours/bg/general/leather/druid/Moonglade-Raiment-druid.png",
+		"objectFit": false,
 		"title": "Боевое Облачение Лунной Поляны",
 		"description": "Комплект брони из подземелий дополнения The Burning Crusade. Броня, закалённая в героических походах по самым опасным подземельям Запределья, от огненных недр Кузницы Крови до кошмарных лабиринтов Гробниц Маны. Вы прошли через адский огонь и тенистую глушь, и теперь ваша сталь звенит песней побед!",
 		"price": 200
@@ -84,6 +92,7 @@
 		"type": "druid",
 		"path": "",
 		"cardImg": "/src/assets/img/raids-armours/bg/druid/Malorne-Raiment.png",
+		"objectFit": false,
 		"title": "Одеяния Малорна",
 		"description": "Первый комплект брони для друида из рейдов 70-го уровня Каражан, Логово Магтеридона и Логово Груула дополнения The Burning Crusade. Принц Эредеров, Повелитель Преисподней и Огров будут повержены! Станьте его погибелью! Оберните кровь против него самого! Никакой пощады ограм!",
 		"price": 200
@@ -94,6 +103,7 @@
 		"type": "druid",
 		"path": "",
 		"cardImg": "/src/assets/img/raids-armours/bg/druid/Nordrassil-Raiment.png",
+		"objectFit": false,
 		"title": "Одеяния Нордрассила",
 		"description": "Второй комплект брони для друида из рейдов 70-го уровня Змеиное святилище и Крепость Бурь дополнения The Burning Crusade. Королева Наг и Принц Кель'Таласа будут повержены! Укажите место Королеве Наг положенное ей по праву! Теперь вы почувствуете вкус истинной мощи! За Кель'Талас!",
 		"price": 200
@@ -104,6 +114,7 @@
 		"type": "druid",
 		"path": "",
 		"cardImg": "/src/assets/img/raids-armours/bg/druid/Thunderheart-Raiment.png",
+		"objectFit": false,
 		"title": "Одеяния Громового Сердца",
 		"description": "Третий комплект брони для друида из рейдов 70-го уровня Гора Хиджал и Черный Храм дополнения The Burning Crusade. Правитель Пылающего Легиона и Владыка Запределья будет повержен! Этот мир не сгорит! Теперь вы готовы!",
 		"price": 200
@@ -114,6 +125,7 @@
 		"type": "druid",
 		"path": "",
 		"cardImg": "/src/assets/img/raids-armours/bg/druid/Thunderheart-Sunwell-Regalia.png",
+		"objectFit": false,
 		"title": "Одеяния Громового Сердца Солнечного Колодца",
 		"description": "Четвертый комплект брони для друида из рейда 70-го уровня Плато Солнечного Колодца дополнения The Burning Crusade. Искуситель будет повержен! Оберните силу Солнечного Колодца против него самого!",
 		"price": 200
