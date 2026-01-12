@@ -113,7 +113,7 @@
 		"id": "DeathKnight",
 		"type": "death-knight",
 		"path": "raids-armours/death-knight",
-		"cardImg": "/src/assets/img/promo/bg/classes/Lich-King.png",
+		"img": "/src/assets/img/promo/bg/classes/Lich-King.png",
 		"objectFit": false,
 		"title": "Рыцарь Смерти",
 		"description": "Комплекты рейдовой брони для Рыцаря смерти",
