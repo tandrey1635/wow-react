@@ -102,7 +102,7 @@
 		"id": "Rogue",
 		"type": "rogue",
 		"path": "raids-armours/rogue",
-		"cardImg": "/src/assets/img/promo/bg/classes/Valira-Sangvinar.png",
+		"img": "/src/assets/img/promo/bg/classes/Valira-Sangvinar.png",
 		"objectFit": false,
 		"title": "Разбойник",
 		"description": "Комплекты рейдовой брони для Разбойника",
