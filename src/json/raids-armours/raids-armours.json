@@ -58,7 +58,7 @@
 		"id": "Hunter",
 		"type": "hunter",
 		"path": "raids-armours/hunter",
-		"cardImg": "/src/assets/img/promo/bg/classes/Rexar.png",
+		"img": "/src/assets/img/promo/bg/classes/Rexar.png",
 		"objectFit": false,
 		"title": "Охотник",
 		"description": "Комплекты рейдовой брони для Охотника",

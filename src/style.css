@@ -812,6 +812,7 @@ footer {
   background: linear-gradient(325deg, #673ab7, transparent 30%, transparent 35%, #673ab7, transparent);
 }
 .card [alt] {
+  padding: 10px;
   text-shadow: 2px 2px 2px #000;
   color: #673ab7;
 }
