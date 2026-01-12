@@ -1,7 +1,7 @@
 import { Link } from "react-router";
 
 
-const Card = ({type, path, cardImg, objectFit, description, title, spanClassname, price, gold, raids }) => {
+const Card = ({type, path, img, objectFit, description, title, spanClassname, price, gold, raids }) => {
 	return (
 		<div className={`card ${
 			type == "warrior"
@@ -59,7 +59,7 @@ const Card = ({type, path, cardImg, objectFit, description, title, spanClassname
 		}>
 
 			<Link to={path}>
-				<img src={cardImg} className={`card-img ${
+				<img src={img} className={`card-img ${
 					objectFit
 						? "card-img-object-fit"
 						: null

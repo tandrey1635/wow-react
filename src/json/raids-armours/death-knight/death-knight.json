@@ -4,6 +4,7 @@
 		"type": "death-knight",
 		"path": "",
 		"cardImg": "/src/assets/img/raids-armours/bg/general/plate/death-knight/Plate-Icebane-Set-death-knight.png",
+		"objectFit": false,
 		"title": "Латный Комплект Ледяной Погибели",
 		"description": "Награда за цепочку заданий исследования Наксрамаса дополнения Classic. Ледяной Змей будет повержен! Потрясающая защита от магии льда!",
 		"price": 100
@@ -14,6 +15,7 @@
 		"type": "death-knight",
 		"path": "",
 		"cardImg": "/src/assets/img/raids-armours/bg/general/plate/death-knight/Telhamat-Anchorites-Raiment-death-knight.png",
+		"objectFit": false,
 		"title": "Облачение Телхаматского Анахорета",
 		"description": "Комплект брони в награду за путешествия во времени по подземельям дополнения The Burning Crusade. Броня, дарованная Хранителями Времени за череду подвигов в их походах по лабиринтам вечности. Ваша броня закалена в схватках с аномалиями прошлого и будущего, а её сталь несёт несокрушимую мощь самого времени!",
 		"price": 200
@@ -24,6 +26,7 @@
 		"type": "death-knight",
 		"path": "",
 		"cardImg": "/src/assets/img/raids-armours/bg/general/plate/death-knight/Crusaders-Ornamented-Battlegear-death-knight.png",
+		"objectFit": false,
 		"title": "Чешуйчатая Броня Рыцаря",
 		"description": "Комплект брони за репутацию у фракций Нижний город, Траллмар, Хранители Времени, Кенарийская экспедиция и Ша'тар дополнения The Burning Crusade. Вы стали непоколебимым щитом Нижнего города, грозной ударной силой Запределья! Ваша броня несет несокрушимую мощь временных потоков, укреплена силой древних лесов и озарена светом Наару на пути к победе над тьмой!",
 		"price": 200
@@ -34,6 +37,7 @@
 		"type": "death-knight",
 		"path": "",
 		"cardImg": "/src/assets/img/raids-armours/bg/general/plate/death-knight/Righteous-Armor-death-knight.png",
+		"objectFit": false,
 		"title": "Броня Праведности",
 		"description": "Комплект брони из подземелий дополнения The Burning Crusade. Броня, закалённая в героических походах по самым опасным подземельям Запределья, от огненных недр Кузницы Крови до кошмарных лабиринтов Гробниц Маны. Вы прошли через адский огонь и тенистую глушь, и теперь ваша сталь звенит песней побед!",
 		"price": 200

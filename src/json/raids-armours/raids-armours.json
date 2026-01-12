@@ -3,7 +3,7 @@
 		"id": "Warrior",
 		"type": "warrior",
 		"path": "raids-armours/warrior",
-		"cardImg": "/src/assets/img/promo/bg/classes/Garrosh-Hellscrim.png",
+		"img": "/src/assets/img/promo/bg/classes/Garrosh-Hellscrim.png",
 		"objectFit": false,
 		"title": "Воин",
 		"description": "Комплекты рейдовой брони для Воина",
