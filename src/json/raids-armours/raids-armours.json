@@ -14,7 +14,7 @@
 		"id": "Druid",
 		"type": "druid",
 		"path": "raids-armours/druid",
-		"cardImg": "/src/assets/img/promo/bg/classes/Malfurion.png",
+		"img": "/src/assets/img/promo/bg/classes/Malfurion.png",
 		"objectFit": false,
 		"title": "Друид",
 		"description": "Комплекты рейдовой брони для Друида",
