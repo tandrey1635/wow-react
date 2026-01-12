@@ -91,7 +91,7 @@
 		"id": "Awakener",
 		"type": "awakener",
 		"path": "raids-armours/awakener",
-		"cardImg": "/src/assets/img/promo/bg/classes/Scalecommander-Cindrethresh.png",
+		"img": "/src/assets/img/promo/bg/classes/Scalecommander-Cindrethresh.png",
 		"objectFit": false,
 		"title": "Пробудитель",
 		"description": "Комплекты рейдовой брони для Пробудителя",
