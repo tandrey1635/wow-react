@@ -11,9 +11,6 @@
 		transition: 0.5s all
 		transform: scale(1.05)
 		box-shadow: 0 0 2px 5px $defaultCardHoverShadow
-	&-object-fit
-		img
-			object-fit: contain
 	&-warrior
 		background: $warriorBg
 		&:hover
@@ -192,6 +189,7 @@
 .card-box
 	column-gap: 1.4rem
 	row-gap: 2rem
+
 .card-img
 	width: 100%
 	height: 450px
@@ -200,6 +198,8 @@
 	&:hover
 		transition: 0.5s all
 		transform: scale(1.05)
+	&-object-fit
+		object-fit: contain
 	&-tiers
 		border-radius: 0.8rem
 	&-mythic, &-lvl-up, &-achievements

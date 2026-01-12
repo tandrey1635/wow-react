@@ -1,7 +1,7 @@
 import { Link } from "react-router";
 
 
-const Card = ({type, path, cardImg, description, title, spanClassname, price, gold, raids }) => {
+const Card = ({type, path, cardImg, objectFit, description, title, spanClassname, price, gold, raids }) => {
 	return (
 		<div className={`card ${
 			type == "warrior"
@@ -49,6 +49,9 @@ const Card = ({type, path, cardImg, description, title, spanClassname, price, go
 			type == "legendary-weapons"
 				? "card-weapons-legendary"
 				:
+			type == "fly-mounts"
+				? "card-mounts-fly"
+				:
 			type == "dungeons"
 				? "card-mythic"
 				: null
@@ -56,7 +59,13 @@ const Card = ({type, path, cardImg, description, title, spanClassname, price, go
 		}>
 
 			<Link to={path}>
-				<img src={cardImg} className="card-img"  alt={title} />
+				<img src={cardImg} className={`card-img ${
+					objectFit
+						? "card-img-object-fit"
+						: null
+					}`
+				}
+				alt={title} />
 			</Link>
 
 			<div className="card-body">
@@ -103,6 +112,9 @@ const Card = ({type, path, cardImg, description, title, spanClassname, price, go
 							:
 						type == "legendary-weapons"
 							? "card-title-weapons-legendary"
+							:
+						type == "fly-mounts"
+							? "card-title-mounts-fly"
 							:
 						type == "dungeons"
 							? "card-title-mythic"
@@ -156,6 +168,9 @@ const Card = ({type, path, cardImg, description, title, spanClassname, price, go
 					type == "legendary-weapons"
 						? "card-text-weapons-legendary"
 						:
+					type == "fly-mounts"
+						? "card-text-mounts-fly"
+						:
 					type == "dungeons"
 						? "card-text-mythic"
 						: null
@@ -208,6 +223,9 @@ const Card = ({type, path, cardImg, description, title, spanClassname, price, go
 						:
 					type == "legendary-weapons"
 						? "card-price-weapons-legendary"
+						:
+					type == "fly-mounts"
+						? "card-price-mounts-fly"
 						:
 					type == "dungeons"
 						? "card-price-mythic"

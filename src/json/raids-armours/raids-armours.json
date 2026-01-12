@@ -4,6 +4,7 @@
 		"type": "warrior",
 		"path": "raids-armours/warrior",
 		"cardImg": "/src/assets/img/promo/bg/classes/Garrosh-Hellscrim.png",
+		"objectFit": false,
 		"title": "Воин",
 		"description": "Комплекты рейдовой брони для Воина",
 		"price": 100
@@ -14,6 +15,7 @@
 		"type": "druid",
 		"path": "raids-armours/druid",
 		"cardImg": "/src/assets/img/promo/bg/classes/Malfurion.png",
+		"objectFit": false,
 		"title": "Друид",
 		"description": "Комплекты рейдовой брони для Друида",
 		"price": 100
@@ -24,6 +26,7 @@
 		"type": "priest",
 		"path": "raids-armours/priest",
 		"cardImg": "/src/assets/img/promo/bg/classes/Velen.png",
+		"objectFit": false,
 		"title": "Жрец",
 		"description": "Комплекты рейдовой брони для Жреца",
 		"price": 100
@@ -34,6 +37,7 @@
 		"type": "mage",
 		"path": "raids-armours/mage",
 		"cardImg": "/src/assets/img/promo/bg/classes/Djaina-Proudmoure.png",
+		"objectFit": false,
 		"title": "Маг",
 		"description": "Комплекты рейдовой брони для Мага",
 		"price": 100
@@ -44,6 +48,7 @@
 		"type": "monk",
 		"path": "raids-armours/monk",
 		"cardImg": "/src/assets/img/promo/bg/classes/Tjan-Dju.png",
+		"objectFit": false,
 		"title": "Монах",
 		"description": "Комплекты рейдовой брони для Монаха",
 		"price": 100
@@ -54,6 +59,7 @@
 		"type": "hunter",
 		"path": "raids-armours/hunter",
 		"cardImg": "/src/assets/img/promo/bg/classes/Rexar.png",
+		"objectFit": false,
 		"title": "Охотник",
 		"description": "Комплекты рейдовой брони для Охотника",
 		"price": 100
@@ -64,6 +70,7 @@
 		"type": "demon-hunter",
 		"path": "raids-armours/demon-hunter",
 		"cardImg": "/src/assets/img/promo/bg/classes/Illidan.png",
+		"objectFit": false,
 		"title": "Охотник на демонов",
 		"description": "Комплекты рейдовой брони для Охотника на демонов",
 		"price": 100
@@ -74,6 +81,7 @@
 		"type": "paladin",
 		"path": "raids-armours/paladin",
 		"cardImg": "/src/assets/img/promo/bg/classes/Tirion-Fordring.png",
+		"objectFit": false,
 		"title": "Паладин",
 		"description": "Комплекты рейдовой брони для Паладина",
 		"price": 100
@@ -84,6 +92,7 @@
 		"type": "awakener",
 		"path": "raids-armours/awakener",
 		"cardImg": "/src/assets/img/promo/bg/classes/Scalecommander-Cindrethresh.png",
+		"objectFit": false,
 		"title": "Пробудитель",
 		"description": "Комплекты рейдовой брони для Пробудителя",
 		"price": 100
@@ -94,6 +103,7 @@
 		"type": "rogue",
 		"path": "raids-armours/rogue",
 		"cardImg": "/src/assets/img/promo/bg/classes/Valira-Sangvinar.png",
+		"objectFit": false,
 		"title": "Разбойник",
 		"description": "Комплекты рейдовой брони для Разбойника",
 		"price": 100
@@ -104,6 +114,7 @@
 		"type": "death-knight",
 		"path": "raids-armours/death-knight",
 		"cardImg": "/src/assets/img/promo/bg/classes/Lich-King.png",
+		"objectFit": false,
 		"title": "Рыцарь Смерти",
 		"description": "Комплекты рейдовой брони для Рыцаря смерти",
 		"price": 100
@@ -114,6 +125,7 @@
 		"type": "warlock",
 		"path": "raids-armours/warlock",
 		"cardImg": "/src/assets/img/promo/bg/classes/Guldan.png",
+		"objectFit": false,
 		"title": "Чернокнижник",
 		"description": "Комплекты рейдовой брони для Чернокнижника",
 		"price": 100
@@ -124,6 +136,7 @@
 		"type": "shaman",
 		"path": "raids-armours/shaman",
 		"cardImg": "/src/assets/img/promo/bg/classes/Thrall.png",
+		"objectFit": false,
 		"title": "Шаман",
 		"description": "Комплекты рейдовой брони для Шамана",
 		"price": 100

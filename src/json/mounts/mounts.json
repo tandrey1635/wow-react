@@ -26,15 +26,12 @@
 	},
 
 	{
-		"id": "fly-mounts",
-		"className": "card-mounts card-mounts-fly",
+		"id": "FlyMounts",
+		"type": "fly-mounts",
 		"path": "mounts/fly",
 		"cardImg": "/src/assets/img/promo/bg/mounts/fly.png",
-		"titleClassName": "card-title-mounts card-title-mounts-fly",
 		"title": "Летающие",
-		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
 		"description": "Летающие маунты, властелины небес, повелители бескрайних воздушных просторов. Они обеспечат вам скорость ветра и абсолютное превосходство в воздухе. Покорите небеса Азерота!",
-		"priceClassName": "card-price-mounts card-price-mounts-fly",
 		"price": 300
 	}
 ]

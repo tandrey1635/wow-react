@@ -101,6 +101,7 @@ const Cards = ({home, raidsArmoursWarrior, raidsArmoursDruid, raidsArmoursPriest
 				type={card.type}
 				path={card.path}
 				cardImg={card.cardImg}
+				objectFit={card.objectFit}
 				spanClassname={card.spanClassname}
 				description={card.description}
 				title={card.title}

@@ -118,3 +118,9 @@
 
 
 https://www.wowhead.com/classic/ru/transmog-set=1193/naxxramas-icebane-plate#english-comments - полярный сет накс
+
+
+
+Добавить свойство "objectFit": false во все JSON-объекты во всех файлах, где оно отсутствует (кроме тех, где уже есть objectFit: true).
+
+Причина: Обеспечить единообразие структуры данных и избежать undefined при рендеринге компонента Card.

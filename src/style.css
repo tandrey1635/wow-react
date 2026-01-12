@@ -816,10 +816,6 @@ footer {
   transform: scale(1.05);
   box-shadow: 0 0 2px 5px #673ab7;
 }
-.card-object-fit img {
-  -o-object-fit: contain;
-     object-fit: contain;
-}
 .card-warrior {
   background: linear-gradient(325deg, #854c27, transparent 30%, transparent 35%, #854c27, transparent);
 }
@@ -1096,6 +1092,10 @@ footer {
 .card-img:hover {
   transition: 0.5s all;
   transform: scale(1.05);
+}
+.card-img-object-fit {
+  -o-object-fit: contain;
+     object-fit: contain;
 }
 .card-img-tiers {
   border-radius: 0.8rem;

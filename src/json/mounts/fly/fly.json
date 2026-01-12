@@ -885,15 +885,13 @@
 	},
 
 	{
-		"id": "",
-		"className": "card-mounts card-mounts-fly",
+		"id": "GeosynchronousWorldSpinner",
+		"type": "fly-mounts",
 		"path": "",
-		"cardImg": "/src/assets/img/mounts/bg/fly/.png",
-		"titleClassName": "card-title-mounts card-title-mounts-fly",
+		"cardImg": "/src/assets/img/mounts/bg/fly/Geosynchronous-World-Spinner.png",
+		"objectFit": true,
 		"title": "Геосинхронный Вращатель Мира",
-		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "1",
-		"priceClassName": "card-price-mounts card-price-mounts-fly",
+		"description": "Эта ракета была создана, чтобы ускорить вращение планеты и сократить длительность ночи. Гномы с бессонницей весьма амбициозны. Профессия: Инженерное Дело.",
 		"price": 300
 	},
 
