@@ -135,7 +135,7 @@
 		"id": "Shaman",
 		"type": "shaman",
 		"path": "raids-armours/shaman",
-		"cardImg": "/src/assets/img/promo/bg/classes/Thrall.png",
+		"img": "/src/assets/img/promo/bg/classes/Thrall.png",
 		"objectFit": false,
 		"title": "Шаман",
 		"description": "Комплекты рейдовой брони для Шамана",
