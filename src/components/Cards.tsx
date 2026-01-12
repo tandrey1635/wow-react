@@ -76,7 +76,7 @@ import dataWrathOfTheLichKingRaids from '../json/raids/wrath-of-the-lich-king/ra
 import dataAchievements from '../json/achievements/achievements.json';
 
 
-
+import type { ICard }  from "../types/card-types";
 
 
 const Cards = ({home, raidsArmoursWarrior, raidsArmoursDruid, raidsArmoursPriest, raidsArmoursMage, raidsArmoursMonk, raidsArmoursHunter, raidsArmoursPaladin, raidsArmoursAwakener, raidsArmoursRogue, raidsArmoursDeathKnight, raidsArmoursWarlock, raidsArmoursShaman, legendaryWeapons, classes, warriorArtifacts, druidArtifacts, priestArtifacts, mageArtifacts, monkArtifacts, hunterArtifacts, demonHunterArtifacts, paladinArtifacts, rogueArtifacts, deathKnightArtifacts, warlockArtifacts, shamanArtifacts, armsWarrior, furyWarrior, protectionWarrior, cloaks, waterMounts, flyMounts, classic, burningCrusade, wrathOfTheLichKing, cataclysm, mistsOfPandaria, warlordsOfDraenor, legion, battleForAzeroth, shadowlands, dragonflight, warWithin, midnight, lastTitan}) => {
@@ -94,7 +94,7 @@ const Cards = ({home, raidsArmoursWarrior, raidsArmoursDruid, raidsArmoursPriest
 
 
 
-	const renderCardItems = ( dataJson) => dataJson.map(card=> {
+	const renderCardItems = (dataJson: ICard[]) => dataJson.map(card=> {
 		return (
 			<Card
 				key={card.id}
