@@ -36,7 +36,7 @@
 		"id": "Mage",
 		"type": "mage",
 		"path": "raids-armours/mage",
-		"cardImg": "/src/assets/img/promo/bg/classes/Djaina-Proudmoure.png",
+		"img": "/src/assets/img/promo/bg/classes/Djaina-Proudmoure.png",
 		"objectFit": false,
 		"title": "Маг",
 		"description": "Комплекты рейдовой брони для Мага",
