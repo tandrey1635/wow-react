@@ -1,0 +1,12 @@
+[
+	{
+		"id": "",
+		"type": "weapons",
+		"path": "",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/.png",
+		"objectFit": false,
+		"title": "Топор 1",
+		"description": "Топор 1",
+		"price": 300
+	}
+]

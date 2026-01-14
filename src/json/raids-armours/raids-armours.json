@@ -124,7 +124,7 @@
 		"id": "Warlock",
 		"type": "warlock",
 		"path": "raids-armours/warlock",
-		"cardImg": "/src/assets/img/promo/bg/classes/Guldan.png",
+		"img": "/src/assets/img/promo/bg/classes/Guldan.png",
 		"objectFit": false,
 		"title": "Чернокнижник",
 		"description": "Комплекты рейдовой брони для Чернокнижника",

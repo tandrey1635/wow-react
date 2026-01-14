@@ -31,6 +31,9 @@ import ArtifactWeapons  from "./pages/weapons/Artifact.tsx";
 import DecorativeWeapons  from "./pages/weapons/Decorative.tsx";
 
 
+import TwoHandedAxes  from "./pages/weapons/two-handed/axes/Axes.tsx";
+
+
 
 import Ashbringer  from "./pages/weapons/legendary/weapons-details/Ashbringer.tsx";
 import Sulfuras  from "./pages/weapons/legendary/weapons-details/Sulfuras.tsx";
@@ -196,6 +199,9 @@ createRoot(document.getElementById("root")!).render(
 				<Route path="weapons/legendary" element={<LegendaryWeapons />} />
 				<Route path="weapons/artifact" element={<ArtifactWeapons />} />
 				<Route path="weapons/decorative" element={<DecorativeWeapons />} />
+
+
+				<Route path="weapons/two-handed/axes" element={<TwoHandedAxes />} />
 
 
 				<Route path="weapons/legendary/weapons-details/ashbringer" element={<Ashbringer />} />

@@ -15,8 +15,12 @@ import dataRogueRaidArmours from '../json/raids-armours/rogue/rogue.json';
 import dataDeathKnightRaidArmours from '../json/raids-armours/death-knight/death-knight.json';
 import dataWarlockRaidArmours from '../json/raids-armours/warlock/warlock.json';
 import dataShamanRaidArmours from '../json/raids-armours/shaman/shaman.json';
-import dataLegendaryWeapons from '../json/weapons/legendary/weapons.json';
+
+
 import dataWeapons from '../json/weapons/weapons.json';
+import dataTwoHandedWeapons from '../json/weapons/two-handed/weapons.json';
+import dataTwoHandedAxes from '../json/weapons/two-handed/axes/axes.json';
+import dataLegendaryWeapons from '../json/weapons/legendary/weapons.json';
 
 
 import dataClasses from '../json/weapons/artifacts/classes.json';
@@ -79,7 +83,7 @@ import dataAchievements from '../json/achievements/achievements.json';
 import type { ICard }  from "../types/card-types";
 
 
-const Cards = ({home, raidsArmoursWarrior, raidsArmoursDruid, raidsArmoursPriest, raidsArmoursMage, raidsArmoursMonk, raidsArmoursHunter, raidsArmoursPaladin, raidsArmoursAwakener, raidsArmoursRogue, raidsArmoursDeathKnight, raidsArmoursWarlock, raidsArmoursShaman, legendaryWeapons, classes, warriorArtifacts, druidArtifacts, priestArtifacts, mageArtifacts, monkArtifacts, hunterArtifacts, demonHunterArtifacts, paladinArtifacts, rogueArtifacts, deathKnightArtifacts, warlockArtifacts, shamanArtifacts, armsWarrior, furyWarrior, protectionWarrior, cloaks, waterMounts, flyMounts, classic, burningCrusade, wrathOfTheLichKing, cataclysm, mistsOfPandaria, warlordsOfDraenor, legion, battleForAzeroth, shadowlands, dragonflight, warWithin, midnight, lastTitan}) => {
+const Cards = ({home, raidsArmoursWarrior, raidsArmoursDruid, raidsArmoursPriest, raidsArmoursMage, raidsArmoursMonk, raidsArmoursHunter, raidsArmoursPaladin, raidsArmoursAwakener, raidsArmoursRogue, raidsArmoursDeathKnight, raidsArmoursWarlock, raidsArmoursShaman, twoHandedWeapons, twoHandedAxes, legendaryWeapons, classes, warriorArtifacts, druidArtifacts, priestArtifacts, mageArtifacts, monkArtifacts, hunterArtifacts, demonHunterArtifacts, paladinArtifacts, rogueArtifacts, deathKnightArtifacts, warlockArtifacts, shamanArtifacts, armsWarrior, furyWarrior, protectionWarrior, cloaks, waterMounts, flyMounts, classic, burningCrusade, wrathOfTheLichKing, cataclysm, mistsOfPandaria, warlordsOfDraenor, legion, battleForAzeroth, shadowlands, dragonflight, warWithin, midnight, lastTitan}) => {
 
 	const basePathImg = '/src/assets/img'
 
@@ -314,6 +318,22 @@ const Cards = ({home, raidsArmoursWarrior, raidsArmoursDruid, raidsArmoursPriest
 					{ raidsArmoursShaman &&
 						<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
 							{ renderCardItems(dataShamanRaidArmours) }
+						</div>
+					}
+
+					{ twoHandedWeapons &&
+						<div className="tab-pane fade show active" id="pills-raids-armour">
+							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
+								{ renderCardItems(dataTwoHandedWeapons) }
+							</div>
+						</div>
+					}
+
+					{ twoHandedAxes &&
+						<div className="tab-pane fade show active" id="pills-raids-armour">
+							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
+								{ renderCardItems(dataTwoHandedAxes) }
+							</div>
 						</div>
 					}
 
