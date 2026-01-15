@@ -977,17 +977,26 @@ footer {
 .card-mounts-water {
   background: linear-gradient(325deg, #00ffff, transparent 30%, transparent 35%, #00ffff, transparent);
 }
+.card-mounts-water [alt] {
+  color: #00ffff;
+}
 .card-mounts-water:hover {
   box-shadow: 0 0 2px 5px #00ffff;
 }
 .card-mounts-earth {
   background: linear-gradient(325deg, #854c27, transparent 30%, transparent 35%, #854c27, transparent);
 }
+.card-mounts-earth [alt] {
+  color: #854c27;
+}
 .card-mounts-earth:hover {
   box-shadow: 0 0 2px 5px #854c27;
 }
 .card-mounts-fly {
   background: linear-gradient(325deg, #2e86e5, transparent 30%, transparent 35%, #2e86e5, transparent);
+}
+.card-mounts-fly [alt] {
+  color: #2e86e5;
 }
 .card-mounts-fly:hover {
   box-shadow: 0 0 2px 5px #2e86e5;

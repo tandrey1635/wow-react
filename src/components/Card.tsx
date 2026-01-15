@@ -48,6 +48,12 @@ const Card = ({type, path, img, objectFit, description, title, spanClassname, pr
 			type == "legendary-weapons"
 				? "card-weapons-legendary"
 				:
+			type == "water-mounts"
+				? "card-mounts-water"
+				:
+			type == "earth-mounts"
+				? "card-mounts-earth"
+				:
 			type == "fly-mounts"
 				? "card-mounts-fly"
 				:
@@ -112,6 +118,12 @@ const Card = ({type, path, img, objectFit, description, title, spanClassname, pr
 						type == "legendary-weapons"
 							? "card-title-weapons-legendary"
 							:
+						type == "water-mounts"
+						? "card-title-mounts-water"
+						:
+						type == "earth-mounts"
+							? "card-title-mounts-earth"
+							:
 						type == "fly-mounts"
 							? "card-title-mounts-fly"
 							:
@@ -166,6 +178,12 @@ const Card = ({type, path, img, objectFit, description, title, spanClassname, pr
 						:
 					type == "legendary-weapons"
 						? "card-text-weapons-legendary"
+						:
+					type == "water-mounts"
+						? "card-text-mounts-water"
+						:
+					type == "earth-mounts"
+						? "card-text-mounts-earth"
 						:
 					type == "fly-mounts"
 						? "card-text-mounts-fly"
@@ -222,6 +240,12 @@ const Card = ({type, path, img, objectFit, description, title, spanClassname, pr
 						:
 					type == "legendary-weapons"
 						? "card-price-weapons-legendary"
+						:
+					type == "water-mounts"
+						? "card-price-mounts-water"
+						:
+					type == "earth-mounts"
+						? "card-price-mounts-earth"
 						:
 					type == "fly-mounts"
 						? "card-price-mounts-fly"
