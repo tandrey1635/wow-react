@@ -71,7 +71,7 @@
 
 
 анимация воина stand - прическа crest, спина - upright
-анимация паладина stormstrike - ебало 2 волосы с челкой
+анимация паладина stormstrike - ебало 2 прическа peasant
 анимация дк dressingroom - прическа sheggy
 анимация мага magereadyspellcast - прическа vigor
 анимация лока magereadyspellcast - прическа dark tides
