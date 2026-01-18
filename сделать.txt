@@ -82,7 +82,7 @@
 анимация дренея magereadyspellcast прическа - horned
 анимация разбойника dressingroom
 анимация монаха dressingroom прическа - backbrushed
-
+анимация дх  прическа - foxtail
 
 
 переделать пути в фото

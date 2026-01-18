@@ -69,7 +69,7 @@
 		"id": "DemonHunter",
 		"type": "demon-hunter",
 		"path": "raids-armours/demon-hunter",
-		"cardImg": "/src/assets/img/promo/bg/classes/Illidan.png",
+		"img": "/src/assets/img/promo/bg/classes/Illidan.png",
 		"objectFit": false,
 		"title": "Охотник на демонов",
 		"description": "Комплекты рейдовой брони для Охотника на демонов",

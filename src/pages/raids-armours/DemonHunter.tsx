@@ -19,6 +19,7 @@ const DemonHunter = () => {
 				<h1 style={{fontSize: 120}} className="text-center text-danger">В разработке</h1>
 				<Announcement demonHunter />
 				<Promo demonHunter />
+				<Cards raidsArmoursDemonHunter />
 			</Main>
 			<Footer />
 			<ArrowUp />
