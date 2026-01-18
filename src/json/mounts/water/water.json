@@ -66,6 +66,17 @@
 	},
 
 	{
+		"id": "Depthstalker",
+		"type": "water-mounts",
+		"path": "",
+		"img": "/src/assets/img/mounts/bg/water/Depthstalker.png",
+		"objectFit": false,
+		"title": "Глубинный Охотник",
+		"description": "Несколько медуз, пойманных браконьерами в Зерет Мортисе, потерялись, когда корабль браконьеров затонул. Они обрели новый дом в глубинах Великого моря. Источник: Торговая лавка.",
+		"price": 300
+	},
+
+	{
 		"id": "BestowedOttukVanguard",
 		"type": "water-mounts",
 		"path": "",

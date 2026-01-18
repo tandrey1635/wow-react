@@ -675,7 +675,7 @@ footer {
   position: absolute;
   font-weight: 900;
   font-size: 18px;
-  background: linear-gradient(325deg, #673ab7, transparent 30%, transparent 35%, #673ab7, transparent);
+  background: linear-gradient(325deg, #8400ff, transparent 30%, transparent 35%, #8400ff, transparent);
   border-radius: 30px;
   /* display: none */
 }
@@ -809,7 +809,7 @@ footer {
   transition: 0.5s all;
   border-radius: 0.8rem;
   border: none;
-  background: linear-gradient(325deg, #673ab7, transparent 30%, transparent 35%, #673ab7, transparent);
+  background: linear-gradient(325deg, #8400ff, transparent 30%, transparent 35%, #8400ff, transparent);
 }
 .card [alt] {
   padding: 10px;
@@ -939,7 +939,7 @@ footer {
   box-shadow: 0 0 2px 5px #185ec1;
 }
 .card-weapons {
-  background: linear-gradient(325deg, #673ab7, transparent 30%, transparent 35%, #673ab7, transparent);
+  background: linear-gradient(325deg, #8400ff, transparent 30%, transparent 35%, #8400ff, transparent);
 }
 .card-weapons-legendary {
   background: linear-gradient(325deg, #ff8000, transparent 30%, transparent 35%, #ff8000, transparent);
@@ -960,7 +960,10 @@ footer {
   box-shadow: 0 0 2px 5px #dc3ef3;
 }
 .card-armours {
-  background: linear-gradient(325deg, #673ab7, transparent 30%, transparent 35%, #673ab7, transparent);
+  background: linear-gradient(325deg, #8400ff, transparent 30%, transparent 35%, #8400ff, transparent);
+}
+.card-armours [alt] {
+  color: #8400ff;
 }
 .card-armours-legendary {
   background: linear-gradient(325deg, #ff8000, transparent 30%, transparent 35%, #ff8000, transparent);
@@ -1014,7 +1017,7 @@ footer {
   box-shadow: 0 0 2px 5px #037afb;
 }
 .card-professions {
-  background: linear-gradient(325deg, #673ab7, transparent 30%, transparent 35%, #673ab7, transparent);
+  background: linear-gradient(325deg, #8400ff, transparent 30%, transparent 35%, #8400ff, transparent);
 }
 .card-pvp {
   background: linear-gradient(350deg, #ff0033, transparent 30%, transparent 35%, #ff0033, transparent);
@@ -2005,7 +2008,7 @@ footer {
 /* Фон всех активных ссылок в нав меню */
 .nav-pills .nav-link.active {
   color: #ffc107;
-  background: linear-gradient(325deg, #673ab7, transparent 30%, transparent 35%, #673ab7, transparent);
+  background: linear-gradient(325deg, #8400ff, transparent 30%, transparent 35%, #8400ff, transparent);
   filter: brightness(125%);
 }
 
@@ -2050,7 +2053,7 @@ footer {
 }
 .services .nav-link .active {
   color: #ffc107;
-  background: linear-gradient(325deg, #673ab7, transparent 30%, transparent 35%, #673ab7, transparent);
+  background: linear-gradient(325deg, #8400ff, transparent 30%, transparent 35%, #8400ff, transparent);
   filter: brightness(125%);
 }
 .services__link {

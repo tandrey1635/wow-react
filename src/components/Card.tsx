@@ -48,6 +48,9 @@ const Card = ({type, path, img, objectFit, description, title, spanClassname, pr
 			type == "legendary-weapons"
 				? "card-weapons-legendary"
 				:
+			type == "armours"
+				? "card-armours"
+				:
 			type == "water-mounts"
 				? "card-mounts-water"
 				:
@@ -118,6 +121,9 @@ const Card = ({type, path, img, objectFit, description, title, spanClassname, pr
 						type == "legendary-weapons"
 							? "card-title-weapons-legendary"
 							:
+						type == "armours"
+							? "card-title-armours"
+							:
 						type == "water-mounts"
 						? "card-title-mounts-water"
 						:
@@ -178,6 +184,9 @@ const Card = ({type, path, img, objectFit, description, title, spanClassname, pr
 						:
 					type == "legendary-weapons"
 						? "card-text-weapons-legendary"
+						:
+					type == "armours"
+						? "card-text-armours"
 						:
 					type == "water-mounts"
 						? "card-text-mounts-water"
@@ -240,6 +249,9 @@ const Card = ({type, path, img, objectFit, description, title, spanClassname, pr
 						:
 					type == "legendary-weapons"
 						? "card-price-weapons-legendary"
+						:
+					type == "armours"
+						? "card-price-armours"
 						:
 					type == "water-mounts"
 						? "card-price-mounts-water"
