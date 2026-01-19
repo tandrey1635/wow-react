@@ -1,5 +1,16 @@
 [
 	{
+		"id": "DarkIronPlate",
+		"type": "death-knight",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/death-knight/Dark-Iron-Plate-death-knight.png",
+		"objectFit": false,
+		"title": "Броня из Черного Железа",
+		"description": "Броня выкованная в сердце вулкана на древней наковальне стихий из чешуи поверженных исполинов и кожи гончих преисподней из Огненных Недр дополнения Classic. Первая несокрушимая награда за покорение пекла. Повелитель Огня я иду за тобой! Потрясающая защита от магии огня!",
+		"price": 100
+	},
+
+	{
 		"id": "PlateIcebaneSet",
 		"type": "death-knight",
 		"path": "",

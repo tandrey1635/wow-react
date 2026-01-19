@@ -72,7 +72,7 @@
 
 анимация воина stand - прическа crest, спина - upright
 анимация паладина stormstrike - ебало 2 прическа peasant
-анимация дк dressingroom - прическа sheggy
+анимация дк dressingroom - прическа sheggy, глаза 14
 анимация мага magereadyspellcast - прическа vigor
 анимация лока magereadyspellcast - прическа dark tides
 анимация охотника readyCrossbow / и аналоги для лука и винтовки  - прическа short, борода - medium
@@ -83,6 +83,10 @@
 анимация разбойника dressingroom
 анимация монаха dressingroom прическа - backbrushed
 анимация дх  прическа - foxtail
+
+
+
+дк переделать 4 комплекта под синие глаза
 
 
 переделать пути в фото
@@ -127,3 +131,19 @@ https://www.wowhead.com/classic/ru/transmog-set=1193/naxxramas-icebane-plate#eng
 
 
 назначить цвет для альт атрибутов начиная с оружия
+
+
+
+
+
+
+
+доп сеты
+паладин, дк
+https://www.wowhead.com/ru/transmog-set=1055/dark-iron-plate#comments
+
+
+
+по вовхеду
+наборы на сопротивление - воин, пал, дк
+тир 1,2 - готово фул воин, пал, дк
