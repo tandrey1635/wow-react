@@ -79,7 +79,7 @@
 анимация пробужденный magereadyspellcast, внешность: earth - wing, chest - regal, helm - crown, upper arms - rerebraces, lower arms - talons, breechcloth, regal, feet- talons, thighs - ornate, wing decoration - talon, horn color - 12, horns - curved
 анимация шамана dressingroom прическа windswept, цвет волос 14 - синий яркий
 анимация друида magereadyspellcast - прическа braids
-анимация дренея magereadyspellcast прическа - horned
+анимация жреца magereadyspellcast прическа - horned
 анимация разбойника dressingroom
 анимация монаха dressingroom прическа - backbrushed
 анимация дх  прическа - foxtail
@@ -139,11 +139,14 @@ https://www.wowhead.com/classic/ru/transmog-set=1193/naxxramas-icebane-plate#eng
 
 
 доп сеты
-паладин, дк
-https://www.wowhead.com/ru/transmog-set=1055/dark-iron-plate#comments
+
+по вовхеду готовы
+рейдовые комплекты
+классика + бк - воин, пал, дк
+
+комплект гарнизона и магазина близзард
+вар, пал, дк
 
 
-
-по вовхеду
-наборы на сопротивление - воин, пал, дк
-тир 1,2 - готово фул воин, пал, дк
+комплект на сопротивление
+прист, маг, лок

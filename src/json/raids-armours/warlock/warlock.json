@@ -1,5 +1,16 @@
 [
 	{
+		"id": "InfernoweaveRegalia",
+		"type": "warlock",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/cloth/warlock/Infernoweave-Regalia-warlock.png",
+		"objectFit": false,
+		"title": "Инфернальные Регалии",
+		"description": "Броня выкованная в сердце вулкана на древней наковальне стихий из чешуи поверженных исполинов и кожи гончих преисподней из Огненных Недр дополнения Classic. Первая несокрушимая награда за покорение пекла. Повелитель Огня я иду за тобой! Потрясающая защита от магии огня!",
+		"price": 100
+	},
+
+	{
 		"id": "FelheartRaiment",
 		"type": "warlock",
 		"path": "",

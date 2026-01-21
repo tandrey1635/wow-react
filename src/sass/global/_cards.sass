@@ -252,12 +252,14 @@
 	font-weight: 900
 	font-style: italic
 	line-height: 1
-	min-height: 65px
+	min-height: 160px
 	text-shadow: 2px 2px 2px $defaultShadow
 	font-size: 32px
 	transition: 0.5s all
 	color: $defaultColor
 	filter: drop-shadow(0 0 2px $defaultShadow)
+	@media ( max-width:  991.98px)
+		min-height: auto
 	&:hover
 		transition: 0.5s all
 		transform: scale(1.1)

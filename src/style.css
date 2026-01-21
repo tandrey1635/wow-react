@@ -1173,12 +1173,17 @@ footer {
   font-weight: 900;
   font-style: italic;
   line-height: 1;
-  min-height: 65px;
+  min-height: 160px;
   text-shadow: 2px 2px 2px #000;
   font-size: 32px;
   transition: 0.5s all;
   color: #673ab7;
   filter: drop-shadow(0 0 2px #000);
+}
+@media (max-width: 991.98px) {
+  .card-title {
+    min-height: auto;
+  }
 }
 .card-title:hover {
   transition: 0.5s all;

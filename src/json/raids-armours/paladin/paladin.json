@@ -143,6 +143,17 @@
 	},
 
 	{
+		"id": "CrystalforgeArmorRecolor",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/paladin/Crystalforge-Armor-recolor.png",
+		"objectFit": false,
+		"title": "Доспехи Хрустальной Кузницы Путешественника из Другого Мира",
+		"description": "Кажется, сюда затесалась какая-то подозрительно похожая, но не родная броня из другого времени. Альтернативный вариант прославленных доспехов, появившийся в иных измерениях Азерота. Обладает той же несокрушимой силой, что и оригинал, но несет в себе отпечаток другой истории.",
+		"price": 200
+	},
+
+	{
 		"id": "LightbringerArmor",
 		"type": "paladin",
 		"path": "",

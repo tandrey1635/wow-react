@@ -1,5 +1,16 @@
 [
 	{
+		"id": "InfernoweaveRegalia",
+		"type": "priest",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/cloth/priest/Infernoweave-Regalia-priest.png",
+		"objectFit": false,
+		"title": "Инфернальные Регалии",
+		"description": "Броня выкованная в сердце вулкана на древней наковальне стихий из чешуи поверженных исполинов и кожи гончих преисподней из Огненных Недр дополнения Classic. Первая несокрушимая награда за покорение пекла. Повелитель Огня я иду за тобой! Потрясающая защита от магии огня!",
+		"price": 100
+	},
+
+	{
 		"id": "VestmentsOfProphecy",
 		"type": "priest",
 		"path": "",
