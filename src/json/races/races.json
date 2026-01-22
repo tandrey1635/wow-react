@@ -1,0 +1,12 @@
+[
+	{
+		"id": "Races",
+		"type": "races",
+		"path": "races",
+		"img": "/src/assets/img/promo/bg/races/races.jpg",
+		"objectFit": false,
+		"title": "Расы",
+		"description": "",
+		"price": 1000
+	}
+]

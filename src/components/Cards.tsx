@@ -2,6 +2,12 @@ import { Link } from "react-router";
 import Card from './Card.tsx'
 
 
+import dataRaces from '../json/races/races.json';
+import dataSelectRaces from '../json/races/races/faction.json';
+import dataRacesHorde from '../json/races/races/horde/horde.json';
+import dataRacesAlliance from '../json/races/races/alliance/alliance.json';
+
+
 import dataRaidArmours from '../json/raids-armours/raids-armours.json';
 import dataWarriorRaidArmours from '../json/raids-armours/warrior/warrior.json';
 import dataDruidRaidArmours from '../json/raids-armours/druid/druid.json';
@@ -84,7 +90,7 @@ import dataAchievements from '../json/achievements/achievements.json';
 import type { ICard }  from "../types/card-types";
 
 
-const Cards = ({home, raidsArmoursWarrior, raidsArmoursDruid, raidsArmoursPriest, raidsArmoursMage, raidsArmoursMonk, raidsArmoursHunter, raidsArmoursDemonHunter, raidsArmoursPaladin, raidsArmoursAwakener, raidsArmoursRogue, raidsArmoursDeathKnight, raidsArmoursWarlock, raidsArmoursShaman, twoHandedWeapons, twoHandedAxes, legendaryWeapons, classes, warriorArtifacts, druidArtifacts, priestArtifacts, mageArtifacts, monkArtifacts, hunterArtifacts, demonHunterArtifacts, paladinArtifacts, rogueArtifacts, deathKnightArtifacts, warlockArtifacts, shamanArtifacts, armsWarrior, furyWarrior, protectionWarrior, cloaks, waterMounts, flyMounts, classic, burningCrusade, wrathOfTheLichKing, cataclysm, mistsOfPandaria, warlordsOfDraenor, legion, battleForAzeroth, shadowlands, dragonflight, warWithin, midnight, lastTitan}) => {
+const Cards = ({home, races, horde, alliance, raidsArmoursWarrior, raidsArmoursDruid, raidsArmoursPriest, raidsArmoursMage, raidsArmoursMonk, raidsArmoursHunter, raidsArmoursDemonHunter, raidsArmoursPaladin, raidsArmoursAwakener, raidsArmoursRogue, raidsArmoursDeathKnight, raidsArmoursWarlock, raidsArmoursShaman, twoHandedWeapons, twoHandedAxes, legendaryWeapons, classes, warriorArtifacts, druidArtifacts, priestArtifacts, mageArtifacts, monkArtifacts, hunterArtifacts, demonHunterArtifacts, paladinArtifacts, rogueArtifacts, deathKnightArtifacts, warlockArtifacts, shamanArtifacts, armsWarrior, furyWarrior, protectionWarrior, cloaks, waterMounts, flyMounts, classic, burningCrusade, wrathOfTheLichKing, cataclysm, mistsOfPandaria, warlordsOfDraenor, legion, battleForAzeroth, shadowlands, dragonflight, warWithin, midnight, lastTitan}) => {
 
 	const basePathImg = '/src/assets/img'
 
@@ -118,15 +124,21 @@ const Cards = ({home, raidsArmoursWarrior, raidsArmoursDruid, raidsArmoursPriest
 	})
 
 
-
 	return (
 		<section className="services">
 			<div className="container">
 				<div className="tab-content" id="pills-tabContent">
 					{ home &&
 						<>
+							{/* Таб контент рассы */}
+							<div className="tab-pane fade show active" id="pills-races">
+								<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
+									{ renderCardItems(dataRaces) }
+								</div>
+							</div>
+
 							{/* Таб контент рейдовая броня */}
-							<div className="tab-pane fade show active" id="pills-raids-armour">
+							<div className="tab-pane fade show active mt-5" id="pills-raids-armour">
 								<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
 									{ renderCardItems(dataRaidArmours) }
 								</div>
@@ -248,6 +260,24 @@ const Cards = ({home, raidsArmoursWarrior, raidsArmoursDruid, raidsArmoursPriest
 								</div>
 							</div>
 						</>
+					}
+
+					{ races &&
+						<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
+							{ renderCardItems(dataSelectRaces) }
+						</div>
+					}
+
+					{ horde &&
+						<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
+							{ renderCardItems(dataRacesHorde) }
+						</div>
+					}
+
+					{ alliance &&
+						<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
+							{ renderCardItems(dataRacesAlliance) }
+						</div>
 					}
 
 					{ raidsArmoursWarrior &&

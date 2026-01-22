@@ -1,10 +1,16 @@
-const Announcement = ({ home, warrior, druid, priest, mage, monk, hunter, demonHunter, paladin, awakener, rogue, deathKnight, warlock, shaman, oneHandedWeapons, twoHandedWeapons, rangeWeapons, legendaryWeapons, artifactWeapons, decorativeWeapons, twoHandedAxes, weaponsDetailsTitle, weaponsDetailsDescription, ashbringer, sulfuras, thunderfury, atiesh, warglaivesOfAzzinoth, thoridal, valanyr, frostmourne, shadowmourne, tarecgosa, fangsFather, raeshalareDeathsWhisper, fyralathTheDreamrender, naszuroTheUnboundLegacy, armsWarrior, furyWarrior, protectionWarrior, armours, shields, cloaks, tabards, fishingRods, waterMounts, earthMounts, flyMounts, hordeGold, allianceGold, professions, alchemy, mining, engineering, leatherworking, blacksmithing, enchanting,  inscription, tailoring, skinning, herbalism, jewelcrafting, archaeology, riding, cooking, firstAid, fishing, junkyardTinkering, protoformSynthesis, pvp, honour, arena, rbg, dungeons, mythic5, mythic10, mythic15, сlassic, burningCrusade, wrathOfTheLichKing, cataclysm, mistsOfPandaria, warlordsOfDraenor, legion, battleForAzeroth, shadowlands, dragonflight, warWithin, midnight, lastTitan, lvlUp, lvlUpBase, lvlUpExpert, lvlUpMaster, achievements, quests, equipments, mounts, raidsExplorer, legacy, greatFeats, warcraftReforged, wow, diablo, hearthstone, heroesStorm, starcraft, overwatch, wowCollectionEditions, diabloCollectionEditions  }) => {
+const Announcement = ({ home, races, horde, alliance, warrior, druid, priest, mage, monk, hunter, demonHunter, paladin, awakener, rogue, deathKnight, warlock, shaman, oneHandedWeapons, twoHandedWeapons, rangeWeapons, legendaryWeapons, artifactWeapons, decorativeWeapons, twoHandedAxes, weaponsDetailsTitle, weaponsDetailsDescription, ashbringer, sulfuras, thunderfury, atiesh, warglaivesOfAzzinoth, thoridal, valanyr, frostmourne, shadowmourne, tarecgosa, fangsFather, raeshalareDeathsWhisper, fyralathTheDreamrender, naszuroTheUnboundLegacy, armsWarrior, furyWarrior, protectionWarrior, armours, shields, cloaks, tabards, fishingRods, waterMounts, earthMounts, flyMounts, hordeGold, allianceGold, professions, alchemy, mining, engineering, leatherworking, blacksmithing, enchanting,  inscription, tailoring, skinning, herbalism, jewelcrafting, archaeology, riding, cooking, firstAid, fishing, junkyardTinkering, protoformSynthesis, pvp, honour, arena, rbg, dungeons, mythic5, mythic10, mythic15, сlassic, burningCrusade, wrathOfTheLichKing, cataclysm, mistsOfPandaria, warlordsOfDraenor, legion, battleForAzeroth, shadowlands, dragonflight, warWithin, midnight, lastTitan, lvlUp, lvlUpBase, lvlUpExpert, lvlUpMaster, achievements, quests, equipments, mounts, raidsExplorer, legacy, greatFeats, warcraftReforged, wow, diablo, hearthstone, heroesStorm, starcraft, overwatch, wowCollectionEditions, diabloCollectionEditions  }) => {
 	return (
 		<section className="announcement">
 			<div className="container">
 				<div className="announcement__description my-4 my-lg-5">
 					<h1
 						className={`announcement__header ${
+							horde || hordeGold
+								? "announcement__header_horde"
+								:
+							alliance || allianceGold
+								? "announcement__header_alliance"
+								:
 							warrior
 								? "announcement__header_warrior"
 								:
@@ -74,12 +80,6 @@ const Announcement = ({ home, warrior, druid, priest, mage, monk, hunter, demonH
 							flyMounts
 								? "announcement__header_fly-mounts"
 								:
-							hordeGold
-								? "announcement__header_horde-gold"
-								:
-							allianceGold
-								? "announcement__header_alliance-gold"
-								:
 							professions
 								? "announcement__header_professions"
 								:
@@ -138,6 +138,15 @@ const Announcement = ({ home, warrior, druid, priest, mage, monk, hunter, demonH
 						}
 					>
 						{
+							races
+								? "Расы Азерота: твой выбор — твоя судьба!"
+								:
+							horde
+								? "За Орду!"
+								:
+							alliance
+								? "За Альянс!"
+								:
 							warrior
 								? "Комплекты рейдовой брони для воина"
 								:
@@ -456,6 +465,15 @@ const Announcement = ({ home, warrior, druid, priest, mage, monk, hunter, demonH
 						}
 					>
 						{
+							races
+								? "Азерот населяет множество уникальных рас — одни являются коренными обитателями этого мира, другие прибыли из далёких и иных измерений. Ваш выбор расы определит не только внешность и способности персонажа, но и судьбоносный союз в вечном противостоянии. Вступите в ряды несгибаемой Орды, чья ярость и отвага не знают границ, или примите сторону благородного Альянса, сражающегося за честь и справедливость. Кому вы присягнете на верность? Чью историю будете вершить?"
+								:
+							horde
+								? "Орда — фракция, которая ценит силу и честь, выступает против тех, кто угрожает идеалам свободы и надежды, но пытается сдержать агрессию. Расы, входящие в состав Орды, происходят из традиций, связанных с насилием и войной. Столица Орды — Оргриммар, город орков и троллей."
+								:
+							alliance
+								? "Альянс — фракция, состоящая из культурных групп, которые связаны обязательствами перед такими понятиями, как благородство и честь. Расы Альянса работают вместе для сохранения порядка в Азероте. Столица Альянса — Штормград, столица людей и самый крупный человеческий город в Азероте."
+								:
 							warrior
 								? "Обрети мощь титана. Получите полный комплект, станьте неудержимой силой в бою и легендой Азерота!"
 								:

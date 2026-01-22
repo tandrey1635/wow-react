@@ -13,4 +13,4 @@ interface ICard {
 }
 
 
-export type {ICard}
+export type { ICard }

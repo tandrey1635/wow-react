@@ -5,9 +5,21 @@ const Nav = ({home, warrior, druid, priest, mage, monk, hunter, demonHunter, pal
 				<div className="services__tabs">
 					{/* Табы все */}
 					<ul className="nav nav-pills mb-5 justify-content-center" id="pills-tab" role="tablist">
+						<li className="nav-item nav-item-raids-armour" role="presentation">
+							<a className="nav-link nav-link-tabs nav-link-raids-armour active" id="pills-raids-armour-tab" data-toggle="pill" href="#pills-races" role="tab" aria-controls="pills-raids-armour" aria-selected="true">Рассы</a>
+							<ul className="nav nav-pills nav-raids-armour services__nav">
+								<li className="nav-item nav-item-warrior">
+									<a className="nav-link services__link nav-link-raids-armour" href="html/raids-armours/warrior.html">Орда</a>
+								</li>
+
+								<li className="nav-item nav-item-druid">
+									<a className="nav-link services__link nav-link-raids-armour" href="html/raids-armours/druid.html">Альянс</a>
+								</li>
+							</ul>
+						</li>
 						{/* Табы Рейдовая Броня */}
 						<li className="nav-item nav-item-raids-armour" role="presentation">
-							<a className="nav-link nav-link-tabs nav-link-raids-armour active" id="pills-raids-armour-tab" data-toggle="pill" href="#pills-raids-armour" role="tab" aria-controls="pills-raids-armour" aria-selected="true">Рейдовые комплекты</a>
+							<a className="nav-link nav-link-tabs nav-link-raids-armour" id="pills-raids-armour-tab" data-toggle="pill" href="#pills-raids-armour" role="tab" aria-controls="pills-raids-armour" aria-selected="true">Рейдовые комплекты</a>
 							<ul className="nav nav-pills nav-raids-armour services__nav">
 								<li className="nav-item nav-item-warrior">
 									<a className="nav-link services__link nav-link-raids-armour" href="html/raids-armours/warrior.html">Воин</a>

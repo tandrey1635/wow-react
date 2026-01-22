@@ -3,9 +3,18 @@ import type { ICard }  from "../types/card-types";
 
 
 
-const Card = ({type, path, img, objectFit, description, title, spanClassname, price, gold, raids }: ICard) => {
+const Card = ({type, path, img, objectFit, description, title, spanClassname, price, gold, raids}: ICard) => {
 	return (
 		<div className={`card ${
+			type == "races"
+				? "card-races"
+				:
+			type == "faction-horde"
+				? "card-horde"
+				:
+			type == "faction-alliance"
+				? "card-alliance"
+				:
 			type == "warrior"
 				? "card-warrior"
 				:
@@ -60,12 +69,6 @@ const Card = ({type, path, img, objectFit, description, title, spanClassname, pr
 			type == "fly-mounts"
 				? "card-mounts-fly"
 				:
-			type == "gold-horde"
-				? "card-gold-horde"
-				:
-			type == "gold-alliance"
-				? "card-gold-alliance"
-				:
 			type == "dungeons"
 				? "card-mythic"
 				: null
@@ -85,6 +88,15 @@ const Card = ({type, path, img, objectFit, description, title, spanClassname, pr
 			<div className="card-body">
 				<Link className="card-link" to={path}>
 					<h3 className={`card-title ${
+						type == "races"
+							? "card-title-races"
+							:
+						type == "faction-horde"
+							? "card-title-horde"
+							:
+						type == "faction-alliance"
+							? "card-title-alliance"
+							:
 						type == "warrior"
 							? "card-title-warrior"
 							:
@@ -139,12 +151,6 @@ const Card = ({type, path, img, objectFit, description, title, spanClassname, pr
 						type == "fly-mounts"
 							? "card-title-mounts-fly"
 							:
-						type == "gold-horde"
-							? "card-title-gold-horde"
-							:
-						type == "gold-alliance"
-							? "card-title-gold-alliance"
-							:
 						type == "dungeons"
 							? "card-title-mythic"
 							: null
@@ -155,6 +161,15 @@ const Card = ({type, path, img, objectFit, description, title, spanClassname, pr
 				</Link>
 
 				<p className={`card-text ${
+					type == "races"
+						? "card-text-races"
+						:
+					type == "faction-horde"
+						? "card-text-horde"
+						:
+					type == "faction-alliance"
+						? "card-text-alliance"
+						:
 					type == "warrior"
 						? "card-text-warrior"
 						:
@@ -209,12 +224,6 @@ const Card = ({type, path, img, objectFit, description, title, spanClassname, pr
 					type == "fly-mounts"
 						? "card-text-mounts-fly"
 						:
-					type == "gold-horde"
-						? "card-text-gold-horde"
-						:
-					type == "gold-alliance"
-						? "card-text-gold-alliance"
-						:
 					type == "dungeons"
 						? "card-text-mythic"
 						: null
@@ -226,6 +235,15 @@ const Card = ({type, path, img, objectFit, description, title, spanClassname, pr
 
 			<div className="card-footer d-flex justify-content-between align-items-center">
 				<p className={`card-price ${
+					type == "races"
+						? "card-price-races"
+						:
+					type == "faction-horde"
+						? "card-price-horde"
+						:
+					type == "faction-alliance"
+						? "card-price-alliance"
+						:
 					type == "warrior"
 						? "card-price-warrior"
 						:
@@ -279,12 +297,6 @@ const Card = ({type, path, img, objectFit, description, title, spanClassname, pr
 						:
 					type == "fly-mounts"
 						? "card-price-mounts-fly"
-						:
-					type == "gold-horde"
-						? "card-price-gold-horde"
-						:
-					type == "gold-alliance"
-						? "card-price-gold-alliance"
 						:
 					type == "dungeons"
 						? "card-price-mythic"

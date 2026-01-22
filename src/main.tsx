@@ -5,6 +5,9 @@ import 'bootstrap/dist/css/bootstrap.min.css'
 import './style.sass'
 import { BrowserRouter, Routes, Route } from "react-router";
 
+import Races  from "./pages/races/Races.tsx";
+import Horde  from "./pages/races/horde/Horde.tsx";
+import Alliance  from "./pages/races/alliance/Alliance.tsx";
 
 
 import Warrior  from "./pages/raids-armours/Warrior.tsx";
@@ -178,6 +181,12 @@ createRoot(document.getElementById("root")!).render(
 		<BrowserRouter>
 			<Routes>
 				<Route path="/" element={<App />} />
+
+				<Route path="races" element={<Races />} />
+				<Route path="races/horde" element={<Horde />} />
+				<Route path="races/alliance" element={<Alliance />} />
+
+
 				<Route path="raids-armours/warrior" element={<Warrior />} />
 				<Route path="raids-armours/druid" element={<Druid />} />
 				<Route path="raids-armours/priest" element={<Priest />} />

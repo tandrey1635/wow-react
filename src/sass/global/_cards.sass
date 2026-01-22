@@ -15,6 +15,20 @@
 		transition: 0.5s all
 		transform: scale(1.05)
 		box-shadow: 0 0 2px 5px $defaultCardHoverShadow
+	&-races
+		background: $racesBg
+	&-horde
+		background: $hordeBg
+		[alt]
+			color: $hordeColor
+		&:hover
+			box-shadow: 0 0 2px 5px $hordeCardHoverShadow
+	&-alliance
+		background: $allianceBg
+		[alt]
+			color: $allianceColor
+		&:hover
+			box-shadow: 0 0 2px 5px $allianceCardHoverShadow
 	&-warrior
 		background: $warriorBg
 		[alt]
@@ -138,19 +152,6 @@
 				color: $flyMountsColor
 			&:hover
 				box-shadow: 0 0 2px 5px $flyMountsCardHoverShadow
-	&-gold
-		&-horde
-			background: $goldHordeBg
-			[alt]
-				color: $goldHordeColor
-			&:hover
-				box-shadow: 0 0 2px 5px $goldHordeCardHoverShadow
-		&-alliance
-			background: $goldAllianceBg
-			[alt]
-				color: $goldAllianceColor
-			&:hover
-				box-shadow: 0 0 2px 5px $goldAllianceCardHoverShadow
 	&-professions
 		background: $defaultBg
 	&-pvp
@@ -267,6 +268,10 @@
 	&:hover
 		transition: 0.5s all
 		transform: scale(1.1)
+	&-horde
+		color: $hordeColor
+	&-alliance
+		color: $allianceColor
 	&-warrior
 		color: $warriorColor
 	&-druid
@@ -314,11 +319,6 @@
 			color: $earthMountsColor
 		&-fly
 			color: $flyMountsColor
-	&-gold
-		&-horde
-			color: $goldHordeColor
-		&-alliance
-			color: $goldAllianceColor
 	&-pvp
 		color: $pvpColor
 	&-raids
@@ -371,6 +371,10 @@
 	&:hover
 		transform: scale(1.05)
 		transition: 0.5s all
+	&-horde
+		color: $hordeColor
+	&-alliance
+		color: $allianceColor
 	&-warrior
 		color: $warriorColor
 	&-druid
@@ -418,11 +422,6 @@
 			color: $earthMountsColor
 		&-fly
 			color: $flyMountsColor
-	&-gold
-		&-horde
-			color: $goldHordeColor
-		&-alliance
-			color: $goldAllianceColor
 	&-pvp
 		color: $pvpColor
 	&-raids
@@ -503,6 +502,10 @@
 	&:hover
 		transition: 0.5s all
 		transform: scale(1.1)
+	&-horde
+		color: $hordeColor
+	&-alliance
+		color: $allianceColor
 	&-warrior
 		color: $warriorColor
 	&-druid
@@ -549,10 +552,6 @@
 		color: $earthMountsColor
 	&-mounts-fly
 		color: $flyMountsColor
-	&-gold-horde
-		color: $goldHordeColor
-	&-gold-alliance
-		color: $goldAllianceColor
 	&-pvp
 		color: $pvpColor
 	&-raids

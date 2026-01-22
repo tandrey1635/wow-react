@@ -159,6 +159,12 @@ footer {
     font-size: 32px;
   }
 }
+.announcement__header_horde, .announcement__subheader_horde {
+  color: #b90c1c;
+}
+.announcement__header_alliance, .announcement__subheader_alliance {
+  color: #037afb;
+}
 .announcement__header_warrior, .announcement__subheader_warrior {
   color: #854c27;
 }
@@ -221,12 +227,6 @@ footer {
 }
 .announcement__header_fly-mounts, .announcement__subheader_fly-mounts {
   color: #2e86e5;
-}
-.announcement__header_horde-gold, .announcement__subheader_horde-gold {
-  color: #b90c1c;
-}
-.announcement__header_alliance-gold, .announcement__subheader_alliance-gold {
-  color: #037afb;
 }
 .announcement__header_professions, .announcement__subheader_professions {
   color: #673ab7;
@@ -378,6 +378,15 @@ footer {
   background: url("/src/assets/img/promo/bg/classes/default-bg.png") no-repeat center/contain;
   height: 500px;
 }
+.promo__raitings_races {
+  background: url("/src/assets/img/promo/bg/races/races.jpg") no-repeat center/contain;
+}
+.promo__raitings_horde {
+  background: url("/src/assets/img/promo/bg/faction/horde.png") no-repeat center/contain;
+}
+.promo__raitings_alliance {
+  background: url("/src/assets/img/promo/bg/faction/alliance.png") no-repeat center/contain;
+}
 .promo__raitings_warrior {
   background: url("/src/assets/img/promo/bg/classes/Garrosh-Hellscrim.png") no-repeat center/contain;
 }
@@ -499,10 +508,10 @@ footer {
   background: url("/src/assets/img/promo/bg/mounts/fly.png") no-repeat center/contain;
 }
 .promo__raitings_horde-gold {
-  background: url("/src/assets/img/promo/bg/gold/horde.png") no-repeat center/contain;
+  background: url("/src/assets/img/promo/bg/faction/horde.png") no-repeat center/contain;
 }
 .promo__raitings_alliance-gold {
-  background: url("/src/assets/img/promo/bg/gold/alliance.png") no-repeat center/contain;
+  background: url("/src/assets/img/promo/bg/faction/alliance.png") no-repeat center/contain;
 }
 .promo__raitings_alchemy {
   background: url("/src/assets/img/promo/bg/professions/alchemy.png") no-repeat center/contain;
@@ -821,6 +830,27 @@ footer {
   transform: scale(1.05);
   box-shadow: 0 0 2px 5px #673ab7;
 }
+.card-races {
+  background: linear-gradient(325deg, #8B0000 0%, #660000 10%, #400000 20%, #1A0000 30%, #000 40%, #002366 50%, #0047AB 60%, #1e90ff 70%, #87ceeb 80%, #fff 90%);
+}
+.card-horde {
+  background: linear-gradient(325deg, #b90c1c, transparent 30%, transparent 35%, #b90c1c, transparent);
+}
+.card-horde [alt] {
+  color: #b90c1c;
+}
+.card-horde:hover {
+  box-shadow: 0 0 2px 5px #b90c1c;
+}
+.card-alliance {
+  background: linear-gradient(325deg, #037afb, transparent 30%, transparent 35%, #037afb, transparent);
+}
+.card-alliance [alt] {
+  color: #037afb;
+}
+.card-alliance:hover {
+  box-shadow: 0 0 2px 5px #037afb;
+}
 .card-warrior {
   background: linear-gradient(325deg, #854c27, transparent 30%, transparent 35%, #854c27, transparent);
 }
@@ -1004,24 +1034,6 @@ footer {
 .card-mounts-fly:hover {
   box-shadow: 0 0 2px 5px #2e86e5;
 }
-.card-gold-horde {
-  background: linear-gradient(325deg, #b90c1c, transparent 30%, transparent 35%, #b90c1c, transparent);
-}
-.card-gold-horde [alt] {
-  color: #b90c1c;
-}
-.card-gold-horde:hover {
-  box-shadow: 0 0 2px 5px #b90c1c;
-}
-.card-gold-alliance {
-  background: linear-gradient(325deg, #037afb, transparent 30%, transparent 35%, #037afb, transparent);
-}
-.card-gold-alliance [alt] {
-  color: #037afb;
-}
-.card-gold-alliance:hover {
-  box-shadow: 0 0 2px 5px #037afb;
-}
 .card-professions {
   background: linear-gradient(325deg, #8400ff, transparent 30%, transparent 35%, #8400ff, transparent);
 }
@@ -1195,6 +1207,12 @@ footer {
   transition: 0.5s all;
   transform: scale(1.1);
 }
+.card-title-horde {
+  color: #b90c1c;
+}
+.card-title-alliance {
+  color: #037afb;
+}
 .card-title-warrior {
   color: #854c27;
 }
@@ -1263,12 +1281,6 @@ footer {
 }
 .card-title-mounts-fly {
   color: #2e86e5;
-}
-.card-title-gold-horde {
-  color: #b90c1c;
-}
-.card-title-gold-alliance {
-  color: #037afb;
 }
 .card-title-pvp {
   color: #ff0033;
@@ -1344,6 +1356,12 @@ footer {
   transform: scale(1.05);
   transition: 0.5s all;
 }
+.card-text-horde {
+  color: #b90c1c;
+}
+.card-text-alliance {
+  color: #037afb;
+}
 .card-text-warrior {
   color: #854c27;
 }
@@ -1412,12 +1430,6 @@ footer {
 }
 .card-text-mounts-fly {
   color: #2e86e5;
-}
-.card-text-gold-horde {
-  color: #b90c1c;
-}
-.card-text-gold-alliance {
-  color: #037afb;
 }
 .card-text-pvp {
   color: #ff0033;
@@ -1535,6 +1547,12 @@ footer {
   transition: 0.5s all;
   transform: scale(1.1);
 }
+.card-price-horde {
+  color: #b90c1c;
+}
+.card-price-alliance {
+  color: #037afb;
+}
 .card-price-warrior {
   color: #854c27;
 }
@@ -1603,12 +1621,6 @@ footer {
 }
 .card-price-mounts-fly {
   color: #2e86e5;
-}
-.card-price-gold-horde {
-  color: #b90c1c;
-}
-.card-price-gold-alliance {
-  color: #037afb;
 }
 .card-price-pvp {
   color: #ff0033;
