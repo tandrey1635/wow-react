@@ -60,6 +60,12 @@ const Card = ({type, path, img, objectFit, description, title, spanClassname, pr
 			type == "fly-mounts"
 				? "card-mounts-fly"
 				:
+			type == "gold-horde"
+				? "card-gold-horde"
+				:
+			type == "gold-alliance"
+				? "card-gold-alliance"
+				:
 			type == "dungeons"
 				? "card-mythic"
 				: null
@@ -133,6 +139,12 @@ const Card = ({type, path, img, objectFit, description, title, spanClassname, pr
 						type == "fly-mounts"
 							? "card-title-mounts-fly"
 							:
+						type == "gold-horde"
+							? "card-title-gold-horde"
+							:
+						type == "gold-alliance"
+							? "card-title-gold-alliance"
+							:
 						type == "dungeons"
 							? "card-title-mythic"
 							: null
@@ -196,6 +208,12 @@ const Card = ({type, path, img, objectFit, description, title, spanClassname, pr
 						:
 					type == "fly-mounts"
 						? "card-text-mounts-fly"
+						:
+					type == "gold-horde"
+						? "card-text-gold-horde"
+						:
+					type == "gold-alliance"
+						? "card-text-gold-alliance"
 						:
 					type == "dungeons"
 						? "card-text-mythic"
@@ -261,6 +279,12 @@ const Card = ({type, path, img, objectFit, description, title, spanClassname, pr
 						:
 					type == "fly-mounts"
 						? "card-price-mounts-fly"
+						:
+					type == "gold-horde"
+						? "card-price-gold-horde"
+						:
+					type == "gold-alliance"
+						? "card-price-gold-alliance"
 						:
 					type == "dungeons"
 						? "card-price-mythic"

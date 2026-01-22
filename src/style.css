@@ -1007,11 +1007,17 @@ footer {
 .card-gold-horde {
   background: linear-gradient(325deg, #b90c1c, transparent 30%, transparent 35%, #b90c1c, transparent);
 }
+.card-gold-horde [alt] {
+  color: #b90c1c;
+}
 .card-gold-horde:hover {
   box-shadow: 0 0 2px 5px #b90c1c;
 }
 .card-gold-alliance {
   background: linear-gradient(325deg, #037afb, transparent 30%, transparent 35%, #037afb, transparent);
+}
+.card-gold-alliance [alt] {
+  color: #037afb;
 }
 .card-gold-alliance:hover {
   box-shadow: 0 0 2px 5px #037afb;
