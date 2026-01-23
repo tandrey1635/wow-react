@@ -1,154 +1,154 @@
 [
 	{
-		"id": "",
+		"id": "Orc",
+		"type": "faction-horde",
+		"path": "",
+		"img": "/src/assets/img/races/bg/faction/horde/Orc.png",
+		"objectFit": false,
+		"title": "Орк",
+		"description": "Изначально орки были расой яростных воинов Дренора, чья судьба была искажена демонической кровью Маннорота. Освободившись от влияния Легиона, они возвращаются к шаманским корням, строя новую жизнь в Азероте под мудрым руководством своего вождя.",
+		"price": 1000
+	},
+
+	{
+		"id": "Maghar",
+		"type": "faction-horde",
+		"path": "",
+		"img": "/src/assets/img/races/bg/faction/horde/Maghar.png",
+		"objectFit": false,
+		"title": "Маг'хар",
+		"description": "В то время как большинство орков пали под влиянием демонической крови, маг'хары остались чисты от скверны. Эти железные орки сохранили древние шаманские традиции и благородную культуру Дренора, избежав пути разрушения.",
+		"price": 1000
+	},
+
+	{
+		"id": "Undead",
+		"type": "faction-horde",
+		"path": "",
+		"img": "/src/assets/img/races/bg/faction/horde/Undead.png",
+		"objectFit": false,
+		"title": "Нежить",
+		"description": "Когда по Азероту прокатилась первая волна нежити, многие члены Альянса пали и были обращены в слуг Короля-лича. Группа восставших нежити, известная как Отрекшиеся, разорвала оковы разума и вырвалась из-под контроля Короля-лича. Теперь, свободные от уз рабства и освобождённые от бремени человеческих эмоций, Отрекшиеся обрели новый дом среди яростных воинов Орды.",
+		"price": 1000
+	},
+
+	{
+		"id": "Tauren",
+		"type": "faction-horde",
+		"path": "",
+		"img": "/src/assets/img/races/bg/faction/horde/Tauren.png",
+		"objectFit": false,
+		"title": "Таурен",
+		"description": "Таурены, раса с древними шаманскими корнями, издавна обитают на Калимдоре. Они питают глубокую и неизменную любовь к природе, и большинство из них поклоняются божеству, известному как Мать-Земля.",
+		"price": 1000
+	},
+
+	{
+		"id": "HighmountainTauren",
+		"type": "faction-horde",
+		"path": "",
+		"img": "/src/assets/img/races/bg/faction/horde/Highmountain-Tauren.png",
+		"objectFit": false,
+		"title": "Таурен Крутогорья",
+		"description": "Таурены Крутогорья, происходящие от Хална, отважного героя Войны Древних, почитают духов земли, реки и неба. Хотя Легион вторгся в их земли и посеял семена недоверия между ними, племена Высокогорья снова объединились. Они готовы выйти за пределы своей священной горы и встать рядом со своими сородичами из Калимдора, передавая свое благородство и силу могучей Орде.",
+		"price": 1000
+	},
+
+	{
+		"id": "Earthen",
 		"type": "faction-horde",
 		"path": "",
 		"img": "/src/assets/img/promo/bg/faction/.png",
 		"objectFit": false,
-		"title": "Орки",
+		"title": "Земельник",
 		"description": "",
 		"price": 1000
 	},
 
 	{
-		"id": "",
+		"id": "Trolls",
 		"type": "faction-horde",
 		"path": "",
 		"img": "/src/assets/img/promo/bg/faction/.png",
 		"objectFit": false,
-		"title": "Орки",
+		"title": "Тролль",
 		"description": "",
 		"price": 1000
 	},
 
 	{
-		"id": "",
+		"id": "Zandalari",
 		"type": "faction-horde",
 		"path": "",
 		"img": "/src/assets/img/promo/bg/faction/.png",
 		"objectFit": false,
-		"title": "Орки",
+		"title": "Зандалар",
 		"description": "",
 		"price": 1000
 	},
 
 	{
-		"id": "",
+		"id": "Dracthyr",
 		"type": "faction-horde",
 		"path": "",
 		"img": "/src/assets/img/promo/bg/faction/.png",
 		"objectFit": false,
-		"title": "Орки",
+		"title": "Драктиры",
 		"description": "",
 		"price": 1000
 	},
 
 	{
-		"id": "",
+		"id": "BloodElves",
 		"type": "faction-horde",
 		"path": "",
 		"img": "/src/assets/img/promo/bg/faction/.png",
 		"objectFit": false,
-		"title": "Орки",
+		"title": "Эльфы Крови",
 		"description": "",
 		"price": 1000
 	},
 
 	{
-		"id": "",
+		"id": "Nightborne",
 		"type": "faction-horde",
 		"path": "",
 		"img": "/src/assets/img/promo/bg/faction/.png",
 		"objectFit": false,
-		"title": "Орки",
+		"title": "Ночнорожденные",
 		"description": "",
 		"price": 1000
 	},
 
 	{
-		"id": "",
+		"id": "Pandaren",
 		"type": "faction-horde",
 		"path": "",
 		"img": "/src/assets/img/promo/bg/faction/.png",
 		"objectFit": false,
-		"title": "Орки",
+		"title": "Пандарены",
 		"description": "",
 		"price": 1000
 	},
 
 	{
-		"id": "",
+		"id": "Goblins",
 		"type": "faction-horde",
 		"path": "",
 		"img": "/src/assets/img/promo/bg/faction/.png",
 		"objectFit": false,
-		"title": "Орки",
+		"title": "Гоблины",
 		"description": "",
 		"price": 1000
 	},
 
 	{
-		"id": "",
+		"id": "Vulpera",
 		"type": "faction-horde",
 		"path": "",
 		"img": "/src/assets/img/promo/bg/faction/.png",
 		"objectFit": false,
-		"title": "Орки",
-		"description": "",
-		"price": 1000
-	},
-
-	{
-		"id": "",
-		"type": "faction-horde",
-		"path": "",
-		"img": "/src/assets/img/promo/bg/faction/.png",
-		"objectFit": false,
-		"title": "Орки",
-		"description": "",
-		"price": 1000
-	},
-
-	{
-		"id": "",
-		"type": "faction-horde",
-		"path": "",
-		"img": "/src/assets/img/promo/bg/faction/.png",
-		"objectFit": false,
-		"title": "Орки",
-		"description": "",
-		"price": 1000
-	},
-
-	{
-		"id": "",
-		"type": "faction-horde",
-		"path": "",
-		"img": "/src/assets/img/promo/bg/faction/.png",
-		"objectFit": false,
-		"title": "Орки",
-		"description": "",
-		"price": 1000
-	},
-
-	{
-		"id": "",
-		"type": "faction-horde",
-		"path": "",
-		"img": "/src/assets/img/promo/bg/faction/.png",
-		"objectFit": false,
-		"title": "Орки",
-		"description": "",
-		"price": 1000
-	},
-
-	{
-		"id": "",
-		"type": "faction-horde",
-		"path": "",
-		"img": "/src/assets/img/promo/bg/faction/.png",
-		"objectFit": false,
-		"title": "Орки",
+		"title": "Вульперы",
 		"description": "",
 		"price": 1000
 	}
