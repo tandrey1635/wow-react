@@ -2,8 +2,8 @@
 	{
 		"id": "Humans",
 		"type": "faction-alliance",
-		"path": "alliance",
-		"img": "/src/assets/img/promo/bg/faction/.png",
+		"path": "",
+		"img": "/src/assets/img/races/bg/faction/alliance/.png",
 		"objectFit": false,
 		"title": "Люди",
 		"description": "",
@@ -11,120 +11,10 @@
 	},
 
 	{
-		"id": "Dwarves",
-		"type": "faction-alliance",
-		"path": "alliance",
-		"img": "/src/assets/img/promo/bg/faction/.png",
-		"objectFit": false,
-		"title": "Дворфы",
-		"description": "",
-		"price": 1000
-	},
-
-	{
-		"id": "NightElves",
-		"type": "faction-alliance",
-		"path": "alliance",
-		"img": "/src/assets/img/promo/bg/faction/.png",
-		"objectFit": false,
-		"title": "Ночные Эльфы",
-		"description": "",
-		"price": 1000
-	},
-
-	{
-		"id": "Gnomes",
-		"type": "faction-alliance",
-		"path": "alliance",
-		"img": "/src/assets/img/promo/bg/faction/.png",
-		"objectFit": false,
-		"title": "Гномы",
-		"description": "",
-		"price": 1000
-	},
-
-	{
-		"id": "Draenei",
-		"type": "faction-alliance",
-		"path": "alliance",
-		"img": "/src/assets/img/promo/bg/faction/.png",
-		"objectFit": false,
-		"title": "Дренеи",
-		"description": "",
-		"price": 1000
-	},
-
-	{
-		"id": "Worgen",
-		"type": "faction-alliance",
-		"path": "alliance",
-		"img": "/src/assets/img/promo/bg/faction/.png",
-		"objectFit": false,
-		"title": "Воргены",
-		"description": "",
-		"price": 1000
-	},
-
-	{
-		"id": "Pandaren",
-		"type": "faction-alliance",
-		"path": "alliance",
-		"img": "/src/assets/img/promo/bg/faction/.png",
-		"objectFit": false,
-		"title": "Пандарены",
-		"description": "",
-		"price": 1000
-	},
-
-	{
-		"id": "Dracthyr",
-		"type": "faction-alliance",
-		"path": "alliance",
-		"img": "/src/assets/img/promo/bg/faction/.png",
-		"objectFit": false,
-		"title": "Драктиры",
-		"description": "",
-		"price": 1000
-	},
-
-	{
-		"id": "VoidElves",
-		"type": "faction-alliance",
-		"path": "alliance",
-		"img": "/src/assets/img/promo/bg/faction/.png",
-		"objectFit": false,
-		"title": "Эльфы Бездны",
-		"description": "",
-		"price": 1000
-	},
-
-	{
-		"id": "LightforgedDraenei",
-		"type": "faction-alliance",
-		"path": "alliance",
-		"img": "/src/assets/img/promo/bg/faction/.png",
-		"objectFit": false,
-		"title": "Озаренные Дренеи",
-		"description": "",
-		"price": 1000
-	},
-
-	{
-		"id": "DarkIronDwarves",
-		"type": "faction-alliance",
-		"path": "alliance",
-		"img": "/src/assets/img/promo/bg/faction/.png",
-		"objectFit": false,
-		"title": "Дворфы Черного Железа",
-		"description": "",
-		"price": 1000
-	},
-
-	{
 		"id": "KulTiran",
 		"type": "faction-alliance",
-		"path": "alliance",
-		"img": "/src/assets/img/promo/bg/faction/.png",
+		"path": "",
+		"img": "/src/assets/img/races/bg/faction/alliance/.png",
 		"objectFit": false,
 		"title": "Култирасцы",
 		"description": "",
@@ -132,12 +22,34 @@
 	},
 
 	{
-		"id": "Mechagnomes",
+		"id": "Worgen",
 		"type": "faction-alliance",
-		"path": "alliance",
-		"img": "/src/assets/img/promo/bg/faction/.png",
+		"path": "",
+		"img": "/src/assets/img/races/bg/faction/alliance/.png",
 		"objectFit": false,
-		"title": "Мехагномы",
+		"title": "Воргены",
+		"description": "",
+		"price": 1000
+	},
+
+	{
+		"id": "Dwarves",
+		"type": "faction-alliance",
+		"path": "",
+		"img": "/src/assets/img/races/bg/faction/alliance/.png",
+		"objectFit": false,
+		"title": "Дворфы",
+		"description": "",
+		"price": 1000
+	},
+
+	{
+		"id": "DarkIronDwarves",
+		"type": "faction-alliance",
+		"path": "",
+		"img": "/src/assets/img/races/bg/faction/alliance/.png",
+		"objectFit": false,
+		"title": "Дворфы Черного Железа",
 		"description": "",
 		"price": 1000
 	},
@@ -145,10 +57,98 @@
 	{
 		"id": "Earthen",
 		"type": "faction-alliance",
-		"path": "alliance",
-		"img": "/src/assets/img/promo/bg/faction/.png",
+		"path": "",
+		"img": "/src/assets/img/races/bg/faction/alliance/.png",
 		"objectFit": false,
 		"title": "Земельники",
+		"description": "",
+		"price": 1000
+	},
+
+	{
+		"id": "Draenei",
+		"type": "faction-alliance",
+		"path": "",
+		"img": "/src/assets/img/races/bg/faction/alliance/.png",
+		"objectFit": false,
+		"title": "Дренеи",
+		"description": "",
+		"price": 1000
+	},
+
+	{
+		"id": "LightforgedDraenei",
+		"type": "faction-alliance",
+		"path": "",
+		"img": "/src/assets/img/races/bg/faction/alliance/.png",
+		"objectFit": false,
+		"title": "Озаренные Дренеи",
+		"description": "",
+		"price": 1000
+	},
+
+	{
+		"id": "Dracthyr",
+		"type": "faction-alliance",
+		"path": "",
+		"img": "/src/assets/img/races/bg/faction/alliance/.png",
+		"objectFit": false,
+		"title": "Драктиры",
+		"description": "",
+		"price": 1000
+	},
+
+	{
+		"id": "NightElves",
+		"type": "faction-alliance",
+		"path": "",
+		"img": "/src/assets/img/races/bg/faction/alliance/.png",
+		"objectFit": false,
+		"title": "Ночные Эльфы",
+		"description": "",
+		"price": 1000
+	},
+
+	{
+		"id": "VoidElves",
+		"type": "faction-alliance",
+		"path": "",
+		"img": "/src/assets/img/races/bg/faction/alliance/.png",
+		"objectFit": false,
+		"title": "Эльфы Бездны",
+		"description": "",
+		"price": 1000
+	},
+
+	{
+		"id": "Pandaren",
+		"type": "faction-alliance",
+		"path": "",
+		"img": "/src/assets/img/races/bg/faction/alliance/.png",
+		"objectFit": false,
+		"title": "Пандарены",
+		"description": "",
+		"price": 1000
+	},
+
+	{
+		"id": "Gnomes",
+		"type": "faction-alliance",
+		"path": "",
+		"img": "/src/assets/img/races/bg/faction/alliance/.png",
+		"objectFit": false,
+		"title": "Гномы",
+		"description": "",
+		"price": 1000
+	},
+
+	{
+		"id": "Mechagnomes",
+		"type": "faction-alliance",
+		"path": "",
+		"img": "/src/assets/img/races/bg/faction/alliance/.png",
+		"objectFit": false,
+		"title": "Мехагномы",
 		"description": "",
 		"price": 1000
 	}

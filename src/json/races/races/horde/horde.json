@@ -58,7 +58,7 @@
 		"id": "Earthen",
 		"type": "faction-horde",
 		"path": "",
-		"img": "/src/assets/img/promo/bg/faction/.png",
+		"img": "/src/assets/img/races/bg/faction/horde/.png",
 		"objectFit": false,
 		"title": "Земельник",
 		"description": "",
@@ -66,24 +66,24 @@
 	},
 
 	{
-		"id": "Trolls",
+		"id": "Troll",
 		"type": "faction-horde",
 		"path": "",
-		"img": "/src/assets/img/promo/bg/faction/.png",
+		"img": "/src/assets/img/races/bg/faction/horde/Troll.png",
 		"objectFit": false,
 		"title": "Тролль",
-		"description": "",
+		"description": "Лесные тролли Южных Морей славятся жестокостью и темной мистикой, их дикая натура питает ненависть ко всем иным расам. Однако племя Темного Копья, изгнанное со своих земель и почти уничтоженное мурлоками, было спасено орками Тралла. В благодарность тролли принесли клятву вечной верности Орде. Под предводительством хитроумного Вол'джина они обрели новый дом в Дуротаре, основав деревню Сен'джин.",
 		"price": 1000
 	},
 
 	{
-		"id": "Zandalari",
+		"id": "ZandalariTroll",
 		"type": "faction-horde",
 		"path": "",
-		"img": "/src/assets/img/promo/bg/faction/.png",
+		"img": "/src/assets/img/races/bg/faction/horde/Zandalari-Troll.png",
 		"objectFit": false,
 		"title": "Зандалар",
-		"description": "",
+		"description": "Зандалары, старейшие и могущественные тролли Азерота, на протяжении всей истории. Они потомки первых племен, правящие древним королевством, погруженным в ритуалы и суеверия. Их воины сражаются верхом на динозаврах, а флот не знает равных. После раскола они удержали свои земли, но оказались отрезанными на островах. Несмотря на воинственную природу и жажду завоеваний свято хранят свою историю и обычаи.",
 		"price": 1000
 	},
 
@@ -91,20 +91,20 @@
 		"id": "Dracthyr",
 		"type": "faction-horde",
 		"path": "",
-		"img": "/src/assets/img/promo/bg/faction/.png",
+		"img": "/src/assets/img/races/bg/faction/horde/.png",
 		"objectFit": false,
-		"title": "Драктиры",
+		"title": "Драктир",
 		"description": "",
 		"price": 1000
 	},
 
 	{
-		"id": "BloodElves",
+		"id": "BloodElf",
 		"type": "faction-horde",
 		"path": "",
-		"img": "/src/assets/img/promo/bg/faction/.png",
+		"img": "/src/assets/img/races/bg/faction/horde/Blood-Elf.png",
 		"objectFit": false,
-		"title": "Эльфы Крови",
+		"title": "Эльф Крови",
 		"description": "",
 		"price": 1000
 	},
@@ -113,9 +113,9 @@
 		"id": "Nightborne",
 		"type": "faction-horde",
 		"path": "",
-		"img": "/src/assets/img/promo/bg/faction/.png",
+		"img": "/src/assets/img/races/bg/faction/horde/.png",
 		"objectFit": false,
-		"title": "Ночнорожденные",
+		"title": "Ночнорожденный",
 		"description": "",
 		"price": 1000
 	},
@@ -124,31 +124,31 @@
 		"id": "Pandaren",
 		"type": "faction-horde",
 		"path": "",
-		"img": "/src/assets/img/promo/bg/faction/.png",
+		"img": "/src/assets/img/races/bg/faction/horde/.png",
 		"objectFit": false,
-		"title": "Пандарены",
+		"title": "Пандарен",
 		"description": "",
 		"price": 1000
 	},
 
 	{
-		"id": "Goblins",
+		"id": "Goblin",
 		"type": "faction-horde",
 		"path": "",
-		"img": "/src/assets/img/promo/bg/faction/.png",
+		"img": "/src/assets/img/races/bg/faction/horde/.png",
 		"objectFit": false,
-		"title": "Гоблины",
+		"title": "Гоблин",
 		"description": "",
 		"price": 1000
 	},
 
 	{
-		"id": "Vulpera",
+		"id": "Vulper",
 		"type": "faction-horde",
 		"path": "",
-		"img": "/src/assets/img/promo/bg/faction/.png",
+		"img": "/src/assets/img/races/bg/faction/horde/.png",
 		"objectFit": false,
-		"title": "Вульперы",
+		"title": "Вульпер",
 		"description": "",
 		"price": 1000
 	}
