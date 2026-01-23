@@ -71,7 +71,7 @@
 
 
 анимация воина stand - прическа crest, спина - upright
-анимация паладина stormstrike - ебало 2 прическа peasant
+анимация паладина stormstrike - лицо 2, прическа peasant
 анимация дк dressingroom - прическа sheggy, глаза 14
 анимация мага magereadyspellcast - прическа vigor
 анимация лока magereadyspellcast - прическа dark tides
@@ -84,6 +84,7 @@
 анимация монаха dressingroom прическа - backbrushed
 анимация дх  прическа - foxtail
 магхар - прическа unbound
+зандалар - прическа crest, цвет 3
 
 
 
