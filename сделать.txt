@@ -76,19 +76,21 @@
 анимация мага magereadyspellcast - прическа vigor
 анимация лока magereadyspellcast - прическа dark tides
 анимация охотника readyCrossbow / и аналоги для лука и винтовки  - прическа short, борода - medium
-анимация пробужденный magereadyspellcast, внешность: earth - wing, chest - regal, helm - crown, upper arms - rerebraces, lower arms - talons, breechcloth, regal, feet- talons, thighs - ornate, wing decoration - talon, horn color - 12, horns - curved
+анимация пробужденный magereadyspellcast, внешность: earth - wing, chest - regal, helm - crown, upper arms - rerebraces, lower arms - talons, breechcloth - regal, feet- talons, thighs - ornate, wing decoration - talon, horn color - 12, horns - curved
 анимация шамана dressingroom прическа windswept, цвет волос 14 - синий яркий
 анимация друида magereadyspellcast - прическа braids
 анимация жреца magereadyspellcast прическа - horned
 анимация разбойника dressingroom
 анимация монаха dressingroom прическа - backbrushed
-анимация дх  прическа - foxtail
+анимация дх dressingroom  прическа - foxtail
 магхар - прическа unbound
 зандалар - прическа crest, цвет 3
-
+анимация гоблин dressingroom, цвет лица - 2
+анимация земельники dressingroom, прическа slicked back
 
 
 дк переделать 4 комплекта под синие глаза
+пробудитель переделать фото некоторые посмотреть посох выпирает между ноги
 
 
 переделать пути в фото
@@ -152,3 +154,14 @@ https://www.wowhead.com/classic/ru/transmog-set=1193/naxxramas-icebane-plate#eng
 
 комплект на сопротивление
 прист, маг, лок
+
+
+
+
+
+
+
+
+
+традиционные доспехи
+https://www.wowhead.com/quest=84444/invitation-to-the-spirit-festival#comments
