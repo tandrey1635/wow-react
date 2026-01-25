@@ -76,7 +76,7 @@
 анимация мага magereadyspellcast - прическа vigor
 анимация лока magereadyspellcast - прическа dark tides
 анимация охотника readyCrossbow / и аналоги для лука и винтовки  - прическа short, борода - medium
-анимация пробужденный magereadyspellcast, внешность: earth - wing, chest - regal, helm - crown, upper arms - rerebraces, lower arms - talons, breechcloth - regal, feet- talons, thighs - ornate, wing decoration - talon, horn color - 12, horns - curved
+анимация пробужденный magereadyspellcast, внешность: ears - wing, chest - regal, helm - crown, upper arms - rerebraces, lower arms - talons, breechcloth - regal, feet - talons, thighs - ornate, wing decoration - talon, horn color - 12, horns - curved
 анимация шамана dressingroom прическа windswept, цвет волос 14 - синий яркий
 анимация друида magereadyspellcast - прическа braids
 анимация жреца magereadyspellcast прическа - horned
@@ -87,10 +87,14 @@
 зандалар - прическа crest, цвет 3
 анимация гоблин dressingroom, цвет лица - 2
 анимация земельники dressingroom, прическа slicked back
+анимация култирасцы dressingroom, прическа - point break
+анимация воргенов dressingroom
+анимация гномов dressingroom, прическа - groomed
+анимация мехагномов dressingroom, прическа - impish, arm upgrade - steel plating
 
 
 дк переделать 4 комплекта под синие глаза
-пробудитель переделать фото некоторые посмотреть посох выпирает между ноги
+пробудитель переделать фото Боевое Сняряжение Мистика из Клана Тяжелого Кулака и Одеяния Яростного Прилива
 
 
 переделать пути в фото
@@ -99,12 +103,6 @@
 
 
 маунтов добавляем по алфавиту
-
-подправить описания и фото когда всех водных добавлю
-
-
-
-
 
 
 
@@ -154,9 +152,6 @@ https://www.wowhead.com/classic/ru/transmog-set=1193/naxxramas-icebane-plate#eng
 
 комплект на сопротивление
 прист, маг, лок
-
-
-
 
 
 

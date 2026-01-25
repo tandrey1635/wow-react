@@ -831,7 +831,8 @@ footer {
   box-shadow: 0 0 2px 5px #673ab7;
 }
 .card-races {
-  background: linear-gradient(325deg, #8B0000 0%, #660000 10%, #400000 20%, #1A0000 30%, #000 40%, #002366 50%, #0047AB 60%, #1e90ff 70%, #87ceeb 80%, #fff 90%);
+  position: relative;
+  background: linear-gradient(-325deg, #8b0000, transparent 30%, transparent 35%, #1e90ff, transparent);
 }
 .card-horde {
   background: linear-gradient(325deg, #b90c1c, transparent 30%, transparent 35%, #b90c1c, transparent);
@@ -1207,6 +1208,12 @@ footer {
   transition: 0.5s all;
   transform: scale(1.1);
 }
+.card-title-races {
+  background: linear-gradient(120deg, #8b0000 48%, #1e90ff 48%);
+  -webkit-background-clip: text;
+          background-clip: text;
+  color: transparent;
+}
 .card-title-horde {
   color: #b90c1c;
 }
@@ -1355,6 +1362,12 @@ footer {
 .card-text:hover {
   transform: scale(1.05);
   transition: 0.5s all;
+}
+.card-text-races {
+  background: linear-gradient(120deg, #8b0000 48%, #1e90ff 48%);
+  -webkit-background-clip: text;
+          background-clip: text;
+  color: transparent;
 }
 .card-text-horde {
   color: #b90c1c;
@@ -1546,6 +1559,12 @@ footer {
 .card-price:hover {
   transition: 0.5s all;
   transform: scale(1.1);
+}
+.card-price-races {
+  background: linear-gradient(120deg, #8b0000 48%, #1e90ff 48%);
+  -webkit-background-clip: text;
+          background-clip: text;
+  color: transparent;
 }
 .card-price-horde {
   color: #b90c1c;

@@ -16,6 +16,7 @@
 		transform: scale(1.05)
 		box-shadow: 0 0 2px 5px $defaultCardHoverShadow
 	&-races
+		position: relative
 		background: $racesBg
 	&-horde
 		background: $hordeBg
@@ -268,6 +269,10 @@
 	&:hover
 		transition: 0.5s all
 		transform: scale(1.1)
+	&-races
+		background: $racesColor
+		background-clip: text
+		color: transparent
 	&-horde
 		color: $hordeColor
 	&-alliance
@@ -371,6 +376,10 @@
 	&:hover
 		transform: scale(1.05)
 		transition: 0.5s all
+	&-races
+		background: $racesColor
+		background-clip: text
+		color: transparent
 	&-horde
 		color: $hordeColor
 	&-alliance
@@ -502,6 +511,10 @@
 	&:hover
 		transition: 0.5s all
 		transform: scale(1.1)
+	&-races
+		background: $racesColor
+		background-clip: text
+		color: transparent
 	&-horde
 		color: $hordeColor
 	&-alliance
