@@ -91,6 +91,10 @@
 анимация воргенов dressingroom
 анимация гномов dressingroom, прическа - groomed
 анимация мехагномов dressingroom, прическа - impish, arm upgrade - steel plating
+анимация Озаренный Дреней dressingroom, прическа - brusque
+анимация ночной эльф dressingroom, цвет волос - 4
+
+
 
 
 дк переделать 4 комплекта под синие глаза
