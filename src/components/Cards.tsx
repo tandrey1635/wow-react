@@ -53,7 +53,7 @@ import dataProtectionWarriorArtifact from '../json/weapons/artifacts/warrior/pro
 
 
 import dataArmours from '../json/armours/armours.json';
-import dataCloaks from '../json/armours/cloaks/armours.json';
+import dataCloaks from '../json/armours/cloaks/cloaks.json';
 
 
 import dataWaterMounts from '../json/mounts/water/water.json';

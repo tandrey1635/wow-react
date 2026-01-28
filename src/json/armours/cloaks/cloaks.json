@@ -1,14 +1,12 @@
 [
 	{
 		"id": "ScarletZealotsCloak",
-		"className": "card-armours",
+		"type": "armours",
 		"path": "#",
-		"cardImg": "/src/assets/img/armours/bg/cloaks/Scarlet-Zealots-Cloak.png",
-		"titleClassName": "card-title-armours",
+		"img": "/src/assets/img/armours/bg/cloaks/Scarlet-Zealots-Cloak.png",
+		"objectFit": false,
 		"title": "Плащ алого ревнителя",
-		"descriptionClassName": "card-text-armours",
 		"description": "Закажите Плащ алого ревнителя",
-		"priceClassName": "card-price-armours",
 		"price": 300
 	},
 

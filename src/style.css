@@ -975,6 +975,9 @@ footer {
 .card-weapons-legendary {
   background: linear-gradient(325deg, #ff8000, transparent 30%, transparent 35%, #ff8000, transparent);
 }
+.card-weapons-legendary [alt] {
+  color: #ff8000;
+}
 .card-weapons-legendary:hover {
   box-shadow: 0 0 2px 5px #ff8000;
 }

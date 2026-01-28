@@ -75,7 +75,7 @@
 анимация дк dressingroom - прическа sheggy, глаза 14
 анимация мага magereadyspellcast - прическа vigor
 анимация лока magereadyspellcast - прическа dark tides
-анимация охотника readyCrossbow / и аналоги для лука и винтовки  - прическа short, борода - medium
+анимация охотника readyCrossbow / и аналоги для лука и винтовки - прическа short, борода - medium
 анимация пробужденный magereadyspellcast, внешность: ears - wing, chest - regal, helm - crown, upper arms - rerebraces, lower arms - talons, breechcloth - regal, feet - talons, thighs - ornate, wing decoration - talon, horn color - 12, horns - curved
 анимация шамана dressingroom прическа windswept, цвет волос 14 - синий яркий
 анимация друида magereadyspellcast - прическа braids
@@ -93,7 +93,7 @@
 анимация мехагномов dressingroom, прическа - impish, arm upgrade - steel plating
 анимация Озаренный Дреней dressingroom, прическа - brusque
 анимация ночной эльф dressingroom, цвет волос - 4
-
+анимация дворфов черного железа dressingroom, facial hair - grand
 
 
 
