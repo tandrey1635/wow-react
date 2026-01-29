@@ -85,12 +85,15 @@ import dataWrathOfTheLichKingRaids from '../json/raids/wrath-of-the-lich-king/ra
 
 
 import dataAchievements from '../json/achievements/achievements.json';
+import dataWowCollectionEditions from '../json/achievements/wow-collection-editions/wow-collection-editions.json';
+
+
 
 
 import type { ICard }  from "../types/card-types";
 
 
-const Cards = ({home, races, horde, alliance, raidsArmoursWarrior, raidsArmoursDruid, raidsArmoursPriest, raidsArmoursMage, raidsArmoursMonk, raidsArmoursHunter, raidsArmoursDemonHunter, raidsArmoursPaladin, raidsArmoursAwakener, raidsArmoursRogue, raidsArmoursDeathKnight, raidsArmoursWarlock, raidsArmoursShaman, twoHandedWeapons, twoHandedAxes, legendaryWeapons, classes, warriorArtifacts, druidArtifacts, priestArtifacts, mageArtifacts, monkArtifacts, hunterArtifacts, demonHunterArtifacts, paladinArtifacts, rogueArtifacts, deathKnightArtifacts, warlockArtifacts, shamanArtifacts, armsWarrior, furyWarrior, protectionWarrior, cloaks, waterMounts, flyMounts, classic, burningCrusade, wrathOfTheLichKing, cataclysm, mistsOfPandaria, warlordsOfDraenor, legion, battleForAzeroth, shadowlands, dragonflight, warWithin, midnight, lastTitan}) => {
+const Cards = ({home, races, horde, alliance, raidsArmoursWarrior, raidsArmoursDruid, raidsArmoursPriest, raidsArmoursMage, raidsArmoursMonk, raidsArmoursHunter, raidsArmoursDemonHunter, raidsArmoursPaladin, raidsArmoursAwakener, raidsArmoursRogue, raidsArmoursDeathKnight, raidsArmoursWarlock, raidsArmoursShaman, twoHandedWeapons, twoHandedAxes, legendaryWeapons, classes, warriorArtifacts, druidArtifacts, priestArtifacts, mageArtifacts, monkArtifacts, hunterArtifacts, demonHunterArtifacts, paladinArtifacts, rogueArtifacts, deathKnightArtifacts, warlockArtifacts, shamanArtifacts, armsWarrior, furyWarrior, protectionWarrior, cloaks, waterMounts, flyMounts, classic, burningCrusade, wrathOfTheLichKing, cataclysm, mistsOfPandaria, warlordsOfDraenor, legion, battleForAzeroth, shadowlands, dragonflight, warWithin, midnight, lastTitan, wowCollectionEditions}) => {
 
 	const basePathImg = '/src/assets/img'
 
@@ -609,6 +612,12 @@ const Cards = ({home, races, horde, alliance, raidsArmoursWarrior, raidsArmoursD
 					{ lastTitan &&
 						<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
 							{ renderCardItems(dataLastTitanRaids) }
+						</div>
+					}
+
+					{ wowCollectionEditions &&
+						<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
+							{ renderCardItems(dataWowCollectionEditions) }
 						</div>
 					}
 				</div>

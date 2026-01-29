@@ -97,9 +97,7 @@
 		"cardImg": "/src/assets/img/promo/bg/achievements/wow.jpg",
 		"titleClassName": "card-title-achievements",
 		"title": "Годовщина World of Warcraft",
-		"descriptionClassName": "card-text-achievements",
 		"description": "Великое приключение длиной в 20 лет. Путешествие, достойное легенды!",
-		"priceClassName": "card-price-achievements",
 		"price": 1000
 	},
 
@@ -169,15 +167,13 @@
 	},
 
 	{
-		"id": "wow-collection-editions",
-		"className": "card-achievements",
+		"id": "WowCollectionEditions",
+		"type": "achievements",
 		"path": "achievements/wow-collection-editions",
-		"cardImg": "/src/assets/img/promo/bg/achievements/wow-collection-editions.jpg",
-		"titleClassName": "card-title-achievements",
+		"img": "/src/assets/img/promo/bg/achievements/wow-collection-editions.jpg",
+		"objectFit": false,
 		"title": "Коллекционные издания World of Warcraft",
-		"descriptionClassName": "card-text-achievements",
-		"description": "Пыльные артефакты. Ваш почётный знак ветерана на полке.",
-		"priceClassName": "card-price-achievements",
+		"description": "Пыльные артефакты. Ваш почетный знак ветерана на полке",
 		"price": 1000
 	},
 

@@ -18,6 +18,7 @@ const WowCollectionEditions = () => {
 				<h1 style={{fontSize: 120}} className="text-center text-danger">В разработке</h1>
 				<Announcement achievements wowCollectionEditions />
 				<Promo wowCollectionEditions />
+				<Cards wowCollectionEditions />
 			</Main>
 			<Footer />
 			<ArrowUp />

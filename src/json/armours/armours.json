@@ -2,7 +2,7 @@
 	{
 		"id": "LegendaryArmours",
 		"type": "armours",
-		"path": "armours/shields",
+		"path": "armours/armours",
 		"cardImg": "/src/assets/img/promo/bg/armours/shields.png",
 		"objectFit": false,
 		"title": "Легендарная Броня",
@@ -46,7 +46,7 @@
 	{
 		"id": "Shirts",
 		"type": "armours",
-		"path": "armours/tabards",
+		"path": "armours/shirts",
 		"cardImg": "/src/assets/img/promo/bg/armours/shirts.png",
 		"objectFit": false,
 		"title": "Рубашки",

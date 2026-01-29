@@ -71,6 +71,9 @@ const Card = ({type, path, img, objectFit, description, title, spanClassname, pr
 				:
 			type == "dungeons"
 				? "card-mythic"
+				:
+			type == "achievements"
+				? "card-achievements"
 				: null
 			}`
 		}>
@@ -153,6 +156,9 @@ const Card = ({type, path, img, objectFit, description, title, spanClassname, pr
 							:
 						type == "dungeons"
 							? "card-title-mythic"
+							:
+						type == "achievements"
+							? "card-title-achievements"
 							: null
 						}`
 					}>
@@ -226,6 +232,9 @@ const Card = ({type, path, img, objectFit, description, title, spanClassname, pr
 						:
 					type == "dungeons"
 						? "card-text-mythic"
+						:
+					type == "achievements"
+						? "card-text-achievements"
 						: null
 					}`
 				}>
@@ -300,6 +309,9 @@ const Card = ({type, path, img, objectFit, description, title, spanClassname, pr
 						:
 					type == "dungeons"
 						? "card-price-mythic"
+						:
+					type == "achievements"
+						? "card-price-achievements"
 						: null
 					}`
 				}>

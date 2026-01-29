@@ -1140,6 +1140,9 @@ footer {
 .card-achievements {
   background: linear-gradient(325deg, #607d8b, transparent 30%, transparent 35%, #607d8b, transparent);
 }
+.card-achievements [alt] {
+  color: #607d8b;
+}
 .card-achievements:hover {
   box-shadow: 0 0 2px 5px #607d8b;
 }
