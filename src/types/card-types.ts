@@ -1,3 +1,6 @@
+type addition = "Classic" | "The Burning Crusade" | "Wrath of the Lich King" | "Cataclysm" | "MistsOfPandaria" | "WarlordsOfDraenor" | "Legion" | "BattleForAzeroth" | "Shadowlands" | "Dragonflight" | "WarWithin" | "Midnight" | "LastTitan"
+
+
 interface ICard {
 	id?: string,
 	type: string,
@@ -6,7 +9,8 @@ interface ICard {
 	objectFit: boolean,
 	title: string,
 	description: string,
-	spanClassname?: string,
+	descriptionTrim?: string,
+	addition?: addition,
 	price: number,
 	gold?: boolean,
 	raids?: boolean,

@@ -6,6 +6,7 @@
 	transition: 0.5s all
 	border-radius: 0.8rem
 	border: none
+	color: $defaultColor
 	background: $defaultBg
 	[alt]
 		padding: 10px
@@ -14,7 +15,7 @@
 	&:hover
 		transition: 0.5s all
 		transform: scale(1.05)
-		box-shadow: 0 0 2px 5px $defaultCardHoverShadow
+		box-shadow: 0 0 2px 5px $defaultShadow
 	&-races
 		position: relative
 		background: $racesBg
@@ -31,83 +32,96 @@
 		&:hover
 			box-shadow: 0 0 2px 5px $allianceCardHoverShadow
 	&-warrior
+		color: $warriorColor
 		background: $warriorBg
 		[alt]
 			color: $warriorColor
 		&:hover
-			box-shadow: 0 0 2px 5px $warriorCardHoverShadow
+			box-shadow: 0 0 2px 5px $warriorShadow
 	&-druid
+		color: $druidColor
 		background: $druidBg
 		[alt]
 			color: $druidColor
 		&:hover
-			box-shadow: 0 0 2px 5px $druidCardHoverShadow
+			box-shadow: 0 0 2px 5px $druidShadow
 	&-priest
+		color: $priestColor
 		background: $priestBg
 		[alt]
 			color: $priestColor
 		&:hover
-			box-shadow: 0 0 2px 5px $priestCardHoverShadow
+			box-shadow: 0 0 2px 5px $priestShadow
 	&-mage
+		color: $mageColor
 		background: $mageBg
 		[alt]
 			color: $mageColor
 		&:hover
-			box-shadow: 0 0 2px 5px $mageCardHoverShadow
+			box-shadow: 0 0 2px 5px $mageShadow
 	&-monk
+		color: $monkColor
 		background: $monkBg
 		[alt]
 			color: $monkColor
 		&:hover
-			box-shadow: 0 0 2px 5px $monkCardHoverShadow
+			box-shadow: 0 0 2px 5px $monkShadow
 	&-hunter
+		color: $hunterColor
 		background: $hunterBg
 		[alt]
 			color: $hunterColor
 		&:hover
-			box-shadow: 0 0 2px 5px $hunterCardHoverShadow
+			box-shadow: 0 0 2px 5px $hunterShadow
 	&-demon-hunter
+		color: $demonHunterColor
 		background: $demonHunterBg
 		[alt]
 			color: $demonHunterColor
 		&:hover
-			box-shadow: 0 0 2px 5px $demonHunterCardHoverShadow
+			box-shadow: 0 0 2px 5px $demonHunterShadow
 	&-paladin
+		color: $paladinColor
 		background: $paladinBg
 		[alt]
 			color: $paladinColor
 		&:hover
-			box-shadow: 0 0 2px 5px $paladinCardHoverShadow
+			box-shadow: 0 0 2px 5px $paladinShadow
 	&-awakener
+		color: $awakenerColor
 		background: $awakenerBg
 		[alt]
 			color: $awakenerColor
 		&:hover
-			box-shadow: 0 0 2px 5px $awakenerCardHoverShadow
+			box-shadow: 0 0 2px 5px $awakenerShadow
 	&-rogue
+		color: $rogueColor
 		background: $rogueBg
 		[alt]
 			color: $rogueColor
 		&:hover
-			box-shadow: 0 0 2px 5px $rogueCardHoverShadow
+			box-shadow: 0 0 2px 5px $rogueShadow
 	&-death-knight
+		color: $deathKnightColor
 		background: $deathKnightBg
 		[alt]
 			color: $deathKnightColor
 		&:hover
-			box-shadow: 0 0 2px 5px $deathKnightCardHoverShadow
+			box-shadow: 0 0 2px 5px $deathKnightShadow
 	&-warlock
+		color: $warlockColor
 		background: $warlockBg
 		[alt]
 			color: $warlockColor
 		&:hover
-			box-shadow: 0 0 2px 5px $warlockCardHoverShadow
+			box-shadow: 0 0 2px 5px $warlockShadow
 	&-shaman
+		color: $shamanColor
 		background: $shamanBg
 		[alt]
 			color: $shamanColor
 		&:hover
-			box-shadow: 0 0 2px 5px $shamanCardHoverShadow
+			box-shadow: 0 0 2px 5px $shamanShadow
 	&-weapons
 		background: $defaultBg
 		&-legendary
@@ -266,7 +280,6 @@
 	text-shadow: 2px 2px 2px $defaultShadow
 	font-size: 32px
 	transition: 0.5s all
-	color: $defaultColor
 	filter: drop-shadow(0 0 2px $defaultShadow)
 	@media ( max-width:  991.98px)
 		min-height: auto
@@ -281,32 +294,6 @@
 		color: $hordeColor
 	&-alliance
 		color: $allianceColor
-	&-warrior
-		color: $warriorColor
-	&-druid
-		color: $druidColor
-	&-priest
-		color: $priestColor
-	&-mage
-		color: $mageColor
-	&-monk
-		color: $monkColor
-	&-hunter
-		color: $hunterColor
-	&-demon-hunter
-		color: $demonHunterColor
-	&-paladin
-		color: $paladinColor
-	&-rogue
-		color: $rogueColor
-	&-death-knight
-		color: $deathKnightColor
-	&-warlock
-		color: $warlockColor
-	&-shaman
-		color: $shamanColor
-	&-awakener
-		color: $awakenerColor
 	&-weapons
 		color: $weaponsColor
 		&-legendary
@@ -375,7 +362,6 @@
 	font-size: 20px
 	transition: 0.5s all
 	text-shadow: 2px 2px 2px $defaultShadow
-	color: $defaultColor
 	filter: drop-shadow(0 0 2px $defaultShadow)
 	&:hover
 		transform: scale(1.05)
@@ -388,32 +374,6 @@
 		color: $hordeColor
 	&-alliance
 		color: $allianceColor
-	&-warrior
-		color: $warriorColor
-	&-druid
-		color: $druidColor
-	&-priest
-		color: $priestColor
-	&-mage
-		color: $mageColor
-	&-monk
-		color: $monkColor
-	&-hunter
-		color: $hunterColor
-	&-demon-hunter
-		color: $demonHunterColor
-	&-paladin
-		color: $paladinColor
-	&-rogue
-		color: $rogueColor
-	&-death-knight
-		color: $deathKnightColor
-	&-warlock
-		color: $warlockColor
-	&-shaman
-		color: $shamanColor
-	&-awakener
-		color: $awakenerColor
 	&-weapons
 		color: $weaponsColor
 		&-legendary
@@ -503,13 +463,12 @@
 	border: none
 	background: transparent
 .card-price
-	cursor: $cursorText
 	font-weight: 700
 	font-size: 28px
 	transition: 0.5s all
 	text-shadow: 2px 2px 2px $defaultShadow
-	color: $defaultColor
 	filter: drop-shadow(2px 2px 2px $defaultShadow)
+	cursor: $cursorText
 	[alt]
 		padding: 0
 	&:hover
@@ -523,32 +482,6 @@
 		color: $hordeColor
 	&-alliance
 		color: $allianceColor
-	&-warrior
-		color: $warriorColor
-	&-druid
-		color: $druidColor
-	&-priest
-		color: $priestColor
-	&-mage
-		color: $mageColor
-	&-monk
-		color: $monkColor
-	&-hunter
-		color: $hunterColor
-	&-demon-hunter
-		color: $demonHunterColor
-	&-paladin
-		color: $paladinColor
-	&-awakener
-		color: $awakenerColor
-	&-rogue
-		color: $rogueColor
-	&-death-knight
-		color: $deathKnightColor
-	&-warlock
-		color: $warlockColor
-	&-shaman
-		color: $shamanColor
 	&-weapons
 		color: $weaponsColor
 		&-legendary

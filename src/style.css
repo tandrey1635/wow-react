@@ -229,13 +229,13 @@ footer {
   color: #2e86e5;
 }
 .announcement__header_professions, .announcement__subheader_professions {
-  color: #673ab7;
+  color: #8400ff;
 }
 .announcement__header_pvp, .announcement__subheader_pvp {
   color: #ff0033;
 }
 .announcement__header_dungeons, .announcement__subheader_dungeons {
-  color: #673ab7;
+  color: #8400ff;
 }
 .announcement__header_сlassic, .announcement__subheader_сlassic {
   color: #a75926;
@@ -818,17 +818,18 @@ footer {
   transition: 0.5s all;
   border-radius: 0.8rem;
   border: none;
+  color: #8400ff;
   background: linear-gradient(325deg, #8400ff, transparent 30%, transparent 35%, #8400ff, transparent);
 }
 .card [alt] {
   padding: 10px;
   text-shadow: 2px 2px 2px #000;
-  color: #673ab7;
+  color: #8400ff;
 }
 .card:hover {
   transition: 0.5s all;
   transform: scale(1.05);
-  box-shadow: 0 0 2px 5px #673ab7;
+  box-shadow: 0 0 2px 5px #000;
 }
 .card-races {
   position: relative;
@@ -853,6 +854,7 @@ footer {
   box-shadow: 0 0 2px 5px #037afb;
 }
 .card-warrior {
+  color: #854c27;
   background: linear-gradient(325deg, #854c27, transparent 30%, transparent 35%, #854c27, transparent);
 }
 .card-warrior [alt] {
@@ -862,6 +864,7 @@ footer {
   box-shadow: 0 0 2px 5px #854c27;
 }
 .card-druid {
+  color: #ff7d0a;
   background: linear-gradient(325deg, #ff7d0a, transparent 30%, transparent 35%, #ff7d0a, transparent);
 }
 .card-druid [alt] {
@@ -871,6 +874,7 @@ footer {
   box-shadow: 0 0 2px 5px #ff7d0a;
 }
 .card-priest {
+  color: #fff;
   background: linear-gradient(325deg, #fff, transparent 30%, transparent 35%, #fff, transparent);
 }
 .card-priest [alt] {
@@ -880,6 +884,7 @@ footer {
   box-shadow: 0 0 2px 5px #fff;
 }
 .card-mage {
+  color: #00bfff;
   background: linear-gradient(325deg, #00bfff, transparent 30%, transparent 35%, #00bfff, transparent);
 }
 .card-mage [alt] {
@@ -889,6 +894,7 @@ footer {
   box-shadow: 0 0 2px 5px #00bfff;
 }
 .card-monk {
+  color: #0ae979;
   background: linear-gradient(325deg, #0ae979, transparent 30%, transparent 35%, #0ae979, transparent);
 }
 .card-monk [alt] {
@@ -898,6 +904,7 @@ footer {
   box-shadow: 0 0 2px 5px #0ae979;
 }
 .card-hunter {
+  color: rgba(134, 197, 102, 0.9098039216);
   background: linear-gradient(325deg, rgba(134, 197, 102, 0.9098039216), transparent 30%, transparent 35%, rgba(134, 197, 102, 0.9098039216), transparent);
 }
 .card-hunter [alt] {
@@ -907,6 +914,7 @@ footer {
   box-shadow: 0 0 2px 5px rgba(134, 197, 102, 0.9098039216);
 }
 .card-demon-hunter {
+  color: #8b00ff;
   background: linear-gradient(325deg, #8b00ff, transparent 30%, transparent 35%, #8b00ff, transparent);
 }
 .card-demon-hunter [alt] {
@@ -916,6 +924,7 @@ footer {
   box-shadow: 0 0 2px 5px #8b00ff;
 }
 .card-paladin {
+  color: #fb3a86;
   background: linear-gradient(325deg, #fb3a86, transparent 30%, transparent 35%, #fb3a86, transparent);
 }
 .card-paladin [alt] {
@@ -925,6 +934,7 @@ footer {
   box-shadow: 0 0 2px 5px #fb3a86;
 }
 .card-awakener {
+  color: #00c199;
   background: linear-gradient(325deg, #00c199, transparent 30%, transparent 35%, #00c199, transparent);
 }
 .card-awakener [alt] {
@@ -934,6 +944,7 @@ footer {
   box-shadow: 0 0 2px 5px #00c199;
 }
 .card-rogue {
+  color: #ddcb17;
   background: linear-gradient(325deg, #ddcb17, transparent 30%, transparent 35%, #ddcb17, transparent);
 }
 .card-rogue [alt] {
@@ -943,6 +954,7 @@ footer {
   box-shadow: 0 0 2px 5px #ddcb17;
 }
 .card-death-knight {
+  color: #c41f3b;
   background: linear-gradient(325deg, #c41f3b, transparent 30%, transparent 35%, #c41f3b, transparent);
 }
 .card-death-knight [alt] {
@@ -952,6 +964,7 @@ footer {
   box-shadow: 0 0 2px 5px #c41f3b;
 }
 .card-warlock {
+  color: #7b13df;
   background: linear-gradient(325deg, #7b13df, transparent 30%, transparent 35%, #7b13df, transparent);
 }
 .card-warlock [alt] {
@@ -961,6 +974,7 @@ footer {
   box-shadow: 0 0 2px 5px #7b13df;
 }
 .card-shaman {
+  color: #185ec1;
   background: linear-gradient(325deg, #185ec1, transparent 30%, transparent 35%, #185ec1, transparent);
 }
 .card-shaman [alt] {
@@ -1202,7 +1216,6 @@ footer {
   text-shadow: 2px 2px 2px #000;
   font-size: 32px;
   transition: 0.5s all;
-  color: #673ab7;
   filter: drop-shadow(0 0 2px #000);
 }
 @media (max-width: 991.98px) {
@@ -1225,45 +1238,6 @@ footer {
 }
 .card-title-alliance {
   color: #037afb;
-}
-.card-title-warrior {
-  color: #854c27;
-}
-.card-title-druid {
-  color: #ff7d0a;
-}
-.card-title-priest {
-  color: #fff;
-}
-.card-title-mage {
-  color: #00bfff;
-}
-.card-title-monk {
-  color: #0ae979;
-}
-.card-title-hunter {
-  color: rgba(134, 197, 102, 0.9098039216);
-}
-.card-title-demon-hunter {
-  color: #8b00ff;
-}
-.card-title-paladin {
-  color: #fb3a86;
-}
-.card-title-rogue {
-  color: #ddcb17;
-}
-.card-title-death-knight {
-  color: #c41f3b;
-}
-.card-title-warlock {
-  color: #7b13df;
-}
-.card-title-shaman {
-  color: #185ec1;
-}
-.card-title-awakener {
-  color: #00c199;
 }
 .card-title-weapons {
   color: #8400ff;
@@ -1299,7 +1273,7 @@ footer {
   color: #ff0033;
 }
 .card-title-raids {
-  color: #673ab7;
+  color: #8400ff;
 }
 .card-title-raids-classic {
   color: #a75926;
@@ -1362,7 +1336,6 @@ footer {
   font-size: 20px;
   transition: 0.5s all;
   text-shadow: 2px 2px 2px #000;
-  color: #673ab7;
   filter: drop-shadow(0 0 2px #000);
 }
 .card-text:hover {
@@ -1380,45 +1353,6 @@ footer {
 }
 .card-text-alliance {
   color: #037afb;
-}
-.card-text-warrior {
-  color: #854c27;
-}
-.card-text-druid {
-  color: #ff7d0a;
-}
-.card-text-priest {
-  color: #fff;
-}
-.card-text-mage {
-  color: #00bfff;
-}
-.card-text-monk {
-  color: #0ae979;
-}
-.card-text-hunter {
-  color: rgba(134, 197, 102, 0.9098039216);
-}
-.card-text-demon-hunter {
-  color: #8b00ff;
-}
-.card-text-paladin {
-  color: #fb3a86;
-}
-.card-text-rogue {
-  color: #ddcb17;
-}
-.card-text-death-knight {
-  color: #c41f3b;
-}
-.card-text-warlock {
-  color: #7b13df;
-}
-.card-text-shaman {
-  color: #185ec1;
-}
-.card-text-awakener {
-  color: #00c199;
 }
 .card-text-weapons {
   color: #8400ff;
@@ -1454,7 +1388,7 @@ footer {
   color: #ff0033;
 }
 .card-text-raids {
-  color: #673ab7;
+  color: #8400ff;
 }
 .card-text-raids-classic {
   color: #854c27;
@@ -1551,13 +1485,12 @@ footer {
 }
 
 .card-price {
-  cursor: url("/src/assets/icons/cursor-text.png"), auto;
   font-weight: 700;
   font-size: 28px;
   transition: 0.5s all;
   text-shadow: 2px 2px 2px #000;
-  color: #673ab7;
   filter: drop-shadow(2px 2px 2px #000);
+  cursor: url("/src/assets/icons/cursor-text.png"), auto;
 }
 .card-price [alt] {
   padding: 0;
@@ -1577,45 +1510,6 @@ footer {
 }
 .card-price-alliance {
   color: #037afb;
-}
-.card-price-warrior {
-  color: #854c27;
-}
-.card-price-druid {
-  color: #ff7d0a;
-}
-.card-price-priest {
-  color: #fff;
-}
-.card-price-mage {
-  color: #00bfff;
-}
-.card-price-monk {
-  color: #0ae979;
-}
-.card-price-hunter {
-  color: rgba(134, 197, 102, 0.9098039216);
-}
-.card-price-demon-hunter {
-  color: #8b00ff;
-}
-.card-price-paladin {
-  color: #fb3a86;
-}
-.card-price-awakener {
-  color: #00c199;
-}
-.card-price-rogue {
-  color: #ddcb17;
-}
-.card-price-death-knight {
-  color: #c41f3b;
-}
-.card-price-warlock {
-  color: #7b13df;
-}
-.card-price-shaman {
-  color: #185ec1;
 }
 .card-price-weapons {
   color: #8400ff;

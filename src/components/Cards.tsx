@@ -116,8 +116,9 @@ const Cards = ({home, races, horde, alliance, raidsArmoursWarrior, raidsArmoursD
 				path={card.path}
 				img={card.img}
 				objectFit={card.objectFit}
-				spanClassname={card.spanClassname}
+				addition={card.addition}
 				description={card.description}
+				descriptionTrim={card.descriptionTrim}
 				title={card.title}
 				price={card.price}
 				gold={card.gold === true}

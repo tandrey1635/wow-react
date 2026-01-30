@@ -3,7 +3,7 @@ import type { ICard }  from "../types/card-types";
 
 
 
-const Card = ({type, path, img, objectFit, description, title, spanClassname, price, gold, raids}: ICard) => {
+const Card = ({type, path, img, objectFit, title, description, descriptionTrim, addition, price, gold}: ICard) => {
 	return (
 		<div className={`card ${
 			type == "races"
@@ -100,44 +100,8 @@ const Card = ({type, path, img, objectFit, description, title, spanClassname, pr
 						type == "faction-alliance"
 							? "card-title-alliance"
 							:
-						type == "warrior"
-							? "card-title-warrior"
-							:
-						type == "druid"
-							? "card-title-druid"
-							:
-						type == "priest"
-							? "card-title-priest"
-							:
-						type == "mage"
-							? "card-title-mage"
-							:
-						type == "monk"
-							? "card-title-monk"
-							:
-						type == "hunter"
-							? "card-title-hunter"
-							:
-						type == "demon-hunter"
-							? "card-title-demon-hunter"
-							:
-						type == "paladin"
-							? "card-title-paladin"
-							:
-						type == "awakener"
-							? "card-title-awakener"
-							:
-						type == "rogue"
-							? "card-title-rogue"
-							:
-						type == "death-knight"
-							? "card-title-death-knight"
-							:
-						type == "warlock"
-							? "card-title-warlock"
-							:
-						type == "shaman"
-							? "card-title-shaman"
+						addition == "Wrath of the Lich King"
+							? "card-text-raids-wrath-of-the-lich-king_color"
 							:
 						type == "legendary-weapons"
 							? "card-title-weapons-legendary"
@@ -166,7 +130,7 @@ const Card = ({type, path, img, objectFit, description, title, spanClassname, pr
 					</h3>
 				</Link>
 
-				<p className={`card-text ${
+				<p className={`card-text${
 					type == "races"
 						? "card-text-races"
 						:
@@ -175,45 +139,6 @@ const Card = ({type, path, img, objectFit, description, title, spanClassname, pr
 						:
 					type == "faction-alliance"
 						? "card-text-alliance"
-						:
-					type == "warrior"
-						? "card-text-warrior"
-						:
-					type == "druid"
-						? "card-text-druid"
-						:
-					type == "priest"
-						? "card-text-priest"
-						:
-					type == "mage"
-						? "card-text-mage"
-						:
-					type == "monk"
-						? "card-text-monk"
-						:
-					type == "hunter"
-						? "card-text-hunter"
-						:
-					type == "demon-hunter"
-						? "card-text-demon-hunter"
-						:
-					type == "paladin"
-						? "card-text-paladin"
-						:
-					type == "awakener"
-						? "card-text-awakener"
-						:
-					type == "rogue"
-						? "card-text-rogue"
-						:
-					type == "death-knight"
-						? "card-text-death-knight"
-						:
-					type == "warlock"
-						? "card-text-warlock"
-						:
-					type == "shaman"
-						? "card-text-shaman"
 						:
 					type == "legendary-weapons"
 						? "card-text-weapons-legendary"
@@ -235,10 +160,24 @@ const Card = ({type, path, img, objectFit, description, title, spanClassname, pr
 						:
 					type == "achievements"
 						? "card-text-achievements"
-						: null
+						: ''
 					}`
 				}>
-					{description} {raids && <span className={spanClassname}>{title}</span>}
+					{description}
+					{addition && <span className={`card-text-raids ${
+							addition == "Classic"
+								? "card-text-raids-classic_color"
+								:
+							addition == "The Burning Crusade"
+								? "card-text-raids-burning-crusade_color"
+								:
+							addition == "Wrath of the Lich King"
+								? "card-text-raids-wrath-of-the-lich-king_color"
+								: null
+						}`
+						}>{`${' ' + addition}.`} {/* Перед комментарием оставляем пробел чтобы был пробел после закрывающего тега */}</span>
+					}
+					{descriptionTrim}
 				</p>
 			</div>
 
@@ -252,45 +191,6 @@ const Card = ({type, path, img, objectFit, description, title, spanClassname, pr
 						:
 					type == "faction-alliance"
 						? "card-price-alliance"
-						:
-					type == "warrior"
-						? "card-price-warrior"
-						:
-					type == "druid"
-						? "card-price-druid"
-						:
-					type == "priest"
-						? "card-price-priest"
-						:
-					type == "mage"
-						? "card-price-mage"
-						:
-					type == "monk"
-						? "card-price-monk"
-						:
-					type == "hunter"
-						? "card-price-hunter"
-						:
-					type == "demon-hunter"
-						? "card-price-demon-hunter"
-						:
-					type == "paladin"
-						? "card-price-paladin"
-						:
-					type == "awakener"
-						? "card-price-awakener"
-						:
-					type == "rogue"
-						? "card-price-rogue"
-						:
-					type == "death-knight"
-						? "card-price-death-knight"
-						:
-					type == "warlock"
-						? "card-price-warlock"
-						:
-					type == "shaman"
-						? "card-price-shaman"
 						:
 					type == "legendary-weapons"
 						? "card-price-weapons-legendary"

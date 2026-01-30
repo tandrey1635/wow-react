@@ -6,7 +6,9 @@
 		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/Dark-Iron-Plate-warrior.png",
 		"objectFit": false,
 		"title": "Броня из Черного Железа",
-		"description": "Броня выкованная в сердце вулкана на древней наковальне стихий из чешуи поверженных исполинов и кожи гончих преисподней из Огненных Недр дополнения Classic. Первая несокрушимая награда за покорение пекла. Повелитель Огня я иду за тобой! Потрясающая защита от магии огня!",
+		"description": "Броня выкованная в сердце вулкана на древней наковальне стихий из чешуи поверженных исполинов и кожи гончих преисподней из Огненных Недр дополнения",
+		"descriptionTrim": "Первая несокрушимая награда за покорение пекла. Повелитель Огня я иду за тобой! Потрясающая защита от магии огня!",
+		"addition": "Classic",
 		"price": 100
 	},
 
@@ -127,7 +129,9 @@
 		"img": "/src/assets/img/raids-armours/bg/warrior/Warbringer-Armor.png",
 		"objectFit": false,
 		"title": "Доспехи Вестника Войны",
-		"description": "Первый комплект брони для воина из рейдов 70-го уровня Каражан, Логово Магтеридона и Логово Груула дополнения The Burning Crusade. Принц Эредеров, Повелитель Преисподней и Огров будут повержены! Станьте его погибелью! Оберните кровь против него самого! Никакой пощады ограм!",
+		"description": "Первый комплект брони для воина из рейдов 70-го уровня Каражан, Логово Магтеридона и Логово Груула дополнения",
+		"descriptionTrim": "Принц Эредеров, Повелитель Преисподней и Огров будут повержены! Станьте его погибелью! Оберните кровь против него самого! Никакой пощады ограм!",
+		"addition": "The Burning Crusade",
 		"price": 200
 	},
 
@@ -182,7 +186,9 @@
 		"img": "/src/assets/img/raids-armours/bg/warrior/Heroes-Dreadnaught-Battlegear.png",
 		"objectFit": false,
 		"title": "Героическая Броня Неустрашимости",
-		"description": "Первый комплект брони для воина из рейда 80-го уровня Наксрамас 10 игроков дополнения Wrath of The Lich King. Верховный лич вернулся! И снова будет повержен! Некромантия вам не страшна!",
+		"description": "Первый комплект брони для воина из рейда 80-го уровня Наксрамас 10 игроков дополнения",
+		"descriptionTrim": "Верховный лич вернулся! И снова будет повержен! Некромантия вам не страшна!",
+		"addition": "Wrath of the Lich King",
 		"price": 300
 	},
 
@@ -276,92 +282,78 @@
 
 	{
 		"id": "EarthenBattleplateNormal",
-		"className": "card-warrior",
+		"type": "warrior",
 		"path": "",
-		"cardImg": "/src/assets/img/promo/bg/classes/Garrosh-Hellscrim.png",
-		"titleClassName": "card-title-warrior",
+		"img": "/src/assets/img/raids-armours/bg/warrior/Earthen-Battleplate-normal.png",
+		"objectFit": false,
 		"title": "Боевой Доспех Земли",
-		"descriptionClassName": "card-text-warrior",
 		"description": "Первый комплект брони для воина из рейдов 85-го уровня Твердыня Крыла Тьмы, Сумеречный Бастион и Трон Четырех Ветров обычного уровня сложности дополнения Cataclysm. Лорд Черной Горы, Вождь клана Сумеречного Молота и Повелитель ветра будут повержены! Культ Сумеречного Молота вам больше не страшен! Доспехи в стиле Подземья!",
-		"priceClassName": "card-price-warrior",
 		"price": 500
 	},
 
 	{
 		"id": "EarthenBattleplateHeroic",
-		"className": "card-warrior",
+		"type": "warrior",
 		"path": "",
-		"cardImg": "/src/assets/img/promo/bg/classes/Garrosh-Hellscrim.png",
-		"titleClassName": "card-title-warrior",
+		"img": "/src/assets/img/raids-armours/bg/warrior/Earthen-Battleplate-heroic.png",
+		"objectFit": false,
 		"title": "Боевой Доспех Земли",
-		"descriptionClassName": "card-text-warrior",
 		"description": "Первый комплект брони для воина из рейдов 85-го уровня Твердыня Крыла Тьмы, Сумеречный Бастион и Трон Четырех Ветров героического уровня сложности дополнения Cataclysm. Лорд Черной Горы, Вождь клана Сумеречного Молота и Повелитель ветра будут повержены! Культ Сумеречного Молота вам больше не страшен! Доспехи в стиле Подземья!",
-		"priceClassName": "card-price-warrior",
 		"price": 500
 	},
 
 	{
 		"id": "MoltenGiantBattleplateNormal",
-		"className": "card-warrior",
+		"type": "warrior",
 		"path": "",
-		"cardImg": "/src/assets/img/promo/bg/classes/Garrosh-Hellscrim.png",
-		"titleClassName": "card-title-warrior",
+		"img": "/src/assets/img/raids-armours/bg/warrior/Molten-Giant-Battleplate-normal.png",
+		"objectFit": false,
 		"title": "Боевой Доспех Огненного Великана",
-		"descriptionClassName": "card-text-warrior",
-		"description": "Второй комплект брони для воина из рейда 85-го уровня Огненные Просторы обычного уровня сложности дополнения Cataclysm. Повелитель Огня вернулся! и снова будет повержен! Вы неуязвимы для пламени Сульфурона!",
-		"priceClassName": "card-price-warrior",
+		"description": "Второй комплект брони для воина из рейда 85-го уровня Огненные Просторы обычного уровня сложности дополнения Cataclysm. Повелитель Огня вернулся! И снова будет повержен! Вы неуязвимы для пламени Сульфурона!",
 		"price": 500
 	},
 
 	{
 		"id": "MoltenGiantBattleplateHeroic",
-		"className": "card-warrior",
+		"type": "warrior",
 		"path": "",
-		"cardImg": "/src/assets/img/promo/bg/classes/Garrosh-Hellscrim.png",
-		"titleClassName": "card-title-warrior",
+		"img": "/src/assets/img/raids-armours/bg/warrior/Molten-Giant-Battleplate-heroic.png",
+		"objectFit": false,
 		"title": "Боевой Доспех Огненного Великана",
-		"descriptionClassName": "card-text-warrior",
-		"description": "Второй комплект брони для воина из рейда 85-го уровня Огненные Просторы героического уровня сложности дополнения Cataclysm. Повелитель Огня вернулся! и снова будет повержен! Вы неуязвимы для пламени Сульфурона!",
-		"priceClassName": "card-price-warrior",
+		"description": "Второй комплект брони для воина из рейда 85-го уровня Огненные Просторы героического уровня сложности дополнения Cataclysm. Повелитель Огня вернулся! И снова будет повержен! Вы неуязвимы для пламени Сульфурона!",
 		"price": 500
 	},
 
 	{
 		"id": "ColossalDragonplateBattlegearRaidFinder",
-		"className": "card-warrior",
+		"type": "warrior",
 		"path": "",
-		"cardImg": "/src/assets/img/promo/bg/classes/Garrosh-Hellscrim.png",
-		"titleClassName": "card-title-warrior",
+		"img": "/src/assets/img/raids-armours/bg/warrior/Colossal-Dragonplate-Battlegear-raid-finder.png",
+		"objectFit": false,
 		"title": "Броня из Чешуи Гигантского Дракона",
-		"descriptionClassName": "card-text-warrior",
 		"description": "Третий комплект брони для воина из рейда 85-го уровня Душа Дракона режима поиска рейдов дополнения Cataclysm. Аспект Смерти, Разрушитель Миров будет повержен! Броня Из Чешуи самого Смертокрыла! Катаклизм отменяется!",
-		"priceClassName": "card-price-warrior",
 		"price": 500
 	},
 
 	{
 		"id": "ColossalDragonplateBattlegearNormal",
-		"className": "card-warrior",
+		"type": "warrior",
 		"path": "",
-		"cardImg": "/src/assets/img/promo/bg/classes/Garrosh-Hellscrim.png",
-		"titleClassName": "card-title-warrior",
+		"img": "/src/assets/img/raids-armours/bg/warrior/Colossal-Dragonplate-Battlegear-normal.png",
+		"objectFit": false,
 		"title": "Броня из Чешуи Гигантского Дракона",
-		"descriptionClassName": "card-text-warrior",
 		"description": "Третий комплект брони для воина из рейда 85-го уровня Душа Дракона обычного уровня сложности дополнения Cataclysm. Аспект Смерти, Разрушитель Миров будет повержен! Броня Из Чешуи самого Смертокрыла! Катаклизм отменяется!",
-		"priceClassName": "card-price-warrior",
 		"price": 500
 	},
 
 	{
 		"id": "ColossalDragonplateBattlegearHeroic",
-		"className": "card-warrior",
+		"type": "warrior",
 		"path": "",
-		"cardImg": "/src/assets/img/promo/bg/classes/Garrosh-Hellscrim.png",
-		"titleClassName": "card-title-warrior",
+		"img": "/src/assets/img/raids-armours/bg/warrior/Colossal-Dragonplate-Battlegear-heroic.png",
+		"objectFit": false,
 		"title": "Броня из Чешуи Гигантского Дракона",
-		"descriptionClassName": "card-text-warrior",
 		"description": "Третий комплект брони для воина из рейда 85-го уровня Душа Дракона героического уровня сложности дополнения Cataclysm. Аспект Смерти, Разрушитель Миров будет повержен! Броня Из Чешуи самого Смертокрыла! Катаклизм отменяется!",
-		"priceClassName": "card-price-warrior",
 		"price": 500
 	},
 
