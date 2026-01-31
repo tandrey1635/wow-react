@@ -205,5 +205,96 @@
 		"descriptionTrim": "Искуситель будет повержен! Оберните силу Солнечного Колодца против него самого!",
 		"addition": "The Burning Crusade",
 		"price": 200
+	},
+
+	{
+		"id": "ReinforcedSapphiriumBattleplateNormal",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/paladin/Reinforced-Sapphirium-Battleplate-normal.png",
+		"objectFit": false,
+		"title": "Усиленный Сапфировый Боевой Доспех",
+		"description": "Первый комплект брони для паладина из рейдов 85-го уровня Твердыня Крыла Тьмы, Сумеречный Бастион и Трон Четырех Ветров обычного уровня сложности дополнения",
+		"descriptionTrim": "Лорд Черной Горы, Вождь клана Сумеречного Молота и Повелитель ветра будут повержены! Культ Сумеречного Молота вам больше не страшен! Доспехи в стиле Подземья!",
+		"addition": "Cataclysm",
+		"price": 500
+	},
+
+	{
+		"id": "ReinforcedSapphiriumBattleplateHeroic",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/paladin/Reinforced-Sapphirium-Battleplate-heroic.png",
+		"objectFit": false,
+		"title": "Усиленный Сапфировый Боевой Доспех",
+		"description": "Первый комплект брони для паладина из рейдов 85-го уровня Твердыня Крыла Тьмы, Сумеречный Бастион и Трон Четырех Ветров героического уровня сложности дополнения",
+		"descriptionTrim": "Лорд Черной Горы, Вождь клана Сумеречного Молота и Повелитель ветра будут повержены! Культ Сумеречного Молота вам больше не страшен! Доспехи в стиле Подземья!",
+		"addition": "Cataclysm",
+		"price": 500
+	},
+
+	{
+		"id": "BattleplateOfImmolationNormal",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/paladin/Battleplate-of-Immolation-normal.png",
+		"objectFit": false,
+		"title": "Обжигающий Боевой Доспех",
+		"description": "Второй комплект брони для паладина из рейда 85-го уровня Огненные Просторы обычного уровня сложности дополнения",
+		"descriptionTrim": "Повелитель Огня вернулся! И снова будет повержен! Вы неуязвимы для пламени Сульфурона!",
+		"addition": "Cataclysm",
+		"price": 500
+	},
+
+	{
+		"id": "BattleplateOfImmolationHeroic",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/paladin/Battleplate-of-Immolation-heroic.png",
+		"objectFit": false,
+		"title": "Обжигающий Боевой Доспех",
+		"description": "Второй комплект брони для паладина из рейда 85-го уровня Огненные Просторы героического уровня сложности дополнения",
+		"descriptionTrim": "Повелитель Огня вернулся! И снова будет повержен! Вы неуязвимы для пламени Сульфурона!",
+		"addition": "Cataclysm",
+		"price": 500
+	},
+
+	{
+		"id": "BattleplateOfRadiantGloryRaidFinder",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/paladin/Battleplate-of-Radiant-Glory-raid-finder.png",
+		"objectFit": false,
+		"title": "Боевой Доспех Блистательной Славы",
+		"description": "Третий комплект брони для паладина из рейда 85-го уровня Душа Дракона режима поиска рейдов дополнения",
+		"descriptionTrim": "Аспект Смерти, Разрушитель Миров будет повержен! Броня из Чешуи самого Смертокрыла, освященная в горниле Света! Катаклизм отменяется!",
+		"addition": "Cataclysm",
+		"price": 500
+	},
+
+	{
+		"id": "BattleplateOfRadiantGloryNormal",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/paladin/Battleplate-of-Radiant-Glory-normal.png",
+		"objectFit": false,
+		"title": "Боевой Доспех Блистательной Славы",
+		"description": "Третий комплект брони для паладина из рейда 85-го уровня Душа Дракона обычного уровня сложности дополнения",
+		"descriptionTrim": "Аспект Смерти, Разрушитель Миров будет повержен! Броня из Чешуи самого Смертокрыла, освященная в горниле Света! Катаклизм отменяется!",
+		"addition": "Cataclysm",
+		"price": 500
+	},
+
+	{
+		"id": "BattleplateOfRadiantGloryHeroic",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/paladin/Battleplate-of-Radiant-Glory-heroic.png",
+		"objectFit": false,
+		"title": "Боевой Доспех Блистательной Славы",
+		"description": "Третий комплект брони для паладина из рейда 85-го уровня Душа Дракона героического уровня сложности дополнения",
+		"descriptionTrim": "Аспект Смерти, Разрушитель Миров будет повержен! Броня из Чешуи самого Смертокрыла, освященная в горниле Света! Катаклизм отменяется!",
+		"addition": "Cataclysm",
+		"price": 500
 	}
 ]
