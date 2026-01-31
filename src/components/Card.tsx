@@ -100,8 +100,17 @@ const Card = ({type, path, img, objectFit, title, description, descriptionTrim, 
 						type == "faction-alliance"
 							? "card-title-alliance"
 							:
+						addition == "Classic"
+							? "card-text-raids-classic_color"
+							:
+						addition == "The Burning Crusade"
+							? "card-text-raids-burning-crusade_color"
+							:
 						addition == "Wrath of the Lich King"
 							? "card-text-raids-wrath-of-the-lich-king_color"
+							:
+						addition == "Cataclysm"
+							? "card-text-raids-cataclysm_color"
 							:
 						type == "legendary-weapons"
 							? "card-title-weapons-legendary"
@@ -173,6 +182,9 @@ const Card = ({type, path, img, objectFit, title, description, descriptionTrim, 
 								:
 							addition == "Wrath of the Lich King"
 								? "card-text-raids-wrath-of-the-lich-king_color"
+								:
+							addition == "Cataclysm"
+								? "card-text-raids-cataclysm_color"
 								: null
 						}`
 						}>{`${' ' + addition}.`} {/* Перед комментарием оставляем пробел чтобы был пробел после закрывающего тега */}</span>
