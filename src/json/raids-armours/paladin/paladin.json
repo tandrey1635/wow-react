@@ -208,6 +208,123 @@
 	},
 
 	{
+		"id": "RedemptionPlate",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/paladin/Redemption-Plate.png",
+		"objectFit": false,
+		"title": "Героический Доспех Искупления",
+		"description": "Первый комплект брони для паладина из рейда 80-го уровня Наксрамас 10 игроков дополнения",
+		"descriptionTrim": "Верховный лич вернулся! И снова будет повержен! Некромантия вам не страшна!",
+		"addition": "Wrath of the Lich King",
+		"price": 300
+	},
+
+	{
+		"id": "ValorousRedemptionPlate",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/paladin/Valorous-Redemption-Plate.png",
+		"objectFit": false,
+		"title": "Доблестный Доспех Искупления",
+		"description": "Первый комплект брони для паладина из рейда 80-го уровня Наксрамас 25 игроков дополнения",
+		"descriptionTrim": "Верховный лич вернулся! И снова будет повержен! Некромантия вам не страшна!",
+		"addition": "Wrath of the Lich King",
+		"price": 300
+	},
+
+	{
+		"id": "AegisBattlegear",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/paladin/Aegis-Battlegear.png",
+		"objectFit": false,
+		"title": "Доблестная Броня Покровительства",
+		"description": "Второй комплект брони для паладина из рейда 80-го уровня Осада Ульдуара 10 игроков дополнения",
+		"descriptionTrim": "Бог Смерти будет повержен! Невероятная защита от безумия!",
+		"addition": "Wrath of the Lich King",
+		"price": 300
+	},
+
+	{
+		"id": "ConquerorsAegisBattlegear",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/paladin/Conquerors-Aegis-Battlegear.png",
+		"objectFit": false,
+		"title": "Броня Покровительства Завоевателя",
+		"description": "Второй комплект брони для паладина из рейда 80-го уровня Осада Ульдуара 25 игроков дополнения",
+		"descriptionTrim": "Бог Смерти будет повержен! Невероятная защита от безумия!",
+		"addition": "Wrath of the Lich King",
+		"price": 300
+	},
+
+	{
+		"id": "TuralyonsPlate",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/paladin/Turalyons-Plate.png",
+		"objectFit": false,
+		"title": "Доспехи Туралиона",
+		"description": "Третий комплект брони для паладина из рейда 80-го уровня Испытание Крестоносца 10 и 25 игроков только для Альянса дополнения",
+		"descriptionTrim": "Король Азжол-Неруба будет повержен! Слава Чемпионам Серебряного Авангарда!",
+		"addition": "Wrath of the Lich King",
+		"price": 300
+	},
+
+	{
+		"id": "LiadrinsBattlegear",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/paladin/Liadrins-Battlegear.png",
+		"objectFit": false,
+		"title": "Броня Завоеваний Лиадрин",
+		"description": "Третий комплект брони для паладина из рейда 80-го уровня Испытание Крестоносца 10 и 25 игроков только для Орды дополнения",
+		"descriptionTrim": "Король Азжол-Неруба будет повержен! Слава Чемпионам Серебряного Авангарда!",
+		"addition": "Wrath of the Lich King",
+		"price": 300
+	},
+
+	{
+		"id": "LightswornBattlegear",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/paladin/Lightsworn-Battlegear.png",
+		"objectFit": false,
+		"title": "Броня Клятвы Свету",
+		"description": "Четвертый комплект брони для паладина из рейда 80-го уровня Цитадель Ледяной Короны 10 игроков обычного уровня сложности дополнения",
+		"descriptionTrim": "Король Лич будет повержен! Эту Броню носит сам Верховный Лорд Тирион Фордринг! Свет защитит вас!",
+		"addition": "Wrath of the Lich King",
+		"price": 300
+	},
+
+	{
+		"id": "SanctifiedLightswornBattlegear25Normal",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/paladin/Sanctified-Lightsworn-Battlegear-25-normal.png",
+		"objectFit": false,
+		"title": "Освященная Броня Клятвы Свету",
+		"description": "Четвертый комплект брони для паладина из рейда 80-го уровня Цитадель Ледяной Короны 10 или 25 игроков героического/обычного уровня сложности дополнения",
+		"descriptionTrim": "Король Лич будет повержен! Эту Броню носит сам Верховный Лорд Тирион Фордринг! Свет защитит вас!",
+		"addition": "Wrath of the Lich King",
+		"price": 300
+	},
+
+	{
+		"id": "SanctifiedLightswornBattlegear25Heroic",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/paladin/Sanctified-Lightsworn-Battlegear-25-heroic.png",
+		"objectFit": false,
+		"title": "Освященная Броня Клятвы Свету",
+		"description": "Четвертый комплект брони для паладина из рейда 80-го уровня Цитадель Ледяной Короны 25 игроков героического уровня сложности дополнения",
+		"descriptionTrim": "Король Лич будет повержен! Эту Броню носит сам Верховный Лорд Тирион Фордринг! Свет защитит вас!",
+		"addition": "Wrath of the Lich King",
+		"price": 300
+	},
+
+	{
 		"id": "ReinforcedSapphiriumBattleplateNormal",
 		"type": "paladin",
 		"path": "",
