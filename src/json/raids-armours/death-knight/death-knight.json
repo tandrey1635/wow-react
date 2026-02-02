@@ -62,5 +62,122 @@
 		"descriptionTrim": "Броня, закаленная в героических походах по самым опасным подземельям Запределья, от огненных недр Кузницы Крови до кошмарных лабиринтов Гробниц Маны. Вы прошли через адский огонь и тенистую глушь, и теперь ваша сталь звенит песней побед!",
 		"addition": "The Burning Crusade",
 		"price": 200
+	},
+
+	{
+		"id": "ScourgebornePlate",
+		"type": "death-knight",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/death-knight/Scourgeborne-Plate.png",
+		"objectFit": false,
+		"title": "Героический Кованый Плетью Доспех",
+		"description": "Первый комплект брони для рыцаря смерти из рейда 80-го уровня Наксрамас 10 игроков дополнения",
+		"descriptionTrim": "Верховный лич вернулся! И снова будет повержен! Некромантия вам не страшна!",
+		"addition": "Wrath of the Lich King",
+		"price": 300
+	},
+
+	{
+		"id": "ValorousScourgebornePlate",
+		"type": "death-knight",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/death-knight/Valorous-Scourgeborne-Plate.png",
+		"objectFit": false,
+		"title": "Доблестный Кованый Плетью Доспех",
+		"description": "Первый комплект брони для рыцаря смерти из рейда 80-го уровня Наксрамас 25 игроков дополнения",
+		"descriptionTrim": "Верховный лич вернулся! И снова будет повержен! Некромантия вам не страшна!",
+		"addition": "Wrath of the Lich King",
+		"price": 300
+	},
+
+	{
+		"id": "DarkrunedBattlegear",
+		"type": "death-knight",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/death-knight/Darkruned-Battlegear.png",
+		"objectFit": false,
+		"title": "Доблестная Темноруническая Броня",
+		"description": "Второй комплект брони для рыцаря смерти из рейда 80-го уровня Осада Ульдуара 10 игроков дополнения",
+		"descriptionTrim": "Бог Смерти будет повержен! Невероятная защита от безумия!",
+		"addition": "Wrath of the Lich King",
+		"price": 300
+	},
+
+	{
+		"id": "ConquerorsDarkrunedBattlegear",
+		"type": "death-knight",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/death-knight/Conquerors-Darkruned-Battlegear.png",
+		"objectFit": false,
+		"title": "Темноруническая Броня Завоевателя",
+		"description": "Второй комплект брони для рыцаря смерти из рейда 80-го уровня Осада Ульдуара 25 игроков дополнения",
+		"descriptionTrim": "Бог Смерти будет повержен! Невероятная защита от безумия!",
+		"addition": "Wrath of the Lich King",
+		"price": 300
+	},
+
+	{
+		"id": "KoltirasBattlegear",
+		"type": "death-knight",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/death-knight/Koltiras-Battlegear.png",
+		"objectFit": false,
+		"title": "Броня Кольтиры",
+		"description": "Третий комплект брони для рыцаря смерти из рейда 80-го уровня Испытание Крестоносца 10 и 25 игроков только для Орды дополнения",
+		"descriptionTrim": "Король Азжол-Неруба будет повержен! Слава Чемпионам Серебряного Авангарда!",
+		"addition": "Wrath of the Lich King",
+		"price": 300
+	},
+
+	{
+		"id": "ThassariansBattlegear",
+		"type": "death-knight",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/death-knight/Thassarians-Battlegear.png",
+		"objectFit": false,
+		"title": "Броня Тассариана",
+		"description": "Третий комплект брони для рыцаря смерти из рейда 80-го уровня Испытание Крестоносца 10 и 25 игроков только для Альянса дополнения",
+		"descriptionTrim": "Король Азжол-Неруба будет повержен! Слава Чемпионам Серебряного Авангарда!",
+		"addition": "Wrath of the Lich King",
+		"price": 300
+	},
+
+	{
+		"id": "ScourgelordsBattlegear",
+		"type": "death-knight",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/death-knight/Scourgelords-Battlegear.png",
+		"objectFit": false,
+		"title": "Броня Повелителя Плети",
+		"description": "Четвертый комплект брони для рыцаря смерти из рейда 80-го уровня Цитадель Ледяной Короны 10 игроков обычного уровня сложности дополнения",
+		"descriptionTrim": "Король Лич будет повержен! Эту Броню носит сам Верховный Лорд Дарион Могрейн! Свет защитит вас!",
+		"addition": "Wrath of the Lich King",
+		"price": 300
+	},
+
+	{
+		"id": "SanctifiedScourgelordsBattlegear25Normal",
+		"type": "death-knight",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/death-knight/Sanctified-Scourgelords-Battlegear-25-normal.png",
+		"objectFit": false,
+		"title": "Освященная Броня Повелителя Плети",
+		"description": "Четвертый комплект брони для рыцаря смерти из рейда 80-го уровня Цитадель Ледяной Короны 10 или 25 игроков героического/обычного уровня сложности дополнения",
+		"descriptionTrim": "Король Лич будет повержен! Эту Броню носит сам Верховный Лорд Дарион Могрейн! Свет защитит вас!",
+		"addition": "Wrath of the Lich King",
+		"price": 300
+	},
+
+	{
+		"id": "SanctifiedScourgelordsBattlegear25Heroic",
+		"type": "death-knight",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/death-knight/Sanctified-Scourgelords-Battlegear-25-heroic.png",
+		"objectFit": false,
+		"title": "Освященная Броня Повелителя Плети",
+		"description": "Четвертый комплект брони для рыцаря смерти из рейда 80-го уровня Цитадель Ледяной Короны 25 игроков героического уровня сложности дополнения",
+		"descriptionTrim": "Король Лич будет повержен! Эту Броню носит сам Верховный Лорд Дарион Могрейн! Свет защитит вас!",
+		"addition": "Wrath of the Lich King",
+		"price": 300
 	}
 ]
