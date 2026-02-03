@@ -57,6 +57,9 @@ const Card = ({type, path, img, objectFit, title, description, descriptionTrim, 
 			type == "legendary-weapons"
 				? "card-weapons-legendary"
 				:
+			type == "artifact-weapons"
+				? "card-weapons-artifact"
+				:
 			type == "armours"
 				? "card-armours"
 				:
@@ -139,7 +142,7 @@ const Card = ({type, path, img, objectFit, title, description, descriptionTrim, 
 					</h3>
 				</Link>
 
-				<p className={`card-text${
+				<p className={`card-text ${
 					type == "races"
 						? "card-text-races"
 						:

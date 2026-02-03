@@ -388,7 +388,7 @@ footer {
   background: url("/src/assets/img/promo/bg/faction/alliance.png") no-repeat center/contain;
 }
 .promo__raitings_warrior {
-  background: url("/src/assets/img/promo/bg/classes/Garrosh-Hellscrim.png") no-repeat center/contain;
+  background: url("/src/assets/img/promo/bg/classes/Garrosh-Hellscream.png") no-repeat center/contain;
 }
 .promo__raitings_druid {
   background: url("/src/assets/img/promo/bg/classes/Malfurion.png") no-repeat center/contain;
@@ -997,6 +997,10 @@ footer {
 }
 .card-weapons-artifact {
   background: linear-gradient(325deg, #d9c798, transparent 30%, transparent 35%, #d9c798, transparent);
+  color: #d9c798;
+}
+.card-weapons-artifact [alt] {
+  color: #d9c798;
 }
 .card-weapons-artifact:hover {
   box-shadow: 0 0 2px 5px #d9c798;
@@ -1245,9 +1249,6 @@ footer {
 .card-title-weapons-legendary {
   color: #ff8000;
 }
-.card-title-weapons-artifact {
-  color: #d9c798;
-}
 .card-title-weapons-decorative {
   color: #dc3ef3;
 }
@@ -1359,9 +1360,6 @@ footer {
 }
 .card-text-weapons-legendary {
   color: #ff8000;
-}
-.card-text-weapons-artifact {
-  color: #d9c798;
 }
 .card-text-weapons-decorative {
   color: #dc3ef3;
@@ -1516,9 +1514,6 @@ footer {
 }
 .card-price-weapons-legendary {
   color: #ff8000;
-}
-.card-price-weapons-artifact {
-  color: #d9c798;
 }
 .card-price-weapons-decorative {
   color: #dc3ef3;

@@ -33,23 +33,23 @@ import dataLegendaryWeapons from '../json/weapons/legendary/weapons.json';
 import dataClasses from '../json/weapons/artifacts/classes.json';
 
 
-import dataWarriorArtifacts from '../json/weapons/artifacts/warrior.json';
-import dataDruidArtifacts from '../json/weapons/artifacts/druid.json';
-import dataPriestArtifacts from '../json/weapons/artifacts/priest.json';
-import dataMageArtifacts from '../json/weapons/artifacts/mage.json';
-import dataMonkArtifacts from '../json/weapons/artifacts/monk.json';
-import dataHunterArtifacts from '../json/weapons/artifacts/hunter.json';
-import dataDemonHunterArtifacts from '../json/weapons/artifacts/demon-hunter.json';
-import dataPaladinArtifacts from '../json/weapons/artifacts/paladin.json';
-import dataRogueArtifacts from '../json/weapons/artifacts/rogue.json';
-import dataDeathKnightArtifacts from '../json/weapons/artifacts/death-knight.json';
-import dataWarlockArtifacts from '../json/weapons/artifacts/warlock.json';
-import dataShamanArtifacts from '../json/weapons/artifacts/shaman.json';
+import dataWarriorArtifacts from '../json/weapons/artifacts/warrior/warrior.json';
+import dataDruidArtifacts from '../json/weapons/artifacts/druid/druid.json';
+import dataPriestArtifacts from '../json/weapons/artifacts/priest/priest.json';
+import dataMageArtifacts from '../json/weapons/artifacts/mage/mage.json';
+import dataMonkArtifacts from '../json/weapons/artifacts/monk/monk.json';
+import dataHunterArtifacts from '../json/weapons/artifacts/hunter/hunter.json';
+import dataDemonHunterArtifacts from '../json/weapons/artifacts/demon-hunter/demon-hunter.json';
+import dataPaladinArtifacts from '../json/weapons/artifacts/paladin/paladin.json';
+import dataRogueArtifacts from '../json/weapons/artifacts/rogue/rogue.json';
+import dataDeathKnightArtifacts from '../json/weapons/artifacts/death-knight/death-knight.json';
+import dataWarlockArtifacts from '../json/weapons/artifacts/warlock/warlock.json';
+import dataShamanArtifacts from '../json/weapons/artifacts/shaman/shaman.json';
 
 
-import dataArmsWarriorArtifact from '../json/weapons/artifacts/warrior/arms.json';
-import dataFuryWarriorArtifact from '../json/weapons/artifacts/warrior/fury.json';
-import dataProtectionWarriorArtifact from '../json/weapons/artifacts/warrior/protection.json';
+import dataArmsWarriorArtifact from '../json/weapons/artifacts/warrior/specializations/arms.json';
+import dataFuryWarriorArtifact from '../json/weapons/artifacts/warrior/specializations/fury.json';
+import dataProtectionWarriorArtifact from '../json/weapons/artifacts/warrior/specializations/protection.json';
 
 
 import dataArmours from '../json/armours/armours.json';

@@ -1,0 +1,34 @@
+[
+	{
+		"id": "Arms",
+		"type": "warrior",
+		"path": "arms",
+		"img": "/src/assets/img/promo/bg/classes/warrior/Arms.jpg",
+		"objectFit": false,
+		"title": "Оружие",
+		"description": "Закажите артефакты для Воина Оружия",
+		"price": 800
+	},
+
+	{
+		"id": "Fury",
+		"type": "warrior",
+		"path": "fury",
+		"img": "/src/assets/img/promo/bg/classes/warrior/Fury.jpg",
+		"objectFit": false,
+		"title": "Неистовство",
+		"description": "Закажите артефакты для Воина Неистовства",
+		"price": 800
+	},
+
+	{
+		"id": "Protection",
+		"type": "warrior",
+		"path": "protection",
+		"img": "/src/assets/img/promo/bg/classes/warrior/Protection.jpg",
+		"objectFit": false,
+		"title": "Защита",
+		"description": "Закажите артефакты для Воина Защиты",
+		"price": 800
+	}
+]

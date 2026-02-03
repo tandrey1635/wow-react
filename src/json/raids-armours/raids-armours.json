@@ -3,7 +3,7 @@
 		"id": "Warrior",
 		"type": "warrior",
 		"path": "raids-armours/warrior",
-		"img": "/src/assets/img/promo/bg/classes/Garrosh-Hellscrim.png",
+		"img": "/src/assets/img/promo/bg/classes/Garrosh-Hellscream.png",
 		"objectFit": false,
 		"title": "Воин",
 		"description": "Комплекты рейдовой брони для Воина",
@@ -71,8 +71,8 @@
 		"path": "raids-armours/demon-hunter",
 		"img": "/src/assets/img/promo/bg/classes/Illidan.png",
 		"objectFit": false,
-		"title": "Охотник на демонов",
-		"description": "Комплекты рейдовой брони для Охотника на демонов",
+		"title": "Охотник на Демонов",
+		"description": "Комплекты рейдовой брони для Охотника на Демонов",
 		"price": 100
 	},
 
@@ -116,7 +116,7 @@
 		"img": "/src/assets/img/promo/bg/classes/Lich-King.png",
 		"objectFit": false,
 		"title": "Рыцарь Смерти",
-		"description": "Комплекты рейдовой брони для Рыцаря смерти",
+		"description": "Комплекты рейдовой брони для Рыцаря Смерти",
 		"price": 100
 	},
 
