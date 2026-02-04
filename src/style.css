@@ -812,6 +812,60 @@ footer {
   filter: brightness(125%);
 }
 
+.weapon__details__left {
+  width: 555px;
+  height: 765px;
+  border: 1px solid red;
+}
+.weapon__details__right {
+  width: 50%;
+  border: 1px solid red;
+}
+.weapon__details__title, .weapon__details__text {
+  font-weight: 900;
+  font-size: 36px;
+  color: #8400ff;
+  filter: brightness(125%);
+}
+.weapon__details__title_legendary, .weapon__details__text_legendary {
+  color: #ff8000;
+}
+.weapon__details__text {
+  font-size: 24px;
+}
+.weapon__details__img {
+  position: relative;
+  width: inherit;
+  height: inherit;
+}
+.weapon__details__img img {
+  transform: scale(0.8);
+  -o-object-fit: contain;
+     object-fit: contain;
+}
+.weapon__details__label {
+  position: absolute;
+  top: 0;
+  right: 0;
+  color: #8400ff;
+  background: linear-gradient(325deg, #ff8000, transparent 30%, transparent 35%, #ff8000, transparent);
+}
+.weapon__details__stats, .weapon__details__price {
+  color: #ffc107;
+}
+.weapon__details__cart {
+  padding: 10px;
+  color: #8400ff;
+  border-radius: 10px;
+  background: linear-gradient(325deg, #ff8000, transparent 30%, transparent 35%, #ff8000, transparent);
+}
+.weapon__details__descriptions {
+  filter: brightness(125%);
+  font-weight: 700;
+  font-size: 18px;
+  color: #ffc107;
+}
+
 /* Фон цена, заголовок, кнопка у карточек */
 .card {
   width: 23rem;
@@ -1030,6 +1084,7 @@ footer {
   box-shadow: 0 0 2px 5px #d9c798;
 }
 .card-mounts-water {
+  color: #00ffff;
   background: linear-gradient(325deg, #00ffff, transparent 30%, transparent 35%, #00ffff, transparent);
 }
 .card-mounts-water [alt] {
@@ -1261,9 +1316,6 @@ footer {
 .card-title-armours-artifact {
   color: #d9c798;
 }
-.card-title-mounts-water {
-  color: #00ffff;
-}
 .card-title-mounts-earth {
   color: #854c27;
 }
@@ -1372,9 +1424,6 @@ footer {
 }
 .card-text-armours-artifact {
   color: #d9c798;
-}
-.card-text-mounts-water {
-  color: #00ffff;
 }
 .card-text-mounts-earth {
   color: #854c27;
@@ -1526,9 +1575,6 @@ footer {
 }
 .card-price-armours-artifact {
   color: #d9c798;
-}
-.card-price-mounts-water {
-  color: #00ffff;
 }
 .card-price-mounts-earth {
   color: #854c27;

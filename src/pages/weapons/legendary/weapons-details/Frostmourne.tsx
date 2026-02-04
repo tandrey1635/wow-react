@@ -7,7 +7,7 @@ import ArrowUp  from "../../../../components/ArrowUp";
 
 import Announcement from "../../../../components/Announcement";
 import Promo from "../../../../components/Promo";
-
+import WeaponDetails from "../../../../components/WeaponDetails";
 
 const Frostmourne = () => {
 	return (
@@ -17,6 +17,7 @@ const Frostmourne = () => {
 				<h1 style={{fontSize: 120}} className="text-center text-danger">В разработке</h1>
 				<Announcement frostmourne />
 				<Promo frostmourne />
+				<WeaponDetails />
 			</Main>
 			<Footer />
 			<ArrowUp />

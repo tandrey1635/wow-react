@@ -1,0 +1,45 @@
+@use '../base/index' as *
+
+.weapon
+	&__details
+		&__left
+			width: 555px
+			height: 765px
+			border: 1px solid red
+		&__right
+			width: 50%
+			border: 1px solid red
+		&__title, &__text
+			font-weight: 900
+			font-size: 36px
+			color: $weaponsColor
+			filter: brightness(125%)
+			&_legendary
+				color: $weaponsLegendaryColor
+		&__text
+			font-size: 24px
+		&__img
+			position: relative
+			width: inherit
+			height: inherit
+			img
+				transform: scale(0.8)
+				object-fit: contain
+		&__label
+			position: absolute
+			top: 0
+			right: 0
+			color: $defaultColor
+			background: $weaponsLegendaryBg
+		&__stats, &__price
+			color: $textColor
+		&__cart
+			padding: 10px
+			color: $defaultColor
+			border-radius: 10px
+			background: $weaponsLegendaryBg
+		&__descriptions
+			filter: brightness(125%)
+			font-weight: 700
+			font-size: 18px
+			color: $textColor

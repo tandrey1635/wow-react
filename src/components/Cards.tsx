@@ -1,6 +1,6 @@
 import { Link } from "react-router";
 import Card from './Card.tsx'
-
+import WeaponDetails from './WeaponDetails.tsx'
 
 import dataRaces from '../json/races/races.json';
 import dataSelectRaces from '../json/races/races/faction.json';
@@ -28,6 +28,10 @@ import dataWeapons from '../json/weapons/weapons.json';
 import dataTwoHandedWeapons from '../json/weapons/two-handed/weapons.json';
 import dataTwoHandedAxes from '../json/weapons/two-handed/axes/axes.json';
 import dataLegendaryWeapons from '../json/weapons/legendary/weapons.json';
+
+
+import dataLegendaryWeaponDetails from '../json/weapons/legendary/weapons-details.json';
+
 
 
 import dataClasses from '../json/weapons/artifacts/classes.json';
@@ -90,10 +94,10 @@ import dataWowCollectionEditions from '../json/achievements/wow-collection-editi
 
 
 
-import type { ICard }  from "../types/card-types";
+import type { ICard, IWeaponDetails }  from "../types/card-types";
 
 
-const Cards = ({home, races, horde, alliance, raidsArmoursWarrior, raidsArmoursDruid, raidsArmoursPriest, raidsArmoursMage, raidsArmoursMonk, raidsArmoursHunter, raidsArmoursDemonHunter, raidsArmoursPaladin, raidsArmoursAwakener, raidsArmoursRogue, raidsArmoursDeathKnight, raidsArmoursWarlock, raidsArmoursShaman, twoHandedWeapons, twoHandedAxes, legendaryWeapons, classes, warriorArtifacts, druidArtifacts, priestArtifacts, mageArtifacts, monkArtifacts, hunterArtifacts, demonHunterArtifacts, paladinArtifacts, rogueArtifacts, deathKnightArtifacts, warlockArtifacts, shamanArtifacts, armsWarrior, furyWarrior, protectionWarrior, cloaks, waterMounts, flyMounts, classic, burningCrusade, wrathOfTheLichKing, cataclysm, mistsOfPandaria, warlordsOfDraenor, legion, battleForAzeroth, shadowlands, dragonflight, warWithin, midnight, lastTitan, wowCollectionEditions}) => {
+const Cards = ({home, races, horde, alliance, raidsArmoursWarrior, raidsArmoursDruid, raidsArmoursPriest, raidsArmoursMage, raidsArmoursMonk, raidsArmoursHunter, raidsArmoursDemonHunter, raidsArmoursPaladin, raidsArmoursAwakener, raidsArmoursRogue, raidsArmoursDeathKnight, raidsArmoursWarlock, raidsArmoursShaman, twoHandedWeapons, twoHandedAxes, legendaryWeapons, legendaryWeaponDetails, classes, warriorArtifacts, druidArtifacts, priestArtifacts, mageArtifacts, monkArtifacts, hunterArtifacts, demonHunterArtifacts, paladinArtifacts, rogueArtifacts, deathKnightArtifacts, warlockArtifacts, shamanArtifacts, armsWarrior, furyWarrior, protectionWarrior, cloaks, waterMounts, flyMounts, classic, burningCrusade, wrathOfTheLichKing, cataclysm, mistsOfPandaria, warlordsOfDraenor, legion, battleForAzeroth, shadowlands, dragonflight, warWithin, midnight, lastTitan, wowCollectionEditions}) => {
 
 	const basePathImg = '/src/assets/img'
 
@@ -127,6 +131,24 @@ const Cards = ({home, races, horde, alliance, raidsArmoursWarrior, raidsArmoursD
 		)
 	})
 
+	const renderWeaponDetails = (dataJson: IWeaponDetails[]) => dataJson.map(card=> {
+		return (
+			<WeaponDetails
+				key={card.id}
+				path={card.path}
+				weaponType={card.weaponType}
+				label={card.addition}
+				img={card.img}
+				objectFit={card.objectFit}
+				description={card.description}
+				title={card.title}
+				dmg={card.dmg}
+				speed={card.speed}
+				price={card.price}
+				gold={card.gold === true}
+			/>
+		)
+	})
 
 	return (
 		<section className="services">
@@ -382,6 +404,14 @@ const Cards = ({home, races, horde, alliance, raidsArmoursWarrior, raidsArmoursD
 						<div className="tab-pane fade show active" id="pills-raids-armour">
 							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
 								{ renderCardItems(dataLegendaryWeapons) }
+							</div>
+						</div>
+					}
+
+					{ legendaryWeaponDetails &&
+						<div className="tab-pane fade show active" id="pills-raids-armour">
+							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
+								{ renderWeaponDetails(dataLegendaryWeaponDetails) }
 							</div>
 						</div>
 					}

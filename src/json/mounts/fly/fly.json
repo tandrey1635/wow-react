@@ -155,6 +155,17 @@
 	},
 
 	{
+		"id": "AnushallaShadowsGuidance",
+		"type": "fly-mounts",
+		"path": "",
+		"img": "/src/assets/img/mounts/bg/fly/Anushalla-Shadows-Guidance.png",
+		"objectFit": false,
+		"title": "Ану'шалла Наставление Тени",
+		"description": "Ее крылья рассекают небеса, как тени лунную ночь. Награда за достижение: Страховка на коллекцию.",
+		"price": 300
+	},
+
+	{
 		"id": "AstralAurochs",
 		"type": "fly-mounts",
 		"path": "",
@@ -260,7 +271,7 @@
 		"img": "/src/assets/img/mounts/bg/fly/Silent-Glider.png",
 		"objectFit": false,
 		"title": "Бесшумный Скат",
-		"description": "В теле этого существа вырабатываются газы, которые позволяют ему выживать в морских глубинах. Они же позволяют ему легко и без усилий парить в воздухе. Источник: Неслышимка. Зона: Назжатар. Вероятность получения: 1.40%.",
+		"description": "В теле этого существа вырабатываются газы, которые позволяют ему выживать в морских глубинах. Они же позволяют ему легко и без усилий парить в воздухе. Источник: Неслышимка. Зона: Назжатар. Вероятность получения: 1.4%.",
 		"price": 300
 	},
 
@@ -947,41 +958,35 @@
 	},
 
 	{
-		"id": "",
-		"className": "card-mounts card-mounts-fly",
+		"id": "DemonicGladiatorsStormDragon",
+		"type": "fly-mounts",
 		"path": "",
-		"cardImg": "/src/assets/img/mounts/bg/fly/.png",
-		"titleClassName": "card-title-mounts card-title-mounts-fly",
+		"img": "/src/assets/img/mounts/bg/fly/Demonic-Gladiators-Storm-Dragon.png",
+		"objectFit": false,
 		"title": "Грозовой Дракон Демонического Гладиатора",
-		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "1",
-		"priceClassName": "card-price-mounts card-price-mounts-fly",
+		"description": "Рожденный в горах Штормхейма грозовой дракон являет собой поистине величественное зрелище, когда преследует свою жертву, оставляя в небесах пылающий след. Награда за достижение: Гладиатор 7-й сезон Legion.",
 		"price": 300
 	},
 
 	{
-		"id": "",
-		"className": "card-mounts card-mounts-fly",
+		"id": "VindictiveGladiatorsStormDragon",
+		"type": "fly-mounts",
 		"path": "",
-		"cardImg": "/src/assets/img/mounts/bg/fly/.png",
-		"titleClassName": "card-title-mounts card-title-mounts-fly",
+		"img": "/src/assets/img/mounts/bg/fly/Vindictive-Gladiators-Storm-Dragon.png",
+		"objectFit": false,
 		"title": "Грозовой Дракон Карающего Гладиатора",
-		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "1",
-		"priceClassName": "card-price-mounts card-price-mounts-fly",
+		"description": "Рожденный в горах Штормхейма грозовой дракон являет собой поистине величественное зрелище, когда преследует свою жертву, оставляя в небесах пылающий след. Награда за достижение: Гладиатор 1-й сезон Legion.",
 		"price": 300
 	},
 
 	{
-		"id": "",
-		"className": "card-mounts card-mounts-fly",
+		"id": "CruelGladiatorsStormDragon",
+		"type": "fly-mounts",
 		"path": "",
-		"cardImg": "/src/assets/img/mounts/bg/fly/.png",
-		"titleClassName": "card-title-mounts card-title-mounts-fly",
+		"img": "/src/assets/img/mounts/bg/fly/Cruel-Gladiators-Storm-Dragon.png",
+		"objectFit": false,
 		"title": "Грозовой Дракон Лютого Гладиатора",
-		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "1",
-		"priceClassName": "card-price-mounts card-price-mounts-fly",
+		"description": "Рожденный в горах Штормхейма грозовой дракон являет собой поистине величественное зрелище, когда преследует свою жертву, оставляя в небесах пылающий след. Награда за достижение: Гладиатор 1-й сезон Legion.",
 		"price": 300
 	},
 
@@ -1012,15 +1017,13 @@
 	},
 
 	{
-		"id": "",
-		"className": "card-mounts card-mounts-fly",
+		"id": "ThunderdrumMisfire",
+		"type": "fly-mounts",
 		"path": "",
-		"cardImg": "/src/assets/img/mounts/bg/fly/.png",
-		"titleClassName": "card-title-mounts card-title-mounts-fly",
+		"img": "/src/assets/img/mounts/bg/fly/Thunderdrum-Misfire.png",
+		"objectFit": false,
 		"title": "Громосбойная Ракета",
-		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "1",
-		"priceClassName": "card-price-mounts card-price-mounts-fly",
+		"description": "Ее нашли на трибунах котла смерти после одной особенно жестокой битвы. Когда оператора Крутня спросили, обезврежена ли она, он пожал плечами и ответил: Ну... наверное. Торговец: Андо Пуля. Зона: Освобождение Нижней Шахты.",
 		"price": 300
 	},
 
@@ -1142,28 +1145,24 @@
 	},
 
 	{
-		"id": "",
-		"className": "card-mounts card-mounts-fly",
+		"id": "ClutchOfHaLi",
+		"type": "fly-mounts",
 		"path": "",
-		"cardImg": "/src/assets/img/mounts/bg/fly/.png",
-		"titleClassName": "card-title-mounts card-title-mounts-fly",
-		"title": "Дитя Ха Ли",
-		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "1",
-		"priceClassName": "card-price-mounts card-price-mounts-fly",
+		"img": "/src/assets/img/mounts/bg/fly/Clutch-of-Ha-Li.png",
+		"objectFit": false,
+		"title": "Дитя Ха-Ли",
+		"description": "Потомки Ха-Ли гордо парят в синих небесах Пандарии, высматривая ничего не подозревающую добычу. Источник: Ха-Ли. Зона: Вечноцветущий дол. Вероятность получения: 2.9%.",
 		"price": 300
 	},
 
 	{
-		"id": "",
-		"className": "card-mounts card-mounts-fly",
+		"id": "ClutchOfJiKun",
+		"type": "fly-mounts",
 		"path": "",
-		"cardImg": "/src/assets/img/mounts/bg/fly/.png",
-		"titleClassName": "card-title-mounts card-title-mounts-fly",
-		"title": "Дитя Цзи Кунь",
-		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "1",
-		"priceClassName": "card-price-mounts card-price-mounts-fly",
+		"img": "/src/assets/img/mounts/bg/fly/Clutch-of-Ji-Kun.png",
+		"objectFit": false,
+		"title": "Дитя Цзи-Кунь",
+		"description": "Цзи-Кунь вдоволь попировала на неудачных творениях ваятелей плоти могу, а вот ее потомство жаждет слопать как можно больше нелетающих. Источник: Цзи-Кунь. Зона: Престол Гроз. Вероятность получения: 1%.",
 		"price": 300
 	},
 
@@ -7395,15 +7394,13 @@
 	},
 
 	{
-		"id": "",
-		"className": "card-mounts card-mounts-fly",
+		"id": "ThrayirEyesOfTheSiren",
+		"type": "fly-mounts",
 		"path": "",
-		"cardImg": "/src/assets/img/mounts/bg/fly/.png",
-		"titleClassName": "card-title-mounts card-title-mounts-fly",
+		"img": "/src/assets/img/mounts/bg/fly/Thrayir-Eyes-of-the-Siren.png",
+		"objectFit": false,
 		"title": "Трайир Очи Сирены",
-		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "1",
-		"priceClassName": "card-price-mounts card-price-mounts-fly",
+		"description": "В порыве ярости и отчаяния Трайир сотворил кошмарный шторм, который должен был уничтожить врагов Цирци раз и навсегда. Даже теперь, спустя почти десять тысяч лет, отголоски этой силы все еще осаждают остров. Награда за задание: Трайир Очи Сирены. Зона: Остров Сирен.",
 		"price": 300
 	},
 
@@ -7785,67 +7782,57 @@
 	},
 
 	{
-		"id": "",
-		"className": "card-mounts card-mounts-fly",
+		"id": "AshenvaleChimaera",
+		"type": "fly-mounts",
 		"path": "",
-		"cardImg": "/src/assets/img/mounts/bg/fly/.png",
-		"titleClassName": "card-title-mounts card-title-mounts-fly",
+		"img": "/src/assets/img/mounts/bg/fly/Ashenvale-Chimaera.png",
+		"objectFit": false,
 		"title": "Химера из Ясеневого Леса",
-		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "1",
-		"priceClassName": "card-price-mounts card-price-mounts-fly",
+		"description": "Калдорай часто использовали химер из Ясеневого леса, чтобы уничтожать укрепления в битвах с людьми, орками и нежитью. Источник: Алаш'анир. Зона: Темные берега. Вероятность получения: 5.58%.",
 		"price": 300
 	},
 
 	{
-		"id": "",
-		"className": "card-mounts card-mounts-fly",
+		"id": "ColdflameCormaera",
+		"type": "fly-mounts",
 		"path": "",
-		"cardImg": "/src/assets/img/mounts/bg/fly/.png",
-		"titleClassName": "card-title-mounts card-title-mounts-fly",
+		"img": "/src/assets/img/mounts/bg/fly/Coldflame-Cormaera.png",
+		"objectFit": false,
 		"title": "Химера Недр Холодного Пламени",
-		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "1",
-		"priceClassName": "card-price-mounts card-price-mounts-fly",
+		"description": "Во время войны повелителей стихий у высокопоставленных помощников Повелителя Огня химеры недр служили вьючными животными. Источник: Торговая лавка.",
 		"price": 300
 	},
 
 	{
-		"id": "",
-		"className": "card-mounts card-mounts-fly",
+		"id": "PredatoryPlagueroc",
+		"type": "fly-mounts",
 		"path": "",
-		"cardImg": "/src/assets/img/mounts/bg/fly/.png",
-		"titleClassName": "card-title-mounts card-title-mounts-fly",
+		"img": "/src/assets/img/mounts/bg/fly/Predatory-Plagueroc.png",
+		"objectFit": false,
 		"title": "Хищный Чумной Рух",
-		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "1",
-		"priceClassName": "card-price-mounts card-price-mounts-fly",
+		"description": "В доме Кадавров ходят легенды о вечном голоде Гигера. Не появился еще на свет такой зверь, которого Гигер не смог бы сожрать и переварить. Ковенант: Некролорды. Источник: Гигер. Зона: Малдраксус. Вероятность получения: 2.32%.",
 		"price": 300
 	},
 
 	{
-		"id": "",
-		"className": "card-mounts card-mounts-fly",
+		"id": "ChronoCorsair",
+		"type": "fly-mounts",
 		"path": "",
-		"cardImg": "/src/assets/img/mounts/bg/fly/.png",
-		"titleClassName": "card-title-mounts card-title-mounts-fly",
+		"img": "/src/assets/img/mounts/bg/fly/Chrono-Corsair.png",
+		"objectFit": false,
 		"title": "Хронокорсар",
-		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "1",
-		"priceClassName": "card-price-mounts card-price-mounts-fly",
+		"description": "Этот пират из рода Бесконечности пронесся через потоки времени и набрал идеальную команду грабителей, готовую принести ему золотой улов. Торговец: Продавец товаров для путешественников во времени.",
 		"price": 300
 	},
 
 	{
-		"id": "",
-		"className": "card-mounts card-mounts-fly",
+		"id": "HogrusSwineOfGoodFortune",
+		"type": "fly-mounts",
 		"path": "",
-		"cardImg": "/src/assets/img/mounts/bg/fly/.png",
-		"titleClassName": "card-title-mounts card-title-mounts-fly",
+		"img": "/src/assets/img/mounts/bg/fly/Hogrus-Swine-of-Good-Fortune.png",
+		"objectFit": false,
 		"title": "Хрюндель, Благодатный Свин",
-		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "1",
-		"priceClassName": "card-price-mounts card-price-mounts-fly",
+		"description": "Император Шаохао впервые увидел Хрюнделя на третий день медитации. С тех пор пандарены считают его появление добрым знаком для всякого, кто затеял что-то важное.  Источник: Внутриигровой магазин.",
 		"price": 300
 	},
 

@@ -17,4 +17,13 @@ interface ICard {
 }
 
 
-export type { ICard }
+
+interface IWeaponDetails extends ICard {
+	weaponType: string,
+	label: string,
+	dmg: number,
+	speed: number,
+}
+
+
+export type { ICard, IWeaponDetails }

@@ -1,5 +1,3 @@
-import { useParams } from "react-router";
-
 import Wrapper  from "../../../../components/Wrapper";
 import Header from "../../../../components/Header";
 import Main from "../../../../components/Main";
@@ -12,9 +10,6 @@ import Promo from "../../../../components/Promo";
 
 
 const WeaponsDetails = () => {
-	const { id } = useParams()
-
-
 	const data = [
 		{
 			id: "Ashbringer",

@@ -2,7 +2,6 @@ import { Link } from "react-router";
 import type { ICard }  from "../types/card-types";
 
 
-
 const Card = ({type, path, img, objectFit, title, description, descriptionTrim, addition, price, gold}: ICard) => {
 	return (
 		<div className={`card ${
@@ -121,9 +120,6 @@ const Card = ({type, path, img, objectFit, title, description, descriptionTrim, 
 						type == "armours"
 							? "card-title-armours"
 							:
-						type == "water-mounts"
-						? "card-title-mounts-water"
-						:
 						type == "earth-mounts"
 							? "card-title-mounts-earth"
 							:
@@ -157,9 +153,6 @@ const Card = ({type, path, img, objectFit, title, description, descriptionTrim, 
 						:
 					type == "armours"
 						? "card-text-armours"
-						:
-					type == "water-mounts"
-						? "card-text-mounts-water"
 						:
 					type == "earth-mounts"
 						? "card-text-mounts-earth"
@@ -212,9 +205,6 @@ const Card = ({type, path, img, objectFit, title, description, descriptionTrim, 
 						:
 					type == "armours"
 						? "card-price-armours"
-						:
-					type == "water-mounts"
-						? "card-price-mounts-water"
 						:
 					type == "earth-mounts"
 						? "card-price-mounts-earth"
