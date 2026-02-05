@@ -247,6 +247,19 @@
 	},
 
 	{
+		"id": "SiegebreakerBattlegearRecolor",
+		"type": "warrior",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/warrior/Siegebreaker-Battlegear-recolor.png",
+		"objectFit": false,
+		"title": "Доблестная Осадная Броня Путешественника из Другого Мира",
+		"description": "Кажется, сюда затесалась какая-то подозрительно похожая, но не родная броня из другого времени дополнения",
+		"descriptionTrim": "Альтернативный вариант прославленных доспехов, появившийся в иных измерениях Азерота. Обладает той же несокрушимой силой, что и оригинал, но несет в себе отпечаток другой истории.",
+		"addition": "Wrath of the Lich King",
+		"price": 300
+	},
+
+	{
 		"id": "ConquerorsSiegebreakerBattlegear",
 		"type": "warrior",
 		"path": "",
@@ -255,6 +268,19 @@
 		"title": "Осадная Броня Завоевателя",
 		"description": "Второй комплект брони для воина из рейда 80-го уровня Осада Ульдуара 25 игроков дополнения",
 		"descriptionTrim": "Бог Смерти будет повержен! Невероятная защита от безумия!",
+		"addition": "Wrath of the Lich King",
+		"price": 300
+	},
+
+	{
+		"id": "ConquerorsSiegebreakerBattlegearRecolor",
+		"type": "warrior",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/warrior/Conquerors-Siegebreaker-Battlegear-recolor.png",
+		"objectFit": false,
+		"title": "Осадная Броня Завоевателя Путешественника из Другого Мира",
+		"description": "Кажется, сюда затесалась какая-то подозрительно похожая, но не родная броня из другого времени дополнения",
+		"descriptionTrim": "Альтернативный вариант прославленных доспехов, появившийся в иных измерениях Азерота. Обладает той же несокрушимой силой, что и оригинал, но несет в себе отпечаток другой истории.",
 		"addition": "Wrath of the Lich King",
 		"price": 300
 	},

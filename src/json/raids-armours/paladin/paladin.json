@@ -247,6 +247,19 @@
 	},
 
 	{
+		"id": "AegisBattlegearRecolor",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/paladin/Aegis-Battlegear-recolor.png",
+		"objectFit": false,
+		"title": "Доблестная Броня Покровительства Путешественника из Другого Мира",
+		"description": "Кажется, сюда затесалась какая-то подозрительно похожая, но не родная броня из другого времени дополнения",
+		"descriptionTrim": "Альтернативный вариант прославленных доспехов, появившийся в иных измерениях Азерота. Обладает той же несокрушимой силой, что и оригинал, но несет в себе отпечаток другой истории.",
+		"addition": "Wrath of the Lich King",
+		"price": 300
+	},
+
+	{
 		"id": "ConquerorsAegisBattlegear",
 		"type": "paladin",
 		"path": "",
@@ -255,6 +268,19 @@
 		"title": "Броня Покровительства Завоевателя",
 		"description": "Второй комплект брони для паладина из рейда 80-го уровня Осада Ульдуара 25 игроков дополнения",
 		"descriptionTrim": "Бог Смерти будет повержен! Невероятная защита от безумия!",
+		"addition": "Wrath of the Lich King",
+		"price": 300
+	},
+
+	{
+		"id": "ConquerorsAegisBattlegearRecolor",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/paladin/Conquerors-Aegis-Battlegear-recolor.png",
+		"objectFit": false,
+		"title": "Броня Покровительства Завоевателя Путешественника из Другого Мира",
+		"description": "Кажется, сюда затесалась какая-то подозрительно похожая, но не родная броня из другого времени дополнения",
+		"descriptionTrim": "Альтернативный вариант прославленных доспехов, появившийся в иных измерениях Азерота. Обладает той же несокрушимой силой, что и оригинал, но несет в себе отпечаток другой истории.",
 		"addition": "Wrath of the Lich King",
 		"price": 300
 	},
