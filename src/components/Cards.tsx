@@ -112,6 +112,19 @@ const Cards = ({home, races, horde, alliance, raidsArmoursWarrior, raidsArmoursD
 
 
 
+	const counterCardItems = (dataJson: ICard[]) => dataJson.length
+	const counterCardItemsDone = (dataJson: ICard[]) => dataJson.map(card=>{
+		let arr = []
+
+		if (card.type) {
+			arr.push(card.type)
+		}
+
+		return arr
+
+	}).flat().length
+
+
 	const renderCardItems = (dataJson: ICard[]) => dataJson.map(card=> {
 		return (
 			<Card
@@ -295,93 +308,139 @@ const Cards = ({home, races, horde, alliance, raidsArmoursWarrior, raidsArmoursD
 					}
 
 					{ horde &&
-						<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-							{ renderCardItems(dataRacesHorde) }
-						</div>
+						<>
+							<h3 className="text-success text-center fw-bold display-4">Всего Рас: {counterCardItems(dataRacesHorde)}</h3>
+							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
+								{ renderCardItems(dataRacesHorde) }
+							</div>
+						</>
 					}
 
 					{ alliance &&
-						<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-							{ renderCardItems(dataRacesAlliance) }
-						</div>
+						<>
+							<h3 className="text-success text-center fw-bold display-4">Всего Рас: {counterCardItems(dataRacesAlliance)}</h3>
+							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
+								{ renderCardItems(dataRacesAlliance) }
+							</div>
+						</>
 					}
 
 					{ raidsArmoursWarrior &&
-						<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-							{ renderCardItems(dataWarriorRaidArmours) }
-						</div>
+						<>
+							<h3 className="text-success text-center fw-bold display-4">Всего Брони: {counterCardItems(dataWarriorRaidArmours)}</h3>
+							<h3 className="text-success text-center fw-bold display-4">Готово: {counterCardItemsDone(dataWarriorRaidArmours)}</h3>
+							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
+								{ renderCardItems(dataWarriorRaidArmours) }
+							</div>
+						</>
 					}
 
 					{ raidsArmoursDruid &&
-						<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-							{ renderCardItems(dataDruidRaidArmours) }
-						</div>
+						<>
+							<h3 className="text-success text-center fw-bold display-4">Всего Брони: {counterCardItems(dataDruidRaidArmours)}</h3>
+							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
+								{ renderCardItems(dataDruidRaidArmours) }
+							</div>
+						</>
 					}
 
 					{ raidsArmoursPriest &&
-						<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-							{ renderCardItems(dataPriestRaidArmours) }
-						</div>
+						<>
+							<h3 className="text-success text-center fw-bold display-4">Всего Брони: {counterCardItems(dataPriestRaidArmours)}</h3>
+							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
+								{ renderCardItems(dataPriestRaidArmours) }
+							</div>
+						</>
 					}
 
 					{ raidsArmoursMage &&
-						<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-							{ renderCardItems(dataMageRaidArmours) }
-						</div>
+						<>
+							<h3 className="text-success text-center fw-bold display-4">Всего Брони: {counterCardItems(dataMageRaidArmours)}</h3>
+							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
+								{ renderCardItems(dataMageRaidArmours) }
+							</div>
+						</>
 					}
 
 					{ raidsArmoursMonk &&
-						<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-							{ renderCardItems(dataMonkRaidArmours) }
-						</div>
+						<>
+							<h3 className="text-success text-center fw-bold display-4">Всего Брони: {counterCardItems(dataMonkRaidArmours)}</h3>
+							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
+								{ renderCardItems(dataMonkRaidArmours) }
+							</div>
+						</>
 					}
 
 					{ raidsArmoursHunter &&
-						<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-							{ renderCardItems(dataHunterRaidArmours) }
-						</div>
+						<>
+							<h3 className="text-success text-center fw-bold display-4">Всего Брони: {counterCardItems(dataHunterRaidArmours)}</h3>
+							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
+								{ renderCardItems(dataHunterRaidArmours) }
+							</div>
+						</>
 					}
 
 					{ raidsArmoursDemonHunter &&
-						<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-							{ renderCardItems(dataDemonHunterRaidArmours) }
-						</div>
+						<>
+							<h3 className="text-success text-center fw-bold display-4">Всего Брони: {counterCardItems(dataDemonHunterRaidArmours)}</h3>
+							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
+								{ renderCardItems(dataDemonHunterRaidArmours) }
+							</div>
+						</>
 					}
 
 					{ raidsArmoursPaladin &&
-						<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-							{ renderCardItems(dataPaladinRaidArmours) }
-						</div>
+						<>
+							<h3 className="text-success text-center fw-bold display-4">Всего Брони: {counterCardItems(dataPaladinRaidArmours)}</h3>
+							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
+								{ renderCardItems(dataPaladinRaidArmours) }
+							</div>
+						</>
 					}
 
 					{ raidsArmoursAwakener &&
-						<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-							{ renderCardItems(dataAwakenerRaidArmours) }
-						</div>
+						<>
+							<h3 className="text-success text-center fw-bold display-4">Всего Брони: {counterCardItems(dataAwakenerRaidArmours)}</h3>
+							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
+								{ renderCardItems(dataAwakenerRaidArmours) }
+							</div>
+						</>
 					}
 
 					{ raidsArmoursRogue &&
-						<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-							{ renderCardItems(dataRogueRaidArmours) }
-						</div>
+						<>
+							<h3 className="text-success text-center fw-bold display-4">Всего Брони: {counterCardItems(dataRogueRaidArmours)}</h3>
+							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
+								{ renderCardItems(dataRogueRaidArmours) }
+							</div>
+						</>
 					}
 
 					{ raidsArmoursDeathKnight &&
-						<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-							{ renderCardItems(dataDeathKnightRaidArmours) }
-						</div>
+						<>
+							<h3 className="text-success text-center fw-bold display-4">Всего Брони: {counterCardItems(dataDeathKnightRaidArmours)}</h3>
+							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
+								{ renderCardItems(dataDeathKnightRaidArmours) }
+							</div>
+						</>
 					}
 
 					{ raidsArmoursWarlock &&
-						<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-							{ renderCardItems(dataWarlockRaidArmours) }
-						</div>
+						<>
+							<h3 className="text-success text-center fw-bold display-4">Всего Брони: {counterCardItems(dataWarlockRaidArmours)}</h3>
+							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
+								{ renderCardItems(dataWarlockRaidArmours) }
+							</div>
+						</>
 					}
 
 					{ raidsArmoursShaman &&
-						<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-							{ renderCardItems(dataShamanRaidArmours) }
-						</div>
+						<>
+							<h3 className="text-success text-center fw-bold display-4">Всего Брони: {counterCardItems(dataShamanRaidArmours)}</h3>
+							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
+								{ renderCardItems(dataShamanRaidArmours) }
+							</div>
+						</>
 					}
 
 					{ twoHandedWeapons &&
@@ -401,11 +460,12 @@ const Cards = ({home, races, horde, alliance, raidsArmoursWarrior, raidsArmoursD
 					}
 
 					{ legendaryWeapons &&
-						<div className="tab-pane fade show active" id="pills-raids-armour">
-							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
+						<>
+							<h3 className="text-success text-center fw-bold display-4">Всего Легендарного Оружия: {counterCardItems(dataLegendaryWeapons)}</h3>
+							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
 								{ renderCardItems(dataLegendaryWeapons) }
 							</div>
-						</div>
+						</>
 					}
 
 					{ legendaryWeaponDetails &&
@@ -521,11 +581,12 @@ const Cards = ({home, races, horde, alliance, raidsArmoursWarrior, raidsArmoursD
 					}
 
 					{ armsWarrior &&
-						<div className="tab-pane fade show active" id="pills-raids-armour">
-							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
+						<>
+							<h3 className="text-success text-center fw-bold display-4">Всего Артефактов: {counterCardItems(dataArmsWarriorArtifact)}</h3>
+							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
 								{ renderCardItems(dataArmsWarriorArtifact) }
 							</div>
-						</div>
+						</>
 					}
 
 					{ furyWarrior &&
@@ -545,93 +606,130 @@ const Cards = ({home, races, horde, alliance, raidsArmoursWarrior, raidsArmoursD
 					}
 
 					{ cloaks &&
-						<div className="tab-pane fade show active" id="pills-raids-armour">
-							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
+						<>
+							<h3 className="text-success text-center fw-bold display-4">Всего Плащей: {counterCardItems(dataCloaks)}</h3>
+							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
 								{ renderCardItems(dataCloaks) }
 							</div>
-						</div>
+						</>
 					}
 
 					{ waterMounts &&
-						<div className="tab-pane fade show active" id="pills-raids-armour">
-							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
+						<>
+							<h3 className="text-success text-center fw-bold display-4">Всего Водных Маунтов: {counterCardItems(dataWaterMounts)}</h3>
+							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
 								{ renderCardItems(dataWaterMounts) }
 							</div>
-						</div>
+						</>
 					}
 
 					{ flyMounts &&
-						<div className="tab-pane fade show active" id="pills-raids-armour">
-							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
+						<>
+							<h3 className="text-success text-center fw-bold display-4">Всего Летающих Маунтов: {counterCardItems(dataFlyMounts)}</h3>
+							<h3 className="text-success text-center fw-bold display-4">Готово: {counterCardItemsDone(dataFlyMounts)}</h3>
+							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
 								{ renderCardItems(dataFlyMounts) }
 							</div>
-						</div>
+						</>
 					}
 
 					{ classic &&
-						<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-							{ renderCardItems(dataClassicRaids) }
-						</div>
+						<>
+							<h3 className="text-success text-center fw-bold display-4">Всего Рейдов: {counterCardItems(dataClassicRaids)}</h3>
+							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
+								{ renderCardItems(dataClassicRaids) }
+							</div>
+						</>
 					}
 
 					{ burningCrusade &&
-						<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-							{ renderCardItems(dataBurningCrusadeRaids) }
-						</div>
+						<>
+							<h3 className="text-success text-center fw-bold display-4">Всего Рейдов: {counterCardItems(dataBurningCrusadeRaids)}</h3>
+							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
+								{ renderCardItems(dataBurningCrusadeRaids) }
+							</div>
+						</>
 					}
 
 					{ wrathOfTheLichKing &&
-						<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-							{ renderCardItems(dataWrathOfTheLichKingRaids) }
-						</div>
+						<>
+							<h3 className="text-success text-center fw-bold display-4">Всего Рейдов: {counterCardItems(dataWrathOfTheLichKingRaids)}</h3>
+							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
+								{ renderCardItems(dataWrathOfTheLichKingRaids) }
+							</div>
+						</>
 					}
 
 					{ cataclysm &&
-						<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-							{ renderCardItems(dataCataclysmRaids) }
-						</div>
+						<>
+							<h3 className="text-success text-center fw-bold display-4">Всего Рейдов: {counterCardItems(dataCataclysmRaids)}</h3>
+							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
+								{ renderCardItems(dataCataclysmRaids) }
+							</div>
+						</>
 					}
 
 					{ mistsOfPandaria &&
-						<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-							{ renderCardItems(dataMistsOfPandariaRaids) }
-						</div>
+						<>
+							<h3 className="text-success text-center fw-bold display-4">Всего Рейдов: {counterCardItems(dataMistsOfPandariaRaids)}</h3>
+							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
+								{ renderCardItems(dataMistsOfPandariaRaids) }
+							</div>
+						</>
 					}
 
 					{ warlordsOfDraenor &&
-						<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-							{ renderCardItems(dataWarlordsOfDraenorRaids) }
-						</div>
+						<>
+							<h3 className="text-success text-center fw-bold display-4">Всего Рейдов: {counterCardItems(dataWarlordsOfDraenorRaids)}</h3>
+							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
+								{ renderCardItems(dataWarlordsOfDraenorRaids) }
+							</div>
+						</>
 					}
 
 					{ legion &&
-						<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-							{ renderCardItems(dataLegionRaids) }
-						</div>
+						<>
+							<h3 className="text-success text-center fw-bold display-4">Всего Рейдов: {counterCardItems(dataLegionRaids)}</h3>
+							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
+								{ renderCardItems(dataLegionRaids) }
+							</div>
+						</>
 					}
 
 					{ battleForAzeroth &&
-						<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-							{ renderCardItems(dataBattleForAzerothRaids) }
-						</div>
+						<>
+							<h3 className="text-success text-center fw-bold display-4">Всего Рейдов: {counterCardItems(dataBattleForAzerothRaids)}</h3>
+							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
+								{ renderCardItems(dataBattleForAzerothRaids) }
+							</div>
+						</>
 					}
 
 					{ shadowlands &&
-						<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-							{ renderCardItems(dataShadowlandsRaids) }
-						</div>
+						<>
+							<h3 className="text-success text-center fw-bold display-4">Всего Рейдов: {counterCardItems(dataShadowlandsRaids)}</h3>
+							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
+								{ renderCardItems(dataShadowlandsRaids) }
+							</div>
+						</>
 					}
 
 					{ dragonflight &&
-						<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-							{ renderCardItems(dataDragonflightRaids) }
-						</div>
+						<>
+							<h3 className="text-success text-center fw-bold display-4">Всего Рейдов: {counterCardItems(dataDragonflightRaids)}</h3>
+							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
+								{ renderCardItems(dataDragonflightRaids) }
+							</div>
+						</>
 					}
 
 					{ warWithin &&
-						<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-							{ renderCardItems(dataWarWithinRaids) }
-						</div>
+						<>
+							<h3 className="text-success text-center fw-bold display-4">Всего Рейдов: {counterCardItems(dataWarWithinRaids)}</h3>
+							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
+								{ renderCardItems(dataWarWithinRaids) }
+							</div>
+						</>
 					}
 
 					{ midnight &&
@@ -647,9 +745,12 @@ const Cards = ({home, races, horde, alliance, raidsArmoursWarrior, raidsArmoursD
 					}
 
 					{ wowCollectionEditions &&
-						<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-							{ renderCardItems(dataWowCollectionEditions) }
-						</div>
+						<>
+							<h3 className="text-success text-center fw-bold display-4">Всего Коллекционных Изданий: {counterCardItems(dataWowCollectionEditions)}</h3>
+							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
+								{ renderCardItems(dataWowCollectionEditions) }
+							</div>
+						</>
 					}
 				</div>
 			</div>
