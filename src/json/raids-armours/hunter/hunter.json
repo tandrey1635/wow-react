@@ -1,5 +1,18 @@
 [
 	{
+		"id": "InfernoForgedMail",
+		"type": "hunter",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/mail/hunter/Inferno-Forged-Mail-hunter.png",
+		"objectFit": false,
+		"title": "Инфернальная Кованая Кольчуга",
+		"description": "Броня выкованная в сердце вулкана на древней наковальне стихий из чешуи поверженных исполинов и кожи гончих преисподней из Огненных Недр дополнения",
+		"descriptionTrim": "Первая несокрушимая награда за покорение пекла. Повелитель Огня я иду за тобой! Потрясающая защита от магии огня!",
+		"addition": "Classic",
+		"price": 100
+	},
+
+	{
 		"id": "GiantstalkerArmor",
 		"type": "hunter",
 		"path": "",
@@ -8,6 +21,19 @@
 		"title": "Доспехи Истребителя Великанов",
 		"description": "Первый комплект брони для охотника из рейда 60-го уровня Огненные Недра дополнения",
 		"descriptionTrim": "Повелитель Огня будет повержен! Очищение огнем пройдено!",
+		"addition": "Classic",
+		"price": 100
+	},
+
+	{
+		"id": "GiantstalkerArmorRecolor",
+		"type": "hunter",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/hunter/GiantstalkerArmor-recolor.png",
+		"objectFit": false,
+		"title": "Доспехи Истребителя Великанов Путешественника из Другого Мира",
+		"description": "Кажется, сюда затесалась какая-то подозрительно похожая, но не родная броня из другого времени дополнения",
+		"descriptionTrim": "Альтернативный вариант прославленных доспехов, появившийся в иных измерениях Азерота. Обладает той же несокрушимой силой, что и оригинал, но несет в себе отпечаток другой истории.",
 		"addition": "Classic",
 		"price": 100
 	},
@@ -130,6 +156,19 @@
 	},
 
 	{
+		"id": "RiftStalkerArmorRecolor",
+		"type": "hunter",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/hunter/Rift-Stalker-Armor-recolor.png",
+		"objectFit": false,
+		"title": "Доспехи Следопыта Ущелий Путешественника из Другого Мира",
+		"description": "Кажется, сюда затесалась какая-то подозрительно похожая, но не родная броня из другого времени дополнения",
+		"descriptionTrim": "Альтернативный вариант прославленных доспехов, появившийся в иных измерениях Азерота. Обладает той же несокрушимой силой, что и оригинал, но несет в себе отпечаток другой истории.",
+		"addition": "The Burning Crusade",
+		"price": 200
+	},
+
+	{
 		"id": "GronnstalkersArmor",
 		"type": "hunter",
 		"path": "",
@@ -151,6 +190,19 @@
 		"title": "Доспехи Охотника на Гроннов Солнечного Колодца",
 		"description": "Четвертый комплект брони для охотника из рейда 70-го уровня Плато Солнечного Колодца дополнения",
 		"descriptionTrim": "Искуситель будет повержен! Оберните силу Солнечного Колодца против него самого!",
+		"addition": "The Burning Crusade",
+		"price": 200
+	},
+
+	{
+		"id": "GronnstalkersSunwellBattlegearRecolor",
+		"type": "hunter",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/hunter/Gronnstalkers-Sunwell-Battlegear-recolor.png",
+		"objectFit": false,
+		"title": "Доспехи Охотника на Гроннов Солнечного Колодца из Другого Мира",
+		"description": "Кажется, сюда затесалась какая-то подозрительно похожая, но не родная броня из другого времени дополнения",
+		"descriptionTrim": "Альтернативный вариант прославленных доспехов, появившийся в иных измерениях Азерота. Обладает той же несокрушимой силой, что и оригинал, но несет в себе отпечаток другой истории.",
 		"addition": "The Burning Crusade",
 		"price": 200
 	}
