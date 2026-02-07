@@ -139,7 +139,6 @@ const Cards = ({home, races, horde, alliance, raidsArmoursWarrior, raidsArmoursD
 				title={card.title}
 				price={card.price}
 				gold={card.gold === true}
-				raids={card.raids === true}
 			/>
 		)
 	})

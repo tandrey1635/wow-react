@@ -1,4 +1,4 @@
-type addition = "Classic" | "The Burning Crusade" | "Wrath of the Lich King" | "Cataclysm" | "MistsOfPandaria" | "WarlordsOfDraenor" | "Legion" | "BattleForAzeroth" | "Shadowlands" | "Dragonflight" | "WarWithin" | "Midnight" | "LastTitan"
+type addition = "Classic" | "The Burning Crusade" | "Wrath of the Lich King" | "Cataclysm" | "Mists of Pandaria" | "Warlords of Draenor" | "Legion" | "Battle for Azeroth" | "Shadowlands" | "Dragonflight" | "The War Within" | "Midnight" | "The Last Titan"
 
 
 interface ICard {
@@ -13,7 +13,6 @@ interface ICard {
 	addition?: addition,
 	price: number,
 	gold?: boolean,
-	raids?: boolean,
 }
 
 
