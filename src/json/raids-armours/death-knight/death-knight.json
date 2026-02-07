@@ -65,6 +65,58 @@
 	},
 
 	{
+		"id": "SaroniteWarBattleplateBlue",
+		"type": "death-knight",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/death-knight/Saronite-War-Battleplate-blue.png",
+		"objectFit": false,
+		"title": "Саронитовый Боевой Доспех Павших Чародеев",
+		"description": "Комплект брони для рыцаря смерти из рейда 80-го уровня Наксрамас 10 игроков дополнения",
+		"descriptionTrim": "Синий саронит, заряженный магией павших чародеев, этот доспех поглощает любую магию вокруг и обращает ее против врагов. Каждый шаг создает антимагическое поле, а выпущенные врагами чары возвращаются к ним с удвоенной разрушительной силой.",
+		"addition": "Wrath of the Lich King",
+		"price": 300
+	},
+
+	{
+		"id": "SaroniteWarBattleplateDarkBLue",
+		"type": "death-knight",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/death-knight/Saronite-War-Battleplate-dark-blue.png",
+		"objectFit": false,
+		"title": "Саронитовый Боевой Доспех Темного Некроманта",
+		"description": "Комплект брони для рыцаря смерти из рейда 80-го уровня Наксрамас 10 игроков дополнения",
+		"descriptionTrim": "Темный саронит, пропитанный магией Кел'Тузада, этот доспех хранит шепот мертвых. Каждый шаг сводит с ума живых, а магия тьмы иссушает жизненную силу врагов как прикосновение самого Верховного Лича.",
+		"addition": "Wrath of the Lich King",
+		"price": 300
+	},
+
+	{
+		"id": "SaroniteWarBattleplateLightBlue",
+		"type": "death-knight",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/death-knight/Saronite-War-Battleplate-light-blue.png",
+		"objectFit": false,
+		"title": "Саронитовый Боевой Доспех Ледяного Змея",
+		"description": "Комплект брони для рыцаря смерти из рейда 80-го уровня Наксрамас 25 игроков дополнения",
+		"descriptionTrim": "Закаленный в ледяном пламени Сапфирона, этот доспех сохраняет холод вечной зимы. Каждый шаг оставляет ледяные кристаллы на земле, а морозное сияние ослепляет врагов, как дыхание самого дракона.",
+		"addition": "Wrath of the Lich King",
+		"price": 300
+	},
+
+	{
+		"id": "SaroniteWarBattleplateMaroon",
+		"type": "death-knight",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/death-knight/Saronite-War-Battleplate-maroon.png",
+		"objectFit": false,
+		"title": "Саронитовый Боевой Доспех Кровавого Рыцаря",
+		"description": "Комплект брони для рыцаря смерти из рейда 80-го уровня Наксрамас 25 игроков дополнения",
+		"descriptionTrim": "Багровый саронит из крыла военной мощи, впитавший кровь поверженных врагов, этот доспех жаждет новой битвы. Каждый шаг сотрясает землю, а вид брони сводит с ума даже самых стойких воинов.",
+		"addition": "Wrath of the Lich King",
+		"price": 300
+	},
+
+	{
 		"id": "ScourgebornePlate",
 		"type": "death-knight",
 		"path": "",
@@ -72,7 +124,7 @@
 		"objectFit": false,
 		"title": "Героический Кованый Плетью Доспех",
 		"description": "Первый комплект брони для рыцаря смерти из рейда 80-го уровня Наксрамас 10 игроков дополнения",
-		"descriptionTrim": "Верховный лич вернулся! И снова будет повержен! Некромантия вам не страшна!",
+		"descriptionTrim": "Верховный Лич вернулся! И снова будет повержен! Некромантия вам не страшна!",
 		"addition": "Wrath of the Lich King",
 		"price": 300
 	},
@@ -85,7 +137,7 @@
 		"objectFit": false,
 		"title": "Доблестный Кованый Плетью Доспех",
 		"description": "Первый комплект брони для рыцаря смерти из рейда 80-го уровня Наксрамас 25 игроков дополнения",
-		"descriptionTrim": "Верховный лич вернулся! И снова будет повержен! Некромантия вам не страшна!",
+		"descriptionTrim": "Верховный Лич вернулся! И снова будет повержен! Некромантия вам не страшна!",
 		"addition": "Wrath of the Lich King",
 		"price": 300
 	},
@@ -104,6 +156,19 @@
 	},
 
 	{
+		"id": "DarkrunedBattlegearRecolor",
+		"type": "death-knight",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/death-knight/Darkruned-Battlegear-recolor.png",
+		"objectFit": false,
+		"title": "Доблестная Темноруническая Броня Путешественника из Другого Мира",
+		"description": "Кажется, сюда затесалась какая-то подозрительно похожая, но не родная броня из другого времени дополнения",
+		"descriptionTrim": "Альтернативный вариант прославленных доспехов, появившийся в иных измерениях Азерота. Обладает той же несокрушимой силой, что и оригинал, но несет в себе отпечаток другой истории.",
+		"addition": "Wrath of the Lich King",
+		"price": 300
+	},
+
+	{
 		"id": "ConquerorsDarkrunedBattlegear",
 		"type": "death-knight",
 		"path": "",
@@ -112,6 +177,19 @@
 		"title": "Темноруническая Броня Завоевателя",
 		"description": "Второй комплект брони для рыцаря смерти из рейда 80-го уровня Осада Ульдуара 25 игроков дополнения",
 		"descriptionTrim": "Бог Смерти будет повержен! Невероятная защита от безумия!",
+		"addition": "Wrath of the Lich King",
+		"price": 300
+	},
+
+	{
+		"id": "ConquerorsDarkrunedBattlegearRecolor",
+		"type": "death-knight",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/death-knight/Conquerors-Darkruned-Battlegear-recolor.png",
+		"objectFit": false,
+		"title": "Темноруническая Броня Завоевателя Путешественника из Другого Мира",
+		"description": "Кажется, сюда затесалась какая-то подозрительно похожая, но не родная броня из другого времени дополнения",
+		"descriptionTrim": "Альтернативный вариант прославленных доспехов, появившийся в иных измерениях Азерота. Обладает той же несокрушимой силой, что и оригинал, но несет в себе отпечаток другой истории.",
 		"addition": "Wrath of the Lich King",
 		"price": 300
 	},

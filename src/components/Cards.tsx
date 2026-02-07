@@ -608,6 +608,7 @@ const Cards = ({home, races, horde, alliance, raidsArmoursWarrior, raidsArmoursD
 					{ cloaks &&
 						<>
 							<h3 className="text-success text-center fw-bold display-4">Всего Плащей: {counterCardItems(dataCloaks)}</h3>
+							<h3 className="text-success text-center fw-bold display-4">Готово: {counterCardItemsDone(dataCloaks)}</h3>
 							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
 								{ renderCardItems(dataCloaks) }
 							</div>
