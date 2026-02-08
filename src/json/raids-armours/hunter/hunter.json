@@ -29,7 +29,7 @@
 		"id": "GiantstalkerArmorRecolor",
 		"type": "hunter",
 		"path": "",
-		"img": "/src/assets/img/raids-armours/bg/hunter/GiantstalkerArmor-recolor.png",
+		"img": "/src/assets/img/raids-armours/bg/hunter/Giantstalker-Armor-recolor.png",
 		"objectFit": false,
 		"title": "Доспехи Истребителя Великанов Путешественника из Другого Мира",
 		"description": "Кажется, сюда затесалась какая-то подозрительно похожая, но не родная броня из другого времени дополнения",
@@ -47,6 +47,32 @@
 		"title": "Доспехи Охотника на Драконов",
 		"description": "Второй комплект брони для охотника из рейда 60-го уровня Логово Крыла Тьмы дополнения",
 		"descriptionTrim": "Лорд Черной Горы будет повержен! Теперь ваше оружие незнает преград!",
+		"addition": "Classic",
+		"price": 100
+	},
+
+	{
+		"id": "DragonstalkerArmorGreen",
+		"type": "hunter",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/hunter/Dragonstalker-Armor-green.png",
+		"objectFit": false,
+		"title": "Доспехи Охотника на Драконов Путешественника из Другого Мира",
+		"description": "Кажется, сюда затесалась какая-то подозрительно похожая, но не родная броня из другого времени дополнения",
+		"descriptionTrim": "Альтернативный вариант прославленных доспехов, появившийся в иных измерениях Азерота. Обладает той же несокрушимой силой, что и оригинал, но несет в себе отпечаток другой истории.",
+		"addition": "Classic",
+		"price": 100
+	},
+
+	{
+		"id": "DragonstalkerArmorYellow",
+		"type": "hunter",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/hunter/Dragonstalker-Armor-yellow.png",
+		"objectFit": false,
+		"title": "Доспехи Охотника на Драконов Путешественника из Другого Мира",
+		"description": "Кажется, сюда затесалась какая-то подозрительно похожая, но не родная броня из другого времени дополнения",
+		"descriptionTrim": "Альтернативный вариант прославленных доспехов, появившийся в иных измерениях Азерота. Обладает той же несокрушимой силой, что и оригинал, но несет в себе отпечаток другой истории.",
 		"addition": "Classic",
 		"price": 100
 	},

@@ -267,7 +267,7 @@ const Nav = ({home, warrior, druid, priest, mage, monk, hunter, demonHunter, pal
 
 						{/* Табы Рейды */}
 						<li className="nav-item nav-item-raids" role="presentation">
-							<a className="nav-link nav-link-tabs nav-link-tabs nav-link-raids" id="pills-raids-tab" data-toggle="pill" href="#pills-raids" role="tab" aria-controls="pills-raids" aria-selected="false">Рейды</a>
+							<a className="nav-link nav-link-tabs nav-link-tabs nav-link-raids" id="pills-raids-tab" data-toggle="pill" href="#pills-raids" role="tab" aria-controls="pills-raids" aria-selected="false">Подземелья и Рейды</a>
 							<ul className="nav nav-pills services__nav nav-raids">
 								<li className="nav-item">
 									<a className="nav-link services__link nav-link-raids" href="html/raids/classNameic.html">classNameic</a>

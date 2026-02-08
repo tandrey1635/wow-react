@@ -71,8 +71,44 @@ const Card = ({type, path, img, objectFit, title, description, descriptionTrim, 
 			type == "fly-mounts"
 				? "card-mounts-fly"
 				:
-			type == "dungeons"
-				? "card-mythic"
+			type == "dungeons-raids-classic"
+				? "card-dungeons-raids card-dungeons-raids-classic"
+				:
+			type == "dungeons-raids-burning-crusade"
+				? "card-dungeons-raids card-dungeons-raids-burning-crusade"
+				:
+			type == "dungeons-raids-wrath-of-the-lich-king"
+				? "card-dungeons-raids card-dungeons-raids-wrath-of-the-lich-king"
+				:
+			type == "dungeons-raids-cataclysm"
+				? "card-dungeons-raids card-dungeons-raids-cataclysm"
+				:
+			type == "dungeons-raids-mists-of-pandaria"
+				? "card-dungeons-raids card-dungeons-raids-mists-of-pandaria"
+				:
+			type == "dungeons-raids-warlords-of-draenor"
+				? "card-dungeons-raids card-dungeons-raids-warlords-of-draenor"
+				:
+			type == "dungeons-raids-legion"
+				? "card-dungeons-raids card-dungeons-raids-legion"
+				:
+			type == "dungeons-raids-battle-for-azeroth"
+				? "card-dungeons-raids card-dungeons-raids-battle-for-azeroth"
+				:
+			type == "dungeons-raids-shadowlands"
+				? "card-dungeons-raids card-dungeons-raids-shadowlands"
+				:
+			type == "dungeons-raids-dragonflight"
+				? "card-dungeons-raids card-dungeons-raids-dragonflight"
+				:
+			type == "dungeons-raids-war-within"
+				? "card-dungeons-raids card-dungeons-raids-war-within"
+				:
+			type == "dungeons-raids-midnight"
+				? "card-dungeons-raids card-dungeons-raids-midnight"
+				:
+			type == "dungeons-raids-last-titan"
+				? "card-dungeons-raids card-dungeons-raids-last-titan"
 				:
 			type == "achievements"
 				? "card-achievements"

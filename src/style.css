@@ -1126,82 +1126,134 @@ footer {
 .card-mythic:hover {
   box-shadow: 0 0 2px 5px #673ab7;
 }
-.card-raids-classic {
+.card-dungeons-raids-classic {
+  color: #a75926;
   background: linear-gradient(325deg, #854c27, transparent 30%, transparent 35%, #854c27, transparent);
 }
-.card-raids-classic:hover {
+.card-dungeons-raids-classic [alt] {
+  color: #a75926;
+}
+.card-dungeons-raids-classic:hover {
   box-shadow: 0 0 2px 5px #854c27;
 }
-.card-raids-burning-crusade {
+.card-dungeons-raids-burning-crusade {
+  color: #7bed09;
   background: linear-gradient(325deg, #158d32, transparent 30%, transparent 35%, #158d32, transparent);
 }
-.card-raids-burning-crusade:hover {
+.card-dungeons-raids-burning-crusade [alt] {
+  color: #7bed09;
+}
+.card-dungeons-raids-burning-crusade:hover {
   box-shadow: 0 0 2px 5px #158d32;
 }
-.card-raids-wrath-of-the-lich-king {
+.card-dungeons-raids-wrath-of-the-lich-king {
+  color: #00bfff;
   background: linear-gradient(325deg, #03a9f4, transparent 30%, transparent 35%, #03a9f4, transparent);
 }
-.card-raids-wrath-of-the-lich-king:hover {
+.card-dungeons-raids-wrath-of-the-lich-king [alt] {
+  color: #00bfff;
+}
+.card-dungeons-raids-wrath-of-the-lich-king:hover {
   box-shadow: 0 0 2px 5px #03a9f4;
 }
-.card-raids-cataclysm {
+.card-dungeons-raids-cataclysm {
+  color: #ff4d00;
   background: linear-gradient(325deg, #ef5c18, transparent 30%, transparent 35%, #ef5c18, transparent);
 }
-.card-raids-cataclysm:hover {
+.card-dungeons-raids-cataclysm [alt] {
+  color: #ff4d00;
+}
+.card-dungeons-raids-cataclysm:hover {
   box-shadow: 0 0 2px 5px #ef5c18;
 }
-.card-raids-mists-of-pandaria {
+.card-dungeons-raids-mists-of-pandaria {
+  color: #00ff7f;
   background: linear-gradient(325deg, #19dd8c, transparent 30%, transparent 35%, #19dd8c, transparent);
 }
-.card-raids-mists-of-pandaria:hover {
+.card-dungeons-raids-mists-of-pandaria [alt] {
+  color: #00ff7f;
+}
+.card-dungeons-raids-mists-of-pandaria:hover {
   box-shadow: 0 0 2px 5px #19dd8c;
 }
-.card-raids-warlords-of-draenor {
+.card-dungeons-raids-warlords-of-draenor {
+  color: #a75926;
   background: linear-gradient(325deg, #854c27, transparent 30%, transparent 35%, #854c27, transparent);
 }
-.card-raids-warlords-of-draenor:hover {
+.card-dungeons-raids-warlords-of-draenor [alt] {
+  color: #a75926;
+}
+.card-dungeons-raids-warlords-of-draenor:hover {
   box-shadow: 0 0 2px 5px #854c27;
 }
-.card-raids-legion {
+.card-dungeons-raids-legion {
+  color: #7bed09;
   background: linear-gradient(325deg, #158d32, transparent 30%, transparent 35%, #158d32, transparent);
 }
-.card-raids-legion:hover {
+.card-dungeons-raids-legion [alt] {
+  color: #7bed09;
+}
+.card-dungeons-raids-legion:hover {
   box-shadow: 0 0 2px 5px #158d32;
 }
-.card-raids-battle-for-azeroth {
+.card-dungeons-raids-battle-for-azeroth {
+  color: #8b00ff;
   background: linear-gradient(325deg, #7c10e1, transparent 30%, transparent 35%, #7c10e1, transparent);
 }
-.card-raids-battle-for-azeroth:hover {
+.card-dungeons-raids-battle-for-azeroth [alt] {
+  color: #8b00ff;
+}
+.card-dungeons-raids-battle-for-azeroth:hover {
   box-shadow: 0 0 2px 5px #7c10e1;
 }
-.card-raids-shadowlands {
+.card-dungeons-raids-shadowlands {
+  color: #92c5d1;
   background: linear-gradient(325deg, #759ca5, transparent 30%, transparent 35%, #759ca5, transparent);
 }
-.card-raids-shadowlands:hover {
+.card-dungeons-raids-shadowlands [alt] {
+  color: #92c5d1;
+}
+.card-dungeons-raids-shadowlands:hover {
   box-shadow: 0 0 2px 5px #759ca5;
 }
-.card-raids-dragonflight {
+.card-dungeons-raids-dragonflight {
+  color: #31dfcf;
   background: linear-gradient(325deg, #1fbbad, transparent 30%, transparent 35%, #1fbbad, transparent);
 }
-.card-raids-dragonflight:hover {
+.card-dungeons-raids-dragonflight [alt] {
+  color: #31dfcf;
+}
+.card-dungeons-raids-dragonflight:hover {
   box-shadow: 0 0 2px 5px #1fbbad;
 }
-.card-raids-war-within {
+.card-dungeons-raids-war-within {
+  color: #fa6604;
   background: linear-gradient(325deg, #d35400, transparent 30%, transparent 35%, #d35400, transparent);
 }
-.card-raids-war-within:hover {
+.card-dungeons-raids-war-within [alt] {
+  color: #fa6604;
+}
+.card-dungeons-raids-war-within:hover {
   box-shadow: 0 0 2px 5px #d35400;
 }
-.card-raids-midnight {
+.card-dungeons-raids-midnight {
+  color: #1205c6;
   background: linear-gradient(325deg, #3126c1, transparent 30%, transparent 35%, #3126c1, transparent);
 }
-.card-raids-midnight:hover {
+.card-dungeons-raids-midnight [alt] {
+  color: #1205c6;
+}
+.card-dungeons-raids-midnight:hover {
   box-shadow: 0 0 2px 5px #3126c1;
 }
-.card-raids-last-titan {
+.card-dungeons-raids-last-titan {
+  color: #fcd075;
   background: linear-gradient(325deg, #dfae56, transparent 30%, transparent 35%, #dfae56, transparent);
 }
-.card-raids-last-titan:hover {
+.card-dungeons-raids-last-titan [alt] {
+  color: #fcd075;
+}
+.card-dungeons-raids-last-titan:hover {
   box-shadow: 0 0 2px 5px #dfae56;
 }
 .card-lvl-up {

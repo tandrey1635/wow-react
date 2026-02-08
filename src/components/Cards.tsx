@@ -70,13 +70,20 @@ import dataMounts from '../json/mounts/mounts.json';
 import dataProfessions from '../json/professions/professions.json';
 import dataPvp from '../json/pvp/pvp.json';
 import dataDungeons from '../json/dungeons/dungeons.json';
-import dataRaids from '../json/raids/raids.json';
+import dataDungeonsRaids from '../json/dungeons-raids/additions.json';
 
 
-import dataBattleForAzerothRaids from '../json/raids/battle-for-azeroth/raids.json';
-import dataBurningCrusadeRaids from '../json/raids/burning-crusade/raids.json';
-import dataCataclysmRaids from '../json/raids/cataclysm/raids.json';
-import dataClassicRaids from '../json/raids/classic/raids.json';
+import dataCategory from '../json/dungeons-raids/category/category.json';
+
+import dataClassicRaids from '../json/dungeons-raids/category/raids/classic/raids.json';
+import dataBurningCrusadeRaids from '../json/dungeons-raids/category/raids/burning-crusade/raids.json';
+import dataWrathOfTheLichKingRaids from '../json/dungeons-raids/category/raids/wrath-of-the-lich-king/raids.json';
+import dataCataclysmRaids from '../json/dungeons-raids/category/raids/cataclysm/raids.json';
+
+
+
+
+/* import dataBattleForAzerothRaids from '../json/raids/battle-for-azeroth/raids.json';
 import dataDragonflightRaids from '../json/raids/dragonflight/raids.json';
 import dataLastTitanRaids from '../json/raids/last-titan/raids.json';
 import dataLegionRaids from '../json/raids/legion/raids.json';
@@ -85,7 +92,7 @@ import dataMistsOfPandariaRaids from '../json/raids/mists-of-pandaria/raids.json
 import dataShadowlandsRaids from '../json/raids/shadowlands/raids.json';
 import dataWarWithinRaids from '../json/raids/war-within/raids.json';
 import dataWarlordsOfDraenorRaids from '../json/raids/warlords-of-draenor/raids.json';
-import dataWrathOfTheLichKingRaids from '../json/raids/wrath-of-the-lich-king/raids.json';
+ */
 
 
 import dataAchievements from '../json/achievements/achievements.json';
@@ -97,7 +104,7 @@ import dataWowCollectionEditions from '../json/achievements/wow-collection-editi
 import type { ICard, IWeaponDetails }  from "../types/card-types";
 
 
-const Cards = ({home, races, horde, alliance, raidsArmoursWarrior, raidsArmoursDruid, raidsArmoursPriest, raidsArmoursMage, raidsArmoursMonk, raidsArmoursHunter, raidsArmoursDemonHunter, raidsArmoursPaladin, raidsArmoursAwakener, raidsArmoursRogue, raidsArmoursDeathKnight, raidsArmoursWarlock, raidsArmoursShaman, twoHandedWeapons, twoHandedAxes, legendaryWeapons, legendaryWeaponDetails, classes, warriorArtifacts, druidArtifacts, priestArtifacts, mageArtifacts, monkArtifacts, hunterArtifacts, demonHunterArtifacts, paladinArtifacts, rogueArtifacts, deathKnightArtifacts, warlockArtifacts, shamanArtifacts, armsWarrior, furyWarrior, protectionWarrior, cloaks, waterMounts, flyMounts, classic, burningCrusade, wrathOfTheLichKing, cataclysm, mistsOfPandaria, warlordsOfDraenor, legion, battleForAzeroth, shadowlands, dragonflight, warWithin, midnight, lastTitan, wowCollectionEditions}) => {
+const Cards = ({home, races, horde, alliance, raidsArmoursWarrior, raidsArmoursDruid, raidsArmoursPriest, raidsArmoursMage, raidsArmoursMonk, raidsArmoursHunter, raidsArmoursDemonHunter, raidsArmoursPaladin, raidsArmoursAwakener, raidsArmoursRogue, raidsArmoursDeathKnight, raidsArmoursWarlock, raidsArmoursShaman, twoHandedWeapons, twoHandedAxes, legendaryWeapons, legendaryWeaponDetails, classes, warriorArtifacts, druidArtifacts, priestArtifacts, mageArtifacts, monkArtifacts, hunterArtifacts, demonHunterArtifacts, paladinArtifacts, rogueArtifacts, deathKnightArtifacts, warlockArtifacts, shamanArtifacts, armsWarrior, furyWarrior, protectionWarrior, cloaks, waterMounts, flyMounts, classic, burningCrusade, wrathOfTheLichKing, cataclysm, mistsOfPandaria, warlordsOfDraenor, legion, battleForAzeroth, shadowlands, dragonflight, warWithin, midnight, lastTitan, category, wowCollectionEditions}) => {
 
 	const basePathImg = '/src/assets/img'
 
@@ -234,7 +241,7 @@ const Cards = ({home, races, horde, alliance, raidsArmoursWarrior, raidsArmoursD
 							{/* Таб контент рейды */}
 							<div className="tab-pane fade fade show active mt-5" id="pills-raids">
 								<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-									{ renderCardItems(dataRaids) }
+									{ renderCardItems(dataDungeonsRaids) }
 								</div>
 							</div>
 
@@ -741,6 +748,12 @@ const Cards = ({home, races, horde, alliance, raidsArmoursWarrior, raidsArmoursD
 					{ lastTitan &&
 						<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
 							{ renderCardItems(dataLastTitanRaids) }
+						</div>
+					}
+
+					{ category &&
+						<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
+							{ renderCardItems(dataCategory) }
 						</div>
 					}
 
