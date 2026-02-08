@@ -300,7 +300,7 @@ createRoot(document.getElementById("root")!).render(
 
 
 
-				<Route path="dungeons-raids/category" element={<Category />} />
+				{/* <Route path="dungeons-raids/category" element={<Category />} /> */}
 
 
 				<Route path="dungeons-raids/classic" element={<Classic />} />

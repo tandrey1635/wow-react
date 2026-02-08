@@ -73,26 +73,23 @@ import dataDungeons from '../json/dungeons/dungeons.json';
 import dataDungeonsRaids from '../json/dungeons-raids/additions.json';
 
 
-import dataCategory from '../json/dungeons-raids/category/category.json';
+/* import dataCategory from '../json/dungeons-raids/category/category.json'; */
 
 import dataClassicRaids from '../json/dungeons-raids/category/raids/classic/raids.json';
 import dataBurningCrusadeRaids from '../json/dungeons-raids/category/raids/burning-crusade/raids.json';
 import dataWrathOfTheLichKingRaids from '../json/dungeons-raids/category/raids/wrath-of-the-lich-king/raids.json';
 import dataCataclysmRaids from '../json/dungeons-raids/category/raids/cataclysm/raids.json';
+import dataMistsOfPandariaRaids from '../json/dungeons-raids/category/raids/mists-of-pandaria/raids.json';
+import dataWarlordsOfDraenorRaids from '../json/dungeons-raids/category/raids/warlords-of-draenor/raids.json';
+import dataLegionRaids from '../json/dungeons-raids/category/raids/legion/raids.json';
+import dataBattleForAzerothRaids from '../json/dungeons-raids/category/raids/battle-for-azeroth/raids.json';
+import dataShadowlandsRaids from '../json/dungeons-raids/category/raids/shadowlands/raids.json';
+import dataDragonflightRaids from '../json/dungeons-raids/category/raids/dragonflight/raids.json';
+import dataWarWithinRaids from '../json/dungeons-raids/category/raids/war-within/raids.json';
+import dataMidnightRaids from '../json/dungeons-raids/category/raids/midnight/raids.json';
+import dataLastTitanRaids from '../json/dungeons-raids/category/raids/last-titan/raids.json';
 
 
-
-
-/* import dataBattleForAzerothRaids from '../json/raids/battle-for-azeroth/raids.json';
-import dataDragonflightRaids from '../json/raids/dragonflight/raids.json';
-import dataLastTitanRaids from '../json/raids/last-titan/raids.json';
-import dataLegionRaids from '../json/raids/legion/raids.json';
-import dataMidnightRaids from '../json/raids/midnight/raids.json';
-import dataMistsOfPandariaRaids from '../json/raids/mists-of-pandaria/raids.json';
-import dataShadowlandsRaids from '../json/raids/shadowlands/raids.json';
-import dataWarWithinRaids from '../json/raids/war-within/raids.json';
-import dataWarlordsOfDraenorRaids from '../json/raids/warlords-of-draenor/raids.json';
- */
 
 
 import dataAchievements from '../json/achievements/achievements.json';

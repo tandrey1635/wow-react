@@ -7,7 +7,6 @@
 		"objectFit": false,
 		"title": "Classic",
 		"description": "Покорите подземелья и рейды дополнения",
-		"spanClassname": "card-text-raids-classic_color",
 		"addition": "Classic",
 		"price": 50
 	},
@@ -20,7 +19,6 @@
 		"objectFit": false,
 		"title": "The Burning Crusade",
 		"description": "Покорите подземелья и рейды дополнения",
-		"spanClassname": "card-text-raids-burning-crusade_color",
 		"addition": "The Burning Crusade",
 		"price": 100
 	},
@@ -33,7 +31,6 @@
 		"objectFit": false,
 		"title": "Wrath of the Lich King",
 		"description": "Покорите подземелья и рейды дополнения",
-		"spanClassname": "card-text-raids-wrath-of-the-lich-king_color",
 		"addition": "Wrath of the Lich King",
 		"price": 150
 	},
@@ -46,7 +43,6 @@
 		"objectFit": false,
 		"title": "Cataclysm",
 		"description": "Покорите подземелья и рейды дополнения",
-		"spanClassname": "card-text-raids-cataclysm_color",
 		"addition": "Cataclysm",
 		"price": 200
 	},
@@ -59,7 +55,6 @@
 		"objectFit": false,
 		"title": "Mists of Pandaria",
 		"description": "Покорите подземелья и рейды дополнения",
-		"spanClassname": "card-text-raids-mists-of-pandaria_color",
 		"addition": "Mists of Pandaria",
 		"price": 250
 	},
@@ -72,7 +67,6 @@
 		"objectFit": false,
 		"title": "Warlords of Draenor",
 		"description": "Покорите подземелья и рейды дополнения",
-		"spanClassname": "card-text-raids-warlords-of-draenor_color",
 		"addition": "Warlords of Draenor",
 		"price": 300
 	},
@@ -85,7 +79,6 @@
 		"objectFit": false,
 		"title": "Legion",
 		"description": "Покорите подземелья и рейды дополнения",
-		"spanClassname": "card-text-raids-legion_color",
 		"addition": "Legion",
 		"price": 350
 	},
@@ -98,7 +91,6 @@
 		"objectFit": false,
 		"title": "Battle for Azeroth",
 		"description": "Покорите подземелья и рейды дополнения",
-		"spanClassname": "card-text-raids-battle-for-azeroth_color",
 		"addition": "Battle for Azeroth",
 		"price": 400
 	},
@@ -111,7 +103,6 @@
 		"objectFit": false,
 		"title": "Shadowlands",
 		"description": "Покорите подземелья и рейды дополнения",
-		"spanClassname": "card-text-raids-shadowlands_color",
 		"addition": "Shadowlands",
 		"price": 450
 	},
@@ -124,7 +115,6 @@
 		"objectFit": false,
 		"title": "Dragonflight",
 		"description": "Покорите подземелья и рейды дополнения",
-		"spanClassname": "card-text-raids-dragonflight_color",
 		"addition": "Dragonflight",
 		"price": 500
 	},
@@ -137,7 +127,6 @@
 		"objectFit": false,
 		"title": "The War Within",
 		"description": "Покорите подземелья и рейды дополнения",
-		"spanClassname": "card-text-raids-war-within_color",
 		"addition": "The War Within",
 		"price": 600
 	},
@@ -150,7 +139,6 @@
 		"objectFit": false,
 		"title": "Midnight",
 		"description": "Покорите подземелья и рейды дополнения",
-		"spanClassname": "card-text-raids-midnight_color",
 		"addition": "Midnight",
 		"price": 800
 	},
@@ -163,7 +151,6 @@
 		"objectFit": false,
 		"title": "The Last Titan",
 		"description": "Покорите подземелья и рейды дополнения",
-		"spanClassname": "card-text-raids-last-titan_color",
 		"addition": "The Last Titan",
 		"price": 1000
 	}

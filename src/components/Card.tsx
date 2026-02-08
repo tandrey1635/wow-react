@@ -139,43 +139,43 @@ const Card = ({type, path, img, objectFit, title, description, descriptionTrim, 
 							? "card-title-alliance"
 							:
 						addition == "Classic"
-							? "card-text-raids-classic_color"
+							? "card-dungeons-raids-classic_color"
 							:
 						addition == "The Burning Crusade"
-							? "card-text-raids-burning-crusade_color"
+							? "card-dungeons-raids-burning-crusade_color"
 							:
 						addition == "Wrath of the Lich King"
-							? "card-text-raids-wrath-of-the-lich-king_color"
+							? "card-dungeons-raids-wrath-of-the-lich-king_color"
 							:
 						addition == "Cataclysm"
-							? "card-text-raids-cataclysm_color"
+							? "card-dungeons-raids-cataclysm_color"
 							:
 						addition == "Mists of Pandaria"
-							? "card-text-raids-mists-of-pandaria_color"
+							? "card-dungeons-raids-mists-of-pandaria_color"
 							:
 						addition == "Warlords of Draenor"
-							? "card-text-raids-warlords-of-draenor_color"
+							? "card-dungeons-raids-warlords-of-draenor_color"
 							:
 						addition == "Legion"
-							? "card-text-raids-legion_color"
+							? "card-dungeons-raids-legion_color"
 							:
 						addition == "Battle for Azeroth"
-							? "card-text-raids-battle-for-azeroth_color"
+							? "card-dungeons-raids-battle-for-azeroth_color"
 							:
 						addition == "Shadowlands"
-							? "card-text-raids-shadowlands_color"
+							? "card-dungeons-raids-shadowlands_color"
 							:
 						addition == "Dragonflight"
-							? "card-text-raids-dragonflight_color"
+							? "card-dungeons-raids-dragonflight_color"
 							:
 						addition == "The War Within"
-							? "card-text-raids-war-within_color"
+							? "card-dungeons-raids-war-within_color"
 							:
 						addition == "Midnight"
-							? "card-text-raids-midnight_color"
+							? "card-dungeons-raids-midnight_color"
 							:
 						addition == "The Last Titan"
-							? "card-text-raids-last-titan_color"
+							? "card-dungeons-raids-last-titan_color"
 							:
 						type == "legendary-weapons"
 							? "card-title-weapons-legendary"
@@ -232,45 +232,45 @@ const Card = ({type, path, img, objectFit, title, description, descriptionTrim, 
 					}`
 				}>
 					{description}
-					{addition && <span className={`card-text-raids ${
+					{addition && <span className={`card-dungeons-raids ${
 							addition == "Classic"
-							? "card-text-raids-classic_color"
+							? "card-dungeons-raids-classic_color"
 							:
 							addition == "The Burning Crusade"
-								? "card-text-raids-burning-crusade_color"
+								? "card-dungeons-raids-burning-crusade_color"
 								:
 							addition == "Wrath of the Lich King"
-								? "card-text-raids-wrath-of-the-lich-king_color"
+								? "card-dungeons-raids-wrath-of-the-lich-king_color"
 								:
 							addition == "Cataclysm"
-								? "card-text-raids-cataclysm_color"
+								? "card-dungeons-raids-cataclysm_color"
 								:
 							addition == "Mists of Pandaria"
-								? "card-text-raids-mists-of-pandaria_color"
+								? "card-dungeons-raids-mists-of-pandaria_color"
 								:
 							addition == "Warlords of Draenor"
-								? "card-text-raids-warlords-of-draenor_color"
+								? "card-dungeons-raids-warlords-of-draenor_color"
 								:
 							addition == "Legion"
-								? "card-text-raids-legion_color"
+								? "card-dungeons-raids-legion_color"
 								:
 							addition == "Battle for Azeroth"
-								? "card-text-raids-battle-for-azeroth_color"
+								? "card-dungeons-raids-battle-for-azeroth_color"
 								:
 							addition == "Shadowlands"
-								? "card-text-raids-shadowlands_color"
+								? "card-dungeons-raids-shadowlands_color"
 								:
 							addition == "Dragonflight"
-								? "card-text-raids-dragonflight_color"
+								? "card-dungeons-raids-dragonflight_color"
 								:
 							addition == "The War Within"
-								? "card-text-raids-war-within_color"
+								? "card-dungeons-raids-war-within_color"
 								:
 							addition == "Midnight"
-								? "card-text-raids-midnight_color"
+								? "card-dungeons-raids-midnight_color"
 								:
 							addition == "The Last Titan"
-								? "card-text-raids-last-titan_color"
+								? "card-dungeons-raids-last-titan_color"
 								: null
 						}`
 						}>{`${' ' + addition}.`} {/* Перед комментарием оставляем пробел чтобы был пробел после закрывающего тега */}</span>
