@@ -823,7 +823,7 @@ footer {
 }
 .weapon__details__title, .weapon__details__text {
   font-weight: 900;
-  font-size: 36px;
+  font-size: 48px;
   color: #8400ff;
   filter: brightness(125%);
 }
@@ -831,7 +831,7 @@ footer {
   color: #ff8000;
 }
 .weapon__details__text {
-  font-size: 24px;
+  font-size: 32px;
 }
 .weapon__details__img {
   position: relative;
@@ -844,25 +844,42 @@ footer {
      object-fit: contain;
 }
 .weapon__details__label {
+  padding: 10px;
+  border-radius: 20px;
   position: absolute;
-  top: 0;
-  right: 0;
+  top: 20px;
+  right: 20px;
   color: #8400ff;
   background: linear-gradient(325deg, #ff8000, transparent 30%, transparent 35%, #ff8000, transparent);
 }
 .weapon__details__stats, .weapon__details__price {
   color: #ffc107;
 }
+.weapon__details__stats {
+  font-size: 20px;
+  filter: brightness(125%);
+}
+.weapon__details__price {
+  filter: brightness(125%);
+  font-size: 32px;
+  color: #8400ff;
+}
 .weapon__details__cart {
   padding: 10px;
   color: #8400ff;
+  font-weight: 700;
+  font-size: 32px;
   border-radius: 10px;
   background: linear-gradient(325deg, #ff8000, transparent 30%, transparent 35%, #ff8000, transparent);
+  border: 3px solid #ff8000;
+}
+.weapon__details__cart:hover {
+  box-shadow: 0 0 2px 3px #ff8000;
 }
 .weapon__details__descriptions {
   filter: brightness(125%);
   font-weight: 700;
-  font-size: 18px;
+  font-size: 24px;
   color: #ffc107;
 }
 

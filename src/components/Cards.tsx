@@ -30,8 +30,8 @@ import dataTwoHandedAxes from '../json/weapons/two-handed/axes/axes.json';
 import dataLegendaryWeapons from '../json/weapons/legendary/weapons.json';
 
 
+import dataTwoHandedAxesWeaponDetails from '../json/weapons/two-handed/axes/axes-details.json';
 import dataLegendaryWeaponDetails from '../json/weapons/legendary/weapons-details.json';
-
 
 
 import dataClasses from '../json/weapons/artifacts/classes.json';
@@ -96,12 +96,10 @@ import dataAchievements from '../json/achievements/achievements.json';
 import dataWowCollectionEditions from '../json/achievements/wow-collection-editions/wow-collection-editions.json';
 
 
-
-
 import type { ICard, IWeaponDetails }  from "../types/card-types";
 
 
-const Cards = ({home, races, horde, alliance, raidsArmoursWarrior, raidsArmoursDruid, raidsArmoursPriest, raidsArmoursMage, raidsArmoursMonk, raidsArmoursHunter, raidsArmoursDemonHunter, raidsArmoursPaladin, raidsArmoursAwakener, raidsArmoursRogue, raidsArmoursDeathKnight, raidsArmoursWarlock, raidsArmoursShaman, twoHandedWeapons, twoHandedAxes, legendaryWeapons, legendaryWeaponDetails, classes, warriorArtifacts, druidArtifacts, priestArtifacts, mageArtifacts, monkArtifacts, hunterArtifacts, demonHunterArtifacts, paladinArtifacts, rogueArtifacts, deathKnightArtifacts, warlockArtifacts, shamanArtifacts, armsWarrior, furyWarrior, protectionWarrior, cloaks, waterMounts, flyMounts, classic, burningCrusade, wrathOfTheLichKing, cataclysm, mistsOfPandaria, warlordsOfDraenor, legion, battleForAzeroth, shadowlands, dragonflight, warWithin, midnight, lastTitan, category, wowCollectionEditions}) => {
+const Cards = ({home, races, horde, alliance, raidsArmoursWarrior, raidsArmoursDruid, raidsArmoursPriest, raidsArmoursMage, raidsArmoursMonk, raidsArmoursHunter, raidsArmoursDemonHunter, raidsArmoursPaladin, raidsArmoursAwakener, raidsArmoursRogue, raidsArmoursDeathKnight, raidsArmoursWarlock, raidsArmoursShaman, twoHandedWeapons, twoHandedAxes, twoHandedAxesWeaponDetails, legendaryWeapons, legendaryWeaponDetails, classes, warriorArtifacts, druidArtifacts, priestArtifacts, mageArtifacts, monkArtifacts, hunterArtifacts, demonHunterArtifacts, paladinArtifacts, rogueArtifacts, deathKnightArtifacts, warlockArtifacts, shamanArtifacts, armsWarrior, furyWarrior, protectionWarrior, cloaks, waterMounts, flyMounts, classic, burningCrusade, wrathOfTheLichKing, cataclysm, mistsOfPandaria, warlordsOfDraenor, legion, battleForAzeroth, shadowlands, dragonflight, warWithin, midnight, lastTitan, category, wowCollectionEditions}) => {
 
 	const basePathImg = '/src/assets/img'
 
@@ -153,13 +151,16 @@ const Cards = ({home, races, horde, alliance, raidsArmoursWarrior, raidsArmoursD
 				key={card.id}
 				path={card.path}
 				weaponType={card.weaponType}
-				label={card.addition}
+				label={card.label}
 				img={card.img}
 				objectFit={card.objectFit}
 				description={card.description}
 				title={card.title}
 				dmg={card.dmg}
+				dps={card.dps}
 				speed={card.speed}
+				strength={card.strength}
+				stamina={card.stamina}
 				price={card.price}
 				gold={card.gold === true}
 			/>
@@ -456,8 +457,17 @@ const Cards = ({home, races, horde, alliance, raidsArmoursWarrior, raidsArmoursD
 
 					{ twoHandedAxes &&
 						<div className="tab-pane fade show active" id="pills-raids-armour">
-							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
+							<h3 className="text-success text-center fw-bold display-4">Всего Оружия: {counterCardItems(dataTwoHandedAxesWeaponDetails)}</h3>
+							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
 								{ renderCardItems(dataTwoHandedAxes) }
+							</div>
+						</div>
+					}
+
+					{ twoHandedAxesWeaponDetails &&
+						<div className="tab-pane fade show active" id="pills-raids-armour">
+							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
+								{ renderWeaponDetails(dataTwoHandedAxesWeaponDetails) }
 							</div>
 						</div>
 					}

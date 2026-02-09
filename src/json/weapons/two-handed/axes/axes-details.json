@@ -1,0 +1,139 @@
+[
+	{
+		"id": "RazorAxe",
+		"type": "two-handed-weapons",
+		"path": "",
+		"weaponType": "Двуручный Топор",
+		"label": "Эпический",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Razor-Axe.png",
+		"objectFit": false,
+		"title": "Бритвенно Острый Топор",
+		"description": "Уровень предмета: 13 Становится персональным при надевании Двуручное Топор Урон: 5 - 12 Скорость 3.60 (2.4 ед. урона в секунду) +3 к силе +5 к выносливости Прочность: 85 / 85 Требуется 23-й ур. Цена продажи: 75",
+		"dmg": 1000,
+		"speed": 2.6,
+		"price": 300
+	},
+
+	{
+		"id": "ArcaniteReaper",
+		"type": "two-handed-weapons",
+		"path": "",
+		"weaponType": "Двуручный Топор",
+		"label": "Эпический",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Arcanite-Reaper.png",
+		"objectFit": false,
+		"title": "Арканитовый Жнец",
+		"description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolores vel temporibus officiis quam, culpa doloremque dolore debitis cum aliquid. Sequi.",
+		"dmg": "5-12",
+		"dps": "(2.4 ед. урона в секунду)",
+		"speed": 3.6,
+		"strength" : "+3",
+		"stamina" : "+2",
+		"price": 300
+	},
+
+	{
+		"id": "ArcaniteReaperSecond",
+		"type": "two-handed-weapons",
+		"path": "",
+		"weaponType": "Двуручный Топор",
+		"label": "Эпический",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Arcanite-Reaper-second.png",
+		"objectFit": false,
+		"title": "Арканитовый Потрошитель",
+		"description": "Уровень предмета: 14 Становится персональным при получении Уникальный Двуручное Топор Урон: 6 - 13 Скорость 3.60 (2.6 ед. урона в секунду) +4 к силе +5 к выносливости +3 к критическому удару (0.25% на 80 ур.) Прочность: 120 / 120 Использование: Задать жару. (1 Мин Восстановление) Требуется 27-й ур. Цена продажи: 1 56 45 Добывается с: Принц Тенрис Мутная Кровь",
+		"dmg": 1000,
+		"speed": 2.6,
+		"price": 300
+	},
+
+	{
+		"id": "HighWarlordsBattleAxe",
+		"type": "two-handed-weapons",
+		"path": "",
+		"weaponType": "Двуручный Топор",
+		"label": "Эпический",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/High-Warlords-Battle-Axe.png",
+		"objectFit": false,
+		"title": "Боевой Топор Верховного Вождя",
+		"description": "Уровень предмета: 13 Становится персональным при получении Двуручное Топор Урон: 5 - 12 Скорость 3.60 (2.4 ед. урона в секунду) +3 к силе +5 к выносливости +2 к критическому удару (0.16% на 80 ур.) Прочность: 120 / 120 Требуется 25-й ур. Цена продажи: 1 2 78",
+		"dmg": 1000,
+		"speed": 2.6,
+		"price": 300
+	},
+
+	{
+		"id": "WhitefinAxe",
+		"type": "two-handed-weapons",
+		"path": "",
+		"weaponType": "Двуручный Топор",
+		"label": "Эпический",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Whitefin-Axe.png",
+		"objectFit": false,
+		"title": "Белоперый Топор",
+		"description": "Уровень предмета: 92. Становится персональным при получении. Двуручное Топор Урон: 7 - 15 Скорость 3.60. (14.7 ед. урона в секунду). +20 к силе.+55 к выносливости+22 к критическому удару (0.48% на 100 ур.) +18 к скорости (0.41% на 100 ур.) Прочность: 100 / 100 Требуется 80-й ур. Цена продажи: 70 25 31 Добывается с: Озумат",
+		"dmg": 1000,
+		"speed": 2.6,
+		"price": 300
+	},
+
+	{
+		"id": "BryntrollTheBoneArbiter",
+		"type": "two-handed-weapons",
+		"path": "",
+		"weaponType": "Двуручный Топор",
+		"label": "Эпический",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Bryntroll-the-Bone-Arbiter.png",
+		"objectFit": false,
+		"title": "Бринтролль, Костяной Судья",
+		"description": "Становится персональным при получении Двуручное Топор Урон: 7-15 Скорость 3.60 (6.9 ед. урона в секунду) +6 к силе бесцветное гнездо бесцветное гнездо бесцветное гнездо При соответствии цвета: +1 к силе Прочность: 120 / 120 Возможный эффект при попадании: Похищает у противника 53 ед. здоровья. Требуется 30-й ур. Цена продажи: 5 99 41 Добывается с: Лорд Ребрад Вероятность получения: 16.92%",
+		"dmg": 1000,
+		"speed": 2.6,
+		"price": 300
+	},
+
+	{
+		"id": "BonegaleGreataxe",
+		"type": "two-handed-weapons",
+		"path": "",
+		"weaponType": "Двуручный Топор",
+		"label": "Эпический",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Bonegale-Greataxe.png",
+		"objectFit": false,
+		"title": "Большой Топор Костяного Шторма",
+		"description": "Становится персональным при получении Двуручное Топор Урон: 7-15 Скорость 3.60 (6.9 ед. урона в секунду) +6 к силе бесцветное гнездо бесцветное гнездо бесцветное гнездо При соответствии цвета: +1 к силе Прочность: 120 / 120 Возможный эффект при попадании: Похищает у противника 53 ед. здоровья. Требуется 30-й ур. Цена продажи: 5 99 41 Добывается с: Лорд Ребрад Вероятность получения: 16.92%",
+		"dmg": 1000,
+		"speed": 2.6,
+		"price": 300
+	},
+
+	{
+		"id": "ContaminatingCleaver",
+		"type": "two-handed-weapons",
+		"path": "",
+		"weaponType": "Двуручный Топор",
+		"label": "Эпический",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Contaminating-Cleaver.png",
+		"objectFit": false,
+		"title": "Загрязняющий Тесак",
+		"description": "Двуручное Топор Урон: 29 - 61 Скорость 3.60 (12.5 ед. урона в секунду) +17 к силе +25 к выносливости +20 к скорости (1.72% на 80 ур.) +14 к искусности (1.15% на 80 ур.) Прочность: 100 / 100 Требуется 68-й ур. Цена продажи: 82 49 45 Добывается с: Гнилелом Вероятность получения: 32.58%",
+		"dmg": 1000,
+		"speed": 2.6,
+		"price": 300
+	},
+
+	{
+		"id": "GreataxeOfTheEbonBlade",
+		"type": "two-handed-weapons",
+		"path": "",
+		"weaponType": "Двуручный Топор",
+		"label": "Эпический",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Great-axe-of-the-Ebon-Blade.png",
+		"objectFit": false,
+		"title": "Большой Топор Рыцаря Черного Клинка",
+		"description": "Уровень предмета: 13 Становится персональным при получении Двуручное Топор Урон: 5 - 12 Скорость 3.60 (2.4 ед. урона в секунду) +4 к силе +5 к выносливости +5 к критическому удару (0.41% на 80 ур.) Прочность: 100 / 100 Классы: Рыцарь смерти Цена продажи: 4",
+		"dmg": 1000,
+		"speed": 2.6,
+		"price": 300
+	}
+]

@@ -20,8 +20,10 @@ interface ICard {
 interface IWeaponDetails extends ICard {
 	weaponType: string,
 	label: string,
-	dmg: number,
+	dmg: string | number,
 	speed: number,
+	strength: number,
+	stamina: number,
 }
 
 

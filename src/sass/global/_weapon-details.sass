@@ -11,13 +11,13 @@
 			border: 1px solid red
 		&__title, &__text
 			font-weight: 900
-			font-size: 36px
+			font-size: 48px
 			color: $weaponsColor
 			filter: brightness(125%)
 			&_legendary
 				color: $weaponsLegendaryColor
 		&__text
-			font-size: 24px
+			font-size: 32px
 		&__img
 			position: relative
 			width: inherit
@@ -26,20 +26,34 @@
 				transform: scale(0.8)
 				object-fit: contain
 		&__label
+			padding: 10px
+			border-radius: 20px
 			position: absolute
-			top: 0
-			right: 0
+			top: 20px
+			right: 20px
 			color: $defaultColor
 			background: $weaponsLegendaryBg
 		&__stats, &__price
 			color: $textColor
+		&__stats
+			font-size: 20px
+			filter: brightness(125%)
+		&__price
+			filter: brightness(125%)
+			font-size: 32px
+			color: $defaultColor
 		&__cart
 			padding: 10px
 			color: $defaultColor
+			font-weight: 700
+			font-size: 32px
 			border-radius: 10px
 			background: $weaponsLegendaryBg
+			border: 3px solid $weaponsLegendaryCardHoverShadow
+			&:hover
+				box-shadow: 0 0 2px 3px $weaponsLegendaryCardHoverShadow
 		&__descriptions
 			filter: brightness(125%)
 			font-weight: 700
-			font-size: 18px
+			font-size: 24px
 			color: $textColor

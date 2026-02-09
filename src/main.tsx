@@ -35,7 +35,7 @@ import DecorativeWeapons  from "./pages/weapons/Decorative.tsx";
 
 
 import TwoHandedAxes  from "./pages/weapons/two-handed/axes/Axes.tsx";
-
+import TwoHandedAxesDetails  from "./pages/weapons/two-handed/axes/AxesDetails.tsx";
 
 
 import Ashbringer  from "./pages/weapons/legendary/weapons-details/Ashbringer.tsx";
@@ -213,6 +213,7 @@ createRoot(document.getElementById("root")!).render(
 
 
 				<Route path="weapons/two-handed/axes" element={<TwoHandedAxes />} />
+				<Route path="weapons/two-handed/axes/axes-details" element={<TwoHandedAxesDetails />} />
 
 
 				<Route path="weapons/legendary/weapons-details/ashbringer" element={<Ashbringer />} />

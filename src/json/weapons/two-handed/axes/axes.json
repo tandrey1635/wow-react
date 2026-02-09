@@ -1,12 +1,100 @@
 [
 	{
-		"id": "",
+		"id": "RazorAxe",
 		"type": "weapons",
-		"path": "",
-		"img": "/src/assets/img/weapons/bg/two-handed/axes/.png",
+		"path": "axes-details",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Razor-Axe.png",
+		"objectFit": true,
+		"title": "Бритвенно Острый Топор",
+		"description": "Топор 4",
+		"price": 300
+	},
+
+	{
+		"id": "ArcaniteReaper",
+		"type": "weapons",
+		"path": "axes-details",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Arcanite-Reaper.png",
 		"objectFit": false,
-		"title": "Топор 1",
+		"title": "Арканитовый Жнец",
+		"description": "Топор 4",
+		"price": 300
+	},
+
+	{
+		"id": "ArcaniteReaperSecond",
+		"type": "weapons",
+		"path": "axes-details",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Arcanite-Reaper-second.png",
+		"objectFit": false,
+		"title": "Арканитовый Потрошитель",
+		"description": "Топор 4",
+		"price": 300
+	},
+
+	{
+		"id": "HighWarlordsBattleAxe",
+		"type": "weapons",
+		"path": "axes-details",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/High-Warlords-Battle-Axe.png",
+		"objectFit": false,
+		"title": "Боевой Топор Верховного Вождя",
+		"description": "Топор 4",
+		"price": 300
+	},
+
+	{
+		"id": "WhitefinAxe",
+		"type": "weapons",
+		"path": "axes-details",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Whitefin-Axe.png",
+		"objectFit": false,
+		"title": "Белоперый Топор",
 		"description": "Топор 1",
+		"price": 300
+	},
+
+	{
+		"id": "BryntrollTheBoneArbiter",
+		"type": "weapons",
+		"path": "axes-details",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Bryntroll-the-Bone-Arbiter.png",
+		"objectFit": false,
+		"title": "Бринтролль, Костяной Судья",
+		"description": "Топор 2",
+		"price": 300
+	},
+
+	{
+		"id": "BonegaleGreataxe",
+		"type": "weapons",
+		"path": "axes-details",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Bonegale-Greataxe.png",
+		"objectFit": false,
+		"title": "Большой Топор Костяного Шторма",
+		"description": "Топор 3",
+		"price": 300
+	},
+
+	{
+		"id": "ContaminatingCleaver",
+		"type": "weapons",
+		"path": "axes-details",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Contaminating-Cleaver.png",
+		"objectFit": false,
+		"title": "Загрязняющий Тесак",
+		"description": "Топор 4",
+		"price": 300
+	},
+
+	{
+		"id": "GreataxeOfTheEbonBlade",
+		"type": "weapons",
+		"path": "axes-details",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Great-axe-of-the-Ebon-Blade.png",
+		"objectFit": false,
+		"title": "Большой Топор Рыцаря Черного Клинка",
+		"description": "Топор 4",
 		"price": 300
 	}
 ]
