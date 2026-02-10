@@ -11,6 +11,28 @@
 	},
 
 	{
+		"id": "BlackrockSlicer",
+		"type": "weapons",
+		"path": "axes-details",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Blackrock-Slicer.png",
+		"objectFit": true,
+		"title": "Тесак Черной Горы",
+		"description": "Топор 4",
+		"price": 300
+	},
+
+	{
+		"id": "WallwatchersPoleaxe",
+		"type": "weapons",
+		"path": "axes-details",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Wallwatchers-Poleaxe.png",
+		"objectFit": true,
+		"title": "Алебарда Стражника Стены",
+		"description": "Топор 4",
+		"price": 300
+	},
+
+	{
 		"id": "ArcaniteReaper",
 		"type": "weapons",
 		"path": "axes-details",
@@ -44,12 +66,67 @@
 	},
 
 	{
+		"id": "HellscreamsDecapitator",
+		"type": "weapons",
+		"path": "axes-details",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Hellscreams-Decapitator.png",
+		"objectFit": false,
+		"title": "Лабрисса Адского Крика",
+		"description": "Топор 4",
+		"price": 300
+	},
+
+	{
+		"id": "Nightfall",
+		"type": "weapons",
+		"path": "axes-details",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Nightfall.png",
+		"objectFit": false,
+		"title": "Сумерки",
+		"description": "Топор 4",
+		"price": 300
+	},
+
+	{
+		"id": "DarkEdgeOfInsanity",
+		"type": "weapons",
+		"path": "axes-details",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Dark-Edge-of-Insanity.png",
+		"objectFit": false,
+		"title": "Темное Лезвие Безумия",
+		"description": "Топор 4",
+		"price": 300
+	},
+
+	{
 		"id": "WhitefinAxe",
 		"type": "weapons",
 		"path": "axes-details",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Whitefin-Axe.png",
 		"objectFit": false,
 		"title": "Белоперый Топор",
+		"description": "Топор 1",
+		"price": 300
+	},
+
+	{
+		"id": "TerminationAxe",
+		"type": "weapons",
+		"path": "axes-details",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Termination-Axe.png",
+		"objectFit": false,
+		"title": "Топор Решимости",
+		"description": "Топор 1",
+		"price": 300
+	},
+
+	{
+		"id": "PlunderedFuryFinAxe",
+		"type": "weapons",
+		"path": "axes-details",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Plundered-Fury-Fin-Axe.png",
+		"objectFit": false,
+		"title": "Трофейный Топор Яростного Плавника",
 		"description": "Топор 1",
 		"price": 300
 	},
@@ -66,13 +143,13 @@
 	},
 
 	{
-		"id": "BonegaleGreataxe",
+		"id": "EverlastingBoneforgedGreataxe",
 		"type": "weapons",
 		"path": "axes-details",
-		"img": "/src/assets/img/weapons/bg/two-handed/axes/Bonegale-Greataxe.png",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Everlasting-Boneforged-Greataxe.png",
 		"objectFit": false,
-		"title": "Большой Топор Костяного Шторма",
-		"description": "Топор 3",
+		"title": "Костяной Двуручный Топор Вечности",
+		"description": "Топор 4",
 		"price": 300
 	},
 
@@ -88,12 +165,34 @@
 	},
 
 	{
+		"id": "BonegaleGreataxe",
+		"type": "weapons",
+		"path": "axes-details",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Bonegale-Greataxe.png",
+		"objectFit": false,
+		"title": "Большой Топор Костяного Шторма",
+		"description": "Топор 3",
+		"price": 300
+	},
+
+	{
 		"id": "GreataxeOfTheEbonBlade",
 		"type": "weapons",
 		"path": "axes-details",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Great-axe-of-the-Ebon-Blade.png",
 		"objectFit": false,
 		"title": "Большой Топор Рыцаря Черного Клинка",
+		"description": "Топор 4",
+		"price": 300
+	},
+
+	{
+		"id": "TyrannicalBeheader",
+		"type": "weapons",
+		"path": "axes-details",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Tyrannical-Beheader.png",
+		"objectFit": false,
+		"title": "Тиранический Главорез",
 		"description": "Топор 4",
 		"price": 300
 	}
