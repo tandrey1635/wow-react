@@ -1,49 +1,34 @@
 [
 	{
 		"id": "VaultOfTheIncarnates",
-		"raids": true,
-		"className": "card-raids card-raids-dragonflight",
-		"path": "#",
-		"cardImgClassName": "card-img-raids",
-		"cardImg": "/src/assets/img/raids/bg/dragonflight/Vault-of-the-Incarnates.jpg",
-		"titleClassName": "card-title-raids card-title-raids-dragonflight",
+		"type": "dungeons-raids-dragonflight",
+		"path": "",
+		"img": "/src/assets/img/raids/bg/dragonflight/Vault-of-the-Incarnates.jpg",
+		"objectFit": false,
 		"title": "Хранилище Воплощений",
-		"descriptionClassName": "card-text-raids card-text-raids-dragonflight",
 		"description": "Закажите гарантированное прохождение рейда",
-		"spanClassname": "card-text-raids-dragonflight_color",
-		"priceClassName": "card-price-raids card-price-raids-dragonflight",
 		"price": 500
 	},
 
 	{
 		"id": "AberrusTheShadowedCrucible",
-		"raids": true,
-		"className": "card-raids card-raids-dragonflight",
-		"path": "#",
-		"cardImgClassName": "card-img-raids",
-		"cardImg": "/src/assets/img/raids/bg/dragonflight/Aberrus-the-Shadowed-Crucible.jpg",
-		"titleClassName": "card-title-raids card-title-raids-dragonflight",
+		"type": "dungeons-raids-dragonflight",
+		"path": "",
+		"img": "/src/assets/img/raids/bg/dragonflight/Aberrus-the-Shadowed-Crucible.jpg",
+		"objectFit": false,
 		"title": "Аберрий, Затененное Горнило",
-		"descriptionClassName": "card-text-raids card-text-raids-dragonflight",
 		"description": "Закажите гарантированное прохождение рейда",
-		"spanClassname": "card-text-raids-dragonflight_color",
-		"priceClassName": "card-price-raids card-price-raids-dragonflight",
 		"price": 520
 	},
 
 	{
 		"id": "AmirdrassilTheDreamsHope",
-		"raids": true,
-		"className": "card-raids card-raids-dragonflight",
-		"path": "#",
-		"cardImgClassName": "card-img-raids",
-		"cardImg": "/src/assets/img/raids/bg/dragonflight/Amirdrassil-the-Dreams-Hope.jpg",
-		"titleClassName": "card-title-raids card-title-raids-dragonflight",
+		"type": "dungeons-raids-dragonflight",
+		"path": "",
+		"img": "/src/assets/img/raids/bg/dragonflight/Amirdrassil-the-Dreams-Hope.jpg",
+		"objectFit": false,
 		"title": "Амирдрассил, Надежда Сна",
-		"descriptionClassName": "card-text-raids card-text-raids-dragonflight",
 		"description": "Закажите гарантированное прохождение рейда",
-		"spanClassname": "card-text-raids-dragonflight_color",
-		"priceClassName": "card-price-raids card-price-raids-dragonflight",
 		"price": 540
 	}
 ]

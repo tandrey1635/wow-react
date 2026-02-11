@@ -1,49 +1,34 @@
 [
 	{
 		"id": "Highmaul",
-		"raids": true,
-		"className": "card-raids card-raids-warlords-of-draenor",
-		"path": "#",
-		"cardImgClassName": "card-img-raids",
-		"cardImg": "/src/assets/img/raids/bg/warlords-of-draenor/Highmaul.jpg",
-		"titleClassName": "card-title-raids card-title-raids-warlords-of-draenor",
+		"type": "dungeons-raids-warlords-of-draenor",
+		"path": "",
+		"img": "/src/assets/img/raids/bg/warlords-of-draenor/Highmaul.jpg",
+		"objectFit": false,
 		"title": "Верховный Молот",
-		"descriptionClassName": "card-text-raids card-text-raids-warlords-of-draenor",
 		"description": "Закажите гарантированное прохождение рейда",
-		"spanClassname": "card-text-raids-warlords-of-draenor_color",
-		"priceClassName": "card-price-raids card-price-raids-warlords-of-draenor",
 		"price": 300
 	},
 
 	{
 		"id": "BlackrockFoundry",
-		"raids": true,
-		"className": "card-raids card-raids-warlords-of-draenor",
-		"path": "#",
-		"cardImgClassName": "card-img-raids",
-		"cardImg": "/src/assets/img/raids/bg/warlords-of-draenor/Blackrock-Foundry.jpg",
-		"titleClassName": "card-title-raids card-title-raids-warlords-of-draenor",
-		"title": "Литейная клана Черной горы",
-		"descriptionClassName": "card-text-raids card-text-raids-warlords-of-draenor",
+		"type": "dungeons-raids-warlords-of-draenor",
+		"path": "",
+		"img": "/src/assets/img/raids/bg/warlords-of-draenor/Blackrock-Foundry.jpg",
+		"objectFit": false,
+		"title": "Литейная Клана Черной горы",
 		"description": "Закажите гарантированное прохождение рейда",
-		"spanClassname": "card-text-raids-warlords-of-draenor_color",
-		"priceClassName": "card-price-raids card-price-raids-warlords-of-draenor",
 		"price": 320
 	},
 
 	{
 		"id": "HellfireCitadel",
-		"raids": true,
-		"className": "card-raids card-raids-warlords-of-draenor",
-		"path": "#",
-		"cardImgClassName": "card-img-raids",
-		"cardImg": "/src/assets/img/raids/bg/warlords-of-draenor/Hellfire-Citadel.jpg",
-		"titleClassName": "card-title-raids card-title-raids-warlords-of-draenor",
+		"type": "dungeons-raids-warlords-of-draenor",
+		"path": "",
+		"img": "/src/assets/img/raids/bg/warlords-of-draenor/Hellfire-Citadel.jpg",
+		"objectFit": false,
 		"title": "Цитадель Адского Пламени",
-		"descriptionClassName": "card-text-raids card-text-raids-warlords-of-draenor",
 		"description": "Закажите гарантированное прохождение рейда",
-		"spanClassname": "card-text-raids-warlords-of-draenor_color",
-		"priceClassName": "card-price-raids card-price-raids-warlords-of-draenor",
 		"price": 340
 	}
 ]

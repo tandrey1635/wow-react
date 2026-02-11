@@ -1,49 +1,34 @@
 [
 	{
 		"id": "NerubarPalace",
-		"raids": true,
-		"className": "card-raids card-raids-war-within",
-		"path": "#",
-		"cardImgClassName": "card-img-raids",
-		"cardImg": "/src/assets/img/raids/bg/war-within/Nerubar-Palace.jpg",
-		"titleClassName": "card-title-raids card-title-raids-war-within",
+		"type": "dungeons-raids-war-within",
+		"path": "",
+		"img": "/src/assets/img/raids/bg/war-within/Nerubar-Palace.jpg",
+		"objectFit": false,
 		"title": "Неруб'арский Дворец",
-		"descriptionClassName": "card-text-raids card-text-raids-war-within",
 		"description": "Закажите гарантированное прохождение рейда",
-		"spanClassname": "card-text-raids-war-within_color",
-		"priceClassName": "card-price-raids card-price-raids-war-within",
 		"price": 600
 	},
 
 	{
 		"id": "LiberationOfUndermine",
-		"raids": true,
-		"className": "card-raids card-raids-war-within",
-		"path": "#",
-		"cardImgClassName": "card-img-raids",
-		"cardImg": "/src/assets/img/raids/bg/war-within/Liberation-of-Undermine.jpg",
-		"titleClassName": "card-title-raids card-title-raids-war-within",
-		"title": "Освобождение Нижней шахты",
-		"descriptionClassName": "card-text-raids card-text-raids-war-within",
+		"type": "dungeons-raids-war-within",
+		"path": "",
+		"img": "/src/assets/img/raids/bg/war-within/Liberation-of-Undermine.jpg",
+		"objectFit": false,
+		"title": "Освобождение Нижней Шахты",
 		"description": "Закажите гарантированное прохождение рейда",
-		"spanClassname": "card-text-raids-war-within_color",
-		"priceClassName": "card-price-raids card-price-raids-war-within",
 		"price": 620
 	},
 
 	{
 		"id": "ManaforgeOmega",
-		"raids": true,
-		"className": "card-raids card-raids-war-within",
-		"path": "#",
-		"cardImgClassName": "card-img-raids",
-		"cardImg": "/src/assets/img/raids/bg/war-within/Manaforge-Omega.jpg",
-		"titleClassName": "card-title-raids card-title-raids-war-within",
+		"type": "dungeons-raids-war-within",
+		"path": "",
+		"img": "/src/assets/img/raids/bg/war-within/Manaforge-Omega.jpg",
+		"objectFit": false,
 		"title": "Манагорн Омега",
-		"descriptionClassName": "card-text-raids card-text-raids-war-within",
 		"description": "Закажите гарантированное прохождение рейда",
-		"spanClassname": "card-text-raids-war-within_color",
-		"priceClassName": "card-price-raids card-price-raids-war-within",
 		"price": 640
 	}
 ]

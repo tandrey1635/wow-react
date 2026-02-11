@@ -1,17 +1,12 @@
 [
 	{
 		"id": "Midnight",
-		"raids": true,
-		"className": "card-raids card-raids-midnight",
-		"path": "#",
-		"cardImgClassName": "card-img-raids",
-		"cardImg": "/src/assets/img/raids/bg/midnight/Midnight.png",
-		"titleClassName": "card-title-raids card-title-raids-midnight",
+		"type": "dungeons-raids-midnight",
+		"path": "",
+		"img": "/src/assets/img/raids/bg/midnight/Midnight.png",
+		"objectFit": false,
 		"title": "Midnight",
-		"descriptionClassName": "card-text-raids card-text-raids-midnight",
 		"description": "Закажите гарантированное прохождение рейда",
-		"spanClassname": "card-text-raids-midnight_color",
-		"priceClassName": "card-price-raids card-price-raids-midnight",
 		"price": 800
 	}
 ]
