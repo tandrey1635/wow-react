@@ -125,21 +125,40 @@ import Rbg  from "./pages/pvp/Rbg.tsx";
 
 
 
-import Category  from "./pages/dungeons-raids/category/Category.tsx";
+import DungeonsRaids  from "./pages/dungeons-raids/DangeonsRaids.tsx";
+import AdditionsDungeons  from "./pages/dungeons-raids/dungeons/AdditionsDungeons.tsx";
+import AdditionsRaids  from "./pages/dungeons-raids/raids/AdditionsRaids.tsx";
 
-import Classic  from "./pages/dungeons-raids/category/raids/Classic.tsx";
-import BurningCrusade  from "./pages/dungeons-raids/category/raids/BurningCrusade.tsx";
-import WrathOfTheLichKing  from "./pages/dungeons-raids/category/raids/WrathOfTheLichKing.tsx";
-import Cataclysm  from "./pages/dungeons-raids/category/raids/Cataclysm.tsx";
-import MistsOfPandaria  from "./pages/dungeons-raids/category/raids/MistsOfPandaria.tsx";
-import WarlordsOfDraenor  from "./pages/dungeons-raids/category/raids/WarlordsOfDraenor.tsx";
-import Legion  from "./pages/dungeons-raids/category/raids/Legion.tsx";
-import BattleForAzeroth  from "./pages/dungeons-raids/category/raids/BattleForAzeroth.tsx";
-import Shadowlands  from "./pages/dungeons-raids/category/raids/Shadowlands.tsx";
-import Dragonflight  from "./pages/dungeons-raids/category/raids/Dragonflight.tsx";
-import WarWithin  from "./pages/dungeons-raids/category/raids/WarWithin.tsx";
-import Midnight  from "./pages/dungeons-raids/category/raids/Midnight.tsx";
-import LastTitan  from "./pages/dungeons-raids/category/raids/LastTitan.tsx";
+
+import ClassicDungeons  from "./pages/dungeons-raids/dungeons/classic/Classic.tsx";
+import BurningCrusadeDungeons  from "./pages/dungeons-raids/dungeons/burning-crusade/BurningCrusade.tsx";
+import WrathOfTheLichKingDungeons  from "./pages/dungeons-raids/dungeons/wrath-of-the-lich-king/WrathOfTheLichKing.tsx";
+import CataclysmDungeons  from "./pages/dungeons-raids/dungeons/cataclysm/Cataclysm.tsx";
+import MistsOfPandariaDungeons  from "./pages/dungeons-raids/dungeons/mists-of-pandaria/MistsOfPandaria.tsx";
+import WarlordsOfDraenorDungeons from "./pages/dungeons-raids/dungeons/warlords-of-draenor/WarlordsOfDraenor.tsx";
+import LegionDungeons  from "./pages/dungeons-raids/dungeons/legion/Legion.tsx";
+import BattleForAzerothDungeons  from "./pages/dungeons-raids/dungeons/battle-for-azeroth/BattleForAzeroth.tsx";
+import ShadowlandsDungeons  from "./pages/dungeons-raids/dungeons/shadowlands/Shadowlands.tsx";
+import DragonflightDungeons  from "./pages/dungeons-raids/dungeons/dragonflight/Dragonflight.tsx";
+import WarWithinDungeons  from "./pages/dungeons-raids/dungeons/war-within/WarWithin.tsx";
+import MidnightDungeons  from "./pages/dungeons-raids/dungeons/midnight/Midnight.tsx";
+import LastTitanDungeons  from "./pages/dungeons-raids/dungeons/last-titan/LastTitan.tsx";
+
+
+
+import ClassicRaids  from "./pages/dungeons-raids/raids/classic/Classic.tsx";
+import BurningCrusadeRaids  from "./pages/dungeons-raids/raids/burning-crusade/BurningCrusade.tsx";
+import WrathOfTheLichKingRaids  from "./pages/dungeons-raids/raids/wrath-of-the-lich-king/WrathOfTheLichKing.tsx";
+import CataclysmRaids  from "./pages/dungeons-raids/raids/cataclysm/Cataclysm.tsx";
+import MistsOfPandariaRaids  from "./pages/dungeons-raids/raids/mists-of-pandaria/MistsOfPandaria.tsx";
+import WarlordsOfDraenorRaids  from "./pages/dungeons-raids/raids/warlords-of-draenor/WarlordsOfDraenor.tsx";
+import LegionRaids  from "./pages/dungeons-raids/raids/legion/Legion.tsx";
+import BattleForAzerothRaids  from "./pages/dungeons-raids/raids/battle-for-azeroth/BattleForAzeroth.tsx";
+import ShadowlandsRaids  from "./pages/dungeons-raids/raids/shadowlands/Shadowlands.tsx";
+import DragonflightRaids  from "./pages/dungeons-raids/raids/dragonflight/Dragonflight.tsx";
+import WarWithinRaids  from "./pages/dungeons-raids/raids/war-within/WarWithin.tsx";
+import MidnightRaids  from "./pages/dungeons-raids/raids/midnight/Midnight.tsx";
+import LastTitanRaids  from "./pages/dungeons-raids/raids/last-titan/LastTitan.tsx";
 
 
 
@@ -301,22 +320,42 @@ createRoot(document.getElementById("root")!).render(
 
 
 
-				{/* <Route path="dungeons-raids/category" element={<Category />} /> */}
+				<Route path="dungeons-raids" element={<DungeonsRaids />} />
+				<Route path="raids" element={<AdditionsRaids />} />
+				<Route path="dungeons" element={<AdditionsDungeons />} />
 
 
-				<Route path="dungeons-raids/classic" element={<Classic />} />
-				<Route path="dungeons-raids/burning-crusade" element={<BurningCrusade />} />
-				<Route path="dungeons-raids/wrath-of-the-lich-king" element={<WrathOfTheLichKing />} />
-				<Route path="dungeons-raids/cataclysm" element={<Cataclysm />} />
-				<Route path="dungeons-raids/mists-of-pandaria" element={<MistsOfPandaria />} />
-				<Route path="dungeons-raids/warlords-of-draenor" element={<WarlordsOfDraenor />} />
-				<Route path="dungeons-raids/legion" element={<Legion />} />
-				<Route path="dungeons-raids/battle-for-azeroth" element={<BattleForAzeroth />} />
-				<Route path="dungeons-raids/shadowlands" element={<Shadowlands />} />
-				<Route path="dungeons-raids/dragonflight" element={<Dragonflight />} />
-				<Route path="dungeons-raids/war-within" element={<WarWithin />} />
-				<Route path="dungeons-raids/midnight" element={<Midnight />} />
-				<Route path="dungeons-raids/last-titan" element={<LastTitan />} />
+
+
+				<Route path="dungeons/classic" element={<ClassicDungeons />} />
+				<Route path="dungeons/burning-crusade" element={<BurningCrusadeDungeons />} />
+				<Route path="dungeons/wrath-of-the-lich-king" element={<WrathOfTheLichKingDungeons />} />
+				<Route path="dungeons/cataclysm" element={<CataclysmDungeons />} />
+				<Route path="dungeons/mists-of-pandaria" element={<MistsOfPandariaDungeons />} />
+				<Route path="dungeons/warlords-of-draenor" element={<WarlordsOfDraenorDungeons />} />
+				<Route path="dungeons/legion" element={<LegionDungeons />} />
+				<Route path="dungeons/battle-for-azeroth" element={<BattleForAzerothDungeons />} />
+				<Route path="dungeons/shadowlands" element={<ShadowlandsDungeons />} />
+				<Route path="dungeons/dragonflight" element={<DragonflightDungeons />} />
+				<Route path="dungeons/war-within" element={<WarWithinDungeons />} />
+				<Route path="dungeons/midnight" element={<MidnightDungeons />} />
+				<Route path="dungeons/last-titan" element={<LastTitanDungeons />} />
+
+
+
+				<Route path="raids/classic" element={<ClassicRaids />} />
+				<Route path="raids/burning-crusade" element={<BurningCrusadeRaids />} />
+				<Route path="raids/wrath-of-the-lich-king" element={<WrathOfTheLichKingRaids />} />
+				<Route path="raids/cataclysm" element={<CataclysmRaids />} />
+				<Route path="raids/mists-of-pandaria" element={<MistsOfPandariaRaids />} />
+				<Route path="raids/warlords-of-draenor" element={<WarlordsOfDraenorRaids />} />
+				<Route path="raids/legion" element={<LegionRaids />} />
+				<Route path="raids/battle-for-azeroth" element={<BattleForAzerothRaids />} />
+				<Route path="raids/shadowlands" element={<ShadowlandsRaids />} />
+				<Route path="raids/dragonflight" element={<DragonflightRaids />} />
+				<Route path="raids/war-within" element={<WarWithinRaids />} />
+				<Route path="raids/midnight" element={<MidnightRaids />} />
+				<Route path="raids/last-titan" element={<LastTitanRaids />} />
 
 
 				<Route path="lvl-up/lvl-up-base" element={<LvlUpBase />} />

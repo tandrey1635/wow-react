@@ -1,0 +1,12 @@
+[
+	{
+		"id": "",
+		"type": "dungeons-raids-cataclysm",
+		"path": "",
+		"img": "/src/assets/img/raids/bg/cataclysm/.jpg",
+		"objectFit": false,
+		"title": "Крепость Барадин",
+		"description": "Закажите гарантированное прохождение рейда",
+		"price": 200
+	}
+]

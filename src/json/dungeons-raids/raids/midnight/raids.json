@@ -1,0 +1,12 @@
+[
+	{
+		"id": "Midnight",
+		"type": "dungeons-raids-midnight",
+		"path": "",
+		"img": "/src/assets/img/raids/bg/midnight/Midnight.png",
+		"objectFit": false,
+		"title": "Midnight",
+		"description": "Закажите гарантированное прохождение рейда",
+		"price": 800
+	}
+]
