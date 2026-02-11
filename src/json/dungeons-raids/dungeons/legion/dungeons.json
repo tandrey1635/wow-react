@@ -1,0 +1,12 @@
+[
+	{
+		"id": "",
+		"type": "dungeons-raids-legion",
+		"path": "",
+		"img": "/src/assets/img/raids/bg/legion/.jpg",
+		"objectFit": false,
+		"title": "Изумрудный Кошмар",
+		"description": "Закажите гарантированное прохождение рейда",
+		"price": 350
+	}
+]

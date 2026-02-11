@@ -1,0 +1,12 @@
+[
+	{
+		"id": "Ur",
+		"type": "dungeons-raids-battle-for-azeroth",
+		"path": "",
+		"img": "/src/assets/img/raids/bg/battle-for-azeroth/.jpg",
+		"objectFit": false,
+		"title": "Ульдир",
+		"description": "Закажите гарантированное прохождение рейда",
+		"price": 400
+	}
+]

@@ -10,15 +10,15 @@ import Promo from "../../../components/Promo";
 import Cards from "../../../components/Cards";
 
 
-const Horde = () => {
+const AdditionsDungeons = () => {
 	return (
 		<Wrapper>
 			<Header />
 			<Main>
 				<h1 style={{fontSize: 120}} className="text-center text-danger">В разработке</h1>
-				<Announcement horde />
-				<Promo horde />
-				<Cards horde />
+				<Announcement />
+				<Promo />
+				<Cards additionsDungeons />
 			</Main>
 			<Footer />
 			<ArrowUp />
@@ -27,4 +27,4 @@ const Horde = () => {
 }
 
 
-export default Horde
+export default AdditionsDungeons

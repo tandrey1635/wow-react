@@ -10,7 +10,7 @@ import Promo from "../../../components/Promo";
 import Cards from "../../../components/Cards";
 
 
-const TwoHandedWeapons = () => {
+const Alliance = () => {
 	return (
 		<Wrapper>
 			<Header />
@@ -27,4 +27,4 @@ const TwoHandedWeapons = () => {
 }
 
 
-export default TwoHandedWeapons
+export default Alliance

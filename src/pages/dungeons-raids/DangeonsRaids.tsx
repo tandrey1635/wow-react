@@ -10,15 +10,15 @@ import Promo from "../../components/Promo";
 import Cards from "../../components/Cards";
 
 
-const Races = () => {
+const DangeonsRaids = () => {
 	return (
 		<Wrapper>
 			<Header />
 			<Main>
 				<h1 style={{fontSize: 120}} className="text-center text-danger">В разработке</h1>
-				<Announcement races />
-				<Promo races />
-				<Cards races />
+				<Announcement />
+				<Promo />
+				<Cards dangeonsRaids />
 			</Main>
 			<Footer />
 			<ArrowUp />
@@ -27,4 +27,4 @@ const Races = () => {
 }
 
 
-export default Races
+export default DangeonsRaids

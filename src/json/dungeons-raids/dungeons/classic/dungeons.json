@@ -1,0 +1,232 @@
+[
+	{
+		"id": "RagefireChasm",
+		"type": "dungeons-raids-classic",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/classic/Ragefire-Chasm.jpg",
+		"objectFit": false,
+		"title": "Огненная Пропасть",
+		"description": "Подземелье для игроков 15-60 уровней.",
+		"price": 50
+	},
+
+	{
+		"id": "Deadmines",
+		"type": "dungeons-raids-classic",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/classic/Deadmines.jpg",
+		"objectFit": false,
+		"title": "Мертвые Копи",
+		"description": "Подземелье для игроков 15-60 уровней.",
+		"price": 50
+	},
+
+	{
+		"id": "ShadowfangKeep",
+		"type": "dungeons-raids-classic",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/classic/Shadowfang-Keep.jpg",
+		"objectFit": false,
+		"title": "Крепость Темного Клыка",
+		"description": "Подземелье для игроков 15-60 уровней.",
+		"price": 50
+	},
+
+	{
+		"id": "WailingCaverns",
+		"type": "dungeons-raids-classic",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/classic/Wailing-Caverns.jpg",
+		"objectFit": false,
+		"title": "Пещеры Стенаний",
+		"description": "Подземелье для игроков 15-60 уровней.",
+		"price": 50
+	},
+
+	{
+		"id": "",
+		"type": "dungeons-raids-classic",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/classic/.jpg",
+		"objectFit": false,
+		"title": "Непроглядная Пучина",
+		"description": "Подземелье для игроков 15-60 уровней.",
+		"price": 50
+	},
+
+	{
+		"id": "",
+		"type": "dungeons-raids-classic",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/classic/.jpg",
+		"objectFit": false,
+		"title": "Гномреган",
+		"description": "Подземелье для игроков 15-60 уровней.",
+		"price": 50
+	},
+
+	{
+		"id": "",
+		"type": "dungeons-raids-classic",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/classic/.jpg",
+		"objectFit": false,
+		"title": "Мародон",
+		"description": "Подземелье для игроков 15-60 уровней.",
+		"price": 50
+	},
+
+	{
+		"id": "",
+		"type": "dungeons-raids-classic",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/classic/.jpg",
+		"objectFit": false,
+		"title": "Лабиринты Иглошкурых",
+		"description": "Подземелье для игроков 15-60 уровней.",
+		"price": 50
+	},
+
+	{
+		"id": "",
+		"type": "dungeons-raids-classic",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/classic//.jpg",
+		"objectFit": false,
+		"title": "Монастырь Алого Ордена",
+		"description": "Подземелье для игроков 15-60 уровней.",
+		"price": 50
+	},
+
+	{
+		"id": "",
+		"type": "dungeons-raids-classic",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/classic/.jpg",
+		"objectFit": false,
+		"title": "Тюрьма",
+		"description": "Подземелье для игроков 15-60 уровней.",
+		"price": 50
+	},
+
+	{
+		"id": "",
+		"type": "dungeons-raids-classic",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/classic/.jpg",
+		"objectFit": false,
+		"title": "Залы Алого Ордена",
+		"description": "Подземелье для игроков 15-60 уровней.",
+		"price": 50
+	},
+
+	{
+		"id": "",
+		"type": "dungeons-raids-classic",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/classic/.jpg",
+		"objectFit": false,
+		"title": "Забытый Город",
+		"description": "Подземелье для игроков 15-60 уровней.",
+		"price": 50
+	},
+
+	{
+		"id": "",
+		"type": "dungeons-raids-classic",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/classic/.jpg",
+		"objectFit": false,
+		"title": "Курганы Иглошкурых",
+		"description": "Подземелье для игроков 15-60 уровней.",
+		"price": 50
+	},
+
+	{
+		"id": "Scholomance",
+		"type": "dungeons-raids-classic",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/classic/.jpg",
+		"objectFit": false,
+		"title": "Некроситет",
+		"description": "Подземелье для игроков 15-60 уровней.",
+		"price": 50
+	},
+
+	{
+		"id": "",
+		"type": "dungeons-raids-classic",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/classic/.jpg",
+		"objectFit": false,
+		"title": "Ульдаман",
+		"description": "Подземелье для игроков 15-60 уровней.",
+		"price": 50
+	},
+
+	{
+		"id": "",
+		"type": "dungeons-raids-classic",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/classic/.jpg",
+		"objectFit": false,
+		"title": "Зул'Фаррак",
+		"description": "Подземелье для игроков 15-60 уровней.",
+		"price": 50
+	},
+
+	{
+		"id": "",
+		"type": "dungeons-raids-classic",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/classic/.jpg",
+		"objectFit": false,
+		"title": "Глубины Черной Горы",
+		"description": "Подземелье для игроков 15-60 уровней.",
+		"price": 50
+	},
+
+	{
+		"id": "",
+		"type": "dungeons-raids-classic",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/classic/.jpg",
+		"objectFit": false,
+		"title": "Стратхольм",
+		"description": "Подземелье для игроков 15-60 уровней.",
+		"price": 50
+	},
+
+	{
+		"id": "",
+		"type": "dungeons-raids-classic",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/classic/.jpg",
+		"objectFit": false,
+		"title": "Затонувший Храм",
+		"description": "Подземелье для игроков 15-60 уровней.",
+		"price": 50
+	},
+
+	{
+		"id": "",
+		"type": "dungeons-raids-classic",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/classic/.jpg",
+		"objectFit": false,
+		"title": "Нижняя Часть Пика Черной Горы",
+		"description": "Подземелье для игроков 15-60 уровней.",
+		"price": 50
+	},
+
+	{
+		"id": "",
+		"type": "dungeons-raids-classic",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/classic/.jpg",
+		"objectFit": false,
+		"title": "Пик Черной горы",
+		"description": "Подземелье для игроков 15-60 уровней.",
+		"price": 50
+	}
+]

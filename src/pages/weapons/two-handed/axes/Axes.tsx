@@ -10,7 +10,7 @@ import Cards from "../../../../components/Cards";
 import Promo from "../../../../components/Promo";
 
 
-const ArtifactWeapons = () => {
+const Axes = () => {
 	return (
 		<Wrapper>
 			<Header />
@@ -27,4 +27,4 @@ const ArtifactWeapons = () => {
 }
 
 
-export default ArtifactWeapons
+export default Axes

@@ -70,24 +70,41 @@ import dataMounts from '../json/mounts/mounts.json';
 import dataProfessions from '../json/professions/professions.json';
 import dataPvp from '../json/pvp/pvp.json';
 import dataDungeons from '../json/dungeons/dungeons.json';
-import dataDungeonsRaids from '../json/dungeons-raids/additions.json';
+import dataDungeonsRaids from '../json/dungeons-raids/dungeons-raids.json';
 
 
-/* import dataCategory from '../json/dungeons-raids/category/category.json'; */
+import dataAdditionsDungeons from '../json/dungeons-raids/dungeons/additions.json';
+import dataAdditionsRaids from '../json/dungeons-raids/raids/additions.json';
 
-import dataClassicRaids from '../json/dungeons-raids/category/raids/classic/raids.json';
-import dataBurningCrusadeRaids from '../json/dungeons-raids/category/raids/burning-crusade/raids.json';
-import dataWrathOfTheLichKingRaids from '../json/dungeons-raids/category/raids/wrath-of-the-lich-king/raids.json';
-import dataCataclysmRaids from '../json/dungeons-raids/category/raids/cataclysm/raids.json';
-import dataMistsOfPandariaRaids from '../json/dungeons-raids/category/raids/mists-of-pandaria/raids.json';
-import dataWarlordsOfDraenorRaids from '../json/dungeons-raids/category/raids/warlords-of-draenor/raids.json';
-import dataLegionRaids from '../json/dungeons-raids/category/raids/legion/raids.json';
-import dataBattleForAzerothRaids from '../json/dungeons-raids/category/raids/battle-for-azeroth/raids.json';
-import dataShadowlandsRaids from '../json/dungeons-raids/category/raids/shadowlands/raids.json';
-import dataDragonflightRaids from '../json/dungeons-raids/category/raids/dragonflight/raids.json';
-import dataWarWithinRaids from '../json/dungeons-raids/category/raids/war-within/raids.json';
-import dataMidnightRaids from '../json/dungeons-raids/category/raids/midnight/raids.json';
-import dataLastTitanRaids from '../json/dungeons-raids/category/raids/last-titan/raids.json';
+
+import dataClassicDungeons from '../json/dungeons-raids/dungeons/classic/dungeons.json'
+import dataBurningCrusadeDungeons from '../json/dungeons-raids/dungeons/burning-crusade/dungeons.json';
+import dataWrathOfTheLichKingDungeons from '../json/dungeons-raids/dungeons/wrath-of-the-lich-king/dungeons.json';
+import dataCataclysmDungeons from '../json/dungeons-raids/dungeons/cataclysm/dungeons.json';
+import dataMistsOfPandariaDungeons from '../json/dungeons-raids/dungeons/mists-of-pandaria/dungeons.json';
+import dataWarlordsOfDraenorDungeons from '../json/dungeons-raids/dungeons/warlords-of-draenor/dungeons.json';
+import dataLegionDungeons from '../json/dungeons-raids/dungeons/legion/dungeons.json';
+import dataBattleForAzerothDungeons from '../json/dungeons-raids/dungeons/battle-for-azeroth/dungeons.json';
+import dataShadowlandsDungeons from '../json/dungeons-raids/dungeons/shadowlands/dungeons.json';
+import dataDragonflightDungeons from '../json/dungeons-raids/dungeons/dragonflight/dungeons.json';
+import dataWarWithinDungeons from '../json/dungeons-raids/dungeons/war-within/dungeons.json';
+import dataMidnightDungeons from '../json/dungeons-raids/dungeons/midnight/dungeons.json';
+import dataLastTitanDungeons from '../json/dungeons-raids/dungeons/last-titan/dungeons.json';
+
+
+import dataClassicRaids from '../json/dungeons-raids/raids/classic/raids.json'
+import dataBurningCrusadeRaids from '../json/dungeons-raids/raids/burning-crusade/raids.json';
+import dataWrathOfTheLichKingRaids from '../json/dungeons-raids/raids/wrath-of-the-lich-king/raids.json';
+import dataCataclysmRaids from '../json/dungeons-raids/raids/cataclysm/raids.json';
+import dataMistsOfPandariaRaids from '../json/dungeons-raids/raids/mists-of-pandaria/raids.json';
+import dataWarlordsOfDraenorRaids from '../json/dungeons-raids/raids/warlords-of-draenor/raids.json';
+import dataLegionRaids from '../json/dungeons-raids/raids/legion/raids.json';
+import dataBattleForAzerothRaids from '../json/dungeons-raids/raids/battle-for-azeroth/raids.json';
+import dataShadowlandsRaids from '../json/dungeons-raids/raids/shadowlands/raids.json';
+import dataDragonflightRaids from '../json/dungeons-raids/raids/dragonflight/raids.json';
+import dataWarWithinRaids from '../json/dungeons-raids/raids/war-within/raids.json';
+import dataMidnightRaids from '../json/dungeons-raids/raids/midnight/raids.json';
+import dataLastTitanRaids from '../json/dungeons-raids/raids/last-titan/raids.json';
 
 
 
@@ -99,7 +116,8 @@ import dataWowCollectionEditions from '../json/achievements/wow-collection-editi
 import type { ICard, IWeaponDetails }  from "../types/card-types";
 
 
-const Cards = ({home, races, horde, alliance, raidsArmoursWarrior, raidsArmoursDruid, raidsArmoursPriest, raidsArmoursMage, raidsArmoursMonk, raidsArmoursHunter, raidsArmoursDemonHunter, raidsArmoursPaladin, raidsArmoursAwakener, raidsArmoursRogue, raidsArmoursDeathKnight, raidsArmoursWarlock, raidsArmoursShaman, twoHandedWeapons, twoHandedAxes, twoHandedAxesWeaponDetails, legendaryWeapons, legendaryWeaponDetails, classes, warriorArtifacts, druidArtifacts, priestArtifacts, mageArtifacts, monkArtifacts, hunterArtifacts, demonHunterArtifacts, paladinArtifacts, rogueArtifacts, deathKnightArtifacts, warlockArtifacts, shamanArtifacts, armsWarrior, furyWarrior, protectionWarrior, cloaks, waterMounts, flyMounts, classic, burningCrusade, wrathOfTheLichKing, cataclysm, mistsOfPandaria, warlordsOfDraenor, legion, battleForAzeroth, shadowlands, dragonflight, warWithin, midnight, lastTitan, category, wowCollectionEditions}) => {
+
+const Cards = ({home, races, horde, alliance, raidsArmoursWarrior, raidsArmoursDruid, raidsArmoursPriest, raidsArmoursMage, raidsArmoursMonk, raidsArmoursHunter, raidsArmoursDemonHunter, raidsArmoursPaladin, raidsArmoursAwakener, raidsArmoursRogue, raidsArmoursDeathKnight, raidsArmoursWarlock, raidsArmoursShaman, twoHandedWeapons, twoHandedAxes, twoHandedAxesWeaponDetails, legendaryWeapons, legendaryWeaponDetails, classes, warriorArtifacts, druidArtifacts, priestArtifacts, mageArtifacts, monkArtifacts, hunterArtifacts, demonHunterArtifacts, paladinArtifacts, rogueArtifacts, deathKnightArtifacts, warlockArtifacts, shamanArtifacts, armsWarrior, furyWarrior, protectionWarrior, cloaks, waterMounts, flyMounts, additionsDungeons, additionsRaids, dungeonsClassic, dungeonsBurningCrusade, dungeonsWrathOfTheLichKing, dungeonsCataclysm, dungeonsMistsOfPandaria, dungeonsWarlordsOfDraenor, dungeonsLegion, dungeonsBattleForAzeroth, dungeonsShadowlands, dungeonsDragonflight, dungeonsWarWithin, dungeonsMidnight, dungeonsLastTitan, raidsClassic, raidsBurningCrusade, raidsWrathOfTheLichKing, raidsCataclysm, raidsMistsOfPandaria, raidsWarlordsOfDraenor, raidsLegion, raidsBattleForAzeroth, raidsShadowlands, raidsDragonflight, raidsWarWithin, raidsMidnight, raidsLastTitan, wowCollectionEditions}) => {
 
 	const basePathImg = '/src/assets/img'
 
@@ -647,7 +665,134 @@ const Cards = ({home, races, horde, alliance, raidsArmoursWarrior, raidsArmoursD
 						</>
 					}
 
-					{ classic &&
+					{ additionsDungeons &&
+						<>
+							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
+								{ renderCardItems(dataAdditionsDungeons) }
+							</div>
+						</>
+					}
+
+					{ additionsRaids &&
+						<>
+							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
+								{ renderCardItems(dataAdditionsRaids) }
+							</div>
+						</>
+					}
+
+					{ dungeonsClassic &&
+						<>
+							<h3 className="text-success text-center fw-bold display-4">Всего Подземелий: {counterCardItems(dataClassicDungeons)}</h3>
+							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
+								{ renderCardItems(dataClassicDungeons) }
+							</div>
+						</>
+					}
+
+					{ dungeonsBurningCrusade &&
+						<>
+							<h3 className="text-success text-center fw-bold display-4">Всего Подземелий: {counterCardItems(dataBurningCrusadeDungeons)}</h3>
+							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
+								{ renderCardItems(dataBurningCrusadeDungeons) }
+							</div>
+						</>
+					}
+
+					{ dungeonsWrathOfTheLichKing &&
+						<>
+							<h3 className="text-success text-center fw-bold display-4">Всего Подземелий: {counterCardItems(dataWrathOfTheLichKingDungeons)}</h3>
+							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
+								{ renderCardItems(dataWrathOfTheLichKingDungeons) }
+							</div>
+						</>
+					}
+
+					{ dungeonsCataclysm &&
+						<>
+							<h3 className="text-success text-center fw-bold display-4">Всего Подземелий: {counterCardItems(dataCataclysmDungeons)}</h3>
+							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
+								{ renderCardItems(dataCataclysmDungeons) }
+							</div>
+						</>
+					}
+
+					{ dungeonsMistsOfPandaria &&
+						<>
+							<h3 className="text-success text-center fw-bold display-4">Всего Подземелий: {counterCardItems(dataMistsOfPandariaDungeons)}</h3>
+							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
+								{ renderCardItems(dataMistsOfPandariaDungeons) }
+							</div>
+						</>
+					}
+
+					{ dungeonsWarlordsOfDraenor &&
+						<>
+							<h3 className="text-success text-center fw-bold display-4">Всего Подземелий: {counterCardItems(dataWarlordsOfDraenorDungeons)}</h3>
+							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
+								{ renderCardItems(dataWarlordsOfDraenorDungeons) }
+							</div>
+						</>
+					}
+
+					{ dungeonsLegion &&
+						<>
+							<h3 className="text-success text-center fw-bold display-4">Всего Подземелий: {counterCardItems(dataLegionDungeons)}</h3>
+							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
+								{ renderCardItems(dataLegionDungeons) }
+							</div>
+						</>
+					}
+
+					{ dungeonsBattleForAzeroth &&
+						<>
+							<h3 className="text-success text-center fw-bold display-4">Всего Подземелий: {counterCardItems(dataBattleForAzerothDungeons)}</h3>
+							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
+								{ renderCardItems(dataBattleForAzerothDungeons) }
+							</div>
+						</>
+					}
+
+					{ dungeonsShadowlands &&
+						<>
+							<h3 className="text-success text-center fw-bold display-4">Всего Подземелий: {counterCardItems(dataShadowlandsDungeons)}</h3>
+							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
+								{ renderCardItems(dataShadowlandsDungeons) }
+							</div>
+						</>
+					}
+
+					{ dungeonsDragonflight &&
+						<>
+							<h3 className="text-success text-center fw-bold display-4">Всего Подземелий: {counterCardItems(dataDragonflightDungeons)}</h3>
+							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
+								{ renderCardItems(dataDragonflightDungeons) }
+							</div>
+						</>
+					}
+
+					{ dungeonsWarWithin &&
+						<>
+							<h3 className="text-success text-center fw-bold display-4">Всего Подземелий: {counterCardItems(dataWarWithinDungeons)}</h3>
+							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
+								{ renderCardItems(dataWarWithinDungeons) }
+							</div>
+						</>
+					}
+
+					{ dungeonsMidnight &&
+						<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
+							{ renderCardItems(dataMidnightDungeons) }
+						</div>
+					}
+
+					{ dungeonsLastTitan &&
+						<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
+							{ renderCardItems(dataLastTitanDungeons) }
+						</div>
+					}
+
+					{ raidsClassic &&
 						<>
 							<h3 className="text-success text-center fw-bold display-4">Всего Рейдов: {counterCardItems(dataClassicRaids)}</h3>
 							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
@@ -656,7 +801,7 @@ const Cards = ({home, races, horde, alliance, raidsArmoursWarrior, raidsArmoursD
 						</>
 					}
 
-					{ burningCrusade &&
+					{ raidsBurningCrusade &&
 						<>
 							<h3 className="text-success text-center fw-bold display-4">Всего Рейдов: {counterCardItems(dataBurningCrusadeRaids)}</h3>
 							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
@@ -665,7 +810,7 @@ const Cards = ({home, races, horde, alliance, raidsArmoursWarrior, raidsArmoursD
 						</>
 					}
 
-					{ wrathOfTheLichKing &&
+					{ raidsWrathOfTheLichKing &&
 						<>
 							<h3 className="text-success text-center fw-bold display-4">Всего Рейдов: {counterCardItems(dataWrathOfTheLichKingRaids)}</h3>
 							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
@@ -674,7 +819,7 @@ const Cards = ({home, races, horde, alliance, raidsArmoursWarrior, raidsArmoursD
 						</>
 					}
 
-					{ cataclysm &&
+					{ raidsCataclysm &&
 						<>
 							<h3 className="text-success text-center fw-bold display-4">Всего Рейдов: {counterCardItems(dataCataclysmRaids)}</h3>
 							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
@@ -683,7 +828,7 @@ const Cards = ({home, races, horde, alliance, raidsArmoursWarrior, raidsArmoursD
 						</>
 					}
 
-					{ mistsOfPandaria &&
+					{ raidsMistsOfPandaria &&
 						<>
 							<h3 className="text-success text-center fw-bold display-4">Всего Рейдов: {counterCardItems(dataMistsOfPandariaRaids)}</h3>
 							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
@@ -692,7 +837,7 @@ const Cards = ({home, races, horde, alliance, raidsArmoursWarrior, raidsArmoursD
 						</>
 					}
 
-					{ warlordsOfDraenor &&
+					{ raidsWarlordsOfDraenor &&
 						<>
 							<h3 className="text-success text-center fw-bold display-4">Всего Рейдов: {counterCardItems(dataWarlordsOfDraenorRaids)}</h3>
 							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
@@ -701,7 +846,7 @@ const Cards = ({home, races, horde, alliance, raidsArmoursWarrior, raidsArmoursD
 						</>
 					}
 
-					{ legion &&
+					{ raidsLegion &&
 						<>
 							<h3 className="text-success text-center fw-bold display-4">Всего Рейдов: {counterCardItems(dataLegionRaids)}</h3>
 							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
@@ -710,7 +855,7 @@ const Cards = ({home, races, horde, alliance, raidsArmoursWarrior, raidsArmoursD
 						</>
 					}
 
-					{ battleForAzeroth &&
+					{ raidsBattleForAzeroth &&
 						<>
 							<h3 className="text-success text-center fw-bold display-4">Всего Рейдов: {counterCardItems(dataBattleForAzerothRaids)}</h3>
 							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
@@ -719,7 +864,7 @@ const Cards = ({home, races, horde, alliance, raidsArmoursWarrior, raidsArmoursD
 						</>
 					}
 
-					{ shadowlands &&
+					{ raidsShadowlands &&
 						<>
 							<h3 className="text-success text-center fw-bold display-4">Всего Рейдов: {counterCardItems(dataShadowlandsRaids)}</h3>
 							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
@@ -728,7 +873,7 @@ const Cards = ({home, races, horde, alliance, raidsArmoursWarrior, raidsArmoursD
 						</>
 					}
 
-					{ dragonflight &&
+					{ raidsDragonflight &&
 						<>
 							<h3 className="text-success text-center fw-bold display-4">Всего Рейдов: {counterCardItems(dataDragonflightRaids)}</h3>
 							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
@@ -737,7 +882,7 @@ const Cards = ({home, races, horde, alliance, raidsArmoursWarrior, raidsArmoursD
 						</>
 					}
 
-					{ warWithin &&
+					{ raidsWarWithin &&
 						<>
 							<h3 className="text-success text-center fw-bold display-4">Всего Рейдов: {counterCardItems(dataWarWithinRaids)}</h3>
 							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
@@ -746,21 +891,15 @@ const Cards = ({home, races, horde, alliance, raidsArmoursWarrior, raidsArmoursD
 						</>
 					}
 
-					{ midnight &&
+					{ raidsMidnight &&
 						<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
 							{ renderCardItems(dataMidnightRaids) }
 						</div>
 					}
 
-					{ lastTitan &&
+					{ raidsLastTitan &&
 						<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
 							{ renderCardItems(dataLastTitanRaids) }
-						</div>
-					}
-
-					{ category &&
-						<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-							{ renderCardItems(dataCategory) }
 						</div>
 					}
 
