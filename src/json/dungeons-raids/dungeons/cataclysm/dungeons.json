@@ -1,12 +1,133 @@
 [
 	{
-		"id": "",
+		"id": "BlackrockCaverns",
 		"type": "dungeons-raids-cataclysm",
 		"path": "",
-		"img": "/src/assets/img/raids/bg/cataclysm/.jpg",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/cataclysm/Blackrock-Caverns.jpg",
 		"objectFit": false,
-		"title": "Крепость Барадин",
-		"description": "Закажите гарантированное прохождение рейда",
-		"price": 200
+		"title": "Пещеры Черной Горы",
+		"description": "Подземелье для игроков 80-85 уровней.",
+		"price": 100
+	},
+
+	{
+		"id": "ThroneOfTheTides",
+		"type": "dungeons-raids-cataclysm",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/cataclysm/Throne-of-the-Tides.jpg",
+		"objectFit": false,
+		"title": "Трон Приливов",
+		"description": "Подземелье для игроков 80-85 уровней.",
+		"price": 100
+	},
+
+	{
+		"id": "Stonecore",
+		"type": "dungeons-raids-cataclysm",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/cataclysm/Stonecore.jpg",
+		"objectFit": false,
+		"title": "Каменные Недра",
+		"description": "Подземелье для игроков 80-85 уровней.",
+		"price": 100
+	},
+
+	{
+		"id": "VortexPinnacle",
+		"type": "dungeons-raids-cataclysm",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/cataclysm/Vortex-Pinnacle.jpg",
+		"objectFit": false,
+		"title": "Вершина Смерча",
+		"description": "Подземелье для игроков 80-85 уровней.",
+		"price": 100
+	},
+
+	{
+		"id": "GrimBatol",
+		"type": "dungeons-raids-cataclysm",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/cataclysm/Grim-Batol.jpg",
+		"objectFit": false,
+		"title": "Грим Батол",
+		"description": "Подземелье для игроков 80-85 уровней.",
+		"price": 100
+	},
+
+	{
+		"id": "LostCityOfTheTolvir",
+		"type": "dungeons-raids-cataclysm",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/cataclysm/Lost-City-of-the-Tolvir.jpg",
+		"objectFit": false,
+		"title": "Затерянный Город Тол'вир",
+		"description": "Подземелье для игроков 80-85 уровней.",
+		"price": 100
+	},
+
+	{
+		"id": "HallsOfOrigination",
+		"type": "dungeons-raids-cataclysm",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/cataclysm/Halls-of-Origination.jpg",
+		"objectFit": false,
+		"title": "Чертоги Созидания",
+		"description": "Подземелье для игроков 80-85 уровней.",
+		"price": 100
+	},
+
+	{
+		"id": "ZulAman",
+		"type": "dungeons-raids-cataclysm",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/cataclysm/ZulAman.jpg",
+		"objectFit": false,
+		"title": "Зул'Аман",
+		"description": "Подземелье для игроков 80-85 уровней.",
+		"price": 100
+	},
+
+	{
+		"id": "ZulGurub",
+		"type": "dungeons-raids-cataclysm",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/cataclysm/ZulGurub.jpg",
+		"objectFit": false,
+		"title": "Зул'Гуруб",
+		"description": "Подземелье для игроков 80-85 уровней.",
+		"price": 100
+	},
+
+	{
+		"id": "WellOfEternity",
+		"type": "dungeons-raids-cataclysm",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/cataclysm/Well-of-Eternity.jpg",
+		"objectFit": false,
+		"title": "Источник Вечности",
+		"description": "Подземелье для игроков 80-85 уровней.",
+		"price": 100
+	},
+
+	{
+		"id": "HourOfTwilight",
+		"type": "dungeons-raids-cataclysm",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/cataclysm/Hour-of-Twilight.jpg",
+		"objectFit": false,
+		"title": "Время Сумерек",
+		"description": "Подземелье для игроков 80-85 уровней.",
+		"price": 100
+	},
+
+	{
+		"id": "EndTime",
+		"type": "dungeons-raids-cataclysm",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/cataclysm/End-Time.jpg",
+		"objectFit": false,
+		"title": "Конец Времен",
+		"description": "Подземелье для игроков 80-85 уровней.",
+		"price": 100
 	}
 ]

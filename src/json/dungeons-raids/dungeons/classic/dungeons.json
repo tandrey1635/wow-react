@@ -6,7 +6,8 @@
 		"img": "/src/assets/img/dungeons-raids/bg/dungeons/classic/Ragefire-Chasm.jpg",
 		"objectFit": false,
 		"title": "Огненная Пропасть",
-		"description": "Подземелье для игроков 15-25 уровней.",
+		"description": "Подземелье для игроков 15-25 уровней дополнения",
+		"addition": "Classic",
 		"price": 10
 	},
 
@@ -17,7 +18,8 @@
 		"img": "/src/assets/img/dungeons-raids/bg/dungeons/classic/Deadmines.jpg",
 		"objectFit": false,
 		"title": "Мертвые Копи",
-		"description": "Подземелье для игроков 15-25 уровней.",
+		"description": "Подземелье для игроков 15-25 уровней дополнения",
+		"addition": "Classic",
 		"price": 12
 	},
 
@@ -28,7 +30,8 @@
 		"img": "/src/assets/img/dungeons-raids/bg/dungeons/classic/Shadowfang-Keep.jpg",
 		"objectFit": false,
 		"title": "Крепость Темного Клыка",
-		"description": "Подземелье для игроков 15-25 уровней.",
+		"description": "Подземелье для игроков 15-25 уровней дополнения",
+		"addition": "Classic",
 		"price": 14
 	},
 
@@ -39,7 +42,8 @@
 		"img": "/src/assets/img/dungeons-raids/bg/dungeons/classic/Wailing-Caverns.jpg",
 		"objectFit": false,
 		"title": "Пещеры Стенаний",
-		"description": "Подземелье для игроков 15-25 уровней.",
+		"description": "Подземелье для игроков 15-25 уровней дополнения",
+		"addition": "Classic",
 		"price": 16
 	},
 
@@ -50,7 +54,8 @@
 		"img": "/src/assets/img/dungeons-raids/bg/dungeons/classic/Blackfathom-Deeps.jpg",
 		"objectFit": false,
 		"title": "Непроглядная Пучина",
-		"description": "Подземелье для игроков 15-25 уровней.",
+		"description": "Подземелье для игроков 15-25 уровней дополнения",
+		"addition": "Classic",
 		"price": 18
 	},
 
@@ -61,7 +66,8 @@
 		"img": "/src/assets/img/dungeons-raids/bg/dungeons/classic/Gnomeregan.jpg",
 		"objectFit": false,
 		"title": "Гномреган",
-		"description": "Подземелье для игроков 25-40 уровней.",
+		"description": "Подземелье для игроков 25-40 уровней дополнения",
+		"addition": "Classic",
 		"price": 20
 	},
 
@@ -72,7 +78,8 @@
 		"img": "/src/assets/img/dungeons-raids/bg/dungeons/classic/Maraudon.jpg",
 		"objectFit": false,
 		"title": "Мародон",
-		"description": "Подземелье для игроков 25-40 уровней.",
+		"description": "Подземелье для игроков 25-40 уровней дополнения",
+		"addition": "Classic",
 		"price": 22
 	},
 
@@ -83,51 +90,56 @@
 		"img": "/src/assets/img/dungeons-raids/bg/dungeons/classic/Razorfen-Kraul.jpg",
 		"objectFit": false,
 		"title": "Лабиринты Иглошкурых",
-		"description": "Подземелье для игроков 25-40 уровней.",
+		"description": "Подземелье для игроков 25-40 уровней дополнения",
+		"addition": "Classic",
 		"price": 24
 	},
 
 	{
-		"id": "",
+		"id": "RazorfenDowns",
 		"type": "dungeons-raids-classic",
 		"path": "",
-		"img": "/src/assets/img/dungeons-raids/bg/dungeons/classic/.jpg",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/classic/Razorfen-Downs.jpg",
 		"objectFit": false,
 		"title": "Курганы Иглошкурых",
-		"description": "Подземелье для игроков 25-40 уровней.",
+		"description": "Подземелье для игроков 25-40 уровней дополнения",
+		"addition": "Classic",
 		"price": 26
 	},
 
 	{
-		"id": "",
+		"id": "Stockade",
 		"type": "dungeons-raids-classic",
 		"path": "",
-		"img": "/src/assets/img/dungeons-raids/bg/dungeons/classic/.jpg",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/classic/Stockade.jpg",
 		"objectFit": false,
 		"title": "Тюрьма",
-		"description": "Подземелье для игроков 25-40 уровней.",
+		"description": "Подземелье для игроков 25-40 уровней дополнения",
+		"addition": "Classic",
 		"price": 28
 	},
 
 	{
-		"id": "",
+		"id": "ScarletMonastery",
 		"type": "dungeons-raids-classic",
 		"path": "",
-		"img": "/src/assets/img/dungeons-raids/bg/dungeons/classic/.jpg",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/classic/Scarlet-Monastery.jpg",
 		"objectFit": false,
 		"title": "Монастырь Алого Ордена",
-		"description": "Подземелье для игроков 40-50 уровней.",
+		"description": "Подземелье для игроков 40-50 уровней дополнения",
+		"addition": "Classic",
 		"price": 30
 	},
 
 	{
-		"id": "",
+		"id": "ScarletHalls",
 		"type": "dungeons-raids-classic",
 		"path": "",
-		"img": "/src/assets/img/dungeons-raids/bg/dungeons/classic/.jpg",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/classic/Scarlet-Halls.jpg",
 		"objectFit": false,
 		"title": "Залы Алого Ордена",
-		"description": "Подземелье для игроков 40-50 уровней.",
+		"description": "Подземелье для игроков 40-50 уровней дополнения",
+		"addition": "Classic",
 		"price": 32
 	},
 
@@ -138,29 +150,32 @@
 		"img": "/src/assets/img/dungeons-raids/bg/dungeons/classic/Uldaman.jpg",
 		"objectFit": false,
 		"title": "Ульдаман",
-		"description": "Подземелье для игроков 40-50 уровней.",
+		"description": "Подземелье для игроков 40-50 уровней дополнения",
+		"addition": "Classic",
 		"price": 34
 	},
 
 	{
-		"id": "",
+		"id": "ZulFarrak",
 		"type": "dungeons-raids-classic",
 		"path": "",
-		"img": "/src/assets/img/dungeons-raids/bg/dungeons/classic/.jpg",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/classic/ZulFarrak.jpg",
 		"objectFit": false,
 		"title": "Зул'Фаррак",
-		"description": "Подземелье для игроков 40-50 уровней.",
+		"description": "Подземелье для игроков 40-50 уровней дополнения",
+		"addition": "Classic",
 		"price": 36
 	},
 
 	{
-		"id": "",
+		"id": "DireMaul",
 		"type": "dungeons-raids-classic",
 		"path": "",
-		"img": "/src/assets/img/dungeons-raids/bg/dungeons/classic/.jpg",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/classic/Dire-Maul.jpg",
 		"objectFit": false,
 		"title": "Забытый Город",
-		"description": "Подземелье для игроков 40-50 уровней.",
+		"description": "Подземелье для игроков 40-50 уровней дополнения",
+		"addition": "Classic",
 		"price": 38
 	},
 
@@ -168,65 +183,71 @@
 		"id": "Scholomance",
 		"type": "dungeons-raids-classic",
 		"path": "",
-		"img": "/src/assets/img/dungeons-raids/bg/dungeons/classic/.jpg",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/classic/Scholomance.jpg",
 		"objectFit": false,
 		"title": "Некроситет",
-		"description": "Подземелье для игроков 50-60 уровней.",
+		"description": "Подземелье для игроков 50-60 уровней дополнения",
+		"addition": "Classic",
 		"price": 40
 	},
 
 	{
-		"id": "",
+		"id": "Stratholme",
 		"type": "dungeons-raids-classic",
 		"path": "",
-		"img": "/src/assets/img/dungeons-raids/bg/dungeons/classic/.jpg",
-		"objectFit": false,
-		"title": "Глубины Черной Горы",
-		"description": "Подземелье для игроков 50-60 уровней.",
-		"price": 42
-	},
-
-	{
-		"id": "",
-		"type": "dungeons-raids-classic",
-		"path": "",
-		"img": "/src/assets/img/dungeons-raids/bg/dungeons/classic/.jpg",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/classic/Stratholme.jpg",
 		"objectFit": false,
 		"title": "Стратхольм",
-		"description": "Подземелье для игроков 50-60 уровней.",
+		"description": "Подземелье для игроков 50-60 уровней дополнения",
+		"addition": "Classic",
 		"price": 44
 	},
 
 	{
-		"id": "",
+		"id": "SunkenTemple",
 		"type": "dungeons-raids-classic",
 		"path": "",
-		"img": "/src/assets/img/dungeons-raids/bg/dungeons/classic/.jpg",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/classic/Sunken-Temple.jpg",
 		"objectFit": false,
 		"title": "Затонувший Храм",
-		"description": "Подземелье для игроков 50-60 уровней.",
+		"description": "Подземелье для игроков 50-60 уровней дополнения",
+		"addition": "Classic",
 		"price": 46
 	},
 
 	{
-		"id": "",
+		"id": "BlackrockDepths",
 		"type": "dungeons-raids-classic",
 		"path": "",
-		"img": "/src/assets/img/dungeons-raids/bg/dungeons/classic/.jpg",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/classic/Blackrock-Depths.jpg",
+		"objectFit": false,
+		"title": "Глубины Черной Горы",
+		"description": "Подземелье для игроков 50-60 уровней дополнения",
+		"addition": "Classic",
+		"price": 42
+	},
+
+	{
+		"id": "LowerBlackrockSpire",
+		"type": "dungeons-raids-classic",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/classic/Lower-Blackrock-Spire.jpg",
 		"objectFit": false,
 		"title": "Нижняя Часть Пика Черной Горы",
-		"description": "Подземелье для игроков 50-60 уровней.",
+		"description": "Подземелье для игроков 50-60 уровней дополнения",
+		"addition": "Classic",
 		"price": 48
 	},
 
 	{
-		"id": "",
+		"id": "BlackrockSpire",
 		"type": "dungeons-raids-classic",
 		"path": "",
-		"img": "/src/assets/img/dungeons-raids/bg/dungeons/classic/.jpg",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/classic/Blackrock-Spire.jpg",
 		"objectFit": false,
 		"title": "Пик Черной горы",
-		"description": "Подземелье для игроков 50-60 уровней.",
+		"description": "Подземелье для игроков 50-60 уровней дополнения",
+		"addition": "Classic",
 		"price": 48
 	}
 ]

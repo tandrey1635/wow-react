@@ -1,12 +1,166 @@
 [
 	{
-		"id": "",
+		"id": "UtgardeKeep",
 		"type": "dungeons-raids-wrath-of-the-lich-king",
 		"path": "",
-		"img": "/src/assets/img/raids/bg/wrath-of-the-lich-king/.jpg",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/wrath-of-the-lich-king/Utgarde-Keep.jpg",
 		"objectFit": false,
-		"title": "Склеп Аркавона",
-		"description": "Закажите гарантированное прохождение рейда",
-		"price": 150
+		"title": "Крепость Утгард",
+		"description": "Подземелье для игроков 70-80 уровней.",
+		"price": 100
+	},
+
+	{
+		"id": "Nexus",
+		"type": "dungeons-raids-wrath-of-the-lich-king",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/wrath-of-the-lich-king/Nexus.jpg",
+		"objectFit": false,
+		"title": "Нексус",
+		"description": "Подземелье для игроков 70-80 уровней.",
+		"price": 100
+	},
+
+	{
+		"id": "AzjolNerub",
+		"type": "dungeons-raids-wrath-of-the-lich-king",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/wrath-of-the-lich-king/Azjol-Nerub.jpg",
+		"objectFit": false,
+		"title": "Азжол-Неруб",
+		"description": "Подземелье для игроков 70-80 уровней.",
+		"price": 100
+	},
+
+	{
+		"id": "AhnkahetTheOldKingdom",
+		"type": "dungeons-raids-wrath-of-the-lich-king",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/wrath-of-the-lich-king/Ahnkahet-The-Old-Kingdom.jpg",
+		"objectFit": false,
+		"title": "Ан'кахет Старое Королевство",
+		"description": "Подземелье для игроков 70-80 уровней.",
+		"price": 100
+	},
+
+	{
+		"id": "Gundrak",
+		"type": "dungeons-raids-wrath-of-the-lich-king",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/wrath-of-the-lich-king/Gundrak.jpg",
+		"objectFit": false,
+		"title": "Гундрак",
+		"description": "Подземелье для игроков 70-80 уровней.",
+		"price": 100
+	},
+
+	{
+		"id": "DrakTharonKeep",
+		"type": "dungeons-raids-wrath-of-the-lich-king",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/wrath-of-the-lich-king/DrakTharon-Keep.jpg",
+		"objectFit": false,
+		"title": "Крепость Драк'Тарон",
+		"description": "Подземелье для игроков 70-80 уровней.",
+		"price": 100
+	},
+
+	{
+		"id": "HallsOfStone",
+		"type": "dungeons-raids-wrath-of-the-lich-king",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/wrath-of-the-lich-king/Halls-of-Stone.jpg",
+		"objectFit": false,
+		"title": "Чертоги Камня",
+		"description": "Подземелье для игроков 70-80 уровней.",
+		"price": 100
+	},
+
+	{
+		"id": "HallsOfLightning",
+		"type": "dungeons-raids-wrath-of-the-lich-king",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/wrath-of-the-lich-king/Halls-of-Lightning.jpg",
+		"objectFit": false,
+		"title": "Чертоги Молний",
+		"description": "Подземелье для игроков 70-80 уровней.",
+		"price": 100
+	},
+
+	{
+		"id": "Oculus",
+		"type": "dungeons-raids-wrath-of-the-lich-king",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/wrath-of-the-lich-king/Oculus.jpg",
+		"objectFit": false,
+		"title": "Окулус",
+		"description": "Подземелье для игроков 70-80 уровней.",
+		"price": 100
+	},
+
+	{
+		"id": "CullingOfStratholme",
+		"type": "dungeons-raids-wrath-of-the-lich-king",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/wrath-of-the-lich-king/Culling-of-Stratholme.jpg",
+		"objectFit": false,
+		"title": "Очищение Стратхольма",
+		"description": "Подземелье для игроков 70-80 уровней.",
+		"price": 100
+	},
+
+	{
+		"id": "OUtgardePinnacles",
+		"type": "dungeons-raids-wrath-of-the-lich-king",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/wrath-of-the-lich-king/Utgarde-Pinnacle.jpg",
+		"objectFit": false,
+		"title": "Вершина Утгард",
+		"description": "Подземелье для игроков 70-80 уровней.",
+		"price": 100
+	},
+
+	{
+		"id": "VioletHold",
+		"type": "dungeons-raids-wrath-of-the-lich-king",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/wrath-of-the-lich-king/Violet-Hold.jpg",
+		"objectFit": false,
+		"title": "Аметистовая Крепость",
+		"description": "Подземелье для игроков 70-80 уровней.",
+		"price": 100
+	},
+
+	{
+		"id": "ForgeOfSouls",
+		"type": "dungeons-raids-wrath-of-the-lich-king",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/wrath-of-the-lich-king/Forge-of-Souls.jpg",
+		"objectFit": false,
+		"title": "Кузня Душ",
+		"description": "Подземелье для игроков 70-80 уровней.",
+		"price": 100
+	},
+
+	{
+		"id": "PitOfSaron",
+		"type": "dungeons-raids-wrath-of-the-lich-king",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/wrath-of-the-lich-king/Pit-of-Saron.jpg",
+		"objectFit": false,
+		"title": "Яма Сарона",
+		"description": "Подземелье для игроков 70-80 уровней.",
+		"price": 100
+	},
+
+	{
+		"id": "HallsOfReflection",
+		"type": "dungeons-raids-wrath-of-the-lich-king",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/wrath-of-the-lich-king/Halls-of-Reflection.jpg",
+		"objectFit": false,
+		"title": "Залы Отражений",
+		"description": "Подземелье для игроков 70-80 уровней.",
+		"price": 100
 	}
 ]
