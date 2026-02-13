@@ -8,6 +8,7 @@ import ArrowUp  from "../../../../components/ArrowUp";
 import Announcement from "../../../../components/Announcement";
 import Promo from "../../../../components/Promo";
 import WeaponDetails from "../../../../components/WeaponDetails";
+import Cards from "../../../../components/Cards";
 
 const Frostmourne = () => {
 	return (
@@ -18,6 +19,7 @@ const Frostmourne = () => {
 				<Announcement frostmourne />
 				<Promo frostmourne />
 				<WeaponDetails />
+				<Cards legendaryWeaponDetails />
 			</Main>
 			<Footer />
 			<ArrowUp />
