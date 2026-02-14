@@ -6,7 +6,8 @@
 		"img": "/src/assets/img/dungeons-raids/bg/dungeons/wrath-of-the-lich-king/Utgarde-Keep.jpg",
 		"objectFit": false,
 		"title": "Крепость Утгард",
-		"description": "Подземелье для игроков 70-80 уровней.",
+		"description": "Подземелье для игроков 70-75 уровней дополнения",
+		"addition": "Wrath of the Lich King",
 		"price": 100
 	},
 
@@ -17,7 +18,8 @@
 		"img": "/src/assets/img/dungeons-raids/bg/dungeons/wrath-of-the-lich-king/Nexus.jpg",
 		"objectFit": false,
 		"title": "Нексус",
-		"description": "Подземелье для игроков 70-80 уровней.",
+		"description": "Подземелье для игроков 70-75 уровней дополнения",
+		"addition": "Wrath of the Lich King",
 		"price": 100
 	},
 
@@ -28,8 +30,9 @@
 		"img": "/src/assets/img/dungeons-raids/bg/dungeons/wrath-of-the-lich-king/Azjol-Nerub.jpg",
 		"objectFit": false,
 		"title": "Азжол-Неруб",
-		"description": "Подземелье для игроков 70-80 уровней.",
-		"price": 100
+		"description": "Подземелье для игроков 70-75 уровней дополнения",
+		"addition": "Wrath of the Lich King",
+		"price": 105
 	},
 
 	{
@@ -39,19 +42,9 @@
 		"img": "/src/assets/img/dungeons-raids/bg/dungeons/wrath-of-the-lich-king/Ahnkahet-The-Old-Kingdom.jpg",
 		"objectFit": false,
 		"title": "Ан'кахет Старое Королевство",
-		"description": "Подземелье для игроков 70-80 уровней.",
-		"price": 100
-	},
-
-	{
-		"id": "Gundrak",
-		"type": "dungeons-raids-wrath-of-the-lich-king",
-		"path": "",
-		"img": "/src/assets/img/dungeons-raids/bg/dungeons/wrath-of-the-lich-king/Gundrak.jpg",
-		"objectFit": false,
-		"title": "Гундрак",
-		"description": "Подземелье для игроков 70-80 уровней.",
-		"price": 100
+		"description": "Подземелье для игроков 70-75 уровней дополнения",
+		"addition": "Wrath of the Lich King",
+		"price": 105
 	},
 
 	{
@@ -61,8 +54,21 @@
 		"img": "/src/assets/img/dungeons-raids/bg/dungeons/wrath-of-the-lich-king/DrakTharon-Keep.jpg",
 		"objectFit": false,
 		"title": "Крепость Драк'Тарон",
-		"description": "Подземелье для игроков 70-80 уровней.",
-		"price": 100
+		"description": "Подземелье для игроков 70-75 уровней дополнения",
+		"addition": "Wrath of the Lich King",
+		"price": 110
+	},
+
+	{
+		"id": "Gundrak",
+		"type": "dungeons-raids-wrath-of-the-lich-king",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/wrath-of-the-lich-king/Gundrak.jpg",
+		"objectFit": false,
+		"title": "Гундрак",
+		"description": "Подземелье для игроков 70-75 уровней дополнения",
+		"addition": "Wrath of the Lich King",
+		"price": 110
 	},
 
 	{
@@ -72,8 +78,9 @@
 		"img": "/src/assets/img/dungeons-raids/bg/dungeons/wrath-of-the-lich-king/Halls-of-Stone.jpg",
 		"objectFit": false,
 		"title": "Чертоги Камня",
-		"description": "Подземелье для игроков 70-80 уровней.",
-		"price": 100
+		"description": "Подземелье для игроков 70-75 уровней дополнения",
+		"addition": "Wrath of the Lich King",
+		"price": 115
 	},
 
 	{
@@ -83,8 +90,9 @@
 		"img": "/src/assets/img/dungeons-raids/bg/dungeons/wrath-of-the-lich-king/Halls-of-Lightning.jpg",
 		"objectFit": false,
 		"title": "Чертоги Молний",
-		"description": "Подземелье для игроков 70-80 уровней.",
-		"price": 100
+		"description": "Подземелье для игроков 75-80 уровней дополнения",
+		"addition": "Wrath of the Lich King",
+		"price": 115
 	},
 
 	{
@@ -94,8 +102,9 @@
 		"img": "/src/assets/img/dungeons-raids/bg/dungeons/wrath-of-the-lich-king/Oculus.jpg",
 		"objectFit": false,
 		"title": "Окулус",
-		"description": "Подземелье для игроков 70-80 уровней.",
-		"price": 100
+		"description": "Подземелье для игроков 75-80 уровней дополнения",
+		"addition": "Wrath of the Lich King",
+		"price": 120
 	},
 
 	{
@@ -105,8 +114,9 @@
 		"img": "/src/assets/img/dungeons-raids/bg/dungeons/wrath-of-the-lich-king/Culling-of-Stratholme.jpg",
 		"objectFit": false,
 		"title": "Очищение Стратхольма",
-		"description": "Подземелье для игроков 70-80 уровней.",
-		"price": 100
+		"description": "Подземелье для игроков 75-80 уровней дополнения",
+		"addition": "Wrath of the Lich King",
+		"price": 130
 	},
 
 	{
@@ -116,8 +126,9 @@
 		"img": "/src/assets/img/dungeons-raids/bg/dungeons/wrath-of-the-lich-king/Utgarde-Pinnacle.jpg",
 		"objectFit": false,
 		"title": "Вершина Утгард",
-		"description": "Подземелье для игроков 70-80 уровней.",
-		"price": 100
+		"description": "Подземелье для игроков 75-80 уровней дополнения",
+		"addition": "Wrath of the Lich King",
+		"price": 130
 	},
 
 	{
@@ -127,8 +138,21 @@
 		"img": "/src/assets/img/dungeons-raids/bg/dungeons/wrath-of-the-lich-king/Violet-Hold.jpg",
 		"objectFit": false,
 		"title": "Аметистовая Крепость",
-		"description": "Подземелье для игроков 70-80 уровней.",
-		"price": 100
+		"description": "Подземелье для игроков 75-80 уровней дополнения",
+		"addition": "Wrath of the Lich King",
+		"price": 130
+	},
+
+	{
+		"id": "TrialOfTheChampion",
+		"type": "dungeons-raids-wrath-of-the-lich-king",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/wrath-of-the-lich-king/Trial-of-the-Champion.jpg",
+		"objectFit": false,
+		"title": "Испытание Чемпиона",
+		"description": "Подземелье для игроков 75-80 уровней дополнения",
+		"addition": "Wrath of the Lich King",
+		"price": 140
 	},
 
 	{
@@ -138,8 +162,9 @@
 		"img": "/src/assets/img/dungeons-raids/bg/dungeons/wrath-of-the-lich-king/Forge-of-Souls.jpg",
 		"objectFit": false,
 		"title": "Кузня Душ",
-		"description": "Подземелье для игроков 70-80 уровней.",
-		"price": 100
+		"description": "Подземелье для игроков 75-80 уровней дополнения",
+		"addition": "Wrath of the Lich King",
+		"price": 148
 	},
 
 	{
@@ -149,8 +174,9 @@
 		"img": "/src/assets/img/dungeons-raids/bg/dungeons/wrath-of-the-lich-king/Pit-of-Saron.jpg",
 		"objectFit": false,
 		"title": "Яма Сарона",
-		"description": "Подземелье для игроков 70-80 уровней.",
-		"price": 100
+		"description": "Подземелье для игроков 75-80 уровней дополнения",
+		"addition": "Wrath of the Lich King",
+		"price": 148
 	},
 
 	{
@@ -160,7 +186,8 @@
 		"img": "/src/assets/img/dungeons-raids/bg/dungeons/wrath-of-the-lich-king/Halls-of-Reflection.jpg",
 		"objectFit": false,
 		"title": "Залы Отражений",
-		"description": "Подземелье для игроков 70-80 уровней.",
-		"price": 100
+		"description": "Подземелье для игроков 75-80 уровней дополнения",
+		"addition": "Wrath of the Lich King",
+		"price": 148
 	}
 ]
