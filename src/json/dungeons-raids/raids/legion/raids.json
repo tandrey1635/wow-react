@@ -3,10 +3,11 @@
 		"id": "EmeraldNightmare",
 		"type": "dungeons-raids-legion",
 		"path": "",
-		"img": "/src/assets/img/raids/bg/legion/Emerald-Nightmare.jpg",
+		"img": "/src/assets/img/dungeons-raids/bg/raids/legion/Emerald-Nightmare.jpg",
 		"objectFit": false,
 		"title": "Изумрудный Кошмар",
-		"description": "Закажите гарантированное прохождение рейда",
+		"description": "Рейд для игроков 110 уровня дополнения",
+		"addition": "Legion",
 		"price": 350
 	},
 
@@ -14,10 +15,11 @@
 		"id": "TrialOfValor",
 		"type": "dungeons-raids-legion",
 		"path": "",
-		"img": "/src/assets/img/raids/bg/legion/Trial-of-Valor.jpg",
+		"img": "/src/assets/img/dungeons-raids/bg/raids/legion/Trial-of-Valor.jpg",
 		"objectFit": false,
 		"title": "Испытание Доблести",
-		"description": "Закажите гарантированное прохождение рейда",
+		"description": "Рейд для игроков 110 уровня дополнения",
+		"addition": "Legion",
 		"price": 360
 	},
 
@@ -25,10 +27,11 @@
 		"id": "Nighthold",
 		"type": "dungeons-raids-legion",
 		"path": "",
-		"img": "/src/assets/img/raids/bg/legion/Nighthold.jpg",
+		"img": "/src/assets/img/dungeons-raids/bg/raids/legion/Nighthold.jpg",
 		"objectFit": false,
 		"title": "Цитадель Ночи",
-		"description": "Закажите гарантированное прохождение рейда",
+		"description": "Рейд для игроков 110 уровня дополнения",
+		"addition": "Legion",
 		"price": 370
 	},
 
@@ -36,10 +39,11 @@
 		"id": "TombOfSargeras",
 		"type": "dungeons-raids-legion",
 		"path": "",
-		"img": "/src/assets/img/raids/bg/legion/Tomb-of-Sargeras.jpg",
+		"img": "/src/assets/img/dungeons-raids/bg/raids/legion/Tomb-of-Sargeras.jpg",
 		"objectFit": false,
 		"title": "Гробница Саргераса",
-		"description": "Закажите гарантированное прохождение рейда",
+		"description": "Рейд для игроков 110 уровня дополнения",
+		"addition": "Legion",
 		"price": 380
 	},
 
@@ -47,10 +51,11 @@
 		"id": "AntorusTheBurningThrone",
 		"type": "dungeons-raids-legion",
 		"path": "",
-		"img": "/src/assets/img/raids/bg/legion/Antorus-the-Burning-Throne.jpg",
+		"img": "/src/assets/img/dungeons-raids/bg/raids/legion/Antorus-the-Burning-Throne.jpg",
 		"objectFit": false,
 		"title": "Анторус Пылающий Трон",
-		"description": "Закажите гарантированное прохождение рейда",
+		"description": "Рейд для игроков 110 уровня дополнения",
+		"addition": "Legion",
 		"price": 390
 	}
 ]

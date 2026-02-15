@@ -2,7 +2,7 @@
 	{
 		"id": "Dungeons",
 		"path": "dungeons",
-		"img": "/src/assets/img/promo/bg/.png",
+		"img": "src/assets/img/dungeons-raids/bg/dungeons.jpg",
 		"objectFit": false,
 		"title": "Подземелья",
 		"description": "Эпические подземелья для 5 игроков. Полное прохождение подземелий любой сложности.",
@@ -13,7 +13,7 @@
 		"id": "Raids",
 		"className": "card-raids card-raids-burning-crusade",
 		"path": "raids",
-		"img": "/src/assets/img/promo/bg/.png",
+		"img": "src/assets/img/dungeons-raids/bg/raids.jpg",
 		"objectFit": false,
 		"title": "Рейды",
 		"description": "Легендарные рейды на 10-30 игроков. Полное прохождение рейдов любой сложности.",

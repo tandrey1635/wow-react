@@ -3,10 +3,11 @@
 		"id": "Uldir",
 		"type": "dungeons-raids-battle-for-azeroth",
 		"path": "",
-		"img": "/src/assets/img/raids/bg/battle-for-azeroth/Uldir.jpg",
+		"img": "/src/assets/img/dungeons-raids/bg/raids/battle-for-azeroth/Uldir.jpg",
 		"objectFit": false,
 		"title": "Ульдир",
-		"description": "Закажите гарантированное прохождение рейда",
+		"description": "Рейд для игроков 120 уровня дополнения",
+		"addition": "Battle for Azeroth",
 		"price": 400
 	},
 
@@ -14,10 +15,11 @@
 		"id": "BattleOfDazaralor",
 		"type": "dungeons-raids-battle-for-azeroth",
 		"path": "",
-		"img": "/src/assets/img/raids/bg/battle-for-azeroth/Battle-of-Dazaralor.jpg",
+		"img": "/src/assets/img/dungeons-raids/bg/raids/battle-for-azeroth/Battle-of-Dazaralor.jpg",
 		"objectFit": false,
 		"title": "Битва за Дазар'алор",
-		"description": "Закажите гарантированное прохождение рейда",
+		"description": "Рейд для игроков 120 уровня дополнения",
+		"addition": "Battle for Azeroth",
 		"price": 410
 	},
 
@@ -25,10 +27,11 @@
 		"id": "CrucibleOfStorms",
 		"type": "dungeons-raids-battle-for-azeroth",
 		"path": "",
-		"img": "/src/assets/img/raids/bg/battle-for-azeroth/Crucible-of-Storms.jpg",
+		"img": "/src/assets/img/dungeons-raids/bg/raids/battle-for-azeroth/Crucible-of-Storms.jpg",
 		"objectFit": false,
 		"title": "Горнило Штормов",
-		"description": "Закажите гарантированное прохождение рейда",
+		"description": "Рейд для игроков 120 уровня дополнения",
+		"addition": "Battle for Azeroth",
 		"price": 420
 	},
 
@@ -36,10 +39,11 @@
 		"id": "EternalPalace",
 		"type": "dungeons-raids-battle-for-azeroth",
 		"path": "",
-		"img": "/src/assets/img/raids/bg/battle-for-azeroth/Eternal-Palace.jpg",
+		"img": "/src/assets/img/dungeons-raids/bg/raids/battle-for-azeroth/Eternal-Palace.jpg",
 		"objectFit": false,
 		"title": "Вечный Дворец",
-		"description": "Закажите гарантированное прохождение рейда",
+		"description": "Рейд для игроков 120 уровня дополнения",
+		"addition": "Battle for Azeroth",
 		"price": 430
 	},
 
@@ -47,10 +51,11 @@
 		"id": "NyalothaTheWakingCity",
 		"type": "dungeons-raids-battle-for-azeroth",
 		"path": "",
-		"img": "/src/assets/img/raids/bg/battle-for-azeroth/Nyalotha-the-Waking-City.jpg",
+		"img": "/src/assets/img/dungeons-raids/bg/raids/battle-for-azeroth/Nyalotha-the-Waking-City.jpg",
 		"objectFit": false,
 		"title": "Ни'алота, Пробуждающийся Город",
-		"description": "Закажите гарантированное прохождение рейда",
+		"description": "Рейд для игроков 120 уровня дополнения",
+		"addition": "Battle for Azeroth",
 		"price": 440
 	}
 ]

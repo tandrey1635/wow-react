@@ -16,8 +16,8 @@ const Classic = () => {
 			<Header />
 			<Main>
 				<h1 style={{fontSize: 120}} className="text-center text-danger">В разработке</h1>
-				<Announcement сlassic />
-				<Promo сlassic />
+				<Announcement raidsClassic />
+				<Promo classic />
 				<Cards raidsClassic />
 			</Main>
 			<Footer />

@@ -3,10 +3,11 @@
 		"id": "Karazhan",
 		"type": "dungeons-raids-burning-crusade",
 		"path": "",
-		"img": "/src/assets/img/raids/bg/burning-crusade/Karazhan.jpg",
+		"img": "/src/assets/img/dungeons-raids/bg/raids/burning-crusade/Karazhan.jpg",
 		"objectFit": false,
 		"title": "Каражан",
-		"description": "Закажите гарантированное прохождение рейда",
+		"description": "Рейд для игроков 70 уровня дополнения",
+		"addition": "The Burning Crusade",
 		"price": 100
 	},
 
@@ -14,10 +15,11 @@
 		"id": "GruulsLair",
 		"type": "dungeons-raids-burning-crusade",
 		"path": "",
-		"img": "/src/assets/img/raids/bg/burning-crusade/Gruuls-Lair.jpg",
+		"img": "/src/assets/img/dungeons-raids/bg/raids/burning-crusade/Gruuls-Lair.jpg",
 		"objectFit": false,
 		"title": "Логово Груула",
-		"description": "Закажите гарантированное прохождение рейда",
+		"description": "Рейд для игроков 70 уровня дополнения",
+		"addition": "The Burning Crusade",
 		"price": 100
 	},
 
@@ -25,10 +27,11 @@
 		"id": "MagtheridonsLair",
 		"type": "dungeons-raids-burning-crusade",
 		"path": "",
-		"img": "/src/assets/img/raids/bg/burning-crusade/Magtheridons-Lair.jpg",
+		"img": "/src/assets/img/dungeons-raids/bg/raids/burning-crusade/Magtheridons-Lair.jpg",
 		"objectFit": false,
 		"title": "Логово Магтеридона",
-		"description": "Закажите гарантированное прохождение рейда",
+		"description": "Рейд для игроков 70 уровня дополнения",
+		"addition": "The Burning Crusade",
 		"price": 100
 	},
 
@@ -36,10 +39,11 @@
 		"id": "SerpentshrineCavern",
 		"type": "dungeons-raids-burning-crusade",
 		"path": "",
-		"img": "/src/assets/img/raids/bg/burning-crusade/Serpentshrine-Cavern.jpg",
+		"img": "/src/assets/img/dungeons-raids/bg/raids/burning-crusade/Serpentshrine-Cavern.jpg",
 		"objectFit": false,
 		"title": "Змеиное Святилище",
-		"description": "Закажите гарантированное прохождение рейда",
+		"description": "Рейд для игроков 70 уровня дополнения",
+		"addition": "The Burning Crusade",
 		"price": 120
 	},
 
@@ -47,10 +51,11 @@
 		"id": "TempestKeep",
 		"type": "dungeons-raids-burning-crusade",
 		"path": "",
-		"img": "/src/assets/img/raids/bg/burning-crusade/Tempest-Keep.jpg",
+		"img": "/src/assets/img/dungeons-raids/bg/raids/burning-crusade/Tempest-Keep.jpg",
 		"objectFit": false,
 		"title": "Крепость Бурь",
-		"description": "Закажите гарантированное прохождение рейда",
+		"description": "Рейд для игроков 70 уровня дополнения",
+		"addition": "The Burning Crusade",
 		"price": 120
 	},
 
@@ -58,10 +63,11 @@
 		"id": "HyjalSummit",
 		"type": "dungeons-raids-burning-crusade",
 		"path": "",
-		"img": "/src/assets/img/raids/bg/burning-crusade/Hyjal-Summit.jpg",
+		"img": "/src/assets/img/dungeons-raids/bg/raids/burning-crusade/Hyjal-Summit.jpg",
 		"objectFit": false,
 		"title": "Вершина Хиджала",
-		"description": "Закажите гарантированное прохождение рейда",
+		"description": "Рейд для игроков 70 уровня дополнения",
+		"addition": "The Burning Crusade",
 		"price": 130
 	},
 
@@ -69,10 +75,11 @@
 		"id": "BlackTemple",
 		"type": "dungeons-raids-burning-crusade",
 		"path": "",
-		"img": "/src/assets/img/raids/bg/burning-crusade/Black-Temple.jpg",
+		"img": "/src/assets/img/dungeons-raids/bg/raids/burning-crusade/Black-Temple.jpg",
 		"objectFit": false,
 		"title": "Черный Храм",
-		"description": "Закажите гарантированное прохождение рейда",
+		"description": "Рейд для игроков 70 уровня дополнения",
+		"addition": "The Burning Crusade",
 		"price": 130
 	},
 
@@ -80,10 +87,11 @@
 		"id": "ZulAman",
 		"type": "dungeons-raids-burning-crusade",
 		"path": "",
-		"img": "/src/assets/img/raids/bg/burning-crusade/ZulAman.jpg",
+		"img": "/src/assets/img/dungeons-raids/bg/raids/burning-crusade/ZulAman.jpg",
 		"objectFit": false,
 		"title": "Зул'Аман",
-		"description": "Закажите гарантированное прохождение рейда",
+		"description": "Рейд для игроков 70 уровня дополнения",
+		"addition": "The Burning Crusade",
 		"price": 130
 	},
 
@@ -91,10 +99,11 @@
 		"id": "SunwellPlateau",
 		"type": "dungeons-raids-burning-crusade",
 		"path": "",
-		"img": "/src/assets/img/raids/bg/burning-crusade/Sunwell-Plateau.jpg",
+		"img": "/src/assets/img/dungeons-raids/bg/raids/burning-crusade/Sunwell-Plateau.jpg",
 		"objectFit": false,
 		"title": "Плато Солнечного Колодца",
-		"description": "Закажите гарантированное прохождение рейда",
+		"description": "Рейд для игроков 70 уровня дополнения",
+		"addition": "The Burning Crusade",
 		"price": 140
 	}
 ]

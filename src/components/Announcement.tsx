@@ -1,4 +1,4 @@
-const Announcement = ({ home, races, horde, alliance, warrior, druid, priest, mage, monk, hunter, demonHunter, paladin, awakener, rogue, deathKnight, warlock, shaman, oneHandedWeapons, twoHandedWeapons, rangeWeapons, legendaryWeapons, artifactWeapons, decorativeWeapons, twoHandedAxes, weaponsDetailsTitle, weaponsDetailsDescription, ashbringer, sulfuras, thunderfury, atiesh, warglaivesOfAzzinoth, thoridal, valanyr, frostmourne, shadowmourne, tarecgosa, fangsFather, raeshalareDeathsWhisper, fyralathTheDreamrender, naszuroTheUnboundLegacy, armsWarrior, furyWarrior, protectionWarrior, armours, shields, cloaks, tabards, fishingRods, waterMounts, earthMounts, flyMounts, hordeGold, allianceGold, professions, alchemy, mining, engineering, leatherworking, blacksmithing, enchanting,  inscription, tailoring, skinning, herbalism, jewelcrafting, archaeology, riding, cooking, firstAid, fishing, junkyardTinkering, protoformSynthesis, pvp, honour, arena, rbg, dungeons, mythic5, mythic10, mythic15, сlassic, burningCrusade, wrathOfTheLichKing, cataclysm, mistsOfPandaria, warlordsOfDraenor, legion, battleForAzeroth, shadowlands, dragonflight, warWithin, midnight, lastTitan, lvlUp, lvlUpBase, lvlUpExpert, lvlUpMaster, achievements, quests, equipments, mounts, raidsExplorer, legacy, greatFeats, warcraftReforged, wow, diablo, hearthstone, heroesStorm, starcraft, overwatch, wowCollectionEditions, diabloCollectionEditions  }) => {
+const Announcement = ({ home, races, horde, alliance, warrior, druid, priest, mage, monk, hunter, demonHunter, paladin, awakener, rogue, deathKnight, warlock, shaman, oneHandedWeapons, twoHandedWeapons, rangeWeapons, legendaryWeapons, artifactWeapons, decorativeWeapons, twoHandedAxes, weaponsDetailsTitle, weaponsDetailsDescription, ashbringer, sulfuras, thunderfury, atiesh, warglaivesOfAzzinoth, thoridal, valanyr, frostmourne, shadowmourne, tarecgosa, fangsFather, raeshalareDeathsWhisper, fyralathTheDreamrender, naszuroTheUnboundLegacy, armsWarrior, furyWarrior, protectionWarrior, armours, shields, cloaks, tabards, fishingRods, waterMounts, earthMounts, flyMounts, hordeGold, allianceGold, professions, alchemy, mining, engineering, leatherworking, blacksmithing, enchanting,  inscription, tailoring, skinning, herbalism, jewelcrafting, archaeology, riding, cooking, firstAid, fishing, junkyardTinkering, protoformSynthesis, pvp, honour, arena, rbg, dungeons, mythic5, mythic10, mythic15, additionsDungeons, additionsRaids, dungeonsClassic, dungeonsBurningCrusade, dungeonsWrathOfTheLichKing, dungeonsCataclysm, dungeonsMistsOfPandaria, dungeonsWarlordsOfDraenor, dungeonsLegion, dungeonsBattleForAzeroth, dungeonsShadowlands, dungeonsDragonflight, dungeonsWarWithin, dungeonsMidnight, dungeonsLastTitan, raidsClassic, raidsBurningCrusade, raidsWrathOfTheLichKing, raidsCataclysm, raidsMistsOfPandaria, raidsWarlordsOfDraenor, raidsLegion, raidsBattleForAzeroth, raidsShadowlands, raidsDragonflight, raidsWarWithin, raidsMidnight, raidsLastTitan, lvlUp, lvlUpBase, lvlUpExpert, lvlUpMaster, achievements, quests, equipments, mounts, raidsExplorer, legacy, greatFeats, warcraftReforged, wow, diablo, hearthstone, heroesStorm, starcraft, overwatch, wowCollectionEditions, diabloCollectionEditions  }) => {
 	return (
 		<section className="announcement">
 			<div className="container">
@@ -89,43 +89,43 @@ const Announcement = ({ home, races, horde, alliance, warrior, druid, priest, ma
 							dungeons
 								? "announcement__header_dungeons"
 								:
-							сlassic
+							dungeonsClassic || raidsClassic
 								? "announcement__header_сlassic"
 								:
-							burningCrusade
+							dungeonsBurningCrusade || raidsBurningCrusade
 								? "announcement__header_burning-crusade"
 								:
-							wrathOfTheLichKing
+							dungeonsWrathOfTheLichKing || raidsWrathOfTheLichKing
 								? "announcement__header_wrath-of-the-lich-king"
 								:
-							cataclysm
+							dungeonsCataclysm || raidsCataclysm
 								? "announcement__header_cataclysm"
 								:
-							mistsOfPandaria
+							dungeonsMistsOfPandaria || raidsMistsOfPandaria
 								? "announcement__header_mists-of-pandaria"
 								:
-							warlordsOfDraenor
+							dungeonsWarlordsOfDraenor || raidsWarlordsOfDraenor
 								? "announcement__header_warlords-of-draenor"
 								:
-							legion
+							dungeonsLegion || raidsLegion
 								? "announcement__header_legion"
 								:
-							battleForAzeroth
+							dungeonsBattleForAzeroth || raidsBattleForAzeroth
 								? "announcement__header_battle-for-azeroth"
 								:
-							shadowlands
+							dungeonsShadowlands || raidsShadowlands
 								? "announcement__header_shadowlands"
 								:
-							dragonflight
+							dungeonsDragonflight || raidsDragonflight
 								? "announcement__header_dragonflight"
 								:
-							warWithin
+							dungeonsWarWithin || raidsWarWithin
 								? "announcement__header_war-within"
 								:
-							midnight
+							dungeonsMidnight || raidsMidnight
 								? "announcement__header_midnight"
 								:
-							lastTitan
+							dungeonsLastTitan || raidsLastTitan
 								? "announcement__header_last-titan"
 								:
 							lvlUp
@@ -360,44 +360,89 @@ const Announcement = ({ home, races, horde, alliance, warrior, druid, priest, ma
 							mythic15
 								? "Эпохальные Подземелья Мythic+15"
 								:
-							сlassic
-								? "Рейды дополнения Classic"
+							additionsDungeons
+								? "Подземелья World of Warcraft"
 								:
-							burningCrusade
-								? "Рейды дополнения The Burning Crusade"
+							additionsRaids
+								? "Рейды World of Warcraft"
 								:
-							wrathOfTheLichKing
-								? "Рейды дополнения Wrath of the Lich King"
+							dungeonsClassic
+								? "Подземелья дополнения\n Classic"
 								:
-							cataclysm
-								? "Рейды дополнения Cataclysm"
+							dungeonsBurningCrusade
+								? "Подземелья дополнения\n The Burning Crusade"
 								:
-							mistsOfPandaria
-								? "Рейды дополнения Mists of Pandaria"
+							dungeonsWrathOfTheLichKing
+								? "Подземелья дополнения\n Wrath of the Lich King"
 								:
-							warlordsOfDraenor
-								? "Рейды дополнения Warlords of Draenor"
+							dungeonsCataclysm
+								? "Подземелья дополнения\n Cataclysm"
 								:
-							legion
-								? "Рейды дополнения Legion"
+							dungeonsMistsOfPandaria
+								? "Подземелья дополнения\n Mists of Pandaria"
 								:
-							battleForAzeroth
-								? "Рейды дополнения Battle for Azeroth"
+							dungeonsWarlordsOfDraenor
+								? "Подземелья дополнения\n Warlords of Draenor"
 								:
-							shadowlands
-								? "Рейды дополнения Shadowlands"
+							dungeonsLegion
+								? "Подземелья дополнения\n Legion"
 								:
-							dragonflight
-								? "Рейды дополнения Dragonflight"
+							dungeonsBattleForAzeroth
+								? "Подземелья дополнения\n Battle for Azeroth"
 								:
-							warWithin
-								? "Рейды дополнения The War Within"
+							dungeonsShadowlands
+								? "Подземелья\n Shadowlands"
 								:
-							midnight
-								? "Рейды дополнения Midnight"
+							dungeonsDragonflight
+								? "Подземелья дополнения\n Dragonflight"
 								:
-							lastTitan
-								? "Рейды дополнения The Last Titan"
+							dungeonsWarWithin
+								? "Подземелья дополнения\n The War Within"
+								:
+							dungeonsMidnight
+								? "Подземелья дополнения\n Midnight"
+								:
+							dungeonsLastTitan
+								? "Подземелья дополнения\n The Last Titan"
+								:
+							raidsClassic
+								? "Рейды дополнения\n Classic"
+								:
+							raidsBurningCrusade
+								? "Рейды дополнения\n The Burning Crusade"
+								:
+							raidsWrathOfTheLichKing
+								? "Рейды дополнения\n Wrath of the Lich King"
+								:
+							raidsCataclysm
+								? "Рейды дополнения\n Cataclysm"
+								:
+							raidsMistsOfPandaria
+								? "Рейды дополнения\n Mists of Pandaria"
+								:
+							raidsWarlordsOfDraenor
+								? "Рейды дополнения\n Warlords of Draenor"
+								:
+							raidsLegion
+								? "Рейды дополнения\n Legion"
+								:
+							raidsBattleForAzeroth
+								? "Рейды дополнения\n Battle for Azeroth"
+								:
+							raidsShadowlands
+								? "Рейды дополнения\n Shadowlands"
+								:
+							raidsDragonflight
+								? "Рейды дополнения\n Dragonflight"
+								:
+							raidsWarWithin
+								? "Рейды дополнения\n The War Within"
+								:
+							raidsMidnight
+								? "Рейды дополнения\n Midnight"
+								:
+							raidsLastTitan
+								? "Рейды дополнения\n The Last Titan"
 								:
 							lvlUpBase
 								? "1-60 Уровень"

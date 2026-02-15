@@ -3,10 +3,11 @@
 		"id": "NerubarPalace",
 		"type": "dungeons-raids-war-within",
 		"path": "",
-		"img": "/src/assets/img/raids/bg/war-within/Nerubar-Palace.jpg",
+		"img": "/src/assets/img/dungeons-raids/bg/raids/war-within/Nerubar-Palace.jpg",
 		"objectFit": false,
 		"title": "Неруб'арский Дворец",
-		"description": "Закажите гарантированное прохождение рейда",
+		"description": "Рейд для игроков 80 уровня* дополнения",
+		"addition": "The War Within",
 		"price": 600
 	},
 
@@ -14,10 +15,11 @@
 		"id": "LiberationOfUndermine",
 		"type": "dungeons-raids-war-within",
 		"path": "",
-		"img": "/src/assets/img/raids/bg/war-within/Liberation-of-Undermine.jpg",
+		"img": "/src/assets/img/dungeons-raids/bg/raids/war-within/Liberation-of-Undermine.jpg",
 		"objectFit": false,
 		"title": "Освобождение Нижней Шахты",
-		"description": "Закажите гарантированное прохождение рейда",
+		"description": "Рейд для игроков 80 уровня* дополнения",
+		"addition": "The War Within",
 		"price": 620
 	},
 
@@ -25,10 +27,11 @@
 		"id": "ManaforgeOmega",
 		"type": "dungeons-raids-war-within",
 		"path": "",
-		"img": "/src/assets/img/raids/bg/war-within/Manaforge-Omega.jpg",
+		"img": "/src/assets/img/dungeons-raids/bg/raids/war-within/Manaforge-Omega.jpg",
 		"objectFit": false,
 		"title": "Манагорн Омега",
-		"description": "Закажите гарантированное прохождение рейда",
+		"description": "Рейд для игроков 80 уровня* дополнения",
+		"addition": "The War Within",
 		"price": 640
 	}
 ]

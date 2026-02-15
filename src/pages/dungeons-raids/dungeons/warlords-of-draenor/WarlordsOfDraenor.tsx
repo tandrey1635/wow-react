@@ -16,7 +16,7 @@ const WarlordsOfDraenor = () => {
 			<Header />
 			<Main>
 				<h1 style={{fontSize: 120}} className="text-center text-danger">В разработке</h1>
-				<Announcement warlordsOfDraenor />
+				<Announcement dungeonsWarlordsOfDraenor />
 				<Promo warlordsOfDraenor />
 				<Cards dungeonsWarlordsOfDraenor />
 			</Main>

@@ -3,10 +3,11 @@
 		"id": "BaradinHold",
 		"type": "dungeons-raids-cataclysm",
 		"path": "",
-		"img": "/src/assets/img/raids/bg/cataclysm/Baradin-Hold.jpg",
+		"img": "/src/assets/img/dungeons-raids/bg/raids/cataclysm/Baradin-Hold.jpg",
 		"objectFit": false,
 		"title": "Крепость Барадин",
-		"description": "Закажите гарантированное прохождение рейда",
+		"description": "Рейд для игроков 85 уровня дополнения",
+		"addition": "Cataclysm",
 		"price": 200
 	},
 
@@ -14,10 +15,11 @@
 		"id": "BlackwingDescent",
 		"type": "dungeons-raids-cataclysm",
 		"path": "",
-		"img": "/src/assets/img/raids/bg/cataclysm/Blackwing-Descent.jpg",
+		"img": "/src/assets/img/dungeons-raids/bg/raids/cataclysm/Blackwing-Descent.jpg",
 		"objectFit": false,
 		"title": "Твердыня Крыла Тьмы",
-		"description": "Закажите гарантированное прохождение рейда",
+		"description": "Рейд для игроков 85 уровня дополнения",
+		"addition": "Cataclysm",
 		"price": 220
 	},
 
@@ -25,10 +27,11 @@
 		"id": "BastionOfTwilight",
 		"type": "dungeons-raids-cataclysm",
 		"path": "",
-		"img": "/src/assets/img/raids/bg/cataclysm/Bastion-of-Twilight.jpg",
+		"img": "/src/assets/img/dungeons-raids/bg/raids/cataclysm/Bastion-of-Twilight.jpg",
 		"objectFit": false,
 		"title": "Сумеречный Бастион",
-		"description": "Закажите гарантированное прохождение рейда",
+		"description": "Рейд для игроков 85 уровня дополнения",
+		"addition": "Cataclysm",
 		"price": 220
 	},
 
@@ -36,10 +39,11 @@
 		"id": "ThroneOfTheFourWinds",
 		"type": "dungeons-raids-cataclysm",
 		"path": "",
-		"img": "/src/assets/img/raids/bg/cataclysm/Throne-of-the-Four-Winds.jpg",
+		"img": "/src/assets/img/dungeons-raids/bg/raids/cataclysm/Throne-of-the-Four-Winds.jpg",
 		"objectFit": false,
 		"title": "Трон Четырех Ветров",
-		"description": "Закажите гарантированное прохождение рейда",
+		"description": "Рейд для игроков 85 уровня дополнения",
+		"addition": "Cataclysm",
 		"price": 220
 	},
 
@@ -47,10 +51,11 @@
 		"id": "Firelands",
 		"type": "dungeons-raids-cataclysm",
 		"path": "",
-		"img": "/src/assets/img/raids/bg/cataclysm/Firelands.jpg",
+		"img": "/src/assets/img/dungeons-raids/bg/raids/cataclysm/Firelands.jpg",
 		"objectFit": false,
 		"title": "Огненные Просторы",
-		"description": "Закажите гарантированное прохождение рейда",
+		"description": "Рейд для игроков 85 уровня дополнения",
+		"addition": "Cataclysm",
 		"price": 230
 	},
 
@@ -58,10 +63,11 @@
 		"id": "DragonSoul",
 		"type": "dungeons-raids-cataclysm",
 		"path": "",
-		"img": "/src/assets/img/raids/bg/cataclysm/Dragon-Soul.jpg",
+		"img": "/src/assets/img/dungeons-raids/bg/raids/cataclysm/Dragon-Soul.jpg",
 		"objectFit": false,
 		"title": "Душа Дракона",
-		"description": "Закажите гарантированное прохождение рейда",
+		"description": "Рейд для игроков 85 уровня дополнения",
+		"addition": "Cataclysm",
 		"price": 240
 	}
 ]

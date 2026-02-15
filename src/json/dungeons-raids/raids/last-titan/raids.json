@@ -3,10 +3,11 @@
 		"id": "LastTitan",
 		"type": "dungeons-raids-last-titan",
 		"path": "",
-		"img": "/src/assets/img/raids/bg/last-titan/Last-Titan.png",
+		"img": "/src/assets/img/dungeons-raids/bg/raids/last-titan/Last-Titan.png",
 		"objectFit": false,
 		"title": "The Last Titan",
-		"description": "Закажите гарантированное прохождение рейда",
+		"description": "Рейд для игроков 100 уровня* дополнения",
+		"addition": "The Last Titan",
 		"price": 1000
 	}
 ]

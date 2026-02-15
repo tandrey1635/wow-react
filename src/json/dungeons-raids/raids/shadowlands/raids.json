@@ -3,10 +3,11 @@
 		"id": "CastleNathria",
 		"type": "dungeons-raids-shadowlands",
 		"path": "",
-		"img": "/src/assets/img/raids/bg/shadowlands/Castle-Nathria.jpg",
+		"img": "/src/assets/img/dungeons-raids/bg/raids/shadowlands/Castle-Nathria.jpg",
 		"objectFit": false,
 		"title": "Замок Нафрия",
-		"description": "Закажите гарантированное прохождение рейда",
+		"description": "Рейд для игроков 60 уровня* дополнения",
+		"addition": "Shadowlands",
 		"price": 450
 	},
 
@@ -14,10 +15,11 @@
 		"id": "SanctumOfDomination",
 		"type": "dungeons-raids-shadowlands",
 		"path": "",
-		"img": "/src/assets/img/raids/bg/shadowlands/Sanctum-of-Domination.jpg",
+		"img": "/src/assets/img/dungeons-raids/bg/raids/shadowlands/Sanctum-of-Domination.jpg",
 		"objectFit": false,
 		"title": "Святилище Господства",
-		"description": "Закажите гарантированное прохождение рейда",
+		"description": "Рейд для игроков 60 уровня* дополнения",
+		"addition": "Shadowlands",
 		"price": 470
 	},
 
@@ -25,10 +27,11 @@
 		"id": "SepulcherOfTheFirstOnes",
 		"type": "dungeons-raids-shadowlands",
 		"path": "",
-		"img": "/src/assets/img/raids/bg/shadowlands/Sepulcher-of-the-First-Ones.jpg",
+		"img": "/src/assets/img/dungeons-raids/bg/raids/shadowlands/Sepulcher-of-the-First-Ones.jpg",
 		"objectFit": false,
 		"title": "Гробница Предвечных",
-		"description": "Закажите гарантированное прохождение рейда",
+		"description": "Рейд для игроков 60 уровня* дополнения",
+		"addition": "Shadowlands",
 		"price": 490
 	}
 ]

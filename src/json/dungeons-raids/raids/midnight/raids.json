@@ -3,10 +3,11 @@
 		"id": "Midnight",
 		"type": "dungeons-raids-midnight",
 		"path": "",
-		"img": "/src/assets/img/raids/bg/midnight/Midnight.png",
+		"img": "/src/assets/img/dungeons-raids/bg/raids/midnight/Midnight.png",
 		"objectFit": false,
 		"title": "Midnight",
-		"description": "Закажите гарантированное прохождение рейда",
+		"description": "Рейд для игроков 90 уровня* дополнения",
+		"addition": "Midnight",
 		"price": 800
 	}
 ]

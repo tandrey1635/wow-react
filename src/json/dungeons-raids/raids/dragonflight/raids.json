@@ -3,10 +3,11 @@
 		"id": "VaultOfTheIncarnates",
 		"type": "dungeons-raids-dragonflight",
 		"path": "",
-		"img": "/src/assets/img/raids/bg/dragonflight/Vault-of-the-Incarnates.jpg",
+		"img": "/src/assets/img/dungeons-raids/bg/raids/dragonflight/Vault-of-the-Incarnates.jpg",
 		"objectFit": false,
 		"title": "Хранилище Воплощений",
-		"description": "Закажите гарантированное прохождение рейда",
+		"description": "Рейд для игроков 70 уровня* дополнения",
+		"addition": "Dragonflight",
 		"price": 500
 	},
 
@@ -14,10 +15,11 @@
 		"id": "AberrusTheShadowedCrucible",
 		"type": "dungeons-raids-dragonflight",
 		"path": "",
-		"img": "/src/assets/img/raids/bg/dragonflight/Aberrus-the-Shadowed-Crucible.jpg",
+		"img": "/src/assets/img/dungeons-raids/bg/raids/dragonflight/Aberrus-the-Shadowed-Crucible.jpg",
 		"objectFit": false,
 		"title": "Аберрий, Затененное Горнило",
-		"description": "Закажите гарантированное прохождение рейда",
+		"description": "Рейд для игроков 70 уровня* дополнения",
+		"addition": "Dragonflight",
 		"price": 520
 	},
 
@@ -25,10 +27,11 @@
 		"id": "AmirdrassilTheDreamsHope",
 		"type": "dungeons-raids-dragonflight",
 		"path": "",
-		"img": "/src/assets/img/raids/bg/dragonflight/Amirdrassil-the-Dreams-Hope.jpg",
+		"img": "/src/assets/img/dungeons-raids/bg/raids/dragonflight/Amirdrassil-the-Dreams-Hope.jpg",
 		"objectFit": false,
 		"title": "Амирдрассил, Надежда Сна",
-		"description": "Закажите гарантированное прохождение рейда",
+		"description": "Рейд для игроков 70 уровня* дополнения",
+		"addition": "Dragonflight",
 		"price": 540
 	}
 ]

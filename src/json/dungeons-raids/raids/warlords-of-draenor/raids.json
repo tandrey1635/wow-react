@@ -3,10 +3,11 @@
 		"id": "Highmaul",
 		"type": "dungeons-raids-warlords-of-draenor",
 		"path": "",
-		"img": "/src/assets/img/raids/bg/warlords-of-draenor/Highmaul.jpg",
+		"img": "/src/assets/img/dungeons-raids/bg/raids/warlords-of-draenor/Highmaul.jpg",
 		"objectFit": false,
 		"title": "Верховный Молот",
-		"description": "Закажите гарантированное прохождение рейда",
+		"description": "Рейд для игроков 100 уровня дополнения",
+		"addition": "Warlords of Draenor",
 		"price": 300
 	},
 
@@ -14,10 +15,11 @@
 		"id": "BlackrockFoundry",
 		"type": "dungeons-raids-warlords-of-draenor",
 		"path": "",
-		"img": "/src/assets/img/raids/bg/warlords-of-draenor/Blackrock-Foundry.jpg",
+		"img": "/src/assets/img/dungeons-raids/bg/raids/warlords-of-draenor/Blackrock-Foundry.jpg",
 		"objectFit": false,
 		"title": "Литейная Клана Черной горы",
-		"description": "Закажите гарантированное прохождение рейда",
+		"description": "Рейд для игроков 100 уровня дополнения",
+		"addition": "Warlords of Draenor",
 		"price": 320
 	},
 
@@ -25,10 +27,11 @@
 		"id": "HellfireCitadel",
 		"type": "dungeons-raids-warlords-of-draenor",
 		"path": "",
-		"img": "/src/assets/img/raids/bg/warlords-of-draenor/Hellfire-Citadel.jpg",
+		"img": "/src/assets/img/dungeons-raids/bg/raids/warlords-of-draenor/Hellfire-Citadel.jpg",
 		"objectFit": false,
 		"title": "Цитадель Адского Пламени",
-		"description": "Закажите гарантированное прохождение рейда",
+		"description": "Рейд для игроков 100 уровня дополнения",
+		"addition": "Warlords of Draenor",
 		"price": 340
 	}
 ]

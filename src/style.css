@@ -282,6 +282,9 @@ footer {
 .announcement__header_achievements, .announcement__subheader_achievements {
   color: #607d8b;
 }
+.announcement__header {
+  white-space: pre-wrap;
+}
 .announcement__subheader {
   margin-top: 20px;
   font-size: 36px;
@@ -1944,10 +1947,12 @@ footer {
 .services {
   padding: 50px 0;
   min-height: 500px;
-  /* Dropdown меню */
 }
 .services .nav-item {
   position: relative;
+}
+.services {
+  /* Dropdown меню */
 }
 .services__nav {
   position: absolute;
