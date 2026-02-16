@@ -69,7 +69,6 @@ import dataGold from '../json/gold/gold.json';
 import dataMounts from '../json/mounts/mounts.json';
 import dataProfessions from '../json/professions/professions.json';
 import dataPvp from '../json/pvp/pvp.json';
-import dataDungeons from '../json/dungeons/dungeons.json';
 import dataDungeonsRaids from '../json/dungeons-raids/dungeons-raids.json';
 
 
@@ -121,7 +120,7 @@ import type { ICard, IWeaponDetails }  from "../types/card-types";
 
 
 
-const Cards = ({home, races, horde, alliance, raidsArmoursWarrior, raidsArmoursDruid, raidsArmoursPriest, raidsArmoursMage, raidsArmoursMonk, raidsArmoursHunter, raidsArmoursDemonHunter, raidsArmoursPaladin, raidsArmoursAwakener, raidsArmoursRogue, raidsArmoursDeathKnight, raidsArmoursWarlock, raidsArmoursShaman, twoHandedWeapons, twoHandedAxes, twoHandedAxesWeaponDetails, legendaryWeapons, legendaryWeaponDetails, classes, warriorArtifacts, druidArtifacts, priestArtifacts, mageArtifacts, monkArtifacts, hunterArtifacts, demonHunterArtifacts, paladinArtifacts, rogueArtifacts, deathKnightArtifacts, warlockArtifacts, shamanArtifacts, armsWarrior, furyWarrior, protectionWarrior, cloaks, waterMounts, flyMounts, additionsDungeons, additionsRaids, classic, dungeonsClassic, dungeonsBurningCrusade, dungeonsWrathOfTheLichKing, dungeonsCataclysm, dungeonsMistsOfPandaria, dungeonsWarlordsOfDraenor, dungeonsLegion, dungeonsBattleForAzeroth, dungeonsShadowlands, dungeonsDragonflight, dungeonsWarWithin, dungeonsMidnight, dungeonsLastTitan, raidsClassic, raidsBurningCrusade, raidsWrathOfTheLichKing, raidsCataclysm, raidsMistsOfPandaria, raidsWarlordsOfDraenor, raidsLegion, raidsBattleForAzeroth, raidsShadowlands, raidsDragonflight, raidsWarWithin, raidsMidnight, raidsLastTitan, greatFeats, wowAnniversary, wowCollectionEditions}) => {
+const Cards = ({home, races, horde, alliance, raidsArmoursWarrior, raidsArmoursDruid, raidsArmoursPriest, raidsArmoursMage, raidsArmoursMonk, raidsArmoursHunter, raidsArmoursDemonHunter, raidsArmoursPaladin, raidsArmoursAwakener, raidsArmoursRogue, raidsArmoursDeathKnight, raidsArmoursWarlock, raidsArmoursShaman, twoHandedWeapons, twoHandedAxes, twoHandedAxesWeaponDetails, legendaryWeapons, legendaryWeaponDetails, classes, warriorArtifacts, druidArtifacts, priestArtifacts, mageArtifacts, monkArtifacts, hunterArtifacts, demonHunterArtifacts, paladinArtifacts, rogueArtifacts, deathKnightArtifacts, warlockArtifacts, shamanArtifacts, armsWarrior, furyWarrior, protectionWarrior, cloaks, waterMounts, flyMounts, additionsDungeons, additionsRaids, dungeonsClassic, dungeonsBurningCrusade, dungeonsWrathOfTheLichKing, dungeonsCataclysm, dungeonsMistsOfPandaria, dungeonsWarlordsOfDraenor, dungeonsLegion, dungeonsBattleForAzeroth, dungeonsShadowlands, dungeonsDragonflight, dungeonsWarWithin, dungeonsMidnight, dungeonsLastTitan, raidsClassic, raidsBurningCrusade, raidsWrathOfTheLichKing, raidsCataclysm, raidsMistsOfPandaria, raidsWarlordsOfDraenor, raidsLegion, raidsBattleForAzeroth, raidsShadowlands, raidsDragonflight, raidsWarWithin, raidsMidnight, raidsLastTitan, greatFeats, wowAnniversary, wowCollectionEditions}) => {
 
 	const basePathImg = '/src/assets/img'
 
@@ -248,13 +247,6 @@ const Cards = ({home, races, horde, alliance, raidsArmoursWarrior, raidsArmoursD
 							<div className="tab-pane fade fade show active mt-5" id="pills-pvp">
 								<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
 									{ renderCardItems(dataPvp) }
-								</div>
-							</div>
-
-							{/* Таб контент эпохальные подземелья */}
-							<div className="tab-pane fade show active mt-5" id="pills-dungeons">
-								<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-									{ renderCardItems(dataDungeons) }
 								</div>
 							</div>
 

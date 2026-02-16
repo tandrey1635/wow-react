@@ -247,24 +247,6 @@ const Nav = ({home, warrior, druid, priest, mage, monk, hunter, demonHunter, pal
 							</ul>
 						</li>
 
-						{/* Табы Эпохальные Подземелья */}
-						<li className="nav-item nav-item-dungeons" role="presentation">
-							<a className="nav-link nav-link-tabs nav-link-dungeons" id="pills-dungeons-tab" data-toggle="pill" href="#pills-dungeons" role="tab" aria-controls="pills-dungeons" aria-selected="false">Эпохальные подземелья</a>
-							<ul className="nav nav-pills services__nav nav-dungeons">
-								<li className="nav-item">
-									<a className="nav-link services__link nav-link-dungeons" href="html/dungeons/m+10.html">Мифик +5</a>
-								</li>
-
-								<li className="nav-item">
-									<a className="nav-link services__link nav-link-dungeons" href="html/dungeons/m+10.html">Мифик +10</a>
-								</li>
-
-								<li className="nav-item">
-									<a className="nav-link services__link nav-link-dungeons" href="html/dungeons/m+15.html">Мифик +15</a>
-								</li>
-							</ul>
-						</li>
-
 						{/* Табы Рейды */}
 						<li className="nav-item nav-item-raids" role="presentation">
 							<a className="nav-link nav-link-tabs nav-link-tabs nav-link-raids" id="pills-raids-tab" data-toggle="pill" href="#pills-raids" role="tab" aria-controls="pills-raids" aria-selected="false">Подземелья и Рейды</a>

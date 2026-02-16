@@ -1,4 +1,4 @@
-const Promo = ({ races, horde, alliance, warrior, druid, priest, mage, monk, hunter, demonHunter, paladin, awakener, rogue, deathKnight, warlock, shaman, oneHandedWeapons, twoHandedWeapons, rangeWeapons, legendaryWeapons, artifactWeapons, decorativeWeapons, twoHandedAxes, ashbringer, sulfuras, thunderfury, atiesh, warglaivesOfAzzinoth, thoridal, valanyr, frostmourne, shadowmourne, tarecgosa, fangsFather, raeshalareDeathsWhisper, fyralathTheDreamrender, naszuroTheUnboundLegacy, armsWarrior, furyWarrior, protectionWarrior, shields, cloaks, tabards, fishingRods, waterMounts, earthMounts, flyMounts, hordeGold, allianceGold, alchemy, mining, engineering, leatherworking, blacksmithing, enchanting,  inscription, tailoring, skinning, herbalism, jewelcrafting, archaeology, riding, cooking, firstAid, fishing, junkyardTinkering, protoformSynthesis, honour, arena, rbg, mythic5, mythic10, mythic15, classic, burningCrusade, wrathOfTheLichKing, cataclysm, mistsOfPandaria, warlordsOfDraenor, legion, battleForAzeroth, shadowlands, dragonflight, warWithin, midnight, lastTitan, lvlUpBase, lvlUpExpert, lvlUpMaster, quests, equipments, mounts, raidsExplorer, legacy, greatFeats, warcraftReforged, wowAnniversary, diablo, hearthstone, heroesStorm, starcraft, overwatch, wowCollectionEditions, diabloCollectionEditions }) => {
+const Promo = ({ races, horde, alliance, warrior, druid, priest, mage, monk, hunter, demonHunter, paladin, awakener, rogue, deathKnight, warlock, shaman, oneHandedWeapons, twoHandedWeapons, rangeWeapons, legendaryWeapons, artifactWeapons, decorativeWeapons, twoHandedAxes, ashbringer, sulfuras, thunderfury, atiesh, warglaivesOfAzzinoth, thoridal, valanyr, frostmourne, shadowmourne, tarecgosa, fangsFather, raeshalareDeathsWhisper, fyralathTheDreamrender, naszuroTheUnboundLegacy, armsWarrior, furyWarrior, protectionWarrior, shields, cloaks, tabards, fishingRods, waterMounts, earthMounts, flyMounts, hordeGold, allianceGold, alchemy, mining, engineering, leatherworking, blacksmithing, enchanting,  inscription, tailoring, skinning, herbalism, jewelcrafting, archaeology, riding, cooking, firstAid, fishing, junkyardTinkering, protoformSynthesis, honour, arena, rbg, classic, burningCrusade, wrathOfTheLichKing, cataclysm, mistsOfPandaria, warlordsOfDraenor, legion, battleForAzeroth, shadowlands, dragonflight, warWithin, midnight, lastTitan, lvlUpBase, lvlUpExpert, lvlUpMaster, quests, legacy, greatFeats, warcraftReforged, wowAnniversary, diablo, hearthstone, heroesStorm, starcraft, overwatch, wowCollectionEditions, diabloCollectionEditions }) => {
 	return (
 		<section className="promo">
 			<div className="container d-flex justify-content-between align-items-center flex-column flex-lg-row">
@@ -238,15 +238,6 @@ const Promo = ({ races, horde, alliance, warrior, druid, priest, mage, monk, hun
 						rbg
 							? "promo__raitings_rbg"
 							:
-						mythic5
-							? "promo__raitings_mythic5"
-							:
-						mythic10
-							? "promo__raitings_mythic10"
-							:
-						mythic15
-							? "promo__raitings_mythic15"
-							:
 						classic
 							? "promo__raitings_сlassic"
 							:
@@ -297,15 +288,6 @@ const Promo = ({ races, horde, alliance, warrior, druid, priest, mage, monk, hun
 							:
 						quests
 							? "promo__raitings_quests"
-							:
-						equipments
-							? "promo__raitings_equipments"
-							:
-						mounts
-							? "promo__raitings_mounts"
-							:
-						raidsExplorer
-							? "promo__raitings_raids-explorer"
 							:
 						legacy
 							? "promo__raitings_legacy"

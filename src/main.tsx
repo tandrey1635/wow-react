@@ -168,16 +168,8 @@ import LvlUpMaster from "./pages/lvl-up/LvlUpMaster.tsx";
 
 
 
-import Mythic5 from "./pages/dungeons/Mythic+5.tsx";
-import Mythic10 from "./pages/dungeons/Mythic+10.tsx";
-import Mythic15 from "./pages/dungeons/Mythic+15.tsx";
-
-
 
 import Quests from "./pages/achievements/Quests.tsx";
-import Equipments from "./pages/achievements/Equipments.tsx";
-import Mounts from "./pages/achievements/Mounts.tsx";
-import RaidsExplorer from "./pages/achievements/RaidsExplorer.tsx";
 import Legacy from "./pages/achievements/Legacy.tsx";
 import GreatFeats from "./pages/achievements/GreatFeats.tsx";
 import WarcraftReforged from "./pages/achievements/WarcraftReforged.tsx";
@@ -312,17 +304,10 @@ createRoot(document.getElementById("root")!).render(
 				<Route path="pvp/rbg" element={<Rbg />} />
 
 
-				<Route path="dungeons/mythic5" element={<Mythic5 />} />
-				<Route path="dungeons/mythic10" element={<Mythic10 />} />
-				<Route path="dungeons/mythic15" element={<Mythic15 />} />
-
-
 
 				<Route path="dungeons-raids" element={<DungeonsRaids />} />
 				<Route path="raids" element={<AdditionsRaids />} />
 				<Route path="dungeons" element={<AdditionsDungeons />} />
-
-
 
 
 				<Route path="dungeons/classic" element={<ClassicDungeons />} />
@@ -362,9 +347,6 @@ createRoot(document.getElementById("root")!).render(
 
 
 				<Route path="achievements/quests" element={<Quests />} />
-				<Route path="achievements/equipments" element={<Equipments />} />
-				<Route path="achievements/mounts" element={<Mounts />} />
-				<Route path="achievements/raids-explorer" element={<RaidsExplorer />} />
 				<Route path="achievements/legacy" element={<Legacy />} />
 				<Route path="achievements/great-feats" element={<GreatFeats />} />
 				<Route path="achievements/warcraft-reforged" element={<WarcraftReforged />} />

@@ -579,15 +579,6 @@ footer {
 .promo__raitings_rbg {
   background: url("/src/assets/img/promo/bg/pvp/rbg.png") no-repeat center/contain;
 }
-.promo__raitings_mythic5 {
-  background: url("/src/assets/img/promo/bg/dungeons/mythic-5.jpg") no-repeat center/contain;
-}
-.promo__raitings_mythic10 {
-  background: url("/src/assets/img/promo/bg/dungeons/mythic-10.jpg") no-repeat center/contain;
-}
-.promo__raitings_mythic15 {
-  background: url("/src/assets/img/promo/bg/dungeons/mythic-15.jpg") no-repeat center/contain;
-}
 .promo__raitings_сlassic {
   background: url("/src/assets/img/promo/bg/dungeons-raids/classic.png") no-repeat center/contain;
 }
@@ -638,15 +629,6 @@ footer {
 }
 .promo__raitings_quests {
   background: url("/src/assets/img/promo/bg/achievements/quests.jpg") no-repeat center/contain;
-}
-.promo__raitings_equipments {
-  background: url("/src/assets/img/promo/bg/achievements/max-equipments.jpg") no-repeat center/contain;
-}
-.promo__raitings_mounts {
-  background: url("/src/assets/img/promo/bg/achievements/mounts.jpg") no-repeat center/contain;
-}
-.promo__raitings_raids-explorer {
-  background: url("/src/assets/img/promo/bg/achievements/raids-explorer.jpg") no-repeat center/contain;
 }
 .promo__raitings_legacy {
   background: url("/src/assets/img/promo/bg/achievements/legacy.jpg") no-repeat center/contain;

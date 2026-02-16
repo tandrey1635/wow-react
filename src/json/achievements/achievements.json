@@ -13,45 +13,6 @@
 	},
 
 	{
-		"id": "max-equipments",
-		"className": "card-achievements",
-		"path": "achievements/equipments",
-		"cardImg": "/src/assets/img/promo/bg/achievements/max-equipments.jpg",
-		"titleClassName": "card-title-achievements",
-		"title": "Экипировка 1000 уровня",
-		"descriptionClassName": "card-text-achievements",
-		"description": "Илвел — не просто цифра. Это пропуск в элитный клуб Азерота.",
-		"priceClassName": "card-price-achievements",
-		"price": 1000
-	},
-
-	{
-		"id": "mounts",
-		"className": "card-achievements",
-		"path": "achievements/mounts",
-		"cardImg": "/src/assets/img/promo/bg/achievements/mounts.jpg",
-		"titleClassName": "card-title-achievements",
-		"title": "1000 маунтов",
-		"descriptionClassName": "card-text-achievements",
-		"description": "«Повелитель табунов». Коллекция, за которой охотятся. Ваш гарнизон утонет в сене.",
-		"priceClassName": "card-price-achievements",
-		"price": 1000
-	},
-
-	{
-		"id": "raids-explorer",
-		"className": "card-achievements",
-		"path": "achievements/raids-explorer",
-		"cardImg": "/src/assets/img/promo/bg/achievements/raids-explorer.jpg",
-		"titleClassName": "card-title-achievements",
-		"title": "Исследователь рейдов",
-		"descriptionClassName": "card-text-achievements",
-		"description": "Знак мастера. Вы прошли огонь, лёд и скверну. Испытание завершено. Все боссы пали, все секреты раскрыты.",
-		"priceClassName": "card-price-achievements",
-		"price": 1000
-	},
-
-	{
 		"id": "legacy",
 		"className": "card-achievements",
 		"path": "achievements/legacy",
@@ -65,10 +26,10 @@
 	},
 
 	{
-		"id": "great-feats",
+		"id": "GreatFeats",
 		"type": "achievements",
 		"path": "achievements/great-feats",
-		"img": "/src/assets/img/promo/bg/achievements/great-feats.jpg",
+		"img": "/src/assets/img/promo/bg/achievements/.jpg",
 		"objectFit": false,
 		"title": "Великие Подвиги",
 		"description": "Подвиги, которые не стираются временем. Ваше имя в Легенде!",
@@ -89,11 +50,11 @@
 	},
 
 	{
-		"id": "WowAnniversaryw",
+		"id": "WowAnniversary",
 		"type": "achievements",
 		"path": "achievements/wow-anniversary",
-		"img": "/src/assets/img/promo/bg/achievements/.jpg",
-		"objectFit": true,
+		"img": "/src/assets/img/promo/bg/achievements/Wow-Anniversary.jpg",
+		"objectFit": false,
 		"title": "Годовщина World of Warcraft",
 		"description": "Великое приключение длиной в 20 лет. Путешествие, достойное легенды!",
 		"price": 1000
