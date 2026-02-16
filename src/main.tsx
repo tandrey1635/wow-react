@@ -5,172 +5,172 @@ import 'bootstrap/dist/css/bootstrap.min.css'
 import './style.sass'
 import { BrowserRouter, Routes, Route } from "react-router";
 
-import Races  from "./pages/races/Races.tsx";
-import Horde  from "./pages/races/horde/Horde.tsx";
-import Alliance  from "./pages/races/alliance/Alliance.tsx";
+import Races from "./pages/races/Races.tsx";
+import Horde from "./pages/races/horde/Horde.tsx";
+import Alliance from "./pages/races/alliance/Alliance.tsx";
 
 
-import Warrior  from "./pages/raids-armours/Warrior.tsx";
-import Druid  from "./pages/raids-armours/Druid.tsx";
-import Priest  from "./pages/raids-armours/Priest.tsx";
-import Mage  from "./pages/raids-armours/Mage.tsx";
-import Monk  from "./pages/raids-armours/Monk.tsx";
-import Hunter  from "./pages/raids-armours/Hunter.tsx";
-import DemonHunter  from "./pages/raids-armours/DemonHunter.tsx";
-import Paladin  from "./pages/raids-armours/Paladin.tsx";
-import Awakener  from "./pages/raids-armours/Awakener.tsx";
-import Rogue  from "./pages/raids-armours/Rogue.tsx";
-import DeathKnight  from "./pages/raids-armours/DeathKnight.tsx";
-import Warlock  from "./pages/raids-armours/Warlock.tsx";
-import Shaman  from "./pages/raids-armours/Shaman.tsx";
-
-
-
-import OneHandedWeapons  from "./pages/weapons/OneHanded.tsx";
-import TwoHandedWeapons  from "./pages/weapons/TwoHanded.tsx";
-import RangeWeapons  from "./pages/weapons/Range.tsx";
-import LegendaryWeapons  from "./pages/weapons/Legendary.tsx";
-import ArtifactWeapons  from "./pages/weapons/Artifact.tsx";
-import DecorativeWeapons  from "./pages/weapons/Decorative.tsx";
-
-
-import TwoHandedAxes  from "./pages/weapons/two-handed/axes/Axes.tsx";
-import TwoHandedAxesDetails  from "./pages/weapons/two-handed/axes/AxesDetails.tsx";
-
-
-import Ashbringer  from "./pages/weapons/legendary/weapons-details/Ashbringer.tsx";
-import Sulfuras  from "./pages/weapons/legendary/weapons-details/Sulfuras.tsx";
-import Thunderfury  from "./pages/weapons/legendary/weapons-details/Thunderfury.tsx";
-import Atiesh  from "./pages/weapons/legendary/weapons-details/Atiesh.tsx";
-import WarglaivesOfAzzinoth  from "./pages/weapons/legendary/weapons-details/WarglaivesOfAzzinoth.tsx";
-import Thoridal  from "./pages/weapons/legendary/weapons-details/Thoridal.tsx";
-import Valanyr  from "./pages/weapons/legendary/weapons-details/Valanyr.tsx";
-import Shadowmourne  from "./pages/weapons/legendary/weapons-details/Shadowmourne.tsx";
-import Frostmourne  from "./pages/weapons/legendary/weapons-details/Frostmourne.tsx";
-import Tarecgosa  from "./pages/weapons/legendary/weapons-details/Tarecgosa.tsx";
-import FangsFather  from "./pages/weapons/legendary/weapons-details/FangsFather.tsx";
-import RaeshalareDeathsWhisper  from "./pages/weapons/legendary/weapons-details/RaeshalareDeathsWhisper.tsx";
-import FyralathTheDreamrender  from "./pages/weapons/legendary/weapons-details/FyralathTheDreamrender.tsx";
-import NaszuroTheUnboundLegacy  from "./pages/weapons/legendary/weapons-details/NaszuroTheUnboundLegacy.tsx";
+import Warrior from "./pages/raids-armours/Warrior.tsx";
+import Druid from "./pages/raids-armours/Druid.tsx";
+import Priest from "./pages/raids-armours/Priest.tsx";
+import Mage from "./pages/raids-armours/Mage.tsx";
+import Monk from "./pages/raids-armours/Monk.tsx";
+import Hunter from "./pages/raids-armours/Hunter.tsx";
+import DemonHunter from "./pages/raids-armours/DemonHunter.tsx";
+import Paladin from "./pages/raids-armours/Paladin.tsx";
+import Awakener from "./pages/raids-armours/Awakener.tsx";
+import Rogue from "./pages/raids-armours/Rogue.tsx";
+import DeathKnight from "./pages/raids-armours/DeathKnight.tsx";
+import Warlock from "./pages/raids-armours/Warlock.tsx";
+import Shaman from "./pages/raids-armours/Shaman.tsx";
 
 
 
-import WeaponsDetails  from "./pages/weapons/legendary/weapons-details/WeaponsDetails.tsx";
+import OneHandedWeapons from "./pages/weapons/OneHanded.tsx";
+import TwoHandedWeapons from "./pages/weapons/TwoHanded.tsx";
+import RangeWeapons from "./pages/weapons/Range.tsx";
+import LegendaryWeapons from "./pages/weapons/Legendary.tsx";
+import ArtifactWeapons from "./pages/weapons/Artifact.tsx";
+import DecorativeWeapons from "./pages/weapons/Decorative.tsx";
+
+
+import TwoHandedAxes from "./pages/weapons/two-handed/axes/Axes.tsx";
+import TwoHandedAxesDetails from "./pages/weapons/two-handed/axes/AxesDetails.tsx";
+
+
+import Ashbringer from "./pages/weapons/legendary/weapons-details/Ashbringer.tsx";
+import Sulfuras from "./pages/weapons/legendary/weapons-details/Sulfuras.tsx";
+import Thunderfury from "./pages/weapons/legendary/weapons-details/Thunderfury.tsx";
+import Atiesh from "./pages/weapons/legendary/weapons-details/Atiesh.tsx";
+import WarglaivesOfAzzinoth from "./pages/weapons/legendary/weapons-details/WarglaivesOfAzzinoth.tsx";
+import Thoridal from "./pages/weapons/legendary/weapons-details/Thoridal.tsx";
+import Valanyr from "./pages/weapons/legendary/weapons-details/Valanyr.tsx";
+import Shadowmourne from "./pages/weapons/legendary/weapons-details/Shadowmourne.tsx";
+import Frostmourne from "./pages/weapons/legendary/weapons-details/Frostmourne.tsx";
+import Tarecgosa from "./pages/weapons/legendary/weapons-details/Tarecgosa.tsx";
+import FangsFather from "./pages/weapons/legendary/weapons-details/FangsFather.tsx";
+import RaeshalareDeathsWhisper from "./pages/weapons/legendary/weapons-details/RaeshalareDeathsWhisper.tsx";
+import FyralathTheDreamrender from "./pages/weapons/legendary/weapons-details/FyralathTheDreamrender.tsx";
+import NaszuroTheUnboundLegacy from "./pages/weapons/legendary/weapons-details/NaszuroTheUnboundLegacy.tsx";
 
 
 
-import WarriorArtifacts  from "./pages/weapons/artifact/Warrior.tsx";
-import DruidArtifacts  from "./pages/weapons/artifact/Druid.tsx";
-import PriestArtifacts  from "./pages/weapons/artifact/Priest.tsx";
-import MageArtifacts  from "./pages/weapons/artifact/Mage.tsx";
-import MonkArtifacts  from "./pages/weapons/artifact/Monk.tsx";
-import HunterArtifacts  from "./pages/weapons/artifact/Hunter.tsx";
-import DemonHunterArtifacts  from "./pages/weapons/artifact/DemonHunter.tsx";
-import PaladinArtifacts  from "./pages/weapons/artifact/Paladin.tsx";
-import RogueArtifacts  from "./pages/weapons/artifact/Rogue.tsx";
-import DeathKnightArtifacts  from "./pages/weapons/artifact/DeathKnight.tsx";
-import WarlockArtifacts  from "./pages/weapons/artifact/Warlock.tsx";
-import ShamanArtifacts  from "./pages/weapons/artifact/Shaman.tsx";
+import WeaponsDetails from "./pages/weapons/legendary/weapons-details/WeaponsDetails.tsx";
 
 
 
-import Arms  from "./pages/weapons/artifact/warrior/Arms.tsx";
-import Fury  from "./pages/weapons/artifact/warrior/Fury.tsx";
-import Protection  from "./pages/weapons/artifact/warrior/Protection.tsx";
-
-
-import Cloaks  from "./pages/armours/Cloaks.tsx";
-import Shields  from "./pages/armours/Shields.tsx";
-import Tabards  from "./pages/armours/Tabards.tsx";
-import FishingRods  from "./pages/armours/FishingRods.tsx";
-
-
-
-import WaterMounts  from "./pages/mounts/Water.tsx";
-import EarthMounts  from "./pages/mounts/Earth.tsx";
-import FlyMounts  from "./pages/mounts/Fly.tsx";
+import WarriorArtifacts from "./pages/weapons/artifact/Warrior.tsx";
+import DruidArtifacts from "./pages/weapons/artifact/Druid.tsx";
+import PriestArtifacts from "./pages/weapons/artifact/Priest.tsx";
+import MageArtifacts from "./pages/weapons/artifact/Mage.tsx";
+import MonkArtifacts from "./pages/weapons/artifact/Monk.tsx";
+import HunterArtifacts from "./pages/weapons/artifact/Hunter.tsx";
+import DemonHunterArtifacts from "./pages/weapons/artifact/DemonHunter.tsx";
+import PaladinArtifacts from "./pages/weapons/artifact/Paladin.tsx";
+import RogueArtifacts from "./pages/weapons/artifact/Rogue.tsx";
+import DeathKnightArtifacts from "./pages/weapons/artifact/DeathKnight.tsx";
+import WarlockArtifacts from "./pages/weapons/artifact/Warlock.tsx";
+import ShamanArtifacts from "./pages/weapons/artifact/Shaman.tsx";
 
 
 
-import HordeGold  from "./pages/gold/Horde.tsx";
-import AllianceGold  from "./pages/gold/Alliance.tsx";
+import Arms from "./pages/weapons/artifact/warrior/Arms.tsx";
+import Fury from "./pages/weapons/artifact/warrior/Fury.tsx";
+import Protection from "./pages/weapons/artifact/warrior/Protection.tsx";
+
+
+import Cloaks from "./pages/armours/Cloaks.tsx";
+import Shields from "./pages/armours/Shields.tsx";
+import Tabards from "./pages/armours/Tabards.tsx";
+import FishingRods from "./pages/armours/FishingRods.tsx";
 
 
 
-import Alchemy  from "./pages/professions/Alchemy.tsx";
-import Mining  from "./pages/professions/Mining.tsx";
-import Engineering  from "./pages/professions/Engineering.tsx";
-import Leatherworking  from "./pages/professions/Leatherworking.tsx";
-import Blacksmithing  from "./pages/professions/Blacksmithing.tsx";
-import Enchanting  from "./pages/professions/Enchanting.tsx";
-import Inscription  from "./pages/professions/Inscription.tsx";
-import Tailoring  from "./pages/professions/Tailoring.tsx";
-import Skinning  from "./pages/professions/Skinning.tsx";
-import Herbalism  from "./pages/professions/Herbalism.tsx";
-import Jewelcrafting  from "./pages/professions/Jewelcrafting.tsx";
-import Archaeology  from "./pages/professions/Archaeology.tsx";
-import Riding  from "./pages/professions/Riding.tsx";
-import Cooking  from "./pages/professions/Cooking.tsx";
-import FirstAid  from "./pages/professions/FirstAid.tsx";
-import Fishing  from "./pages/professions/Fishing.tsx";
-import JunkyardTinkering  from "./pages/professions/JunkyardTinkering.tsx";
-import ProtoformSynthesis  from "./pages/professions/ProtoformSynthesis.tsx";
+import WaterMounts from "./pages/mounts/Water.tsx";
+import EarthMounts from "./pages/mounts/Earth.tsx";
+import FlyMounts from "./pages/mounts/Fly.tsx";
+
+
+
+import HordeGold from "./pages/gold/Horde.tsx";
+import AllianceGold from "./pages/gold/Alliance.tsx";
+
+
+
+import Alchemy from "./pages/professions/Alchemy.tsx";
+import Mining from "./pages/professions/Mining.tsx";
+import Engineering from "./pages/professions/Engineering.tsx";
+import Leatherworking from "./pages/professions/Leatherworking.tsx";
+import Blacksmithing from "./pages/professions/Blacksmithing.tsx";
+import Enchanting from "./pages/professions/Enchanting.tsx";
+import Inscription from "./pages/professions/Inscription.tsx";
+import Tailoring from "./pages/professions/Tailoring.tsx";
+import Skinning from "./pages/professions/Skinning.tsx";
+import Herbalism from "./pages/professions/Herbalism.tsx";
+import Jewelcrafting from "./pages/professions/Jewelcrafting.tsx";
+import Archaeology from "./pages/professions/Archaeology.tsx";
+import Riding from "./pages/professions/Riding.tsx";
+import Cooking from "./pages/professions/Cooking.tsx";
+import FirstAid from "./pages/professions/FirstAid.tsx";
+import Fishing from "./pages/professions/Fishing.tsx";
+import JunkyardTinkering from "./pages/professions/JunkyardTinkering.tsx";
+import ProtoformSynthesis from "./pages/professions/ProtoformSynthesis.tsx";
 
 
 
 
-import Honour  from "./pages/pvp/Honour.tsx";
-import Arena  from "./pages/pvp/Arena.tsx";
-import Rbg  from "./pages/pvp/Rbg.tsx";
+import Honour from "./pages/pvp/Honour.tsx";
+import Arena from "./pages/pvp/Arena.tsx";
+import Rbg from "./pages/pvp/Rbg.tsx";
 
 
 
-import DungeonsRaids  from "./pages/dungeons-raids/DangeonsRaids.tsx";
-import AdditionsDungeons  from "./pages/dungeons-raids/dungeons/AdditionsDungeons.tsx";
-import AdditionsRaids  from "./pages/dungeons-raids/raids/AdditionsRaids.tsx";
+import DungeonsRaids from "./pages/dungeons-raids/DangeonsRaids.tsx";
+import AdditionsDungeons from "./pages/dungeons-raids/dungeons/AdditionsDungeons.tsx";
+import AdditionsRaids from "./pages/dungeons-raids/raids/AdditionsRaids.tsx";
 
 
-import ClassicDungeons  from "./pages/dungeons-raids/dungeons/classic/Classic.tsx";
-import BurningCrusadeDungeons  from "./pages/dungeons-raids/dungeons/burning-crusade/BurningCrusade.tsx";
-import WrathOfTheLichKingDungeons  from "./pages/dungeons-raids/dungeons/wrath-of-the-lich-king/WrathOfTheLichKing.tsx";
-import CataclysmDungeons  from "./pages/dungeons-raids/dungeons/cataclysm/Cataclysm.tsx";
-import MistsOfPandariaDungeons  from "./pages/dungeons-raids/dungeons/mists-of-pandaria/MistsOfPandaria.tsx";
+import ClassicDungeons from "./pages/dungeons-raids/dungeons/classic/Classic.tsx";
+import BurningCrusadeDungeons from "./pages/dungeons-raids/dungeons/burning-crusade/BurningCrusade.tsx";
+import WrathOfTheLichKingDungeons from "./pages/dungeons-raids/dungeons/wrath-of-the-lich-king/WrathOfTheLichKing.tsx";
+import CataclysmDungeons from "./pages/dungeons-raids/dungeons/cataclysm/Cataclysm.tsx";
+import MistsOfPandariaDungeons from "./pages/dungeons-raids/dungeons/mists-of-pandaria/MistsOfPandaria.tsx";
 import WarlordsOfDraenorDungeons from "./pages/dungeons-raids/dungeons/warlords-of-draenor/WarlordsOfDraenor.tsx";
-import LegionDungeons  from "./pages/dungeons-raids/dungeons/legion/Legion.tsx";
-import BattleForAzerothDungeons  from "./pages/dungeons-raids/dungeons/battle-for-azeroth/BattleForAzeroth.tsx";
-import ShadowlandsDungeons  from "./pages/dungeons-raids/dungeons/shadowlands/Shadowlands.tsx";
-import DragonflightDungeons  from "./pages/dungeons-raids/dungeons/dragonflight/Dragonflight.tsx";
-import WarWithinDungeons  from "./pages/dungeons-raids/dungeons/war-within/WarWithin.tsx";
-import MidnightDungeons  from "./pages/dungeons-raids/dungeons/midnight/Midnight.tsx";
-import LastTitanDungeons  from "./pages/dungeons-raids/dungeons/last-titan/LastTitan.tsx";
+import LegionDungeons from "./pages/dungeons-raids/dungeons/legion/Legion.tsx";
+import BattleForAzerothDungeons from "./pages/dungeons-raids/dungeons/battle-for-azeroth/BattleForAzeroth.tsx";
+import ShadowlandsDungeons from "./pages/dungeons-raids/dungeons/shadowlands/Shadowlands.tsx";
+import DragonflightDungeons from "./pages/dungeons-raids/dungeons/dragonflight/Dragonflight.tsx";
+import WarWithinDungeons from "./pages/dungeons-raids/dungeons/war-within/WarWithin.tsx";
+import MidnightDungeons from "./pages/dungeons-raids/dungeons/midnight/Midnight.tsx";
+import LastTitanDungeons from "./pages/dungeons-raids/dungeons/last-titan/LastTitan.tsx";
 
 
 
-import ClassicRaids  from "./pages/dungeons-raids/raids/classic/Classic.tsx";
-import BurningCrusadeRaids  from "./pages/dungeons-raids/raids/burning-crusade/BurningCrusade.tsx";
-import WrathOfTheLichKingRaids  from "./pages/dungeons-raids/raids/wrath-of-the-lich-king/WrathOfTheLichKing.tsx";
-import CataclysmRaids  from "./pages/dungeons-raids/raids/cataclysm/Cataclysm.tsx";
-import MistsOfPandariaRaids  from "./pages/dungeons-raids/raids/mists-of-pandaria/MistsOfPandaria.tsx";
-import WarlordsOfDraenorRaids  from "./pages/dungeons-raids/raids/warlords-of-draenor/WarlordsOfDraenor.tsx";
-import LegionRaids  from "./pages/dungeons-raids/raids/legion/Legion.tsx";
-import BattleForAzerothRaids  from "./pages/dungeons-raids/raids/battle-for-azeroth/BattleForAzeroth.tsx";
-import ShadowlandsRaids  from "./pages/dungeons-raids/raids/shadowlands/Shadowlands.tsx";
-import DragonflightRaids  from "./pages/dungeons-raids/raids/dragonflight/Dragonflight.tsx";
-import WarWithinRaids  from "./pages/dungeons-raids/raids/war-within/WarWithin.tsx";
-import MidnightRaids  from "./pages/dungeons-raids/raids/midnight/Midnight.tsx";
-import LastTitanRaids  from "./pages/dungeons-raids/raids/last-titan/LastTitan.tsx";
+import ClassicRaids from "./pages/dungeons-raids/raids/classic/Classic.tsx";
+import BurningCrusadeRaids from "./pages/dungeons-raids/raids/burning-crusade/BurningCrusade.tsx";
+import WrathOfTheLichKingRaids from "./pages/dungeons-raids/raids/wrath-of-the-lich-king/WrathOfTheLichKing.tsx";
+import CataclysmRaids from "./pages/dungeons-raids/raids/cataclysm/Cataclysm.tsx";
+import MistsOfPandariaRaids from "./pages/dungeons-raids/raids/mists-of-pandaria/MistsOfPandaria.tsx";
+import WarlordsOfDraenorRaids from "./pages/dungeons-raids/raids/warlords-of-draenor/WarlordsOfDraenor.tsx";
+import LegionRaids from "./pages/dungeons-raids/raids/legion/Legion.tsx";
+import BattleForAzerothRaids from "./pages/dungeons-raids/raids/battle-for-azeroth/BattleForAzeroth.tsx";
+import ShadowlandsRaids from "./pages/dungeons-raids/raids/shadowlands/Shadowlands.tsx";
+import DragonflightRaids from "./pages/dungeons-raids/raids/dragonflight/Dragonflight.tsx";
+import WarWithinRaids from "./pages/dungeons-raids/raids/war-within/WarWithin.tsx";
+import MidnightRaids from "./pages/dungeons-raids/raids/midnight/Midnight.tsx";
+import LastTitanRaids from "./pages/dungeons-raids/raids/last-titan/LastTitan.tsx";
 
 
 
-import LvlUpBase  from "./pages/lvl-up/LvlUpBase.tsx";
-import LvlUpExpert  from "./pages/lvl-up/LvlUpExpert.tsx";
-import LvlUpMaster  from "./pages/lvl-up/LvlUpMaster.tsx";
+import LvlUpBase from "./pages/lvl-up/LvlUpBase.tsx";
+import LvlUpExpert from "./pages/lvl-up/LvlUpExpert.tsx";
+import LvlUpMaster from "./pages/lvl-up/LvlUpMaster.tsx";
 
 
 
-import Mythic5  from "./pages/dungeons/Mythic+5.tsx";
-import Mythic10  from "./pages/dungeons/Mythic+10.tsx";
-import Mythic15  from "./pages/dungeons/Mythic+15.tsx";
+import Mythic5 from "./pages/dungeons/Mythic+5.tsx";
+import Mythic10 from "./pages/dungeons/Mythic+10.tsx";
+import Mythic15 from "./pages/dungeons/Mythic+15.tsx";
 
 
 
@@ -178,19 +178,17 @@ import Quests from "./pages/achievements/Quests.tsx";
 import Equipments from "./pages/achievements/Equipments.tsx";
 import Mounts from "./pages/achievements/Mounts.tsx";
 import RaidsExplorer from "./pages/achievements/RaidsExplorer.tsx";
-import Legacy  from "./pages/achievements/Legacy.tsx";
-import GreatFeats  from "./pages/achievements/GreatFeats.tsx";
+import Legacy from "./pages/achievements/Legacy.tsx";
+import GreatFeats from "./pages/achievements/GreatFeats.tsx";
 import WarcraftReforged from "./pages/achievements/WarcraftReforged.tsx";
-import Wow from "./pages/achievements/Wow.tsx";
-import Diablo  from "./pages/achievements/Diablo.tsx";
-import Hearthstone  from "./pages/achievements/Hearthstone.tsx";
-import HeroesStorm  from "./pages/achievements/HeroesStorm.tsx";
-import Starcraft  from "./pages/achievements/Starcraft.tsx";
-import Overwatch  from "./pages/achievements/Overwatch.tsx";
-import WowCollectionEditions  from "./pages/achievements/WowCollectionEditions.tsx";
-import DiabloCollectionEditions  from "./pages/achievements/DiabloCollectionEditions.tsx";
-
-
+import WowAnniversary from "./pages/achievements/WowAnniversary.tsx";
+import Diablo from "./pages/achievements/Diablo.tsx";
+import Hearthstone from "./pages/achievements/Hearthstone.tsx";
+import HeroesStorm from "./pages/achievements/HeroesStorm.tsx";
+import Starcraft from "./pages/achievements/Starcraft.tsx";
+import Overwatch from "./pages/achievements/Overwatch.tsx";
+import WowCollectionEditions from "./pages/achievements/WowCollectionEditions.tsx";
+import DiabloCollectionEditions from "./pages/achievements/DiabloCollectionEditions.tsx";
 
 
 
@@ -370,7 +368,7 @@ createRoot(document.getElementById("root")!).render(
 				<Route path="achievements/legacy" element={<Legacy />} />
 				<Route path="achievements/great-feats" element={<GreatFeats />} />
 				<Route path="achievements/warcraft-reforged" element={<WarcraftReforged />} />
-				<Route path="achievements/wow" element={<Wow />} />
+				<Route path="achievements/wow-anniversary" element={<WowAnniversary />} />
 				<Route path="achievements/diablo" element={<Diablo />} />
 				<Route path="achievements/hearthstone" element={<Hearthstone />} />
 				<Route path="achievements/heroes-storm" element={<HeroesStorm />} />

@@ -1,0 +1,2069 @@
+[
+	{
+		"id": "great-feats",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Сердцеед X-45",
+		"description": "Получите Сердцеед X-45, одолев аптекаря Хаммела в Крепости Темного Клыка во время Любовной лихорадки.",
+		"price": 1000
+	},
+
+	{
+		"id": "great-feats",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Чокнутый",
+		"description": "Добейтесь того, чтобы пираты из шайки Кровавого Паруса начали относиться к вам с уважением, а обитатели Пиратской Бухты, Круговзора, Прибамбасска, Кабестана, ярмарки Новолуния и поместья Черного Ворона стали вас превозносить.",
+		"price": 1000
+	},
+
+	{
+		"id": "great-feats",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Две минуты до полуночи",
+		"description": "Победите всех боссов, призываемых Сумеречным Клинком в Сумеречном нагорье, во время событий, предшествующих выходу дополнения Midnight.",
+		"price": 1000
+	},
+
+	{
+		"id": "great-feats",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Смертоцикл Вождя",
+		"description": "Право на получение мотоцикла, победившего в конкурсе Чопперы Азерота.",
+		"price": 1000
+	},
+
+	{
+		"id": "great-feats",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Легендарная Кампания",
+		"description": "Завершите 12 кампаний оплотов разных классов.",
+		"price": 1000
+	},
+
+	{
+		"id": "great-feats",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Герой своего времени: Пространствус Всепоглощающий",
+		"description": "Победите Пространствуса Всепоглощающего в манагорне Омега в героическом или более сложном режиме до открытия рейда более высокого уровня.",
+		"price": 1000
+	},
+
+	{
+		"id": "great-feats",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "На кромке лезвия: Пространствус Всепоглощающий",
+		"description": "Победите Пространствуса Всепоглощающего в манагорне Омега в эпохальном режиме до открытия рейда более высокого уровня.",
+		"price": 1000
+	},
+
+	{
+		"id": "great-feats",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Хищник",
+		"description": "Победите Ксемиркола в Танаанских джунглях.",
+		"price": 1000
+	},
+
+	{
+		"id": "great-feats",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Герой Шаттрата",
+		"description": "Добейтесь того, чтобы вас превозносили Провидцы и Алдоры.",
+		"price": 1000
+	},
+
+	{
+		"id": "great-feats",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Боевые клинки Аззинота",
+		"description": "Возьмите в руки Боевые клинки Аззинота.",
+		"price": 1000
+	},
+
+	{
+		"id": "great-feats",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Безумный мир",
+		"description": "Выполните все задачи в ходе возвращения в жуткие видения Штормграда и Оргриммара за один поход в одиночку под действием 5 безликих масок.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Последние из нас",
+		"description": "Станьте последним выжившим гладиатором в Колизее Верховного Молота.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Конец бесконечности",
+		"description": "Вы достигли предела бесконечной силы. Но как?!",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Дом, милый дом",
+		"description": "Поселитесь в своем первом доме на Азероте.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Странник вечных песков",
+		"description": "Получите поводья серого ездового верблюда от Дормуса Погонщика Верблюдов.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Пепел Ал'ара",
+		"description": "Получите пепел Ал'ара от Кель'таса Солнечного Скитальца в Крепости Бурь.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Конец Мрачной Жатвы",
+		"description": "Победите Канретада Чернодрева и подчините себе энергию Скверны раньше, чем начнется экспедиция на Дренор.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Дары смерти",
+		"description": "Соберите комплект брони для любого класса из Наксрамаса Classic.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Посланник титанов",
+		"description": "Победите Алгалона Наблюдателя на 30-м уровне. При этом ни один участник рейда не должен быть экипирован предметами выше 107-го уровня.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Якорь мне в глотку!",
+		"description": "Получите адмиральскую шляпу Кровавого Паруса... и почаще выходите на свежий воздух.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Классовед",
+		"description": "Достигните максимального уровня за каждый класс.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Облачно, возможны осадки в виде инферналов",
+		"description": "Оставайтесь в игре во время завершения Legion: Remix.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Гроза Альянса",
+		"description": "Одержите 10 почетных побед в режиме войны, не погибнув от рук охотников за головами, когда за вашу голову назначена награда. Фракция: Орда.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Падение Терамора",
+		"description": "Участвовать в атаке на Терамор и спасти Талена Созвучие Песни. Фракция: Орда.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Падение Терамора",
+		"description": "Защитите Джайну, в то время как она забирает Радужное Средоточие из осажденных Ордой руин Терамора. Фракция: Альянс.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Избранный",
+		"description": "Победите Хелию в рейде Испытание доблести в эпохальном режиме, выдержав Испытание Избранного.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Герой своего времени: Н'Зот Заразитель",
+		"description": "Победите Н'Зота Заразителя в Ни'алоте, Пробуждающемся Городе в героическом или более сложном режиме до выхода рейда более высокого уровня.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Герой своего времени: Тюремщик",
+		"description": "Победите Тюремщика в Гробнице Предвечных в героическом или более сложном режиме до открытия рейда более высокого уровня.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Защитник Азерота: Вторжения Легиона",
+		"description": "Отразите все нападения Пылающего Легиона на Азерот во время событий, предшествующих выходу дополнения Legion.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Олдскульный наездник",
+		"description": "Владелец одного из старых эпических верховых животных.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Более девяти тысяч!",
+		"description": "Заработайте более 9000 очков достижений.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Феноменальная космическая сила",
+		"description": "Наполните Сердце Азерот всеми сущностями из обновления Возвращение Азшары 4-го уровня, подходящими для вашей роли.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Аманийский боевой медведь",
+		"description": "Владелец Аманийского боевого медведя.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Клыки отца",
+		"description": "Возьмите в руки Клыки отца.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Защитник потоков времени",
+		"description": "Победите всех боссов Рассвета Бесконечности в эпохальном режиме до выхода рейда более высокого уровня.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Ты совсем не так это делаешь!",
+		"description": "Успешно завершите любое базовое испытание (золото) на арене испытаний, выбрав не подходящую для него специализацию.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Ты совсем не так это делаешь!",
+		"description": "Успешно завершите любое базовое испытание (золото) на арене испытаний, выбрав не подходящую для него специализацию.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Железное вторжение",
+		"description": "Завершите задания по вторжению в Выжженные земли до начала штурма Темного портала.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Большой черный боевой мамонт",
+		"description": "Получите большого черного боевого мамонта.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "У меня есть ящер цвета кости, а чего добился ты?",
+		"description": "Получите поводья древнего ящера цвета кости от Ку'мы, собирателя костей.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Мне казалось, это должно быть сложно…",
+		"description": "Победите Ра-дена в Престоле Гроз с первой попытки, не допустив смерти ни одного из участников рейда.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Дружба превыше всего",
+		"description": "Получите верховую жевру по программе Пригласи друга.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Раэ'шаларе, Шепот Смерти",
+		"description": "Владелец Раэ'шаларе, Шепота Смерти.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Гроза Орды",
+		"description": "Одержите 10 почетных побед в режиме войны, не погибнув от рук охотников за головами, когда за вашу голову назначена награда. Фракция: Альянс.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Громовая Ярость, благословенный клинок Искателя Ветра",
+		"description": "Возьмите в руки Громовую Ярость, благословенный клинок Искателя Ветра.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Поводья Непобедимого",
+		"description": "Получите поводья Непобедимого, одержав верх над Артасом в цитадели Ледяной Короны.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Темная Скорбь",
+		"description": "Возьмите в руки Темную Скорбь.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Король-скарабей",
+		"description": "Откройте Врата Ан'Киража.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Служитель Н'Зота",
+		"description": "Обладая временным титулом убийцы в режиме войны, одержите 10 почетных побед, убивая представителей своей фракции, не умерев ни разу.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Узрите силу Рагнароса!",
+		"description": "Победа над высокоуровневой версией Рагнароса во время празднования 10-й годовщины WoW.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Герой своего времени: Фиракк Пылающий",
+		"description": "Победите Фиракка Пылающего в героическом или более сложном режиме рейда Амирдрассил, Надежда Сна до выхода рейда более высокого уровня.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Герой своего времени: королева Ансурек",
+		"description": "Победите королеву Ансурек в Неруб'арском дворце в героическом или более сложном режиме до открытия рейда более высокого уровня.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Сражение за Орду",
+		"description": "Войдите в игру в течение двух месяцев после мировой премьеры фильма Warcraft.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Сражение за Альянс",
+		"description": "Войдите в игру в течение двух месяцев после мировой премьеры фильма Warcraft.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Дань бессмертию",
+		"description": "Проходя испытание великого крестоносца в рейде из 25 игроков, доберитесь до сундука с наградами. При этом у вас должно остаться не менее 50 попыток и ни один участник рейда не должен погибнуть во время битв с боссами.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Буря в железной пустыне",
+		"description": "Победите всех боссов в течение одного сохранения подземелья Операция Мехагон и предотвратите уничтожение всей органической жизни на Азероте, не допустив смерти ни одного участника рейда в эпохальном режиме.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Воспоминания о Скверне, льде и пламени",
+		"description": "Победа над воспоминаниями Хроми во время празднования 15-й годовщины WoW.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Болтливый Серж",
+		"description": "Владелец болтливого Сержа, ездового животного из режима «Наемники» в Hearthstone.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Герой своего времени: сир Денатрий",
+		"description": "Победите сира Денатрия в замке Нафрия в героическом или более сложном режиме до выхода рейда более высокого уровня.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Герой своего времени: Ша Страха",
+		"description": "Победите Ша Страха на террасе Вечной Весны в обычном режиме до выхода обновления 5.2.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "На кромке лезвия: Великая императрица Шек'зир",
+		"description": "Победите великую императрицу Шек'зир в Сердце Страха в героическом режиме до выхода обновления 5.2.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "На кромке лезвия: Хромовый король Галливикс",
+		"description": "Победите Хромового короля Галливикса в рейде Освобождение Нижней Шахты в эпохальном режиме до открытия рейда более высокого уровня.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Поводья повелителя воронов",
+		"description": "Получите поводья повелителя воронов от Анзу в Сетеккских залах.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Вес брутто",
+		"description": "Владелец могучего вьючного брутозавра, который продается на Тирагардском поморье и в Зулдазаре в Battle for Azeroth.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Ветеран Зыбучих песков",
+		"description": "Выполните серию заданий Врата Ан'Киража, включая Сокровище Вневременного (даже если в седле окажется кто-то другой).",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Герой бури",
+		"description": "Владелец Кладбоши, спутника из промоакции Heroes of the Storm.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Герой своего времени: Хромовый король Галливикс",
+		"description": "Победите Хромового короля Галливикса в рейде Освобождение Нижней Шахты в героическом или более сложном режиме до открытия рейда более высокого уровня.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Гнев Дракона, вечный покой Таресгосы",
+		"description": "Владелец Гнева Дракона, вечного покоя Таресгосы",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Дружба – это вообще самое важное на свете",
+		"description": "Получите огнегривого скакуна по программе Пригласи друга.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Стремительный ящер Раззаши",
+		"description": "Получите стремительного ящера Раззаши от Мандокира Повелителя Крови из Зул'Гуруба.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Сульфурас, Рука Рагнароса",
+		"description": "Возьмите в руки Сульфурас, Руку Рагнароса.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Я же буду головой!",
+		"description": "Получите голову Мимирона, убив Йогг-Сарона в рейде на 25 человек без помощи Хранителей.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Герой своего времени: Гаррош Адский Крик (25 игроков)",
+		"description": "Победите Гарроша Адского Крика в обычном или более сложном режиме рейда на 25 человек до выхода обновления 6.0.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "На кромке лезвия: Н'Зот Заразитель",
+		"description": "Победите Н'Зота Заразителя в Ни'алоте, Пробуждающемся Городе в эпохальном режиме до выхода рейда более высокого уровня.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Маленький Владыка Лжи",
+		"description": "Гордый владелец Бее'лиала.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Посланник шен'дралар",
+		"description": "Добейтесь того, чтобы вас превозносили шен'дралар.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Пятый элемент",
+		"description": "Получите квинтэссенцию воды.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Почему? Потому что он красный",
+		"description": "Получите красный киражский резонирующий кристалл.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Ход пламенным конем",
+		"description": "Владелец пламенного Азарта, ездового животного из промоакции к годовщине Hearthstone.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Чародейская сила",
+		"description": "Помогите усилить чародейскую кузню в Вальдраккене во время события Тайны Азерота.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Гербовая накидка Защитника",
+		"description": "Получите гербовую накидку Защитника за участие в открытии Темного портала.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Тори'дал, Звездная Ярость",
+		"description": "Возьмите в руки Тори'дал, Звездную Ярость.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Ход конем",
+		"description": "Владелец Азарта, ездового животного промоакции Hearthstone.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Поводья огненного боевого коня",
+		"description": "Получите поводья огненного боевого коня от Ловчего Аттумена в Каражане.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Герой своего времени: Аргус Порабощенный",
+		"description": "Победите Аргуса Порабощенного в Анторусе, Пылающем Троне в героическом или более сложном режиме до выхода дополнения 8.0.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Герой своего времени: Черные врата",
+		"description": "Победите Архимонда в героическом или более сложном режиме боя до выхода обновления 7.0.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "На кромке лезвия: королева Ансурек",
+		"description": "Победите королеву Ансурек в Неруб'арском дворце в эпохальном режиме до открытия рейда более высокого уровня.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "На кромке лезвия: Фиракк Пылающий",
+		"description": "Победите Фиракка Пылающего в эпохальном режиме рейда Амирдрассил, Надежда Сна до выхода рейда более высокого уровня.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "На кромке лезвия: Ша Страха",
+		"description": "Победите Ша Страха на террасе Вечной Весны в героическом режиме до выхода обновления 5.2.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Пилот отряда СПАС",
+		"description": "Гордый владелец Гномелии Техносердце, полученной в ходе события в честь выхода Warcraft Rumble.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Фир'алат Воздаятель Снов",
+		"description": "Возьмите в руки Фир'алат Воздаятель Снов.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Падение Залазана",
+		"description": "Вы помогли Вол'джину одолеть Залазана и вернуть острова Эха племени Черного Копья.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Первый пират на корабле",
+		"description": "Победите в матче Пиратской бури.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Предвестник пламени",
+		"description": "Владелец огнерожденного саблезуба, ездового животного промоакции Heroes of the Storm.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Герой своего времени: леди Джайна Праудмур",
+		"description": "Победите леди Джайну Праудмур в битве за Дазар'алор в героическом или более сложном режиме до открытия рейдовой локации следующей ступени.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Стремительный зульский тигр",
+		"description": "Получите стремительного зульского тигра от верховного жреца Текала в Зул'Гурубе.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Heroic Edition: алгарийский странник бурь",
+		"description": "Владелец алгарийского странника бурь (транспорта из The War Within Heroic Edition).",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Герой своего времени: Г'уун",
+		"description": "Победите Г'ууна в Ульдире в героическом или более сложном режиме до начала битвы за Дазар'алор.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Король-пес",
+		"description": "Владелец Партаса.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Крутостью мне заложило уши",
+		"description": "Победите Синестру в Сумеречном бастионе в героическом режиме с первой попытки, не допустив смерти ни одного из участников рейда.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Герой своего времени: Лэй Шэнь",
+		"description": "Победите Лэй Шэня в Престоле Гроз в обычном режиме до выхода обновления 5.4.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "На кромке лезвия: Воля императора",
+		"description": "Одержите победу над Волей императора в Подземельях Могу'шан в героическом режиме до выхода обновления 5.2.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Наз'уро, Высвобожденное Наследие",
+		"description": "Возьмите в руки Наз'уро, Высвобожденное Наследие.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Дружба – это святое",
+		"description": "Получите изумрудного гиппогрифа по программе Пригласи друга.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Охотник на вампиров",
+		"description": "Одержана победа над принцем Тенрисом Мутная Кровь и получен его спутник, детеныш нетопыря.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Поводья коня смерти",
+		"description": "Получите поводья коня смерти у Ривендера из Стратхольма.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Покровитель войны",
+		"description": "Понаблюдайте за сражением сильнейших гладиаторов Азерота!",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "На кромке лезвия: глашатай Бездны Уу'нат",
+		"description": "Победите глашатая Бездны Уу'ната в Горниле Штормов в эпохальном режиме до открытия рейдовой локации следующей ступени.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "На кромке лезвия: Ксавий",
+		"description": "Победите Ксавия в Изумрудном Кошмаре в эпохальном режиме до открытия Цитадели Ночи.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Дружба выше всего на свете",
+		"description": "Получите прогулочную ракету X-53 по программе Пригласи друга.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Как в старые времена",
+		"description": "Одолейте каждого босса из воспоминаний во время событий, предшествующих выходу дополнения The War Within.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "На кромке лезвия: Лэй Шэнь",
+		"description": "Победите Лэй Шэня в Престоле Гроз в героическом режиме до выхода обновления 5.4.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "На кромке лезвия: сир Денатрий",
+		"description": "Победите сира Денатрия в замке Нафрия в эпохальном режиме до выхода рейда более высокого уровня.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Ядошкурый равазавр",
+		"description": "Получите ядошкурого равазавра.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Бой со стихиями",
+		"description": "Победите каждого повелителя элементалей во время событий в честь выхода Dragonflight.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "На кромке лезвия: Черные врата",
+		"description": "Победите Архимонда в эпохальном режиме до выхода обновления 7.0.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Большой медведь Blizzard",
+		"description": "Гордый владелец большого медведя Blizzard, полученного на BlizzCon 2008.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Герой своего времени: Гаррош Адский Крик (10 игроков)",
+		"description": "Победите Гарроша Адского Крика в обычном или более сложном режиме рейда на 10 человек до выхода обновления 6.0.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Герой своего времени: Сильвана Ветрокрылая",
+		"description": "Победите Сильвану Ветрокрылую в Святилище Господства в героическом или более сложном режиме до открытия рейда более высокого уровня.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Коллекционное издание: Зерадар",
+		"description": "Владелец Зерадара, питомца-архонта из коллекционного издания Legacy of the Void.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "На кромке лезвия: Ра-ден",
+		"description": "Победите Ра-дена в Престоле Гроз до выхода обновления 5.4.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Нефритовый тигр",
+		"description": "Вход в игровой мир во время раздачи нефритовых тигров.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Ониксовая пантера",
+		"description": "Гордый владелец ониксовой пантеры.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Принеси мне голову... ээ, то есть...",
+		"description": "Победа над Всадником без головы до обновления праздников в 2023 г.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Epic Edition: мракозарный летун",
+		"description": "Владелец мракозарного летуна (транспорт из Midnight Epic Edition).",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Heroic Edition: оплетенный ткач снов",
+		"description": "Владелец оплетенного ткача снов, транспорта из Dragonflight Heroic Edition.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Вал'анир, молот древних королей",
+		"description": "Возьмите в руки Вал'анир, молот древних королей.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Гербовая накидка Серебряного Рассвета",
+		"description": "Получите Гербовую накидку Серебряного Рассвета во время вторжения Плети.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Герой своего времени: Гул'дан",
+		"description": "Победите Гул'дана в Цитадели Ночи в героическом или более сложном режиме до открытия гробницы Саргераса.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Эфес меча Тираэля",
+		"description": "Гордый владелец эфеса меча Тираэля, полученного в награду за посещение World Wide Invitational-2008 в Париже.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Гостья из Warcraft",
+		"description": "Достигните вашим персонажем 20-го уровня.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "На кромке лезвия: Гаррош Адский Крик (10 игроков)",
+		"description": "Победите Гарроша Адского Крика в героическом режиме рейда на 10 человек до выхода обновления 6.0.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Операция Гномреган",
+		"description": "Вы помогли главному механику Меггакруту и изгнанникам из Гномрегана восстановить контроль над поверхностью Гномрегана.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "На кромке лезвия: Аргус Порабощенный",
+		"description": "Победите Аргуса Порабощенного в Анторусе, Пылающем Троне в эпохальном режиме до выхода обновления 8.0.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "На кромке лезвия: леди Джайна Праудмур",
+		"description": "Победите леди Джайну Праудмур в битве за Дазар'алор в эпохальном режиме до открытия рейдовой локации следующей ступени.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Победа в Хилсбраде",
+		"description": "Выиграйте сражение на юбилейном поле боя Южнобережье против Мельницы Таррен. Фракция: Орда.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Победа в Хилсбраде",
+		"description": "Выиграйте сражение на юбилейном поле боя Южнобережье против Мельницы Таррен. Фракция: Орда.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Всадник войны",
+		"description": "Гордый обладатель штормградского истребителя и оргриммарского перехватчика с BlizzCon 2017.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Герой своего времени: Рашагет Пожирательница Бурь",
+		"description": "Победите Рашагет Пожирательницу Бурь в Хранилище Воплощений в героическом или более сложном режиме до выхода рейда более высокого уровня.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Да здравствует StarCraft!",
+		"description": "В неделю 20-й годовщины StarCraft, который вышел в свет 31 марта 1998 года, отдайте /честь одному из следующих питомцев: зерглингу, Пострелу, игрушечному Тору, гиблингу или Зерадару.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Коллекционное издание: позолоченный равазавр",
+		"description": "Владелец позолоченного равазавра, средства передвижения из коллекционного издания Battle for Azeroth.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "На кромке лезвия: Г'уун",
+		"description": "Победите Г'ууна в Ульдире в эпохальном режиме до начала битвы за Дазар'алор.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "На кромке лезвия: Гул'дан",
+		"description": "Победите Гул'дана в Цитадели Ночи в эпохальном режиме до открытия гробницы Саргераса.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "На кромке лезвия: Сильвана Ветрокрылая",
+		"description": "Победите Сильвану Ветрокрылую в Святилище Господства в эпохальном режиме до открытия рейда более высокого уровня.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "На кромке лезвия: Тигель Чернорука",
+		"description": "Победите вождя Чернорука в литейной клана Черной горы в эпохальном режиме до выхода обновления 6.2.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Он умоется твоими слезами (25 игроков)",
+		"description": "Убейте Алгалона Наблюдателя в рейде на 25 игроков, не допустив смерти ни одного участника рейда Алгалона за всю историю сохранения.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Остаться в живых",
+		"description": "Останьтесь единственным выжившим после рейтингового боя на Арене 5 на 5.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Посторонним вход воспрещен!",
+		"description": "Уничтожьте по порталу элементалей каждого вида во время события, посвященного запуску Cataclysm.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Коллекционное издание: грозный ворон",
+		"description": "Владелец грозного ворона, средства передвижения из коллекционного издания Warlords of Draenor.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "На кромке лезвия: Гаррош Адский Крик (25 игроков)",
+		"description": "Победите Гарроша Адского Крика в героическом режиме рейда на 25 человек до выхода обновления 6.0.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Стремительный белый крылобег",
+		"description": "Получите стремительного белого крылобега от Кель'Таса Солнечного Скитальца на террасе Магистров.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Ледопард Зимних Ключей",
+		"description": "Получите ледопарда Зимних Ключей.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Время – это плоский круг",
+		"description": "Победите Архимонда в обычном или более сложном режиме до выхода обновления 7.0. Что бы мы ни сделали или сделаем в будущем, мы будем делать то же самое вновь и вновь.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Герой своего времени: Тигель Чернорука",
+		"description": "Победите вождя Чернорука в литейной клана Черной горы в героическом или более сложном режиме до выхода обновления 6.2.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Коллекционное издание: Игрушечный Тор",
+		"description": "Владелец игрушечного Тора, спутника из коллекционного издания StarCraft II: Wings of Liberty.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Коллекционное издание: Смертокрылыш",
+		"description": "Владелец Смертокрылыша, спутника из коллекционного издания Cataclysm.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Коллекционное издание: соленогривый жеребец",
+		"description": "Владелец соленогривого жеребца, средства передвижения из коллекционного издания Battle for Azeroth.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "На кромке лезвия: Хелия",
+		"description": "Победите Хелию в Испытании доблести в эпохальном режиме до открытия гробницы Саргераса.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Он умоется твоими слезами (10 игроков)",
+		"description": "Убейте Алгалона Наблюдателя в рейде на 10 игроков, не допустив смерти ни одного участника рейда от Алгалона за все время сохранения подземелья.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Поводья скакуна Всадника без головы",
+		"description": "Получите поводья скакуна Всадника без головы от Всадника без головы в Монастыре Алого ордена во время Тыквовина.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Герой своего времени: дракомандир Саркарет",
+		"description": "Победите дракомандира Саркарета в Аберрии, Затененном Горниле, в героическом или более сложном режиме до выхода рейда более высокого уровня.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Герой своего времени: Хелия",
+		"description": "Победите Хелию в Испытании доблести в героическом или более сложном режиме до открытия гробницы Саргераса.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "На кромке лезвия: Рашагет Пожирательница Бурь",
+		"description": "Победите Рашагет Пожирательницу Бурь в Хранилище Воплощений в эпохальном режиме до выхода рейда более высокого уровня.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Победа в Хилсбраде",
+		"description": "Выиграйте сражение на юбилейном поле боя Южнобережье против Мельницы Таррен. Фракция: Альянс.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Атиеш, великий посох Хранителя.",
+		"description": "Возьмите в руки Атиеш, великий посох Хранителя.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Коллекционное издание: малыш Уинстон",
+		"description": "Владелец Overwatch Origins Edition и хозяин питомца по имени малыш Уинстон из коллекционного издания Overwatch.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Коллекционное издание: фетиш-шаман",
+		"description": "Владелец фетиш-шамана, спутника из коллекционного издания Diablo III",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Heroic Edition: заколдованный вечный змей",
+		"description": "Владелец заколдованного вечного змея (транспорта из Shadowlands Heroic Edition).",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Возвращение во Тьму",
+		"description": "Владелец слияния гнева, транспорта промоакции Diablo IV.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Герой своего времени: Воля императора",
+		"description": "Одержите победу над Волей Императора в Подземельях Могу'шан в обычном режиме до выхода обновления 5.2.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Все мы дети звезд",
+		"description": "Победите Ригелона в эпохальном режиме в Гробнице Предвечных, когда на всех игроков действует эффект Глашатай космоса, до открытия рейда более высокого уровня.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Герой своего времени: королева Азшара",
+		"description": "Победите королеву Азшару в Вечном дворце в героическом или более сложном режиме до открытия рейда более высокого уровня.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Герой своего времени: Падение Императора",
+		"description": "Победите императора Мар'гока на вершине его цитадели при нападении на клан Верховного Молота в героическом или более сложном режиме до выхода обновления 6.2.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Дружба превыше всего на свете",
+		"description": "Получите сердце крыла ночи по программе Пригласи друга.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Коллекционное издание: алчный гоблин",
+		"description": "Владелец алчного гоблина, спутника из коллекционного издания Diablo III: Reaper of Souls.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Коллекционное издание: иллидарский ловец Скверны",
+		"description": "Владелец иллидарского ловца Скверны, средства передвижения из коллекционного издания Legion.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "На кромке лезвия: дракомандир Саркарет",
+		"description": "Победите дракомандира Саркарета в Аберрии, Затененном Горниле, в эпохальном режиме до выхода рейда более высокого уровня.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "На кромке лезвия: Кил'джеден",
+		"description": "Победите Кил'джедена в гробнице Саргераса в эпохальном режиме до открытия Анторуса, Пылающего Трона.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Противостояние Легиону",
+		"description": "Отразите вторжение сил Пылающего Легиона во время событий, предшествующих выходу дополнения Legion.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Противостояние Легиону",
+		"description": "Отразите вторжение сил Пылающего Легиона во время событий, предшествующих выходу дополнения Legion.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Утром дрожжи, вечером вожжи",
+		"description": "Получите эпическое верховое животное с Хмельного фестиваля.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Коллекц. издание: дракончик Пустоты",
+		"description": "Владелец маленького дракончика Пустоты, спутника из коллекционного издания The Burning Crusade.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Коллекционное издание: гиблинг",
+		"description": "Владелец гиблинга, спутника из коллекционного издания Starcraft II: Heart of the Swarm.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Коллекционное издание: грозный птенец",
+		"description": "Владелец грозного птенца, спутника из коллекционного издания Warlords of Draenor.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Коллекционное издание: Зерглинг",
+		"description": "Владелец Зерглинга, спутника из коллекционного издания игры.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Коллекционное издание: императорский цийлинь",
+		"description": "Владелец императорского цийлиня, средства передвижения из коллекционного издания Mists of Pandaria.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "На кромке лезвия: Тюремщик",
+		"description": "Победите Тюремщика в Гробнице Предвечных в эпохальном режиме до открытия рейда более высокого уровня.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "На кромке лезвия: Падение Императора",
+		"description": "Победите императора Мар'гока на вершине его цитадели при нападении на клан Верховного Молота в эпохальном режиме до выхода обновления 6.2.",
+		"price": 1000
+	}
+]

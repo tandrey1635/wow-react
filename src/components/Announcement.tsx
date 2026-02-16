@@ -1,4 +1,4 @@
-const Announcement = ({ home, races, horde, alliance, warrior, druid, priest, mage, monk, hunter, demonHunter, paladin, awakener, rogue, deathKnight, warlock, shaman, oneHandedWeapons, twoHandedWeapons, rangeWeapons, legendaryWeapons, artifactWeapons, decorativeWeapons, twoHandedAxes, weaponsDetailsTitle, weaponsDetailsDescription, ashbringer, sulfuras, thunderfury, atiesh, warglaivesOfAzzinoth, thoridal, valanyr, frostmourne, shadowmourne, tarecgosa, fangsFather, raeshalareDeathsWhisper, fyralathTheDreamrender, naszuroTheUnboundLegacy, armsWarrior, furyWarrior, protectionWarrior, armours, shields, cloaks, tabards, fishingRods, waterMounts, earthMounts, flyMounts, hordeGold, allianceGold, professions, alchemy, mining, engineering, leatherworking, blacksmithing, enchanting,  inscription, tailoring, skinning, herbalism, jewelcrafting, archaeology, riding, cooking, firstAid, fishing, junkyardTinkering, protoformSynthesis, pvp, honour, arena, rbg, dungeons, mythic5, mythic10, mythic15, additionsDungeons, additionsRaids, dungeonsClassic, dungeonsBurningCrusade, dungeonsWrathOfTheLichKing, dungeonsCataclysm, dungeonsMistsOfPandaria, dungeonsWarlordsOfDraenor, dungeonsLegion, dungeonsBattleForAzeroth, dungeonsShadowlands, dungeonsDragonflight, dungeonsWarWithin, dungeonsMidnight, dungeonsLastTitan, raidsClassic, raidsBurningCrusade, raidsWrathOfTheLichKing, raidsCataclysm, raidsMistsOfPandaria, raidsWarlordsOfDraenor, raidsLegion, raidsBattleForAzeroth, raidsShadowlands, raidsDragonflight, raidsWarWithin, raidsMidnight, raidsLastTitan, lvlUp, lvlUpBase, lvlUpExpert, lvlUpMaster, achievements, quests, equipments, mounts, raidsExplorer, legacy, greatFeats, warcraftReforged, wow, diablo, hearthstone, heroesStorm, starcraft, overwatch, wowCollectionEditions, diabloCollectionEditions  }) => {
+const Announcement = ({ home, races, horde, alliance, warrior, druid, priest, mage, monk, hunter, demonHunter, paladin, awakener, rogue, deathKnight, warlock, shaman, oneHandedWeapons, twoHandedWeapons, rangeWeapons, legendaryWeapons, artifactWeapons, decorativeWeapons, twoHandedAxes, weaponsDetailsTitle, weaponsDetailsDescription, ashbringer, sulfuras, thunderfury, atiesh, warglaivesOfAzzinoth, thoridal, valanyr, frostmourne, shadowmourne, tarecgosa, fangsFather, raeshalareDeathsWhisper, fyralathTheDreamrender, naszuroTheUnboundLegacy, armsWarrior, furyWarrior, protectionWarrior, armours, shields, cloaks, tabards, fishingRods, waterMounts, earthMounts, flyMounts, hordeGold, allianceGold, professions, alchemy, mining, engineering, leatherworking, blacksmithing, enchanting,  inscription, tailoring, skinning, herbalism, jewelcrafting, archaeology, riding, cooking, firstAid, fishing, junkyardTinkering, protoformSynthesis, pvp, honour, arena, rbg, dungeons, mythic5, mythic10, mythic15, additionsDungeons, additionsRaids, dungeonsClassic, dungeonsBurningCrusade, dungeonsWrathOfTheLichKing, dungeonsCataclysm, dungeonsMistsOfPandaria, dungeonsWarlordsOfDraenor, dungeonsLegion, dungeonsBattleForAzeroth, dungeonsShadowlands, dungeonsDragonflight, dungeonsWarWithin, dungeonsMidnight, dungeonsLastTitan, raidsClassic, raidsBurningCrusade, raidsWrathOfTheLichKing, raidsCataclysm, raidsMistsOfPandaria, raidsWarlordsOfDraenor, raidsLegion, raidsBattleForAzeroth, raidsShadowlands, raidsDragonflight, raidsWarWithin, raidsMidnight, raidsLastTitan, lvlUp, lvlUpBase, lvlUpExpert, lvlUpMaster, achievements, quests, equipments, mounts, raidsExplorer, legacy, greatFeats, warcraftReforged, wowAnniversary, diablo, hearthstone, heroesStorm, starcraft, overwatch, wowCollectionEditions, diabloCollectionEditions  }) => {
 	return (
 		<section className="announcement">
 			<div className="container">
@@ -148,43 +148,43 @@ const Announcement = ({ home, races, horde, alliance, warrior, druid, priest, ma
 								? "За Альянс!"
 								:
 							warrior
-								? "Комплекты рейдовой брони для воина"
+								? "Комплекты рейдовой брони\n для воина"
 								:
 							druid
-								? "Комплекты рейдовой брони для друида"
+								? "Комплекты рейдовой брони\n для друида"
 								:
 							priest
-								? "Комплекты рейдовой брони для жреца"
+								? "Комплекты рейдовой брони\n для жреца"
 								:
 							mage
-								? "Комплекты рейдовой брони для мага"
+								? "Комплекты рейдовой брони\n для мага"
 								:
 							monk
-								? "Комплекты рейдовой брони для монаха"
+								? "Комплекты рейдовой брони\n для монаха"
 								:
 							hunter
-								? "Комплекты рейдовой брони для охотника"
+								? "Комплекты рейдовой брони\n для охотника"
 								:
 							demonHunter
-								? "Комплекты рейдовой брони для охотника на демонов"
+								? "Комплекты рейдовой брони\n для охотника на демонов"
 								:
 							paladin
-								? "Комплекты рейдовой брони для паладина"
+								? "Комплекты рейдовой брони\n для паладина"
 								:
 							awakener
-								? "Комплекты рейдовой брони для пробудителя"
+								? "Комплекты рейдовой брони\n для пробудителя"
 								:
 							rogue
-								? "Комплекты рейдовой брони для разбойника"
+								? "Комплекты рейдовой брони\n для разбойника"
 								:
 							deathKnight
-								? "Комплекты рейдовой брони для рыцаря смерти"
+								? "Комплекты рейдовой брони\n для рыцаря смерти"
 								:
 							warlock
-								? "Комплекты рейдовой брони для чернокнижника"
+								? "Комплекты рейдовой брони\n для чернокнижника"
 								:
 							shaman
-								? "Комплекты рейдовой брони для шамана"
+								? "Комплекты рейдовой брони\n для шамана"
 								:
 							oneHandedWeapons
 								? "Одноручное оружие"
@@ -474,7 +474,7 @@ const Announcement = ({ home, races, horde, alliance, warrior, druid, priest, ma
 							warcraftReforged
 								? "Годовщина Warcraft 3 Reforged"
 								:
-							wow
+							wowAnniversary
 								? "Годовщина World of Warcraft"
 								:
 							diablo
@@ -493,7 +493,7 @@ const Announcement = ({ home, races, horde, alliance, warrior, druid, priest, ma
 								? "Годовщина Overwatch"
 								:
 							wowCollectionEditions
-								? "Коллекционные издания World of Warcraft"
+								? "Коллекционные издания\n World of Warcraft"
 								:
 							diabloCollectionEditions
 								? "Коллекционные издания Diablo"
@@ -650,6 +650,9 @@ const Announcement = ({ home, races, horde, alliance, warrior, druid, priest, ma
 								:
 							allianceGold
 								? "Нужны монеты для клинка, что сокрушит врагов Альянса, или брони, выкованной в кузнях Стальгорна? Наше золото поможет тебе стать сильнее. За короля! За Альянс!"
+								:
+							wowCollectionEditions
+								? "Полная коллекция легендарных изданий, с которых начиналось приключение от Classic до Midnight. Каждый экземпляр часть истории Азерота у тебя на полке. Настоящее сокровище для истинного коллекционера!"
 								: "Станьте легендой Азерота!"
 						}
 					</h3>

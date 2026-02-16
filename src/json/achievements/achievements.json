@@ -66,14 +66,12 @@
 
 	{
 		"id": "great-feats",
-		"className": "card-achievements",
+		"type": "achievements",
 		"path": "achievements/great-feats",
-		"cardImg": "/src/assets/img/promo/bg/achievements/great-feats.jpg",
-		"titleClassName": "card-title-achievements",
-		"title": "Великие подвиги",
-		"descriptionClassName": "card-text-achievements",
-		"description": "Подвиги, которые не стираются временем. Ваше имя в Легенде.",
-		"priceClassName": "card-price-achievements",
+		"img": "/src/assets/img/promo/bg/achievements/great-feats.jpg",
+		"objectFit": false,
+		"title": "Великие Подвиги",
+		"description": "Подвиги, которые не стираются временем. Ваше имя в Легенде!",
 		"price": 1000
 	},
 
@@ -91,11 +89,11 @@
 	},
 
 	{
-		"id": "wow",
-		"className": "card-achievements",
-		"path": "achievements/wow",
-		"cardImg": "/src/assets/img/promo/bg/achievements/wow.jpg",
-		"titleClassName": "card-title-achievements",
+		"id": "WowAnniversaryw",
+		"type": "achievements",
+		"path": "achievements/wow-anniversary",
+		"img": "/src/assets/img/promo/bg/achievements/.jpg",
+		"objectFit": true,
 		"title": "Годовщина World of Warcraft",
 		"description": "Великое приключение длиной в 20 лет. Путешествие, достойное легенды!",
 		"price": 1000
@@ -173,7 +171,7 @@
 		"img": "/src/assets/img/promo/bg/achievements/wow-collection-editions.jpg",
 		"objectFit": false,
 		"title": "Коллекционные издания World of Warcraft",
-		"description": "Пыльные артефакты. Ваш почетный знак ветерана на полке",
+		"description": "Пыльные артефакты. Ваш почетный знак ветерана на полке.",
 		"price": 1000
 	},
 

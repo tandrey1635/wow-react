@@ -168,3 +168,9 @@ https://www.wowhead.com/ru/guide/transmogrification/all-transmog-sets-for-warrio
 
 тир 1-6 - шаман
 тир 1-6 - хант
+
+
+
+поставить точки в промо карточках на гл стр
+
+исправить ид в великих подвигах
