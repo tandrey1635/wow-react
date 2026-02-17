@@ -1,12 +1,74 @@
 [
 	{
-		"id": "",
+		"id": "TempleOfTheJadeSerpent",
 		"type": "dungeons-raids-mists-of-pandaria",
 		"path": "",
-		"img": "/src/assets/img/raids/bg/mists-of-pandaria/.jpg",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/mists-of-pandaria/Temple-of-the-Jade-Serpent.jpg",
 		"objectFit": false,
-		"title": "Подземелья Могу'шан",
-		"description": "Закажите гарантированное прохождение рейда",
-		"price": 250
+		"title": "Храм Нефритовой Змеи",
+		"description": "Подземелье для игроков 85-90 уровней дополнения",
+		"addition": "Mists of Pandaria",
+		"price": 200
+	},
+
+	{
+		"id": "StormstoutBrewery",
+		"type": "dungeons-raids-mists-of-pandaria",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/mists-of-pandaria/Stormstout-Brewery.jpg",
+		"objectFit": false,
+		"title": "Хмелеварня Буйных Портеров",
+		"description": "Подземелье для игроков 85-90 уровней дополнения",
+		"addition": "Mists of Pandaria",
+		"price": 200
+	},
+
+	{
+		"id": "ShadoPanMonastery",
+		"type": "dungeons-raids-mists-of-pandaria",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/mists-of-pandaria/Shado-Pan-Monastery.jpg",
+		"objectFit": false,
+		"title": "Монастырь Шадо-Пан",
+		"description": "Подземелье для игроков 85-90 уровней дополнения",
+		"addition": "Mists of Pandaria",
+		"price": 200
+	},
+
+	{
+		"id": "SiegeOfNiuzaoTemple",
+		"type": "dungeons-raids-mists-of-pandaria",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/mists-of-pandaria/Siege-of-Niuzao-Temple.jpg",
+		"objectFit": false,
+		"title": "Осада Храма Нюцзао",
+		"description": "Подземелье для игроков 85-90 уровней дополнения",
+		"addition": "Mists of Pandaria",
+		"price": 200
+	},
+
+	{
+		"id": "GateOfTheSettingSun",
+		"type": "dungeons-raids-mists-of-pandaria",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/mists-of-pandaria/Gate-of-the-Setting-Sun.jpg",
+		"objectFit": false,
+		"title": "Врата Заходящего Солнца",
+		"description": "Подземелье для игроков 85-90 уровней дополнения",
+		"addition": "Mists of Pandaria",
+		"price": 200
+	},
+
+	{
+		"id": "MogushanPalace",
+		"type": "dungeons-raids-mists-of-pandaria",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/mists-of-pandaria/Mogushan-Palace.jpg",
+		"objectFit": false,
+		"title": "Дворец Могу'Шан",
+		"description": "Подземелье для игроков 85-90 уровней дополнения",
+		"addition": "Mists of Pandaria",
+		"price": 200
 	}
+
 ]
