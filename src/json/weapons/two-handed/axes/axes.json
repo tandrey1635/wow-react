@@ -99,6 +99,28 @@
 	},
 
 	{
+		"id": "DrakeTalonCleaver",
+		"type": "weapons",
+		"path": "axes-details",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Drake-Talon-Cleaver.png",
+		"objectFit": false,
+		"title": "Колун из Драконьего Когтя",
+		"description": "Топор 4",
+		"price": 300
+	},
+
+	{
+		"id": "DraconicAvenger",
+		"type": "weapons",
+		"path": "axes-details",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Draconic-Avenger.png",
+		"objectFit": false,
+		"title": "Драконье Возмездие",
+		"description": "Топор 4",
+		"price": 300
+	},
+
+	{
 		"id": "WhitefinAxe",
 		"type": "weapons",
 		"path": "axes-details",
@@ -194,6 +216,72 @@
 		"objectFit": false,
 		"title": "Тиранический Главорез",
 		"description": "Топор 4",
+		"price": 300
+	},
+
+	{
+		"id": "PhaseLostChopper",
+		"type": "weapons",
+		"path": "axes-details",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Phase-Lost-Chopper.png",
+		"objectFit": true,
+		"title": "Межфазовый Колун",
+		"description": "",
+		"price": 300
+	},
+
+	{
+		"id": "SkullstealerGreataxe",
+		"type": "weapons",
+		"path": "axes-details",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Skullstealer-Greataxe.png",
+		"objectFit": true,
+		"title": "Большой Топор Головоруба",
+		"description": "Топор 4",
+		"price": 300
+	},
+
+	{
+		"id": "SkullstealerGreataxeHeroic",
+		"type": "weapons",
+		"path": "axes-details",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Skullstealer-Greataxe-heroic.png",
+		"objectFit": true,
+		"title": "Большой Топор Головоруба",
+		"description": "героический",
+		"price": 300
+	},
+
+	{
+		"id": "RiptideSlicer",
+		"type": "weapons",
+		"path": "axes-details",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Riptide-Slicer.png",
+		"objectFit": false,
+		"title": "Рассекатель Прилива",
+		"description": "",
+		"price": 300
+	},
+
+	{
+		"id": "ShalugdoomTheAxeOfUnmaking",
+		"type": "weapons",
+		"path": "axes-details",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Shalugdoom-the-Axe-of-Unmaking.png",
+		"objectFit": false,
+		"title": "Шалуг'дум, Топор Разрушений",
+		"description": "",
+		"price": 300
+	},
+
+	{
+		"id": "PlunderedWingbladeAxe",
+		"type": "weapons",
+		"path": "axes-details",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Plundered-Wingblade-Axe.png",
+		"objectFit": false,
+		"title": "Трофейный Топор с Лезвием Крылом",
+		"description": "",
 		"price": 300
 	}
 ]

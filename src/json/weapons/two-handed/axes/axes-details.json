@@ -138,6 +138,36 @@
 	},
 
 	{
+		"id": "DrakeTalonCleaver",
+		"type": "two-handed-weapons",
+		"path": "",
+		"weaponType": "Двуручный Топор",
+		"label": "Эпический",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Drake-Talon-Cleaver.png",
+		"objectFit": false,
+		"title": "Колун из Драконьего Когтя",
+		"description": "Уровень предмета: 13 Становится персональным при получении Двуручное Топор Урон: 5 - 12 Скорость 3.60 (2.4 ед. урона в секунду) +3 к силе +2 к выносливости Прочность: 120 / 120 Возможный эффект при попадании: Нанесение смертельной раны с уроном в 18 ед. Требуется 25-й ур. Цена продажи: 1 12 35",
+		"dmg": 1000,
+		"speed": 2.6,
+		"price": 300
+	},
+
+	{
+		"id": "DraconicAvenger",
+		"type": "two-handed-weapons",
+		"path": "",
+		"weaponType": "Двуручный Топор",
+		"label": "Эпический",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Draconic-Avenger.png",
+		"objectFit": false,
+		"title": "Драконье Возмездие",
+		"description": "Уровень предмета: 13 Становится персональным при получении Двуручное Топор Урон: 5 - 12 Скорость 3.60 (2.4 ед. урона в секунду) +3 к силе +2 к выносливости Парирование ++8 (0.58% на 80 ур.). Прочность: 120 / 120 Требуется 25-й ур. Цена продажи: 1 2 2 Добывается с: Змеестраж Когтя Смерти Вероятность получения: 5.60%",
+		"dmg": 1000,
+		"speed": 2.6,
+		"price": 300
+	},
+
+	{
 		"id": "WhitefinAxe",
 		"type": "two-handed-weapons",
 		"path": "",
@@ -267,6 +297,96 @@
 		"objectFit": false,
 		"title": "Тиранический Главорез",
 		"description": "Уровень предмета: 15 Становится персональным при получении Двуручное Топор Урон: 7 - 15 Скорость 3.60 (3.1 ед. урона в секунду) +3 к силе +6 к выносливости +2 к критическому удару (0.16% на 80 ур.) +5 к скорости (0.43% на 80 ур.) бесцветное гнездо При соответствии цвета: +1 к силе Требуется 30-й ур. Цена продажи: 2 27 94 Добывается с: Повелитель Плети Тираний Вероятность получения: 5.92%",
+		"dmg": 1000,
+		"speed": 2.6,
+		"price": 300
+	},
+
+	{
+		"id": "PhaseLostChopper",
+		"type": "two-handed-weapons",
+		"path": "",
+		"weaponType": "Двуручный Топор",
+		"label": "Эпический",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Phase-Lost-Chopper.png",
+		"objectFit": false,
+		"title": "Межфазовый Колун",
+		"description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolores vel temporibus officiis quam, culpa doloremque dolore debitis cum aliquid. Sequi.",
+		"dmg": 1000,
+		"speed": 2.6,
+		"price": 300
+	},
+
+	{
+		"id": "SkullstealerGreataxe",
+		"type": "two-handed-weapons",
+		"path": "",
+		"weaponType": "Двуручный Топор",
+		"label": "Эпический",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Skullstealer-Greataxe.png",
+		"objectFit": false,
+		"title": "Большой Топор Головоруба",
+		"description": "Уровень предмета: 15 Становится персональным при получении Двуручное Топор Урон: 7 - 15 Скорость 3.60 (3.1 ед. урона в секунду) +4 к силе +6 к выносливости +4 к скорости (0.34% на 80 ур.) +4 к искусности (0.33% на 80 ур.) Прочность: 120 / 120 Требуется 32-й ур. Цена продажи: 2 74 41 Добывается с: Шэннокс Вероятность получения: 10.54%",
+		"dmg": 1000,
+		"speed": 2.6,
+		"price": 300
+	},
+
+	{
+		"id": "SkullstealerGreataxeHeroic",
+		"type": "two-handed-weapons",
+		"path": "",
+		"weaponType": "Двуручный Топор",
+		"label": "Эпический",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Skullstealer-Greataxe-heroic.png",
+		"objectFit": false,
+		"title": "Большой Топор Головоруба",
+		"description": "Героический Уровень предмета: 15 Становится персональным при получении Двуручное Топор Урон: 7 - 15 Скорость 3.60 (3.1 ед. урона в секунду) +4 к силе +6 к выносливости +4 к скорости (0.34% на 80 ур.) +4 к искусности (0.33% на 80 ур.) Прочность: 120 / 120 Требуется 32-й ур. Цена продажи: 2 74 41 Добывается с: Шэннокс Вероятность получения: 18.13%",
+		"dmg": 1000,
+		"speed": 2.6,
+		"price": 300
+	},
+
+	{
+		"id": "RiptideSlicer",
+		"type": "two-handed-weapons",
+		"path": "",
+		"weaponType": "Двуручный Топор",
+		"label": "Эпический",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Riptide-Slicer.png",
+		"objectFit": false,
+		"title": "Рассекатель Прилива",
+		"description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolores vel temporibus officiis quam, culpa doloremque dolore debitis cum aliquid. Sequi.",
+		"dmg": 1000,
+		"speed": 2.6,
+		"price": 300
+	},
+
+	{
+		"id": "ShalugdoomTheAxeOfUnmaking",
+		"type": "two-handed-weapons",
+		"path": "",
+		"weaponType": "Двуручный Топор",
+		"label": "Эпический",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Shalugdoom-the-Axe-of-Unmaking.png",
+		"objectFit": false,
+		"title": "Шалуг'дум, Топор Разрушений",
+		"description": "Уровень предмета: 15 Становится персональным при получении Двуручное Топор Урон: 7 - 15 Скорость 3.60 (3.1 ед. урона в секунду) +4 к силе +6 к выносливости +4 к критическому удару (0.33% на 80 ур.) +4 к скорости (0.34% на 80 ур.) Прочность: 120 / 120 Требуется 32-й ур. Цена продажи: 2 67 98 Добывается с: Чо'Галл Вероятность получения: 18.69%",
+		"dmg": 1000,
+		"speed": 2.6,
+		"price": 300
+	},
+
+	{
+		"id": "PlunderedWingbladeAxe",
+		"type": "two-handed-weapons",
+		"path": "",
+		"weaponType": "Двуручный Топор",
+		"label": "Эпический",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Plundered-Wingblade-Axe.png",
+		"objectFit": false,
+		"title": "Трофейный Топор с Лезвием Крылом",
+		"description": "Уровень предмета: 19 Становится персональным при надевании Двуручное Топор Урон: 9 - 20 Скорость 3.60 (4.0 ед. урона в секунду) +6 к силе +9 к выносливости +6 к критическому удару (0.49% на 80 ур.) +5 к универсальности (0.35% на 80 ур.) Прочность: 100 / 100 Требуется 50-й ур. Цена продажи: 21 76 85",
 		"dmg": 1000,
 		"speed": 2.6,
 		"price": 300
