@@ -991,28 +991,24 @@
 	},
 
 	{
-		"id": "",
-		"className": "card-mounts card-mounts-fly",
+		"id": "FierceGladiatorsStormDragon",
+		"type": "fly-mounts",
 		"path": "",
-		"cardImg": "/src/assets/img/mounts/bg/fly/.png",
-		"titleClassName": "card-title-mounts card-title-mounts-fly",
+		"img": "/src/assets/img/mounts/bg/fly/Fierce-Gladiators-Storm-Dragon.png",
+		"objectFit": false,
 		"title": "Грозовой Дракон Неудержимого Гладиатора",
-		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "1",
-		"priceClassName": "card-price-mounts card-price-mounts-fly",
+		"description": "Рожденный в горах Штормхейма грозовой дракон являет собой поистине величественное зрелище, когда преследует свою жертву, оставляя в небесах пылающий след. Награда за достижение: Гладиатор: 5-й сезон Legion.",
 		"price": 300
 	},
 
 	{
-		"id": "",
-		"className": "card-mounts card-mounts-fly",
+		"id": "FerociousGladiatorsStormDragon",
+		"type": "fly-mounts",
 		"path": "",
-		"cardImg": "/src/assets/img/mounts/bg/fly/.png",
-		"titleClassName": "card-title-mounts card-title-mounts-fly",
+		"img": "/src/assets/img/mounts/bg/fly/Ferocious-Gladiators-Storm-Dragon.png",
+		"objectFit": false,
 		"title": "Грозовой Дракон Озлобленного Гладиатора",
-		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "1",
-		"priceClassName": "card-price-mounts card-price-mounts-fly",
+		"description": "Рожденный в горах Штормхейма грозовой дракон являет собой поистине величественное зрелище, когда преследует свою жертву, оставляя в небесах пылающий след. Награда за достижение: Гладиатор: 4-й сезон Legion.",
 		"price": 300
 	},
 
@@ -1028,15 +1024,13 @@
 	},
 
 	{
-		"id": "",
-		"className": "card-mounts card-mounts-fly",
+		"id": "HarshReinsOfTheVengefulCharger",
+		"type": "fly-mounts",
 		"path": "",
-		"cardImg": "/src/assets/img/mounts/bg/fly/.png",
-		"titleClassName": "card-title-mounts card-title-mounts-fly",
+		"img": "/src/assets/img/mounts/bg/fly/Harsh-Reins-of-the-Vengeful-Charger.png",
+		"objectFit": false,
 		"title": "Грубые Поводья Мстительного Скакуна",
-		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "1",
-		"priceClassName": "card-price-mounts card-price-mounts-fly",
+		"description": "И что его так взбесило? Классовый маунт Паладина. Условие: Завершите кампанию оплота класса. Торговец: Командир Рыцарей Далфорс. Зона: Обитель Света.",
 		"price": 300
 	},
 

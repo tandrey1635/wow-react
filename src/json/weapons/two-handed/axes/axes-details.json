@@ -288,6 +288,51 @@
 	},
 
 	{
+		"id": "BloodiedEbonAxe",
+		"type": "two-handed-weapons",
+		"path": "",
+		"weaponType": "Двуручный Топор",
+		"label": "Эпический",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Bloodied-Ebon-Axe.png",
+		"objectFit": false,
+		"title": "Окровавленный Топор Черного Клинка",
+		"description": "Уровень предмета: 16 Становится персональным при получении Двуручное Топор Урон: 7 - 16 Скорость 3.60 (3.2 ед. урона в секунду) +5 к силе +7 к выносливости +5 к скорости (0.43% на 80 ур.) +5 к искусности (0.41% на 80 ур.) Классы: Рыцарь смерти Цена продажи: 25",
+		"dmg": 1000,
+		"speed": 2.6,
+		"price": 300
+	},
+
+	{
+		"id": "BloodiedEbonAxe",
+		"type": "two-handed-weapons",
+		"path": "",
+		"weaponType": "Двуручный Топор",
+		"label": "Эпический",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Icy-Ebon-Axe.png",
+		"objectFit": false,
+		"title": "Ледяной Топор Черного Клинка",
+		"description": "Уровень предмета: 16 Становится персональным при получении Двуручное Топор Урон: 7 - 16 Скорость 3.60 (3.2 ед. урона в секунду) +5 к силе +7 к выносливости +5 к скорости (0.43% на 80 ур.) +5 к искусности (0.41% на 80 ур.) Классы: Рыцарь смерти Цена продажи: 25",
+		"dmg": 1000,
+		"speed": 2.6,
+		"price": 300
+	},
+
+	{
+		"id": "BloodiedEbonAxe",
+		"type": "two-handed-weapons",
+		"path": "",
+		"weaponType": "Двуручный Топор",
+		"label": "Эпический",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Unholy-Ebon-Axe.png",
+		"objectFit": false,
+		"title": "Нечестивый Топор Черного Клинка",
+		"description": "Уровень предмета: 16 Становится персональным при получении Двуручное Топор Урон: 7 - 16 Скорость 3.60 (3.2 ед. урона в секунду) +5 к силе +7 к выносливости +5 к скорости (0.43% на 80 ур.) +5 к искусности (0.41% на 80 ур.) Классы: Рыцарь смерти Цена продажи: 25",
+		"dmg": 1000,
+		"speed": 2.6,
+		"price": 300
+	},
+
+	{
 		"id": "TyrannicalBeheader",
 		"type": "two-handed-weapons",
 		"path": "",

@@ -209,6 +209,39 @@
 	},
 
 	{
+		"id": "BloodiedEbonAxe",
+		"type": "weapons",
+		"path": "axes-details",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Bloodied-Ebon-Axe.png",
+		"objectFit": false,
+		"title": "Окровавленный Топор Черного Клинка",
+		"description": "Топор 4",
+		"price": 300
+	},
+
+	{
+		"id": "BloodiedEbonAxe",
+		"type": "weapons",
+		"path": "axes-details",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Icy-Ebon-Axe.png",
+		"objectFit": false,
+		"title": "Ледяной Топор Черного Клинка",
+		"description": "Топор 4",
+		"price": 300
+	},
+
+	{
+		"id": "BloodiedEbonAxe",
+		"type": "weapons",
+		"path": "axes-details",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Unholy-Ebon-Axe.png",
+		"objectFit": false,
+		"title": "Нечестивый Топор Черного Клинка",
+		"description": "Топор 4",
+		"price": 300
+	},
+
+	{
 		"id": "TyrannicalBeheader",
 		"type": "weapons",
 		"path": "axes-details",
