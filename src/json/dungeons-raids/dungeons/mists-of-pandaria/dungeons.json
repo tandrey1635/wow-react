@@ -32,7 +32,7 @@
 		"title": "Монастырь Шадо-Пан",
 		"description": "Подземелье для игроков 85-90 уровней дополнения",
 		"addition": "Mists of Pandaria",
-		"price": 200
+		"price": 230
 	},
 
 	{
@@ -44,7 +44,7 @@
 		"title": "Осада Храма Нюцзао",
 		"description": "Подземелье для игроков 85-90 уровней дополнения",
 		"addition": "Mists of Pandaria",
-		"price": 200
+		"price": 230
 	},
 
 	{
@@ -56,7 +56,7 @@
 		"title": "Врата Заходящего Солнца",
 		"description": "Подземелье для игроков 85-90 уровней дополнения",
 		"addition": "Mists of Pandaria",
-		"price": 200
+		"price": 240
 	},
 
 	{
@@ -68,7 +68,6 @@
 		"title": "Дворец Могу'Шан",
 		"description": "Подземелье для игроков 85-90 уровней дополнения",
 		"addition": "Mists of Pandaria",
-		"price": 200
+		"price": 248
 	}
-
 ]

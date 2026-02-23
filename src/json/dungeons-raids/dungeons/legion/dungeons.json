@@ -1,12 +1,157 @@
 [
 	{
-		"id": "",
+		"id": "EyeOfAzshara",
 		"type": "dungeons-raids-legion",
 		"path": "",
-		"img": "/src/assets/img/raids/bg/legion/.jpg",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/legion/Eye-of-Azshara.jpg",
 		"objectFit": false,
-		"title": "Изумрудный Кошмар",
-		"description": "Закажите гарантированное прохождение рейда",
-		"price": 350
+		"title": "Око Азшары",
+		"description": "Подземелье для игроков 100-105 уровней дополнения",
+		"addition": "Legion",
+		"price": 300
+	},
+
+	{
+		"id": "HallsOfValor",
+		"type": "dungeons-raids-legion",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/legion/Halls-of-Valor.jpg",
+		"objectFit": false,
+		"title": "Чертоги Доблести",
+		"description": "Подземелье для игроков 100-105 уровней дополнения",
+		"addition": "Legion",
+		"price": 300
+	},
+
+	{
+		"id": "NeltharionsLair",
+		"type": "dungeons-raids-legion",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/legion/Neltharions-Lair.jpg",
+		"objectFit": false,
+		"title": "Логово Нелтариона",
+		"description": "Подземелье для игроков 100-105 уровней дополнения",
+		"addition": "Legion",
+		"price": 300
+	},
+
+	{
+		"id": "BlackRookHold",
+		"type": "dungeons-raids-legion",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/legion/Black-Rook-Hold.jpg",
+		"objectFit": false,
+		"title": "Крепость Черной Ладьи",
+		"description": "Подземелье для игроков 100-105 уровней дополнения",
+		"addition": "Legion",
+		"price": 300
+	},
+
+	{
+		"id": "DarkheartThicket",
+		"type": "dungeons-raids-legion",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/legion/Darkheart-Thicket.jpg",
+		"objectFit": false,
+		"title": "Чаща Темного Сердца",
+		"description": "Подземелье для игроков 100-105 уровней дополнения",
+		"addition": "Legion",
+		"price": 300
+	},
+
+	{
+		"id": "MawOfSouls",
+		"type": "dungeons-raids-legion",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/legion/Maw-of-Souls.jpg",
+		"objectFit": false,
+		"title": "Утроба Душ",
+		"description": "Подземелье для игроков 100-105 уровней дополнения",
+		"addition": "Legion",
+		"price": 305
+	},
+
+	{
+		"id": "VaultOfTheWardens",
+		"type": "dungeons-raids-legion",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/legion/Vault-of-the-Wardens.jpg",
+		"objectFit": false,
+		"title": "Казематы Стражей",
+		"description": "Подземелье для игроков 100-105 уровней дополнения",
+		"addition": "Legion",
+		"price": 305
+	},
+
+	{
+		"id": "VioletHold",
+		"type": "dungeons-raids-legion",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/legion/Violet-Hold.jpg",
+		"objectFit": false,
+		"title": "Штурм Аметистовой Крепости",
+		"description": "Подземелье для игроков 105-110 уровней дополнения",
+		"addition": "Legion",
+		"price": 310
+	},
+
+	{
+		"id": "Arcway",
+		"type": "dungeons-raids-legion",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/legion/Arcway.jpg",
+		"objectFit": false,
+		"title": "Катакомбы Сурамара",
+		"description": "Подземелье для игроков 105-110 уровней дополнения",
+		"addition": "Legion",
+		"price": 320
+	},
+
+	{
+		"id": "CourtOfStars",
+		"type": "dungeons-raids-legion",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/legion/Court-of-Stars.jpg",
+		"objectFit": false,
+		"title": "Квартал Звезд",
+		"description": "Подземелье для игроков 105-110 уровней дополнения",
+		"addition": "Legion",
+		"price": 320
+	},
+
+	{
+		"id": "CathedralOfEternalNight",
+		"type": "dungeons-raids-legion",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/legion/Cathedral-of-Eternal-Night.jpg",
+		"objectFit": false,
+		"title": "Собор Вечной Ночи",
+		"description": "Подземелье для игроков 105-110 уровней дополнения",
+		"addition": "Legion",
+		"price": 330
+	},
+
+	{
+		"id": "ReturnToKarazhan",
+		"type": "dungeons-raids-legion",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/legion/Return-to-Karazhan.jpg",
+		"objectFit": false,
+		"title": "Возвращение в Каражан",
+		"description": "Подземелье для игроков 105-110 уровней дополнения",
+		"addition": "Legion",
+		"price": 340
+	},
+
+	{
+		"id": "SeatOfTheTriumvirate",
+		"type": "dungeons-raids-legion",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/legion/Seat-of-the-Triumvirate.jpg",
+		"objectFit": false,
+		"title": "Престол Триумвирата",
+		"description": "Подземелье для игроков 105-110 уровней дополнения",
+		"addition": "Legion",
+		"price": 348
 	}
 ]
