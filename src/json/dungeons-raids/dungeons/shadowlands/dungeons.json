@@ -3,10 +3,107 @@
 		"id": "",
 		"type": "dungeons-raids-shadowlands",
 		"path": "",
-		"img": "/src/assets/img/raids/bg/shadowlands/.jpg",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/shadowlands/.jpg",
 		"objectFit": false,
-		"title": "Замок Нафрия",
-		"description": "Закажите гарантированное прохождение рейда",
-		"price": 450
+		"title": "Та Сторона",
+		"description": "Подземелье для игроков 100-105 уровней дополнения",
+		"addition": "Shadowlands",
+		"price": 400
+	},
+
+	{
+		"id": "",
+		"type": "dungeons-raids-shadowlands",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/shadowlands/.jpg",
+		"objectFit": false,
+		"title": "Чертоги Покаяния",
+		"description": "Подземелье для игроков 100-105 уровней дополнения",
+		"addition": "Shadowlands",
+		"price": 400
+	},
+
+	{
+		"id": "",
+		"type": "dungeons-raids-shadowlands",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/shadowlands/.jpg",
+		"objectFit": false,
+		"title": "Туманы Тирна Скитта",
+		"description": "Подземелье для игроков 100-105 уровней дополнения",
+		"addition": "Shadowlands",
+		"price": 400
+	},
+
+	{
+		"id": "",
+		"type": "dungeons-raids-shadowlands",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/shadowlands/.jpg",
+		"objectFit": false,
+		"title": "Чумные Каскады",
+		"description": "Подземелье для игроков 100-105 уровней дополнения",
+		"addition": "Shadowlands",
+		"price": 400
+	},
+
+	{
+		"id": "",
+		"type": "dungeons-raids-shadowlands",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/shadowlands/.jpg",
+		"objectFit": false,
+		"title": "Кровавые Катакомбы",
+		"description": "Подземелье для игроков 100-105 уровней дополнения",
+		"addition": "Shadowlands",
+		"price": 400
+	},
+
+	{
+		"id": "",
+		"type": "dungeons-raids-shadowlands",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/shadowlands/.jpg",
+		"objectFit": false,
+		"title": "Шпили Перерождения",
+		"description": "Подземелье для игроков 100-105 уровней дополнения",
+		"addition": "Shadowlands",
+		"price": 400
+	},
+
+	{
+		"id": "",
+		"type": "dungeons-raids-shadowlands",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/shadowlands/.jpg",
+		"objectFit": false,
+		"title": "Смертельная Тризна",
+		"description": "Подземелье для игроков 100-105 уровней дополнения",
+		"addition": "Shadowlands",
+		"price": 400
+	},
+
+	{
+		"id": "",
+		"type": "dungeons-raids-shadowlands",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/shadowlands/.jpg",
+		"objectFit": false,
+		"title": "Театр Боли",
+		"description": "Подземелье для игроков 100-105 уровней дополнения",
+		"addition": "Shadowlands",
+		"price": 400
+	},
+
+	{
+		"id": "",
+		"type": "dungeons-raids-shadowlands",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/shadowlands/.jpg",
+		"objectFit": false,
+		"title": "Тайный Рынок Тазавеш",
+		"description": "Подземелье для игроков 100-105 уровней дополнения",
+		"addition": "Shadowlands",
+		"price": 448
 	}
 ]
