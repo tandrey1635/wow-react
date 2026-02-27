@@ -1,12 +1,133 @@
 [
 	{
-		"id": "Ur",
+		"id": "AtalDazar",
 		"type": "dungeons-raids-battle-for-azeroth",
 		"path": "",
-		"img": "/src/assets/img/raids/bg/battle-for-azeroth/.jpg",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/battle-for-azeroth/AtalDazar.jpg",
 		"objectFit": false,
-		"title": "Ульдир",
-		"description": "Закажите гарантированное прохождение рейда",
-		"price": 400
+		"title": "Атал'Дазар",
+		"description": "Подземелье для игроков 110-115 уровней дополнения",
+		"addition": "Battle for Azeroth",
+		"price": 350
+	},
+
+	{
+		"id": "Freehold",
+		"type": "dungeons-raids-battle-for-azeroth",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/battle-for-azeroth/Freehold.jpg",
+		"objectFit": false,
+		"title": "Вольная Гавань",
+		"description": "Подземелье для игроков 110-115 уровней дополнения",
+		"addition": "Battle for Azeroth",
+		"price": 350
+	},
+
+	{
+		"id": "ShrineOfTheStorm",
+		"type": "dungeons-raids-battle-for-azeroth",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/battle-for-azeroth/Shrine-of-the-Storm.jpg",
+		"objectFit": false,
+		"title": "Святилище Штормов",
+		"description": "Подземелье для игроков 110-115 уровней дополнения",
+		"addition": "Battle for Azeroth",
+		"price": 360
+	},
+
+	{
+		"id": "TempleOfSethraliss",
+		"type": "dungeons-raids-battle-for-azeroth",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/battle-for-azeroth/Temple-of-Sethraliss.jpg",
+		"objectFit": false,
+		"title": "Храм Сетралисс",
+		"description": "Подземелье для игроков 110-115 уровней дополнения",
+		"addition": "Battle for Azeroth",
+		"price": 360
+	},
+
+	{
+		"id": "MotherLode",
+		"type": "dungeons-raids-battle-for-azeroth",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/battle-for-azeroth/MotherLode.jpg",
+		"objectFit": false,
+		"title": "Золотая Жила",
+		"description": "Подземелье для игроков 110-115 уровней дополнения",
+		"addition": "Battle for Azeroth",
+		"price": 370
+	},
+
+	{
+		"id": "Underrot",
+		"type": "dungeons-raids-battle-for-azeroth",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/battle-for-azeroth/Underrot.jpg",
+		"objectFit": false,
+		"title": "Подгнилье",
+		"description": "Подземелье для игроков 110-115 уровней дополнения",
+		"addition": "Battle for Azeroth",
+		"price": 370
+	},
+
+	{
+		"id": "TolDagor",
+		"type": "dungeons-raids-battle-for-azeroth",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/battle-for-azeroth/Tol-Dagor.jpg",
+		"objectFit": false,
+		"title": "Тол Дагор",
+		"description": "Подземелье для игроков 110-115 уровней дополнения",
+		"addition": "Battle for Azeroth",
+		"price": 380
+	},
+
+	{
+		"id": "WaycrestManor",
+		"type": "dungeons-raids-battle-for-azeroth",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/battle-for-azeroth/Waycrest-Manor.jpg",
+		"objectFit": false,
+		"title": "Усадьба Уэйкрестов",
+		"description": "Подземелье для игроков 110-115 уровней дополнения",
+		"addition": "Battle for Azeroth",
+		"price": 380
+	},
+
+	{
+		"id": "KingsRest",
+		"type": "dungeons-raids-battle-for-azeroth",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/battle-for-azeroth/Kings-Rest.jpg",
+		"objectFit": false,
+		"title": "Гробница Королей",
+		"description": "Подземелье для игроков 115-120 уровней дополнения",
+		"addition": "Battle for Azeroth",
+		"price": 390
+	},
+
+	{
+		"id": "SiegeOfBoralus",
+		"type": "dungeons-raids-battle-for-azeroth",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/battle-for-azeroth/Siege-of-Boralus.jpg",
+		"objectFit": false,
+		"title": "Осада Боларуса",
+		"description": "Подземелье для игроков 115-120 уровней дополнения",
+		"addition": "Battle for Azeroth",
+		"price": 390
+	},
+
+	{
+		"id": "OperationMechagon",
+		"type": "dungeons-raids-battle-for-azeroth",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/battle-for-azeroth/Operation-Mechagon.jpg",
+		"objectFit": false,
+		"title": "Операция Мехагон",
+		"description": "Подземелье для игроков 115-120 уровней дополнения",
+		"addition": "Battle for Azeroth",
+		"price": 398
 	}
 ]
