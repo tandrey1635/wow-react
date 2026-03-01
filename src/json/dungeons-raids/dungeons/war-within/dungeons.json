@@ -3,10 +3,95 @@
 		"id": "",
 		"type": "dungeons-raids-war-within",
 		"path": "",
-		"img": "/src/assets/img/raids/bg/war-within/.jpg",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/war-within/.jpg",
 		"objectFit": false,
-		"title": "Неруб'арский Дворец",
-		"description": "Закажите гарантированное прохождение рейда",
-		"price": 600
+		"title": "Гнездовье",
+		"description": "Подземелье для игроков 70-75* уровней дополнения",
+		"addition": "The War Within",
+		"price": 550
+	},
+
+	{
+		"id": "",
+		"type": "dungeons-raids-war-within",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/war-within/.jpg",
+		"objectFit": false,
+		"title": "Каменный Свод",
+		"description": "Подземелье для игроков 70-75* уровней дополнения",
+		"addition": "The War Within",
+		"price": 550
+	},
+
+	{
+		"id": "",
+		"type": "dungeons-raids-war-within",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/war-within/.jpg",
+		"objectFit": false,
+		"title": "Приорат Священного Пламени",
+		"description": "Подземелье для игроков 70-75* уровней дополнения",
+		"addition": "The War Within",
+		"price": 550
+	},
+
+	{
+		"id": "",
+		"type": "dungeons-raids-war-within",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/war-within/.jpg",
+		"objectFit": false,
+		"title": "Ара-Кара",
+		"description": "Подземелье для игроков 70-75* уровней дополнения",
+		"addition": "The War Within",
+		"price": 550
+	},
+
+	{
+		"id": "",
+		"type": "dungeons-raids-war-within",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/war-within/.jpg",
+		"objectFit": false,
+		"title": "Искроварня",
+		"description": "Подземелье для игроков 70-75* уровней дополнения",
+		"addition": "The War Within",
+		"price": 550
+	},
+
+	{
+		"id": "",
+		"type": "dungeons-raids-war-within",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/war-within/.jpg",
+		"objectFit": false,
+		"title": "Город Нитей",
+		"description": "Подземелье для игроков 70-75* уровней дополнения",
+		"addition": "The War Within",
+		"price": 550
+	},
+
+	{
+		"id": "",
+		"type": "dungeons-raids-war-within",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/war-within/.jpg",
+		"objectFit": false,
+		"title": "Расселина Темного Пламени",
+		"description": "Подземелье для игроков 70-75* уровней дополнения",
+		"addition": "The War Within",
+		"price": 550
+	},
+
+	{
+		"id": "",
+		"type": "dungeons-raids-war-within",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/war-within/.jpg",
+		"objectFit": false,
+		"title": "Заповедник Аль'дани",
+		"description": "Подземелье для игроков 70-75* уровней дополнения",
+		"addition": "The War Within",
+		"price": 550
 	}
 ]

@@ -1,108 +1,108 @@
 [
 	{
-		"id": "",
+		"id": "OtherSide",
 		"type": "dungeons-raids-shadowlands",
 		"path": "",
-		"img": "/src/assets/img/dungeons-raids/bg/dungeons/shadowlands/.jpg",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/shadowlands/Other-Side.jpg",
 		"objectFit": false,
 		"title": "Та Сторона",
-		"description": "Подземелье для игроков 100-105 уровней дополнения",
+		"description": "Подземелье для игроков 50-55* уровней дополнения",
 		"addition": "Shadowlands",
 		"price": 400
 	},
 
 	{
-		"id": "",
+		"id": "HallsOfAtonement",
 		"type": "dungeons-raids-shadowlands",
 		"path": "",
-		"img": "/src/assets/img/dungeons-raids/bg/dungeons/shadowlands/.jpg",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/shadowlands/Halls-of-Atonement.jpg",
 		"objectFit": false,
 		"title": "Чертоги Покаяния",
-		"description": "Подземелье для игроков 100-105 уровней дополнения",
+		"description": "Подземелье для игроков 50-55* уровней дополнения",
 		"addition": "Shadowlands",
 		"price": 400
 	},
 
 	{
-		"id": "",
+		"id": "MistsOfTirnaScithe",
 		"type": "dungeons-raids-shadowlands",
 		"path": "",
-		"img": "/src/assets/img/dungeons-raids/bg/dungeons/shadowlands/.jpg",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/shadowlands/Mists-of-Tirna-Scithe.jpg",
 		"objectFit": false,
 		"title": "Туманы Тирна Скитта",
-		"description": "Подземелье для игроков 100-105 уровней дополнения",
+		"description": "Подземелье для игроков 50-55* уровней дополнения",
 		"addition": "Shadowlands",
-		"price": 400
+		"price": 420
 	},
 
 	{
-		"id": "",
+		"id": "Plaguefall",
 		"type": "dungeons-raids-shadowlands",
 		"path": "",
-		"img": "/src/assets/img/dungeons-raids/bg/dungeons/shadowlands/.jpg",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/shadowlands/Plaguefall.jpg",
 		"objectFit": false,
 		"title": "Чумные Каскады",
-		"description": "Подземелье для игроков 100-105 уровней дополнения",
+		"description": "Подземелье для игроков 50-55* уровней дополнения",
 		"addition": "Shadowlands",
-		"price": 400
+		"price": 420
 	},
 
 	{
-		"id": "",
+		"id": "SanguineDepths",
 		"type": "dungeons-raids-shadowlands",
 		"path": "",
-		"img": "/src/assets/img/dungeons-raids/bg/dungeons/shadowlands/.jpg",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/shadowlands/Sanguine-Depths.jpg",
 		"objectFit": false,
 		"title": "Кровавые Катакомбы",
-		"description": "Подземелье для игроков 100-105 уровней дополнения",
+		"description": "Подземелье для игроков 50-55* уровней дополнения",
 		"addition": "Shadowlands",
-		"price": 400
+		"price": 430
 	},
 
 	{
-		"id": "",
+		"id": "SpiresOfAscension",
 		"type": "dungeons-raids-shadowlands",
 		"path": "",
-		"img": "/src/assets/img/dungeons-raids/bg/dungeons/shadowlands/.jpg",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/shadowlands/Spires-of-Ascension.jpg",
 		"objectFit": false,
 		"title": "Шпили Перерождения",
-		"description": "Подземелье для игроков 100-105 уровней дополнения",
+		"description": "Подземелье для игроков 55-60* уровней дополнения",
 		"addition": "Shadowlands",
-		"price": 400
+		"price": 430
 	},
 
 	{
-		"id": "",
+		"id": "NecroticWake",
 		"type": "dungeons-raids-shadowlands",
 		"path": "",
-		"img": "/src/assets/img/dungeons-raids/bg/dungeons/shadowlands/.jpg",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/shadowlands/Necrotic-Wake.jpg",
 		"objectFit": false,
 		"title": "Смертельная Тризна",
-		"description": "Подземелье для игроков 100-105 уровней дополнения",
+		"description": "Подземелье для игроков 55-60* уровней дополнения",
 		"addition": "Shadowlands",
-		"price": 400
+		"price": 440
 	},
 
 	{
-		"id": "",
+		"id": "TheaterOfPain",
 		"type": "dungeons-raids-shadowlands",
 		"path": "",
-		"img": "/src/assets/img/dungeons-raids/bg/dungeons/shadowlands/.jpg",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/shadowlands/Theater-of-Pain.jpg",
 		"objectFit": false,
 		"title": "Театр Боли",
-		"description": "Подземелье для игроков 100-105 уровней дополнения",
+		"description": "Подземелье для игроков 55-60* уровней дополнения",
 		"addition": "Shadowlands",
-		"price": 400
+		"price": 440
 	},
 
 	{
-		"id": "",
+		"id": "TazaveshTheVeiledMarket",
 		"type": "dungeons-raids-shadowlands",
 		"path": "",
-		"img": "/src/assets/img/dungeons-raids/bg/dungeons/shadowlands/.jpg",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/shadowlands/Tazavesh-the-Veiled-Market.jpg",
 		"objectFit": false,
 		"title": "Тайный Рынок Тазавеш",
-		"description": "Подземелье для игроков 100-105 уровней дополнения",
+		"description": "Подземелье для игроков 55-60* уровней дополнения",
 		"addition": "Shadowlands",
 		"price": 448
 	}

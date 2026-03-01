@@ -1,12 +1,109 @@
 [
 	{
-		"id": "",
+		"id": "RubyLifePools",
 		"type": "dungeons-raids-dragonflight",
 		"path": "",
-		"img": "/src/assets/img/raids/bg/dragonflight/.jpg",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/dragonflight/Ruby-Life-Pools.jpg",
 		"objectFit": false,
-		"title": "Хранилище Воплощений",
-		"description": "Закажите гарантированное прохождение рейда",
+		"title": "Рубиновые Омуты Жизни",
+		"description": "Подземелье для игроков 60-65* уровней дополнения",
+		"addition": "Dragonflight",
+		"price": 450
+	},
+
+	{
+		"id": "AzureVault",
+		"type": "dungeons-raids-dragonflight",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/dragonflight/Azure-Vault.jpg",
+		"objectFit": false,
+		"title": "Лазурное Хранилище",
+		"description": "Подземелье для игроков 60-65* уровней дополнения",
+		"addition": "Dragonflight",
+		"price": 450
+	},
+
+	{
+		"id": "HallsOfInfusion",
+		"type": "dungeons-raids-dragonflight",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/dragonflight/Halls-of-Infusion.jpg",
+		"objectFit": false,
+		"title": "Чертоги Насыщения",
+		"description": "Подземелье для игроков 60-65* уровней дополнения",
+		"addition": "Dragonflight",
+		"price": 480
+	},
+
+	{
+		"id": "Neltharus",
+		"type": "dungeons-raids-dragonflight",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/dragonflight/Neltharus.jpg",
+		"objectFit": false,
+		"title": "Нелтарий",
+		"description": "Подземелье для игроков 60-65* уровней дополнения",
+		"addition": "Dragonflight",
 		"price": 500
+	},
+
+	{
+		"id": "NokhudOffensive",
+		"type": "dungeons-raids-dragonflight",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/dragonflight/Nokhud-Offensive.jpg",
+		"objectFit": false,
+		"title": "Наступление Клана Нокхуд",
+		"description": "Подземелье для игроков 60-65* уровней дополнения",
+		"addition": "Dragonflight",
+		"price": 500
+	},
+
+	{
+		"id": "BrackenhideHollow",
+		"type": "dungeons-raids-dragonflight",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/dragonflight/Brackenhide-Hollow.jpg",
+		"objectFit": false,
+		"title": "Лощина Бурошкуров",
+		"description": "Подземелье для игроков 65-70* уровней дополнения",
+		"addition": "Dragonflight",
+		"price": 520
+	},
+
+	{
+		"id": "UldamanLegacyOfTyr",
+		"type": "dungeons-raids-dragonflight",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/dragonflight/Uldaman-Legacy-of-Tyr.jpg",
+		"objectFit": false,
+		"title": "Ульдаман, Наследие Тира",
+		"description": "Подземелье для игроков 65-70* уровней дополнения",
+		"addition": "Dragonflight",
+		"price": 530
+	},
+
+	{
+		"id": "AlgetharAcademy",
+		"type": "dungeons-raids-dragonflight",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/dragonflight/Algethar-Academy.jpg",
+		"objectFit": false,
+		"title": "Академия Алгет'ар",
+		"description": "Подземелье для игроков 65-70* уровней дополнения",
+		"addition": "Dragonflight",
+		"price": 540
+	},
+
+	{
+		"id": "DawnOfTheInfinite",
+		"type": "dungeons-raids-dragonflight",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/dragonflight/Dawn-of-the-Infinite.jpg",
+		"objectFit": false,
+		"title": "Рассвет Бесконечности",
+		"description": "Подземелье для игроков 65-70* уровней дополнения",
+		"addition": "Dragonflight",
+		"price": 548
 	}
 ]
