@@ -127,7 +127,7 @@ footer {
   padding: 25px 0;
   min-height: 150px;
 }
-.announcement__header, .announcement__subheader {
+.announcement__header {
   font-weight: 900;
   color: #ffc107;
   font-size: 64px;
@@ -135,666 +135,50 @@ footer {
   text-transform: uppercase;
 }
 @media (max-width: 767.98px) {
-  .announcement__header, .announcement__subheader {
+  .announcement__header {
     font-size: 56px;
   }
 }
 @media (max-width: 676px) {
-  .announcement__header, .announcement__subheader {
+  .announcement__header {
     font-size: 48px;
   }
 }
 @media (max-width: 575.98px) {
-  .announcement__header, .announcement__subheader {
+  .announcement__header {
     font-size: 42px;
   }
 }
 @media (max-width: 480px) {
-  .announcement__header, .announcement__subheader {
+  .announcement__header {
     font-size: 36px;
   }
 }
 @media (max-width: 425px) {
-  .announcement__header, .announcement__subheader {
+  .announcement__header {
     font-size: 32px;
   }
-}
-.announcement__header_horde, .announcement__subheader_horde {
-  color: #b90c1c;
-}
-.announcement__header_alliance, .announcement__subheader_alliance {
-  color: #037afb;
-}
-.announcement__header_warrior, .announcement__subheader_warrior {
-  color: #854c27;
-}
-.announcement__header_druid, .announcement__subheader_druid {
-  color: #ff7d0a;
-}
-.announcement__header_priest, .announcement__subheader_priest {
-  color: #fff;
-}
-.announcement__header_mage, .announcement__subheader_mage {
-  color: #00bfff;
-}
-.announcement__header_monk, .announcement__subheader_monk {
-  color: #0ae979;
-}
-.announcement__header_hunter, .announcement__subheader_hunter {
-  color: rgba(134, 197, 102, 0.9098039216);
-}
-.announcement__header_demon-hunter, .announcement__subheader_demon-hunter {
-  color: #8b00ff;
-}
-.announcement__header_paladin, .announcement__subheader_paladin {
-  color: #fb3a86;
-}
-.announcement__header_awakener, .announcement__subheader_awakener {
-  color: #00c199;
-}
-.announcement__header_rogue, .announcement__subheader_rogue {
-  color: #ddcb17;
-}
-.announcement__header_death-knight, .announcement__subheader_death-knight {
-  color: #c41f3b;
-}
-.announcement__header_warlock, .announcement__subheader_warlock {
-  color: #7b13df;
-}
-.announcement__header_shaman, .announcement__subheader_shaman {
-  color: #185ec1;
-}
-.announcement__header_one-handed-weapons, .announcement__header_two-handed-weapons, .announcement__header_range-weapons, .announcement__subheader_one-handed-weapons, .announcement__subheader_two-handed-weapons, .announcement__subheader_range-weapons {
-  color: #8400ff;
-}
-.announcement__header_legendary-weapons, .announcement__subheader_legendary-weapons {
-  color: #ff8000;
-}
-.announcement__header_artifact-weapons, .announcement__subheader_artifact-weapons {
-  color: #d9c798;
-}
-.announcement__header_decorative-weapons, .announcement__subheader_decorative-weapons {
-  color: #dc3ef3;
-}
-.announcement__header_armours, .announcement__subheader_armours {
-  color: #8400ff;
-}
-.announcement__header_water-mounts, .announcement__subheader_water-mounts {
-  color: #00ffff;
-}
-.announcement__header_earth-mounts, .announcement__subheader_earth-mounts {
-  color: #854c27;
-}
-.announcement__header_fly-mounts, .announcement__subheader_fly-mounts {
-  color: #2e86e5;
-}
-.announcement__header_professions, .announcement__subheader_professions {
-  color: #8400ff;
-}
-.announcement__header_pvp, .announcement__subheader_pvp {
-  color: #ff0033;
-}
-.announcement__header_dungeons, .announcement__subheader_dungeons {
-  color: #8400ff;
-}
-.announcement__header_сlassic, .announcement__subheader_сlassic {
-  color: #854c27;
-}
-.announcement__header_burning-crusade, .announcement__subheader_burning-crusade {
-  color: #158d32;
-}
-.announcement__header_wrath-of-the-lich-king, .announcement__subheader_wrath-of-the-lich-king {
-  color: #03a9f4;
-}
-.announcement__header_cataclysm, .announcement__subheader_cataclysm {
-  color: #ef5c18;
-}
-.announcement__header_mists-of-pandaria, .announcement__subheader_mists-of-pandaria {
-  color: #19dd8c;
-}
-.announcement__header_warlords-of-draenor, .announcement__subheader_warlords-of-draenor {
-  color: #854c27;
-}
-.announcement__header_legion, .announcement__subheader_legion {
-  color: #158d32;
-}
-.announcement__header_battle-for-azeroth, .announcement__subheader_battle-for-azeroth {
-  color: #7c10e1;
-}
-.announcement__header_shadowlands, .announcement__subheader_shadowlands {
-  color: #759ca5;
-}
-.announcement__header_dragonflight, .announcement__subheader_dragonflight {
-  color: #1fbbad;
-}
-.announcement__header_war-within, .announcement__subheader_war-within {
-  color: #d35400;
-}
-.announcement__header_midnight, .announcement__subheader_midnight {
-  color: #3126c1;
-}
-.announcement__header_last-titan, .announcement__subheader_last-titan {
-  color: #dfae56;
-}
-.announcement__header_lvl-up, .announcement__subheader_lvl-up {
-  color: #ffb300;
-}
-.announcement__header_achievements, .announcement__subheader_achievements {
-  color: #607d8b;
 }
 .announcement__header {
   white-space: pre-wrap;
 }
-.announcement__subheader {
-  margin-top: 20px;
-  font-size: 36px;
-  text-transform: none;
-}
-@media (max-width: 575.98px) {
-  .announcement__subheader {
-    font-size: 32px;
-  }
-}
-@media (max-width: 480px) {
-  .announcement__subheader {
-    font-size: 26px;
-  }
-}
-@media (max-width: 425px) {
-  .announcement__subheader {
-    font-size: 22px;
-  }
-}
-.announcement__subheader_main {
-  font-size: 54px;
-  color: #ffc107;
-  text-transform: uppercase;
-}
-@media (max-width: 1170px) {
-  .announcement__subheader_main {
-    font-size: 46px;
-  }
-}
-@media (max-width: 1024px) {
-  .announcement__subheader_main {
-    font-size: 44px;
-  }
-}
-@media (max-width: 767.98px) {
-  .announcement__subheader_main {
-    font-size: 42px;
-  }
-}
-@media (max-width: 575.98px) {
-  .announcement__subheader_main {
-    font-size: 36px;
-  }
-}
-@media (max-width: 480px) {
-  .announcement__subheader_main {
-    font-size: 32px;
-  }
-}
-@media (max-width: 425px) {
-  .announcement__subheader_main {
-    font-size: 28px;
-  }
-}
-.announcement__text {
-  margin-top: 20px;
-  font-size: 32px;
-  line-height: 1.2;
-  font-weight: 900;
-  color: #564fff;
-  filter: brightness(125%);
-}
-@media (max-width: 575.98px) {
-  .announcement__text {
-    font-size: 26px;
-  }
-}
-@media (max-width: 480px) {
-  .announcement__text {
-    font-size: 24px;
-  }
-}
-@media (max-width: 425px) {
-  .announcement__text {
-    font-size: 20px;
-  }
-}
 
 .promo {
-  padding: 50px 0;
-}
-@media (max-width: 480px) {
-  .promo {
-    display: none;
-  }
+  padding: 32px 0;
 }
 .promo__info {
-  width: 45%;
-}
-.promo__raitings {
-  position: relative;
-  width: 60%;
-  background: url("/src/assets/img/promo/bg/classes/default-bg.png") no-repeat center/contain;
+  min-height: inherit;
   height: 500px;
 }
-.promo__raitings_races {
-  background: url("/src/assets/img/promo/bg/races/races.jpg") no-repeat center/contain;
+.promo__info_races {
+  height: 100vh;
+  background: url("/src/assets/img/promo/bg/races/races.webp") no-repeat center/cover;
 }
-.promo__raitings_horde {
+.promo__info_horde {
   background: url("/src/assets/img/promo/bg/faction/horde.png") no-repeat center/contain;
 }
-.promo__raitings_alliance {
+.promo__info_alliance {
   background: url("/src/assets/img/promo/bg/faction/alliance.png") no-repeat center/contain;
-}
-.promo__raitings_warrior {
-  background: url("/src/assets/img/promo/bg/classes/Garrosh-Hellscream.png") no-repeat center/contain;
-}
-.promo__raitings_druid {
-  background: url("/src/assets/img/promo/bg/classes/Malfurion.png") no-repeat center/contain;
-}
-.promo__raitings_priest {
-  background: url("/src/assets/img/promo/bg/classes/Velen.png") no-repeat center/contain;
-}
-.promo__raitings_mage {
-  background: url("/src/assets/img/promo/bg/classes/Djaina-Proudmoure.png") no-repeat center/contain;
-}
-.promo__raitings_monk {
-  background: url("/src/assets/img/promo/bg/classes/Tjan-Dju.png") no-repeat center/contain;
-}
-.promo__raitings_hunter {
-  background: url("/src/assets/img/promo/bg/classes/Rexar.png") no-repeat center/contain;
-}
-.promo__raitings_demon-hunter {
-  background: url("/src/assets/img/promo/bg/classes/Illidan.png") no-repeat center/contain;
-}
-.promo__raitings_paladin {
-  background: url("/src/assets/img/promo/bg/classes/Tirion-Fordring.png") no-repeat center/contain;
-}
-.promo__raitings_awakener {
-  background: url("/src/assets/img/promo/bg/classes/Scalecommander-Cindrethresh.png") no-repeat center/contain;
-}
-.promo__raitings_rogue {
-  background: url("/src/assets/img/promo/bg/classes/Valira-Sangvinar.png") no-repeat center/contain;
-}
-.promo__raitings_death-knight {
-  background: url("/src/assets/img/promo/bg/classes/Lich-King.png") no-repeat center/contain;
-}
-.promo__raitings_warlock {
-  background: url("/src/assets/img/promo/bg/classes/Guldan.png") no-repeat center/contain;
-}
-.promo__raitings_shaman {
-  background: url("/src/assets/img/promo/bg/classes/Thrall.png") no-repeat center/contain;
-}
-.promo__raitings_one-handed-weapons {
-  background: url("/src/assets/img/promo/bg/weapons/one-handed.png") no-repeat center/contain;
-}
-.promo__raitings_two-handed-weapons {
-  background: url("/src/assets/img/promo/bg/weapons/two-handed.png") no-repeat center/contain;
-}
-.promo__raitings_range-weapons {
-  background: url("/src/assets/img/promo/bg/weapons/range.png") no-repeat center/contain;
-}
-.promo__raitings_legendary-weapons {
-  background: url("/src/assets/img/promo/bg/weapons/legendary.png") no-repeat center/contain;
-}
-.promo__raitings_artifact-weapons {
-  background: url("/src/assets/img/promo/bg/weapons/artifact.png") no-repeat center/contain;
-}
-.promo__raitings_decorative-weapons {
-  background: url("/src/assets/img/promo/bg/weapons/decorative.png") no-repeat center/contain;
-}
-.promo__raitings_ashbringer {
-  background: url("/src/assets/img/weapons/bg/legendary/Ashbringer.png") no-repeat center/contain;
-}
-.promo__raitings_sulfuras {
-  background: url("/src/assets/img/weapons/bg/legendary/Sulfuras-Hand-of-Ragnaros.png") no-repeat center/contain;
-}
-.promo__raitings_thunderfury {
-  background: url("/src/assets/img/weapons/bg/legendary/Thunderfury-Blessed-Blade-of-the-Windseeker.png") no-repeat center/contain;
-}
-.promo__raitings_atiesh {
-  background: url("/src/assets/img/weapons/bg/legendary/Atiesh-Greatstaff-of-the-Guardian.png") no-repeat center/contain;
-}
-.promo__raitings_warglaives-of-azzinoth {
-  background: url("/src/assets/img/weapons/bg/legendary/Warglaives-of-Azzinoth.png") no-repeat center/contain;
-}
-.promo__raitings_thoridal {
-  background: url("/src/assets/img/weapons/bg/legendary/Thoridal-the-Stars-Fury.png") no-repeat center/contain;
-}
-.promo__raitings_valanyr {
-  background: url("/src/assets/img/weapons/bg/legendary/Valanyr-Hammer-of-Ancient-Kings.png") no-repeat center/contain;
-}
-.promo__raitings_frostmourne {
-  background: url("/src/assets/img/weapons/bg/legendary/Frostmourne.png") no-repeat center/contain;
-}
-.promo__raitings_shadowmourne {
-  background: url("/src/assets/img/weapons/bg/legendary/Shadowmourne.png") no-repeat center/contain;
-}
-.promo__raitings_tarecgosa {
-  background: url("/src/assets/img/weapons/bg/legendary/Dragonwrath-Tarecgosas-Rest.png") no-repeat center/contain;
-}
-.promo__raitings_fangs-of-the-father {
-  background: url("/src/assets/img/weapons/bg/legendary/Fangs-of-the-Father.png") no-repeat center/contain;
-}
-.promo__raitings_raeshalare-deaths-whisper {
-  background: url("/src/assets/img/weapons/bg/legendary/Raeshalare-Deaths-Whisper.png") no-repeat center/contain;
-}
-.promo__raitings_fyralath-the-dreamrender {
-  background: url("/src/assets/img/weapons/bg/legendary/Fyralath-the-Dreamrender.png") no-repeat center/contain;
-}
-.promo__raitings_naszuro-the-unbound-legacy {
-  background: url("/src/assets/img/weapons/bg/legendary/Naszuro-the-Unbound-Legacy.png") no-repeat center/contain;
-}
-.promo__raitings_shields {
-  background: url("/src/assets/img/promo/bg/armours/shields.png") no-repeat center/contain;
-}
-.promo__raitings_cloaks {
-  background: url("/src/assets/img/promo/bg/armours/cloaks.png") no-repeat center/contain;
-}
-.promo__raitings_tabards {
-  background: url("/src/assets/img/promo/bg/armours/tabards.png") no-repeat center/contain;
-}
-.promo__raitings_fishing-rods {
-  background: url("/src/assets/img/promo/bg/armours/fishing-rods.png") no-repeat center/contain;
-}
-.promo__raitings_water-mounts {
-  background: url("/src/assets/img/promo/bg/mounts/water.png") no-repeat center/contain;
-}
-.promo__raitings_earth-mounts {
-  background: url("/src/assets/img/promo/bg/mounts/earth.png") no-repeat center/contain;
-}
-.promo__raitings_fly-mounts {
-  background: url("/src/assets/img/promo/bg/mounts/fly.png") no-repeat center/contain;
-}
-.promo__raitings_horde-gold {
-  background: url("/src/assets/img/promo/bg/faction/horde.png") no-repeat center/contain;
-}
-.promo__raitings_alliance-gold {
-  background: url("/src/assets/img/promo/bg/faction/alliance.png") no-repeat center/contain;
-}
-.promo__raitings_alchemy {
-  background: url("/src/assets/img/promo/bg/professions/alchemy.png") no-repeat center/contain;
-}
-.promo__raitings_mining {
-  background: url("/src/assets/img/promo/bg/professions/mining.png") no-repeat center/contain;
-}
-.promo__raitings_engineering {
-  background: url("/src/assets/img/promo/bg/professions/engineering.png") no-repeat center/contain;
-}
-.promo__raitings_leatherworking {
-  background: url("/src/assets/img/promo/bg/professions/leatherworking.png") no-repeat center/contain;
-}
-.promo__raitings_blacksmithing {
-  background: url("/src/assets/img/promo/bg/professions/blacksmithing.png") no-repeat center/contain;
-}
-.promo__raitings_enchanting {
-  background: url("/src/assets/img/promo/bg/professions/enchanting.png") no-repeat center/contain;
-}
-.promo__raitings_inscription {
-  background: url("/src/assets/img/promo/bg/professions/inscription.png") no-repeat center/contain;
-}
-.promo__raitings_tailoring {
-  background: url("/src/assets/img/promo/bg/professions/tailoring.png") no-repeat center/contain;
-}
-.promo__raitings_skinning {
-  background: url("/src/assets/img/promo/bg/professions/skinning.png") no-repeat center/contain;
-}
-.promo__raitings_herbalism {
-  background: url("/src/assets/img/promo/bg/professions/herbalism.png") no-repeat center/contain;
-}
-.promo__raitings_jewelcrafting {
-  background: url("/src/assets/img/promo/bg/professions/jewelcrafting.png") no-repeat center/contain;
-}
-.promo__raitings_archaeology {
-  background: url("/src/assets/img/promo/bg/professions/archaeology.png") no-repeat center/contain;
-}
-.promo__raitings_riding {
-  background: url("/src/assets/img/promo/bg/professions/riding.png") no-repeat center/contain;
-}
-.promo__raitings_cooking {
-  background: url("/src/assets/img/promo/bg/professions/cooking.png") no-repeat center/contain;
-}
-.promo__raitings_first-aid {
-  background: url("/src/assets/img/promo/bg/professions/first-aid.png") no-repeat center/contain;
-}
-.promo__raitings_fishing {
-  background: url("/src/assets/img/promo/bg/professions/fishing.png") no-repeat center/contain;
-}
-.promo__raitings_junkyard-tinkering {
-  background: url("/src/assets/img/promo/bg/professions/junkyard-tinkering.png") no-repeat center/contain;
-}
-.promo__raitings_protoform-synthesis {
-  background: url("/src/assets/img/promo/bg/professions/protoform-synthesis.png") no-repeat center/contain;
-}
-.promo__raitings_honour {
-  background: url("/src/assets/img/promo/bg/pvp/honour.png") no-repeat center/contain;
-}
-.promo__raitings_arena {
-  background: url("/src/assets/img/promo/bg/pvp/arena.png") no-repeat center/contain;
-}
-.promo__raitings_rbg {
-  background: url("/src/assets/img/promo/bg/pvp/rbg.png") no-repeat center/contain;
-}
-.promo__raitings_сlassic {
-  background: url("/src/assets/img/promo/bg/dungeons-raids/classic.png") no-repeat center/contain;
-}
-.promo__raitings_burning-crusade {
-  background: url("/src/assets/img/promo/bg/dungeons-raids/burning-crusade.png") no-repeat center/contain;
-}
-.promo__raitings_wrath-of-the-lich-king {
-  background: url("/src/assets/img/promo/bg/dungeons-raids/wrath-of-the-lich-king.png") no-repeat center/contain;
-}
-.promo__raitings_cataclysm {
-  background: url("/src/assets/img/promo/bg/dungeons-raids/cataclysm.png") no-repeat center/contain;
-}
-.promo__raitings_mists-of-pandaria {
-  background: url("/src/assets/img/promo/bg/dungeons-raids/mists-of-pandaria.png") no-repeat center/contain;
-}
-.promo__raitings_warlords-of-draenor {
-  background: url("/src/assets/img/promo/bg/dungeons-raids/warlords-of-draenor.png") no-repeat center/contain;
-}
-.promo__raitings_legion {
-  background: url("/src/assets/img/promo/bg/dungeons-raids/legion.png") no-repeat center/contain;
-}
-.promo__raitings_battle-for-azeroth {
-  background: url("/src/assets/img/promo/bg/dungeons-raids/battle-for-azeroth.png") no-repeat center/contain;
-}
-.promo__raitings_shadowlands {
-  background: url("/src/assets/img/promo/bg/dungeons-raids/shadowlands.png") no-repeat center/contain;
-}
-.promo__raitings_dragonflight {
-  background: url("/src/assets/img/promo/bg/dungeons-raids/dragonflight.png") no-repeat center/contain;
-}
-.promo__raitings_war-within {
-  background: url("/src/assets/img/promo/bg/dungeons-raids/war-within.png") no-repeat center/contain;
-}
-.promo__raitings_midnight {
-  background: url("/src/assets/img/promo/bg/dungeons-raids/midnight.png") no-repeat center/contain;
-}
-.promo__raitings_last-titan {
-  background: url("/src/assets/img/promo/bg/dungeons-raids/last-titan.png") no-repeat center/contain;
-}
-.promo__raitings_lvl-up-base {
-  background: url("/src/assets/img/lvl-up/bg/lvl-up-base.png") no-repeat center/contain;
-}
-.promo__raitings_lvl-up-expert {
-  background: url("/src/assets/img/lvl-up/bg/lvl-up-expert.png") no-repeat center/contain;
-}
-.promo__raitings_lvl-up-master {
-  background: url("/src/assets/img/lvl-up/bg/lvl-up-master.png") no-repeat center/contain;
-}
-.promo__raitings_quests {
-  background: url("/src/assets/img/promo/bg/achievements/quests.jpg") no-repeat center/contain;
-}
-.promo__raitings_legacy {
-  background: url("/src/assets/img/promo/bg/achievements/legacy.jpg") no-repeat center/contain;
-}
-.promo__raitings_great-feats {
-  background: url("/src/assets/img/promo/bg/achievements/great-feats.jpg") no-repeat center/contain;
-}
-.promo__raitings_warcraft-reforged {
-  background: url("/src/assets/img/promo/bg/achievements/warcraft-reforged.jpg") no-repeat center/contain;
-}
-.promo__raitings_wow {
-  background: url("/src/assets/img/promo/bg/achievements/wow.jpg") no-repeat center/contain;
-}
-.promo__raitings_diablo {
-  background: url("/src/assets/img/promo/bg/achievements/diablo.jpg") no-repeat center/contain;
-}
-.promo__raitings_hearthstone {
-  background: url("/src/assets/img/promo/bg/achievements/hearthstone.jpg") no-repeat center/contain;
-}
-.promo__raitings_heroes-storm {
-  background: url("/src/assets/img/promo/bg/achievements/heroes-of-the-storm.jpg") no-repeat center/contain;
-}
-.promo__raitings_starcraft {
-  background: url("/src/assets/img/promo/bg/achievements/starcraft.jpg") no-repeat center/contain;
-}
-.promo__raitings_overwatch {
-  background: url("/src/assets/img/promo/bg/achievements/overwatch.jpg") no-repeat center/contain;
-}
-.promo__raitings_wow-collection-editions {
-  background: url("/src/assets/img/promo/bg/achievements/wow-collection-editions.jpg") no-repeat center/contain;
-}
-.promo__raitings_diablo-collection-editions {
-  background: url("/src/assets/img/promo/bg/achievements/diablo-collection-editions.jpg") no-repeat center/contain;
-}
-.promo__warnings {
-  max-width: 300px;
-  padding: 10px;
-  position: absolute;
-  font-weight: 900;
-  font-size: 18px;
-  background: linear-gradient(325deg, #8400ff, transparent 30%, transparent 35%, #8400ff, transparent);
-  border-radius: 30px;
-  /* display: none */
-}
-.promo__warnings::before {
-  position: absolute;
-  content: "";
-  border: 20px solid transparent;
-  border-bottom: 20px solid #000;
-  top: -35px;
-  left: 20px;
-}
-.promo__warnings-molten-core {
-  top: 180px;
-  right: 150px;
-}
-.promo__warnings-blackwing-lair {
-  top: 205px;
-  right: 135px;
-}
-.promo__warnings-ahnqiraj-temple {
-  top: 240px;
-  right: 60px;
-}
-.promo__warnings-classic-naxxramas {
-  top: 120px;
-  right: 60px;
-}
-.promo__warnings-classic-naxxramas-sapphiron {
-  top: 250px;
-  right: -200px;
-}
-.promo__warnings-tier-four {
-  top: 80px;
-  right: 80px;
-}
-.promo__warnings-snake-sanctuary {
-  top: 120px;
-  right: 45px;
-}
-.promo__warnings-black-temple {
-  top: 160px;
-  right: 70px;
-}
-.promo__warnings-sunwell {
-  top: 120px;
-  right: 45px;
-}
-.promo__warnings-naxxramas {
-  top: 120px;
-  right: 45px;
-}
-.promo__warnings-ulduar {
-  top: 240px;
-  right: 85px;
-}
-.promo__warnings-trial-of-the-crusader {
-  top: 260px;
-  right: 150px;
-}
-.promo__warnings-ice-crown-citadel {
-  top: 140px;
-  right: 60px;
-}
-.promo__warnings-tier-eleven {
-  top: 110px;
-  right: 100px;
-}
-.promo__warnings-firelands {
-  top: 170px;
-  right: 50px;
-}
-.promo__warnings-dragon-soul {
-  top: 280px;
-  right: 30px;
-}
-.promo__warnings-tier-fourteens {
-  top: 280px;
-  right: 60px;
-}
-.promo__warnings-challenge-mode-pandaria {
-  top: 150px;
-  right: 100px;
-}
-.promo__warnings-throne-of-thunder {
-  top: 150px;
-  right: 90px;
-}
-.promo__warnings-siege-of-orgrimmar {
-  top: 120px;
-  right: 80px;
-}
-.promo__warnings-foundry-of-black-mountain-clan {
-  top: 180px;
-  right: 40px;
-}
-.promo__warnings-active {
-  display: block;
-}
-.promo__header {
-  text-transform: uppercase;
-  color: #9fa3e5;
-  font-weight: 900;
-  font-size: 36px;
-}
-.promo__text {
-  font-weight: 700;
-  font-size: 22px;
-}
-.promo .promo-btn {
-  background: linear-gradient(180deg, #7932ff, #564fff);
-  padding: 10px 35px;
-  text-transform: uppercase;
-  color: #9fa3e5;
-  border-radius: 5px;
-  font-weight: 600;
-}
-.promo .promo-btn:hover {
-  filter: brightness(125%);
-  color: #9fa3e5;
-}
-.promo .promo-btn_color {
-  background: rgba(142, 148, 247, 0.2);
-}
-.promo .promo-btn_color:hover {
-  filter: brightness(125%);
 }
 
 .weapon__details__left {
@@ -2121,6 +1505,14 @@ label {
 
 .container {
   max-width: 1180px !important;
+}
+
+.container, .container-fluid {
+  min-height: inherit;
+}
+
+.container-fluid {
+  padding: 0;
 }
 
 @media (max-width: 480px) {

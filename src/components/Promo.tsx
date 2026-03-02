@@ -1,45 +1,23 @@
 const Promo = ({ races, horde, alliance, warrior, druid, priest, mage, monk, hunter, demonHunter, paladin, awakener, rogue, deathKnight, warlock, shaman, oneHandedWeapons, twoHandedWeapons, rangeWeapons, legendaryWeapons, artifactWeapons, decorativeWeapons, twoHandedAxes, ashbringer, sulfuras, thunderfury, atiesh, warglaivesOfAzzinoth, thoridal, valanyr, frostmourne, shadowmourne, tarecgosa, fangsFather, raeshalareDeathsWhisper, fyralathTheDreamrender, naszuroTheUnboundLegacy, armsWarrior, furyWarrior, protectionWarrior, shields, cloaks, tabards, fishingRods, waterMounts, earthMounts, flyMounts, hordeGold, allianceGold, alchemy, mining, engineering, leatherworking, blacksmithing, enchanting,  inscription, tailoring, skinning, herbalism, jewelcrafting, archaeology, riding, cooking, firstAid, fishing, junkyardTinkering, protoformSynthesis, honour, arena, rbg, classic, burningCrusade, wrathOfTheLichKing, cataclysm, mistsOfPandaria, warlordsOfDraenor, legion, battleForAzeroth, shadowlands, dragonflight, warWithin, midnight, lastTitan, lvlUpBase, lvlUpExpert, lvlUpMaster, quests, legacy, greatFeats, warcraftReforged, wowAnniversary, diablo, hearthstone, heroesStorm, starcraft, overwatch, wowCollectionEditions, diabloCollectionEditions }) => {
 	return (
 		<section className="promo">
-			<div className="container d-flex justify-content-between align-items-center flex-column flex-lg-row">
-				<div className="promo__info">
-					<div className="promo__descriptions">
-						<h2 className="promo__header main__header">
-							Получите предметы вашей мечты и наслаждайтесь игрой
-						</h2>
-						<p className="promo__text">
-							На WowForAll можно купить и продать предметы или
-							услуги с выгодой до 80% без посредников. Просто и
-							безопасно.
-						</p>
-					</div>
-					<div className="promo__block__btns d-flex justify-content-between mt-5 flex-column flex-lg-row">
-						<button
-							className="promo-btn"
-							data-toggle="modal"
-							data-target="#modal"
-						>
-							Создать Аккаунт
-						</button>
-						<a
-							href="#how-its-work"
-							className="promo-btn mt-3 mt-lg-0 promo-btn_color"
-						>
-							Как Это работает
-						</a>
-					</div>
-				</div>
+			<div className="container-fluid">
 				<div
-					className={`promo__raitings ${
+					className={`promo__info ${
 						races
-							? "promo__raitings_races"
+							? "promo__info_races"
 							:
 						horde
-							? "promo__raitings_horde"
+							? "promo__info_horde"
 							:
 						alliance
-							? "promo__raitings_alliance"
+							? "promo__info_alliance"
 							:
+
+
+
+
+
 						warrior
 							? "promo__raitings_warrior"
 							:
@@ -322,7 +300,7 @@ const Promo = ({ races, horde, alliance, warrior, druid, priest, mage, monk, hun
 						diabloCollectionEditions
 							? "promo__raitings_diablo-collection-editions"
 							: null
-						} mt-md-5`
+						}`
 					}
 				></div>
 			</div>
@@ -330,4 +308,4 @@ const Promo = ({ races, horde, alliance, warrior, druid, priest, mage, monk, hun
 	);
 };
 
-export default Promo;
+export default Promo

@@ -1,4 +1,4 @@
-const Announcement = ({ home, races, horde, alliance, warrior, druid, priest, mage, monk, hunter, demonHunter, paladin, awakener, rogue, deathKnight, warlock, shaman, oneHandedWeapons, twoHandedWeapons, rangeWeapons, legendaryWeapons, artifactWeapons, decorativeWeapons, twoHandedAxes, weaponsDetailsTitle, weaponsDetailsDescription, ashbringer, sulfuras, thunderfury, atiesh, warglaivesOfAzzinoth, thoridal, valanyr, frostmourne, shadowmourne, tarecgosa, fangsFather, raeshalareDeathsWhisper, fyralathTheDreamrender, naszuroTheUnboundLegacy, armsWarrior, furyWarrior, protectionWarrior, armours, shields, cloaks, tabards, fishingRods, waterMounts, earthMounts, flyMounts, hordeGold, allianceGold, professions, alchemy, mining, engineering, leatherworking, blacksmithing, enchanting,  inscription, tailoring, skinning, herbalism, jewelcrafting, archaeology, riding, cooking, firstAid, fishing, junkyardTinkering, protoformSynthesis, pvp, honour, arena, rbg, dungeons, additionsDungeons, additionsRaids, dungeonsClassic, dungeonsBurningCrusade, dungeonsWrathOfTheLichKing, dungeonsCataclysm, dungeonsMistsOfPandaria, dungeonsWarlordsOfDraenor, dungeonsLegion, dungeonsBattleForAzeroth, dungeonsShadowlands, dungeonsDragonflight, dungeonsWarWithin, dungeonsMidnight, dungeonsLastTitan, raidsClassic, raidsBurningCrusade, raidsWrathOfTheLichKing, raidsCataclysm, raidsMistsOfPandaria, raidsWarlordsOfDraenor, raidsLegion, raidsBattleForAzeroth, raidsShadowlands, raidsDragonflight, raidsWarWithin, raidsMidnight, raidsLastTitan, lvlUp, lvlUpBase, lvlUpExpert, lvlUpMaster, achievements, quests, legacy, greatFeats, warcraftReforged, wowAnniversary, diablo, hearthstone, heroesStorm, starcraft, overwatch, wowCollectionEditions, diabloCollectionEditions  }) => {
+const Announcement = ({ home, races, horde, alliance, warrior, druid, priest, mage, monk, hunter, demonHunter, paladin, awakener, rogue, deathKnight, warlock, shaman, oneHandedWeapons, twoHandedWeapons, rangeWeapons, legendaryWeapons, artifactWeapons, decorativeWeapons, twoHandedAxes, weaponsDetailsTitle, weaponsDetailsDescription, ashbringer, sulfuras, thunderfury, atiesh, warglaivesOfAzzinoth, thoridal, valanyr, frostmourne, shadowmourne, tarecgosa, fangsFather, raeshalareDeathsWhisper, fyralathTheDreamrender, naszuroTheUnboundLegacy, armsWarrior, furyWarrior, protectionWarrior, armours, shields, cloaks, tabards, fishingRods, waterMounts, earthMounts, flyMounts, hordeGold, allianceGold, professions, alchemy, mining, engineering, leatherworking, blacksmithing, enchanting,  inscription, tailoring, skinning, herbalism, jewelcrafting, archaeology, riding, cooking, firstAid, fishing, junkyardTinkering, protoformSynthesis, pvp, honour, arena, rbg, additionsDungeons, additionsRaids, dungeonsClassic, dungeonsBurningCrusade, dungeonsWrathOfTheLichKing, dungeonsCataclysm, dungeonsMistsOfPandaria, dungeonsWarlordsOfDraenor, dungeonsLegion, dungeonsBattleForAzeroth, dungeonsShadowlands, dungeonsDragonflight, dungeonsWarWithin, dungeonsMidnight, dungeonsLastTitan, raidsClassic, raidsBurningCrusade, raidsWrathOfTheLichKing, raidsCataclysm, raidsMistsOfPandaria, raidsWarlordsOfDraenor, raidsLegion, raidsBattleForAzeroth, raidsShadowlands, raidsDragonflight, raidsWarWithin, raidsMidnight, raidsLastTitan, lvlUp, lvlUpBase, lvlUpExpert, lvlUpMaster, achievements, quests, legacy, greatFeats, warcraftReforged, wowAnniversary, diablo, hearthstone, heroesStorm, starcraft, overwatch, wowCollectionEditions, diabloCollectionEditions  }) => {
 	return (
 		<section className="announcement">
 			<div className="container">
@@ -86,7 +86,7 @@ const Announcement = ({ home, races, horde, alliance, warrior, druid, priest, ma
 							pvp
 								? "announcement__header_pvp"
 								:
-							dungeons
+							additionsDungeons || additionsRaids
 								? "announcement__header_dungeons"
 								:
 							dungeonsClassic || raidsClassic
@@ -484,10 +484,10 @@ const Announcement = ({ home, races, horde, alliance, warrior, druid, priest, ma
 					</h1>
 					{ home && <h2 className="announcement__header text-center">WorldSoul Saga</h2> }
 					{ home && <h3 className="announcement__subheader announcement__subheader_main text-center">Великое приключение длиной в 20 лет</h3> }
-					<h3 className={`${
+					<p className={`${
 						home
-							? "announcement__subheader announcement__subheader_main"
-							: "announcement__subheader"
+							? "announcement__text"
+							: ""
 							} text-center`
 						}
 					>
@@ -627,6 +627,12 @@ const Announcement = ({ home, races, horde, alliance, warrior, druid, priest, ma
 							flyMounts
 								? "Летающие маунты, властелины небес, повелители бескрайних воздушных просторов. Они обеспечат вам скорость ветра и абсолютное превосходство в воздухе. Покорите небеса Азерота!"
 								:
+							additionsDungeons
+								? "Азерот хранит множество тайн, построенными цивилизациями, что канули в лету. Эти места настоящие испытания для отважных искателей приключений. Подземелья Азерота, это уникальные локации, рассчитанные на отряд из пяти героев, где каждый должен сыграть свою роль. Несокрушимый страж, принимающий удары на себя, мудрый целитель, хранящий жизни соратников и безжалостные бойцы, дарующие врагам погибель."
+								:
+							additionsRaids
+								? "123"
+								:
 							hordeGold
 								? "Нужны монеты для клинка, что сокрушит врагов Орды, или брони, выкованной в кузнях Оргриммара? Наше золото поможет тебе стать сильнее. Лок'тар огар! За Орду!"
 								:
@@ -640,10 +646,6 @@ const Announcement = ({ home, races, horde, alliance, warrior, druid, priest, ma
 								? "Полная коллекция легендарных изданий, с которых начиналось приключение от Classic до Midnight. Каждый экземпляр часть истории Азерота у тебя на полке. Настоящее сокровище для истинного коллекционера!"
 								: "Станьте легендой Азерота!"
 						}
-					</h3>
-					<p className="announcement__text text-center">
-						Сэкономьте свое время, приобретая предметы, валюту и
-						достижения, чтобы играть на другом уровне
 					</p>
 				</div>
 			</div>
