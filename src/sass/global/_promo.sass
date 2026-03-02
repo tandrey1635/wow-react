@@ -2,12 +2,20 @@
 
 .promo
 	padding: 32px 0
+	@media ( max-width: 480px )
+		min-height: 0
 	&__info
 		min-height: inherit
 		height: 500px
 		@include background('/src/assets/img/promo/bg/classes/default-bg.png', contain)
+		@media ( max-width: 425px )
+			height: 400px
 		&_races, &_wow-anniversary
 			height: 100vh
+			@media ( max-width: 991.98px )
+				height: 50vh
+			@media ( max-width: 425px )
+				height: 40vh
 		&_races
 			@include background('/src/assets/img/promo/bg/races/races.webp')
 		&_horde
@@ -42,6 +50,8 @@
 			@include background('/src/assets/img/promo/bg/classes/Shaman.png', contain)
 		&_water-mounts
 			@include background('/src/assets/img/promo/bg/mounts/water.png', contain)
+			@media ( max-width: 425px )
+				height: 300px
 		&_earth-mounts
 			@include background('/src/assets/img/promo/bg/mounts/earth.png', contain)
 		&_fly-mounts

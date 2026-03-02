@@ -1,10 +1,13 @@
-const Announcement = ({ home, races, horde, alliance, warrior, druid, priest, mage, monk, hunter, demonHunter, paladin, awakener, rogue, deathKnight, warlock, shaman, oneHandedWeapons, twoHandedWeapons, rangeWeapons, legendaryWeapons, artifactWeapons, decorativeWeapons, twoHandedAxes, weaponsDetailsTitle, weaponsDetailsDescription, ashbringer, sulfuras, thunderfury, atiesh, warglaivesOfAzzinoth, thoridal, valanyr, frostmourne, shadowmourne, tarecgosa, fangsFather, raeshalareDeathsWhisper, fyralathTheDreamrender, naszuroTheUnboundLegacy, armsWarrior, furyWarrior, protectionWarrior, armours, shields, cloaks, tabards, fishingRods, waterMounts, earthMounts, flyMounts, professions, alchemy, mining, engineering, leatherworking, blacksmithing, enchanting,  inscription, tailoring, skinning, herbalism, jewelcrafting, archaeology, riding, cooking, firstAid, fishing, junkyardTinkering, protoformSynthesis, pvp, honour, arena, rbg, additionsDungeons, additionsRaids, dungeonsClassic, dungeonsBurningCrusade, dungeonsWrathOfTheLichKing, dungeonsCataclysm, dungeonsMistsOfPandaria, dungeonsWarlordsOfDraenor, dungeonsLegion, dungeonsBattleForAzeroth, dungeonsShadowlands, dungeonsDragonflight, dungeonsWarWithin, dungeonsMidnight, dungeonsLastTitan, raidsClassic, raidsBurningCrusade, raidsWrathOfTheLichKing, raidsCataclysm, raidsMistsOfPandaria, raidsWarlordsOfDraenor, raidsLegion, raidsBattleForAzeroth, raidsShadowlands, raidsDragonflight, raidsWarWithin, raidsMidnight, raidsLastTitan, lvlUp, lvlUpBase, lvlUpExpert, lvlUpMaster, achievements, quests, legacy, greatFeats, warcraftReforged, wowAnniversary, diablo, hearthstone, heroesStorm, starcraft, overwatch, wowCollectionEditions, diabloCollectionEditions  }) => {
+const Announcement = ({ home, races, horde, alliance, warrior, druid, priest, mage, monk, hunter, demonHunter, paladin, awakener, rogue, deathKnight, warlock, shaman, oneHandedWeapons, twoHandedWeapons, rangeWeapons, legendaryWeapons, artifactWeapons, decorativeWeapons, twoHandedAxes, weaponsDetailsTitle, weaponsDetailsDescription, ashbringer, sulfuras, thunderfury, atiesh, warglaivesOfAzzinoth, thoridal, valanyr, frostmourne, shadowmourne, tarecgosa, fangsFather, raeshalareDeathsWhisper, fyralathTheDreamrender, naszuroTheUnboundLegacy, armsWarrior, furyWarrior, protectionWarrior, armours, shields, cloaks, tabards, fishingRods, waterMounts, earthMounts, flyMounts, professions, alchemy, mining, engineering, leatherworking, blacksmithing, enchanting,  inscription, tailoring, skinning, herbalism, jewelcrafting, archaeology, riding, cooking, firstAid, fishing, junkyardTinkering, protoformSynthesis, pvp, honour, arena, rbg, additionsDungeons, additionsRaids, dungeonsClassic, dungeonsBurningCrusade, dungeonsWrathOfTheLichKing, dungeonsCataclysm, dungeonsMistsOfPandaria, dungeonsWarlordsOfDraenor, dungeonsLegion, dungeonsBattleForAzeroth, dungeonsShadowlands, dungeonsDragonflight, dungeonsWarWithin, dungeonsMidnight, dungeonsLastTitan, raidsClassic, raidsBurningCrusade, raidsWrathOfTheLichKing, raidsCataclysm, raidsMistsOfPandaria, raidsWarlordsOfDraenor, raidsLegion, raidsBattleForAzeroth, raidsShadowlands, raidsDragonflight, raidsWarWithin, raidsMidnight, raidsLastTitan, lvlUp, lvlUpBase, lvlUpExpert, lvlUpMaster, achievements, quests, legacy, greatFeats, warcraftReforged, wowAnniversary, diablo, hearthstone, heroesStorm, starcraft, overwatch, wowCollectionEditions, diabloCollectionEditions }) => {
 	return (
 		<section className="announcement">
 			<div className="container">
-				<div className="announcement__description my-4 my-lg-5">
+				<div className="announcement__description">
 					<h1
 						className={`announcement__header ${
+							races
+								? "announcement__header_races"
+								:
 							horde
 								? "announcement__header_horde"
 								:
@@ -35,6 +38,9 @@ const Announcement = ({ home, races, horde, alliance, warrior, druid, priest, ma
 							paladin
 								? "announcement__header_paladin"
 								:
+							awakener
+								? "announcement__header_awakener"
+								:
 							rogue
 								? "announcement__header_rogue"
 								:
@@ -47,30 +53,6 @@ const Announcement = ({ home, races, horde, alliance, warrior, druid, priest, ma
 							shaman
 								? "announcement__header_shaman"
 								:
-							awakener
-								? "announcement__header_awakener"
-								:
-							oneHandedWeapons
-								? "announcement__header_one-handed-weapons"
-								:
-							twoHandedWeapons || twoHandedAxes
-								? "announcement__header_two-handed-weapons"
-								:
-							rangeWeapons
-								? "announcement__header_range-weapons"
-								:
-							legendaryWeapons || ashbringer || sulfuras || thunderfury || atiesh || warglaivesOfAzzinoth || thoridal || valanyr || frostmourne || shadowmourne || tarecgosa || fangsFather || raeshalareDeathsWhisper || fyralathTheDreamrender || naszuroTheUnboundLegacy
-								? "announcement__header_legendary-weapons"
-								:
-							artifactWeapons || armsWarrior || furyWarrior || protectionWarrior
-								? "announcement__header_artifact-weapons"
-								:
-							decorativeWeapons
-								? "announcement__header_decorative-weapons"
-								:
-							armours
-								? "announcement__header_armours"
-								:
 							waterMounts
 								? "announcement__header_water-mounts"
 								:
@@ -79,15 +61,6 @@ const Announcement = ({ home, races, horde, alliance, warrior, druid, priest, ma
 								:
 							flyMounts
 								? "announcement__header_fly-mounts"
-								:
-							professions
-								? "announcement__header_professions"
-								:
-							pvp
-								? "announcement__header_pvp"
-								:
-							additionsDungeons || additionsRaids
-								? "announcement__header_dungeons"
 								:
 							dungeonsClassic || raidsClassic
 								? "announcement__header_сlassic"
@@ -128,18 +101,54 @@ const Announcement = ({ home, races, horde, alliance, warrior, druid, priest, ma
 							dungeonsLastTitan || raidsLastTitan
 								? "announcement__header_last-titan"
 								:
-							lvlUp
-								? "announcement__header_lvl-up"
-								:
 							achievements
 								? "announcement__header_achievements"
+								:
+
+
+
+
+
+							/* Старое переделываю */
+							oneHandedWeapons
+								? "announcement__header_one-handed-weapons"
+								:
+							twoHandedWeapons || twoHandedAxes
+								? "announcement__header_two-handed-weapons"
+								:
+							rangeWeapons
+								? "announcement__header_range-weapons"
+								:
+							legendaryWeapons || ashbringer || sulfuras || thunderfury || atiesh || warglaivesOfAzzinoth || thoridal || valanyr || frostmourne || shadowmourne || tarecgosa || fangsFather || raeshalareDeathsWhisper || fyralathTheDreamrender || naszuroTheUnboundLegacy
+								? "announcement__header_legendary-weapons"
+								:
+							artifactWeapons || armsWarrior || furyWarrior || protectionWarrior
+								? "announcement__header_artifact-weapons"
+								:
+							decorativeWeapons
+								? "announcement__header_decorative-weapons"
+								:
+							armours
+								? "announcement__header_armours"
+								:
+							professions
+								? "announcement__header_professions"
+								:
+							pvp
+								? "announcement__header_pvp"
+								:
+							additionsDungeons || additionsRaids
+								? "announcement__header_dungeons"
+								:
+							lvlUp
+								? "announcement__header_lvl-up"
 								: null
 							} text-center`
 						}
 					>
 						{
 							races
-								? "Расы Азерота: твой выбор — твоя судьба!"
+								? "Расы Азерота: твой выбор\n твоя судьба!"
 								:
 							horde
 								? "За Орду!"
@@ -186,6 +195,22 @@ const Announcement = ({ home, races, horde, alliance, warrior, druid, priest, ma
 							shaman
 								? "Комплекты рейдовой брони\n для шамана"
 								:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+							/* переделать */
 							oneHandedWeapons
 								? "Одноручное оружие"
 								:
@@ -478,16 +503,11 @@ const Announcement = ({ home, races, horde, alliance, warrior, druid, priest, ma
 					</h1>
 					{ home && <h2 className="announcement__header text-center">WorldSoul Saga</h2> }
 					{ home && <h3 className="announcement__subheader announcement__subheader_main text-center">Великое приключение длиной в 20 лет</h3> }
-					<p className={`${
-						home
-							? "announcement__text"
-							: ""
-							} text-center`
-						}
+					<p className={`announcement__text text-center mt-3`}
 					>
 						{
 							races
-								? "Азерот населяет множество уникальных рас — одни являются коренными обитателями этого мира, другие прибыли из далёких и иных измерений. Ваш выбор расы определит не только внешность и способности персонажа, но и судьбоносный союз в вечном противостоянии. Вступите в ряды несгибаемой Орды, чья ярость и отвага не знают границ, или примите сторону благородного Альянса, сражающегося за честь и справедливость. Кому вы присягнете на верность? Чью историю будете вершить?"
+								? "Азерот населяет множество уникальных рас. Одни являются коренными обитателями этого мира, другие прибыли из далеких и иных измерений. Ваш выбор расы определит не только внешность и способности персонажа, но и судьбоносный союз в вечном противостоянии. Вступите в ряды несгибаемой Орды, чья ярость и отвага не знают границ, или примите сторону благородного Альянса, сражающегося за честь и справедливость. Кому вы присягнете на верность? Чью историю будете вершить?"
 								:
 							horde
 								? "Орда — фракция, которая ценит силу и честь, выступает против тех, кто угрожает идеалам свободы и единству своих народов, но пытается сдержать агрессию. Расы, входящие в состав Орды, происходят из традиций, связанных с насилием и войной. Столица Орды, Оргриммар, город орков и троллей."
@@ -534,6 +554,23 @@ const Announcement = ({ home, races, horde, alliance, warrior, druid, priest, ma
 							shaman
 								? "Пробуди силу духов земли, огня, воды и воздуха. Прими благословение древних предков. Получите полный комплект, станьте воплощением могущества стихий и легендой Азерота!"
 								:
+							waterMounts
+								? "Водные маунты, обитатели морей и океанов, могучие владыки глубин. Они обеспечат вам скорость морской бури и откроют тайны подводного мира. Покорите глубины Азерота!"
+								:
+							earthMounts
+								? "Наземные маунты, обитатели пещер, могучие бегуны. Они обеспечат вам молниеносную скорость и превосходство в любом путешествии. Покорите бескрайние просторы Азерота!"
+								:
+							flyMounts
+								? "Летающие маунты, властелины небес, повелители бескрайних воздушных просторов. Они обеспечат вам скорость ветра и абсолютное превосходство в воздухе. Покорите небеса Азерота!"
+								:
+							wowAnniversary
+								? "Еще один год позади и мы снова здесь, чтобы встретить его вместе в Азероте. Здесь собраны достижения за вход в игру в дни празднования годовщин, с самой первой до сегодняшней. Это не просто цифры а история. Каждый раз ты мог зайти и сказать: Я часть этого мира!"
+								:
+
+
+
+
+							/* Проверить */
 							oneHandedWeapons
 								? "Одноручное оружие, искусство смертоносной грации и невероятной скорости! Идеальный выбор тех, кто ценит скорость выше грубой силы. Каждый взмах клинка рождает вихрь молниеносных ударов, сметающий врагов. Неважно, что перед тобой полчища Плети или демоны Пылающего Легиона скорость твоего клинка решает все. Один искусный воин стоит целой армии!"
 								:
@@ -612,23 +649,11 @@ const Announcement = ({ home, races, horde, alliance, warrior, druid, priest, ma
 							fishingRods
 								? "Удочки, воплощение безграничного терпения и тихой созерцательной силы. Идеальный выбор тех, кто знает, что истинная добыча достанется тому, кто умеет ждать. Леска удочки уходит вглубь вод, растворяясь в отражении неба, а рыба теряет бдительность в мерцающей ряби. Неважно, что клюет, удочка станет продолжением твоей воли и протянет невидимую нить между желанием и добычей, которую ты никогда не упустишь!"
 								:
-							waterMounts
-								? "Водные маунты, обитатели морей и океанов, могучие владыки глубин. Они обеспечат вам скорость морской бури и откроют тайны подводного мира. Покорите глубины Азерота!"
-								:
-							earthMounts
-								? "Наземные маунты, обитатели пещер, могучие бегуны. Они обеспечат вам молниеносную скорость и превосходство в любом путешествии. Покорите бескрайние просторы Азерота!"
-								:
-							flyMounts
-								? "Летающие маунты, властелины небес, повелители бескрайних воздушных просторов. Они обеспечат вам скорость ветра и абсолютное превосходство в воздухе. Покорите небеса Азерота!"
-								:
 							additionsDungeons
 								? "Азерот хранит множество тайн, построенными цивилизациями, что канули в лету. Эти места настоящие испытания для отважных искателей приключений. Подземелья Азерота, это уникальные локации, рассчитанные на отряд из пяти героев, где каждый должен сыграть свою роль. Несокрушимый страж, принимающий удары на себя, мудрый целитель, хранящий жизни соратников и безжалостные бойцы, дарующие врагам погибель."
 								:
 							additionsRaids
 								? "123"
-								:
-							wowAnniversary
-								? "Еще один год позади и мы снова здесь, чтобы встретить его вместе в Азероте. Здесь собраны достижения за вход в игру в дни празднования годовщин, с самой первой до сегодняшней. Это не просто цифры а история. Каждый раз ты мог зайти и сказать: «Я часть этого мира!»"
 								:
 							wowCollectionEditions
 								? "Полная коллекция легендарных изданий, с которых начиналось приключение от Classic до Midnight. Каждый экземпляр часть истории Азерота у тебя на полке. Настоящее сокровище для истинного коллекционера!"
@@ -641,4 +666,4 @@ const Announcement = ({ home, races, horde, alliance, warrior, druid, priest, ma
 	);
 };
 
-export default Announcement;
+export default Announcement

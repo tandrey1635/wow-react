@@ -1,4 +1,6 @@
 const Promo = ({ races, horde, alliance, warrior, druid, priest, mage, monk, hunter, demonHunter, paladin, awakener, rogue, deathKnight, warlock, shaman, oneHandedWeapons, twoHandedWeapons, rangeWeapons, legendaryWeapons, artifactWeapons, decorativeWeapons, twoHandedAxes, ashbringer, sulfuras, thunderfury, atiesh, warglaivesOfAzzinoth, thoridal, valanyr, frostmourne, shadowmourne, tarecgosa, fangsFather, raeshalareDeathsWhisper, fyralathTheDreamrender, naszuroTheUnboundLegacy, armsWarrior, furyWarrior, protectionWarrior, shields, cloaks, tabards, fishingRods, waterMounts, earthMounts, flyMounts, alchemy, mining, engineering, leatherworking, blacksmithing, enchanting,  inscription, tailoring, skinning, herbalism, jewelcrafting, archaeology, riding, cooking, firstAid, fishing, junkyardTinkering, protoformSynthesis, honour, arena, rbg, classic, burningCrusade, wrathOfTheLichKing, cataclysm, mistsOfPandaria, warlordsOfDraenor, legion, battleForAzeroth, shadowlands, dragonflight, warWithin, midnight, lastTitan, lvlUpBase, lvlUpExpert, lvlUpMaster, quests, legacy, greatFeats, warcraftReforged, wowAnniversary, diablo, hearthstone, heroesStorm, starcraft, overwatch, wowCollectionEditions, diabloCollectionEditions }) => {
+
+
 	return (
 		<section className="promo">
 			<div className="container-fluid">
@@ -111,6 +113,12 @@ const Promo = ({ races, horde, alliance, warrior, druid, priest, mage, monk, hun
 
 
 
+
+
+
+
+
+						/* старое доработать */
 						oneHandedWeapons
 							? "promo__raitings_one-handed-weapons"
 							:
@@ -255,7 +263,6 @@ const Promo = ({ races, horde, alliance, warrior, druid, priest, mage, monk, hun
 						rbg
 							? "promo__raitings_rbg"
 							:
-
 						lvlUpBase
 							? "promo__raitings_lvl-up-base"
 							:

@@ -124,15 +124,17 @@ footer {
 }
 
 .announcement {
-  padding: 25px 0;
   min-height: 150px;
+}
+.announcement__header, .announcement__text {
+  filter: brightness(125%);
+  color: #ffc107;
 }
 .announcement__header {
   font-weight: 900;
-  color: #ffc107;
   font-size: 64px;
-  filter: brightness(125%);
   text-transform: uppercase;
+  white-space: pre-wrap;
 }
 @media (max-width: 767.98px) {
   .announcement__header {
@@ -159,20 +161,174 @@ footer {
     font-size: 32px;
   }
 }
-.announcement__header {
-  white-space: pre-wrap;
+@media (max-width: 375px) {
+  .announcement__header {
+    font-size: 28px;
+  }
+}
+.announcement__header_races {
+  background: linear-gradient(120deg, #8b0000 48%, #1e90ff 48%);
+  -webkit-background-clip: text;
+          background-clip: text;
+  color: transparent;
+}
+.announcement__header_horde {
+  color: #b90c1c;
+}
+.announcement__header_alliance {
+  color: #037afb;
+}
+.announcement__header_warrior {
+  color: #854c27;
+}
+.announcement__header_druid {
+  color: #ff7d0a;
+}
+.announcement__header_priest {
+  color: #fff;
+}
+.announcement__header_mage {
+  color: #00bfff;
+}
+.announcement__header_monk {
+  color: #0ae979;
+}
+.announcement__header_hunter {
+  color: rgba(134, 197, 102, 0.9098039216);
+}
+.announcement__header_demon-hunter {
+  color: #8b00ff;
+}
+.announcement__header_paladin {
+  color: #fb3a86;
+}
+.announcement__header_awakener {
+  color: #00c199;
+}
+.announcement__header_rogue {
+  color: #ddcb17;
+}
+.announcement__header_death-knight {
+  color: #c41f3b;
+}
+.announcement__header_warlock {
+  color: #7b13df;
+}
+.announcement__header_shaman {
+  color: #185ec1;
+}
+.announcement__header_water-mounts {
+  color: #00ffff;
+}
+.announcement__header_earth-mounts {
+  color: #854c27;
+}
+.announcement__header_fly-mounts {
+  color: #2e86e5;
+}
+.announcement__header_сlassic {
+  color: #854c27;
+}
+.announcement__header_burning-crusade {
+  color: #158d32;
+}
+.announcement__header_wrath-of-the-lich-king {
+  color: #03a9f4;
+}
+.announcement__header_cataclysm {
+  color: #ef5c18;
+}
+.announcement__header_mists-of-pandaria {
+  color: #19dd8c;
+}
+.announcement__header_warlords-of-draenor {
+  color: #854c27;
+}
+.announcement__header_legion {
+  color: #158d32;
+}
+.announcement__header_battle-for-azeroth {
+  color: #7c10e1;
+}
+.announcement__header_shadowlands {
+  color: #759ca5;
+}
+.announcement__header_dragonflight {
+  color: #1fbbad;
+}
+.announcement__header_war-within {
+  color: #d35400;
+}
+.announcement__header_midnight {
+  color: #3126c1;
+}
+.announcement__header_last-titan {
+  color: #dfae56;
+}
+.announcement__header_achievements {
+  color: #607d8b;
+}
+.announcement__text {
+  font-size: 32px;
+  line-height: 1.2;
+  font-weight: 700;
+}
+@media (max-width: 767.98px) {
+  .announcement__text {
+    font-size: 28px;
+  }
+}
+@media (max-width: 676px) {
+  .announcement__text {
+    font-size: 24px;
+  }
+}
+@media (max-width: 575.98px) {
+  .announcement__text {
+    font-size: 20px;
+  }
+}
+@media (max-width: 480px) {
+  .announcement__text {
+    font-size: 18px;
+  }
+}
+@media (max-width: 425px) {
+  .announcement__text {
+    font-size: 16px;
+  }
 }
 
 .promo {
   padding: 32px 0;
+}
+@media (max-width: 480px) {
+  .promo {
+    min-height: 0;
+  }
 }
 .promo__info {
   min-height: inherit;
   height: 500px;
   background: url("/src/assets/img/promo/bg/classes/default-bg.png") no-repeat center/contain;
 }
+@media (max-width: 425px) {
+  .promo__info {
+    height: 400px;
+  }
+}
 .promo__info_races, .promo__info_wow-anniversary {
   height: 100vh;
+}
+@media (max-width: 991.98px) {
+  .promo__info_races, .promo__info_wow-anniversary {
+    height: 50vh;
+  }
+}
+@media (max-width: 425px) {
+  .promo__info_races, .promo__info_wow-anniversary {
+    height: 40vh;
+  }
 }
 .promo__info_races {
   background: url("/src/assets/img/promo/bg/races/races.webp") no-repeat center/cover;
@@ -224,6 +380,11 @@ footer {
 }
 .promo__info_water-mounts {
   background: url("/src/assets/img/promo/bg/mounts/water.png") no-repeat center/contain;
+}
+@media (max-width: 425px) {
+  .promo__info_water-mounts {
+    height: 300px;
+  }
 }
 .promo__info_earth-mounts {
   background: url("/src/assets/img/promo/bg/mounts/earth.png") no-repeat center/contain;
@@ -1602,6 +1763,11 @@ label {
 
 .container, .container-fluid {
   min-height: inherit;
+}
+@media (max-width: 480px) {
+  .container, .container-fluid {
+    min-height: 0;
+  }
 }
 
 .container-fluid {
