@@ -1,14 +1,14 @@
-const Announcement = ({ home, races, horde, alliance, warrior, druid, priest, mage, monk, hunter, demonHunter, paladin, awakener, rogue, deathKnight, warlock, shaman, oneHandedWeapons, twoHandedWeapons, rangeWeapons, legendaryWeapons, artifactWeapons, decorativeWeapons, twoHandedAxes, weaponsDetailsTitle, weaponsDetailsDescription, ashbringer, sulfuras, thunderfury, atiesh, warglaivesOfAzzinoth, thoridal, valanyr, frostmourne, shadowmourne, tarecgosa, fangsFather, raeshalareDeathsWhisper, fyralathTheDreamrender, naszuroTheUnboundLegacy, armsWarrior, furyWarrior, protectionWarrior, armours, shields, cloaks, tabards, fishingRods, waterMounts, earthMounts, flyMounts, hordeGold, allianceGold, professions, alchemy, mining, engineering, leatherworking, blacksmithing, enchanting,  inscription, tailoring, skinning, herbalism, jewelcrafting, archaeology, riding, cooking, firstAid, fishing, junkyardTinkering, protoformSynthesis, pvp, honour, arena, rbg, additionsDungeons, additionsRaids, dungeonsClassic, dungeonsBurningCrusade, dungeonsWrathOfTheLichKing, dungeonsCataclysm, dungeonsMistsOfPandaria, dungeonsWarlordsOfDraenor, dungeonsLegion, dungeonsBattleForAzeroth, dungeonsShadowlands, dungeonsDragonflight, dungeonsWarWithin, dungeonsMidnight, dungeonsLastTitan, raidsClassic, raidsBurningCrusade, raidsWrathOfTheLichKing, raidsCataclysm, raidsMistsOfPandaria, raidsWarlordsOfDraenor, raidsLegion, raidsBattleForAzeroth, raidsShadowlands, raidsDragonflight, raidsWarWithin, raidsMidnight, raidsLastTitan, lvlUp, lvlUpBase, lvlUpExpert, lvlUpMaster, achievements, quests, legacy, greatFeats, warcraftReforged, wowAnniversary, diablo, hearthstone, heroesStorm, starcraft, overwatch, wowCollectionEditions, diabloCollectionEditions  }) => {
+const Announcement = ({ home, races, horde, alliance, warrior, druid, priest, mage, monk, hunter, demonHunter, paladin, awakener, rogue, deathKnight, warlock, shaman, oneHandedWeapons, twoHandedWeapons, rangeWeapons, legendaryWeapons, artifactWeapons, decorativeWeapons, twoHandedAxes, weaponsDetailsTitle, weaponsDetailsDescription, ashbringer, sulfuras, thunderfury, atiesh, warglaivesOfAzzinoth, thoridal, valanyr, frostmourne, shadowmourne, tarecgosa, fangsFather, raeshalareDeathsWhisper, fyralathTheDreamrender, naszuroTheUnboundLegacy, armsWarrior, furyWarrior, protectionWarrior, armours, shields, cloaks, tabards, fishingRods, waterMounts, earthMounts, flyMounts, professions, alchemy, mining, engineering, leatherworking, blacksmithing, enchanting,  inscription, tailoring, skinning, herbalism, jewelcrafting, archaeology, riding, cooking, firstAid, fishing, junkyardTinkering, protoformSynthesis, pvp, honour, arena, rbg, additionsDungeons, additionsRaids, dungeonsClassic, dungeonsBurningCrusade, dungeonsWrathOfTheLichKing, dungeonsCataclysm, dungeonsMistsOfPandaria, dungeonsWarlordsOfDraenor, dungeonsLegion, dungeonsBattleForAzeroth, dungeonsShadowlands, dungeonsDragonflight, dungeonsWarWithin, dungeonsMidnight, dungeonsLastTitan, raidsClassic, raidsBurningCrusade, raidsWrathOfTheLichKing, raidsCataclysm, raidsMistsOfPandaria, raidsWarlordsOfDraenor, raidsLegion, raidsBattleForAzeroth, raidsShadowlands, raidsDragonflight, raidsWarWithin, raidsMidnight, raidsLastTitan, lvlUp, lvlUpBase, lvlUpExpert, lvlUpMaster, achievements, quests, legacy, greatFeats, warcraftReforged, wowAnniversary, diablo, hearthstone, heroesStorm, starcraft, overwatch, wowCollectionEditions, diabloCollectionEditions  }) => {
 	return (
 		<section className="announcement">
 			<div className="container">
 				<div className="announcement__description my-4 my-lg-5">
 					<h1
 						className={`announcement__header ${
-							horde || hordeGold
+							horde
 								? "announcement__header_horde"
 								:
-							alliance || allianceGold
+							alliance
 								? "announcement__header_alliance"
 								:
 							warrior
@@ -281,12 +281,6 @@ const Announcement = ({ home, races, horde, alliance, warrior, druid, priest, ma
 								:
 							flyMounts
 								? "Летающие маунты"
-								:
-							hordeGold
-								? "Золото для игроков орды"
-								:
-							allianceGold
-								? "Золото для игроков альянса"
 								:
 							alchemy
 								? "Алхимия"
@@ -632,12 +626,6 @@ const Announcement = ({ home, races, horde, alliance, warrior, druid, priest, ma
 								:
 							additionsRaids
 								? "123"
-								:
-							hordeGold
-								? "Нужны монеты для клинка, что сокрушит врагов Орды, или брони, выкованной в кузнях Оргриммара? Наше золото поможет тебе стать сильнее. Лок'тар огар! За Орду!"
-								:
-							allianceGold
-								? "Нужны монеты для клинка, что сокрушит врагов Альянса, или брони, выкованной в кузнях Стальгорна? Наше золото поможет тебе стать сильнее. За короля! За Альянс!"
 								:
 							wowAnniversary
 								? "Еще один год позади и мы снова здесь, чтобы встретить его вместе в Азероте. Здесь собраны достижения за вход в игру в дни празднования годовщин, с самой первой до сегодняшней. Это не просто цифры а история. Каждый раз ты мог зайти и сказать: «Я часть этого мира!»"

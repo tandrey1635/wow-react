@@ -169,9 +169,12 @@ footer {
 .promo__info {
   min-height: inherit;
   height: 500px;
+  background: url("/src/assets/img/promo/bg/classes/default-bg.png") no-repeat center/contain;
+}
+.promo__info_races, .promo__info_wow-anniversary {
+  height: 100vh;
 }
 .promo__info_races {
-  height: 100vh;
   background: url("/src/assets/img/promo/bg/races/races.webp") no-repeat center/cover;
 }
 .promo__info_horde {
@@ -179,6 +182,96 @@ footer {
 }
 .promo__info_alliance {
   background: url("/src/assets/img/promo/bg/faction/alliance.png") no-repeat center/contain;
+}
+.promo__info_warrior {
+  background: url("/src/assets/img/promo/bg/classes/Warrior.png") no-repeat center/contain;
+}
+.promo__info_druid {
+  background: url("/src/assets/img/promo/bg/classes/Druid.png") no-repeat center/contain;
+}
+.promo__info_priest {
+  background: url("/src/assets/img/promo/bg/classes/Priest.png") no-repeat center/contain;
+}
+.promo__info_mage {
+  background: url("/src/assets/img/promo/bg/classes/Mage.png") no-repeat center/contain;
+}
+.promo__info_monk {
+  background: url("/src/assets/img/promo/bg/classes/Monk.png") no-repeat center/contain;
+}
+.promo__info_hunter {
+  background: url("/src/assets/img/promo/bg/classes/Hunter.png") no-repeat center/contain;
+}
+.promo__info_demon-hunter {
+  background: url("/src/assets/img/promo/bg/classes/Demon-Hunter.png") no-repeat center/contain;
+}
+.promo__info_paladin {
+  background: url("/src/assets/img/promo/bg/classes/Paladin.png") no-repeat center/contain;
+}
+.promo__info_awakener {
+  background: url("/src/assets/img/promo/bg/classes/Awakener.png") no-repeat center/contain;
+}
+.promo__info_rogue {
+  background: url("/src/assets/img/promo/bg/classes/Rogue.png") no-repeat center/contain;
+}
+.promo__info_death-knight {
+  background: url("/src/assets/img/promo/bg/classes/Death-Knight.png") no-repeat center/contain;
+}
+.promo__info_warlock {
+  background: url("/src/assets/img/promo/bg/classes/Warlock.png") no-repeat center/contain;
+}
+.promo__info_shaman {
+  background: url("/src/assets/img/promo/bg/classes/Shaman.png") no-repeat center/contain;
+}
+.promo__info_water-mounts {
+  background: url("/src/assets/img/promo/bg/mounts/water.png") no-repeat center/contain;
+}
+.promo__info_earth-mounts {
+  background: url("/src/assets/img/promo/bg/mounts/earth.png") no-repeat center/contain;
+}
+.promo__info_fly-mounts {
+  background: url("/src/assets/img/promo/bg/mounts/fly.png") no-repeat center/contain;
+}
+.promo__info_classic {
+  background: url("/src/assets/img/promo/bg/dungeons-raids/classic.png") no-repeat center/contain;
+}
+.promo__info_burning-crusade {
+  background: url("/src/assets/img/promo/bg/dungeons-raids/burning-crusade.png") no-repeat center/contain;
+}
+.promo__info_wrath-of-the-lich-king {
+  background: url("/src/assets/img/promo/bg/dungeons-raids/wrath-of-the-lich-king.png") no-repeat center/contain;
+}
+.promo__info_cataclysm {
+  background: url("/src/assets/img/promo/bg/dungeons-raids/cataclysm.png") no-repeat center/contain;
+}
+.promo__info_mists-of-pandaria {
+  background: url("/src/assets/img/promo/bg/dungeons-raids/mists-of-pandaria.png") no-repeat center/contain;
+}
+.promo__info_warlords-of-draenor {
+  background: url("/src/assets/img/promo/bg/dungeons-raids/warlords-of-draenor.png") no-repeat center/contain;
+}
+.promo__info_legion {
+  background: url("/src/assets/img/promo/bg/dungeons-raids/legion.png") no-repeat center/contain;
+}
+.promo__info_battle-for-azeroth {
+  background: url("/src/assets/img/promo/bg/dungeons-raids/battle-for-azeroth.png") no-repeat center/contain;
+}
+.promo__info_shadowlands {
+  background: url("/src/assets/img/promo/bg/dungeons-raids/shadowlands.png") no-repeat center/contain;
+}
+.promo__info_dragonflight {
+  background: url("/src/assets/img/promo/bg/dungeons-raids/dragonflight.png") no-repeat center/contain;
+}
+.promo__info_war-within {
+  background: url("/src/assets/img/promo/bg/dungeons-raids/war-within.png") no-repeat center/contain;
+}
+.promo__info_midnight {
+  background: url("/src/assets/img/promo/bg/dungeons-raids/midnight.png") no-repeat center/contain;
+}
+.promo__info_last-titan {
+  background: url("/src/assets/img/promo/bg/dungeons-raids/last-titan.png") no-repeat center/contain;
+}
+.promo__info_wow-anniversary {
+  background: url("/src/assets/img/promo/bg/achievements/Wow-Anniversary.webp") no-repeat center/cover;
 }
 
 .weapon__details__left {

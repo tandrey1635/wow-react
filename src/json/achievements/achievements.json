@@ -53,7 +53,7 @@
 		"id": "WowAnniversary",
 		"type": "achievements",
 		"path": "achievements/wow-anniversary",
-		"img": "/src/assets/img/promo/bg/achievements/Wow-Anniversary.jpg",
+		"img": "/src/assets/img/promo/bg/achievements/Wow-Anniversary.webp",
 		"objectFit": false,
 		"title": "Годовщина World of Warcraft",
 		"description": "Великое приключение длиной в 20 лет. Путешествие, достойное легенды!",

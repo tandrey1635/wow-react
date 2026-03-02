@@ -1,4 +1,4 @@
-const Promo = ({ races, horde, alliance, warrior, druid, priest, mage, monk, hunter, demonHunter, paladin, awakener, rogue, deathKnight, warlock, shaman, oneHandedWeapons, twoHandedWeapons, rangeWeapons, legendaryWeapons, artifactWeapons, decorativeWeapons, twoHandedAxes, ashbringer, sulfuras, thunderfury, atiesh, warglaivesOfAzzinoth, thoridal, valanyr, frostmourne, shadowmourne, tarecgosa, fangsFather, raeshalareDeathsWhisper, fyralathTheDreamrender, naszuroTheUnboundLegacy, armsWarrior, furyWarrior, protectionWarrior, shields, cloaks, tabards, fishingRods, waterMounts, earthMounts, flyMounts, hordeGold, allianceGold, alchemy, mining, engineering, leatherworking, blacksmithing, enchanting,  inscription, tailoring, skinning, herbalism, jewelcrafting, archaeology, riding, cooking, firstAid, fishing, junkyardTinkering, protoformSynthesis, honour, arena, rbg, classic, burningCrusade, wrathOfTheLichKing, cataclysm, mistsOfPandaria, warlordsOfDraenor, legion, battleForAzeroth, shadowlands, dragonflight, warWithin, midnight, lastTitan, lvlUpBase, lvlUpExpert, lvlUpMaster, quests, legacy, greatFeats, warcraftReforged, wowAnniversary, diablo, hearthstone, heroesStorm, starcraft, overwatch, wowCollectionEditions, diabloCollectionEditions }) => {
+const Promo = ({ races, horde, alliance, warrior, druid, priest, mage, monk, hunter, demonHunter, paladin, awakener, rogue, deathKnight, warlock, shaman, oneHandedWeapons, twoHandedWeapons, rangeWeapons, legendaryWeapons, artifactWeapons, decorativeWeapons, twoHandedAxes, ashbringer, sulfuras, thunderfury, atiesh, warglaivesOfAzzinoth, thoridal, valanyr, frostmourne, shadowmourne, tarecgosa, fangsFather, raeshalareDeathsWhisper, fyralathTheDreamrender, naszuroTheUnboundLegacy, armsWarrior, furyWarrior, protectionWarrior, shields, cloaks, tabards, fishingRods, waterMounts, earthMounts, flyMounts, alchemy, mining, engineering, leatherworking, blacksmithing, enchanting,  inscription, tailoring, skinning, herbalism, jewelcrafting, archaeology, riding, cooking, firstAid, fishing, junkyardTinkering, protoformSynthesis, honour, arena, rbg, classic, burningCrusade, wrathOfTheLichKing, cataclysm, mistsOfPandaria, warlordsOfDraenor, legion, battleForAzeroth, shadowlands, dragonflight, warWithin, midnight, lastTitan, lvlUpBase, lvlUpExpert, lvlUpMaster, quests, legacy, greatFeats, warcraftReforged, wowAnniversary, diablo, hearthstone, heroesStorm, starcraft, overwatch, wowCollectionEditions, diabloCollectionEditions }) => {
 	return (
 		<section className="promo">
 			<div className="container-fluid">
@@ -13,50 +13,104 @@ const Promo = ({ races, horde, alliance, warrior, druid, priest, mage, monk, hun
 						alliance
 							? "promo__info_alliance"
 							:
-
-
-
-
-
 						warrior
-							? "promo__raitings_warrior"
+							? "promo__info_warrior"
 							:
 						druid
-							? "promo__raitings_druid"
+							? "promo__info_druid"
 							:
 						priest
-							? "promo__raitings_priest"
+							? "promo__info_priest"
 							:
 						mage
-							? "promo__raitings_mage"
+							? "promo__info_mage"
 							:
 						monk
-							? "promo__raitings_monk"
+							? "promo__info_monk"
 							:
 						hunter
-							? "promo__raitings_hunter"
+							? "promo__info_hunter"
 							:
 						demonHunter
-							? "promo__raitings_demon-hunter"
+							? "promo__info_demon-hunter"
 							:
 						paladin
-							? "promo__raitings_paladin"
+							? "promo__info_paladin"
 							:
 						awakener
-							? "promo__raitings_awakener"
+							? "promo__info_awakener"
 							:
 						rogue
-							? "promo__raitings_rogue"
+							? "promo__info_rogue"
 							:
 						deathKnight
-							? "promo__raitings_death-knight"
+							? "promo__info_death-knight"
 							:
 						warlock
-							? "promo__raitings_warlock"
+							? "promo__info_warlock"
 							:
 						shaman
-							? "promo__raitings_shaman"
+							? "promo__info_shaman"
 							:
+						waterMounts
+							? "promo__info_water-mounts"
+							:
+						earthMounts
+							? "promo__info_earth-mounts"
+							:
+						flyMounts
+							? "promo__info_fly-mounts"
+							:
+						classic
+							? "promo__info_classic"
+							:
+						burningCrusade
+							? "promo__info_burning-crusade"
+							:
+						wrathOfTheLichKing
+							? "promo__info_wrath-of-the-lich-king"
+							:
+						cataclysm
+							? "promo__info_cataclysm"
+							:
+						mistsOfPandaria
+							? "promo__info_mists-of-pandaria"
+							:
+						warlordsOfDraenor
+							? "promo__info_warlords-of-draenor"
+							:
+						legion
+							? "promo__info_legion"
+							:
+						battleForAzeroth
+							? "promo__info_battle-for-azeroth"
+							:
+						shadowlands
+							? "promo__info_shadowlands"
+							:
+						dragonflight
+							? "promo__info_dragonflight"
+							:
+						warWithin
+							? "promo__info_war-within"
+							:
+						midnight
+							? "promo__info_midnight"
+							:
+						lastTitan
+							? "promo__info_last-titan"
+							:
+						wowAnniversary
+							? "promo__info_wow-anniversary"
+							:
+
+
+
+
+
+
+
+
 						oneHandedWeapons
 							? "promo__raitings_one-handed-weapons"
 							:
@@ -138,21 +192,6 @@ const Promo = ({ races, horde, alliance, warrior, druid, priest, mage, monk, hun
 						fishingRods
 							? "promo__raitings_fishing-rods"
 							:
-						waterMounts
-							? "promo__raitings_water-mounts"
-							:
-						earthMounts
-							? "promo__raitings_earth-mounts"
-							:
-						flyMounts
-							? "promo__raitings_fly-mounts"
-							:
-						hordeGold
-							? "promo__raitings_horde-gold"
-							:
-						allianceGold
-							? "promo__raitings_alliance-gold"
-							:
 						alchemy
 							? "promo__raitings_alchemy"
 							:
@@ -216,45 +255,7 @@ const Promo = ({ races, horde, alliance, warrior, druid, priest, mage, monk, hun
 						rbg
 							? "promo__raitings_rbg"
 							:
-						classic
-							? "promo__raitings_сlassic"
-							:
-						burningCrusade
-							? "promo__raitings_burning-crusade"
-							:
-						wrathOfTheLichKing
-							? "promo__raitings_wrath-of-the-lich-king"
-							:
-						cataclysm
-							? "promo__raitings_cataclysm"
-							:
-						mistsOfPandaria
-							? "promo__raitings_mists-of-pandaria"
-							:
-						warlordsOfDraenor
-							? "promo__raitings_warlords-of-draenor"
-							:
-						legion
-							? "promo__raitings_legion"
-							:
-						battleForAzeroth
-							? "promo__raitings_battle-for-azeroth"
-							:
-						shadowlands
-							? "promo__raitings_shadowlands"
-							:
-						dragonflight
-							? "promo__raitings_dragonflight"
-							:
-						warWithin
-							? "promo__raitings_war-within"
-							:
-						midnight
-							? "promo__raitings_midnight"
-							:
-						lastTitan
-							? "promo__raitings_last-titan"
-							:
+
 						lvlUpBase
 							? "promo__raitings_lvl-up-base"
 							:
@@ -275,9 +276,6 @@ const Promo = ({ races, horde, alliance, warrior, druid, priest, mage, monk, hun
 							:
 						warcraftReforged
 							? "promo__raitings_warcraft-reforged"
-							:
-						wowAnniversary
-							? "promo__raitings_wow"
 							:
 						diablo
 							? "promo__raitings_diablo"

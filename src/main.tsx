@@ -91,12 +91,6 @@ import EarthMounts from "./pages/mounts/Earth.tsx";
 import FlyMounts from "./pages/mounts/Fly.tsx";
 
 
-
-import HordeGold from "./pages/gold/Horde.tsx";
-import AllianceGold from "./pages/gold/Alliance.tsx";
-
-
-
 import Alchemy from "./pages/professions/Alchemy.tsx";
 import Mining from "./pages/professions/Mining.tsx";
 import Engineering from "./pages/professions/Engineering.tsx";
@@ -273,10 +267,6 @@ createRoot(document.getElementById("root")!).render(
 				<Route path="mounts/water" element={<WaterMounts />} />
 				<Route path="mounts/earth" element={<EarthMounts />} />
 				<Route path="mounts/fly" element={<FlyMounts />} />
-
-
-				<Route path="gold/horde" element={<HordeGold />} />
-				<Route path="gold/alliance" element={<AllianceGold />} />
 
 
 				<Route path="professions/alchemy" element={<Alchemy />} />

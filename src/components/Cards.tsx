@@ -64,8 +64,6 @@ import dataWaterMounts from '../json/mounts/water/water.json';
 import dataFlyMounts from '../json/mounts/fly/fly.json';
 
 
-
-import dataGold from '../json/gold/gold.json';
 import dataMounts from '../json/mounts/mounts.json';
 import dataProfessions from '../json/professions/professions.json';
 import dataPvp from '../json/pvp/pvp.json';
@@ -130,11 +128,6 @@ const Cards = ({home, races, horde, alliance, raidsArmoursWarrior, raidsArmoursD
 	const LvlUpMasterCardImg = `${basePathImg}/lvl-up/bg/lvl-up-master.png`
 
 
-	const dollarImg = `${basePathImg}/gold/bg/dollar.png`
-	const dollarAlt = '$'
-
-
-
 	const counterCardItems = (dataJson: ICard[]) => dataJson.length
 	const counterCardItemsDone = (dataJson: ICard[]) => dataJson.map(card=>{
 		let arr = []
@@ -161,7 +154,6 @@ const Cards = ({home, races, horde, alliance, raidsArmoursWarrior, raidsArmoursD
 				descriptionTrim={card.descriptionTrim}
 				title={card.title}
 				price={card.price}
-				gold={card.gold === true}
 			/>
 		)
 	})
@@ -183,7 +175,6 @@ const Cards = ({home, races, horde, alliance, raidsArmoursWarrior, raidsArmoursD
 				strength={card.strength}
 				stamina={card.stamina}
 				price={card.price}
-				gold={card.gold === true}
 			/>
 		)
 	})
@@ -229,13 +220,6 @@ const Cards = ({home, races, horde, alliance, raidsArmoursWarrior, raidsArmoursD
 								</div>
 							</div>
 
-							{/* Таб контент голд */}
-							<div className="tab-pane fade fade show active mt-5" id="pills-gold">
-								<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-									{ renderCardItems(dataGold) }
-								</div>
-							</div>
-
 							{/* Таб контент профессии */}
 							<div className="tab-pane fade fade show active mt-5" id="pills-professions">
 								<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
@@ -271,7 +255,7 @@ const Cards = ({home, races, horde, alliance, raidsArmoursWarrior, raidsArmoursD
 											<p className="card-text card-text-lvl-up">Прокачка 1-60 уровень в The Last Titan. Экипировка 250 уровня. Отличный набор для начинающего искателя приключений</p>
 										</div>
 										<div className="card-footer d-flex justify-content-between align-items-center">
-											<p className="card-price card-price-lvl-up">от 300<img className="dollar" src={dollarImg} alt={dollarAlt} /></p>
+											<p className="card-price card-price-lvl-up">от 300<img className="dollar" src="" alt="" /></p>
 											<Link to="lvl-up/lvl-up-base" className="card-btn card-btn-lvl-up">Подробнее</Link>
 										</div>
 									</div>
@@ -287,7 +271,7 @@ const Cards = ({home, races, horde, alliance, raidsArmoursWarrior, raidsArmoursD
 											<p className="card-text card-text-lvl-up">Прокачка 1-70 уровень в The Last Titan. Экипировка 500 уровня. Отличный набор для опытного искателя приключений</p>
 										</div>
 										<div className="card-footer d-flex justify-content-between align-items-center">
-											<p className="card-price card-price-lvl-up">от 500<img className="dollar" src={dollarImg} alt={dollarAlt} /></p>
+											<p className="card-price card-price-lvl-up">от 500<img className="dollar" src="" alt="" /></p>
 											<Link to="lvl-up/lvl-up-expert" className="card-btn card-btn-lvl-up">Подробнее</Link>
 										</div>
 									</div>
@@ -303,7 +287,7 @@ const Cards = ({home, races, horde, alliance, raidsArmoursWarrior, raidsArmoursD
 											<p className="card-text card-text-lvl-up">Прокачка 1-80 уровень в The Last Titan. Экипировка 1000 уровня. Отличный набор для профессионального искателя приключений</p>
 										</div>
 										<div className="card-footer d-flex justify-content-between align-items-center">
-											<p className="card-price card-price-lvl-up">от 800<img className="dollar" src={dollarImg} alt={dollarAlt} /></p>
+											<p className="card-price card-price-lvl-up">от 800<img className="dollar" src="" alt="" /></p>
 											<Link to="lvl-up/lvl-up-master" className="card-btn card-btn-lvl-up">Подробнее</Link>
 										</div>
 									</div>
