@@ -1,5 +1,18 @@
 [
 	{
+		"id": "InfernoHardenedGarb",
+		"type": "rogue",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/leather/rogue/Inferno-Hardened-Garb-rogue.png",
+		"objectFit": false,
+		"title": "Инфернальный Кожанный Доспех",
+		"description": "Броня выкованная в сердце вулкана на древней наковальне стихий из чешуи поверженных исполинов и кожи гончих преисподней из Огненных Недр дополнения",
+		"descriptionTrim": "Первая несокрушимая награда за покорение пекла. Повелитель Огня я иду за тобой! Потрясающая защита от магии огня!",
+		"addition": "Classic",
+		"price": 100
+	},
+
+	{
 		"id": "NightslayerArmor",
 		"type": "rogue",
 		"path": "",
@@ -13,6 +26,32 @@
 	},
 
 	{
+		"id": "NightslayerArmorGold",
+		"type": "rogue",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/rogue/Nightslayer-Armor-gold.png",
+		"objectFit": false,
+		"title": "Доспехи Ночного Убийцы Путешественника из Другого Мира",
+		"description": "Кажется, сюда затесалась какая-то подозрительно похожая, но не родная броня из другого времени дополнения",
+		"descriptionTrim": "Альтернативный вариант прославленных доспехов, появившийся в иных измерениях Азерота. Обладает той же несокрушимой силой, что и оригинал, но несет в себе отпечаток другой истории.",
+		"addition": "Classic",
+		"price": 200
+	},
+
+	{
+		"id": "NightslayerArmorBlue",
+		"type": "rogue",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/rogue/Nightslayer-Armor-blue.png",
+		"objectFit": false,
+		"title": "Доспехи Ночного Убийцы Путешественника из Другого Мира",
+		"description": "Кажется, сюда затесалась какая-то подозрительно похожая, но не родная броня из другого времени дополнения",
+		"descriptionTrim": "Альтернативный вариант прославленных доспехов, появившийся в иных измерениях Азерота. Обладает той же несокрушимой силой, что и оригинал, но несет в себе отпечаток другой истории.",
+		"addition": "Classic",
+		"price": 200
+	},
+
+	{
 		"id": "BloodfangArmor",
 		"type": "rogue",
 		"path": "",
@@ -21,6 +60,32 @@
 		"title": "Доспехи Кровавых Клыков",
 		"description": "Второй комплект брони для разбойника из рейда 60-го уровня Логово Крыла Тьмы дополнения",
 		"descriptionTrim": "Лорд Черной Горы будет повержен! Теперь вы сливаетесь с тенью и мгновенно убиваете противника!",
+		"addition": "Classic",
+		"price": 100
+	},
+
+	{
+		"id": "BloodfangArmorBlue",
+		"type": "rogue",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/rogue/Bloodfang-Armor-blue.png",
+		"objectFit": false,
+		"title": "Доспехи Кровавых Клыков Путешественника из Другого Мира",
+		"description": "Кажется, сюда затесалась какая-то подозрительно похожая, но не родная броня из другого времени дополнения",
+		"descriptionTrim": "Альтернативный вариант прославленных доспехов, появившийся в иных измерениях Азерота. Обладает той же несокрушимой силой, что и оригинал, но несет в себе отпечаток другой истории.",
+		"addition": "Classic",
+		"price": 100
+	},
+
+	{
+		"id": "BloodfangArmorBrown",
+		"type": "rogue",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/rogue/Bloodfang-Armor-brown.png",
+		"objectFit": false,
+		"title": "Доспехи Кровавых Клыков Путешественника из Другого Мира",
+		"description": "Кажется, сюда затесалась какая-то подозрительно похожая, но не родная броня из другого времени дополнения",
+		"descriptionTrim": "Альтернативный вариант прославленных доспехов, появившийся в иных измерениях Азерота. Обладает той же несокрушимой силой, что и оригинал, но несет в себе отпечаток другой истории.",
 		"addition": "Classic",
 		"price": 100
 	},
@@ -153,5 +218,148 @@
 		"descriptionTrim": "Искуситель будет повержен! Оберните силу Солнечного Колодца против него самого!",
 		"addition": "The Burning Crusade",
 		"price": 200
+	},
+
+	{
+		"id": "HeroesBonescytheBattlegear",
+		"type": "rogue",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/rogue/Heroes-Bonescythe-Battlegear.png",
+		"objectFit": false,
+		"title": "Героические Доспехи Костяной Косы",
+		"description": "Первый комплект брони для разбойника из рейда 80-го уровня Наксрамас 10 игроков дополнения",
+		"descriptionTrim": "Верховный Лич вернулся! И снова будет повержен! Некромантия вам не страшна!",
+		"addition": "Wrath of the Lich King",
+		"price": 300
+	},
+
+	{
+		"id": "ValorousBonescytheBattlegear",
+		"type": "rogue",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/rogue/Valorous-Bonescythe-Battlegear.png",
+		"objectFit": false,
+		"title": "Доблестные Доспехи Костяной Косы",
+		"description": "Первый комплект брони для разбойника из рейда 80-го уровня Наксрамас 25 игроков дополнения",
+		"descriptionTrim": "Верховный Лич вернулся! И снова будет повержен! Некромантия вам не страшна!",
+		"addition": "Wrath of the Lich King",
+		"price": 300
+	},
+
+	{
+		"id": "ValorousTerrorbladeBattlegear",
+		"type": "rogue",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/rogue/Valorous-Terrorblade-Battlegear.png",
+		"objectFit": false,
+		"title": "Доблестная Клинковая Броня",
+		"description": "Второй комплект брони для разбойника из рейда 80-го уровня Осада Ульдуара 10 игроков дополнения",
+		"descriptionTrim": "Бог Смерти будет повержен! Невероятная защита от безумия!",
+		"addition": "Wrath of the Lich King",
+		"price": 300
+	},
+
+	{
+		"id": "ValorousTerrorbladeBattlegearRecolor",
+		"type": "rogue",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/rogue/Valorous-Terrorblade-Battlegear-recolor.png",
+		"objectFit": false,
+		"title": "Доблестная Клинковая Броня Путешественника из Другого Мира",
+		"description": "Кажется, сюда затесалась какая-то подозрительно похожая, но не родная броня из другого времени дополнения",
+		"descriptionTrim": "Альтернативный вариант прославленных доспехов, появившийся в иных измерениях Азерота. Обладает той же несокрушимой силой, что и оригинал, но несет в себе отпечаток другой истории.",
+		"addition": "Wrath of the Lich King",
+		"price": 300
+	},
+
+	{
+		"id": "ConquerorsTerrorbladeBattlegear",
+		"type": "rogue",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/rogue/Conquerors-Terrorblade-Battlegear.png",
+		"objectFit": false,
+		"title": "Клинковая Броня Завоевателя",
+		"description": "Второй комплект брони для воина из разбойника 80-го уровня Осада Ульдуара 25 игроков дополнения",
+		"descriptionTrim": "Бог Смерти будет повержен! Невероятная защита от безумия!",
+		"addition": "Wrath of the Lich King",
+		"price": 300
+	},
+
+	{
+		"id": "ConquerorsTerrorbladeBattlegearRecolor",
+		"type": "rogue",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/rogue/Conquerors-Terrorblade-Battlegear-recolor.png",
+		"objectFit": false,
+		"title": "Клинковая Броня Завоевателя Путешественника из Другого Мира",
+		"description": "Кажется, сюда затесалась какая-то подозрительно похожая, но не родная броня из другого времени дополнения",
+		"descriptionTrim": "Альтернативный вариант прославленных доспехов, появившийся в иных измерениях Азерота. Обладает той же несокрушимой силой, что и оригинал, но несет в себе отпечаток другой истории.",
+		"addition": "Wrath of the Lich King",
+		"price": 300
+	},
+
+	{
+		"id": "HellscreamsBattlegear",
+		"type": "warrior",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/warrior/Hellscreams-Battlegear.png",
+		"objectFit": false,
+		"title": "Броня Адского Крика",
+		"description": "Третий комплект брони для воина из рейда 80-го уровня Испытание Крестоносца 10 и 25 игроков только для Орды дополнения",
+		"descriptionTrim": "Король Азжол-Неруба будет повержен! Слава Чемпионам Серебряного Авангарда!",
+		"addition": "Wrath of the Lich King",
+		"price": 300
+	},
+
+	{
+		"id": "WrynnsBattlegear",
+		"type": "warrior",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/warrior/Wrynns-Battlegear.png",
+		"objectFit": false,
+		"title": "Броня Ринна",
+		"description": "Третий комплект брони для воина из рейда 80-го уровня Испытание Крестоносца 10 и 25 игроков только для Альянса дополнения",
+		"descriptionTrim": "Король Азжол-Неруба будет повержен! Слава Чемпионам Серебряного Авангарда!",
+		"addition": "Wrath of the Lich King",
+		"price": 300
+	},
+
+	{
+		"id": "YmirjarLordsBattlegear",
+		"type": "warrior",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/warrior/Ymirjar-Lords-Battlegear.png",
+		"objectFit": false,
+		"title": "Броня Повелителя Имирьяров",
+		"description": "Четвертый комплект брони для воина из рейда 80-го уровня Цитадель Ледяной Короны 10 игроков обычного уровня сложности дополнения",
+		"descriptionTrim": "Король Лич будет повержен! Эту Броню носит сам Верховный Воевода Саурфанг! Свет защитит вас!",
+		"addition": "Wrath of the Lich King",
+		"price": 300
+	},
+
+	{
+		"id": "SanctifiedYmirjarLordsBattlegear25Normal",
+		"type": "warrior",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/warrior/Sanctified-Ymirjar-Lords-Battlegear-25-normal.png",
+		"objectFit": false,
+		"title": "Освященная Броня Повелителя Имирьяров",
+		"description": "Четвертый комплект брони для воина из рейда 80-го уровня Цитадель Ледяной Короны 10 или 25 игроков героического/обычного уровня сложности дополнения",
+		"descriptionTrim": "Король Лич будет повержен! Эту Броню носит сам Верховный Воевода Саурфанг! Свет защитит вас!",
+		"addition": "Wrath of the Lich King",
+		"price": 300
+	},
+
+	{
+		"id": "SanctifiedYmirjarLordsBattlegear25Heroic",
+		"type": "warrior",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/warrior/Sanctified-Ymirjar-Lords-Battlegear-25-heroic.png",
+		"objectFit": false,
+		"title": "Освященная Броня Повелителя Имирьяров",
+		"description": "Четвертый комплект брони для воина из рейда 80-го уровня Цитадель Ледяной Короны 25 игроков героического уровня сложности дополнения",
+		"descriptionTrim": "Король Лич будет повержен! Эту Броню носит сам Верховный Воевода Саурфанг! Свет защитит вас!",
+		"addition": "Wrath of the Lich King",
+		"price": 300
 	}
 ]
