@@ -174,7 +174,7 @@ https://www.wowhead.com/ru/guide/transmogrification/all-transmog-sets-for-warrio
 
 тир 1-6 - шаман
 тир 1-6 - хант
-тир 1-3 - рога
+тир 1-6 - рога
 
 пал добавить тир 4 и тир 5
 
@@ -182,7 +182,8 @@ https://www.wowhead.com/ru/guide/transmogrification/all-transmog-sets-for-warrio
 ru/
 
 
-
+рога Доспехи Убийцы и Доспехи Убийцы Солнечного Колодца, Снежный Кожаный Комплект,
+Броня из Драконьей Шкуры, Боевое Снаряжение Кенарийского Целителя, Боевое Облачение Лунной Поляны, Клинок Пустоты переделать
 
 
 

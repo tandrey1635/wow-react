@@ -5,7 +5,7 @@
 		"path": "",
 		"img": "/src/assets/img/raids-armours/bg/general/leather/rogue/Inferno-Hardened-Garb-rogue.png",
 		"objectFit": false,
-		"title": "Инфернальный Кожанный Доспех",
+		"title": "Инфернальный Кожаный Доспех",
 		"description": "Броня выкованная в сердце вулкана на древней наковальне стихий из чешуи поверженных исполинов и кожи гончих преисподней из Огненных Недр дополнения",
 		"descriptionTrim": "Первая несокрушимая награда за покорение пекла. Повелитель Огня я иду за тобой! Потрясающая защита от магии огня!",
 		"addition": "Classic",
@@ -35,7 +35,7 @@
 		"description": "Кажется, сюда затесалась какая-то подозрительно похожая, но не родная броня из другого времени дополнения",
 		"descriptionTrim": "Альтернативный вариант прославленных доспехов, появившийся в иных измерениях Азерота. Обладает той же несокрушимой силой, что и оригинал, но несет в себе отпечаток другой истории.",
 		"addition": "Classic",
-		"price": 200
+		"price": 100
 	},
 
 	{
@@ -48,7 +48,7 @@
 		"description": "Кажется, сюда затесалась какая-то подозрительно похожая, но не родная броня из другого времени дополнения",
 		"descriptionTrim": "Альтернативный вариант прославленных доспехов, появившийся в иных измерениях Азерота. Обладает той же несокрушимой силой, что и оригинал, но несет в себе отпечаток другой истории.",
 		"addition": "Classic",
-		"price": 200
+		"price": 100
 	},
 
 	{
@@ -279,7 +279,7 @@
 		"img": "/src/assets/img/raids-armours/bg/rogue/Conquerors-Terrorblade-Battlegear.png",
 		"objectFit": false,
 		"title": "Клинковая Броня Завоевателя",
-		"description": "Второй комплект брони для воина из разбойника 80-го уровня Осада Ульдуара 25 игроков дополнения",
+		"description": "Второй комплект брони для разбойника из рейда 80-го уровня Осада Ульдуара 25 игроков дополнения",
 		"descriptionTrim": "Бог Смерти будет повержен! Невероятная защита от безумия!",
 		"addition": "Wrath of the Lich King",
 		"price": 300
@@ -299,66 +299,66 @@
 	},
 
 	{
-		"id": "HellscreamsBattlegear",
-		"type": "warrior",
+		"id": "GaronasBattlegear",
+		"type": "rogue",
 		"path": "",
-		"img": "/src/assets/img/raids-armours/bg/warrior/Hellscreams-Battlegear.png",
+		"img": "/src/assets/img/raids-armours/bg/rogue/Garonas-Battlegear.png",
 		"objectFit": false,
-		"title": "Броня Адского Крика",
-		"description": "Третий комплект брони для воина из рейда 80-го уровня Испытание Крестоносца 10 и 25 игроков только для Орды дополнения",
+		"title": "Броня Гароны",
+		"description": "Третий комплект брони для разбойника из рейда 80-го уровня Испытание Крестоносца 10 и 25 игроков только для Орды дополнения",
 		"descriptionTrim": "Король Азжол-Неруба будет повержен! Слава Чемпионам Серебряного Авангарда!",
 		"addition": "Wrath of the Lich King",
 		"price": 300
 	},
 
 	{
-		"id": "WrynnsBattlegear",
-		"type": "warrior",
+		"id": "",
+		"type": "rogue",
 		"path": "",
-		"img": "/src/assets/img/raids-armours/bg/warrior/Wrynns-Battlegear.png",
+		"img": "/src/assets/img/raids-armours/bg/rogue/.png",
 		"objectFit": false,
 		"title": "Броня Ринна",
-		"description": "Третий комплект брони для воина из рейда 80-го уровня Испытание Крестоносца 10 и 25 игроков только для Альянса дополнения",
+		"description": "Третий комплект брони для разбойника из рейда 80-го уровня Испытание Крестоносца 10 и 25 игроков только для Альянса дополнения",
 		"descriptionTrim": "Король Азжол-Неруба будет повержен! Слава Чемпионам Серебряного Авангарда!",
 		"addition": "Wrath of the Lich King",
 		"price": 300
 	},
 
 	{
-		"id": "YmirjarLordsBattlegear",
-		"type": "warrior",
+		"id": "ShadowbladesBattlegear",
+		"type": "rogue",
 		"path": "",
-		"img": "/src/assets/img/raids-armours/bg/warrior/Ymirjar-Lords-Battlegear.png",
+		"img": "/src/assets/img/raids-armours/bg/rogue/Shadowblades-Battlegear.png",
 		"objectFit": false,
-		"title": "Броня Повелителя Имирьяров",
-		"description": "Четвертый комплект брони для воина из рейда 80-го уровня Цитадель Ледяной Короны 10 игроков обычного уровня сложности дополнения",
-		"descriptionTrim": "Король Лич будет повержен! Эту Броню носит сам Верховный Воевода Саурфанг! Свет защитит вас!",
+		"title": "Броня Теневого Клинка",
+		"description": "Четвертый комплект брони для разбойника из рейда 80-го уровня Цитадель Ледяной Короны 10 игроков обычного уровня сложности дополнения",
+		"descriptionTrim": "Король Лич будет повержен! Эту Броню носит сам Матиас Шоу! Свет защитит вас!",
 		"addition": "Wrath of the Lich King",
 		"price": 300
 	},
 
 	{
-		"id": "SanctifiedYmirjarLordsBattlegear25Normal",
-		"type": "warrior",
+		"id": "SanctifiedShadowbladesBattlegear25Normal",
+		"type": "rogue",
 		"path": "",
-		"img": "/src/assets/img/raids-armours/bg/warrior/Sanctified-Ymirjar-Lords-Battlegear-25-normal.png",
+		"img": "/src/assets/img/raids-armours/bg/rogue/Sanctified-Shadowblades-Battlegear-25-normal.png",
 		"objectFit": false,
-		"title": "Освященная Броня Повелителя Имирьяров",
-		"description": "Четвертый комплект брони для воина из рейда 80-го уровня Цитадель Ледяной Короны 10 или 25 игроков героического/обычного уровня сложности дополнения",
-		"descriptionTrim": "Король Лич будет повержен! Эту Броню носит сам Верховный Воевода Саурфанг! Свет защитит вас!",
+		"title": "Освященная Броня Теневого Клинка",
+		"description": "Четвертый комплект брони для разбойника из рейда 80-го уровня Цитадель Ледяной Короны 10 или 25 игроков героического/обычного уровня сложности дополнения",
+		"descriptionTrim": "Король Лич будет повержен! Эту Броню носит сам Матиас Шоу! Свет защитит вас!",
 		"addition": "Wrath of the Lich King",
 		"price": 300
 	},
 
 	{
-		"id": "SanctifiedYmirjarLordsBattlegear25Heroic",
-		"type": "warrior",
+		"id": "SanctifiedShadowbladesBattlegear25Heroic",
+		"type": "rogue",
 		"path": "",
-		"img": "/src/assets/img/raids-armours/bg/warrior/Sanctified-Ymirjar-Lords-Battlegear-25-heroic.png",
+		"img": "/src/assets/img/raids-armours/bg/rogue/Sanctified-Shadowblades-Battlegear-25-heroic.png",
 		"objectFit": false,
-		"title": "Освященная Броня Повелителя Имирьяров",
-		"description": "Четвертый комплект брони для воина из рейда 80-го уровня Цитадель Ледяной Короны 25 игроков героического уровня сложности дополнения",
-		"descriptionTrim": "Король Лич будет повержен! Эту Броню носит сам Верховный Воевода Саурфанг! Свет защитит вас!",
+		"title": "Освященная Броня Теневого Клинка",
+		"description": "Четвертый комплект брони для разбойника из рейда 80-го уровня Цитадель Ледяной Короны 25 игроков героического уровня сложности дополнения",
+		"descriptionTrim": "Король Лич будет повержен! Эту Броню носит сам Матиас Шоу! Свет защитит вас!",
 		"addition": "Wrath of the Lich King",
 		"price": 300
 	}
