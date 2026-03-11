@@ -54,6 +54,51 @@ const Promo = ({ races, horde, alliance, warrior, druid, priest, mage, monk, hun
 						shaman
 							? "promo__info_shaman"
 							:
+						legendaryWeapons
+							? "promo__info_weapons promo__info_weapons-legendary"
+							:
+						ashbringer
+							? "promo__info_weapons promo__info_weapons-legendary promo__info_weapons-legendary-ashbringer"
+							:
+						sulfuras
+							? "promo__info_weapons promo__info_weapons-legendary promo__info_weapons-legendary-sulfuras"
+							:
+						thunderfury
+							? "promo__info_weapons promo__info_weapons-legendary promo__info_weapons-legendary-thunderfury"
+							:
+						atiesh
+							? "promo__info_weapons promo__info_weapons-legendary promo__info_weapons-legendary-atiesh"
+							:
+						warglaivesOfAzzinoth
+							? "promo__info_weapons promo__info_weapons-legendary promo__info_weapons-legendary-warglaives-of-azzinoth"
+							:
+						thoridal
+							? "promo__info_weapons promo__info_weapons-legendary promo__info_weapons-legendary-thoridal"
+							:
+						valanyr
+							? "promo__info_weapons promo__info_weapons-legendary promo__info_weapons-legendary-valanyr"
+							:
+						frostmourne
+							? "promo__info_weapons promo__info_weapons-legendary promo__info_weapons-legendary-frostmourne"
+							:
+						shadowmourne
+							? "promo__info_weapons promo__info_weapons-legendary promo__info_weapons-legendary-shadowmourne"
+							:
+						tarecgosa
+							? "promo__info_weapons promo__info_weapons-legendary promo__info_weapons-legendary-tarecgosa"
+							:
+						fangsFather
+							? "promo__info_weapons promo__info_weapons-legendary promo__info_weapons-legendary-fangs-father"
+							:
+						raeshalareDeathsWhisper
+							? "promo__info_weapons promo__info_weapons-legendary promo__info_weapons-legendary-raeshalare"
+							:
+						fyralathTheDreamrender
+							? "promo__info_weapons promo__info_weapons-legendary promo__info_weapons-legendary-fyralath"
+							:
+						naszuroTheUnboundLegacy
+							? "promo__info_weapons promo__info_weapons-legendary promo__info_weapons-legendary-naszuro"
+							:
 						waterMounts
 							? "promo__info_water-mounts"
 							:
@@ -127,9 +172,6 @@ const Promo = ({ races, horde, alliance, warrior, druid, priest, mage, monk, hun
 							:
 						rangeWeapons
 							? "promo__raitings_range-weapons"
-							:
-						legendaryWeapons
-							? "promo__raitings_legendary-weapons"
 							:
 						artifactWeapons
 							? "promo__raitings_artifact-weapons"

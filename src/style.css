@@ -296,11 +296,6 @@ footer {
     font-size: 18px;
   }
 }
-@media (max-width: 425px) {
-  .announcement__text {
-    font-size: 16px;
-  }
-}
 
 .promo {
   padding: 32px 0;
@@ -380,6 +375,51 @@ footer {
 }
 .promo__info_shaman {
   background: url("/src/assets/img/promo/bg/classes/Shaman.png") no-repeat center/contain;
+}
+.promo__info_weapons-legendary {
+  background: url("/src/assets/img/promo/bg/weapons/legendary.png") no-repeat center/contain;
+}
+.promo__info_weapons-legendary-ashbringer {
+  background: url("/src/assets/img/weapons/bg/legendary/Ashbringer.png") no-repeat center/contain;
+}
+.promo__info_weapons-legendary-sulfuras {
+  background: url("/src/assets/img/weapons/bg/legendary/Sulfuras-Hand-of-Ragnaros.png") no-repeat center/contain;
+}
+.promo__info_weapons-legendary-thunderfury {
+  background: url("/src/assets/img/weapons/bg/legendary/Thunderfury-Blessed-Blade-of-the-Windseeker.png") no-repeat center/contain;
+}
+.promo__info_weapons-legendary-atiesh {
+  background: url("/src/assets/img/weapons/bg/legendary/Atiesh-Greatstaff-of-the-Guardian.png") no-repeat center/contain;
+}
+.promo__info_weapons-legendary-warglaives-of-azzinoth {
+  background: url("/src/assets/img/weapons/bg/legendary/Warglaives-of-Azzinoth.png") no-repeat center/contain;
+}
+.promo__info_weapons-legendary-thoridal {
+  background: url("/src/assets/img/weapons/bg/legendary/Thoridal-the-Stars-Fury.png") no-repeat center/contain;
+}
+.promo__info_weapons-legendary-valanyr {
+  background: url("/src/assets/img/weapons/bg/legendary/Valanyr-Hammer-of-Ancient-Kings.png") no-repeat center/contain;
+}
+.promo__info_weapons-legendary-frostmourne {
+  background: url("/src/assets/img/weapons/bg/legendary/Frostmourne.png") no-repeat center/contain;
+}
+.promo__info_weapons-legendary-shadowmourne {
+  background: url("/src/assets/img/weapons/bg/legendary/Shadowmourne.png") no-repeat center/contain;
+}
+.promo__info_weapons-legendary-tarecgosa {
+  background: url("/src/assets/img/weapons/bg/legendary/Dragonwrath-Tarecgosas-Rest.png") no-repeat center/contain;
+}
+.promo__info_weapons-legendary-fangs-father {
+  background: url("/src/assets/img/weapons/bg/legendary/Fangs-of-the-Father.png") no-repeat center/contain;
+}
+.promo__info_weapons-legendary-raeshalare {
+  background: url("/src/assets/img/weapons/bg/legendary/Raeshalare-Deaths-Whisper.png") no-repeat center/contain;
+}
+.promo__info_weapons-legendary-fyralath {
+  background: url("/src/assets/img/weapons/bg/legendary/Fyralath-the-Dreamrender.png") no-repeat center/contain;
+}
+.promo__info_weapons-legendary-naszuro {
+  background: url("/src/assets/img/weapons/bg/legendary/Naszuro-the-Unbound-Legacy.png") no-repeat center/contain;
 }
 .promo__info_water-mounts {
   background: url("/src/assets/img/promo/bg/mounts/water.png") no-repeat center/contain;
