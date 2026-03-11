@@ -17,7 +17,7 @@ const NaszuroTheUnboundLegacy = () => {
 			<Main>
 				<h1 style={{fontSize: 120}} className="text-center text-danger">В разработке</h1>
 				<Announcement legendaryWeapons fyralathTheDreamrender />
-				<Promo fyralathTheDreamrender />
+				<Promo legendaryWeapons fyralathTheDreamrender />
 				<Cards legendaryWeaponDetails />
 			</Main>
 			<Footer />

@@ -1,6 +1,5 @@
 const Promo = ({ races, horde, alliance, warrior, druid, priest, mage, monk, hunter, demonHunter, paladin, awakener, rogue, deathKnight, warlock, shaman, oneHandedWeapons, twoHandedWeapons, rangeWeapons, legendaryWeapons, artifactWeapons, decorativeWeapons, twoHandedAxes, ashbringer, sulfuras, thunderfury, atiesh, warglaivesOfAzzinoth, thoridal, valanyr, frostmourne, shadowmourne, tarecgosa, fangsFather, raeshalareDeathsWhisper, fyralathTheDreamrender, naszuroTheUnboundLegacy, armsWarrior, furyWarrior, protectionWarrior, shields, cloaks, tabards, fishingRods, waterMounts, earthMounts, flyMounts, alchemy, mining, engineering, leatherworking, blacksmithing, enchanting,  inscription, tailoring, skinning, herbalism, jewelcrafting, archaeology, riding, cooking, firstAid, fishing, junkyardTinkering, protoformSynthesis, honour, arena, rbg, classic, burningCrusade, wrathOfTheLichKing, cataclysm, mistsOfPandaria, warlordsOfDraenor, legion, battleForAzeroth, shadowlands, dragonflight, warWithin, midnight, lastTitan, lvlUpBase, lvlUpExpert, lvlUpMaster, quests, legacy, greatFeats, warcraftReforged, wowAnniversary, diablo, hearthstone, heroesStorm, starcraft, overwatch, wowCollectionEditions, diabloCollectionEditions }) => {
 
-
 	return (
 		<section className="promo">
 			<div className="container-fluid">
@@ -55,49 +54,50 @@ const Promo = ({ races, horde, alliance, warrior, druid, priest, mage, monk, hun
 							? "promo__info_shaman"
 							:
 						legendaryWeapons
-							? "promo__info_weapons promo__info_weapons-legendary"
-							:
-						ashbringer
-							? "promo__info_weapons promo__info_weapons-legendary promo__info_weapons-legendary-ashbringer"
-							:
-						sulfuras
-							? "promo__info_weapons promo__info_weapons-legendary promo__info_weapons-legendary-sulfuras"
-							:
-						thunderfury
-							? "promo__info_weapons promo__info_weapons-legendary promo__info_weapons-legendary-thunderfury"
-							:
-						atiesh
-							? "promo__info_weapons promo__info_weapons-legendary promo__info_weapons-legendary-atiesh"
-							:
-						warglaivesOfAzzinoth
-							? "promo__info_weapons promo__info_weapons-legendary promo__info_weapons-legendary-warglaives-of-azzinoth"
-							:
-						thoridal
-							? "promo__info_weapons promo__info_weapons-legendary promo__info_weapons-legendary-thoridal"
-							:
-						valanyr
-							? "promo__info_weapons promo__info_weapons-legendary promo__info_weapons-legendary-valanyr"
-							:
-						frostmourne
-							? "promo__info_weapons promo__info_weapons-legendary promo__info_weapons-legendary-frostmourne"
-							:
-						shadowmourne
-							? "promo__info_weapons promo__info_weapons-legendary promo__info_weapons-legendary-shadowmourne"
-							:
-						tarecgosa
-							? "promo__info_weapons promo__info_weapons-legendary promo__info_weapons-legendary-tarecgosa"
-							:
-						fangsFather
-							? "promo__info_weapons promo__info_weapons-legendary promo__info_weapons-legendary-fangs-father"
-							:
-						raeshalareDeathsWhisper
-							? "promo__info_weapons promo__info_weapons-legendary promo__info_weapons-legendary-raeshalare"
-							:
-						fyralathTheDreamrender
-							? "promo__info_weapons promo__info_weapons-legendary promo__info_weapons-legendary-fyralath"
-							:
-						naszuroTheUnboundLegacy
-							? "promo__info_weapons promo__info_weapons-legendary promo__info_weapons-legendary-naszuro"
+							? "promo__info_weapons" + ' ' +
+							(ashbringer
+								? "promo__info_weapons-legendary promo__info_weapons-legendary-ashbringer"
+								:
+							sulfuras
+								? "promo__info_weapons-legendary promo__info_weapons-legendary-sulfuras"
+								:
+							thunderfury
+								? "promo__info_weapons-legendary promo__info_weapons-legendary-thunderfury"
+								:
+							atiesh
+								? "promo__info_weapons-legendary promo__info_weapons-legendary-atiesh"
+								:
+							warglaivesOfAzzinoth
+								? "promo__info_weapons-legendary promo__info_weapons-legendary-warglaives-of-azzinoth"
+								:
+							thoridal
+								? "promo__info_weapons-legendary promo__info_weapons-legendary-thoridal"
+								:
+							valanyr
+								? "promo__info_weapons-legendary promo__info_weapons-legendary-valanyr"
+								:
+							frostmourne
+								? "promo__info_weapons-legendary promo__info_weapons-legendary-frostmourne"
+								:
+							shadowmourne
+								? "promo__info_weapons-legendary promo__info_weapons-legendary-shadowmourne"
+								:
+							tarecgosa
+								? "promo__info_weapons-legendary promo__info_weapons-legendary-tarecgosa"
+								:
+							fangsFather
+								? "promo__info_weapons-legendary promo__info_weapons-legendary-fangs-father"
+								:
+							raeshalareDeathsWhisper
+								? "promo__info_weapons-legendary promo__info_weapons-legendary-raeshalare"
+								:
+							fyralathTheDreamrender
+								? "promo__info_weapons-legendary promo__info_weapons-legendary-fyralath"
+								:
+							naszuroTheUnboundLegacy
+								? "promo__info_weapons-legendary promo__info_weapons-legendary-naszuro"
+								:
+								"promo__info_weapons-legendary")
 							:
 						waterMounts
 							? "promo__info_water-mounts"
@@ -178,48 +178,6 @@ const Promo = ({ races, horde, alliance, warrior, druid, priest, mage, monk, hun
 							:
 						decorativeWeapons
 							? "promo__raitings_decorative-weapons"
-							:
-						ashbringer
-							? "promo__raitings_ashbringer"
-							:
-						sulfuras
-							? "promo__raitings_sulfuras"
-							:
-						thunderfury
-							? "promo__raitings_thunderfury"
-							:
-						atiesh
-							? "promo__raitings_atiesh"
-							:
-						warglaivesOfAzzinoth
-							? "promo__raitings_warglaives-of-azzinoth"
-							:
-						thoridal
-							? "promo__raitings_thoridal"
-							:
-						valanyr
-							? "promo__raitings_valanyr"
-							:
-						frostmourne
-							? "promo__raitings_frostmourne"
-							:
-						shadowmourne
-							? "promo__raitings_shadowmourne"
-							:
-						tarecgosa
-							? "promo__raitings_tarecgosa"
-							:
-						fangsFather
-							? "promo__raitings_fangs-of-the-father"
-							:
-						fyralathTheDreamrender
-							? "promo__raitings_fyralath-the-dreamrender"
-							:
-						naszuroTheUnboundLegacy
-							? "promo__raitings_naszuro-the-unbound-legacy"
-							:
-						raeshalareDeathsWhisper
-							? "promo__raitings_raeshalare-deaths-whisper"
 							:
 						armsWarrior
 							? "promo__raitings_arms-warrior"

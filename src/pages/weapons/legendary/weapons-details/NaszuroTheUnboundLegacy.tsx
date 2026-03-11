@@ -17,7 +17,7 @@ const NaszuroTheUnboundLegacy = () => {
 			<Main>
 				<h1 style={{fontSize: 120}} className="text-center text-danger">В разработке</h1>
 				<Announcement legendaryWeapons naszuroTheUnboundLegacy />
-				<Promo naszuroTheUnboundLegacy />
+				<Promo legendaryWeapons naszuroTheUnboundLegacy />
 				<Cards legendaryWeaponDetails />
 			</Main>
 			<Footer />

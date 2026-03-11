@@ -6,7 +6,7 @@
 		"img": "/src/assets/img/promo/bg/classes/Warrior.png",
 		"objectFit": false,
 		"title": "Воин",
-		"description": "Комплекты рейдовой брони для Воина",
+		"description": "Комплекты рейдовой брони для Воина.",
 		"price": 100
 	},
 
@@ -17,7 +17,7 @@
 		"img": "/src/assets/img/promo/bg/classes/Druid.png",
 		"objectFit": false,
 		"title": "Друид",
-		"description": "Комплекты рейдовой брони для Друида",
+		"description": "Комплекты рейдовой брони для Друида.",
 		"price": 100
 	},
 
@@ -28,7 +28,7 @@
 		"img": "/src/assets/img/promo/bg/classes/Priest.png",
 		"objectFit": false,
 		"title": "Жрец",
-		"description": "Комплекты рейдовой брони для Жреца",
+		"description": "Комплекты рейдовой брони для Жреца.",
 		"price": 100
 	},
 
@@ -39,7 +39,7 @@
 		"img": "/src/assets/img/promo/bg/classes/Mage.png",
 		"objectFit": false,
 		"title": "Маг",
-		"description": "Комплекты рейдовой брони для Мага",
+		"description": "Комплекты рейдовой брони для Мага.",
 		"price": 100
 	},
 
@@ -50,7 +50,7 @@
 		"img": "/src/assets/img/promo/bg/classes/Monk.png",
 		"objectFit": false,
 		"title": "Монах",
-		"description": "Комплекты рейдовой брони для Монаха",
+		"description": "Комплекты рейдовой брони для Монаха.",
 		"price": 100
 	},
 
@@ -61,7 +61,7 @@
 		"img": "/src/assets/img/promo/bg/classes/Hunter.png",
 		"objectFit": false,
 		"title": "Охотник",
-		"description": "Комплекты рейдовой брони для Охотника",
+		"description": "Комплекты рейдовой брони для Охотника.",
 		"price": 100
 	},
 
@@ -72,7 +72,7 @@
 		"img": "/src/assets/img/promo/bg/classes/Demon-Hunter.png",
 		"objectFit": false,
 		"title": "Охотник на Демонов",
-		"description": "Комплекты рейдовой брони для Охотника на Демонов",
+		"description": "Комплекты рейдовой брони для Охотника на Демонов.",
 		"price": 100
 	},
 
@@ -83,7 +83,7 @@
 		"img": "/src/assets/img/promo/bg/classes/Paladin.png",
 		"objectFit": false,
 		"title": "Паладин",
-		"description": "Комплекты рейдовой брони для Паладина",
+		"description": "Комплекты рейдовой брони для Паладина.",
 		"price": 100
 	},
 
@@ -94,7 +94,7 @@
 		"img": "/src/assets/img/promo/bg/classes/Awakener.png",
 		"objectFit": false,
 		"title": "Пробудитель",
-		"description": "Комплекты рейдовой брони для Пробудителя",
+		"description": "Комплекты рейдовой брони для Пробудителя.",
 		"price": 100
 	},
 
@@ -105,7 +105,7 @@
 		"img": "/src/assets/img/promo/bg/classes/Rogue.png",
 		"objectFit": false,
 		"title": "Разбойник",
-		"description": "Комплекты рейдовой брони для Разбойника",
+		"description": "Комплекты рейдовой брони для Разбойника.",
 		"price": 100
 	},
 
@@ -116,7 +116,7 @@
 		"img": "/src/assets/img/promo/bg/classes/Death-Knight.png",
 		"objectFit": false,
 		"title": "Рыцарь Смерти",
-		"description": "Комплекты рейдовой брони для Рыцаря Смерти",
+		"description": "Комплекты рейдовой брони для Рыцаря Смерти.",
 		"price": 100
 	},
 
@@ -127,7 +127,7 @@
 		"img": "/src/assets/img/promo/bg/classes/Warlock.png",
 		"objectFit": false,
 		"title": "Чернокнижник",
-		"description": "Комплекты рейдовой брони для Чернокнижника",
+		"description": "Комплекты рейдовой брони для Чернокнижника.",
 		"price": 100
 	},
 
@@ -138,7 +138,7 @@
 		"img": "/src/assets/img/promo/bg/classes/Shaman.png",
 		"objectFit": false,
 		"title": "Шаман",
-		"description": "Комплекты рейдовой брони для Шамана",
+		"description": "Комплекты рейдовой брони для Шамана.",
 		"price": 100
 	}
 ]

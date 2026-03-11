@@ -17,7 +17,7 @@ const Atiesh = () => {
 			<Main>
 				<h1 style={{fontSize: 120}} className="text-center text-danger">В разработке</h1>
 				<Announcement legendaryWeapons atiesh />
-				<Promo atiesh />
+				<Promo legendaryWeapons atiesh />
 				<Cards legendaryWeaponDetails />
 			</Main>
 			<Footer />

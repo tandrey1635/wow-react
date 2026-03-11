@@ -17,7 +17,7 @@ const Valanyr = () => {
 			<Main>
 				<h1 style={{fontSize: 120}} className="text-center text-danger">В разработке</h1>
 				<Announcement legendaryWeapons valanyr />
-				<Promo valanyr />
+				<Promo legendaryWeapons valanyr />
 				<Cards legendaryWeaponDetails />
 			</Main>
 			<Footer />

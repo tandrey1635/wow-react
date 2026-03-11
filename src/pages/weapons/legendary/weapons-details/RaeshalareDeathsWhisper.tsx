@@ -16,7 +16,7 @@ const FangsFather = () => {
 			<Main>
 				<h1 style={{fontSize: 120}} className="text-center text-danger">В разработке</h1>
 				<Announcement legendaryWeapons raeshalareDeathsWhisper />
-				<Promo raeshalareDeathsWhisper />
+				<Promo legendaryWeapons raeshalareDeathsWhisper />
 				<Cards legendaryWeaponDetails />
 			</Main>
 			<Footer />
