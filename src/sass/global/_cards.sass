@@ -125,11 +125,12 @@
 	&-weapons
 		background: $defaultBg
 		&-legendary
+			color: $weaponsLegendaryColor
 			background: $weaponsLegendaryBg
 			[alt]
 				color: $weaponsLegendaryColor
 			&:hover
-				box-shadow: 0 0 2px 5px $weaponsLegendaryCardHoverShadow
+				box-shadow: 0 0 2px 5px $weaponsLegendaryShadow
 		&-artifact
 			background: $weaponsArtifactBg
 			color: $weaponsArtifactColor
@@ -138,9 +139,12 @@
 			&:hover
 				box-shadow: 0 0 2px 5px $weaponsArtifactShadow
 		&-decorative
+			color: $weaponsDecorativeColor
 			background: $weaponsDecorativeBg
+			[alt]
+				color: $weaponsDecorativeColor
 			&:hover
-				box-shadow: 0 0 2px 5px $weaponsDecorativeCardHoverShadow
+				box-shadow: 0 0 2px 5px $weaponsDecorativeShadow
 	&-armours
 		background: $defaultBg
 		[alt]
@@ -148,11 +152,11 @@
 		&-legendary
 			background: $armoursLegendaryBg
 			&:hover
-				box-shadow: 0 0 2px 5px $armoursLegendaryCardHoverShadow
+				box-shadow: 0 0 2px 5px $armoursLegendaryShadow
 		&-artifact
 			background: $armoursArtifactBg
 			&:hover
-				box-shadow: 0 0 2px 5px $armoursArtifactCardHoverShadow
+				box-shadow: 0 0 2px 5px $armoursArtifactShadow
 	&-mounts
 		&-water
 			color: $waterMountsColor
@@ -162,17 +166,19 @@
 			&:hover
 				box-shadow: 0 0 2px 5px $waterMountsShadow
 		&-earth
+			color: $earthMountsColor
 			background: $earthMountsBg
 			[alt]
 				color: $earthMountsColor
 			&:hover
-				box-shadow: 0 0 2px 5px $earthMountsCardHoverShadow
+				box-shadow: 0 0 2px 5px $earthMountsShadow
 		&-fly
+			color: $flyMountsColor
 			background: $flyMountsBg
 			[alt]
 				color: $flyMountsColor
 			&:hover
-				box-shadow: 0 0 2px 5px $flyMountsCardHoverShadow
+				box-shadow: 0 0 2px 5px $flyMountsShadow
 	&-professions
 		background: $defaultBg
 	&-pvp
@@ -359,27 +365,10 @@
 		background: $racesColor
 		background-clip: text
 		color: transparent
-	&-horde
-		color: $hordeColor
-	&-alliance
-		color: $allianceColor
 	&-weapons
 		color: $weaponsColor
-		&-legendary
-			color: $weaponsLegendaryColor
-		&-decorative
-			color: $weaponsDecorativeColor
 	&-armours
 		color: $armoursColor
-		&-legendary
-			color: $armoursLegendaryColor
-		&-artifact
-			color: $armoursArtifactColor
-	&-mounts
-		&-earth
-			color: $earthMountsColor
-		&-fly
-			color: $flyMountsColor
 	&-pvp
 		color: $pvpColor
 	&-lvl-up
@@ -407,27 +396,10 @@
 		background: $racesColor
 		background-clip: text
 		color: transparent
-	&-horde
-		color: $hordeColor
-	&-alliance
-		color: $allianceColor
 	&-weapons
 		color: $weaponsColor
-		&-legendary
-			color: $weaponsLegendaryColor
-		&-decorative
-			color: $weaponsDecorativeColor
 	&-armours
 		color: $armoursColor
-		&-legendary
-			color: $armoursLegendaryColor
-		&-artifact
-			color: $armoursArtifactColor
-	&-mounts
-		&-earth
-			color: $earthMountsColor
-		&-fly
-			color: $flyMountsColor
 	&-pvp
 		color: $pvpColor
 	&-lvl-up
@@ -457,26 +429,8 @@
 		background: $racesColor
 		background-clip: text
 		color: transparent
-	&-horde
-		color: $hordeColor
-	&-alliance
-		color: $allianceColor
-	&-weapons
-		color: $weaponsColor
-		&-legendary
-			color: $weaponsLegendaryColor
-		&-decorative
-			color: $weaponsDecorativeColor
 	&-armours
 		color: $armoursColor
-		&-legendary
-			color: $armoursLegendaryColor
-		&-artifact
-			color: $armoursArtifactColor
-	&-mounts-earth
-		color: $earthMountsColor
-	&-mounts-fly
-		color: $flyMountsColor
 	&-pvp
 		color: $pvpColor
 	&-lvl-up

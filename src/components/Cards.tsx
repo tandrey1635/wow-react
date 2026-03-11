@@ -28,6 +28,7 @@ import dataWeapons from '../json/weapons/weapons.json';
 import dataTwoHandedWeapons from '../json/weapons/two-handed/weapons.json';
 import dataTwoHandedAxes from '../json/weapons/two-handed/axes/axes.json';
 import dataLegendaryWeapons from '../json/weapons/legendary/weapons.json';
+import dataDecorativeWeapons from '../json/weapons/decorative/weapons.json';
 
 
 import dataTwoHandedAxesWeaponDetails from '../json/weapons/two-handed/axes/axes-details.json';
@@ -118,7 +119,7 @@ import type { ICard, IWeaponDetails }  from "../types/card-types";
 
 
 
-const Cards = ({home, races, horde, alliance, raidsArmoursWarrior, raidsArmoursDruid, raidsArmoursPriest, raidsArmoursMage, raidsArmoursMonk, raidsArmoursHunter, raidsArmoursDemonHunter, raidsArmoursPaladin, raidsArmoursAwakener, raidsArmoursRogue, raidsArmoursDeathKnight, raidsArmoursWarlock, raidsArmoursShaman, twoHandedWeapons, twoHandedAxes, twoHandedAxesWeaponDetails, legendaryWeapons, legendaryWeaponDetails, classes, warriorArtifacts, druidArtifacts, priestArtifacts, mageArtifacts, monkArtifacts, hunterArtifacts, demonHunterArtifacts, paladinArtifacts, rogueArtifacts, deathKnightArtifacts, warlockArtifacts, shamanArtifacts, armsWarrior, furyWarrior, protectionWarrior, cloaks, waterMounts, flyMounts, additionsDungeons, additionsRaids, dungeonsClassic, dungeonsBurningCrusade, dungeonsWrathOfTheLichKing, dungeonsCataclysm, dungeonsMistsOfPandaria, dungeonsWarlordsOfDraenor, dungeonsLegion, dungeonsBattleForAzeroth, dungeonsShadowlands, dungeonsDragonflight, dungeonsWarWithin, dungeonsMidnight, dungeonsLastTitan, raidsClassic, raidsBurningCrusade, raidsWrathOfTheLichKing, raidsCataclysm, raidsMistsOfPandaria, raidsWarlordsOfDraenor, raidsLegion, raidsBattleForAzeroth, raidsShadowlands, raidsDragonflight, raidsWarWithin, raidsMidnight, raidsLastTitan, greatFeats, wowAnniversary, wowCollectionEditions}) => {
+const Cards = ({home, races, horde, alliance, raidsArmoursWarrior, raidsArmoursDruid, raidsArmoursPriest, raidsArmoursMage, raidsArmoursMonk, raidsArmoursHunter, raidsArmoursDemonHunter, raidsArmoursPaladin, raidsArmoursAwakener, raidsArmoursRogue, raidsArmoursDeathKnight, raidsArmoursWarlock, raidsArmoursShaman, twoHandedWeapons, twoHandedAxes, twoHandedAxesWeaponDetails, legendaryWeapons, legendaryWeaponDetails, decorativeWeapons, classes, warriorArtifacts, druidArtifacts, priestArtifacts, mageArtifacts, monkArtifacts, hunterArtifacts, demonHunterArtifacts, paladinArtifacts, rogueArtifacts, deathKnightArtifacts, warlockArtifacts, shamanArtifacts, armsWarrior, furyWarrior, protectionWarrior, cloaks, waterMounts, flyMounts, additionsDungeons, additionsRaids, dungeonsClassic, dungeonsBurningCrusade, dungeonsWrathOfTheLichKing, dungeonsCataclysm, dungeonsMistsOfPandaria, dungeonsWarlordsOfDraenor, dungeonsLegion, dungeonsBattleForAzeroth, dungeonsShadowlands, dungeonsDragonflight, dungeonsWarWithin, dungeonsMidnight, dungeonsLastTitan, raidsClassic, raidsBurningCrusade, raidsWrathOfTheLichKing, raidsCataclysm, raidsMistsOfPandaria, raidsWarlordsOfDraenor, raidsLegion, raidsBattleForAzeroth, raidsShadowlands, raidsDragonflight, raidsWarWithin, raidsMidnight, raidsLastTitan, greatFeats, wowAnniversary, wowCollectionEditions}) => {
 
 	const basePathImg = '/src/assets/img'
 
@@ -454,19 +455,17 @@ const Cards = ({home, races, horde, alliance, raidsArmoursWarrior, raidsArmoursD
 					}
 
 					{ twoHandedAxes &&
-						<div className="tab-pane fade show active" id="pills-raids-armour">
+						<>
 							<h3 className="text-success text-center fw-bold display-4">Всего Оружия: {counterCardItems(dataTwoHandedAxesWeaponDetails)}</h3>
 							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
 								{ renderCardItems(dataTwoHandedAxes) }
 							</div>
-						</div>
+						</>
 					}
 
 					{ twoHandedAxesWeaponDetails &&
-						<div className="tab-pane fade show active" id="pills-raids-armour">
-							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-								{ renderWeaponDetails(dataTwoHandedAxesWeaponDetails) }
-							</div>
+						<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
+							{ renderWeaponDetails(dataTwoHandedAxesWeaponDetails) }
 						</div>
 					}
 
@@ -480,114 +479,95 @@ const Cards = ({home, races, horde, alliance, raidsArmoursWarrior, raidsArmoursD
 					}
 
 					{ legendaryWeaponDetails &&
-						<div className="tab-pane fade show active" id="pills-raids-armour">
-							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-								{ renderWeaponDetails(dataLegendaryWeaponDetails) }
-							</div>
+						<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
+							{ renderWeaponDetails(dataLegendaryWeaponDetails) }
 						</div>
 					}
 
-					{ classes &&
-						<div className="tab-pane fade show active" id="pills-raids-armour">
-							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-								{ renderCardItems(dataClasses) }
+					{ decorativeWeapons &&
+						<>
+							<h3 className="text-success text-center fw-bold display-4">Всего Декоративного Оружия: {counterCardItems(dataDecorativeWeapons)}</h3>
+							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
+							{ renderCardItems(dataDecorativeWeapons) }
 							</div>
+						</>
+					}
+
+					{ classes &&
+						<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
+							{ renderCardItems(dataClasses) }
 						</div>
 					}
 
 					{ warriorArtifacts &&
-						<div className="tab-pane fade show active" id="pills-raids-armour">
-							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-								{ renderCardItems(dataWarriorArtifacts) }
-							</div>
+						<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
+							{ renderCardItems(dataWarriorArtifacts) }
 						</div>
 					}
 
 					{ druidArtifacts &&
-						<div className="tab-pane fade show active" id="pills-raids-armour">
-							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-								{ renderCardItems(dataDruidArtifacts) }
-							</div>
+						<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
+							{ renderCardItems(dataDruidArtifacts) }
 						</div>
 					}
 
 					{ priestArtifacts &&
-						<div className="tab-pane fade show active" id="pills-raids-armour">
-							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-								{ renderCardItems(dataPriestArtifacts) }
-							</div>
+						<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
+							{ renderCardItems(dataPriestArtifacts) }
 						</div>
 					}
 
 					{ mageArtifacts &&
-						<div className="tab-pane fade show active" id="pills-raids-armour">
-							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-								{ renderCardItems(dataMageArtifacts) }
-							</div>
+						<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
+							{ renderCardItems(dataMageArtifacts) }
 						</div>
 					}
 
 					{ monkArtifacts &&
-						<div className="tab-pane fade show active" id="pills-raids-armour">
-							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-								{ renderCardItems(dataMonkArtifacts) }
-							</div>
+						<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
+							{ renderCardItems(dataMonkArtifacts) }
 						</div>
 					}
 
 					{ hunterArtifacts &&
-						<div className="tab-pane fade show active" id="pills-raids-armour">
-							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-								{ renderCardItems(dataHunterArtifacts) }
-							</div>
+						<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
+							{ renderCardItems(dataHunterArtifacts) }
 						</div>
 					}
 
 					{ demonHunterArtifacts &&
-						<div className="tab-pane fade show active" id="pills-raids-armour">
-							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-								{ renderCardItems(dataDemonHunterArtifacts) }
-							</div>
+						<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
+							{ renderCardItems(dataDemonHunterArtifacts) }
 						</div>
 					}
 
 					{ paladinArtifacts &&
-						<div className="tab-pane fade show active" id="pills-raids-armour">
-							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-								{ renderCardItems(dataPaladinArtifacts) }
-							</div>
+						<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
+							{ renderCardItems(dataPaladinArtifacts) }
 						</div>
 					}
 
 					{ rogueArtifacts &&
-						<div className="tab-pane fade show active" id="pills-raids-armour">
-							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-								{ renderCardItems(dataRogueArtifacts) }
-							</div>
+						<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
+							{ renderCardItems(dataRogueArtifacts) }
 						</div>
 					}
 
 					{ deathKnightArtifacts &&
-						<div className="tab-pane fade show active" id="pills-raids-armour">
-							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-								{ renderCardItems(dataDeathKnightArtifacts) }
-							</div>
+						<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
+							{ renderCardItems(dataDeathKnightArtifacts) }
 						</div>
 					}
 
 					{ warlockArtifacts &&
-						<div className="tab-pane fade show active" id="pills-raids-armour">
-							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-								{ renderCardItems(dataWarlockArtifacts) }
-							</div>
+						<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
+							{ renderCardItems(dataWarlockArtifacts) }
 						</div>
 					}
 
 					{ shamanArtifacts &&
-						<div className="tab-pane fade show active" id="pills-raids-armour">
-							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-								{ renderCardItems(dataShamanArtifacts) }
-							</div>
+						<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
+							{ renderCardItems(dataShamanArtifacts) }
 						</div>
 					}
 
@@ -601,18 +581,14 @@ const Cards = ({home, races, horde, alliance, raidsArmoursWarrior, raidsArmoursD
 					}
 
 					{ furyWarrior &&
-						<div className="tab-pane fade show active" id="pills-raids-armour">
-							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-								{ renderCardItems(dataFuryWarriorArtifact) }
-							</div>
+						<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
+							{ renderCardItems(dataFuryWarriorArtifact) }
 						</div>
 					}
 
 					{ protectionWarrior &&
-						<div className="tab-pane fade show active" id="pills-raids-armour">
-							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-								{ renderCardItems(dataProtectionWarriorArtifact) }
-							</div>
+						<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
+							{ renderCardItems(dataProtectionWarriorArtifact) }
 						</div>
 					}
 

@@ -421,6 +421,9 @@ footer {
 .promo__info_weapons-legendary-naszuro {
   background: url("/src/assets/img/weapons/bg/legendary/Naszuro-the-Unbound-Legacy.png") no-repeat center/contain;
 }
+.promo__info_weapons-decorative {
+  background: url("/src/assets/img/promo/bg/weapons/decorative.png") no-repeat center/contain;
+}
 .promo__info_water-mounts {
   background: url("/src/assets/img/promo/bg/mounts/water.png") no-repeat center/contain;
 }
@@ -724,6 +727,7 @@ footer {
   background: linear-gradient(325deg, #8400ff, transparent 30%, transparent 35%, #8400ff, transparent);
 }
 .card-weapons-legendary {
+  color: #ff8000;
   background: linear-gradient(325deg, #ff8000, transparent 30%, transparent 35%, #ff8000, transparent);
 }
 .card-weapons-legendary [alt] {
@@ -743,7 +747,11 @@ footer {
   box-shadow: 0 0 2px 5px #d9c798;
 }
 .card-weapons-decorative {
+  color: #dc3ef3;
   background: linear-gradient(325deg, #dc3ef3, transparent 30%, transparent 35%, #dc3ef3, transparent);
+}
+.card-weapons-decorative [alt] {
+  color: #dc3ef3;
 }
 .card-weapons-decorative:hover {
   box-shadow: 0 0 2px 5px #dc3ef3;
@@ -777,6 +785,7 @@ footer {
   box-shadow: 0 0 2px 5px #00ffff;
 }
 .card-mounts-earth {
+  color: #854c27;
   background: linear-gradient(325deg, #854c27, transparent 30%, transparent 35%, #854c27, transparent);
 }
 .card-mounts-earth [alt] {
@@ -786,6 +795,7 @@ footer {
   box-shadow: 0 0 2px 5px #854c27;
 }
 .card-mounts-fly {
+  color: #2e86e5;
   background: linear-gradient(325deg, #2e86e5, transparent 30%, transparent 35%, #2e86e5, transparent);
 }
 .card-mounts-fly [alt] {
@@ -1066,35 +1076,11 @@ footer {
           background-clip: text;
   color: transparent;
 }
-.card-title-horde {
-  color: #b90c1c;
-}
-.card-title-alliance {
-  color: #037afb;
-}
 .card-title-weapons {
   color: #8400ff;
 }
-.card-title-weapons-legendary {
-  color: #ff8000;
-}
-.card-title-weapons-decorative {
-  color: #dc3ef3;
-}
 .card-title-armours {
   color: #8400ff;
-}
-.card-title-armours-legendary {
-  color: #ff8000;
-}
-.card-title-armours-artifact {
-  color: #d9c798;
-}
-.card-title-mounts-earth {
-  color: #854c27;
-}
-.card-title-mounts-fly {
-  color: #2e86e5;
 }
 .card-title-pvp {
   color: #ff0033;
@@ -1133,35 +1119,11 @@ footer {
           background-clip: text;
   color: transparent;
 }
-.card-text-horde {
-  color: #b90c1c;
-}
-.card-text-alliance {
-  color: #037afb;
-}
 .card-text-weapons {
   color: #8400ff;
 }
-.card-text-weapons-legendary {
-  color: #ff8000;
-}
-.card-text-weapons-decorative {
-  color: #dc3ef3;
-}
 .card-text-armours {
   color: #8400ff;
-}
-.card-text-armours-legendary {
-  color: #ff8000;
-}
-.card-text-armours-artifact {
-  color: #d9c798;
-}
-.card-text-mounts-earth {
-  color: #854c27;
-}
-.card-text-mounts-fly {
-  color: #2e86e5;
 }
 .card-text-pvp {
   color: #ff0033;
@@ -1203,35 +1165,8 @@ footer {
           background-clip: text;
   color: transparent;
 }
-.card-price-horde {
-  color: #b90c1c;
-}
-.card-price-alliance {
-  color: #037afb;
-}
-.card-price-weapons {
-  color: #8400ff;
-}
-.card-price-weapons-legendary {
-  color: #ff8000;
-}
-.card-price-weapons-decorative {
-  color: #dc3ef3;
-}
 .card-price-armours {
   color: #8400ff;
-}
-.card-price-armours-legendary {
-  color: #ff8000;
-}
-.card-price-armours-artifact {
-  color: #d9c798;
-}
-.card-price-mounts-earth {
-  color: #854c27;
-}
-.card-price-mounts-fly {
-  color: #2e86e5;
 }
 .card-price-pvp {
   color: #ff0033;

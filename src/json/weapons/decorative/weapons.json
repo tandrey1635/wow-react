@@ -1,0 +1,34 @@
+[
+	{
+		"id": "SwabbiesOar",
+		"type": "decorative-weapons",
+		"path": "",
+		"img": "/src/assets/img/weapons/bg/decorative/Swabbies-Oar.png",
+		"objectFit": true,
+		"title": "Весло Юнги",
+		"description": "Воплощение веселья и отдыха. Кружки, факелы, лопаты и грабли все, что нужно герою после тяжелого рейда. И копье. На всякий случай.",
+		"price": 1000
+	},
+
+	{
+		"id": "SwabbiesShovel",
+		"type": "decorative-weapons",
+		"path": "",
+		"img": "/src/assets/img/weapons/bg/decorative/Swabbies-Shovel.png",
+		"objectFit": true,
+		"title": "Лопата Юнги",
+		"description": "Воплощение веселья и отдыха. Кружки, факелы, лопаты и грабли все, что нужно герою после тяжелого рейда. И копье. На всякий случай.",
+		"price": 1000
+	},
+
+	{
+		"id": "SwabbiesShovel",
+		"type": "decorative-weapons",
+		"path": "",
+		"img": "/src/assets/img/weapons/bg/decorative/Swabbies-Shovel.png",
+		"objectFit": false,
+		"title": "Лопата Юнги",
+		"description": "Воплощение веселья и отдыха. Кружки, факелы, лопаты и грабли все, что нужно герою после тяжелого рейда. И копье. На всякий случай.",
+		"price": 1000
+	}
+]

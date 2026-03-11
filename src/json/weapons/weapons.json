@@ -56,12 +56,12 @@
 
 	{
 		"id": "decorative-weapons",
-		"className": "card-weapons card-weapons-decorative",
+		"type": "decorative-weapons",
 		"path": "weapons/decorative",
-		"cardImg": "/src/assets/img/promo/bg/weapons/decorative.png",
+		"img": "/src/assets/img/promo/bg/weapons/decorative.png",
 		"objectFit": false,
-		"title": "Декоративное оружие",
-		"description": "Закажите любое декоративное оружие",
+		"title": "Декоративное Оружие",
+		"description": "Кружка пива, факел, грабли, лопата и копье. Набор настоящего героя: выпить после рейда, осветить подвал, вскопать грядку и, на всякий случай, вооружиться.",
 		"price": 1000
 	}
 ]

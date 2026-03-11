@@ -59,6 +59,9 @@ const Card = ({type, path, img, objectFit, title, description, descriptionTrim, 
 			type == "artifact-weapons"
 				? "card-weapons-artifact"
 				:
+			type == "decorative-weapons"
+				? "card-weapons-decorative"
+				:
 			type == "armours"
 				? "card-armours"
 				:

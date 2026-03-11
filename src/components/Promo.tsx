@@ -99,6 +99,9 @@ const Promo = ({ races, horde, alliance, warrior, druid, priest, mage, monk, hun
 								:
 								"promo__info_weapons-legendary")
 							:
+						decorativeWeapons
+							? "promo__info_weapons-decorative"
+							:
 						waterMounts
 							? "promo__info_water-mounts"
 							:
@@ -175,9 +178,6 @@ const Promo = ({ races, horde, alliance, warrior, druid, priest, mage, monk, hun
 							:
 						artifactWeapons
 							? "promo__raitings_artifact-weapons"
-							:
-						decorativeWeapons
-							? "promo__raitings_decorative-weapons"
 							:
 						armsWarrior
 							? "promo__raitings_arms-warrior"

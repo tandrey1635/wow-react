@@ -1,5 +1,5 @@
 const Announcement = ({ home, races, horde, alliance, warrior, druid, priest, mage, monk, hunter, demonHunter, paladin, awakener, rogue, deathKnight, warlock, shaman, oneHandedWeapons, twoHandedWeapons, rangeWeapons, legendaryWeapons, artifactWeapons, decorativeWeapons, twoHandedAxes, weaponsDetailsTitle, weaponsDetailsDescription, ashbringer, sulfuras, thunderfury, atiesh, warglaivesOfAzzinoth, thoridal, valanyr, frostmourne, shadowmourne, tarecgosa, fangsFather, raeshalareDeathsWhisper, fyralathTheDreamrender, naszuroTheUnboundLegacy, armsWarrior, furyWarrior, protectionWarrior, armours, shields, cloaks, tabards, fishingRods, waterMounts, earthMounts, flyMounts, professions, alchemy, mining, engineering, leatherworking, blacksmithing, enchanting,  inscription, tailoring, skinning, herbalism, jewelcrafting, archaeology, riding, cooking, firstAid, fishing, junkyardTinkering, protoformSynthesis, pvp, honour, arena, rbg, additionsDungeons, additionsRaids, dungeonsClassic, dungeonsBurningCrusade, dungeonsWrathOfTheLichKing, dungeonsCataclysm, dungeonsMistsOfPandaria, dungeonsWarlordsOfDraenor, dungeonsLegion, dungeonsBattleForAzeroth, dungeonsShadowlands, dungeonsDragonflight, dungeonsWarWithin, dungeonsMidnight, dungeonsLastTitan, raidsClassic, raidsBurningCrusade, raidsWrathOfTheLichKing, raidsCataclysm, raidsMistsOfPandaria, raidsWarlordsOfDraenor, raidsLegion, raidsBattleForAzeroth, raidsShadowlands, raidsDragonflight, raidsWarWithin, raidsMidnight, raidsLastTitan, lvlUp, lvlUpBase, lvlUpExpert, lvlUpMaster, achievements, quests, legacy, greatFeats, warcraftReforged, wowAnniversary, diablo, hearthstone, heroesStorm, starcraft, overwatch, wowCollectionEditions, diabloCollectionEditions }) => {
-	
+
 	return (
 		<section className="announcement">
 			<div className="container">
@@ -197,35 +197,49 @@ const Announcement = ({ home, races, horde, alliance, warrior, druid, priest, ma
 								? "Комплекты рейдовой брони\n для шамана"
 								:
 							legendaryWeapons
-  								? ashbringer
+  								?
+								ashbringer
     								? "Испепелитель"
-    							: sulfuras
+    								:
+								sulfuras
       								? "Сульфурас, Рука Рагнароса"
-      							: thunderfury
+      								:
+								thunderfury
         							? "Громовая Ярость, благословенный клинок Искателя Ветра"
-        						: atiesh
+        							:
+								atiesh
           							? "Атиеш, великий посох Хранителя"
-          						: warglaivesOfAzzinoth
+          							:
+								warglaivesOfAzzinoth
             						? "Боевые клинки Аззинота"
-            					: thoridal
+            						:
+								thoridal
               						? "Тори'дал, Звездная Ярость"
-              					: valanyr
+              						:
+								valanyr
                 					? "Вал'анир, молот древних королей"
-                				: frostmourne
+                					:
+								frostmourne
                   					? "Ледяная скорбь"
-                  				: shadowmourne
+                  					:
+								shadowmourne
                     				? "Темная Скорбь"
-                    			: tarecgosa
+                    				:
+								tarecgosa
                       				? "Гнев Дракона, вечный покой Таресгосы"
-                      			: fangsFather
+                      				:
+								fangsFather
                         			? "Клыки отца"
-                        		: raeshalareDeathsWhisper
+                        			:
+								raeshalareDeathsWhisper
                           			? "Раэ'шаларе, Шепот Смерти"
-                          		: fyralathTheDreamrender
+                          			:
+								fyralathTheDreamrender
                             		? "Фир'алат Воздаятель Снов"
-                            	: naszuroTheUnboundLegacy
+                            		:
+								naszuroTheUnboundLegacy
                               		? "Наз'уро, Высвобожденное Наследие"
-                              	: "Легендарное оружие"
+                              		: "Легендарное оружие"
 								:
 
 
