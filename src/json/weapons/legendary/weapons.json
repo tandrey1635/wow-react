@@ -3,9 +3,10 @@
 		"id": "Ashbringer",
 		"type": "legendary-weapons",
 		"path": "weapons-details/ashbringer",
-		"cardImg": "/src/assets/img/weapons/bg/legendary/Ashbringer.png",
+		"img": "/src/assets/img/weapons/bg/legendary/Ashbringer.png",
+		"objectFit": true,
 		"title": "Испепелитель",
-		"description": "Закажите Испепелитель",
+		"description": "Свет, заключенный в кристалл, обрел форму клинка. Александрос Могрейн нес в нем правосудие, обращая Плеть в пепел. Теперь этот меч ждет нового владельца, готового продолжить крестовый поход против тьмы.",
 		"price": 500
 	},
 
@@ -13,9 +14,10 @@
 		"id": "SulfurasHandOfRagnaros",
 		"type": "legendary-weapons",
 		"path": "weapons-details/sulfuras",
-		"cardImg": "/src/assets/img/weapons/bg/legendary/Sulfuras-Hand-of-Ragnaros.png",
+		"img": "/src/assets/img/weapons/bg/legendary/Sulfuras-Hand-of-Ragnaros.png",
+		"objectFit": false,
 		"title": "Сульфурас, Рука Рагнароса",
-		"description": "Закажите Сульфурас, Рука Рагнароса",
+		"description": "Выкованный в самом сердце Огненных Недр, этот легендарный молот пропитан яростью Повелителя Огня. Рагнарос обрушивал его на врагов, превращая армии в пепел одним ударом. Сульфурас пылает вечным пламенем и ждет того, кто сможет обуздать его ярость и направить разрушительную мощь на врагов Азерота.",
 		"price": 500
 	},
 
@@ -23,9 +25,10 @@
 		"id": "ThunderfuryBlessedBladeOfTheWindseeker",
 		"type": "legendary-weapons",
 		"path": "weapons-details/thunderfury",
-		"cardImg": "/src/assets/img/weapons/bg/legendary/Thunderfury-Blessed-Blade-of-the-Windseeker.png",
+		"img": "/src/assets/img/weapons/bg/legendary/Thunderfury-Blessed-Blade-of-the-Windseeker.png",
+		"objectFit": true,
 		"title": "Громовая Ярость, Благословенный Клинок Искателя Ветра",
-		"description": "Закажите Громовую Ярость, Благословенный Клинок Искателя Ветра",
+		"description": "Рожденный в буре и закаленный молниями, этот легендарный клинок хранит душу принца Воздуха Громораана. Освобожденная от оков Повелителя Огня, сила ветра и грома вновь готова обрушиться на врагов. Громовая Ярость ищет того, кто достоин повелевать самой стихией.",
 		"price": 500
 	},
 
@@ -33,9 +36,10 @@
 		"id": "AtieshGreatstaffOfTheGuardian",
 		"type": "legendary-weapons",
 		"path": "weapons-details/atiesh",
-		"cardImg": "/src/assets/img/weapons/bg/legendary/Atiesh-Greatstaff-of-the-Guardian.png",
+		"img": "/src/assets/img/weapons/bg/legendary/Atiesh-Greatstaff-of-the-Guardian.png",
+		"objectFit": true,
 		"title": "Атиеш, Великий Посох Хранителя",
-		"description": "Закажите Атиеш, Великий Посох Хранителя",
+		"description": "Посох последнего Хранителя Тирисфаля, впитавший силу Медива и его проклятие. Расколотый на части, чтобы не достаться Легиону, Атиеш веками ждал того, кто воссоединит его осколки и продолжит древнюю борьбу с тьмой, что грозит поглотить Азерот.",
 		"price": 500
 	},
 
@@ -43,9 +47,10 @@
 		"id": "WarglaivesOfAzzinoth",
 		"type": "legendary-weapons",
 		"path": "weapons-details/warglaives-of-azzinoth",
-		"cardImg": "/src/assets/img/weapons/bg/legendary/Warglaives-of-Azzinoth.png",
+		"img": "/src/assets/img/weapons/bg/legendary/Warglaives-of-Azzinoth.png",
+		"objectFit": false,
 		"title": "Боевые Клинки Аззинота",
-		"description": "Закажите Боевые Клинки Аззинота",
+		"description": "Выкованные в безднах Круговерти Пустоты, эти клинки веками пили кровь демонов и их врагов. Иллидан Ярость Бури вырвал их из рук павшего Аззинота и пронес через 10 000 лет изгнания. Клинки помнят вкус скверны и жаждут новых жертв, ожидая того, кто продолжит путь Иллидари.",
 		"price": 600
 	},
 
@@ -53,9 +58,10 @@
 		"id": "ThoridalTheStarsFury",
 		"type": "legendary-weapons",
 		"path": "weapons-details/thoridal",
-		"cardImg": "/src/assets/img/weapons/bg/legendary/Thoridal-the-Stars-Fury.png",
+		"img": "/src/assets/img/weapons/bg/legendary/Thoridal-the-Stars-Fury.png",
+		"objectFit": true,
 		"title": "Тори'дал, Звездная Ярость",
-		"description": "Закажите Тори'дал, Звездную Ярость",
+		"description": "Говорят, этот лук — застывший свет самого Солнечного Колодца. Другие шепчут, что им владела сама Аллерия Ветрокрылая, бесследно исчезнувшая за Темным Порталом. Тори'дал не раскрывает своих тайн, но каждый выпущенный снаряд пронзает саму тьму, оставляя за собой звездный свет.",
 		"price": 600
 	},
 
@@ -63,9 +69,10 @@
 		"id": "ValanyrHammerOfAncientKings",
 		"type": "legendary-weapons",
 		"path": "weapons-details/valanyr",
-		"cardImg": "/src/assets/img/weapons/bg/legendary/Valanyr-Hammer-of-Ancient-Kings.png",
+		"img": "/src/assets/img/weapons/bg/legendary/Valanyr-Hammer-of-Ancient-Kings.png",
+		"objectFit": false,
 		"title": "Вал'анир, Молот Древних Королей",
-		"description": "Закажите Вал'анир, Молот Древних Королей",
+		"description": "Дарованный самими титанами первому королю земельников, этот молот вдыхал жизнь в камень и созидал целые народы. Расколотый в древней войне и восстановленный в пасти самого Йогг-Сарона, Вал'анир обрел новую силу. Теперь он ждет того, кто сможет не разрушать, а созидать, даже стоя на руинах.",
 		"price": 700
 	},
 
@@ -73,9 +80,10 @@
 		"id": "Frostmourne",
 		"type": "legendary-weapons",
 		"path": "weapons-details/frostmourne",
-		"cardImg": "/src/assets/img/weapons/bg/legendary/Frostmourne.png",
+		"img": "/src/assets/img/weapons/bg/legendary/Frostmourne.png",
+		"objectFit": true,
 		"title": "Ледяная Скорбь",
-		"description": "Закажите Ледяную Скорбь",
+		"description": "Выкованный в пламени Преисподней и закаленный вечной мерзлотой, этот рунический клинок ждал своего часа в сердце Ледяной Короны. Принц Артас поднял его, чтобы спасти свой народ, но меч забрал его душу. Ледяная Скорбь не просто убивает, она пожирает души, навеки заключая их в ледяную темницу. Говорят, клинок до сих пор ищет нового хозяина, готового заплатить ту же цену.",
 		"price": 700
 	},
 
@@ -83,9 +91,10 @@
 		"id": "Shadowmourne",
 		"type": "legendary-weapons",
 		"path": "weapons-details/shadowmourne",
-		"cardImg": "/src/assets/img/weapons/bg/legendary/Shadowmourne.png",
+		"img": "/src/assets/img/weapons/bg/legendary/Shadowmourne.png",
+		"objectFit": false,
 		"title": "Темная Скорбь",
-		"description": "Закажите Темную Скорбь",
+		"description": "Выкованный из осколков неочищенного саронита, застывшей крови древнего бога Йогг-Сарона, этот топор впитал силу тысячи павших душ и нес смерть самому Королю-Личу. Темная Скорбь помнит ту битву. Теперь он ждет нового воина, готового нести погибель величайшим угрозам Азерота.",
 		"price": 700
 	},
 
@@ -93,9 +102,10 @@
 		"id": "DragonwrathTarecgosasRest",
 		"type": "legendary-weapons",
 		"path": "weapons-details/tarecgosa",
-		"cardImg": "/src/assets/img/weapons/bg/legendary/Dragonwrath-Tarecgosas-Rest.png",
+		"img": "/src/assets/img/weapons/bg/legendary/Dragonwrath-Tarecgosas-Rest.png",
+		"objectFit": false,
 		"title": "Гнев Дракона, Вечный Покой Таресгосы",
-		"description": "Закажите Гнев Дракона, Вечный Покой Таресгосы",
+		"description": "Этот посох — последний дар умирающей синей драконице. Когда Таресгоса пала, спасая Калесгоса, ее душа нашла приют в ветви Нордрассила. Гнев Дракона хранит память о жертве и ждет того, кто сможет направить мощь синих драконов на защиту Азерота.",
 		"price": 800
 	},
 
@@ -103,9 +113,10 @@
 		"id": "FangsOfTheFather",
 		"type": "legendary-weapons",
 		"path": "weapons-details/fangs-of-the-father",
-		"cardImg": "/src/assets/img/weapons/bg/legendary/Fangs-of-the-Father.png",
-		"title": "Клыки отца",
-		"description": "Закажите Клыки отца",
+		"img": "/src/assets/img/weapons/bg/legendary/Fangs-of-the-Father.png",
+		"objectFit": false,
+		"title": "Клыки Отца",
+		"description": "Выкованные из челюсти самого Смертокрыла, эти кинжалы хранят проклятие черной стаи и древних богов. Гневион вручал их убийцам, что охотились на его обезумевших сородичей. Клыки Отца помнят вкус драконьей крови и ждут нового хозяина, готового продолжить охоту.",
 		"price": 800
 	},
 
@@ -113,9 +124,10 @@
 		"id": "RaeshalareDeathsWhisper",
 		"type": "legendary-weapons",
 		"path": "weapons-details/raeshalare-deaths-whisper",
-		"cardImg": "/src/assets/img/weapons/bg/legendary/Raeshalare-Deaths-Whisper.png",
+		"img": "/src/assets/img/weapons/bg/legendary/Raeshalare-Deaths-Whisper.png",
+		"objectFit": false,
 		"title": "Раэ'шаларе, Шепот Смерти",
-		"description": "Закажите Раэ'шаларе, Шепот Смерти",
+		"description": "Этот лук родился в миг великого предательства, когда Сильвана Ветрокрылая разорвала завесу между мирами. Каждая выпущенная стрела несет частицу самой бездны, а в тишине между выстрелами слышен леденящий душу крик банши. Раэ'шаларе ждет того, кто не боится заглянуть в глаза самой смерти.",
 		"price": 900
 	},
 
@@ -123,9 +135,10 @@
 		"id": "FyralathTheDreamrender",
 		"type": "legendary-weapons",
 		"path": "weapons-details/fyralath-the-dreamrender",
-		"cardImg": "/src/assets/img/weapons/bg/legendary/Fyralath-the-Dreamrender.png",
+		"img": "/src/assets/img/weapons/bg/legendary/Fyralath-the-Dreamrender.png",
+		"objectFit": false,
 		"title": "Фир'алат Воздаятель Снов",
-		"description": "Закажите Фир'алат Воздаятель Снов",
+		"description": "Выкованный в сердце Пылающего Ковена, этот топор должен был навеки запечатать Изумрудный Сон в пламени отчаяния. Фиракк нес в нем погибель миру грез, но герои обратили его силу против него самого. Фир'алат помнит тот огонь и ждет того, кто сможет направить его ярость на защиту всего, что хранит Изумрудный сон Азерота.",
 		"price": 1000
 	},
 
@@ -133,9 +146,10 @@
 		"id": "NaszuroTheUnboundLegacy",
 		"type": "legendary-weapons",
 		"path": "weapons-details/naszuro-the-unbound-legacy",
-		"cardImg": "/src/assets/img/weapons/bg/legendary/Naszuro-the-Unbound-Legacy.png",
+		"img": "/src/assets/img/weapons/bg/legendary/Naszuro-the-Unbound-Legacy.png",
+		"objectFit": false,
 		"title": "Наз'уро, Высвобожденное Наследие",
-		"description": "Закажите Наз'уро, Высвобожденное Наследие",
+		"description": "Выкованный по воле Нелтариона, это оружие должно было подчинять драктиров, сковывая их волю. Но найдя нового хозяина, Наз'уро сбросил оковы рабства. Теперь он резонирует с магией порядка, раскрывая истинную мощь союзников. Наз'уро ждет того, кто понесет наследие черного дракона не как проклятие, а как защиту.",
 		"price": 1000
 	}
 ]

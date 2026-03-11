@@ -4,6 +4,7 @@
 		"type": "weapons",
 		"path": "weapons/one-handed",
 		"cardImg": "/src/assets/img/promo/bg/weapons/one-handed.png",
+		"objectFit": false,
 		"title": "Одноручное оружие",
 		"description": "Закажите любое одноручное оружие",
 		"price": 300
@@ -14,6 +15,7 @@
 		"type": "weapons",
 		"path": "weapons/two-handed",
 		"cardImg": "/src/assets/img/promo/bg/weapons/two-handed.png",
+		"objectFit": false,
 		"title": "Двуручное оружие",
 		"description": "Закажите любое двуручное оружие",
 		"price": 300
@@ -24,6 +26,7 @@
 		"type": "weapons",
 		"path": "weapons/range",
 		"cardImg": "/src/assets/img/promo/bg/weapons/range.png",
+		"objectFit": false,
 		"title": "Оружие дальнего боя",
 		"description": "Закажите любое оружие дальнего боя",
 		"price": 300
@@ -33,9 +36,10 @@
 		"id": "LegendaryWeapons",
 		"type": "legendary-weapons",
 		"path": "weapons/legendary",
-		"cardImg": "/src/assets/img/promo/bg/weapons/legendary.png",
-		"title": "Легендарное оружие",
-		"description": "Закажите любое легендарное оружие",
+		"img": "/src/assets/img/promo/bg/weapons/legendary.png",
+		"objectFit": true,
+		"title": "Легендарное Оружие",
+		"description": "Легендарное оружие Азерота. Воплощение силы и славы. Наследие героев, изменивших мир.",
 		"price": 500
 	},
 
@@ -55,11 +59,9 @@
 		"className": "card-weapons card-weapons-decorative",
 		"path": "weapons/decorative",
 		"cardImg": "/src/assets/img/promo/bg/weapons/decorative.png",
-		"titleClassName": "card-title-weapons card-title-weapons-decorative",
+		"objectFit": false,
 		"title": "Декоративное оружие",
-		"descriptionClassName": "card-text-weapons card-text-weapons-decorative",
 		"description": "Закажите любое декоративное оружие",
-		"priceClassName": "card-price-weapons card-price-weapons-decorative",
 		"price": 1000
 	}
 ]

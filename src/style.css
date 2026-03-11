@@ -217,6 +217,9 @@ footer {
 .announcement__header_shaman {
   color: #185ec1;
 }
+.announcement__header_weapons-legendary {
+  color: #ff8000;
+}
 .announcement__header_water-mounts {
   color: #00ffff;
 }

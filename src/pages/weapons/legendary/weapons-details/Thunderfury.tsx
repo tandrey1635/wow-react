@@ -16,7 +16,7 @@ const Thunderfury = () => {
 			<Header />
 			<Main>
 				<h1 style={{fontSize: 120}} className="text-center text-danger">В разработке</h1>
-				<Announcement thunderfury />
+				<Announcement legendaryWeapons thunderfury />
 				<Promo thunderfury />
 				<Cards legendaryWeaponDetails />
 			</Main>

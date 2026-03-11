@@ -7,7 +7,6 @@ import ArrowUp  from "../../../../components/ArrowUp";
 
 import Announcement from "../../../../components/Announcement";
 import Promo from "../../../../components/Promo";
-import WeaponDetails from "../../../../components/WeaponDetails";
 import Cards from "../../../../components/Cards";
 
 const Frostmourne = () => {
@@ -16,9 +15,8 @@ const Frostmourne = () => {
 			<Header />
 			<Main>
 				<h1 style={{fontSize: 120}} className="text-center text-danger">В разработке</h1>
-				<Announcement frostmourne />
+				<Announcement legendaryWeapons frostmourne />
 				<Promo frostmourne />
-				<WeaponDetails />
 				<Cards legendaryWeaponDetails />
 			</Main>
 			<Footer />
