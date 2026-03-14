@@ -57,6 +57,9 @@ const Announcement = ({ home, races, horde, alliance, warrior, druid, priest, ma
 							legendaryWeapons
 								? "announcement__header_weapons announcement__header_weapons-legendary"
 								:
+							decorativeWeapons
+								? "announcement__header_weapons announcement__header_weapons-decorative"
+								:
 							waterMounts
 								? "announcement__header_water-mounts"
 								:
@@ -241,7 +244,9 @@ const Announcement = ({ home, races, horde, alliance, warrior, druid, priest, ma
                               		? "Наз'уро, Высвобожденное Наследие"
                               		: "Легендарное оружие"
 								:
-
+							decorativeWeapons
+								? "Декоративное оружие"
+								:
 
 
 
@@ -267,9 +272,6 @@ const Announcement = ({ home, races, horde, alliance, warrior, druid, priest, ma
 								:
 							artifactWeapons
 								? "Артефакты Legion"
-								:
-							decorativeWeapons
-								? "Декоративное оружие"
 								:
 							twoHandedAxes
 								? "Двуручные топоры"
