@@ -13,15 +13,13 @@
 	},
 
 	{
-		"id": "legacy",
-		"className": "card-achievements",
+		"id": "Legacy",
+		"type": "achievements",
 		"path": "achievements/legacy",
-		"cardImg": "/src/assets/img/promo/bg/achievements/legacy.jpg",
-		"titleClassName": "card-title-achievements",
+		"img": "/src/assets/img/promo/bg/achievements/.jpg",
+		"objectFit": false,
 		"title": "Наследие",
-		"descriptionClassName": "card-text-achievements",
 		"description": "Трофеи ушедших эпох. Доказательство, что вы там были.",
-		"priceClassName": "card-price-achievements",
 		"price": 1000
 	},
 

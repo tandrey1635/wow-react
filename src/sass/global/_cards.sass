@@ -20,12 +20,14 @@
 		position: relative
 		background: $racesBg
 	&-horde
+		color: $hordeColor
 		background: $hordeBg
 		[alt]
 			color: $hordeColor
 		&:hover
 			box-shadow: 0 0 2px 5px $hordeCardHoverShadow
 	&-alliance
+		color: $allianceColor
 		background: $allianceBg
 		[alt]
 			color: $allianceColor
@@ -185,10 +187,6 @@
 		background: $pvpBg
 		&:hover
 			box-shadow: 0 0 2px 5px $pvpCardHoverShadow
-	&-mythic
-		background: $mythicDungeonsBg
-		&:hover
-			box-shadow: 0 0 2px 5px $mythicDungeonsCardHoverShadow
 	&-dungeons-raids
 		&-classic
 			color: $classicColor
@@ -312,6 +310,7 @@
 		&:hover
 			box-shadow: 0 0 2px 5px $lvlUpCardHoverShadow
 	&-achievements
+		color: $achievementsColor
 		background: $achievementsBg
 		[alt]
 			color: $achievementsColor
@@ -339,7 +338,7 @@
 		object-fit: contain
 	&-tiers
 		border-radius: 0.8rem
-	&-mythic, &-lvl-up, &-achievements
+	&-lvl-up, &-achievements
 		border-radius: 50%
 		transition: 0.5s all
 		&:hover
@@ -365,16 +364,6 @@
 		background: $racesColor
 		background-clip: text
 		color: transparent
-	&-weapons
-		color: $weaponsColor
-	&-armours
-		color: $armoursColor
-	&-pvp
-		color: $pvpColor
-	&-lvl-up
-		color: $lvlUpColor
-	&-achievements
-		color: $achievementsColor
 	&-buy
 		color: $mainColor
 		min-height: 0
@@ -396,16 +385,6 @@
 		background: $racesColor
 		background-clip: text
 		color: transparent
-	&-weapons
-		color: $weaponsColor
-	&-armours
-		color: $armoursColor
-	&-pvp
-		color: $pvpColor
-	&-lvl-up
-		color: $lvlUpColor
-	&-achievements
-		color: $achievementsColor
 	&-buy
 		&:hover
 			transform: scale(1)
@@ -429,14 +408,6 @@
 		background: $racesColor
 		background-clip: text
 		color: transparent
-	&-armours
-		color: $armoursColor
-	&-pvp
-		color: $pvpColor
-	&-lvl-up
-		color: $lvlUpColor
-	&-achievements
-		color: $achievementsColor
 .card-btn
 	padding: 8px
 	border-radius: 5px
