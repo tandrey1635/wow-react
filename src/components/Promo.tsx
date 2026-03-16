@@ -150,6 +150,12 @@ const Promo = ({ races, horde, alliance, warrior, druid, priest, mage, monk, hun
 						lastTitan
 							? "promo__info_last-titan"
 							:
+						legacy
+							? "promo__info_legacy"
+							:
+						greatFeats
+							? "promo__info_great-feats"
+							:
 						wowAnniversary
 							? "promo__info_wow-anniversary"
 							:
@@ -274,12 +280,6 @@ const Promo = ({ races, horde, alliance, warrior, druid, priest, mage, monk, hun
 							:
 						quests
 							? "promo__raitings_quests"
-							:
-						legacy
-							? "promo__raitings_legacy"
-							:
-						greatFeats
-							? "promo__raitings_great-feats"
 							:
 						warcraftReforged
 							? "promo__raitings_warcraft-reforged"

@@ -272,7 +272,7 @@ footer {
   color: #dfae56;
 }
 .announcement__header_achievements {
-  color: #607d8b;
+  color: #6a7982;
 }
 .announcement__text {
   font-size: 32px;
@@ -479,6 +479,12 @@ footer {
 }
 .promo__info_last-titan {
   background: url("/src/assets/img/promo/bg/dungeons-raids/last-titan.png") no-repeat center/contain;
+}
+.promo__info_legacy {
+  background: url("/src/assets/img/promo/bg/achievements/legacy.png") no-repeat center/contain;
+}
+.promo__info_great-feats {
+  background: url("/src/assets/img/promo/bg/achievements/great-feats.png") no-repeat center/contain;
 }
 .promo__info_wow-anniversary {
   background: url("/src/assets/img/promo/bg/achievements/Wow-Anniversary.webp") no-repeat center/cover;
@@ -994,14 +1000,14 @@ footer {
   box-shadow: 0 0 2px 5px #ffb300;
 }
 .card-achievements {
-  color: #607d8b;
-  background: linear-gradient(325deg, #607d8b, transparent 30%, transparent 35%, #607d8b, transparent);
+  color: #6a7982;
+  background: linear-gradient(325deg, #6a7982, transparent 30%, transparent 35%, #6a7982, transparent);
 }
 .card-achievements [alt] {
-  color: #607d8b;
+  color: #6a7982;
 }
 .card-achievements:hover {
-  box-shadow: 0 0 2px 5px #607d8b;
+  box-shadow: 0 0 2px 5px #6a7982;
 }
 .card-buy {
   width: 100%;

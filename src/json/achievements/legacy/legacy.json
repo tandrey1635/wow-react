@@ -716,78 +716,146 @@
 	},
 
 	{
-		"title": "Часть истории",
-		"description": "Полностью изучите один из артефактов, исследовав его в оплоте своего класса."
+		"id": "SkillsToPayTheBills",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "На Все Руки Мастер",
+		"description": "Повысьте навык рыбной ловли, первой помощи и кулинарии до 450.",
+		"price": 1000
 	},
 
 	{
-		"title": "Закаленный для битвы",
-		"description": "Пройдите кампанию оплота вашего класса, чтобы открыть новый внешний вид вашего артефакта."
+		"id": "MoreSkillsToPayTheBills",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "На Все Руки от Скуки",
+		"description": "Повысьте навык рыбной ловли, первой помощи, кулинарии и археологии до 525.",
+		"price": 1000
 	},
 
 	{
-		"title": "Воплощенная сила",
-		"description": "Откройте все особенности одного артефактного оружия."
+		"id": "SeriousSkillsToPayTheBills",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "На Все Руки от Тоски и Скуки",
+		"description": "Повысьте навык рыбной ловли, первой помощи, кулинарии и археологии до 600.",
+		"price": 1000
 	},
 
 	{
-		"title": "Воплощенная сила",
-		"description": "Откройте все особенности какого-либо артефакта после его усиления."
+		"id": "SavageSkillsToPayTheBills",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Хорошие Навыки Большая Зарплата",
+		"description": "Повысьте навыки рыбной ловли, оказания первой помощи, кулинарии и археологии до 700.",
+		"price": 1000
 	},
 
 	{
-		"title": "Все об артефактах",
-		"description": "Достигните 10-го уровня знаний об артефакте с помощью исследователей в оплоте своего класса."
+		"id": "HeroicSkillsToPayTheBills",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Уж Точно На Все Руки от Тоски и Скуки",
+		"description": "Повысьте навык рыбной ловли, первой помощи, кулинарии и археологии до 800.",
+		"price": 1000
 	},
 
 	{
-		"title": "На все руки мастер",
-		"description": "Повысьте навык рыбной ловли, первой помощи и кулинарии до 450."
+		"id": "ArtifactOrArtifiction",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Все об Артефактах",
+		"description": "Достигните 10-го уровня знаний об артефакте с помощью исследователей в оплоте своего класса.",
+		"price": 1000
 	},
 
 	{
-		"title": "Высвобожденная мощь",
-		"description": "Разблокируйте новый набор особенностей всех ваших артефактов."
+		"id": "PartOfHistory",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Часть Истории",
+		"description": "Полностью изучите один из артефактов, исследовав его в оплоте своего класса.",
+		"price": 1000
 	},
 
 	{
-		"title": "Хорошие навыки – большая зарплата",
-		"description": "Повысьте навыки рыбной ловли, оказания первой помощи, кулинарии и археологии до 700."
+		"id": "ForgedForBattle",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Закаленный для Битвы",
+		"description": "Пройдите кампанию оплота вашего класса, чтобы открыть новый внешний вид вашего артефакта.",
+		"price": 1000
 	},
 
 	{
-		"title": "Высвобожденная сила",
-		"description": "Разблокируйте новый набор особенностей одного из ваших артефактов."
+		"id": "PowerUnbound",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Высвобожденная Сила",
+		"description": "Разблокируйте новый набор особенностей одного из ваших артефактов.",
+		"price": 1000
 	},
 
 	{
-		"title": "Ты не так это делаешь! (90-й уровень)",
-		"description": "Выполните любое из базовых (серебряных) испытаний на Арене, используя не подходящую для него специализацию."
+		"id": "PowerUnleashed",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Высвобожденная Мощь",
+		"description": "Разблокируйте новый набор особенностей всех ваших артефактов.",
+		"price": 1000
 	},
 
 	{
-		"title": "Мощь тигля",
-		"description": "Полностью раскройте потенциал тигля света Пустоты с одним из ваших предметов артефактного оружия."
+		"id": "PowerRealized",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Воплощенная Сила",
+		"description": "Откройте все особенности одного артефактного оружия.",
+		"price": 1000
 	},
 
 	{
-		"title": "На все руки от скуки",
-		"description": "Повысьте навык рыбной ловли, первой помощи, кулинарии и археологии до 525."
+		"id": "PowerAscended",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Больше Мощи",
+		"description": "Откройте все особенности одного артефакта после его усиления.",
+		"price": 1000
 	},
 
 	{
-		"title": "На все руки от тоски и скуки",
-		"description": "Повысьте навык рыбной ловли, первой помощи, кулинарии и археологии до 600."
-	},
-
-	{
-		"title": "Бесконечная сила",
-		"description": "Наденьте плащ бесконечных возможностей."
-	},
-
-	{
-		"title": "Уж точно на все руки от тоски и скуки",
-		"description": "Повысьте навык рыбной ловли, первой помощи, кулинарии и археологии до 800."
+		"id": "InfinitePower",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Бесконечная Сила",
+		"description": "Наденьте плащ бесконечных возможностей.",
+		"price": 1000
 	},
 
 	{
@@ -798,6 +866,17 @@
 		"objectFit": false,
 		"title": "Со Светом Пустоты Дело Пойдет на Лад!",
 		"description": "Получите доступ к тиглю света Пустоты.",
+		"price": 1000
+	},
+
+	{
+		"id": "CruciblesPromise",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Мощь Тигля",
+		"description": "Полностью раскройте потенциал тигля света Пустоты с одним из ваших предметов артефактного оружия.",
 		"price": 1000
 	}
 ]

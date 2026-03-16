@@ -863,7 +863,6 @@ const Cards = ({home, races, horde, alliance, raidsArmoursWarrior, raidsArmoursD
 					{ legacy &&
 						<>
 							<h3 className="text-success text-center fw-bold display-4">Всего Наследия: {counterCardItems(dataLegacy)}</h3>
-							<h3 className="text-success text-center fw-bold display-4">Готово: {counterCardItemsDone(dataLegacy)}</h3>
 							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
 								{ renderCardItems(dataLegacy) }
 							</div>

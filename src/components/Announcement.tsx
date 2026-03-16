@@ -247,8 +247,96 @@ const Announcement = ({ home, races, horde, alliance, warrior, druid, priest, ma
 							decorativeWeapons
 								? "Декоративное оружие"
 								:
-
-
+							additionsRaids
+								? "Рейды World of Warcraft"
+								:
+							dungeonsClassic
+								? "Подземелья дополнения\n Classic"
+								:
+							dungeonsBurningCrusade
+								? "Подземелья дополнения\n The Burning Crusade"
+								:
+							dungeonsWrathOfTheLichKing
+								? "Подземелья дополнения\n Wrath of the Lich King"
+								:
+							dungeonsCataclysm
+								? "Подземелья дополнения\n Cataclysm"
+								:
+							dungeonsMistsOfPandaria
+								? "Подземелья дополнения\n Mists of Pandaria"
+								:
+							dungeonsWarlordsOfDraenor
+								? "Подземелья дополнения\n Warlords of Draenor"
+								:
+							dungeonsLegion
+								? "Подземелья дополнения\n Legion"
+								:
+							dungeonsBattleForAzeroth
+								? "Подземелья дополнения\n Battle for Azeroth"
+								:
+							dungeonsShadowlands
+								? "Подземелья\n Shadowlands"
+								:
+							dungeonsDragonflight
+								? "Подземелья дополнения\n Dragonflight"
+								:
+							dungeonsWarWithin
+								? "Подземелья дополнения\n The War Within"
+								:
+							dungeonsMidnight
+								? "Подземелья дополнения\n Midnight"
+								:
+							dungeonsLastTitan
+								? "Подземелья дополнения\n The Last Titan"
+								:
+							raidsClassic
+								? "Рейды дополнения\n Classic"
+								:
+							raidsBurningCrusade
+								? "Рейды дополнения\n The Burning Crusade"
+								:
+							raidsWrathOfTheLichKing
+								? "Рейды дополнения\n Wrath of the Lich King"
+								:
+							raidsCataclysm
+								? "Рейды дополнения\n Cataclysm"
+								:
+							raidsMistsOfPandaria
+								? "Рейды дополнения\n Mists of Pandaria"
+								:
+							raidsWarlordsOfDraenor
+								? "Рейды дополнения\n Warlords of Draenor"
+								:
+							raidsLegion
+								? "Рейды дополнения\n Legion"
+								:
+							raidsBattleForAzeroth
+								? "Рейды дополнения\n Battle for Azeroth"
+								:
+							raidsShadowlands
+								? "Рейды дополнения\n Shadowlands"
+								:
+							raidsDragonflight
+								? "Рейды дополнения\n Dragonflight"
+								:
+							raidsWarWithin
+								? "Рейды дополнения\n The War Within"
+								:
+							raidsMidnight
+								? "Рейды дополнения\n Midnight"
+								:
+							raidsLastTitan
+								? "Рейды дополнения\n The Last Titan"
+								:
+							legacy
+								? "Наследие"
+								:
+							greatFeats
+								? "Великие подвиги"
+								:
+							wowAnniversary
+								? "Годовщина World of Warcraft"
+								:
 
 
 
@@ -375,87 +463,6 @@ const Announcement = ({ home, races, horde, alliance, warrior, druid, priest, ma
 							additionsDungeons
 								? "Подземелья World of Warcraft"
 								:
-							additionsRaids
-								? "Рейды World of Warcraft"
-								:
-							dungeonsClassic
-								? "Подземелья дополнения\n Classic"
-								:
-							dungeonsBurningCrusade
-								? "Подземелья дополнения\n The Burning Crusade"
-								:
-							dungeonsWrathOfTheLichKing
-								? "Подземелья дополнения\n Wrath of the Lich King"
-								:
-							dungeonsCataclysm
-								? "Подземелья дополнения\n Cataclysm"
-								:
-							dungeonsMistsOfPandaria
-								? "Подземелья дополнения\n Mists of Pandaria"
-								:
-							dungeonsWarlordsOfDraenor
-								? "Подземелья дополнения\n Warlords of Draenor"
-								:
-							dungeonsLegion
-								? "Подземелья дополнения\n Legion"
-								:
-							dungeonsBattleForAzeroth
-								? "Подземелья дополнения\n Battle for Azeroth"
-								:
-							dungeonsShadowlands
-								? "Подземелья\n Shadowlands"
-								:
-							dungeonsDragonflight
-								? "Подземелья дополнения\n Dragonflight"
-								:
-							dungeonsWarWithin
-								? "Подземелья дополнения\n The War Within"
-								:
-							dungeonsMidnight
-								? "Подземелья дополнения\n Midnight"
-								:
-							dungeonsLastTitan
-								? "Подземелья дополнения\n The Last Titan"
-								:
-							raidsClassic
-								? "Рейды дополнения\n Classic"
-								:
-							raidsBurningCrusade
-								? "Рейды дополнения\n The Burning Crusade"
-								:
-							raidsWrathOfTheLichKing
-								? "Рейды дополнения\n Wrath of the Lich King"
-								:
-							raidsCataclysm
-								? "Рейды дополнения\n Cataclysm"
-								:
-							raidsMistsOfPandaria
-								? "Рейды дополнения\n Mists of Pandaria"
-								:
-							raidsWarlordsOfDraenor
-								? "Рейды дополнения\n Warlords of Draenor"
-								:
-							raidsLegion
-								? "Рейды дополнения\n Legion"
-								:
-							raidsBattleForAzeroth
-								? "Рейды дополнения\n Battle for Azeroth"
-								:
-							raidsShadowlands
-								? "Рейды дополнения\n Shadowlands"
-								:
-							raidsDragonflight
-								? "Рейды дополнения\n Dragonflight"
-								:
-							raidsWarWithin
-								? "Рейды дополнения\n The War Within"
-								:
-							raidsMidnight
-								? "Рейды дополнения\n Midnight"
-								:
-							raidsLastTitan
-								? "Рейды дополнения\n The Last Titan"
-								:
 							lvlUpBase
 								? "1-60 Уровень"
 								:
@@ -468,17 +475,8 @@ const Announcement = ({ home, races, horde, alliance, warrior, druid, priest, ma
 							quests
 								? "Задания"
 								:
-							legacy
-								? "Наследие"
-								:
-							greatFeats
-								? "Великие подвиги"
-								:
 							warcraftReforged
 								? "Годовщина Warcraft 3 Reforged"
-								:
-							wowAnniversary
-								? "Годовщина World of Warcraft"
 								:
 							diablo
 								? "Годовщина Diablo"
@@ -564,6 +562,9 @@ const Announcement = ({ home, races, horde, alliance, warrior, druid, priest, ma
 								:
 							flyMounts
 								? "Летающие маунты, властелины небес, повелители бескрайних воздушных просторов. Они обеспечат вам скорость ветра и абсолютное превосходство в воздухе. Покорите небеса Азерота!"
+								:
+							legacy
+								? "Время не щадит никого. Кроме ваших побед. Сменились эпохи, империи пали, герои забыты. Но вы все еще здесь. Доказательство того, что не все уходит бесследно. Это ли не наследие?"
 								:
 							wowAnniversary
 								? "Еще один год позади и мы снова здесь, чтобы встретить его вместе в Азероте. Здесь собраны достижения за вход в игру в дни празднования годовщин, с самой первой до сегодняшней. Это не просто цифры а история. Каждый раз ты мог зайти и сказать: Я часть этого мира!"
