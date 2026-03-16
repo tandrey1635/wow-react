@@ -121,6 +121,17 @@
 	},
 
 	{
+		"id": "SafeDeposit",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Банковская Ячейка",
+		"description": "Купите 7 дополнительных ячеек в банке.",
+		"price": 1000
+	},
+
+	{
 		"id": "RightStuff",
 		"type": "achievements",
 		"path": "",
@@ -220,6 +231,39 @@
 	},
 
 	{
+		"id": "Greedy",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Жадина",
+		"description": "Победите в розыгрыше вещи эпического или превосходного качества уровнем не ниже 185, выбрав Не откажусь и выбросив 100 на костях.",
+		"price": 1000
+	},
+
+	{
+		"id": "Needy",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Ну Очень Нужно!",
+		"description": "Победите в розыгрыше вещи эпического или превосходного качества уровнем не ниже 185, выбрав Мне это нужно и выбросив 100 на костях.",
+		"price": 1000
+	},
+
+	{
+		"id": "OrgrimmarOffensive",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Наступление на Оргриммар",
+		"description": "Атакуйте верховного воеводу Саурфанга, пока он от скуки не притворится мертвым.",
+		"price": 1000
+	},
+
+	{
 		"id": "50StoneKeepersShards",
 		"type": "achievements",
 		"path": "",
@@ -271,6 +315,138 @@
 		"objectFit": false,
 		"title": "1000 Осколков Каменного Хранителя",
 		"description": "Получите из добычи 1000 осколков Каменного Хранителя.",
+		"price": 1000
+	},
+
+	{
+		"id": "1000DungeonAndRaidEmblems",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "1000 Эмблем Подземелий и Рейдов",
+		"description": "Получите 1000 эмблем героизма, доблести, завоевания, триумфа или льда.",
+		"price": 1000
+	},
+
+	{
+		"id": "2500DungeonAndRaidEmblems",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "2500 Эмблем Подземелий и Рейдов",
+		"description": "Получите 2500 эмблем героизма, доблести, завоевания, триумфа или льда.",
+		"price": 1000
+	},
+
+	{
+		"id": "5000ConquestPoints",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "5000 Очков Завоевания",
+		"description": "Заработайте 5000 очков завоевания.",
+		"price": 1000
+	},
+
+	{
+		"id": "25000ConquestPoints",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "25 000 Очков Завоевания",
+		"description": "Заработайте 25 000 очков завоевания.",
+		"price": 1000
+	},
+
+	{
+		"id": "50000ConquestPoints",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "50 000 Очков Завоевания",
+		"description": "Заработайте 50 000 очков завоевания.",
+		"price": 1000
+	},
+
+	{
+		"id": "1000ValorPoints",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "1000 Очков Доблести",
+		"description": "Заработайте 1000 очков доблести.",
+		"price": 1000
+	},
+
+	{
+		"id": "5000ValorPoints",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "5000 Очков Доблести",
+		"description": "Заработайте 5000 очков доблести.",
+		"price": 1000
+	},
+
+	{
+		"id": "25000ValorPoints",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "25 000 Очков Доблести",
+		"description": "Заработайте 25 000 очков доблести.",
+		"price": 1000
+	},
+
+	{
+		"id": "50000ValorPoints",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "50 000 Очков Доблести",
+		"description": "Заработайте 50 000 очков доблести.",
+		"price": 1000
+	},
+
+	{
+		"id": "100000ValorPoints",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "100 000 Очков Доблести",
+		"description": "Заработайте 100 000 очков доблести.",
+		"price": 1000
+	},
+
+	{
+		"id": "Hordebreaker",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Раскол Орды",
+		"description": "Помощь восставшим троллям Вол'джина в выступлении против правления Гарроша в обновлении 5.3 Восстание.",
+		"price": 1000
+	},
+
+	{
+		"id": "DarkspearRevolutionary",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Повстанец из Черного Копья",
+		"description": "Помощь Вол'джину во время восстания троллей в обновлении 5.3 Восстание.",
 		"price": 1000
 	},
 
@@ -397,8 +573,146 @@
 	},
 
 	{
-		"title": "Полевой врач",
-		"description": "Окажите помощь всем раненым путешественникам на Расколотых островах."
+		"id": "ChallengeConqueror",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Победитель в Испытаниях",
+		"description": "Пройдите все подземелья из дополнения Mists of Pandaria в режиме испытаний.",
+		"price": 1000
+	},
+
+	{
+		"id": "ChallengeWarlord",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Испытания Дренора",
+		"description": "Пройдите все подземелья из дополнения Warlords of Draenor в режиме испытаний.",
+		"price": 1000
+	},
+
+	{
+		"id": "JourneymanMedic",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Подмастерье Первой Помощи",
+		"description": "Повысьте навык оказания первой помощи до 150.",
+		"price": 1000
+	},
+
+	{
+		"id": "ExpertMedic",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Умелец Оказывать Первую Помощь",
+		"description": "Повысьте навык оказания первой помощи до 225.",
+		"price": 1000
+	},
+
+	{
+		"id": "ArtisanMedic",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Искусник Оказания Первой Помощи",
+		"description": "Повысьте навык оказания первой помощи до 300.",
+		"price": 1000
+	},
+
+	{
+		"id": "MasterMedic",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Мастер Оказания Первой Помощи",
+		"description": "Повысьте навык оказания первой помощи до 375.",
+		"price": 1000
+	},
+
+	{
+		"id": "GrandMasterMedic",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Великий Мастер Первой Помощи",
+		"description": "Повысьте навык оказания первой помощи до 450.",
+		"price": 1000
+	},
+
+	{
+		"id": "IllustriousGrandMasterMedic",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Прославленный Мастер Первой Помощи",
+		"description": "Повысьте навык оказания первой помощи до 525.",
+		"price": 1000
+	},
+
+	{
+		"id": "ZenMasterMedic",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Дзен Мастер Первой Помощи",
+		"description": "Повысьте навык оказания первой помощи до 600.",
+		"price": 1000
+	},
+
+	{
+		"id": "DraenorMedic",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Целитель Дренора",
+		"description": "Повысьте навык оказания первой помощи до 700.",
+		"price": 1000
+	},
+
+	{
+		"id": "LegionMedic",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Медик Legion",
+		"description": "Повысьте навык оказания первой помощи до 800.",
+		"price": 1000
+	},
+
+	{
+		"id": "IsThereMedicInTheZone?",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Есть Здесь Врачи?",
+		"description": "Окажите помощь 10 раненым путешественникам на Расколотых островах.",
+		"price": 1000
+	},
+
+	{
+		"id": "FieldMedic",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Полевой Врач",
+		"description": "Окажите помощь всем раненым путешественникам на Расколотых островах.",
+		"price": 1000
 	},
 
 	{
@@ -427,53 +741,8 @@
 	},
 
 	{
-		"title": "Раскол Орды",
-		"description": "Помощь восставшим троллям Вол'джина в выступлении против правления Гарроша в обновлении 5.3: Восстание."
-	},
-
-	{
-		"title": "25000 очков доблести",
-		"description": "Заработайте 25000 очков доблести."
-	},
-
-	{
-		"title": "Повстанец из Черного Копья",
-		"description": "Помощь Вол'джину во время восстания троллей в обновлении 5.3: Восстание."
-	},
-
-	{
 		"title": "На все руки мастер",
 		"description": "Повысьте навык рыбной ловли, первой помощи и кулинарии до 450."
-	},
-
-	{
-		"title": "5000 очков доблести",
-		"description": "Заработайте 5000 очков доблести."
-	},
-
-	{
-		"title": "Медик Legion",
-		"description": "Повысьте навык оказания первой помощи до 800."
-	},
-
-	{
-		"title": "Наступление на Оргриммар",
-		"description": "Атакуйте верховного воеводу Саурфанга, пока он от скуки не притворится мертвым."
-	},
-
-	{
-		"title": "50000 очков завоевания",
-		"description": "Заработайте 50000 очков завоевания"
-	},
-
-	{
-		"title": "Дзен-мастер первой помощи",
-		"description": "Повысьте навык оказания первой помощи до 600."
-	},
-
-	{
-		"title": "Великий мастер первой помощи",
-		"description": "Повысьте навык оказания первой помощи до 450."
 	},
 
 	{
@@ -487,28 +756,8 @@
 	},
 
 	{
-		"title": "2500 эмблем подземелий и рейдов",
-		"description": "Получите 2500 эмблем героизма, доблести, завоевания, триумфа или льда."
-	},
-
-	{
 		"title": "Высвобожденная сила",
 		"description": "Разблокируйте новый набор особенностей одного из ваших артефактов."
-	},
-
-	{
-		"title": "Искусник оказания первой помощи",
-		"description": "Повысьте навык оказания первой помощи до 300."
-	},
-
-	{
-		"title": "Есть здесь врачи?",
-		"description": "Окажите помощь 10 раненым путешественникам на Расколотых островах."
-	},
-
-	{
-		"title": "Мастер оказания первой помощи",
-		"description": "Повысьте навык оказания первой помощи до 375."
 	},
 
 	{
@@ -522,11 +771,6 @@
 	},
 
 	{
-		"title": "Жадина",
-		"description": "Победите в розыгрыше вещи эпического или превосходного качества уровнем не ниже 185, выбрав Не откажусь и выбросив 100 на костях."
-	},
-
-	{
 		"title": "На все руки от скуки",
 		"description": "Повысьте навык рыбной ловли, первой помощи, кулинарии и археологии до 525."
 	},
@@ -537,28 +781,8 @@
 	},
 
 	{
-		"title": "5000 очков завоевания",
-		"description": "Заработайте 5000 очков завоевания"
-	},
-
-	{
 		"title": "Бесконечная сила",
 		"description": "Наденьте плащ бесконечных возможностей."
-	},
-
-	{
-		"title": "Умелец оказывать первую помощь",
-		"description": "Повысьте навык оказания первой помощи до 225."
-	},
-
-	{
-		"title": "100000 очков доблести",
-		"description": "Заработайте 100000 очков доблести."
-	},
-
-	{
-		"title": "1000 очков завоевания",
-		"description": "Заработайте 1000 очков завоевания"
 	},
 
 	{
@@ -567,62 +791,13 @@
 	},
 
 	{
-		"title": "Испытания Дренора",
-		"description": "Пройдите все подземелья из дополнения Warlords of Draenor в режиме испытаний."
-	},
-
-	{
-		"title": "Со светом Пустоты дело пойдет на лад!",
-		"description": "Получите доступ к тиглю света Пустоты."
-	},
-
-	{
-		"title": "Целитель Дренора",
-		"description": "Повысьте навык оказания первой помощи до 700."
-	},
-
-	{
-		"title": "Победитель в испытаниях",
-		"description": "Пройдите все подземелья в режиме испытаний."
-	},
-
-	{
-		"title": "Ну очень нужно!",
-		"description": "Победите в розыгрыше вещи эпического или превосходного качества уровнем не ниже 185, выбрав Мне это нужно и выбросив 100 на костях."
-	},
-
-	{
-		"title": "1000 эмблем подземелий и рейдов",
-		"description": "Получите 1000 эмблем героизма, доблести, завоевания, триумфа или льда."
-	},
-
-	{
-		"title": "Подмастерье первой помощи",
-		"description": "Повысьте навык оказания первой помощи до 150."
-	},
-
-	{
-		"title": "50000 очков доблести",
-		"description": "Заработайте 50000 очков доблести."
-	},
-
-	{
-		"title": "Банковская ячейка",
-		"description": "Купите 7 дополнительных ячеек в банке."
-	},
-
-	{
-		"title": "25000 очков завоевания",
-		"description": "Заработайте 25000 очков завоевания"
-	},
-
-	{
-		"title": "1000 очков доблести",
-		"description": "Заработайте 1000 очков доблести."
-	},
-
-	{
-		"title": "1000 очков доблести",
-		"description": "Заработайте 1000 очков доблести."
+		"id": "NowYoureCookingWithNetherlight",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Со Светом Пустоты Дело Пойдет на Лад!",
+		"description": "Получите доступ к тиглю света Пустоты.",
+		"price": 1000
 	}
 ]
