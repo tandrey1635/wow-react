@@ -1009,6 +1009,16 @@ footer {
 .card-achievements:hover {
   box-shadow: 0 0 2px 5px #6a7982;
 }
+.card-achievements-great-feats {
+  color: #ffd700;
+  background: linear-gradient(325deg, #ffd700, transparent 30%, transparent 35%, #ffd700, transparent);
+}
+.card-achievements-great-feats [alt] {
+  color: #ffd700;
+}
+.card-achievements-great-feats:hover {
+  box-shadow: 0 0 2px 5px #ffd700;
+}
 .card-buy {
   width: 100%;
 }

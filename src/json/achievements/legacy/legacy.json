@@ -17,7 +17,7 @@
 		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
 		"objectFit": false,
 		"title": "Пятый Элемент",
-		"description": "Получите квинтэссенцию воды.",
+		"description": "Получите Квинтэссенцию воды.",
 		"price": 1000
 	},
 
@@ -28,7 +28,7 @@
 		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
 		"objectFit": false,
 		"title": "Герой Племени Зандалар",
-		"description": "Добейтесь того, чтобы вас превозносило племя Зандалари.",
+		"description": "Добейтесь того, чтобы вас превозносило Племя Зандалари.",
 		"price": 1000
 	},
 
@@ -259,7 +259,7 @@
 		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
 		"objectFit": false,
 		"title": "Наступление на Оргриммар",
-		"description": "Атакуйте верховного воеводу Саурфанга, пока он от скуки не притворится мертвым.",
+		"description": "Атакуйте Верховного Воеводу Саурфанга, пока он от скуки не притворится мертвым.",
 		"price": 1000
 	},
 
@@ -435,7 +435,7 @@
 		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
 		"objectFit": false,
 		"title": "Раскол Орды",
-		"description": "Помощь восставшим троллям Вол'джина в выступлении против правления Гарроша в обновлении 5.3 Восстание.",
+		"description": "Помогите восставшим троллям Вол'джина в выступлении против правления Гарроша в обновлении 5.3 Восстание.",
 		"price": 1000
 	},
 
@@ -446,7 +446,7 @@
 		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
 		"objectFit": false,
 		"title": "Повстанец из Черного Копья",
-		"description": "Помощь Вол'джину во время восстания троллей в обновлении 5.3 Восстание.",
+		"description": "Помогите Вол'джину во время восстания троллей в обновлении 5.3 Восстание.",
 		"price": 1000
 	},
 
@@ -755,7 +755,7 @@
 		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
 		"objectFit": false,
 		"title": "Хорошие Навыки Большая Зарплата",
-		"description": "Повысьте навыки рыбной ловли, оказания первой помощи, кулинарии и археологии до 700.",
+		"description": "Повысьте навык рыбной ловли, первой помощи, кулинарии и археологии до 700.",
 		"price": 1000
 	},
 
@@ -832,7 +832,7 @@
 		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
 		"objectFit": false,
 		"title": "Воплощенная Сила",
-		"description": "Откройте все особенности одного артефактного оружия.",
+		"description": "Откройте все особенности одного артефакта.",
 		"price": 1000
 	},
 
@@ -865,7 +865,7 @@
 		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
 		"objectFit": false,
 		"title": "Со Светом Пустоты Дело Пойдет на Лад!",
-		"description": "Получите доступ к тиглю света Пустоты.",
+		"description": "Получите доступ к Тиглю Света Пустоты.",
 		"price": 1000
 	},
 
@@ -876,7 +876,7 @@
 		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
 		"objectFit": false,
 		"title": "Мощь Тигля",
-		"description": "Полностью раскройте потенциал тигля света Пустоты с одним из ваших предметов артефактного оружия.",
+		"description": "Полностью раскройте потенциал Тигля Света Пустоты с одним из ваших предметов артефакта.",
 		"price": 1000
 	}
 ]

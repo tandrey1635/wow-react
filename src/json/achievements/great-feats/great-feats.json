@@ -1,5 +1,326 @@
 [
 	{
+		"id": "AgentOfTheShendralar",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Посланник Шен'дралар",
+		"description": "Добейтесь того, чтобы вас превозносили Шен'дралар.",
+		"price": 1000
+	},
+
+	{
+		"id": "AvastYeAdmiral!",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Якорь Мне в Глотку!",
+		"description": "Получите адмиральскую шляпу Кровавого Паруса... и почаще выходите на свежий воздух.",
+		"price": 1000
+	},
+
+	{
+		"id": "InsaneInTheMembrane",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Чокнутый",
+		"description": "Добейтесь того, чтобы пираты из шайки Кровавого Паруса начали относиться к вам с уважением, а обитатели Пиратской Бухты, Круговзора, Прибамбасска, Кабестана, Ярмарки Новолуния и Поместья Черного Ворона стали вас превозносить.",
+		"price": 1000
+	},
+
+	{
+		"id": "ScarabLord",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Король Скарабей",
+		"description": "Откройте Врата Ан'Киража.",
+		"price": 1000
+	},
+
+	{
+		"id": "VeteranOfTheShiftingSands",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Ветеран Зыбучих Песков",
+		"description": "Выполните серию заданий Врата Ан'Киража, включая Сокровище Вневременного (даже если в седле окажется кто-то другой).",
+		"price": 1000
+	},
+
+	{
+		"id": "HeroOfShattrath",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Герой Шаттрата",
+		"description": "Добейтесь того, чтобы вас превозносили Провидцы и Алдоры.",
+		"price": 1000
+	},
+
+	{
+		"id": "AheadOfTheCurveLeiShen",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Герой Своего Времени: Лэй Шэнь",
+		"description": "Победите Лэй Шэня в Престоле Гроз в обычном режиме до открытия рейда более высокого уровня.",
+		"price": 1000
+	},
+
+	{
+		"id": "CuttingEdgeLeiShen",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "На Кромке Лезвия: Лэй Шэнь",
+		"description": "Победите Лэй Шэня в Престоле Гроз в героическом режиме до открытия рейда более высокого уровня.",
+		"price": 1000
+	},
+
+	{
+		"id": "CuttingEdgeRaden",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "На Кромке Лезвия: Ра-ден",
+		"description": "Победите Ра-дена в Престоле Гроз до открытия рейда более высокого уровня.",
+		"price": 1000
+	},
+
+	{
+		"id": "IThoughtHeWasSupposedToBeHard",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Мне Казалось, это Должно Быть Сложно…",
+		"description": "Победите Ра-дена в Престоле Гроз с первой попытки, не допустив смерти ни одного из участников рейда.",
+		"price": 1000
+	},
+
+	{
+		"id": "AheadOfTheCurveGarroshHellscream10",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Герой Своего Времени: Гаррош Адский Крик (10 игроков)",
+		"description": "Победите Гарроша Адского Крика в Осаде Оргриммара в обычном или более сложном режиме на 10 человек до открытия рейда более высокого уровня.",
+		"price": 1000
+	},
+
+	{
+		"id": "CuttingEdgeGarroshHellscream10",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "На Кромке Лезвия: Гаррош Адский Крик (10 игроков)",
+		"description": "Победите Гарроша Адского Крика в Осаде Оргриммара в героическом режиме на 10 человек до открытия рейда более высокого уровня.",
+		"price": 1000
+	},
+
+	{
+		"id": "AheadOfTheCurveGarroshHellscream25",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Герой Своего Времени: Гаррош Адский Крик (25 игроков)",
+		"description": "Победите Гарроша Адского Крика в Осаде Оргриммара в обычном или более сложном режиме на 25 человек до открытия рейда более высокого уровня.",
+		"price": 1000
+	},
+
+	{
+		"id": "CuttingEdgeGarroshHellscream25",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "На Кромке Лезвия: Гаррош Адский Крик (25 игроков)",
+		"description": "Победите Гарроша Адского Крика в Осаде Оргриммара в героическом режиме на 25 человек до открытия рейда более высокого уровня.",
+		"price": 1000
+	},
+
+	{
+		"id": "AheadOfTheCurveTheBlackGate",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Герой Своего Времени: Черные Врата",
+		"description": "Победите Архимонда в Цитадели Адского Пламени в героическом или более сложном режиме до открытия рейда более высокого уровня.",
+		"price": 1000
+	},
+
+	{
+		"id": "CuttingEdgeTheBlackGate",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "На Кромке Лезвия: Черные Врата",
+		"description": "Победите Архимонда в Цитадели Адского Пламени в эпохальном режиме до открытия рейда более высокого уровня.",
+		"price": 1000
+	},
+
+	{
+		"id": "AheadOfTheCurveArgusTheUnmaker",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Герой Своего Времени: Аргус Порабощенный",
+		"description": "Победите Аргуса Порабощенного в Анторусе, Пылающем Троне в героическом или более сложном режиме до открытия рейда более высокого уровня.",
+		"price": 1000
+	},
+
+	{
+		"id": "CuttingEdgeArgusTheUnmaker",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "На Кромке Лезвия: Аргус Порабощенный",
+		"description": "Победите Аргуса Порабощенного в Анторусе, Пылающем Троне в эпохальном режиме до открытия рейда более высокого уровня.",
+		"price": 1000
+	},
+
+	{
+		"id": "AheadOfTheCurveNZothTheCorruptor",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Герой Своего Времени: Н'Зот Заразитель",
+		"description": "Победите Н'Зота Заразителя в Ни'алоте, Пробуждающемся Городе в героическом или более сложном режиме до открытия рейда более высокого уровня.",
+		"price": 1000
+	},
+
+	{
+		"id": "CuttingEdgeNZothTheCorruptor",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "На Кромке Лезвия: Н'Зот Заразитель",
+		"description": "Победите Н'Зота Заразителя в Ни'алоте, Пробуждающемся Городе в эпохальном режиме до открытия рейда более высокого уровня.",
+		"price": 1000
+	},
+
+	{
+		"id": "AheadOfTheCurveSylvanasWindrunner",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Герой Своего Времени: Сильвана Ветрокрылая",
+		"description": "Победите Сильвану Ветрокрылую в Святилище Господства в героическом или более сложном режиме до открытия рейда более высокого уровня.",
+		"price": 1000
+	},
+
+	{
+		"id": "CuttingEdgeSylvanasWindrunner",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "На Кромке Лезвия: Сильвана Ветрокрылая",
+		"description": "Победите Сильвану Ветрокрылую в Святилище Господства в эпохальном режиме до открытия рейда более высокого уровня.",
+		"price": 1000
+	},
+
+	{
+		"id": "AheadOfTheCurveTheJailer",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Герой Своего Времени: Тюремщик",
+		"description": "Победите Тюремщика в Гробнице Предвечных в героическом или более сложном режиме до открытия рейда более высокого уровня.",
+		"price": 1000
+	},
+
+	{
+		"id": "CuttingEdgeTheJailer",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "На Кромке Лезвия: Тюремщик",
+		"description": "Победите Тюремщика в Гробнице Предвечных в эпохальном режиме до открытия рейда более высокого уровня.",
+		"price": 1000
+	},
+
+	{
+		"id": "AheadOfTheCurveFyrakkTheBlazing",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Герой Своего Времени: Фиракк Пылающий",
+		"description": "Победите Фиракка Пылающего в Амирдрассиле, Надежде Сна в героическом или более сложном режиме до открытия рейда более высокого уровня.",
+		"price": 1000
+	},
+
+	{
+		"id": "CuttingEdgeFyrakkTheBlazing",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "На Кромке Лезвия: Фиракк Пылающий",
+		"description": "Победите Фиракка Пылающего в Амирдрассиле, Надежде Сна в эпохальном режиме до открытия рейда более высокого уровня.",
+		"price": 1000
+	},
+
+	{
+		"id": "AheadOfTheCurveDimensiusTheAllDevouring",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Герой Своего Времени: Пространствус Всепоглощающий",
+		"description": "Победите Пространствуса Всепоглощающего в Манагорне Омега в героическом или более сложном режиме до открытия рейда более высокого уровня.",
+		"price": 1000
+	},
+
+	{
+		"id": "CuttingEdgeDimensiusTheAllDevouring",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "На Кромке Лезвия: Пространствус Всепоглощающий",
+		"description": "Победите Пространствуса Всепоглощающего в Манагорне Омега в эпохальном режиме до открытия рейда более высокого уровня.",
+		"price": 1000
+	},
+
+	{
+		"id": "TwoMinutesToMidnight",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Две Минуты до Полуночи",
+		"description": "Победите всех боссов, призываемых Сумеречным Клинком в Сумеречном нагорье, во время событий, предшествующих выходу дополнения Midnight.",
+		"price": 1000
+	},
+
+
+
+	{
 		"id": "great-feats",
 		"type": "achievements",
 		"path": "",
@@ -7,28 +328,6 @@
 		"objectFit": false,
 		"title": "Сердцеед X-45",
 		"description": "Получите Сердцеед X-45, одолев аптекаря Хаммела в Крепости Темного Клыка во время Любовной лихорадки.",
-		"price": 1000
-	},
-
-	{
-		"id": "great-feats",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
-		"title": "Чокнутый",
-		"description": "Добейтесь того, чтобы пираты из шайки Кровавого Паруса начали относиться к вам с уважением, а обитатели Пиратской Бухты, Круговзора, Прибамбасска, Кабестана, ярмарки Новолуния и поместья Черного Ворона стали вас превозносить.",
-		"price": 1000
-	},
-
-	{
-		"id": "great-feats",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
-		"title": "Две минуты до полуночи",
-		"description": "Победите всех боссов, призываемых Сумеречным Клинком в Сумеречном нагорье, во время событий, предшествующих выходу дополнения Midnight.",
 		"price": 1000
 	},
 
@@ -60,41 +359,8 @@
 		"path": "",
 		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
 		"objectFit": false,
-		"title": "Герой своего времени: Пространствус Всепоглощающий",
-		"description": "Победите Пространствуса Всепоглощающего в манагорне Омега в героическом или более сложном режиме до открытия рейда более высокого уровня.",
-		"price": 1000
-	},
-
-	{
-		"id": "great-feats",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
-		"title": "На кромке лезвия: Пространствус Всепоглощающий",
-		"description": "Победите Пространствуса Всепоглощающего в манагорне Омега в эпохальном режиме до открытия рейда более высокого уровня.",
-		"price": 1000
-	},
-
-	{
-		"id": "great-feats",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
 		"title": "Хищник",
 		"description": "Победите Ксемиркола в Танаанских джунглях.",
-		"price": 1000
-	},
-
-	{
-		"id": "great-feats",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
-		"title": "Герой Шаттрата",
-		"description": "Добейтесь того, чтобы вас превозносили Провидцы и Алдоры.",
 		"price": 1000
 	},
 
@@ -214,17 +480,6 @@
 		"path": "",
 		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
 		"objectFit": false,
-		"title": "Якорь мне в глотку!",
-		"description": "Получите адмиральскую шляпу Кровавого Паруса... и почаще выходите на свежий воздух.",
-		"price": 1000
-	},
-
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
 		"title": "Классовед",
 		"description": "Достигните максимального уровня за каждый класс.",
 		"price": 1000
@@ -285,27 +540,7 @@
 		"price": 1000
 	},
 
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
-		"title": "Герой своего времени: Н'Зот Заразитель",
-		"description": "Победите Н'Зота Заразителя в Ни'алоте, Пробуждающемся Городе в героическом или более сложном режиме до выхода рейда более высокого уровня.",
-		"price": 1000
-	},
 
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
-		"title": "Герой своего времени: Тюремщик",
-		"description": "Победите Тюремщика в Гробнице Предвечных в героическом или более сложном режиме до открытия рейда более высокого уровня.",
-		"price": 1000
-	},
 
 	{
 		"id": "LastOfUs",
@@ -445,17 +680,6 @@
 		"path": "",
 		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
 		"objectFit": false,
-		"title": "Мне казалось, это должно быть сложно…",
-		"description": "Победите Ра-дена в Престоле Гроз с первой попытки, не допустив смерти ни одного из участников рейда.",
-		"price": 1000
-	},
-
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
 		"title": "Дружба превыше всего",
 		"description": "Получите верховую жевру по программе Пригласи друга.",
 		"price": 1000
@@ -522,17 +746,6 @@
 		"path": "",
 		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
 		"objectFit": false,
-		"title": "Король-скарабей",
-		"description": "Откройте Врата Ан'Киража.",
-		"price": 1000
-	},
-
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
 		"title": "Служитель Н'Зота",
 		"description": "Обладая временным титулом убийцы в режиме войны, одержите 10 почетных побед, убивая представителей своей фракции, не умерев ни разу.",
 		"price": 1000
@@ -549,16 +762,7 @@
 		"price": 1000
 	},
 
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
-		"title": "Герой своего времени: Фиракк Пылающий",
-		"description": "Победите Фиракка Пылающего в героическом или более сложном режиме рейда Амирдрассил, Надежда Сна до выхода рейда более высокого уровня.",
-		"price": 1000
-	},
+
 
 	{
 		"id": "LastOfUs",
@@ -709,17 +913,6 @@
 		"path": "",
 		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
 		"objectFit": false,
-		"title": "Ветеран Зыбучих песков",
-		"description": "Выполните серию заданий Врата Ан'Киража, включая Сокровище Вневременного (даже если в седле окажется кто-то другой).",
-		"price": 1000
-	},
-
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
 		"title": "Герой бури",
 		"description": "Владелец Кладбоши, спутника из промоакции Heroes of the Storm.",
 		"price": 1000
@@ -791,27 +984,9 @@
 		"price": 1000
 	},
 
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
-		"title": "Герой своего времени: Гаррош Адский Крик (25 игроков)",
-		"description": "Победите Гарроша Адского Крика в обычном или более сложном режиме рейда на 25 человек до выхода обновления 6.0.",
-		"price": 1000
-	},
 
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
-		"title": "На кромке лезвия: Н'Зот Заразитель",
-		"description": "Победите Н'Зота Заразителя в Ни'алоте, Пробуждающемся Городе в эпохальном режиме до выхода рейда более высокого уровня.",
-		"price": 1000
-	},
+
+
 
 	{
 		"id": "LastOfUs",
@@ -821,17 +996,6 @@
 		"objectFit": false,
 		"title": "Маленький Владыка Лжи",
 		"description": "Гордый владелец Бее'лиала.",
-		"price": 1000
-	},
-
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
-		"title": "Посланник шен'дралар",
-		"description": "Добейтесь того, чтобы вас превозносили шен'дралар.",
 		"price": 1000
 	},
 
@@ -927,27 +1091,7 @@
 		"price": 1000
 	},
 
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
-		"title": "Герой своего времени: Аргус Порабощенный",
-		"description": "Победите Аргуса Порабощенного в Анторусе, Пылающем Троне в героическом или более сложном режиме до выхода дополнения 8.0.",
-		"price": 1000
-	},
 
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
-		"title": "Герой своего времени: Черные врата",
-		"description": "Победите Архимонда в героическом или более сложном режиме боя до выхода обновления 7.0.",
-		"price": 1000
-	},
 
 	{
 		"id": "LastOfUs",
@@ -957,17 +1101,6 @@
 		"objectFit": false,
 		"title": "На кромке лезвия: королева Ансурек",
 		"description": "Победите королеву Ансурек в Неруб'арском дворце в эпохальном режиме до открытия рейда более высокого уровня.",
-		"price": 1000
-	},
-
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
-		"title": "На кромке лезвия: Фиракк Пылающий",
-		"description": "Победите Фиракка Пылающего в эпохальном режиме рейда Амирдрассил, Надежда Сна до выхода рейда более высокого уровня.",
 		"price": 1000
 	},
 
@@ -1199,17 +1332,6 @@
 		"path": "",
 		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
 		"objectFit": false,
-		"title": "Герой своего времени: Лэй Шэнь",
-		"description": "Победите Лэй Шэня в Престоле Гроз в обычном режиме до выхода обновления 5.4.",
-		"price": 1000
-	},
-
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
 		"title": "На кромке лезвия: Воля императора",
 		"description": "Одержите победу над Волей императора в Подземельях Могу'шан в героическом режиме до выхода обновления 5.2.",
 		"price": 1000
@@ -1320,17 +1442,6 @@
 		"path": "",
 		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
 		"objectFit": false,
-		"title": "На кромке лезвия: Лэй Шэнь",
-		"description": "Победите Лэй Шэня в Престоле Гроз в героическом режиме до выхода обновления 5.4.",
-		"price": 1000
-	},
-
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
 		"title": "На кромке лезвия: сир Денатрий",
 		"description": "Победите сира Денатрия в замке Нафрия в эпохальном режиме до выхода рейда более высокого уровня.",
 		"price": 1000
@@ -1364,43 +1475,12 @@
 		"path": "",
 		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
 		"objectFit": false,
-		"title": "На кромке лезвия: Черные врата",
-		"description": "Победите Архимонда в эпохальном режиме до выхода обновления 7.0.",
-		"price": 1000
-	},
-
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
 		"title": "Большой медведь Blizzard",
 		"description": "Гордый владелец большого медведя Blizzard, полученного на BlizzCon 2008.",
 		"price": 1000
 	},
 
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
-		"title": "Герой своего времени: Гаррош Адский Крик (10 игроков)",
-		"description": "Победите Гарроша Адского Крика в обычном или более сложном режиме рейда на 10 человек до выхода обновления 6.0.",
-		"price": 1000
-	},
 
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
-		"title": "Герой своего времени: Сильвана Ветрокрылая",
-		"description": "Победите Сильвану Ветрокрылую в Святилище Господства в героическом или более сложном режиме до открытия рейда более высокого уровня.",
-		"price": 1000
-	},
 
 	{
 		"id": "LastOfUs",
@@ -1410,17 +1490,6 @@
 		"objectFit": false,
 		"title": "Коллекционное издание: Зерадар",
 		"description": "Владелец Зерадара, питомца-архонта из коллекционного издания Legacy of the Void.",
-		"price": 1000
-	},
-
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
-		"title": "На кромке лезвия: Ра-ден",
-		"description": "Победите Ра-дена в Престоле Гроз до выхода обновления 5.4.",
 		"price": 1000
 	},
 
@@ -1534,16 +1603,7 @@
 		"price": 1000
 	},
 
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
-		"title": "На кромке лезвия: Гаррош Адский Крик (10 игроков)",
-		"description": "Победите Гарроша Адского Крика в героическом режиме рейда на 10 человек до выхода обновления 6.0.",
-		"price": 1000
-	},
+
 
 	{
 		"id": "LastOfUs",
@@ -1553,17 +1613,6 @@
 		"objectFit": false,
 		"title": "Операция Гномреган",
 		"description": "Вы помогли главному механику Меггакруту и изгнанникам из Гномрегана восстановить контроль над поверхностью Гномрегана.",
-		"price": 1000
-	},
-
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
-		"title": "На кромке лезвия: Аргус Порабощенный",
-		"description": "Победите Аргуса Порабощенного в Анторусе, Пылающем Троне в эпохальном режиме до выхода обновления 8.0.",
 		"price": 1000
 	},
 
@@ -1672,17 +1721,6 @@
 		"path": "",
 		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
 		"objectFit": false,
-		"title": "На кромке лезвия: Сильвана Ветрокрылая",
-		"description": "Победите Сильвану Ветрокрылую в Святилище Господства в эпохальном режиме до открытия рейда более высокого уровня.",
-		"price": 1000
-	},
-
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
 		"title": "На кромке лезвия: Тигель Чернорука",
 		"description": "Победите вождя Чернорука в литейной клана Черной горы в эпохальном режиме до выхода обновления 6.2.",
 		"price": 1000
@@ -1729,17 +1767,6 @@
 		"objectFit": false,
 		"title": "Коллекционное издание: грозный ворон",
 		"description": "Владелец грозного ворона, средства передвижения из коллекционного издания Warlords of Draenor.",
-		"price": 1000
-	},
-
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
-		"title": "На кромке лезвия: Гаррош Адский Крик (25 игроков)",
-		"description": "Победите Гарроша Адского Крика в героическом режиме рейда на 25 человек до выхода обновления 6.0.",
 		"price": 1000
 	},
 
@@ -2136,17 +2163,6 @@
 		"objectFit": false,
 		"title": "Коллекционное издание: императорский цийлинь",
 		"description": "Владелец императорского цийлиня, средства передвижения из коллекционного издания Mists of Pandaria.",
-		"price": 1000
-	},
-
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
-		"title": "На кромке лезвия: Тюремщик",
-		"description": "Победите Тюремщика в Гробнице Предвечных в эпохальном режиме до открытия рейда более высокого уровня.",
 		"price": 1000
 	},
 

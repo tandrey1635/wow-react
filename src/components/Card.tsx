@@ -115,6 +115,9 @@ const Card = ({type, path, img, objectFit, title, description, descriptionTrim, 
 				:
 			type == "achievements"
 				? "card-achievements"
+				:
+			type == "achievements great-feats"
+				? "card-achievements card-achievements-great-feats"
 				: null
 			}`
 		}>
