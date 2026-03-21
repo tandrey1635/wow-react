@@ -1,5 +1,16 @@
 [
 	{
+		"id": "ClassConnoisseur",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Классовед",
+		"description": "Достигните максимального уровня за каждый класс.",
+		"price": 1000
+	},
+
+	{
 		"id": "AgentOfTheShendralar",
 		"type": "achievements great-feats",
 		"path": "",
@@ -55,6 +66,17 @@
 	},
 
 	{
+		"id": "DropDeadGorgeous",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Дары Смерти",
+		"description": "Соберите комплект брони для любого класса из Наксрамаса Classic.",
+		"price": 1000
+	},
+
+	{
 		"id": "HeroOfShattrath",
 		"type": "achievements great-feats",
 		"path": "",
@@ -62,6 +84,424 @@
 		"objectFit": false,
 		"title": "Герой Шаттрата",
 		"description": "Добейтесь того, чтобы вас превозносили Провидцы и Алдоры.",
+		"price": 1000
+	},
+
+	{
+		"id": "ItsOverNineThousand!",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Более Девяти Тысяч!",
+		"description": "Заработайте более 9000 очков достижений.",
+		"price": 1000
+	},
+
+	{
+		"id": "TheramoresFallHorde",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Падение Терамора",
+		"description": "Атакуйте Терамор и спасите Талена Созвучие Песни. Фракция: Орда.",
+		"price": 1000
+	},
+
+	{
+		"id": "TheramoresFallAlliance",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Падение Терамора",
+		"description": "Защитите Джайну, в то время как она забирает Радужное Средоточие из осажденных Ордой руин Терамора. Фракция: Альянс.",
+		"price": 1000
+	},
+
+	{
+		"id": "VictoryInHillsbradHorde",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Победа в Хилсбраде",
+		"description": "Выиграйте сражение на юбилейном поле боя Южнобережье против Мельницы Таррен. Фракция: Орда.",
+		"price": 1000
+	},
+
+	{
+		"id": "VictoryInHillsbradAlliance",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Победа в Хилсбраде",
+		"description": "Выиграйте сражение на юбилейном поле боя Южнобережье против Мельницы Таррен. Фракция: Альянс.",
+		"price": 1000
+	},
+
+	{
+		"id": "IronInvasion",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Железное Вторжение",
+		"description": "Завершите задания по вторжению в Выжженные земли до начала штурма Темного портала.",
+		"price": 1000
+	},
+
+	{
+		"id": "BreakerOfTheBlackHarvest",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Конец Мрачной Жатвы",
+		"description": "Победите Канретада Чернодрева и подчините себе энергию Скверны до начала экспедиции на Дренор.",
+		"price": 1000
+	},
+
+	{
+		"id": "Predator",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Хищник",
+		"description": "Победите Ксемиркола в Танаанских Джунглях.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Последние из Нас",
+		"description": "Останьтесь последним выжившим гладиатором в Колизее Верховного Молота.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastManStanding",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Остаться в Живых",
+		"description": "Останьтесь единственным выжившим после рейтингового боя на Арене 5 на 5.",
+		"price": 1000
+	},
+
+	{
+		"id": "DefenderOfAzerothLegionInvasions",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Защитник Азерота Вторжения Легиона",
+		"description": "Отразите все нападения Пылающего Легиона на Азерот во время событий, предшествующих выходу дополнения Legion.",
+		"price": 1000
+	},
+
+	{
+		"id": "LegendaryCampaign",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Легендарная Кампания",
+		"description": "Завершите 12 кампаний оплотов разных классов.",
+		"price": 1000
+	},
+
+	{
+		"id": "CloudyWithChanceOfInfernals",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Облачно, Возможны Осадки в Виде Инферналов",
+		"description": "Оставайтесь в игре во время завершения Legion Remix.",
+		"price": 1000
+	},
+
+	{
+		"id": "AllianceSlayer",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Гроза Альянса",
+		"description": "Одержите 10 почетных побед в режиме войны, не погибнув от рук охотников за головами, когда за вашу голову назначена награда. Фракция: Орда.",
+		"price": 1000
+	},
+
+	{
+		"id": "HordeSlayer",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Гроза Орды",
+		"description": "Одержите 10 почетных побед в режиме войны, не погибнув от рук охотников за головами, когда за вашу голову назначена награда. Фракция: Альянс.",
+		"price": 1000
+	},
+
+	{
+		"id": "MadWorld",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Безумный Мир",
+		"description": "Выполните все задачи в жутком видении Штормграда и Оргриммара за один поход в одиночку под действием 5 безликих масок.",
+		"price": 1000
+	},
+
+	{
+		"id": "ServantOfNZoth",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Служитель Н'Зота",
+		"description": "Обладая временным титулом убийцы в режиме войны, одержите 10 почетных побед, убивая представителей своей фракции, не умерев ни разу.",
+		"price": 1000
+	},
+
+	{
+		"id": "PhenomenalCosmicPower",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Феноменальная Космическая Сила",
+		"description": "Наполните Сердце Азерот всеми сущностями из обновления Возвращение Азшары 4-го уровня, подходящими для вашей роли.",
+		"price": 1000
+	},
+
+	{
+		"id": "AgainstTheElements",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Бой со Стихиями",
+		"description": "Победите каждого повелителя элементалей во время событий в честь выхода Dragonflight.",
+		"price": 1000
+	},
+
+	{
+		"id": "ArcaneInfluence",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Чародейская Сила",
+		"description": "Помогите усилить чародейскую кузню в Вальдраккене во время события Тайны Азерота.",
+		"price": 1000
+	},
+
+	{
+		"id": "ThisTakesMeBack",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Как в Старые Времена",
+		"description": "Одолейте каждого босса из воспоминаний во время событий, предшествующих выходу дополнения The War Within.",
+		"price": 1000
+	},
+
+	{
+		"id": "TwoMinutesToMidnight",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Две Минуты до Полуночи",
+		"description": "Победите всех боссов, призываемых Сумеречным Клинком в Сумеречном нагорье, во время событий, предшествующих выходу дополнения Midnight.",
+		"price": 1000
+	},
+
+	{
+		"id": "WelcomeHome",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Дом, Милый Дом",
+		"description": "Поселитесь в своем первом доме на Азероте.",
+		"price": 1000
+	},
+
+	{
+		"id": "Undying",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Неумирающий",
+		"description": "Убейте всех боссов в Наксрамасе в рейде на 10 игроков, не допустив смерти ни одного участника рейда за все время сохранения подземелья.",
+		"price": 1000
+	},
+
+	{
+		"id": "Immortal",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Бессмертный",
+		"description": "Убейте всех боссов в Наксрамасе в рейде на 25 игроков, не допустив смерти ни одного участника рейда за все время сохранения подземелья.",
+		"price": 1000
+	},
+
+	{
+		"id": "HeFeedsOnYourTears10",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Он Умоется Твоими Слезами (10 игроков)",
+		"description": "Убейте Алгалона Наблюдателя в рейде на 10 игроков, не допустив смерти ни одного участника рейда за все время сохранения подземелья.",
+		"price": 1000
+	},
+
+	{
+		"id": "HeFeedsOnYourTears25",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Он Умоется Твоими Слезами (25 игроков)",
+		"description": "Убейте Алгалона Наблюдателя в рейде на 25 игроков, не допустив смерти ни одного участника рейда за все время сохранения подземелья.",
+		"price": 1000
+	},
+
+	{
+		"id": "HeraldOfTheTitans",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Посланник Титанов",
+		"description": "Победите Алгалона Наблюдателя на 30-м уровне. При этом ни один участник рейда не должен быть экипирован предметами выше 107-го уровня.",
+		"price": 1000
+	},
+
+	{
+		"id": "ChampionOfUlduar",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Защитник Ульдуара",
+		"description": "Убейте всех боссов в Ульдуаре в рейде на 10 игроков, не допустив смерти ни одного участника рейда за все время сохранения подземелья.",
+		"price": 1000
+	},
+
+	{
+		"id": "ConquerorOfUlduar",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Завоеватель Ульдуара",
+		"description": "Убейте всех боссов в Ульдуаре в рейде на 25 игроков, не допустив смерти ни одного участника рейда за все время сохранения подземелья.",
+		"price": 1000
+	},
+
+	{
+		"id": "TributeToSkill10",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Дань Умению (10 игроков)",
+		"description": "Проходя испытание Великого Крестоносца в рейде на 10 игроков, доберитесь до сундука с наградами. При этом у вас должно остаться не менее 25 попыток.",
+		"price": 1000
+	},
+
+	{
+		"id": "TributeToMadSkill10",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Дань Искусству (10 игроков)",
+		"description": "Проходя испытание Великого Крестоносца в рейде на 10 игроков, доберитесь до сундука с наградами. При этом у вас должно остаться не менее 45 попыток.",
+		"price": 1000
+	},
+
+	{
+		"id": "TributeToInsanity10",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Дань Безумству (10 игроков)",
+		"description": "Проходя испытание Великого Крестоносца в рейде на 10 игроков, доберитесь до сундука с наградами. При этом у вас должно остаться не менее 50 попыток.",
+		"price": 1000
+	},
+
+	{
+		"id": "TributeToSkill25",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Дань Умению (25 игроков)",
+		"description": "Проходя испытание Великого Крестоносца в рейде на 25 игроков, доберитесь до сундука с наградами. При этом у вас должно остаться не менее 25 попыток."
+	},
+
+	{
+		"id": "TributeToMadSkill25",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Дань Искусству (25 игроков)",
+		"description": "Проходя испытание Великого Крестоносца в рейде на 25 игроков, доберитесь до сундука с наградами. При этом у вас должно остаться не менее 45 попыток.",
+		"price": 1000
+	},
+
+	{
+		"id": "TributeToInsanity25",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Дань Безумству (25 игроков)",
+		"description": "Проходя испытание Великого Крестоносца в рейде на 25 игроков, доберитесь до сундука с наградами. При этом у вас должно остаться не менее 50 попыток."
+		,
+		"price": 1000
+	},
+
+	{
+		"id": "TributeToDedicatedInsanity",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Дань Фанатичному Безумию",
+		"description": "Выполните требования для достижения Дань Безумству. При этом ни один участник рейда не должен использовать экипировку из Колизея для 25 человек или предметы более высокого уровня.",
+		"price": 1000
+	},
+
+	{
+		"id": "ICantHearYouOverTheSoundOfHowAwesomeIAm",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Крутостью Мне Заложило Уши",
+		"description": "Победите Синестру в Сумеречном Бастионе с первой попытки, не допустив смерти ни одного из участников рейда.",
 		"price": 1000
 	},
 
@@ -703,17 +1143,6 @@
 		"price": 1000
 	},
 
-	{
-		"id": "TwoMinutesToMidnight",
-		"type": "achievements great-feats",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
-		"objectFit": false,
-		"title": "Две Минуты до Полуночи",
-		"description": "Победите всех боссов, призываемых Сумеречным Клинком в Сумеречном нагорье, во время событий, предшествующих выходу дополнения Midnight.",
-		"price": 1000
-	},
-
 
 
 	{
@@ -744,63 +1173,8 @@
 		"path": "",
 		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
 		"objectFit": false,
-		"title": "Легендарная Кампания",
-		"description": "Завершите 12 кампаний оплотов разных классов.",
-		"price": 1000
-	},
-
-	{
-		"id": "great-feats",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
-		"title": "Хищник",
-		"description": "Победите Ксемиркола в Танаанских джунглях.",
-		"price": 1000
-	},
-
-	{
-		"id": "great-feats",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
 		"title": "Боевые клинки Аззинота",
 		"description": "Возьмите в руки Боевые клинки Аззинота.",
-		"price": 1000
-	},
-
-	{
-		"id": "great-feats",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
-		"title": "Безумный мир",
-		"description": "Выполните все задачи в ходе возвращения в жуткие видения Штормграда и Оргриммара за один поход в одиночку под действием 5 безликих масок.",
-		"price": 1000
-	},
-
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
-		"title": "Последние из нас",
-		"description": "Станьте последним выжившим гладиатором в Колизее Верховного Молота.",
-		"price": 1000
-	},
-
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
-		"title": "Дом, милый дом",
-		"description": "Поселитесь в своем первом доме на Азероте.",
 		"price": 1000
 	},
 
@@ -832,129 +1206,8 @@
 		"path": "",
 		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
 		"objectFit": false,
-		"title": "Конец Мрачной Жатвы",
-		"description": "Победите Канретада Чернодрева и подчините себе энергию Скверны раньше, чем начнется экспедиция на Дренор.",
-		"price": 1000
-	},
-
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
-		"title": "Дары смерти",
-		"description": "Соберите комплект брони для любого класса из Наксрамаса Classic.",
-		"price": 1000
-	},
-
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
-		"title": "Посланник титанов",
-		"description": "Победите Алгалона Наблюдателя на 30-м уровне. При этом ни один участник рейда не должен быть экипирован предметами выше 107-го уровня.",
-		"price": 1000
-	},
-
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
-		"title": "Классовед",
-		"description": "Достигните максимального уровня за каждый класс.",
-		"price": 1000
-	},
-
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
-		"title": "Облачно, возможны осадки в виде инферналов",
-		"description": "Оставайтесь в игре во время завершения Legion: Remix.",
-		"price": 1000
-	},
-
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
-		"title": "Гроза Альянса",
-		"description": "Одержите 10 почетных побед в режиме войны, не погибнув от рук охотников за головами, когда за вашу голову назначена награда. Фракция: Орда.",
-		"price": 1000
-	},
-
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
-		"title": "Падение Терамора",
-		"description": "Участвовать в атаке на Терамор и спасти Талена Созвучие Песни. Фракция: Орда.",
-		"price": 1000
-	},
-
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
-		"title": "Падение Терамора",
-		"description": "Защитите Джайну, в то время как она забирает Радужное Средоточие из осажденных Ордой руин Терамора. Фракция: Альянс.",
-		"price": 1000
-	},
-
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
-		"title": "Защитник Азерота: Вторжения Легиона",
-		"description": "Отразите все нападения Пылающего Легиона на Азерот во время событий, предшествующих выходу дополнения Legion.",
-		"price": 1000
-	},
-
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
 		"title": "Олдскульный наездник",
 		"description": "Владелец одного из старых эпических верховых животных.",
-		"price": 1000
-	},
-
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
-		"title": "Более девяти тысяч!",
-		"description": "Заработайте более 9000 очков достижений.",
-		"price": 1000
-	},
-
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
-		"title": "Феноменальная космическая сила",
-		"description": "Наполните Сердце Азерот всеми сущностями из обновления Возвращение Азшары 4-го уровня, подходящими для вашей роли.",
 		"price": 1000
 	},
 
@@ -1019,17 +1272,6 @@
 		"path": "",
 		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
 		"objectFit": false,
-		"title": "Железное вторжение",
-		"description": "Завершите задания по вторжению в Выжженные земли до начала штурма Темного портала.",
-		"price": 1000
-	},
-
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
 		"title": "Большой черный боевой мамонт",
 		"description": "Получите большого черного боевого мамонта.",
 		"price": 1000
@@ -1074,17 +1316,6 @@
 		"path": "",
 		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
 		"objectFit": false,
-		"title": "Гроза Орды",
-		"description": "Одержите 10 почетных побед в режиме войны, не погибнув от рук охотников за головами, когда за вашу голову назначена награда. Фракция: Альянс.",
-		"price": 1000
-	},
-
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
 		"title": "Громовая Ярость, благословенный клинок Искателя Ветра",
 		"description": "Возьмите в руки Громовую Ярость, благословенный клинок Искателя Ветра.",
 		"price": 1000
@@ -1109,17 +1340,6 @@
 		"objectFit": false,
 		"title": "Темная Скорбь",
 		"description": "Возьмите в руки Темную Скорбь.",
-		"price": 1000
-	},
-
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
-		"title": "Служитель Н'Зота",
-		"description": "Обладая временным титулом убийцы в режиме войны, одержите 10 почетных побед, убивая представителей своей фракции, не умерев ни разу.",
 		"price": 1000
 	},
 
@@ -1292,10 +1512,6 @@
 		"price": 1000
 	},
 
-
-
-
-
 	{
 		"id": "LastOfUs",
 		"type": "achievements",
@@ -1326,32 +1542,6 @@
 		"objectFit": false,
 		"title": "Ход пламенным конем",
 		"description": "Владелец пламенного Азарта, ездового животного из промоакции к годовщине Hearthstone.",
-		"price": 1000
-	},
-
-	{
-		"title": "Дань умению (25 игроков)",
-		"description": "Проходя испытание великого крестоносца в рейде из 25 игроков, доберитесь до сундука с наградами. При этом у вас должно остаться не менее 25 попыток."
-	},
-
-	{
-		"title": "Дань умению (10 игроков)",
-		"description": "Проходя испытание великого крестоносца в рейде из 10 игроков, доберитесь до сундука с наградами. При этом у вас должно остаться не менее 25 попыток."
-	},
-
-	{
-		"title": "Дань искусству (10 игроков)",
-		"description": "Проходя испытание великого крестоносца в рейде из 10 игроков, доберитесь до сундука с наградами. При этом у вас должно остаться не менее 45 попыток."
-	},
-
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
-		"title": "Чародейская сила",
-		"description": "Помогите усилить чародейскую кузню в Вальдраккене во время события Тайны Азерота.",
 		"price": 1000
 	},
 
@@ -1521,71 +1711,8 @@
 	},
 
 	{
-		"id": "Undying",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
-		"objectFit": false,
-		"title": "Неумирающий",
-		"description": "В течение одного сохраненного рейда убейте всех боссов в Наксрамасе в рейде на 10 игроков, не допустив смерти ни одного участника рейда.",
-		"price": 1000
-	},
-
-	{
-		"id": "Immortal",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
-		"objectFit": false,
-		"title": "Бессмертный",
-		"description": "В течение одного сохраненного рейда убейте всех боссов в Наксрамасе в рейде на 25 игроков, не допустив смерти ни одного участника рейда.",
-		"price": 1000
-	},
-
-	{
-		"title": "Защитник Ульдуара",
-		"description": "Убейте всех боссов в Ульдуаре в рейде на 10 игроков, не допустив смерти ни одного участника рейда от боссов за все время сохранения подземелья."
-	},
-
-	{
-		"title": "Завоеватель Ульдуара",
-		"description": "Убейте всех боссов в Ульдуаре в рейде на 25 игроков, не допустив смерти ни одного участника рейда от боссов за все время сохранения подземелья."
-	},
-
-	{
-		"title": "Дань безумству (10 игроков)",
-		"description": "Проходя испытание великого крестоносца в рейде из 10 игроков, доберитесь до сундука с наградами. При этом у вас должно остаться не менее 50 попыток."
-	},
-
-	{
-		"title": "Дань безумству (25 игроков)",
-		"description": "Проходя испытание великого крестоносца в рейде из 25 игроков, доберитесь до сундука с наградами. При этом у вас должно остаться не менее 50 попыток."
-	},
-
-	{
-		"title": "Дань фанатичному безумию",
-		"description": "Выполните требования для достижения Дань безумству. При этом ни один участник рейда не должен использовать экипировку из Колизея для 25 человек или предметы более высокого уровня."
-	},
-
-	{
-		"title": "Дань искусству (25 игроков)",
-		"description": "Проходя испытание великого крестоносца в рейде из 25 игроков, доберитесь до сундука с наградами. При этом у вас должно остаться не менее 45 попыток."
-	},
-
-	{
 		"title": "Испытания Дренора: серебро",
 		"description": "Пройдите все подземелья из дополнения Warlords of Draenor в режиме испытаний, получив рейтинг не ниже серебряного."
-	},
-
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
-		"title": "Крутостью мне заложило уши",
-		"description": "Победите Синестру в Сумеречном бастионе в героическом режиме с первой попытки, не допустив смерти ни одного из участников рейда.",
-		"price": 1000
 	},
 
 	{
@@ -1660,30 +1787,8 @@
 		"path": "",
 		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
 		"objectFit": false,
-		"title": "Как в старые времена",
-		"description": "Одолейте каждого босса из воспоминаний во время событий, предшествующих выходу дополнения The War Within.",
-		"price": 1000
-	},
-
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
 		"title": "Ядошкурый равазавр",
 		"description": "Получите ядошкурого равазавра.",
-		"price": 1000
-	},
-
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
-		"title": "Бой со стихиями",
-		"description": "Победите каждого повелителя элементалей во время событий в честь выхода Dragonflight.",
 		"price": 1000
 	},
 
@@ -1697,8 +1802,6 @@
 		"description": "Гордый владелец большого медведя Blizzard, полученного на BlizzCon 2008.",
 		"price": 1000
 	},
-
-
 
 	{
 		"id": "LastOfUs",
@@ -1810,8 +1913,6 @@
 		"price": 1000
 	},
 
-
-
 	{
 		"id": "LastOfUs",
 		"type": "achievements",
@@ -1820,28 +1921,6 @@
 		"objectFit": false,
 		"title": "Операция Гномреган",
 		"description": "Вы помогли главному механику Меггакруту и изгнанникам из Гномрегана восстановить контроль над поверхностью Гномрегана.",
-		"price": 1000
-	},
-
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
-		"title": "Победа в Хилсбраде",
-		"description": "Выиграйте сражение на юбилейном поле боя Южнобережье против Мельницы Таррен. Фракция: Орда.",
-		"price": 1000
-	},
-
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
-		"title": "Победа в Хилсбраде",
-		"description": "Выиграйте сражение на юбилейном поле боя Южнобережье против Мельницы Таррен. Фракция: Орда.",
 		"price": 1000
 	},
 
@@ -1875,28 +1954,6 @@
 		"objectFit": false,
 		"title": "Коллекционное издание: позолоченный равазавр",
 		"description": "Владелец позолоченного равазавра, средства передвижения из коллекционного издания Battle for Azeroth.",
-		"price": 1000
-	},
-
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
-		"title": "Он умоется твоими слезами (25 игроков)",
-		"description": "Убейте Алгалона Наблюдателя в рейде на 25 игроков, не допустив смерти ни одного участника рейда Алгалона за всю историю сохранения.",
-		"price": 1000
-	},
-
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
-		"title": "Остаться в живых",
-		"description": "Останьтесь единственным выжившим после рейтингового боя на Арене 5 на 5.",
 		"price": 1000
 	},
 
@@ -1974,17 +2031,6 @@
 		"objectFit": false,
 		"title": "Коллекционное издание: соленогривый жеребец",
 		"description": "Владелец соленогривого жеребца, средства передвижения из коллекционного издания Battle for Azeroth.",
-		"price": 1000
-	},
-
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
-		"title": "Он умоется твоими слезами (10 игроков)",
-		"description": "Убейте Алгалона Наблюдателя в рейде на 10 игроков, не допустив смерти ни одного участника рейда от Алгалона за все время сохранения подземелья.",
 		"price": 1000
 	},
 
