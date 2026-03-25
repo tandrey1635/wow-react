@@ -231,6 +231,17 @@
 	},
 
 	{
+		"id": "FearlessSpectator",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Бесстрашный Зритель",
+		"description": "Посмотрите финал киберспортивных состязаний по WoW 2022!",
+		"price": 1000
+	},
+
+	{
 		"id": "LastOfUs",
 		"type": "achievements great-feats",
 		"path": "",
@@ -1233,7 +1244,7 @@
 	},
 
 	{
-		"id": "LastOfUs",
+		"id": "DefenderOfTheTimeways",
 		"type": "achievements great-feats",
 		"path": "",
 		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
@@ -1904,6 +1915,182 @@
 	},
 
 	{
+		"id": "SaluteToStarCraft",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Да Здравствует StarCraft!",
+		"description": "Во время празднования 20-й годовщины StarCraft, отдайте честь одному из следующих питомцев: Зерглингу, Пострелу, Игрушечному Тору, Гиблингу или Зерадару.",
+		"price": 1000
+	},
+
+	{
+		"id": "Murky",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Мурчаль",
+		"description": "Владелец Мурчаля, спутника, полученного в награду за посещение BlizzCon 2005 в Анахайме в Калифорнии.",
+		"price": 1000
+	},
+
+	{
+		"id": "MurlocCostume",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Костюм Мурлока",
+		"description": "Владелец Костюма Мурлока, полученного в награду за посещение BlizzCon 2007 в Анахайме в Калифорнии.",
+		"price": 1000
+	},
+
+	{
+		"id": "BigBlizzardBear",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Большой Медведь Blizzard",
+		"description": "Владелец Большого Медведя Blizzard, ездового животного, полученного полученного в награду за посещение BlizzCon 2008.",
+		"price": 1000
+	},
+
+	{
+		"id": "TyraelsHilt",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Эфес Меча Тираэля",
+		"description": "Владелец Эфеса Меча Тираэля, спутника, полученного в награду за посещение World Wide Invitational-2008 в Париже.",
+		"price": 1000
+	},
+
+	{
+		"id": "MarineMarine",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Мурпех",
+		"description": "Владелец Мурпеха, спутника, полученного в награду за посещение BlizzCon 2009.",
+		"price": 1000
+	},
+
+	{
+		"id": "Deathy",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Смертик",
+		"description": "Владелец Смертика, спутника, полученного в награду за посещение BlizzCon 2010.",
+		"price": 1000
+	},
+
+	{
+		"id": "Murkablo",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Мурчабло",
+		"description": "Владелец Мурчабло, спутника, полученного в награду за посещение BlizzCon 2011.",
+		"price": 1000
+	},
+
+	{
+		"id": "Murkalot",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Мурчелот",
+		"description": "Владелец Мурчелота, спутника, полученного в награду за посещение BlizzCon 2013.",
+		"price": 1000
+	},
+
+	{
+		"id": "Grommloc",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Громчаль",
+		"description": "Владелец Громчаля, спутника, полученного в награду за посещение BlizzCon 2014.",
+		"price": 1000
+	},
+
+	{
+		"id": "Murkidan",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Мурчидан",
+		"description": "Владелец Мурчидана, спутника, полученного в награду за посещение BlizzCon 2015.",
+		"price": 1000
+	},
+
+	{
+		"id": "MurlocBattlemasters",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Мурлоки Военачальники",
+		"description": "Владелец Рыцаря-капитана Мурчаля и Легионера Мурчаля, спутников, полученных в награду за посещение BlizzCon 2016.",
+		"price": 1000
+	},
+
+	{
+		"id": "RidesOfWar",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Всадник Войны",
+		"description": "Владелец Штормградского Истребителя и Оргриммарского Перехватчика ездового животного, полученного в награду за посещение BlizzCon 2017.",
+		"price": 1000
+	},
+
+	{
+		"id": "FlyingColors",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Развевающиеся Знамена",
+		"description": "Владелец военных накидок и боевых стягов Орды и Альянса полученных в награду за посещение BlizzCon 2018.",
+		"price": 1000
+	},
+
+	{
+		"id": "BattleForMrrglroth",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Битва за Мрглрот",
+		"description": "Владелец Муркваны и Мрглдуина, спутников, полученных в награду за посещение BlizzCon 2019.",
+		"price": 1000
+	},
+
+	{
+		"id": "NetherwhelpOnline",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Осененный Онлайном",
+		"description": "Владелец Осененного Луной Дракончика Пустоты с BlizzConline.",
+		"price": 1000
+	},
+
+	{
 		"id": "SargesTale",
 		"type": "achievements great-feats",
 		"path": "",
@@ -1948,6 +2135,17 @@
 	},
 
 	{
+		"id": "MeatMarauder",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Мясной Мародер",
+		"description": "Владелец Мясного Фургона, ездового животного промоакции Warcraft III: Reforged.",
+		"price": 1000
+	},
+
+	{
 		"id": "HeroOfTheStorm",
 		"type": "achievements great-feats",
 		"path": "",
@@ -1981,6 +2179,50 @@
 	},
 
 	{
+		"id": "LilMaggz",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Крошка Магги",
+		"description": "Владелец Крошки Магги.",
+		"price": 1000
+	},
+
+	{
+		"id": "LilFrostwing",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Ледокрылыш",
+		"description": "Владелец Ледокрылыша.",
+		"price": 1000
+	},
+
+	{
+		"id": "Squally",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Шквальчик",
+		"description": "Владелец Шквальчика.",
+		"price": 1000
+	},
+
+	{
+		"id": "YsergleTheDreamurk",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Изергла Дремуркщая",
+		"description": "Владелец Изерглы.",
+		"price": 1000
+	},
+
+	{
 		"id": "LittleLordOfLies",
 		"type": "achievements great-feats",
 		"path": "",
@@ -1990,6 +2232,305 @@
 		"description": "Владелец Бее'лиала.",
 		"price": 1000
 	},
+
+	{
+		"id": "ReturnToDarkness",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Возвращение во Тьму",
+		"description": "Владелец Слияния Гнева, ездового животного из промоакции Diablo IV.",
+		"price": 1000
+	},
+
+	{
+		"id": "CollectorsEditionMiniDiablo",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Коллекционное Издание: Мини Диабло",
+		"description": "Владелец Мини Диабло, спутника из коллекционного издания World of Warcraft Classic.",
+		"price": 1000
+	},
+
+	{
+		"id": "CollectorsEditionZergling",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Коллекционное Издание: Зерглинг",
+		"description": "Владелец Зерглинга, спутника из коллекционного издания World of Warcraft Classic.",
+		"price": 1000
+	},
+
+	{
+		"id": "CollectorsEditionPanda",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Коллекционное Издание: Панда",
+		"description": "Владелец Панды, спутника из коллекционного издания World of Warcraft Classic.",
+		"price": 1000
+	},
+
+	{
+		"id": "CollectorsEditionNetherwhelp",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Коллекционное Издание: Дракончик Пустоты",
+		"description": "Владелец Дракончика Пустоты, спутника из коллекционного издания The Burning Crusade.",
+		"price": 1000
+	},
+
+	{
+		"id": "CollectorsEditionFrostWyrmWhelp",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Коллекционное Издание: Морозец",
+		"description": "Владелец Морозца, спутника из коллекционного издания Wrath of the Lich King.",
+		"price": 1000
+	},
+
+	{
+		"id": "CollectorsEditionLilDeathwing",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Коллекционное Издание: Смертокрылыш",
+		"description": "Владелец Смертокрылыша, спутника из коллекционного издания Cataclysm.",
+		"price": 1000
+	},
+
+	{
+		"id": "CollectorsEditionLuckyQuilenCub",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Коллекционное Издание: Маленький Цийлинь Удачи",
+		"description": "Владелец Маленького Цийлиня Удачи, спутника из коллекционного издания Mists of Pandaria.",
+		"price": 1000
+	},
+
+	{
+		"id": "CollectorsEditionImperialQuilen",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Коллекционное Издание: Императорский Цийлинь",
+		"description": "Владелец Императорского Цийлиня, ездового животного из коллекционного издания Mists of Pandaria.",
+		"price": 1000
+	},
+
+	{
+		"id": "CollectorsEditionDreadHatchling",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Коллекционное Издание: Грозный Птенец",
+		"description": "Владелец Грозного Птенца, спутника из коллекционного издания Warlords of Draenor.",
+		"price": 1000
+	},
+
+	{
+		"id": "CollectorsEditionDreadRaven",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Коллекционное Издание: Грозный Ворон",
+		"description": "Владелец Грозного Ворона, ездового животного из коллекционного издания Warlords of Draenor.",
+		"price": 1000
+	},
+
+	{
+		"id": "CollectorsEditionNibbles",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Коллекционное Издание: Грызунчик",
+		"description": "Владелец Грызунчика, спутника из коллекционного издания Legion.",
+		"price": 1000
+	},
+
+	{
+		"id": "CollectorsEditionIllidariFelstalker",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Коллекционное Издание: Иллидарский Ловец Скверны",
+		"description": "Владелец Иллидарского Ловца Скверны, ездового животного из коллекционного издания Legion.",
+		"price": 1000
+	},
+
+	{
+		"id": "CollectorsEditionTottle",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Коллекционное Издание: Тортик",
+		"description": "Владелец Тортика, спутника из коллекционного издания Battle for Azeroth.",
+		"price": 1000
+	},
+
+	{
+		"id": "CollectorsEditionSeabraidStallion",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Коллекционное Издание: Соленогривый Жеребец",
+		"description": "Владелец Соленогривого Жеребца, ездового животного из коллекционного издания Battle for Azeroth.",
+		"price": 1000
+	},
+
+	{
+		"id": "CollectorsEditionGildedRavasaur",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Коллекционное Издание: Позолоченный Равазавр",
+		"description": "Владелец Позолоченного Равазавра, ездового животного из коллекционного издания Battle for Azeroth.",
+		"price": 1000
+	},
+
+	{
+		"id": "CollectorsEditionHeroicEditionEnsorcelledEverwyrm",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Коллекционное Издание Heroic Edition: Заколдованный Вечный Змей",
+		"description": "Владелец Заколдованного Вечного Змея, ездового животного из коллекционного издания Shadowlands Heroic Edition.",
+		"price": 1000
+	},
+
+	{
+		"id": "CollectorsEditionHeroicEditionTangledDreamweaver",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Коллекционное Издание Heroic Edition: Оплетенный Ткач Снов",
+		"description": "Владелец Оплетенного Ткача Снов, ездового животного из коллекционного издания Dragonflight Heroic Edition.",
+		"price": 1000
+	},
+
+	{
+		"id": "CollectorsEditionHeroicEditionAlgarianStormrider",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Коллекционное Издание Heroic Edition: Алгарийский Странник Бурь",
+		"description": "Владелец Алгарийского Странника Бурь, ездового животного из коллекционного издания The War Within Heroic Edition.",
+		"price": 1000
+	},
+
+	{
+		"id": "CollectorsEditionHeroicEditionLightwingDragonhawk",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Коллекционное Издание Heroic Edition: Светокрылый Дракондор",
+		"description": "Владелец Светокрылого Дракондора, ездового животного из коллекционного издания Midnight Heroic Edition.",
+		"price": 1000
+	},
+
+	{
+		"id": "CollectorsEditionEpicEditionVoidlightSurger",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Коллекционное Издание Epic Edition: Мракозарный Летун",
+		"description": "Владелец Мракозарного Летуна, ездового животного из коллекционного издания Midnight Epic Edition.",
+		"price": 1000
+	},
+
+	{
+		"id": "CollectorsEditionMiniThor",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Коллекционное Издание: Игрушечный Тор",
+		"description": "Владелец Игрушечного Тора, спутника из коллекционного издания StarCraft II: Wings of Liberty.",
+		"price": 1000
+	},
+
+	{
+		"id": "CollectorsEditionZeradar",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Коллекционное Издание: Зерадар",
+		"description": "Владелец Зерадара, спутника из коллекционного издания StarCraft II: Legacy of the Void.",
+		"price": 1000
+	},
+
+	{
+		"id": "CollectorsEditionBaneling",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Коллекционное Издание: Гиблинг",
+		"description": "Владелец Гиблинга, спутника из коллекционного издания Starcraft II: Heart of the Swarm.",
+		"price": 1000
+	},
+
+	{
+		"id": "CollectorsEditionBabyWinston",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Коллекционное Издание: Малыш Уинстон",
+		"description": "Владелец Малыша Уинстона, спутника из коллекционного издания Overwatch Origins Edition.",
+		"price": 1000
+	},
+
+	{
+		"id": "CollectorsEditionFetishShaman",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Коллекционное Издание: Фетиш Шаман",
+		"description": "Владелец Фетиш Шамана, спутника из коллекционного издания Diablo III.",
+		"price": 1000
+	},
+
+	{
+		"id": "CollectorsEditionTreasureGoblin",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Коллекционное Издание: Алчный Гоблин",
+		"description": "Владелец Алчного Гоблина, спутника из коллекционного издания Diablo III: Reaper of Souls.",
+		"price": 1000
+	},
+
+
 
 
 
@@ -2010,14 +2551,15 @@
 		"price": 1000
 	},
 
+
 	{
 		"id": "LastOfUs",
 		"type": "achievements",
 		"path": "",
 		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
 		"objectFit": false,
-		"title": "Heroic Edition: алгарийский странник бурь",
-		"description": "Владелец алгарийского странника бурь (транспорта из The War Within Heroic Edition).",
+		"title": "Штурм башни",
+		"description": "Пройдены испытания башни магов для всех классов и специализаций в ходе путешествия во времени Legion.",
 		"price": 1000
 	},
 
@@ -2027,8 +2569,8 @@
 		"path": "",
 		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
 		"objectFit": false,
-		"title": "Большой медведь Blizzard",
-		"description": "Гордый владелец большого медведя Blizzard, полученного на BlizzCon 2008.",
+		"title": "Сектантская стратегия",
+		"description": "Победите в игре стратагем Сумеречного Клинка в лагере Сумеречного вознесения.",
 		"price": 1000
 	},
 
@@ -2038,8 +2580,8 @@
 		"path": "",
 		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
 		"objectFit": false,
-		"title": "Коллекционное издание: Зерадар",
-		"description": "Владелец Зерадара, питомца-архонта из коллекционного издания Legacy of the Void.",
+		"title": "Славные двадцать лет",
+		"description": "Заработайте следующие достижения.",
 		"price": 1000
 	},
 
@@ -2049,8 +2591,8 @@
 		"path": "",
 		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
 		"objectFit": false,
-		"title": "Epic Edition: мракозарный летун",
-		"description": "Владелец мракозарного летуна (транспорт из Midnight Epic Edition).",
+		"title": "Вот теперь все ясно",
+		"description": "Соберите все 12 листовок с пророчествами вестников рока в ходе событий, предшествующих выходу обновления Legion.",
 		"price": 1000
 	},
 
@@ -2060,8 +2602,8 @@
 		"path": "",
 		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
 		"objectFit": false,
-		"title": "Heroic Edition: оплетенный ткач снов",
-		"description": "Владелец оплетенного ткача снов, транспорта из Dragonflight Heroic Edition.",
+		"title": "Гербовая накидка участника соревнований",
+		"description": "Гордый владелец гербовой накидки участника соревнований, полученной за участие в мероприятии Дух Соперничества-2008.",
 		"price": 1000
 	},
 
@@ -2071,8 +2613,8 @@
 		"path": "",
 		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
 		"objectFit": false,
-		"title": "Эфес меча Тираэля",
-		"description": "Гордый владелец эфеса меча Тираэля, полученного в награду за посещение World Wide Invitational-2008 в Париже.",
+		"title": "Дух соперничества",
+		"description": "Гордый владелец Духа Соперничества – спутника, полученного за участие в мероприятии Дух Соперничества-2008.",
 		"price": 1000
 	},
 
@@ -2082,8 +2624,8 @@
 		"path": "",
 		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
 		"objectFit": false,
-		"title": "Всадник войны",
-		"description": "Гордый обладатель штормградского истребителя и оргриммарского перехватчика с BlizzCon 2017.",
+		"title": "Дух соперничества",
+		"description": "Гордый владелец Духа Соперничества – спутника, полученного за участие в мероприятии Дух Соперничества-2008.",
 		"price": 1000
 	},
 
@@ -2093,8 +2635,8 @@
 		"path": "",
 		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
 		"objectFit": false,
-		"title": "Да здравствует StarCraft!",
-		"description": "В неделю 20-й годовщины StarCraft, который вышел в свет 31 марта 1998 года, отдайте /честь одному из следующих питомцев: зерглингу, Пострелу, игрушечному Тору, гиблингу или Зерадару.",
+		"title": "Огнемет Бей-Молоти",
+		"description": "Гордый владелец огнемета Бей-Молоти, подарка на Зимний Покров 2015.",
 		"price": 1000
 	},
 
@@ -2104,8 +2646,8 @@
 		"path": "",
 		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
 		"objectFit": false,
-		"title": "Коллекционное издание: позолоченный равазавр",
-		"description": "Владелец позолоченного равазавра, средства передвижения из коллекционного издания Battle for Azeroth.",
+		"title": "Бомбометатель Бей-Молоти",
+		"description": "Гордый владелец бомбометателя Бей-Молоти, подарка на Зимний Покров 2013.",
 		"price": 1000
 	},
 
@@ -2115,8 +2657,8 @@
 		"path": "",
 		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
 		"objectFit": false,
-		"title": "Коллекционное издание: грозный ворон",
-		"description": "Владелец грозного ворона, средства передвижения из коллекционного издания Warlords of Draenor.",
+		"title": "Они что, одинаковые?..",
+		"description": "Гордый владелец подарков к Зимнему Покрову 2012 года: мяча из толстой кожи и футбольного мяча.",
 		"price": 1000
 	},
 
@@ -2126,8 +2668,8 @@
 		"path": "",
 		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
 		"objectFit": false,
-		"title": "Коллекционное издание: Игрушечный Тор",
-		"description": "Владелец игрушечного Тора, спутника из коллекционного издания StarCraft II: Wings of Liberty.",
+		"title": "Заводной ракетобот",
+		"description": "Гордый владелец заводного ракетобота – подарка к празднику Зимнего Покрова-2007.",
 		"price": 1000
 	},
 
@@ -2137,8 +2679,8 @@
 		"path": "",
 		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
 		"objectFit": false,
-		"title": "Коллекционное издание: Смертокрылыш",
-		"description": "Владелец Смертокрылыша, спутника из коллекционного издания Cataclysm.",
+		"title": "Пневматический карабин Красного Всадника",
+		"description": "Гордый владелец пневматического карабина Красного Всадника, подарка на Зимний Покров 2009.",
 		"price": 1000
 	},
 
@@ -2148,8 +2690,8 @@
 		"path": "",
 		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
 		"objectFit": false,
-		"title": "Коллекционное издание: соленогривый жеребец",
-		"description": "Владелец соленогривого жеребца, средства передвижения из коллекционного издания Battle for Azeroth.",
+		"title": "Осторожность прежде всего",
+		"description": "Гордый владелец комплекта игрушечных доспехов, подарка к Зимнему Покрову 2018.",
 		"price": 1000
 	},
 
@@ -2159,8 +2701,8 @@
 		"path": "",
 		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
 		"objectFit": false,
-		"title": "Коллекционное издание: малыш Уинстон",
-		"description": "Владелец Overwatch Origins Edition и хозяин питомца по имени малыш Уинстон из коллекционного издания Overwatch.",
+		"title": "Цветастый свитер Зимнего Покрова",
+		"description": "Гордый владелец цветастого свитера Зимнего Покрова, подарка на Зимний Покров 2011.",
 		"price": 1000
 	},
 
@@ -2170,8 +2712,8 @@
 		"path": "",
 		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
 		"objectFit": false,
-		"title": "Коллекционное издание: фетиш-шаман",
-		"description": "Владелец фетиш-шамана, спутника из коллекционного издания Diablo III",
+		"title": "Крошшер Бей-Молоти",
+		"description": "Гордый владелец крошшера Бей-Молоти, подарка на Зимний Покров 2014.",
 		"price": 1000
 	},
 
@@ -2181,8 +2723,8 @@
 		"path": "",
 		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
 		"objectFit": false,
-		"title": "Heroic Edition: заколдованный вечный змей",
-		"description": "Владелец заколдованного вечного змея (транспорта из Shadowlands Heroic Edition).",
+		"title": "Бр-р-р... Да тут холодно!",
+		"description": "Гордый владелец эндотермического бластера, подарка на Зимний Покров 2016.",
 		"price": 1000
 	},
 
@@ -2192,8 +2734,8 @@
 		"path": "",
 		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
 		"objectFit": false,
-		"title": "Возвращение во Тьму",
-		"description": "Владелец слияния гнева, транспорта промоакции Diablo IV.",
+		"title": "Болид Бей-Молоти",
+		"description": "Гордый владелец болида Бей-Молоти – подарка к празднику Зимнего Покрова-2008.",
 		"price": 1000
 	},
 
@@ -2203,8 +2745,8 @@
 		"path": "",
 		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
 		"objectFit": false,
-		"title": "Коллекционное издание: алчный гоблин",
-		"description": "Владелец алчного гоблина, спутника из коллекционного издания Diablo III: Reaper of Souls.",
+		"title": "Гонщик рок-н-ролл мобиля",
+		"description": "Гордый владелец рок-н-ролл мобиля 19.9.3 – подарка к празднику Зимнего Покрова-2021.",
 		"price": 1000
 	},
 
@@ -2214,8 +2756,8 @@
 		"path": "",
 		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
 		"objectFit": false,
-		"title": "Коллекционное издание: иллидарский ловец Скверны",
-		"description": "Владелец иллидарского ловца Скверны, средства передвижения из коллекционного издания Legion.",
+		"title": "Гонщик рок-н-ролл мобиля",
+		"description": "Гордый владелец рок-н-ролл мобиля 19.9.3 – подарка к празднику Зимнего Покрова-2021.",
 		"price": 1000
 	},
 
@@ -2225,8 +2767,8 @@
 		"path": "",
 		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
 		"objectFit": false,
-		"title": "Коллекц. издание: дракончик Пустоты",
-		"description": "Владелец маленького дракончика Пустоты, спутника из коллекционного издания The Burning Crusade.",
+		"title": "Не играйте с этим дома",
+		"description": "Гордый владелец игрушечного оружия, подарка на Зимний Покров 2017.",
 		"price": 1000
 	},
 
@@ -2236,8 +2778,8 @@
 		"path": "",
 		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
 		"objectFit": false,
-		"title": "Коллекционное издание: гиблинг",
-		"description": "Владелец гиблинга, спутника из коллекционного издания Starcraft II: Heart of the Swarm.",
+		"title": "E4? Размолотил!",
+		"description": "Гордый владелец подарка на Зимний Покров 2019: линкора или броненосца Бей-Молоти.",
 		"price": 1000
 	},
 
@@ -2247,8 +2789,8 @@
 		"path": "",
 		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
 		"objectFit": false,
-		"title": "Коллекционное издание: грозный птенец",
-		"description": "Владелец грозного птенца, спутника из коллекционного издания Warlords of Draenor.",
+		"title": "Звезды с неба",
+		"description": "гордый владелец ловца падающих звезд, подарка к Зимнему Покрову 2022 г.",
 		"price": 1000
 	},
 
@@ -2258,8 +2800,8 @@
 		"path": "",
 		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
 		"objectFit": false,
-		"title": "Коллекционное издание: Зерглинг",
-		"description": "Владелец Зерглинга, спутника из коллекционного издания игры.",
+		"title": "Зеленая кружка Хмельного фестиваля",
+		"description": "Гордый владелец зеленой кружки Хмельного фестиваля 2009.",
 		"price": 1000
 	},
 
@@ -2269,8 +2811,228 @@
 		"path": "",
 		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
 		"objectFit": false,
-		"title": "Коллекционное издание: императорский цийлинь",
-		"description": "Владелец императорского цийлиня, средства передвижения из коллекционного издания Mists of Pandaria.",
+		"title": "Синяя кружка Хмельного фестиваля",
+		"description": "Гордый владелец синей кружки Хмельного фестиваля 2008.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Желтая кружка Хмельного фестиваля",
+		"description": "Гордый владелец желтой кружки Хмельного фестиваля 2007.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Летающий праздник",
+		"description": "Гордый владелец венкоранга, подарка к Зимнему Покрову 2020 г.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Приход Смерти",
+		"description": "Пройдите цепочку заданий Приход Смерти, ведущую к событиям дополнения Shadowlands.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Поиграем в снежки!",
+		"description": "Гордый владелец костюма счастливого снеговика, подарка к Зимнему Покрову 2025 г.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Поиграем в снежки!",
+		"description": "Гордый владелец костюма счастливого снеговика, подарка к Зимнему Покрову 2025 г.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Безупречная сделка",
+		"description": "Победите всех боссов в течение одного сохранения подземелья Тайный рынок Тазавеш, не допустив смерти ни одного участника группы, на сложном режиме",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Поймай меня, если сможешь!",
+		"description": "Гордый владелец гоночного пояса младшего хранителя времени, подарка к Зимнему Покрову 2023 г.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Что же там такое?",
+		"description": "Гордый владелец пни-коробки, подарка к Зимнему Покрову 2024 г.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Пульт управления мини-дирижаблем",
+		"description": "Гордый владелец пульта управления мини-дирижаблем, подарка на Зимний Покров 2010.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Укротитель бурных потоков времени",
+		"description": "Получите Укрощение потоков времени в течение 5 недель в ходе события Бурные потоки времени.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Жестокий гладиатор",
+		"description": "Получите звание жестокого гладиатора.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Деспотичный гладиатор",
+		"description": "Получено звание деспотичного гладиатора.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Гневный гладиатор",
+		"description": "Получено звание гневного гладиатора.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Смертоносный гладиатор",
+		"description": "Заслужите звание смертоносного гладиатора.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Безжалостный гладиатор",
+		"description": "Заслужите звание безжалостного гладиатора",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Беспощадный гладиатор",
+		"description": "Получен титул беспощадного гладиатора.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Мстительный гладиатор",
+		"description": "Получите звание мстительного гладиатора.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Неумолимый гладиатор",
+		"description": "Заслужите звание неумолимого гладиатора.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Яростный гладиатор",
+		"description": "Получен титул яростного гладиатора.",
+		"price": 1000
+	},
+
+	{
+		"id": "LastOfUs",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"objectFit": false,
+		"title": "Мурчалий Гладиатор",
+		"description": "Гордый владелец Мурчалия Гладиатора.",
 		"price": 1000
 	}
 ]

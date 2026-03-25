@@ -878,5 +878,364 @@
 		"title": "Мощь Тигля",
 		"description": "Полностью раскройте потенциал Тигля Света Пустоты с одним из ваших предметов артефакта.",
 		"price": 1000
+	},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+	{
+		"id": "CruciblesPromise",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Верховный полководец",
+		"description": "Заслужите звание Верховный полководец на 60-м уровне.",
+		"price": 1000
+	},
+
+	{
+		"id": "CruciblesPromise",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Рыцарь-капитан",
+		"description": "Заслужите звание Рыцарь-капитан на 60-м уровне.",
+		"price": 1000
+	},
+
+	{
+		"id": "CruciblesPromise",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Главнокомандующий",
+		"description": "Заслужите звание Главнокомандующий на 60-м уровне.",
+		"price": 1000
+	},
+
+	{
+		"id": "CruciblesPromise",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Кровавый страж",
+		"description": "Заслужите звание Кровавый страж на 60-м уровне.",
+		"price": 1000
+	},
+
+	{
+		"id": "CruciblesPromise",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Легионер",
+		"description": "Заслужите звание Легионер на 60-м уровне.",
+		"price": 1000
+	},
+
+	{
+		"id": "CruciblesPromise",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Старший сержант",
+		"description": "Заслужите звание Старший сержант на 60-м уровне.",
+		"price": 1000
+	},
+
+	{
+		"id": "CruciblesPromise",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Старшина",
+		"description": "Заслужите звание Старшина на 60-м уровне.",
+		"price": 1000
+	},
+
+	{
+		"id": "CruciblesPromise",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Рыцарь-лейтенант",
+		"description": "Заслужите звание Рыцарь-лейтенант на 60-м уровне.",
+		"price": 1000
+	},
+
+	{
+		"id": "CruciblesPromise",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Сержант",
+		"description": "Заслужите звание Сержант на 60-м уровне.",
+		"price": 1000
+	},
+
+	{
+		"id": "CruciblesPromise",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Старший сержант",
+		"description": "Заслужите звание Старший сержант на 60-м уровне.",
+		"price": 1000
+	},
+
+	{
+		"id": "CruciblesPromise",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Полководец",
+		"description": "Заслужите звание Полководец на 60-м уровне.",
+		"price": 1000
+	},
+
+	{
+		"id": "CruciblesPromise",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Рядовой",
+		"description": "Заслужите звание Рядовой на 60-м уровне.",
+		"price": 1000
+	},
+
+	{
+		"id": "CruciblesPromise",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Старшина",
+		"description": "Заслужите звание Старшина на 60-м уровне.",
+		"price": 1000
+	},
+
+	{
+		"id": "CruciblesPromise",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Каменный страж",
+		"description": "Заслужите звание Каменный страж на 60-м уровне.",
+		"price": 1000
+	},
+
+	{
+		"id": "CruciblesPromise",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Генерал-лейтенант",
+		"description": "Заслужите звание Генерал-лейтенант на 60-м уровне.",
+		"price": 1000
+	},
+
+	{
+		"id": "CruciblesPromise",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Рыцарь-защитник",
+		"description": "Заслужите звание Рыцарь-защитник на 60-м уровне.",
+		"price": 1000
+	},
+
+	{
+		"id": "CruciblesPromise",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Командор",
+		"description": "Заслужите звание Командор на 60-м уровне.",
+		"price": 1000
+	},
+
+	{
+		"id": "CruciblesPromise",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Лейтенант-командор",
+		"description": "Заслужите звание Лейтенант-командор на 60-м уровне.",
+		"price": 1000
+	},
+
+	{
+		"id": "CruciblesPromise",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Капрал",
+		"description": "Заслужите звание Капрал на 60-м уровне.",
+		"price": 1000
+	},
+
+	{
+		"id": "CruciblesPromise",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Рыцарь",
+		"description": "Заслужите звание Рыцарь на 60-м уровне.",
+		"price": 1000
+	},
+
+	{
+		"id": "CruciblesPromise",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Центурион",
+		"description": "Заслужите звание Центурион на 60-м уровне.",
+		"price": 1000
+	},
+
+	{
+		"id": "CruciblesPromise",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Генерал",
+		"description": "Заслужите звание Генерал на 60-м уровне.",
+		"price": 1000
+	},
+
+	{
+		"id": "CruciblesPromise",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Фельдмаршал",
+		"description": "Заслужите звание Фельдмаршал на 60-м уровне.",
+		"price": 1000
+	},
+
+	{
+		"id": "CruciblesPromise",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Защитник",
+		"description": "Заслужите звание Защитник на 60-м уровне.",
+		"price": 1000
+	},
+
+	{
+		"id": "CruciblesPromise",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Разведчик",
+		"description": "Заслужите звание Разведчик на 60-м уровне.",
+		"price": 1000
+	},
+
+	{
+		"id": "CruciblesPromise",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Маршал",
+		"description": "Заслужите звание Маршал на 60-м уровне.",
+		"price": 1000
+	},
+
+	{
+		"id": "CruciblesPromise",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Сержант",
+		"description": "Заслужите звание Сержант на 60-м уровне.",
+		"price": 1000
+	},
+
+	{
+		"id": "CruciblesPromise",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Рубака",
+		"description": "Заслужите звание Рубака на 60-м уровне.",
+		"price": 1000
+	},
+
+	{
+		"id": "CruciblesPromise",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Сражайся стильно: испытание",
+		"description": "Разблокируйте все варианты внешнего вида вашего артефакта в режиме испытаний.",
+		"price": 1000
+	},
+
+	{
+		"id": "CruciblesPromise",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Дань прошлому",
+		"description": "Откройте новый вариант расцветки артефакта, отдав дань его прошлому.",
+		"price": 1000
+	},
+
+	{
+		"id": "CruciblesPromise",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Испытанное оружие",
+		"description": "Завершите испытание артефакта и разблокируйте новый внешний вид артефактного оружия.",
+		"price": 1000
 	}
 ]
