@@ -264,6 +264,17 @@
 	},
 
 	{
+		"id": "ItAllMakesSenseNow",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Вот Теперь Все Ясно",
+		"description": "Соберите все 12 листовок с пророчествами вестников рока во время событий, предшествующих выходу обновления Legion.",
+		"price": 1000
+	},
+
+	{
 		"id": "StandAgainstTheLegion",
 		"type": "achievements great-feats",
 		"path": "",
@@ -293,6 +304,17 @@
 		"objectFit": false,
 		"title": "Легендарная Кампания",
 		"description": "Завершите 12 кампаний оплотов разных классов.",
+		"price": 1000
+	},
+
+	{
+		"id": "TowerOverwhelming",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Штурм Башни",
+		"description": "Пройдите испытания Башни Магов для всех классов и специализаций.",
 		"price": 1000
 	},
 
@@ -414,6 +436,17 @@
 		"objectFit": false,
 		"title": "Первый Пират на Корабле",
 		"description": "Победите в матче Пиратской Бури.",
+		"price": 1000
+	},
+
+	{
+		"id": "CrunchingForCultists",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Сектантская Стратегия",
+		"description": "Победите в игре стратагем Сумеречного Клинка в лагере Сумеречного Вознесения.",
 		"price": 1000
 	},
 
@@ -1843,7 +1876,7 @@
 		"path": "",
 		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
 		"objectFit": false,
-		"title": "Дружба – Это Святое",
+		"title": "Дружба – это Святое",
 		"description": "Получите Изумрудного Гиппогрифа по программе Пригласи Друга.",
 		"price": 1000
 	},
@@ -1876,7 +1909,7 @@
 		"path": "",
 		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
 		"objectFit": false,
-		"title": "Дружба – Это Вообще Самое Важное на Свете",
+		"title": "Дружба – это Вообще Самое Важное на Свете",
 		"description": "Получите Огнегривого Скакуна по программе Пригласи Друга.",
 		"price": 1000
 	},
@@ -1911,6 +1944,17 @@
 		"objectFit": false,
 		"title": "Воспоминания о Скверне, Льде и Пламени",
 		"description": "Победа над воспоминаниями Хроми во время празднования 15-й годовщины WoW.",
+		"price": 1000
+	},
+
+	{
+		"id": "CoolTwentyYears",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Славные Двадцать Лет",
+		"description": "Заработайте все перечисленные достижения.",
 		"price": 1000
 	},
 
@@ -1965,7 +2009,29 @@
 		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
 		"objectFit": false,
 		"title": "Эфес Меча Тираэля",
-		"description": "Владелец Эфеса Меча Тираэля, спутника, полученного в награду за посещение World Wide Invitational-2008 в Париже.",
+		"description": "Владелец Эфеса Меча Тираэля, спутника, полученного в награду за посещение World Wide Invitational 2008 в Париже.",
+		"price": 1000
+	},
+
+	{
+		"id": "CompetitorsTabard",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Гербовая Накидка Участника Соревнований",
+		"description": "Владелец Гербовой Накидки Участника Соревнований, полученной в награду за участие в мероприятии Дух Соперничества 2008.",
+		"price": 1000
+	},
+
+	{
+		"id": "SpiritOfCompetition",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Дух Соперничества",
+		"description": "Владелец Духа Соперничества, спутника, полученного в награду за участие в мероприятии Дух Соперничества 2008.",
 		"price": 1000
 	},
 
@@ -2530,6 +2596,148 @@
 		"price": 1000
 	},
 
+	{
+		"id": "ClockworkRocketBot",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Заводной Ракетобот",
+		"description": "Владелец Заводного Ракетобота, подарка на Зимний Покров 2007.",
+		"price": 1000
+	},
+
+	{
+		"id": "CrashinThrashinRacer",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Болид Бей-Молоти",
+		"description": "Владелец Болида Бей-Молоти, подарка на Зимний Покров 2008.",
+		"price": 1000
+	},
+
+	{
+		"id": "RedRiderAirRifle",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Пневматический Карабин Красного Всадника",
+		"description": "Владелец Пневматического Карабина Красного Всадника, подарка на Зимний Покров 2009.",
+		"price": 1000
+	},
+
+	{
+		"id": "MiniZepController",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Пульт Управления Мини-Дирижаблем",
+		"description": "Владелец Пульта Управления Мини-Дирижаблем, подарка на Зимний Покров 2010.",
+		"price": 1000
+	},
+
+	{
+		"id": "GaudyWinterVeilSweater",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Цветастый Свитер Зимнего Покрова",
+		"description": "Владелец Цветастого Свитера Зимнего Покрова, подарка на Зимний Покров 2011.",
+		"price": 1000
+	},
+
+	{
+		"id": "TheyreBothFootballs?",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Они что, Одинаковые?..",
+		"description": "Владелец Мяча из Толстой Кожи и Футбольного Мяча, подарков на Зимний Покров 2012.",
+		"price": 1000
+	},
+
+	{
+		"id": "CrashinThrashinFlyer",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Бомбометатель Бей-Молоти",
+		"description": "Владелец Бомбометателя Бей-Молоти, подарка на Зимний Покров 2013.",
+		"price": 1000
+	},
+
+	{
+		"id": "CrashinThrashinShredder",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Крошшер Бей-Молоти",
+		"description": "Владелец Крошшера Бей-Молоти, подарка на Зимний Покров 2014.",
+		"price": 1000
+	},
+
+	{
+		"id": "CrashinThrashinFlamer",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Огнемет Бей-Молоти",
+		"description": "Владелец Огнемета Бей-Молоти, подарка на Зимний Покров 2015.",
+		"price": 1000
+	},
+
+	{
+		"id": "BrrItsColdInHere",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Бр-р-р... Да тут Холодно!",
+		"description": "Владелец Эндотермического Бластера, подарка на Зимний Покров 2016.",
+		"price": 1000
+	},
+
+	{
+		"id": "DontPlayWithThatInTheHouse",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Не Играйте с Этим Дома",
+		"description": "Владелец Игрушечного Оружия, подарка на Зимний Покров 2017.",
+		"price": 1000
+	},
+
+	{
+		"id": "LeastYouBeingCareful",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Осторожность Прежде Всего",
+		"description": "Владелец Комплекта Игрушечных Доспехов, подарка на Зимний Покров 2018.",
+		"price": 1000
+	},
+
+	{
+		"id": "CrashinSplashin",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "E4? Размолотил!",
+		"description": "Владелец Линкора или Броненосца Бей-Молоти, подарка на Зимний Покров 2019.",
+		"price": 1000
+	},
 
 
 
@@ -2551,194 +2759,6 @@
 		"price": 1000
 	},
 
-
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
-		"title": "Штурм башни",
-		"description": "Пройдены испытания башни магов для всех классов и специализаций в ходе путешествия во времени Legion.",
-		"price": 1000
-	},
-
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
-		"title": "Сектантская стратегия",
-		"description": "Победите в игре стратагем Сумеречного Клинка в лагере Сумеречного вознесения.",
-		"price": 1000
-	},
-
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
-		"title": "Славные двадцать лет",
-		"description": "Заработайте следующие достижения.",
-		"price": 1000
-	},
-
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
-		"title": "Вот теперь все ясно",
-		"description": "Соберите все 12 листовок с пророчествами вестников рока в ходе событий, предшествующих выходу обновления Legion.",
-		"price": 1000
-	},
-
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
-		"title": "Гербовая накидка участника соревнований",
-		"description": "Гордый владелец гербовой накидки участника соревнований, полученной за участие в мероприятии Дух Соперничества-2008.",
-		"price": 1000
-	},
-
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
-		"title": "Дух соперничества",
-		"description": "Гордый владелец Духа Соперничества – спутника, полученного за участие в мероприятии Дух Соперничества-2008.",
-		"price": 1000
-	},
-
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
-		"title": "Дух соперничества",
-		"description": "Гордый владелец Духа Соперничества – спутника, полученного за участие в мероприятии Дух Соперничества-2008.",
-		"price": 1000
-	},
-
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
-		"title": "Огнемет Бей-Молоти",
-		"description": "Гордый владелец огнемета Бей-Молоти, подарка на Зимний Покров 2015.",
-		"price": 1000
-	},
-
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
-		"title": "Бомбометатель Бей-Молоти",
-		"description": "Гордый владелец бомбометателя Бей-Молоти, подарка на Зимний Покров 2013.",
-		"price": 1000
-	},
-
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
-		"title": "Они что, одинаковые?..",
-		"description": "Гордый владелец подарков к Зимнему Покрову 2012 года: мяча из толстой кожи и футбольного мяча.",
-		"price": 1000
-	},
-
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
-		"title": "Заводной ракетобот",
-		"description": "Гордый владелец заводного ракетобота – подарка к празднику Зимнего Покрова-2007.",
-		"price": 1000
-	},
-
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
-		"title": "Пневматический карабин Красного Всадника",
-		"description": "Гордый владелец пневматического карабина Красного Всадника, подарка на Зимний Покров 2009.",
-		"price": 1000
-	},
-
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
-		"title": "Осторожность прежде всего",
-		"description": "Гордый владелец комплекта игрушечных доспехов, подарка к Зимнему Покрову 2018.",
-		"price": 1000
-	},
-
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
-		"title": "Цветастый свитер Зимнего Покрова",
-		"description": "Гордый владелец цветастого свитера Зимнего Покрова, подарка на Зимний Покров 2011.",
-		"price": 1000
-	},
-
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
-		"title": "Крошшер Бей-Молоти",
-		"description": "Гордый владелец крошшера Бей-Молоти, подарка на Зимний Покров 2014.",
-		"price": 1000
-	},
-
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
-		"title": "Бр-р-р... Да тут холодно!",
-		"description": "Гордый владелец эндотермического бластера, подарка на Зимний Покров 2016.",
-		"price": 1000
-	},
-
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
-		"title": "Болид Бей-Молоти",
-		"description": "Гордый владелец болида Бей-Молоти – подарка к празднику Зимнего Покрова-2008.",
-		"price": 1000
-	},
-
 	{
 		"id": "LastOfUs",
 		"type": "achievements",
@@ -2747,39 +2767,6 @@
 		"objectFit": false,
 		"title": "Гонщик рок-н-ролл мобиля",
 		"description": "Гордый владелец рок-н-ролл мобиля 19.9.3 – подарка к празднику Зимнего Покрова-2021.",
-		"price": 1000
-	},
-
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
-		"title": "Гонщик рок-н-ролл мобиля",
-		"description": "Гордый владелец рок-н-ролл мобиля 19.9.3 – подарка к празднику Зимнего Покрова-2021.",
-		"price": 1000
-	},
-
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
-		"title": "Не играйте с этим дома",
-		"description": "Гордый владелец игрушечного оружия, подарка на Зимний Покров 2017.",
-		"price": 1000
-	},
-
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
-		"title": "E4? Размолотил!",
-		"description": "Гордый владелец подарка на Зимний Покров 2019: линкора или броненосца Бей-Молоти.",
 		"price": 1000
 	},
 
@@ -2901,17 +2888,6 @@
 		"objectFit": false,
 		"title": "Что же там такое?",
 		"description": "Гордый владелец пни-коробки, подарка к Зимнему Покрову 2024 г.",
-		"price": 1000
-	},
-
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
-		"title": "Пульт управления мини-дирижаблем",
-		"description": "Гордый владелец пульта управления мини-дирижаблем, подарка на Зимний Покров 2010.",
 		"price": 1000
 	},
 
