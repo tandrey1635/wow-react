@@ -22,7 +22,7 @@
 	},
 
 	{
-		"id": "AvastYeAdmiral!",
+		"id": "AvastYeAdmiral",
 		"type": "achievements great-feats",
 		"path": "",
 		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
@@ -88,7 +88,7 @@
 	},
 
 	{
-		"id": "ItsOverNineThousand!",
+		"id": "ItsOverNineThousand",
 		"type": "achievements great-feats",
 		"path": "",
 		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
@@ -161,6 +161,17 @@
 		"objectFit": false,
 		"title": "Принеси Мне Голову... ээ, то есть...",
 		"description": "Победите Всадника без Головы до обновления праздников в 2023 г.",
+		"price": 1000
+	},
+
+	{
+		"id": "ZalazanesFall",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Падение Залазана",
+		"description": "Помогите Вол'джину одолеть Залазана и вернуть острова Эха Племени Черного Копья.",
 		"price": 1000
 	},
 
@@ -264,6 +275,105 @@
 	},
 
 	{
+		"id": "BrutalGladiator",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Жестокий Гладиатор",
+		"description": "Получите звание Жестокого Гладиатора.",
+		"price": 1000
+	},
+
+	{
+		"id": "TyrannicalGladiator",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Деспотичный Гладиатор",
+		"description": "Получите звание Деспотичного Гладиатора.",
+		"price": 1000
+	},
+
+	{
+		"id": "FuriousGladiator",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Гневный Гладиатор",
+		"description": "Получите звание Гневного Гладиатора.",
+		"price": 1000
+	},
+
+	{
+		"id": "ViciousGladiator",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Яростный Гладиатор",
+		"description": "Получите звание Яростного Гладиатора.",
+		"price": 1000
+	},
+
+	{
+		"id": "MercilessGladiator",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Безжалостный Гладиатор",
+		"description": "Получите звание Безжалостного Гладиатора.",
+		"price": 1000
+	},
+
+	{
+		"id": "RuthlessGladiator",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Беспощадный Гладиатор",
+		"description": "Получите звание Беспощадного Гладиатора.",
+		"price": 1000
+	},
+
+	{
+		"id": "RelentlessGladiator",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Неумолимый Гладиатор",
+		"description": "Получите звание Неумолимого Гладиатора.",
+		"price": 1000
+	},
+
+	{
+		"id": "VengefulGladiator",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Мстительный Гладиатор",
+		"description": "Получите звание Мстительного Гладиатора.",
+		"price": 1000
+	},
+
+	{
+		"id": "DeadlyGladiator",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Смертоносный Гладиатор",
+		"description": "Получите звание Смертоносного Гладиатора.",
+		"price": 1000
+	},
+
+	{
 		"id": "ItAllMakesSenseNow",
 		"type": "achievements great-feats",
 		"path": "",
@@ -315,6 +425,17 @@
 		"objectFit": false,
 		"title": "Штурм Башни",
 		"description": "Пройдите испытания Башни Магов для всех классов и специализаций.",
+		"price": 1000
+	},
+
+	{
+		"id": "MasterOfTheTurbulentTimeways",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Укротитель Бурных Потоков Времени",
+		"description": "Получите Укрощение Потоков Времени в течение 5 недель в ходе события Бурные Потоки Времени.",
 		"price": 1000
 	},
 
@@ -392,6 +513,17 @@
 		"objectFit": false,
 		"title": "Феноменальная Космическая Сила",
 		"description": "Наполните Сердце Азерот всеми сущностями из обновления Возвращение Азшары 4-го уровня, подходящими для вашей роли.",
+		"price": 1000
+	},
+
+	{
+		"id": "DeathRising",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Приход Смерти",
+		"description": "Пройдите цепочку заданий Приход Смерти, во время событий, предшествующих выходу дополнения Shadowlands.",
 		"price": 1000
 	},
 
@@ -479,7 +611,7 @@
 		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
 		"objectFit": false,
 		"title": "Неумирающий",
-		"description": "Убейте всех боссов в Наксрамасе в рейде на 10 игроков, не допустив смерти ни одного участника рейда за все время сохранения подземелья.",
+		"description": "Победите всех боссов в Наксрамасе в рейде на 10 игроков, не допустив смерти ни одного участника рейда за все время сохранения подземелья.",
 		"price": 1000
 	},
 
@@ -490,7 +622,7 @@
 		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
 		"objectFit": false,
 		"title": "Бессмертный",
-		"description": "Убейте всех боссов в Наксрамасе в рейде на 25 игроков, не допустив смерти ни одного участника рейда за все время сохранения подземелья.",
+		"description": "Победите всех боссов в Наксрамасе в рейде на 25 игроков, не допустив смерти ни одного участника рейда за все время сохранения подземелья.",
 		"price": 1000
 	},
 
@@ -501,7 +633,7 @@
 		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
 		"objectFit": false,
 		"title": "Он Умоется Твоими Слезами (10 игроков)",
-		"description": "Убейте Алгалона Наблюдателя в рейде на 10 игроков, не допустив смерти ни одного участника рейда за все время сохранения подземелья.",
+		"description": "Победите Алгалона Наблюдателя в рейде на 10 игроков, не допустив смерти ни одного участника рейда за все время сохранения подземелья.",
 		"price": 1000
 	},
 
@@ -512,7 +644,7 @@
 		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
 		"objectFit": false,
 		"title": "Он Умоется Твоими Слезами (25 игроков)",
-		"description": "Убейте Алгалона Наблюдателя в рейде на 25 игроков, не допустив смерти ни одного участника рейда за все время сохранения подземелья.",
+		"description": "Победите Алгалона Наблюдателя в рейде на 25 игроков, не допустив смерти ни одного участника рейда за все время сохранения подземелья.",
 		"price": 1000
 	},
 
@@ -534,7 +666,7 @@
 		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
 		"objectFit": false,
 		"title": "Защитник Ульдуара",
-		"description": "Убейте всех боссов в Ульдуаре в рейде на 10 игроков, не допустив смерти ни одного участника рейда за все время сохранения подземелья.",
+		"description": "Победите всех боссов в Ульдуаре в рейде на 10 игроков, не допустив смерти ни одного участника рейда за все время сохранения подземелья.",
 		"price": 1000
 	},
 
@@ -545,7 +677,7 @@
 		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
 		"objectFit": false,
 		"title": "Завоеватель Ульдуара",
-		"description": "Убейте всех боссов в Ульдуаре в рейде на 25 игроков, не допустив смерти ни одного участника рейда за все время сохранения подземелья.",
+		"description": "Победите всех боссов в Ульдуаре в рейде на 25 игроков, не допустив смерти ни одного участника рейда за все время сохранения подземелья.",
 		"price": 1000
 	},
 
@@ -1189,6 +1321,17 @@
 	},
 
 	{
+		"id": "FlawlessTransaction",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Безупречная Сделка",
+		"description": "Победите всех боссов в Тайном Рынке Тазавеш в эпохальном режиме на сложном уровене не допустив смерти ни одного участника рейда за все время сохранения подземелья.",
+		"price": 1000
+	},
+
+	{
 		"id": "AheadOfTheCurveSireDenathrius",
 		"type": "achievements great-feats",
 		"path": "",
@@ -1618,7 +1761,7 @@
 	},
 
 	{
-		"id": "Why?BecauseItsRed",
+		"id": "WhyBecauseItsRed",
 		"type": "achievements great-feats",
 		"path": "",
 		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
@@ -1728,7 +1871,7 @@
 	},
 
 	{
-		"id": "Onyx Panther",
+		"id": "OnyxPanther",
 		"type": "achievements great-feats",
 		"path": "",
 		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
@@ -1750,7 +1893,7 @@
 	},
 
 	{
-		"id": "IllFormTheHead!",
+		"id": "IllFormTheHead",
 		"type": "achievements great-feats",
 		"path": "",
 		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
@@ -2245,6 +2388,17 @@
 	},
 
 	{
+		"id": "MurkimusTheGladiator",
+		"type": "achievements great-feats",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
+		"objectFit": false,
+		"title": "Мурчалий Гладиатор",
+		"description": "Владелец Мурчалия Гладиатора.",
+		"price": 1000
+	},
+
+	{
 		"id": "LilMaggz",
 		"type": "achievements great-feats",
 		"path": "",
@@ -2652,7 +2806,7 @@
 	},
 
 	{
-		"id": "TheyreBothFootballs?",
+		"id": "TheyreBothFootballs",
 		"type": "achievements great-feats",
 		"path": "",
 		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
@@ -2739,276 +2893,102 @@
 		"price": 1000
 	},
 
-
-
-
-
-
-
-
-
-
 	{
-		"id": "LastOfUs",
-		"type": "achievements",
+		"id": "FlyingFestivities",
+		"type": "achievements great-feats",
 		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
 		"objectFit": false,
-		"title": "Падение Залазана",
-		"description": "Вы помогли Вол'джину одолеть Залазана и вернуть острова Эха племени Черного Копья.",
+		"title": "Летающий Праздник",
+		"description": "Владелец Венкоранга, подарка на Зимний Покров 2020.",
 		"price": 1000
 	},
 
 	{
-		"id": "LastOfUs",
-		"type": "achievements",
+		"id": "RockinRollinRacer",
+		"type": "achievements great-feats",
 		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
 		"objectFit": false,
-		"title": "Гонщик рок-н-ролл мобиля",
-		"description": "Гордый владелец рок-н-ролл мобиля 19.9.3 – подарка к празднику Зимнего Покрова-2021.",
+		"title": "Гонщик Рок-н-Ролл Мобиля",
+		"description": "Владелец Рок-н-Ролл Мобиля 19.9.3, подарка на Зимний Покров 2021.",
 		"price": 1000
 	},
 
 	{
-		"id": "LastOfUs",
-		"type": "achievements",
+		"id": "CatchFallingStars",
+		"type": "achievements great-feats",
 		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
 		"objectFit": false,
-		"title": "Звезды с неба",
-		"description": "гордый владелец ловца падающих звезд, подарка к Зимнему Покрову 2022 г.",
+		"title": "Звезды с Неба",
+		"description": "Владелец Ловца Падающих Звезд, подарка на Зимний Покров 2022.",
 		"price": 1000
 	},
 
 	{
-		"id": "LastOfUs",
-		"type": "achievements",
+		"id": "CatchMeIfYouCan",
+		"type": "achievements great-feats",
 		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
 		"objectFit": false,
-		"title": "Зеленая кружка Хмельного фестиваля",
-		"description": "Гордый владелец зеленой кружки Хмельного фестиваля 2009.",
+		"title": "Поймай Меня, Если Сможешь!",
+		"description": "Владелец Гоночного Пояса Младшего Хранителя Времени, подарка на Зимний Покров 2023.",
 		"price": 1000
 	},
 
 	{
-		"id": "LastOfUs",
-		"type": "achievements",
+		"id": "WhatCouldItBe",
+		"type": "achievements great-feats",
 		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
 		"objectFit": false,
-		"title": "Синяя кружка Хмельного фестиваля",
-		"description": "Гордый владелец синей кружки Хмельного фестиваля 2008.",
+		"title": "Что же Там Такое?",
+		"description": "Владелец Пни-Коробки, подарка на Зимний Покров 2024.",
 		"price": 1000
 	},
 
 	{
-		"id": "LastOfUs",
-		"type": "achievements",
+		"id": "SnowballFight",
+		"type": "achievements great-feats",
 		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
 		"objectFit": false,
-		"title": "Желтая кружка Хмельного фестиваля",
-		"description": "Гордый владелец желтой кружки Хмельного фестиваля 2007.",
+		"title": "Поиграем в Снежки!",
+		"description": "Владелец Костюма Счастливого Снеговика, подарка на Зимний Покров 2025.",
 		"price": 1000
 	},
 
 	{
-		"id": "LastOfUs",
-		"type": "achievements",
+		"id": "YellowBrewfestStein",
+		"type": "achievements great-feats",
 		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
 		"objectFit": false,
-		"title": "Летающий праздник",
-		"description": "Гордый владелец венкоранга, подарка к Зимнему Покрову 2020 г.",
+		"title": "Желтая Кружка Хмельного Фестиваля",
+		"description": "Владелец Желтой Кружки Хмельного Фестиваля 2007.",
 		"price": 1000
 	},
 
 	{
-		"id": "LastOfUs",
-		"type": "achievements",
+		"id": "BlueBrewfestStein",
+		"type": "achievements great-feats",
 		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
 		"objectFit": false,
-		"title": "Приход Смерти",
-		"description": "Пройдите цепочку заданий Приход Смерти, ведущую к событиям дополнения Shadowlands.",
+		"title": "Синяя Кружка Хмельного Фестиваля",
+		"description": "Владелец Синей Кружки Хмельного Фестиваля 2008.",
 		"price": 1000
 	},
 
 	{
-		"id": "LastOfUs",
-		"type": "achievements",
+		"id": "GreenBrewfestStein",
+		"type": "achievements great-feats",
 		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
+		"img": "/src/assets/img/achievements/bg/great-feats/great-feats.png",
 		"objectFit": false,
-		"title": "Поиграем в снежки!",
-		"description": "Гордый владелец костюма счастливого снеговика, подарка к Зимнему Покрову 2025 г.",
-		"price": 1000
-	},
-
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
-		"title": "Поиграем в снежки!",
-		"description": "Гордый владелец костюма счастливого снеговика, подарка к Зимнему Покрову 2025 г.",
-		"price": 1000
-	},
-
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
-		"title": "Безупречная сделка",
-		"description": "Победите всех боссов в течение одного сохранения подземелья Тайный рынок Тазавеш, не допустив смерти ни одного участника группы, на сложном режиме",
-		"price": 1000
-	},
-
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
-		"title": "Поймай меня, если сможешь!",
-		"description": "Гордый владелец гоночного пояса младшего хранителя времени, подарка к Зимнему Покрову 2023 г.",
-		"price": 1000
-	},
-
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
-		"title": "Что же там такое?",
-		"description": "Гордый владелец пни-коробки, подарка к Зимнему Покрову 2024 г.",
-		"price": 1000
-	},
-
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
-		"title": "Укротитель бурных потоков времени",
-		"description": "Получите Укрощение потоков времени в течение 5 недель в ходе события Бурные потоки времени.",
-		"price": 1000
-	},
-
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
-		"title": "Жестокий гладиатор",
-		"description": "Получите звание жестокого гладиатора.",
-		"price": 1000
-	},
-
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
-		"title": "Деспотичный гладиатор",
-		"description": "Получено звание деспотичного гладиатора.",
-		"price": 1000
-	},
-
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
-		"title": "Гневный гладиатор",
-		"description": "Получено звание гневного гладиатора.",
-		"price": 1000
-	},
-
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
-		"title": "Смертоносный гладиатор",
-		"description": "Заслужите звание смертоносного гладиатора.",
-		"price": 1000
-	},
-
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
-		"title": "Безжалостный гладиатор",
-		"description": "Заслужите звание безжалостного гладиатора",
-		"price": 1000
-	},
-
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
-		"title": "Беспощадный гладиатор",
-		"description": "Получен титул беспощадного гладиатора.",
-		"price": 1000
-	},
-
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
-		"title": "Мстительный гладиатор",
-		"description": "Получите звание мстительного гладиатора.",
-		"price": 1000
-	},
-
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
-		"title": "Неумолимый гладиатор",
-		"description": "Заслужите звание неумолимого гладиатора.",
-		"price": 1000
-	},
-
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
-		"title": "Яростный гладиатор",
-		"description": "Получен титул яростного гладиатора.",
-		"price": 1000
-	},
-
-	{
-		"id": "LastOfUs",
-		"type": "achievements",
-		"path": "",
-		"img": "/src/assets/img/achievements/bg/great-feats/.jpg",
-		"objectFit": false,
-		"title": "Мурчалий Гладиатор",
-		"description": "Гордый владелец Мурчалия Гладиатора.",
+		"title": "Зеленая Кружка Хмельного Фестиваля",
+		"description": "Владелец Зеленой Кружки Хмельного Фестиваля 2009.",
 		"price": 1000
 	}
 ]

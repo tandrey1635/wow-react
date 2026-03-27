@@ -884,7 +884,6 @@ const Cards = ({home, races, horde, alliance, raidsArmoursWarrior, raidsArmoursD
 					{ greatFeats &&
 						<>
 							<h3 className="text-success text-center fw-bold display-4">Всего Великих Подвигов: {counterCardItems(dataGreatFeats)}</h3>
-							<h3 className="text-success text-center fw-bold display-4">Готово: {done(dataGreatFeats)}</h3>
 							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
 								{ renderCardItems(dataGreatFeats) }
 							</div>
