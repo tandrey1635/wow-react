@@ -265,27 +265,23 @@
 
 	{
 		"id": "DrapeOfForebodingMists",
-		"className": "card-armours",
-		"path": "#",
-		"cardImg": "/src/assets/img/armours/bg/cloaks/Drape-of-Foreboding-Mists.png",
-		"titleClassName": "card-title-armours",
-		"title": "Пелерина гнетущих туманов",
-		"descriptionClassName": "card-text-armours",
-		"description": "Закажите Пелерину гнетущих туманов",
-		"priceClassName": "card-price-armours",
+		"type": "armours",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/cloaks/Drape-of-Foreboding-Mists.png",
+		"title": "Пелерина Гнетущих Туманов",
+		"objectFit": false,
+		"description": "Плащ — тень за спиной героя, бесшумный спутник. Скрывает, украшает, защищает. Добавляет шарма даже самому простому образу. Тень, что всегда с тобой.",
 		"price": 300
 	},
 
 	{
 		"id": "ShadowmoonDestroyersDrape",
-		"className": "card-armours",
-		"path": "#",
-		"cardImg": "/src/assets/img/armours/bg/cloaks/Shadowmoon-Destroyers-Drape.png",
-		"titleClassName": "card-title-armours",
-		"title": "Пелерина разрушителя из клана призрачной луны",
-		"descriptionClassName": "card-text-armours",
-		"description": "Закажите Пелерину разрушителя из клана призрачной луны",
-		"priceClassName": "card-price-armours",
+		"type": "armours",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/cloaks/Shadowmoon-Destroyers-Drape.png",
+		"objectFit": false,
+		"title": "Пелерина Разрушителя из Клана Призрачной Луны",
+		"description": "Плащ — тень за спиной героя, бесшумный спутник. Скрывает, украшает, защищает. Добавляет шарма даже самому простому образу. Тень, что всегда с тобой.",
 		"price": 300
 	},
 
