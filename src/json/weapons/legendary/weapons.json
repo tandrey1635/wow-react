@@ -1,7 +1,7 @@
 [
 	{
 		"id": "Ashbringer",
-		"type": "legendary-weapons",
+		"type": "legendary",
 		"path": "weapons-details/ashbringer",
 		"img": "/src/assets/img/weapons/bg/legendary/Ashbringer.png",
 		"objectFit": true,
@@ -12,7 +12,7 @@
 
 	{
 		"id": "SulfurasHandOfRagnaros",
-		"type": "legendary-weapons",
+		"type": "legendary",
 		"path": "weapons-details/sulfuras",
 		"img": "/src/assets/img/weapons/bg/legendary/Sulfuras-Hand-of-Ragnaros.png",
 		"objectFit": false,
@@ -23,7 +23,7 @@
 
 	{
 		"id": "ThunderfuryBlessedBladeOfTheWindseeker",
-		"type": "legendary-weapons",
+		"type": "legendary",
 		"path": "weapons-details/thunderfury",
 		"img": "/src/assets/img/weapons/bg/legendary/Thunderfury-Blessed-Blade-of-the-Windseeker.png",
 		"objectFit": true,
@@ -34,7 +34,7 @@
 
 	{
 		"id": "AtieshGreatstaffOfTheGuardian",
-		"type": "legendary-weapons",
+		"type": "legendary",
 		"path": "weapons-details/atiesh",
 		"img": "/src/assets/img/weapons/bg/legendary/Atiesh-Greatstaff-of-the-Guardian.png",
 		"objectFit": true,
@@ -45,7 +45,7 @@
 
 	{
 		"id": "WarglaivesOfAzzinoth",
-		"type": "legendary-weapons",
+		"type": "legendary",
 		"path": "weapons-details/warglaives-of-azzinoth",
 		"img": "/src/assets/img/weapons/bg/legendary/Warglaives-of-Azzinoth.png",
 		"objectFit": false,
@@ -56,7 +56,7 @@
 
 	{
 		"id": "ThoridalTheStarsFury",
-		"type": "legendary-weapons",
+		"type": "legendary",
 		"path": "weapons-details/thoridal",
 		"img": "/src/assets/img/weapons/bg/legendary/Thoridal-the-Stars-Fury.png",
 		"objectFit": true,
@@ -67,7 +67,7 @@
 
 	{
 		"id": "ValanyrHammerOfAncientKings",
-		"type": "legendary-weapons",
+		"type": "legendary",
 		"path": "weapons-details/valanyr",
 		"img": "/src/assets/img/weapons/bg/legendary/Valanyr-Hammer-of-Ancient-Kings.png",
 		"objectFit": false,
@@ -78,7 +78,7 @@
 
 	{
 		"id": "Frostmourne",
-		"type": "legendary-weapons",
+		"type": "legendary",
 		"path": "weapons-details/frostmourne",
 		"img": "/src/assets/img/weapons/bg/legendary/Frostmourne.png",
 		"objectFit": true,
@@ -89,7 +89,7 @@
 
 	{
 		"id": "Shadowmourne",
-		"type": "legendary-weapons",
+		"type": "legendary",
 		"path": "weapons-details/shadowmourne",
 		"img": "/src/assets/img/weapons/bg/legendary/Shadowmourne.png",
 		"objectFit": false,
@@ -100,7 +100,7 @@
 
 	{
 		"id": "DragonwrathTarecgosasRest",
-		"type": "legendary-weapons",
+		"type": "legendary",
 		"path": "weapons-details/tarecgosa",
 		"img": "/src/assets/img/weapons/bg/legendary/Dragonwrath-Tarecgosas-Rest.png",
 		"objectFit": false,
@@ -111,7 +111,7 @@
 
 	{
 		"id": "FangsOfTheFather",
-		"type": "legendary-weapons",
+		"type": "legendary",
 		"path": "weapons-details/fangs-of-the-father",
 		"img": "/src/assets/img/weapons/bg/legendary/Fangs-of-the-Father.png",
 		"objectFit": false,
@@ -122,7 +122,7 @@
 
 	{
 		"id": "RaeshalareDeathsWhisper",
-		"type": "legendary-weapons",
+		"type": "legendary",
 		"path": "weapons-details/raeshalare-deaths-whisper",
 		"img": "/src/assets/img/weapons/bg/legendary/Raeshalare-Deaths-Whisper.png",
 		"objectFit": false,
@@ -133,7 +133,7 @@
 
 	{
 		"id": "FyralathTheDreamrender",
-		"type": "legendary-weapons",
+		"type": "legendary",
 		"path": "weapons-details/fyralath-the-dreamrender",
 		"img": "/src/assets/img/weapons/bg/legendary/Fyralath-the-Dreamrender.png",
 		"objectFit": false,
@@ -144,7 +144,7 @@
 
 	{
 		"id": "NaszuroTheUnboundLegacy",
-		"type": "legendary-weapons",
+		"type": "legendary",
 		"path": "weapons-details/naszuro-the-unbound-legacy",
 		"img": "/src/assets/img/weapons/bg/legendary/Naszuro-the-Unbound-Legacy.png",
 		"objectFit": false,

@@ -55,10 +55,13 @@ const Announcement = ({ home, races, horde, alliance, warrior, druid, priest, ma
 								? "announcement__header_shaman"
 								:
 							legendaryWeapons
-								? "announcement__header_weapons announcement__header_weapons-legendary"
+								? "announcement__header_legendary"
+								:
+							artifactWeapons
+								? "announcement__header_artifact"
 								:
 							decorativeWeapons
-								? "announcement__header_weapons announcement__header_weapons-decorative"
+								? "announcement__header_decorative"
 								:
 							waterMounts
 								? "announcement__header_water-mounts"

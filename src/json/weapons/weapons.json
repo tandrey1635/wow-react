@@ -34,7 +34,7 @@
 
 	{
 		"id": "LegendaryWeapons",
-		"type": "legendary-weapons",
+		"type": "legendary",
 		"path": "weapons/legendary",
 		"img": "/src/assets/img/promo/bg/weapons/legendary.png",
 		"objectFit": true,
@@ -45,7 +45,7 @@
 
 	{
 		"id": "ArtifactWeapons",
-		"type": "artifact-weapons",
+		"type": "artifact",
 		"path": "weapons/artifact",
 		"cardImg": "/src/assets/img/promo/bg/weapons/artifact.png",
 		"objectFit": false,
@@ -55,8 +55,8 @@
 	},
 
 	{
-		"id": "decorative-weapons",
-		"type": "decorative-weapons",
+		"id": "DecorativeWeapons",
+		"type": "decorative",
 		"path": "weapons/decorative",
 		"img": "/src/assets/img/promo/bg/weapons/decorative.png",
 		"objectFit": false,

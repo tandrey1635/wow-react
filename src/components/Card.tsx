@@ -53,14 +53,14 @@ const Card = ({type, path, img, objectFit, title, description, descriptionTrim, 
 			type == "shaman"
 				? "card-shaman"
 				:
-			type == "legendary-weapons"
-				? "card-weapons-legendary"
+			type == "legendary"
+				? "card-legendary"
 				:
-			type == "artifact-weapons"
-				? "card-weapons-artifact"
+			type == "artifact"
+				? "card-artifact"
 				:
-			type == "decorative-weapons"
-				? "card-weapons-decorative"
+			type == "decorative"
+				? "card-decorative"
 				:
 			type == "armours"
 				? "card-armours"
@@ -138,12 +138,6 @@ const Card = ({type, path, img, objectFit, title, description, descriptionTrim, 
 						type == "races"
 							? "card-title-races"
 							:
-						type == "faction-horde"
-							? "card-title-horde"
-							:
-						type == "faction-alliance"
-							? "card-title-alliance"
-							:
 						addition == "Classic"
 							? "card-dungeons-raids-classic_color"
 							:
@@ -182,24 +176,6 @@ const Card = ({type, path, img, objectFit, title, description, descriptionTrim, 
 							:
 						addition == "The Last Titan"
 							? "card-dungeons-raids-last-titan_color"
-							:
-						type == "legendary-weapons"
-							? "card-title-weapons-legendary"
-							:
-						type == "armours"
-							? "card-title-armours"
-							:
-						type == "earth-mounts"
-							? "card-title-mounts-earth"
-							:
-						type == "fly-mounts"
-							? "card-title-mounts-fly"
-							:
-						type == "dungeons"
-							? "card-title-mythic"
-							:
-						type == "achievements"
-							? "card-title-achievements"
 							: null
 						}`
 					}>
@@ -210,31 +186,7 @@ const Card = ({type, path, img, objectFit, title, description, descriptionTrim, 
 				<p className={`card-text ${
 					type == "races"
 						? "card-text-races"
-						:
-					type == "faction-horde"
-						? "card-text-horde"
-						:
-					type == "faction-alliance"
-						? "card-text-alliance"
-						:
-					type == "legendary-weapons"
-						? "card-text-weapons-legendary"
-						:
-					type == "armours"
-						? "card-text-armours"
-						:
-					type == "earth-mounts"
-						? "card-text-mounts-earth"
-						:
-					type == "fly-mounts"
-						? "card-text-mounts-fly"
-						:
-					type == "dungeons"
-						? "card-text-mythic"
-						:
-					type == "achievements"
-						? "card-text-achievements"
-						: ''
+						: null
 					}`
 				}>
 					{description}
@@ -289,47 +241,11 @@ const Card = ({type, path, img, objectFit, title, description, descriptionTrim, 
 				<p className={`card-price ${
 					type == "races"
 						? "card-price-races"
-						:
-					type == "faction-horde"
-						? "card-price-horde"
-						:
-					type == "faction-alliance"
-						? "card-price-alliance"
-						:
-					type == "legendary-weapons"
-						? "card-price-weapons-legendary"
-						:
-					type == "armours"
-						? "card-price-armours"
-						:
-					type == "earth-mounts"
-						? "card-price-mounts-earth"
-						:
-					type == "fly-mounts"
-						? "card-price-mounts-fly"
-						:
-					type == "dungeons"
-						? "card-price-mythic"
-						:
-					type == "achievements"
-						? "card-price-achievements"
 						: null
 					}`
 				}>
 					от {price}
-					<img
-						className="dollar"
-						src={
-							gold
-							? "/src/assets/img/gold/bg/gold.png"
-							: "/src/assets/img/gold/bg/dollar.png"
-						}
-						alt={
-							gold
-							? "gold"
-							: "$"
-						}
-					/>
+					<img className="dollar"	src="/src/assets/img/gold/bg/dollar.png" alt="$"/>
 				</p>
 				<Link to={path} className="card-btn">Подробнее</Link>
 			</div>

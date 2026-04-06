@@ -1,7 +1,7 @@
 [
 	{
 		"id": "SwabbiesOar",
-		"type": "decorative-weapons",
+		"type": "decorative",
 		"path": "",
 		"img": "/src/assets/img/weapons/bg/decorative/Swabbies-Oar.png",
 		"objectFit": true,
@@ -12,7 +12,7 @@
 
 	{
 		"id": "SwabbiesShovel",
-		"type": "decorative-weapons",
+		"type": "decorative",
 		"path": "",
 		"img": "/src/assets/img/weapons/bg/decorative/Swabbies-Shovel.png",
 		"objectFit": true,
@@ -23,7 +23,7 @@
 
 	{
 		"id": "CorewayShovel",
-		"type": "decorative-weapons",
+		"type": "decorative",
 		"path": "",
 		"img": "/src/assets/img/weapons/bg/decorative/Coreway-Shovel.png",
 		"objectFit": true,
@@ -34,7 +34,7 @@
 
 	{
 		"id": "ElaborateReliquaryCandelabra",
-		"type": "decorative-weapons",
+		"type": "decorative",
 		"path": "",
 		"img": "/src/assets/img/weapons/bg/decorative/Elaborate-Reliquary-Candelabra.png",
 		"objectFit": false,
@@ -45,7 +45,7 @@
 
 	{
 		"id": "ELIZAsRakeAttachment",
-		"type": "decorative-weapons",
+		"type": "decorative",
 		"path": "",
 		"img": "/src/assets/img/weapons/bg/decorative/ELIZAs-Rake-Attachment.png",
 		"objectFit": true,
@@ -56,7 +56,7 @@
 
 	{
 		"id": "FryingPan",
-		"type": "decorative-weapons",
+		"type": "decorative",
 		"path": "",
 		"img": "/src/assets/img/weapons/bg/decorative/Frying-Pan.png",
 		"objectFit": true,
@@ -67,7 +67,7 @@
 
 	{
 		"id": "TrainingSword",
-		"type": "decorative-weapons",
+		"type": "decorative",
 		"path": "",
 		"img": "/src/assets/img/weapons/bg/decorative/Training-Sword.png",
 		"objectFit": true,
@@ -78,7 +78,7 @@
 
 	{
 		"id": "PracticeSword",
-		"type": "decorative-weapons",
+		"type": "decorative",
 		"path": "",
 		"img": "/src/assets/img/weapons/bg/decorative/Practice-Sword.png",
 		"objectFit": true,
@@ -89,7 +89,7 @@
 
 	{
 		"id": "KelesethsPersuader",
-		"type": "decorative-weapons",
+		"type": "decorative",
 		"path": "",
 		"img": "/src/assets/img/weapons/bg/decorative/Keleseths-Persuader.png",
 		"objectFit": true,
@@ -100,7 +100,7 @@
 
 	{
 		"id": "WirtsLastLeg",
-		"type": "decorative-weapons",
+		"type": "decorative",
 		"path": "",
 		"img": "/src/assets/img/weapons/bg/decorative/Wirts-Last-Leg.png",
 		"objectFit": true,
@@ -111,7 +111,7 @@
 
 	{
 		"id": "HivebreakersDipper",
-		"type": "decorative-weapons",
+		"type": "decorative",
 		"path": "",
 		"img": "/src/assets/img/weapons/bg/decorative/Hivebreakers-Dipper.png",
 		"objectFit": true,
@@ -122,7 +122,7 @@
 
 	{
 		"id": "GreenBrewfestStein",
-		"type": "decorative-weapons",
+		"type": "decorative",
 		"path": "",
 		"img": "/src/assets/img/weapons/bg/decorative/Green-Brewfest-Stein.png",
 		"objectFit": false,
@@ -133,7 +133,7 @@
 
 	{
 		"id": "BlueBrewfestStein",
-		"type": "decorative-weapons",
+		"type": "decorative",
 		"path": "",
 		"img": "/src/assets/img/weapons/bg/decorative/Blue-Brewfest-Stein.png",
 		"objectFit": false,
@@ -144,7 +144,7 @@
 
 	{
 		"id": "OverflowingPurpleBrewfestStein",
-		"type": "decorative-weapons",
+		"type": "decorative",
 		"path": "",
 		"img": "/src/assets/img/weapons/bg/decorative/Overflowing-Purple-Brewfest-Stein.png",
 		"objectFit": false,
@@ -155,7 +155,7 @@
 
 	{
 		"id": "FilledYellowBrewfestStein",
-		"type": "decorative-weapons",
+		"type": "decorative",
 		"path": "",
 		"img": "/src/assets/img/weapons/bg/decorative/Filled-Yellow-Brewfest-Stein.png",
 		"objectFit": false,
@@ -166,7 +166,7 @@
 
 	{
 		"id": "FoamSwordRed",
-		"type": "decorative-weapons",
+		"type": "decorative",
 		"path": "",
 		"img": "/src/assets/img/weapons/bg/decorative/Foam-Sword-red.png",
 		"objectFit": true,
@@ -177,7 +177,7 @@
 
 	{
 		"id": "FoamSwordYellow",
-		"type": "decorative-weapons",
+		"type": "decorative",
 		"path": "",
 		"img": "/src/assets/img/weapons/bg/decorative/Foam-Sword-yellow.png",
 		"objectFit": true,
@@ -188,7 +188,7 @@
 
 	{
 		"id": "FoamSwordGreen",
-		"type": "decorative-weapons",
+		"type": "decorative",
 		"path": "",
 		"img": "/src/assets/img/weapons/bg/decorative/Foam-Sword-green.png",
 		"objectFit": true,
@@ -199,7 +199,7 @@
 
 	{
 		"id": "FoamSwordBlue",
-		"type": "decorative-weapons",
+		"type": "decorative",
 		"path": "",
 		"img": "/src/assets/img/weapons/bg/decorative/Foam-Sword-blue.png",
 		"objectFit": true,
@@ -210,7 +210,7 @@
 
 	{
 		"id": "FoamSwordViolet",
-		"type": "decorative-weapons",
+		"type": "decorative",
 		"path": "",
 		"img": "/src/assets/img/weapons/bg/decorative/Foam-Sword-violet.png",
 		"objectFit": true,
@@ -221,7 +221,7 @@
 
 	{
 		"id": "ScepterOfSpectacleFire",
-		"type": "decorative-weapons",
+		"type": "decorative",
 		"path": "",
 		"img": "/src/assets/img/weapons/bg/decorative/Scepter-of-Spectacle-Fire.png",
 		"objectFit": true,
@@ -232,7 +232,7 @@
 
 	{
 		"id": "ScepterOfSpectacleFrost",
-		"type": "decorative-weapons",
+		"type": "decorative",
 		"path": "",
 		"img": "/src/assets/img/weapons/bg/decorative/Scepter-of-Spectacle-Frost.png",
 		"objectFit": true,
@@ -243,7 +243,7 @@
 
 	{
 		"id": "SharpenedTuskarrSpear",
-		"type": "decorative-weapons",
+		"type": "decorative",
 		"path": "",
 		"img": "/src/assets/img/weapons/bg/decorative/Sharpened-Tuskarr-Spear.png",
 		"objectFit": true,
@@ -254,7 +254,7 @@
 
 	{
 		"id": "HordeLance",
-		"type": "decorative-weapons",
+		"type": "decorative",
 		"path": "",
 		"img": "/src/assets/img/weapons/bg/decorative/Horde-Lance.png",
 		"objectFit": true,
@@ -265,7 +265,7 @@
 
 	{
 		"id": "AllianceLance",
-		"type": "decorative-weapons",
+		"type": "decorative",
 		"path": "",
 		"img": "/src/assets/img/weapons/bg/decorative/Alliance-Lance.png",
 		"objectFit": true,
@@ -276,7 +276,7 @@
 
 	{
 		"id": "ArgentLance",
-		"type": "decorative-weapons",
+		"type": "decorative",
 		"path": "",
 		"img": "/src/assets/img/weapons/bg/decorative/Argent-Lance.png",
 		"objectFit": true,
@@ -287,7 +287,7 @@
 
 	{
 		"id": "TwilightFirelance",
-		"type": "decorative-weapons",
+		"type": "decorative",
 		"path": "",
 		"img": "/src/assets/img/weapons/bg/decorative/Twilight-Firelance.png",
 		"objectFit": true,
@@ -298,7 +298,7 @@
 
 	{
 		"id": "AncestorsMight",
-		"type": "decorative-weapons",
+		"type": "decorative",
 		"path": "",
 		"img": "/src/assets/img/weapons/bg/decorative/Ancestors-Might.png",
 		"objectFit": false,
@@ -309,7 +309,7 @@
 
 	{
 		"id": "GreatCandiedBlade",
-		"type": "decorative-weapons",
+		"type": "decorative",
 		"path": "",
 		"img": "/src/assets/img/weapons/bg/decorative/Great-Candied-Blade.png",
 		"objectFit": true,
@@ -320,7 +320,7 @@
 
 	{
 		"id": "CheerbringerXL",
-		"type": "decorative-weapons",
+		"type": "decorative",
 		"path": "",
 		"img": "/src/assets/img/weapons/bg/decorative/Cheerbringer-XL.png",
 		"objectFit": true,

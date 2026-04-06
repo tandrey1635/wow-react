@@ -217,10 +217,13 @@ footer {
 .announcement__header_shaman {
   color: #185ec1;
 }
-.announcement__header_weapons-legendary {
+.announcement__header_legendary {
   color: #ff8000;
 }
-.announcement__header_weapons-decorative {
+.announcement__header_artifact {
+  color: #d9c798;
+}
+.announcement__header_decorative {
   color: #dc3ef3;
 }
 .announcement__header_water-mounts {
@@ -734,37 +737,34 @@ footer {
 .card-shaman:hover {
   box-shadow: 0 0 2px 5px #185ec1;
 }
-.card-weapons {
-  background: linear-gradient(325deg, #8400ff, transparent 30%, transparent 35%, #8400ff, transparent);
-}
-.card-weapons-legendary {
+.card-legendary {
   color: #ff8000;
   background: linear-gradient(325deg, #ff8000, transparent 30%, transparent 35%, #ff8000, transparent);
 }
-.card-weapons-legendary [alt] {
+.card-legendary [alt] {
   color: #ff8000;
 }
-.card-weapons-legendary:hover {
+.card-legendary:hover {
   box-shadow: 0 0 2px 5px #ff8000;
 }
-.card-weapons-artifact {
+.card-artifact {
   background: linear-gradient(325deg, #d9c798, transparent 30%, transparent 35%, #d9c798, transparent);
   color: #d9c798;
 }
-.card-weapons-artifact [alt] {
+.card-artifact [alt] {
   color: #d9c798;
 }
-.card-weapons-artifact:hover {
+.card-artifact:hover {
   box-shadow: 0 0 2px 5px #d9c798;
 }
-.card-weapons-decorative {
+.card-decorative {
   color: #dc3ef3;
   background: linear-gradient(325deg, #dc3ef3, transparent 30%, transparent 35%, #dc3ef3, transparent);
 }
-.card-weapons-decorative [alt] {
+.card-decorative [alt] {
   color: #dc3ef3;
 }
-.card-weapons-decorative:hover {
+.card-decorative:hover {
   box-shadow: 0 0 2px 5px #dc3ef3;
 }
 .card-armours {
@@ -772,12 +772,6 @@ footer {
 }
 .card-armours [alt] {
   color: #8400ff;
-}
-.card-armours-legendary {
-  background: linear-gradient(325deg, #ff8000, transparent 30%, transparent 35%, #ff8000, transparent);
-}
-.card-armours-legendary:hover {
-  box-shadow: 0 0 2px 5px #ff8000;
 }
 .card-armours-artifact {
   background: linear-gradient(325deg, #d9c798, transparent 30%, transparent 35%, #d9c798, transparent);
