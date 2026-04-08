@@ -1,4 +1,4 @@
-const Announcement = ({ home, races, horde, alliance, warrior, druid, priest, mage, monk, hunter, demonHunter, paladin, awakener, rogue, deathKnight, warlock, shaman, oneHandedWeapons, twoHandedWeapons, rangeWeapons, legendaryWeapons, artifactWeapons, decorativeWeapons, twoHandedAxes, weaponsDetailsTitle, weaponsDetailsDescription, ashbringer, sulfuras, thunderfury, atiesh, warglaivesOfAzzinoth, thoridal, valanyr, frostmourne, shadowmourne, tarecgosa, fangsFather, raeshalareDeathsWhisper, fyralathTheDreamrender, naszuroTheUnboundLegacy, armsWarrior, furyWarrior, protectionWarrior, armours, shields, cloaks, tabards, fishingRods, waterMounts, earthMounts, flyMounts, professions, alchemy, mining, engineering, leatherworking, blacksmithing, enchanting,  inscription, tailoring, skinning, herbalism, jewelcrafting, archaeology, riding, cooking, firstAid, fishing, junkyardTinkering, protoformSynthesis, pvp, honour, arena, rbg, additionsDungeons, additionsRaids, dungeonsClassic, dungeonsBurningCrusade, dungeonsWrathOfTheLichKing, dungeonsCataclysm, dungeonsMistsOfPandaria, dungeonsWarlordsOfDraenor, dungeonsLegion, dungeonsBattleForAzeroth, dungeonsShadowlands, dungeonsDragonflight, dungeonsWarWithin, dungeonsMidnight, dungeonsLastTitan, raidsClassic, raidsBurningCrusade, raidsWrathOfTheLichKing, raidsCataclysm, raidsMistsOfPandaria, raidsWarlordsOfDraenor, raidsLegion, raidsBattleForAzeroth, raidsShadowlands, raidsDragonflight, raidsWarWithin, raidsMidnight, raidsLastTitan, lvlUp, lvlUpBase, lvlUpExpert, lvlUpMaster, achievements, quests, legacy, greatFeats, warcraftReforged, wowAnniversary, diablo, hearthstone, heroesStorm, starcraft, overwatch, wowCollectionEditions, diabloCollectionEditions }) => {
+const Announcement = ({ home, races, horde, alliance, warrior, druid, priest, mage, monk, hunter, demonHunter, paladin, awakener, rogue, deathKnight, warlock, shaman, oneHandedWeapons, twoHandedWeapons, rangeWeapons, legendaryWeapons, artifactWeapons, decorativeWeapons, twoHandedAxes, weaponsDetailsTitle, weaponsDetailsDescription, ashbringer, sulfuras, thunderfury, atiesh, warglaivesOfAzzinoth, thoridal, valanyr, frostmourne, shadowmourne, tarecgosa, fangsFather, raeshalareDeathsWhisper, fyralathTheDreamrender, naszuroTheUnboundLegacy, armsWarrior, furyWarrior, protectionWarrior, armours, shields, cloaks, tabards, waterMounts, earthMounts, flyMounts, professions, alchemy, mining, engineering, leatherworking, blacksmithing, enchanting,  inscription, tailoring, skinning, herbalism, jewelcrafting, archaeology, riding, cooking, firstAid, fishing, junkyardTinkering, protoformSynthesis, pvp, honour, arena, rbg, additionsDungeons, additionsRaids, dungeonsClassic, dungeonsBurningCrusade, dungeonsWrathOfTheLichKing, dungeonsCataclysm, dungeonsMistsOfPandaria, dungeonsWarlordsOfDraenor, dungeonsLegion, dungeonsBattleForAzeroth, dungeonsShadowlands, dungeonsDragonflight, dungeonsWarWithin, dungeonsMidnight, dungeonsLastTitan, raidsClassic, raidsBurningCrusade, raidsWrathOfTheLichKing, raidsCataclysm, raidsMistsOfPandaria, raidsWarlordsOfDraenor, raidsLegion, raidsBattleForAzeroth, raidsShadowlands, raidsDragonflight, raidsWarWithin, raidsMidnight, raidsLastTitan, lvlUp, lvlUpBase, lvlUpExpert, lvlUpMaster, achievements, quests, legacy, greatFeats, warcraftReforged, wowAnniversary, diablo, hearthstone, heroesStorm, starcraft, overwatch, wowCollectionEditions, diabloCollectionEditions }) => {
 
 	return (
 		<section className="announcement">
@@ -250,6 +250,21 @@ const Announcement = ({ home, races, horde, alliance, warrior, druid, priest, ma
 							decorativeWeapons
 								? "Декоративное оружие"
 								:
+							cloaks
+								? "Плащи"
+								:
+							waterMounts
+								? "Водные маунты"
+								:
+							earthMounts
+								? "Наземные маунты"
+								:
+							flyMounts
+								? "Летающие маунты"
+								:
+							fishing
+								? "Рыбная ловля"
+								:
 							additionsRaids
 								? "Рейды World of Warcraft"
 								:
@@ -382,23 +397,8 @@ const Announcement = ({ home, races, horde, alliance, warrior, druid, priest, ma
 							shields
 								? "Щиты"
 								:
-							cloaks
-								? "Плащи"
-								:
 							tabards
 								? "Гербовые накидки"
-								:
-							fishingRods
-								? "Удочки"
-								:
-							waterMounts
-								? "Водные маунты"
-								:
-							earthMounts
-								? "Наземные маунты"
-								:
-							flyMounts
-								? "Летающие маунты"
 								:
 							alchemy
 								? "Алхимия"
@@ -444,9 +444,6 @@ const Announcement = ({ home, races, horde, alliance, warrior, druid, priest, ma
 								:
 							firstAid
 								? "Первая помощь"
-								:
-							fishing
-								? "Рыбная ловля"
 								:
 							junkyardTinkering
 								? "Кустарная механика"
@@ -557,6 +554,12 @@ const Announcement = ({ home, races, horde, alliance, warrior, druid, priest, ma
 							shaman
 								? "Пробуди силу духов земли, огня, воды и воздуха. Прими благословение древних предков. Получите полный комплект, станьте воплощением могущества стихий и легендой Азерота!"
 								:
+							legendaryWeapons
+								? "Легендарное оружие, воплощение мифов, чья слава живет в веках. Идеальный выбор тех, кто стремится к совершенству, недостижимому для простых смертных. Будь то меткий выстрел, сокрушительный удар, могущественное заклинание или целительное прикосновение, каждое действие меняет ход истории Азерота. Неважно, что перед тобой полчища Плети или демоны Пылающего Легиона, сила легенды в твоих руках обратит любого врага в прах. Один взмах, выстрел, заклинание или целительное прикосновение, и мир узнает, почему это оружие стало легендой!"
+								:
+							decorativeWeapons
+								? "Декоративное оружие, воплощение безупречной эстетики и высочайшего мастерства. Идеальный выбор тех, кто верит, что истинная сила в искусстве, способном остановить время. Один лишь взгляд рождает восхищение, а сердца ценителей замирают от одного прикосновения. Неважно, что перед тобой частная коллекция ценителя или парадный зал королевского дворца, декоративный клинок затмит все своим великолепием, повествуя о легендах и мастерах минувших дней. Это не орудие битвы, а произведение искусства, чей удар направлен прямо в сердце ценителя!"
+								:
 							waterMounts
 								? "Водные маунты, обитатели морей и океанов, могучие владыки глубин. Они обеспечат вам скорость морской бури и откроют тайны подводного мира. Покорите глубины Азерота!"
 								:
@@ -565,6 +568,9 @@ const Announcement = ({ home, races, horde, alliance, warrior, druid, priest, ma
 								:
 							flyMounts
 								? "Летающие маунты, властелины небес, повелители бескрайних воздушных просторов. Они обеспечат вам скорость ветра и абсолютное превосходство в воздухе. Покорите небеса Азерота!"
+								:
+							fishing
+								? "Удочки, воплощение безграничного терпения и тихой созерцательной силы. Идеальный выбор тех, кто знает, что истинная добыча достанется тому, кто умеет ждать. Леска удочки уходит вглубь вод, растворяясь в отражении неба, а рыба теряет бдительность в мерцающей ряби. Неважно, что клюет, удочка станет продолжением твоей воли и протянет невидимую нить между желанием и добычей, которую ты никогда не упустишь!"
 								:
 							legacy
 								? "Время не щадит никого. Кроме ваших побед. Сменились эпохи, империи пали, герои забыты. Но вы все еще здесь. Доказательство того, что не все уходит бесследно. Это ли не наследие?"
@@ -589,14 +595,8 @@ const Announcement = ({ home, races, horde, alliance, warrior, druid, priest, ma
 							rangeWeapons
 								? "Оружие дальнего боя, искусство победы на дистанции. Идеальный выбор тех, кто предпочитает тактику грубой силе. Один точный выстрел решает исход битвы, враги падают, не успев приблизиться. Неважно, что перед тобой полчища Плети или демоны Пылающего Легиона дистанция и меткость станут твоим преимуществом. Меткость не оставит врагам ни шанса, а дистанция превратится в непреодолимую пропасть!"
 								:
-							legendaryWeapons
-								? "Легендарное оружие, воплощение мифов, чья слава живет в веках. Идеальный выбор тех, кто стремится к совершенству, недостижимому для простых смертных. Будь то меткий выстрел, сокрушительный удар, могущественное заклинание или целительное прикосновение, каждое действие меняет ход истории Азерота. Неважно, что перед тобой полчища Плети или демоны Пылающего Легиона, сила легенды в твоих руках обратит любого врага в прах. Один взмах, выстрел, заклинание или целительное прикосновение, и мир узнает, почему это оружие стало легендой!"
-								:
 							artifactWeapons
 								? "Артефактное оружие, воплощение воли титанов, ярости древних богов и наследие величайших героев Азерота. Это не просто инструмент битвы, а символ эпохи, чья душа откликается лишь тому, кто достоин продолжить ее легенду. Идеальный выбор тех, кто не стремится к славе, но чьи поступки сами творят историю. Будь то сокрушительный удар, рассекающий саму магию, или благословение, воскрешающее павших героев, каждое действие артефакта оставляет вечный след в судьбе мира. Неважно, что перед тобой полчища Плети, демоны Пылающего Легиона или сама ненависть Древних Богов, мощь, что течет в его жилах, не знает границ. Один взмах и реальность склонится перед тобой. Одно заклинание и сама бездна отступает. Это не легенда из прошлого, это сила, которая творит будущее. И теперь она в твоих руках!"
-								:
-							decorativeWeapons
-								? "Декоративное оружие, воплощение безупречной эстетики и высочайшего мастерства. Идеальный выбор тех, кто верит, что истинная сила в искусстве, способном остановить время. Один лишь взгляд рождает восхищение, а сердца ценителей замирают от одного прикосновения. Неважно, что перед тобой частная коллекция ценителя или парадный зал королевского дворца, декоративный клинок затмит все своим великолепием, повествуя о легендах и мастерах минувших дней. Это не орудие битвы, а произведение искусства, чей удар направлен прямо в сердце ценителя!"
 								:
 							weaponsDetailsDescription
 								? weaponsDetailsDescription
@@ -612,9 +612,6 @@ const Announcement = ({ home, races, horde, alliance, warrior, druid, priest, ma
 								:
 							cloaks
 								? "Плащи, воплощение неуловимой грации и таинственного величия. Идеальный выбор тех, кто предпочитает побеждать не грубой силой, а искусством маскировки. Окутывающий плащ скрывает движение, растворяя владельца в тенях, а враги теряют цель в кромешной тьме. Неважно, что перед тобой, бдительный страж на посту или всевидящее око архимага, плащ станет частью самой тени и окутает завесой тайны, вас никогда не обнаружат!"
-								:
-							fishingRods
-								? "Удочки, воплощение безграничного терпения и тихой созерцательной силы. Идеальный выбор тех, кто знает, что истинная добыча достанется тому, кто умеет ждать. Леска удочки уходит вглубь вод, растворяясь в отражении неба, а рыба теряет бдительность в мерцающей ряби. Неважно, что клюет, удочка станет продолжением твоей воли и протянет невидимую нить между желанием и добычей, которую ты никогда не упустишь!"
 								:
 							additionsDungeons
 								? "Азерот хранит множество тайн, оставленных цивилизациями, что канули в лету. Эти места настоящие испытания для отважных искателей приключений. Подземелья Азерота, это уникальные локации, рассчитанные на отряд из пяти героев, где каждый должен сыграть свою роль. Несокрушимый страж, принимающий удары на себя, мудрый целитель, хранящий жизни соратников и безжалостные бойцы, дарующие врагам погибель."

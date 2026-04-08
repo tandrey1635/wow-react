@@ -18,6 +18,7 @@ const Fishing = () => {
 				<h1 style={{fontSize: 120}} className="text-center text-danger">В разработке</h1>
 				<Announcement professions fishing />
 				<Promo fishing />
+				<Cards fishing />
 			</Main>
 			<Footer />
 			<ArrowUp />

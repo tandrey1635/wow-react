@@ -195,15 +195,13 @@
 	},
 
 	{
-		"id": "fishing",
-		"className": "card-professions",
+		"id": "Fishing",
+		"type": "fishing",
 		"path": "professions/fishing",
-		"cardImg": "/src/assets/img/promo/bg/professions/fishing.png",
-		"titleClassName": "card-title-professions",
-		"title": "Рыбная ловля",
-		"descriptionClassName": "card-text-professions",
+		"img": "/src/assets/img/promo/bg/professions/fishing.png",
+		"objectFit": false,
+		"title": "Рыбная Ловля",
 		"description": "Вторичная собирательная профессия, позволяющая рыбачить в различных водоемах по всему миру",
-		"priceClassName": "card-price-professions",
 		"price": 200
 	},
 

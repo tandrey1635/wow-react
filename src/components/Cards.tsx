@@ -57,22 +57,35 @@ import dataFuryWarriorArtifact from '../json/weapons/artifacts/warrior/specializ
 import dataProtectionWarriorArtifact from '../json/weapons/artifacts/warrior/specializations/protection.json';
 
 
+
 import dataArmours from '../json/armours/armours.json';
 import dataCloaks from '../json/armours/cloaks/cloaks.json';
+
+
+
+import dataMounts from '../json/mounts/mounts.json';
+
 
 
 import dataWaterMounts from '../json/mounts/water/water.json';
 import dataFlyMounts from '../json/mounts/fly/fly.json';
 
 
-import dataMounts from '../json/mounts/mounts.json';
+
 import dataProfessions from '../json/professions/professions.json';
+
+
+import dataFishing from '../json/professions/fishing/fishing.json';
+
+
 import dataPvp from '../json/pvp/pvp.json';
 import dataDungeonsRaids from '../json/dungeons-raids/dungeons-raids.json';
 
 
+
 import dataAdditionsDungeons from '../json/dungeons-raids/dungeons/additions.json';
 import dataAdditionsRaids from '../json/dungeons-raids/raids/additions.json';
+
 
 
 import dataClassicDungeons from '../json/dungeons-raids/dungeons/classic/dungeons.json'
@@ -88,6 +101,7 @@ import dataDragonflightDungeons from '../json/dungeons-raids/dungeons/dragonflig
 import dataWarWithinDungeons from '../json/dungeons-raids/dungeons/war-within/dungeons.json';
 import dataMidnightDungeons from '../json/dungeons-raids/dungeons/midnight/dungeons.json';
 import dataLastTitanDungeons from '../json/dungeons-raids/dungeons/last-titan/dungeons.json';
+
 
 
 import dataClassicRaids from '../json/dungeons-raids/raids/classic/raids.json'
@@ -120,7 +134,7 @@ import type { ICard, IWeaponDetails }  from "../types/card-types";
 
 
 
-const Cards = ({home, races, horde, alliance, raidsArmoursWarrior, raidsArmoursDruid, raidsArmoursPriest, raidsArmoursMage, raidsArmoursMonk, raidsArmoursHunter, raidsArmoursDemonHunter, raidsArmoursPaladin, raidsArmoursAwakener, raidsArmoursRogue, raidsArmoursDeathKnight, raidsArmoursWarlock, raidsArmoursShaman, twoHandedWeapons, twoHandedAxes, twoHandedAxesWeaponDetails, legendaryWeapons, legendaryWeaponDetails, decorativeWeapons, classes, warriorArtifacts, druidArtifacts, priestArtifacts, mageArtifacts, monkArtifacts, hunterArtifacts, demonHunterArtifacts, paladinArtifacts, rogueArtifacts, deathKnightArtifacts, warlockArtifacts, shamanArtifacts, armsWarrior, furyWarrior, protectionWarrior, cloaks, waterMounts, flyMounts, additionsDungeons, additionsRaids, dungeonsClassic, dungeonsBurningCrusade, dungeonsWrathOfTheLichKing, dungeonsCataclysm, dungeonsMistsOfPandaria, dungeonsWarlordsOfDraenor, dungeonsLegion, dungeonsBattleForAzeroth, dungeonsShadowlands, dungeonsDragonflight, dungeonsWarWithin, dungeonsMidnight, dungeonsLastTitan, raidsClassic, raidsBurningCrusade, raidsWrathOfTheLichKing, raidsCataclysm, raidsMistsOfPandaria, raidsWarlordsOfDraenor, raidsLegion, raidsBattleForAzeroth, raidsShadowlands, raidsDragonflight, raidsWarWithin, raidsMidnight, raidsLastTitan, legacy, greatFeats, wowAnniversary, wowCollectionEditions}) => {
+const Cards = ({home, races, horde, alliance, raidsArmoursWarrior, raidsArmoursDruid, raidsArmoursPriest, raidsArmoursMage, raidsArmoursMonk, raidsArmoursHunter, raidsArmoursDemonHunter, raidsArmoursPaladin, raidsArmoursAwakener, raidsArmoursRogue, raidsArmoursDeathKnight, raidsArmoursWarlock, raidsArmoursShaman, twoHandedWeapons, twoHandedAxes, twoHandedAxesWeaponDetails, legendaryWeapons, legendaryWeaponDetails, decorativeWeapons, classes, warriorArtifacts, druidArtifacts, priestArtifacts, mageArtifacts, monkArtifacts, hunterArtifacts, demonHunterArtifacts, paladinArtifacts, rogueArtifacts, deathKnightArtifacts, warlockArtifacts, shamanArtifacts, armsWarrior, furyWarrior, protectionWarrior, cloaks, waterMounts, flyMounts, fishing, additionsDungeons, additionsRaids, dungeonsClassic, dungeonsBurningCrusade, dungeonsWrathOfTheLichKing, dungeonsCataclysm, dungeonsMistsOfPandaria, dungeonsWarlordsOfDraenor, dungeonsLegion, dungeonsBattleForAzeroth, dungeonsShadowlands, dungeonsDragonflight, dungeonsWarWithin, dungeonsMidnight, dungeonsLastTitan, raidsClassic, raidsBurningCrusade, raidsWrathOfTheLichKing, raidsCataclysm, raidsMistsOfPandaria, raidsWarlordsOfDraenor, raidsLegion, raidsBattleForAzeroth, raidsShadowlands, raidsDragonflight, raidsWarWithin, raidsMidnight, raidsLastTitan, legacy, greatFeats, wowAnniversary, wowCollectionEditions}) => {
 
 	const basePathImg = '/src/assets/img'
 
@@ -629,6 +643,15 @@ const Cards = ({home, races, horde, alliance, raidsArmoursWarrior, raidsArmoursD
 							<h3 className="text-success text-center fw-bold display-4">Готово: {counterCardItemsDone(dataFlyMounts)}</h3>
 							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
 								{ renderCardItems(dataFlyMounts) }
+							</div>
+						</>
+					}
+
+					{ fishing &&
+						<>
+							<h3 className="text-success text-center fw-bold display-4">Всего Рыболовных Снастей: {counterCardItems(dataFishing)}</h3>
+							<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
+								{ renderCardItems(dataFishing) }
 							</div>
 						</>
 					}

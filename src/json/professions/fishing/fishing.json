@@ -1,0 +1,133 @@
+[
+	{
+		"id": "FishingPole",
+		"type": "fishing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/fishing/Fishing-Pole.png",
+		"objectFit": true,
+		"title": "Удочка",
+		"description": "Тихие вечера у воды, плеск волн и надежда на большой улов.",
+		"price": 300
+	},
+
+	{
+		"id": "StrongFishingPole",
+		"type": "fishing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/fishing/Strong-Fishing-Pole.png",
+		"objectFit": true,
+		"title": "Крепкая Удочка",
+		"description": "Тихие вечера у воды, плеск волн и надежда на большой улов. +5 к навыку Рыбной Ловли.",
+		"price": 300
+	},
+
+	{
+		"id": "PandarenFishingPole",
+		"type": "fishing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/fishing/Pandaren-Fishing-Pole.png",
+		"objectFit": true,
+		"title": "Пандаренская Удочка",
+		"description": "Тихие вечера у воды, плеск волн и надежда на большой улов. +7 к навыку Рыбной Ловли.",
+		"price": 300
+	},
+
+	{
+		"id": "DarkwoodFishingPole",
+		"type": "fishing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/fishing/Darkwood-Fishing-Pole.png",
+		"objectFit": true,
+		"title": "Удочка из Темной Древесины",
+		"description": "Тихие вечера у воды, плеск волн и надежда на большой улов. +8 к навыку Рыбной Ловли.",
+		"price": 300
+	},
+
+	{
+		"id": "JeweledFishingPole",
+		"type": "fishing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/fishing/Jeweled-Fishing-Pole.png",
+		"objectFit": true,
+		"title": "Удочка со Стразами",
+		"description": "Тихие вечера у воды, плеск волн и надежда на большой улов. +13 к навыку Рыбной Ловли.",
+		"price": 300
+	},
+
+	{
+		"id": "DragonFishingPole",
+		"type": "fishing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/fishing/Dragon-Fishing-Pole.png",
+		"objectFit": true,
+		"title": "Счастливая Удочка Драконов",
+		"description": "Тихие вечера у воды, плеск волн и надежда на большой улов. +13 к навыку Рыбной Ловли.",
+		"price": 300
+	},
+
+	{
+		"id": "BoneFishingPole",
+		"type": "fishing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/fishing/Bone-Fishing-Pole.png",
+		"objectFit": true,
+		"title": "Костяная Удочка",
+		"description": "Тихие вечера у воды, плеск волн и надежда на большой улов. +13 к навыку Рыбной Ловли.",
+		"price": 300
+	},
+
+	{
+		"id": "MastercraftKaluakFishingPole",
+		"type": "fishing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/fishing/Mastercraft-Kaluak-Fishing-Pole.png",
+		"objectFit": true,
+		"title": "Мастерски Сделанная Калуакская Удочка",
+		"description": "Тихие вечера у воды, плеск волн и надежда на большой улов. +13 к навыку Рыбной Ловли. Возможность дышать под водой.",
+		"price": 300
+	},
+
+	{
+		"id": "ArcaniteFishingPole",
+		"type": "fishing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/fishing/Arcanite-Fishing-Pole.png",
+		"objectFit": true,
+		"title": "Арканитовая Удочка",
+		"description": "Тихие вечера у воды, плеск волн и надежда на большой улов. +14 к навыку Рыбной Ловли.",
+		"price": 300
+	},
+
+	{
+		"id": "PoweredPiscineProcurementPole",
+		"type": "fishing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/fishing/Powered-Piscine-Procurement-Pole.png",
+		"objectFit": true,
+		"title": "Механизированная Удочка",
+		"description": "Тихие вечера у воды, плеск волн и надежда на большой улов. +15 к навыку Рыбной Ловли.",
+		"price": 300
+	},
+
+	{
+		"id": "StrongFishingPole",
+		"type": "fishing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/fishing/Strong-Fishing-Pole.png",
+		"objectFit": false,
+		"title": "Крепкая Удочка",
+		"description": " +5 к навыку Рыбной Ловли.",
+		"price": 300
+	},
+
+	{
+		"id": "StrongFishingPole",
+		"type": "fishing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/fishing/Strong-Fishing-Pole.png",
+		"objectFit": false,
+		"title": "Крепкая Удочка",
+		"description": " +5 к навыку Рыбной Ловли.",
+		"price": 300
+	}
+]

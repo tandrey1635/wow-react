@@ -52,16 +52,5 @@
 		"title": "Рубашки",
 		"description": "Закажите любую рубашку",
 		"price": 300
-	},
-
-	{
-		"id": "FishingRods",
-		"type": "armours",
-		"path": "armours/fishing-rods",
-		"cardImg": "/src/assets/img/promo/bg/armours/fishing-rods.png",
-		"objectFit": false,
-		"title": "Удочки",
-		"description": "Закажите любую удочку",
-		"price": 300
 	}
 ]
