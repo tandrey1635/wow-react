@@ -235,6 +235,9 @@ footer {
 .announcement__header_fly-mounts {
   color: #2e86e5;
 }
+.announcement__header_fishing {
+  color: #1a7f6b;
+}
 .announcement__header_сlassic {
   color: #854c27;
 }
@@ -443,6 +446,9 @@ footer {
 }
 .promo__info_fly-mounts {
   background: url("/src/assets/img/promo/bg/mounts/fly.png") no-repeat center/contain;
+}
+.promo__info_fishing {
+  background: url("/src/assets/img/promo/bg/professions/fishing.png") no-repeat center/contain;
 }
 .promo__info_classic {
   background: url("/src/assets/img/promo/bg/dungeons-raids/classic.png") no-repeat center/contain;
@@ -773,12 +779,6 @@ footer {
 .card-armours [alt] {
   color: #8400ff;
 }
-.card-armours-artifact {
-  background: linear-gradient(325deg, #d9c798, transparent 30%, transparent 35%, #d9c798, transparent);
-}
-.card-armours-artifact:hover {
-  box-shadow: 0 0 2px 5px #d9c798;
-}
 .card-mounts-water {
   color: #00ffff;
   background: linear-gradient(325deg, #00ffff, transparent 30%, transparent 35%, #00ffff, transparent);
@@ -811,6 +811,16 @@ footer {
 }
 .card-professions {
   background: linear-gradient(325deg, #8400ff, transparent 30%, transparent 35%, #8400ff, transparent);
+}
+.card-fishing {
+  color: #1a7f6b;
+  background: linear-gradient(325deg, #1a7f6b, transparent 30%, transparent 35%, #1a7f6b, transparent);
+}
+.card-fishing [alt] {
+  color: #1a7f6b;
+}
+.card-fishing:hover {
+  box-shadow: 0 0 2px 5px #1a7f6b;
 }
 .card-pvp {
   background: linear-gradient(350deg, #ff0033, transparent 30%, transparent 35%, #ff0033, transparent);

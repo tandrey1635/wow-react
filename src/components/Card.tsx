@@ -2,7 +2,7 @@ import { Link } from "react-router";
 import type { ICard }  from "../types/card-types";
 
 
-const Card = ({type, path, img, objectFit, title, description, descriptionTrim, addition, price, gold}: ICard) => {
+const Card = ({type, path, img, objectFit, title, description, descriptionTrim, addition, price}: ICard) => {
 	return (
 		<div className={`card ${
 			type == "races"
@@ -73,6 +73,9 @@ const Card = ({type, path, img, objectFit, title, description, descriptionTrim, 
 				:
 			type == "fly-mounts"
 				? "card-mounts-fly"
+				:
+			type == "fishing"
+				? "card-fishing"
 				:
 			type == "dungeons-raids-classic"
 				? "card-dungeons-raids card-dungeons-raids-classic"

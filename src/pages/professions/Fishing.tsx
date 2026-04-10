@@ -15,8 +15,7 @@ const Fishing = () => {
 		<Wrapper>
 			<Header />
 			<Main>
-				<h1 style={{fontSize: 120}} className="text-center text-danger">В разработке</h1>
-				<Announcement professions fishing />
+				<Announcement fishing />
 				<Promo fishing />
 				<Cards fishing />
 			</Main>

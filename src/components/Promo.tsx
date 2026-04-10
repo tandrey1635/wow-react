@@ -111,6 +111,9 @@ const Promo = ({ races, horde, alliance, warrior, druid, priest, mage, monk, hun
 						flyMounts
 							? "promo__info_fly-mounts"
 							:
+						fishing
+							? "promo__info_fishing"
+							:
 						classic
 							? "promo__info_classic"
 							:
@@ -203,9 +206,6 @@ const Promo = ({ races, horde, alliance, warrior, druid, priest, mage, monk, hun
 						tabards
 							? "promo__raitings_tabards"
 							:
-						fishingRods
-							? "promo__raitings_fishing-rods"
-							:
 						alchemy
 							? "promo__raitings_alchemy"
 							:
@@ -250,9 +250,6 @@ const Promo = ({ races, horde, alliance, warrior, druid, priest, mage, monk, hun
 							:
 						firstAid
 							? "promo__raitings_first-aid"
-							:
-						fishing
-							? "promo__raitings_fishing"
 							:
 						junkyardTinkering
 							? "promo__raitings_junkyard-tinkering"

@@ -209,7 +209,7 @@
 		"id": "junkyardTinkering",
 		"className": "card-professions",
 		"path": "professions/junkyard-tinkering",
-		"cardImg": "/src/assets/img/promo/bg/professions/junkyard-tinkering.png",
+		"Cardimg": "/src/assets/img/promo/bg/professions/junkyard-tinkering.png",
 		"titleClassName": "card-title-professions",
 		"title": "Кустарная механика",
 		"descriptionClassName": "card-text-professions",
