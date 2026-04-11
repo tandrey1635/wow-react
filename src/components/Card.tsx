@@ -74,6 +74,9 @@ const Card = ({type, path, img, objectFit, title, description, descriptionTrim, 
 			type == "fly-mounts"
 				? "card-mounts-fly"
 				:
+			type == "cooking"
+				? "card-cooking"
+				:
 			type == "fishing"
 				? "card-fishing"
 				:

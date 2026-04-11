@@ -111,6 +111,9 @@ const Promo = ({ races, horde, alliance, warrior, druid, priest, mage, monk, hun
 						flyMounts
 							? "promo__info_fly-mounts"
 							:
+						cooking
+							? "promo__info_cooking"
+							:
 						fishing
 							? "promo__info_fishing"
 							:
@@ -244,9 +247,6 @@ const Promo = ({ races, horde, alliance, warrior, druid, priest, mage, monk, hun
 							:
 						riding
 							? "promo__raitings_riding"
-							:
-						cooking
-							? "promo__raitings_cooking"
 							:
 						firstAid
 							? "promo__raitings_first-aid"

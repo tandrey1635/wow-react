@@ -169,16 +169,14 @@
 	},
 
 	{
-		"id": "cooking",
-		"className": "card-professions",
+		"id": "Cooking",
+		"type": "cooking",
 		"path": "professions/cooking",
-		"cardImg": "/src/assets/img/promo/bg/professions/cooking.png",
-		"titleClassName": "card-title-professions",
+		"img": "/src/assets/img/promo/bg/professions/cooking.png",
+		"objectFit": false,
 		"title": "Кулинария",
-		"descriptionClassName": "card-text-professions",
-		"description": "Вторичная профессия, позволяющая комбинировать рыбу или мясо, превращая их во вкусную еду и напитки, восстанавливающие здоровье или ману, и дающие полезные боевые баффы",
-		"priceClassName": "card-price-professions",
-		"price": 200
+		"description": "Вторичная профессия, позволяющая комбинировать рыбу или мясо, превращая их во вкусную еду и напитки. Готовая еда восстанавливает здоровье и ману, а лучшие блюда дают полезные боевые баффы. Для приготовления нужен огонь, разожгите свой очаг или найдите таверну. Рецепты можно купить, найти или получить за ежедневные кулинарные задания. А особые награды откроют доступ к мощным блюдам и ускорят готовку.",
+		"price": 300
 	},
 
 	{

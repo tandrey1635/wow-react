@@ -55,17 +55,6 @@
 	},
 
 	{
-		"id": "FryingPan",
-		"type": "decorative",
-		"path": "",
-		"img": "/src/assets/img/weapons/bg/decorative/Frying-Pan.png",
-		"objectFit": true,
-		"title": "Сковорода",
-		"description": "Воплощение веселья и отдыха. Кружки, факелы, лопаты и грабли все, что нужно герою после тяжелого рейда. И копье. На всякий случай.",
-		"price": 1000
-	},
-
-	{
 		"id": "TrainingSword",
 		"type": "decorative",
 		"path": "",
