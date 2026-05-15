@@ -1,0 +1,37 @@
+[
+	{
+		"id": "VaultOfTheIncarnates",
+		"type": "dungeons-raids-dragonflight",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/raids/dragonflight/Vault-of-the-Incarnates.jpg",
+		"objectFit": false,
+		"title": "Хранилище Воплощений",
+		"description": "Рейд для игроков 70 уровня* дополнения",
+		"addition": "Dragonflight",
+		"price": 500
+	},
+
+	{
+		"id": "AberrusTheShadowedCrucible",
+		"type": "dungeons-raids-dragonflight",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/raids/dragonflight/Aberrus-the-Shadowed-Crucible.jpg",
+		"objectFit": false,
+		"title": "Аберрий, Затененное Горнило",
+		"description": "Рейд для игроков 70 уровня* дополнения",
+		"addition": "Dragonflight",
+		"price": 520
+	},
+
+	{
+		"id": "AmirdrassilTheDreamsHope",
+		"type": "dungeons-raids-dragonflight",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/raids/dragonflight/Amirdrassil-the-Dreams-Hope.jpg",
+		"objectFit": false,
+		"title": "Амирдрассил, Надежда Сна",
+		"description": "Рейд для игроков 70 уровня* дополнения",
+		"addition": "Dragonflight",
+		"price": 540
+	}
+]

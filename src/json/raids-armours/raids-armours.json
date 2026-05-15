@@ -1,0 +1,144 @@
+[
+	{
+		"id": "Warrior",
+		"type": "warrior",
+		"path": "raids-armours/warrior",
+		"img": "/src/assets/img/promo/bg/classes/Warrior.png",
+		"objectFit": false,
+		"title": "Воин",
+		"description": "Комплекты рейдовой брони для Воина.",
+		"price": 100
+	},
+
+	{
+		"id": "Druid",
+		"type": "druid",
+		"path": "raids-armours/druid",
+		"img": "/src/assets/img/promo/bg/classes/Druid.png",
+		"objectFit": false,
+		"title": "Друид",
+		"description": "Комплекты рейдовой брони для Друида.",
+		"price": 100
+	},
+
+	{
+		"id": "Priest",
+		"type": "priest",
+		"path": "raids-armours/priest",
+		"img": "/src/assets/img/promo/bg/classes/Priest.png",
+		"objectFit": false,
+		"title": "Жрец",
+		"description": "Комплекты рейдовой брони для Жреца.",
+		"price": 100
+	},
+
+	{
+		"id": "Mage",
+		"type": "mage",
+		"path": "raids-armours/mage",
+		"img": "/src/assets/img/promo/bg/classes/Mage.png",
+		"objectFit": false,
+		"title": "Маг",
+		"description": "Комплекты рейдовой брони для Мага.",
+		"price": 100
+	},
+
+	{
+		"id": "Monk",
+		"type": "monk",
+		"path": "raids-armours/monk",
+		"img": "/src/assets/img/promo/bg/classes/Monk.png",
+		"objectFit": false,
+		"title": "Монах",
+		"description": "Комплекты рейдовой брони для Монаха.",
+		"price": 100
+	},
+
+	{
+		"id": "Hunter",
+		"type": "hunter",
+		"path": "raids-armours/hunter",
+		"img": "/src/assets/img/promo/bg/classes/Hunter.png",
+		"objectFit": false,
+		"title": "Охотник",
+		"description": "Комплекты рейдовой брони для Охотника.",
+		"price": 100
+	},
+
+	{
+		"id": "DemonHunter",
+		"type": "demon-hunter",
+		"path": "raids-armours/demon-hunter",
+		"img": "/src/assets/img/promo/bg/classes/Demon-Hunter.png",
+		"objectFit": false,
+		"title": "Охотник на Демонов",
+		"description": "Комплекты рейдовой брони для Охотника на Демонов.",
+		"price": 100
+	},
+
+	{
+		"id": "Paladin",
+		"type": "paladin",
+		"path": "raids-armours/paladin",
+		"img": "/src/assets/img/promo/bg/classes/Paladin.png",
+		"objectFit": false,
+		"title": "Паладин",
+		"description": "Комплекты рейдовой брони для Паладина.",
+		"price": 100
+	},
+
+	{
+		"id": "Awakener",
+		"type": "awakener",
+		"path": "raids-armours/awakener",
+		"img": "/src/assets/img/promo/bg/classes/Awakener.png",
+		"objectFit": false,
+		"title": "Пробудитель",
+		"description": "Комплекты рейдовой брони для Пробудителя.",
+		"price": 100
+	},
+
+	{
+		"id": "Rogue",
+		"type": "rogue",
+		"path": "raids-armours/rogue",
+		"img": "/src/assets/img/promo/bg/classes/Rogue.png",
+		"objectFit": false,
+		"title": "Разбойник",
+		"description": "Комплекты рейдовой брони для Разбойника.",
+		"price": 100
+	},
+
+	{
+		"id": "DeathKnight",
+		"type": "death-knight",
+		"path": "raids-armours/death-knight",
+		"img": "/src/assets/img/promo/bg/classes/Death-Knight.png",
+		"objectFit": false,
+		"title": "Рыцарь Смерти",
+		"description": "Комплекты рейдовой брони для Рыцаря Смерти.",
+		"price": 100
+	},
+
+	{
+		"id": "Warlock",
+		"type": "warlock",
+		"path": "raids-armours/warlock",
+		"img": "/src/assets/img/promo/bg/classes/Warlock.png",
+		"objectFit": false,
+		"title": "Чернокнижник",
+		"description": "Комплекты рейдовой брони для Чернокнижника.",
+		"price": 100
+	},
+
+	{
+		"id": "Shaman",
+		"type": "shaman",
+		"path": "raids-armours/shaman",
+		"img": "/src/assets/img/promo/bg/classes/Shaman.png",
+		"objectFit": false,
+		"title": "Шаман",
+		"description": "Комплекты рейдовой брони для Шамана.",
+		"price": 100
+	}
+]

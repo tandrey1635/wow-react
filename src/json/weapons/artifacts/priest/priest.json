@@ -1,0 +1,34 @@
+[
+	{
+		"id": "Discipline",
+		"type": "priest",
+		"path": "",
+		"img": "/src/assets/img/promo/bg/classes/priest/Discipline.jpg",
+		"objectFit": false,
+		"title": "Послушание",
+		"description": "Закажите артефакты для Жреца Послушания",
+		"price": 800
+	},
+
+	{
+		"id": "Holy",
+		"type": "priest",
+		"path": "",
+		"img": "/src/assets/img/promo/bg/classes/priest/Holy.jpg",
+		"objectFit": false,
+		"title": "Свет",
+		"description": "Закажите артефакты для Жреца Света",
+		"price": 800
+	},
+
+	{
+		"id": "Shadow",
+		"type": "priest",
+		"path": "",
+		"img": "/src/assets/img/promo/bg/classes/priest/Shadow.jpg",
+		"objectFit": false,
+		"title": "Тьма",
+		"description": "Закажите артефакты для Жреца Тьмы",
+		"price": 800
+	}
+]

@@ -1,0 +1,37 @@
+[
+	{
+		"id": "CastleNathria",
+		"type": "dungeons-raids-shadowlands",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/raids/shadowlands/Castle-Nathria.jpg",
+		"objectFit": false,
+		"title": "Замок Нафрия",
+		"description": "Рейд для игроков 60 уровня* дополнения",
+		"addition": "Shadowlands",
+		"price": 450
+	},
+
+	{
+		"id": "SanctumOfDomination",
+		"type": "dungeons-raids-shadowlands",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/raids/shadowlands/Sanctum-of-Domination.jpg",
+		"objectFit": false,
+		"title": "Святилище Господства",
+		"description": "Рейд для игроков 60 уровня* дополнения",
+		"addition": "Shadowlands",
+		"price": 470
+	},
+
+	{
+		"id": "SepulcherOfTheFirstOnes",
+		"type": "dungeons-raids-shadowlands",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/raids/shadowlands/Sepulcher-of-the-First-Ones.jpg",
+		"objectFit": false,
+		"title": "Гробница Предвечных",
+		"description": "Рейд для игроков 60 уровня* дополнения",
+		"addition": "Shadowlands",
+		"price": 490
+	}
+]

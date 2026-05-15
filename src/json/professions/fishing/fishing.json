@@ -1,0 +1,309 @@
+[
+	{
+		"id": "FishingPole",
+		"type": "fishing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/fishing/Fishing-Pole.png",
+		"objectFit": true,
+		"title": "Удочка",
+		"description": "Для тех, кто знает толк в рыбалке. Тихие вечера у воды, плеск волн и надежда на большой улов.",
+		"price": 300
+	},
+
+	{
+		"id": "StrongFishingPole",
+		"type": "fishing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/fishing/Strong-Fishing-Pole.png",
+		"objectFit": true,
+		"title": "Крепкая Удочка",
+		"description": "Для тех, кто знает толк в рыбалке. Тихие вечера у воды, плеск волн и надежда на большой улов. +5 к навыку Рыбной Ловли.",
+		"price": 300
+	},
+
+	{
+		"id": "PandarenFishingPole",
+		"type": "fishing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/fishing/Pandaren-Fishing-Pole.png",
+		"objectFit": true,
+		"title": "Пандаренская Удочка",
+		"description": "Для тех, кто знает толк в рыбалке. Тихие вечера у воды, плеск волн и надежда на большой улов. +7 к навыку Рыбной Ловли.",
+		"price": 300
+	},
+
+	{
+		"id": "DarkwoodFishingPole",
+		"type": "fishing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/fishing/Darkwood-Fishing-Pole.png",
+		"objectFit": true,
+		"title": "Удочка из Темной Древесины",
+		"description": "Для тех, кто знает толк в рыбалке. Тихие вечера у воды, плеск волн и надежда на большой улов. +8 к навыку Рыбной Ловли.",
+		"price": 300
+	},
+
+	{
+		"id": "SavageFishingPole",
+		"type": "fishing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/fishing/Savage-Fishing-Pole.png",
+		"objectFit": true,
+		"title": "Яростная Удочка",
+		"description": "Для тех, кто знает толк в рыбалке. Тихие вечера у воды, плеск волн и надежда на большой улов. +13 к навыку Рыбной Ловли. Использование: Увеличивает навык Рыбной Ловли на 10 на 10 минут. Восстановление: 20 минут. Фракция: Орда.",
+		"price": 300
+	},
+
+	{
+		"id": "DraenicFishingPole",
+		"type": "fishing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/fishing/Draenic-Fishing-Pole.png",
+		"objectFit": true,
+		"title": "Дренейская Удочка",
+		"description": "Для тех, кто знает толк в рыбалке. Тихие вечера у воды, плеск волн и надежда на большой улов. +13 к навыку Рыбной Ловли. Использование: Увеличивает навык Рыбной Ловли на 10 на 10 минут. Восстановление: 20 минут. Фракция: Альянс.",
+		"price": 300
+	},
+
+	{
+		"id": "MastercraftKaluakFishingPole",
+		"type": "fishing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/fishing/Mastercraft-Kaluak-Fishing-Pole.png",
+		"objectFit": true,
+		"title": "Мастерски Сделанная Калуакская Удочка",
+		"description": "Для тех, кто знает толк в рыбалке. Тихие вечера у воды, плеск волн и надежда на большой улов. +13 к навыку Рыбной Ловли. Возможность дышать под водой.",
+		"price": 300
+	},
+
+	{
+		"id": "JeweledFishingPole",
+		"type": "fishing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/fishing/Jeweled-Fishing-Pole.png",
+		"objectFit": true,
+		"title": "Удочка со Стразами",
+		"description": "Для тех, кто знает толк в рыбалке. Тихие вечера у воды, плеск волн и надежда на большой улов. +13 к навыку Рыбной Ловли. Дизайн Тиффани Картье.",
+		"price": 300
+	},
+
+	{
+		"id": "DragonFishingPole",
+		"type": "fishing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/fishing/Dragon-Fishing-Pole.png",
+		"objectFit": true,
+		"title": "Счастливая Удочка Драконов",
+		"description": "Для тех, кто знает толк в рыбалке. Тихие вечера у воды, плеск волн и надежда на большой улов. +13 к навыку Рыбной Ловли.",
+		"price": 300
+	},
+
+	{
+		"id": "BoneFishingPole",
+		"type": "fishing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/fishing/Bone-Fishing-Pole.png",
+		"objectFit": true,
+		"title": "Костяная Удочка",
+		"description": "Для тех, кто знает толк в рыбалке. Тихие вечера у воды, плеск волн и надежда на большой улов. +13 к навыку Рыбной Ловли.",
+		"price": 300
+	},
+
+	{
+		"id": "ArcaniteFishingPole",
+		"type": "fishing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/fishing/Arcanite-Fishing-Pole.png",
+		"objectFit": true,
+		"title": "Арканитовая Удочка",
+		"description": "Для тех, кто знает толк в рыбалке. Тихие вечера у воды, плеск волн и надежда на большой улов. +14 к навыку Рыбной Ловли. Кажется, ей пользовался сам Нат Пэгл.",
+		"price": 300
+	},
+
+	{
+		"id": "PoweredPiscineProcurementPole",
+		"type": "fishing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/fishing/Powered-Piscine-Procurement-Pole.png",
+		"objectFit": true,
+		"title": "Механизированная Удочка",
+		"description": "Для тех, кто знает толк в рыбалке. Тихие вечера у воды, плеск волн и надежда на большой улов. +15 к навыку Рыбной Ловли.",
+		"price": 300
+	},
+
+	{
+		"id": "KhazgoriteFisherfriend",
+		"type": "fishing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/fishing/Khazgorite-Fisher-friend.png",
+		"objectFit": true,
+		"title": "Каз'горитовый Друг Рыболова",
+		"description": "Для тех, кто знает толк в рыбалке. Тихие вечера у воды, плеск волн и надежда на большой улов. +15 к навыку Рыбной Ловли.",
+		"price": 300
+	},
+
+	{
+		"id": "UnderlightAngler",
+		"type": "fishing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/fishing/Underlight-Angler.png",
+		"objectFit": true,
+		"title": "Удочка Темносвета",
+		"description": "Для тех, кто знает толк в рыбалке. Тихие вечера у воды, плеск волн и надежда на большой улов. +15 к навыку Рыбной Ловли. Дает способность Подводное Течение, позволяющую мгновенно перенестись к ближайшему месту для рыбалки из дополнения Legion в радиусе 100 метров.",
+		"price": 300
+	},
+
+	{
+		"id": "BrokersAngler",
+		"type": "fishing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/fishing/Brokers-Angler.png",
+		"objectFit": true,
+		"title": "Снасть Брокера",
+		"description": "Для тех, кто знает толк в рыбалке. Тихие вечера у воды, плеск волн и надежда на большой улов. +5 к навыку Рыбной Ловли Темных Земель. Единственное необходимое устройство для того, чтобы извлекать водные формы жизни из естественной среды обитания!",
+		"price": 300
+	},
+
+	{
+		"id": "FarstriderHobbyistRod",
+		"type": "fishing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/fishing/Farstrider-Hobbyist-Rod.png",
+		"objectFit": true,
+		"title": "Любительская Удочка Странника",
+		"description": "Для тех, кто знает толк в рыбалке. Тихие вечера у воды, плеск волн и надежда на большой улов. +8 к навыку Рыбной Ловли Midnight.",
+		"price": 300
+	},
+
+	{
+		"id": "SindoreiAnglersRod",
+		"type": "fishing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/fishing/Sindorei-Anglers-Rod.png",
+		"objectFit": true,
+		"title": "Син'дорайская Удочка",
+		"description": "Для тех, кто знает толк в рыбалке. Тихие вечера у воды, плеск волн и надежда на большой улов. +18 к навыку Рыбной Ловли Midnight.",
+		"price": 300
+	},
+
+	{
+		"id": "SindoreiReelersRod",
+		"type": "fishing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/fishing/Sindorei-Reelers-Rod.png",
+		"objectFit": true,
+		"title": "Син'дорайский Спиннинг",
+		"description": "Для тех, кто знает толк в рыбалке. Тихие вечера у воды, плеск волн и надежда на большой улов. +18 к навыку Рыбной Ловли Midnight.",
+		"price": 300
+	},
+
+	{
+		"id": "SharpenedTuskarrSpear",
+		"type": "fishing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/fishing/Sharpened-Tuskarr-Spear.png",
+		"objectFit": true,
+		"title": "Заостренное Копье Клыкарра",
+		"description": "Для тех, кто знает толк в рыбалке. Тихие вечера у воды, плеск волн и надежда на большой улов. Использование: Втыкает копье в землю, в результате чего навык Рыбной Ловли у всех в радиусе 15 метров увеличивается на 5. Время действия: 10 минут. Восстановление: 10 минут. Традиционное рыболовное копье клыкарров. Образец искусной работы.",
+		"price": 300
+	},
+
+		{
+		"id": "TuskarrAnglersCrossbow",
+		"type": "fishing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/fishing/Tuskarr-Anglers-Crossbow.png",
+		"objectFit": false,
+		"title": "Арбалет Клыкаррского Рыболова",
+		"description": "Для тех, кто знает толк в рыбалке. Тихие вечера у воды, плеск волн и надежда на большой улов. Также можно использовать как арбалет.",
+		"price": 300
+	},
+
+	{
+		"id": "LuckyFishingHat",
+		"type": "fishing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/fishing/Lucky-Fishing-Hat.png",
+		"objectFit": false,
+		"title": "Счастливая Шляпа Рыболова",
+		"description": "Для тех, кто знает толк в рыбалке. Тихие вечера у воды, плеск волн и надежда на большой улов. Использование: +5 к навыку Рыбной Ловли.",
+		"price": 300
+	},
+
+	{
+		"id": "WeatherBeatenFishingHat",
+		"type": "fishing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/fishing/Weather-Beaten-Fishing-Hat.png",
+		"objectFit": false,
+		"title": "Видавшая Виды Рыболовная Шапка",
+		"description": "Для тех, кто знает толк в рыбалке. Тихие вечера у воды, плеск волн и надежда на большой улов. +5 к навыку Рыбной Ловли. Использование: Увеличивает навык Рыбной Ловли на 7 на 10 минут. Восстановление: 10 минут.",
+		"price": 300
+	},
+
+	{
+		"id": "HightfishCap",
+		"type": "fishing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/fishing/Hightfish-Cap.png",
+		"objectFit": false,
+		"title": "Шляпа Главного Рыбака",
+		"description": "Для тех, кто знает толк в рыбалке. Тихие вечера у воды, плеск волн и надежда на большой улов. +5 к навыку Рыбной Ловли. На неделю ты становишься всемирным королем Рыбной Ловли!",
+		"price": 300
+	},
+
+	{
+		"id": "BrightLinenFishingHat",
+		"type": "fishing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/fishing/Bright-Linen-Fishing-Hat.png",
+		"objectFit": false,
+		"title": "Рыбацкая Шапка из Светлого Льна",
+		"description": "Для тех, кто знает толк в рыбалке. Тихие вечера у воды, плеск волн и надежда на большой улов. +5 к навыку Рыбной Ловли.",
+		"price": 300
+	},
+
+	{
+		"id": "ArtisanFishingCap",
+		"type": "fishing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/fishing/Artisan-Fishing-Cap.png",
+		"objectFit": false,
+		"title": "Рыбацкая Шляпа Ремесленника",
+		"description": "Для тех, кто знает толк в рыбалке. Тихие вечера у воды, плеск волн и надежда на большой улов. +11 к навыку Рыбной Ловли.",
+		"price": 300
+	},
+
+	{
+		"id": "TentacledHat",
+		"type": "fishing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/fishing/Tentacled-Hat.png",
+		"objectFit": false,
+		"title": "Шляпа со Щупальцами",
+		"description": "Для тех, кто знает толк в рыбалке. Тихие вечера у воды, плеск волн и надежда на большой улов. +15 к навыку Рыбной Ловли. Сложно не заметить, что эта нелепая шляпа обладает магическими свойствами.",
+		"price": 300
+	},
+
+	{
+		"id": "NatPaglesExtremeAnglinBoots",
+		"type": "fishing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/fishing/Nat-Pagles-Extreme-Anglin-Boots.png",
+		"objectFit": false,
+		"title": "Небывалые Рыбацкие Сапоги Ната Пэгла",
+		"description": "Для тех, кто знает толк в рыбалке. Тихие вечера у воды, плеск волн и надежда на большой улов. Использование: +5 к навыку Рыбной Ловли.",
+		"price": 300
+	},
+
+	{
+		"id": "BootsOfTheBay",
+		"type": "fishing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/fishing/Boots-of-the-Bay.png",
+		"objectFit": false,
+		"title": "Сапоги Пиратской Бухты",
+		"description": "Для тех, кто знает толк в рыбалке. Тихие вечера у воды, плеск волн и надежда на большой улов. +10 к навыку Рыбной Ловли.",
+		"price": 300
+	}
+]

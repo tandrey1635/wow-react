@@ -1,0 +1,52 @@
+[
+	{
+		"id": "TwoHandedAxes",
+		"type": "weapons",
+		"path": "axes",
+		"img": "/src/assets/img/promo/bg/weapons/two-handed.png",
+		"title": "Двуручные Топоры",
+		"description": "Закажите любой двуручный топор",
+		"price": 300
+	},
+
+	{
+		"id": "TwoHandedSwords",
+		"type": "weapons",
+		"path": "",
+		"img": "/src/assets/img/promo/bg/weapons/two-handed.png",
+		"title": "Двуручные Мечи",
+		"description": "Закажите любой двуручный меч",
+		"price": 300
+	},
+
+	{
+		"id": "",
+		"type": "weapons",
+		"path": "",
+		"img": "/src/assets/img/promo/bg/weapons/two-handed.png",
+		"title": "Двуручное Дробящее",
+		"description": "Закажите любую двуручную булаву",
+		"price": 300
+	},
+
+	{
+		"id": "",
+		"type": "weapons",
+		"path": "",
+		"img": "/src/assets/img/promo/bg/weapons/two-handed.png",
+		"title": "Древковое",
+		"description": "Закажите любую двуручное копье",
+		"price": 300
+	},
+
+	{
+		"id": "",
+		"type": "weapons",
+		"path": "",
+		"img": "/src/assets/img/promo/bg/weapons/two-handed.png",
+		"title": "Посохи",
+		"description": "Закажите любой посох",
+		"price": 300
+	}
+
+]

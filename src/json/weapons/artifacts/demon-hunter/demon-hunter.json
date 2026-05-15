@@ -1,0 +1,23 @@
+[
+	{
+		"id": "Havoc",
+		"type": "demon-hunter",
+		"path": "",
+		"img": "/src/assets/img/promo/bg/classes/demon-hunter/Havoc.jpg",
+		"objectFit": false,
+		"title": "Истребление",
+		"description": "Закажите артефакты для Охотника на Демонов Истребления",
+		"price": 800
+	},
+
+	{
+		"id": "Vengeance",
+		"type": "demon-hunter",
+		"path": "",
+		"img": "/src/assets/img/promo/bg/classes/demon-hunter/Vengeance.jpg",
+		"objectFit": false,
+		"title": "Месть",
+		"description": "Закажите артефакты для Охотника на Демонов Мести",
+		"price": 800
+	}
+]

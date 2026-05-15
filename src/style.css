@@ -1,0 +1,2073 @@
+@charset "UTF-8";
+/* Прижать подвал Грид */
+/* Выяснить где нужен rotate */
+/* Шрифт */
+/*  Фон */
+/* Курсоры */
+/* Цвет */
+/* Неоновая тень */
+*, *::before, *::after {
+  padding: 0;
+  margin: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+
+a {
+  display: flex;
+  font-weight: 700;
+  line-height: 100%;
+  text-decoration: none;
+  color: unset;
+}
+a:hover {
+  cursor: url("/src/assets/icons/cursor-action.png"), auto;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+ol, ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+select {
+  outline: none;
+}
+
+input, textarea {
+  border: none;
+  outline: none;
+}
+
+textarea {
+  resize: vertical;
+}
+
+/* Проверить а надо ли? */
+*::focus {
+  outline: none;
+}
+
+button {
+  border: none;
+  outline: none;
+  cursor: url("/src/assets/icons/cursor-action.png"), auto !important;
+}
+
+img {
+  width: 100%;
+  height: 100%;
+}
+
+/* Сброс bootstrap стилей */
+h1, h2, h3, h4, h5, h6, p {
+  margin-bottom: 0;
+}
+
+body, input {
+  cursor: url("/src/assets/icons/cursor-text.png"), auto;
+}
+
+/* Прижать подвал flex */
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+header, footer {
+  min-height: 100px;
+}
+
+main {
+  flex: 1 0 auto;
+}
+
+section {
+  min-height: 600px;
+}
+
+footer {
+  flex: 0 0 auto;
+}
+
+.header__top {
+  height: 350px;
+  background: url("/src/assets/icons/logo/logo.png") no-repeat center/contain;
+}
+@media (max-width: 676px) {
+  .header__top {
+    height: 300px;
+  }
+}
+@media (max-width: 575.98px) {
+  .header__top {
+    height: 250px;
+  }
+}
+@media (max-width: 480px) {
+  .header__top {
+    height: 200px;
+  }
+}
+@media (max-width: 375px) {
+  .header__top {
+    height: 160px;
+  }
+}
+
+@media (max-width: 480px) {
+  .header {
+    display: none;
+  }
+}
+
+.announcement {
+  min-height: 150px;
+}
+.announcement__header, .announcement__text {
+  filter: brightness(125%);
+  color: #ffc107;
+}
+.announcement__header {
+  font-weight: 900;
+  font-size: 64px;
+  text-transform: uppercase;
+  white-space: pre-wrap;
+}
+@media (max-width: 767.98px) {
+  .announcement__header {
+    font-size: 56px;
+  }
+}
+@media (max-width: 676px) {
+  .announcement__header {
+    font-size: 48px;
+  }
+}
+@media (max-width: 575.98px) {
+  .announcement__header {
+    font-size: 42px;
+  }
+}
+@media (max-width: 480px) {
+  .announcement__header {
+    font-size: 36px;
+  }
+}
+@media (max-width: 425px) {
+  .announcement__header {
+    font-size: 32px;
+  }
+}
+@media (max-width: 375px) {
+  .announcement__header {
+    font-size: 28px;
+  }
+}
+.announcement__header_races {
+  background: linear-gradient(120deg, #8b0000 48%, #1e90ff 48%);
+  -webkit-background-clip: text;
+          background-clip: text;
+  color: transparent;
+}
+.announcement__header_horde {
+  color: #b90c1c;
+}
+.announcement__header_alliance {
+  color: #037afb;
+}
+.announcement__header_warrior {
+  color: #854c27;
+}
+.announcement__header_druid {
+  color: #ff7d0a;
+}
+.announcement__header_priest {
+  color: #fff;
+}
+.announcement__header_mage {
+  color: #00bfff;
+}
+.announcement__header_monk {
+  color: #0ae979;
+}
+.announcement__header_hunter {
+  color: rgba(134, 197, 102, 0.9098039216);
+}
+.announcement__header_demon-hunter {
+  color: #8b00ff;
+}
+.announcement__header_paladin {
+  color: #fb3a86;
+}
+.announcement__header_awakener {
+  color: #00c199;
+}
+.announcement__header_rogue {
+  color: #ddcb17;
+}
+.announcement__header_death-knight {
+  color: #c41f3b;
+}
+.announcement__header_warlock {
+  color: #7b13df;
+}
+.announcement__header_shaman {
+  color: #185ec1;
+}
+.announcement__header_legendary {
+  color: #ff8000;
+}
+.announcement__header_artifact {
+  color: #d9c798;
+}
+.announcement__header_decorative {
+  color: #dc3ef3;
+}
+.announcement__header_water-mounts {
+  color: #00ffff;
+}
+.announcement__header_earth-mounts {
+  color: #854c27;
+}
+.announcement__header_fly-mounts {
+  color: #2e86e5;
+}
+.announcement__header_mining {
+  color: #5a4a38;
+}
+.announcement__header_blacksmithing {
+  color: #3b6e8f;
+}
+.announcement__header_cooking {
+  color: #b84a2a;
+}
+.announcement__header_fishing {
+  color: #1a7f6b;
+}
+.announcement__header_сlassic {
+  color: #854c27;
+}
+.announcement__header_burning-crusade {
+  color: #158d32;
+}
+.announcement__header_wrath-of-the-lich-king {
+  color: #03a9f4;
+}
+.announcement__header_cataclysm {
+  color: #ef5c18;
+}
+.announcement__header_mists-of-pandaria {
+  color: #19dd8c;
+}
+.announcement__header_warlords-of-draenor {
+  color: #854c27;
+}
+.announcement__header_legion {
+  color: #158d32;
+}
+.announcement__header_battle-for-azeroth {
+  color: #7c10e1;
+}
+.announcement__header_shadowlands {
+  color: #759ca5;
+}
+.announcement__header_dragonflight {
+  color: #1fbbad;
+}
+.announcement__header_war-within {
+  color: #d35400;
+}
+.announcement__header_midnight {
+  color: #3126c1;
+}
+.announcement__header_last-titan {
+  color: #dfae56;
+}
+.announcement__header_achievements {
+  color: #6a7982;
+}
+.announcement__text {
+  font-size: 32px;
+  line-height: 1.2;
+  font-weight: 700;
+}
+@media (max-width: 767.98px) {
+  .announcement__text {
+    font-size: 28px;
+  }
+}
+@media (max-width: 676px) {
+  .announcement__text {
+    font-size: 24px;
+  }
+}
+@media (max-width: 575.98px) {
+  .announcement__text {
+    font-size: 20px;
+  }
+}
+@media (max-width: 480px) {
+  .announcement__text {
+    font-size: 18px;
+  }
+}
+
+.promo {
+  padding: 32px 0;
+}
+@media (max-width: 480px) {
+  .promo {
+    min-height: 0;
+  }
+}
+.promo__info {
+  min-height: inherit;
+  height: 500px;
+  background: url("/src/assets/img/promo/bg/classes/default-bg.png") no-repeat center/contain;
+}
+@media (max-width: 425px) {
+  .promo__info {
+    height: 400px;
+  }
+}
+.promo__info_races, .promo__info_wow-anniversary {
+  height: 100vh;
+}
+@media (max-width: 991.98px) {
+  .promo__info_races, .promo__info_wow-anniversary {
+    height: 50vh;
+  }
+}
+@media (max-width: 425px) {
+  .promo__info_races, .promo__info_wow-anniversary {
+    height: 40vh;
+  }
+}
+.promo__info_races {
+  background: url("/src/assets/img/promo/bg/races/races.webp") no-repeat center/cover;
+}
+.promo__info_horde {
+  background: url("/src/assets/img/promo/bg/faction/horde.png") no-repeat center/contain;
+}
+.promo__info_horde_orcs {
+  background: url("/src/assets/img/races/bg/faction/horde/details/orcs/orcs.png") no-repeat center/contain;
+}
+.promo__info_horde_maghars {
+  background: url("/src/assets/img/races/bg/faction/horde/details/maghars/maghars.png") no-repeat center/contain;
+}
+.promo__info_horde_undead {
+  background: url("/src/assets/img/races/bg/faction/horde/details/undead/undead.png") no-repeat center/contain;
+}
+.promo__info_horde_taurens {
+  background: url("/src/assets/img/races/bg/faction/horde/details/taurens/taurens.png") no-repeat center/contain;
+}
+.promo__info_horde_highmountaintaurens {
+  background: url("/src/assets/img/races/bg/faction/horde/details/highmountaintaurens/highmountaintaurens.png") no-repeat center/contain;
+}
+.promo__info_horde_earthenshorde {
+  background: url("/src/assets/img/races/bg/faction/horde/details/earthens/earthens.png") no-repeat center/contain;
+}
+.promo__info_horde_trolls {
+  background: url("/src/assets/img/races/bg/faction/horde/details/trolls/trolls.png") no-repeat center/contain;
+}
+.promo__info_horde_zandalaritrolls {
+  background: url("/src/assets/img/races/bg/faction/horde/details/zandalaritrolls/zandalaritrolls.png") no-repeat center/contain;
+}
+.promo__info_horde_dracthyrshorde {
+  background: url("/src/assets/img/races/bg/faction/horde/details/dracthyrs/dracthyrs.png") no-repeat center/contain;
+}
+.promo__info_horde_bloodelfs {
+  background: url("/src/assets/img/races/bg/faction/horde/details/bloodelfs/bloodelfs.png") no-repeat center/contain;
+}
+.promo__info_horde_nightbornes {
+  background: url("/src/assets/img/races/bg/faction/horde/details/nightbornes/nightbornes.png") no-repeat center/contain;
+}
+.promo__info_horde_pandarenshorde {
+  background: url("/src/assets/img/races/bg/faction/horde/details/pandarens/pandarens.png") no-repeat center/contain;
+}
+.promo__info_horde_goblins {
+  background: url("/src/assets/img/races/bg/faction/horde/details/goblins/goblins.png") no-repeat center/contain;
+}
+.promo__info_horde_vulpers {
+  background: url("/src/assets/img/races/bg/faction/horde/details/vulpers/vulpers.png") no-repeat center/contain;
+}
+.promo__info_alliance {
+  background: url("/src/assets/img/promo/bg/faction/alliance.png") no-repeat center/contain;
+}
+.promo__info_alliance_humans {
+  background: url("/src/assets/img/races/bg/faction/alliance/details/humans/humans.png") no-repeat center/contain;
+}
+.promo__info_alliance_kultirans {
+  background: url("/src/assets/img/races/bg/faction/alliance/details/kultirans/kultirans.png") no-repeat center/contain;
+}
+.promo__info_alliance_worgens {
+  background: url("/src/assets/img/races/bg/faction/alliance/details/worgens/worgens.png") no-repeat center/contain;
+}
+.promo__info_alliance_dwarfs {
+  background: url("/src/assets/img/races/bg/faction/alliance/details/dwarfs/dwarfs.png") no-repeat center/contain;
+}
+.promo__info_alliance_darkirondwarfs {
+  background: url("/src/assets/img/races/bg/faction/alliance/details/darkirondwarfs/darkirondwarfs.png") no-repeat center/contain;
+}
+.promo__info_alliance_earthensalliance {
+  background: url("/src/assets/img/races/bg/faction/alliance/details/earthens/earthens.png") no-repeat center/contain;
+}
+.promo__info_alliance_draeneis {
+  background: url("/src/assets/img/races/bg/faction/alliance/details/draeneis/draeneis.png") no-repeat center/contain;
+}
+.promo__info_alliance_lightforgeddraeneis {
+  background: url("/src/assets/img/races/bg/faction/alliance/details/lightforgeddraeneis/lightforgeddraeneis.png") no-repeat center/contain;
+}
+.promo__info_alliance_dracthyrsalliance {
+  background: url("/src/assets/img/races/bg/faction/alliance/details/dracthyrs/dracthyrs.png") no-repeat center/contain;
+}
+.promo__info_alliance_nightelfs {
+  background: url("/src/assets/img/races/bg/faction/alliance/details/nightelfs/nightelfs.png") no-repeat center/contain;
+}
+.promo__info_alliance_voidelfs {
+  background: url("/src/assets/img/races/bg/faction/alliance/details/voidelfs/voidelfs.png") no-repeat center/contain;
+}
+.promo__info_alliance_pandarensalliance {
+  background: url("/src/assets/img/races/bg/faction/alliance/details/pandarens/pandarens.png") no-repeat center/contain;
+}
+.promo__info_alliance_gnomes {
+  background: url("/src/assets/img/races/bg/faction/alliance/details/gnomes/gnomes.png") no-repeat center/contain;
+}
+.promo__info_alliance_mechagnomes {
+  background: url("/src/assets/img/races/bg/faction/alliance/details/mechagnomes/mechagnomes.png") no-repeat center/contain;
+}
+.promo__info_warrior {
+  background: url("/src/assets/img/promo/bg/classes/Warrior.png") no-repeat center/contain;
+}
+.promo__info_druid {
+  background: url("/src/assets/img/promo/bg/classes/Druid.png") no-repeat center/contain;
+}
+.promo__info_priest {
+  background: url("/src/assets/img/promo/bg/classes/Priest.png") no-repeat center/contain;
+}
+.promo__info_mage {
+  background: url("/src/assets/img/promo/bg/classes/Mage.png") no-repeat center/contain;
+}
+.promo__info_monk {
+  background: url("/src/assets/img/promo/bg/classes/Monk.png") no-repeat center/contain;
+}
+.promo__info_hunter {
+  background: url("/src/assets/img/promo/bg/classes/Hunter.png") no-repeat center/contain;
+}
+.promo__info_demon-hunter {
+  background: url("/src/assets/img/promo/bg/classes/Demon-Hunter.png") no-repeat center/contain;
+}
+.promo__info_paladin {
+  background: url("/src/assets/img/promo/bg/classes/Paladin.png") no-repeat center/contain;
+}
+.promo__info_awakener {
+  background: url("/src/assets/img/promo/bg/classes/Awakener.png") no-repeat center/contain;
+}
+.promo__info_rogue {
+  background: url("/src/assets/img/promo/bg/classes/Rogue.png") no-repeat center/contain;
+}
+.promo__info_death-knight {
+  background: url("/src/assets/img/promo/bg/classes/Death-Knight.png") no-repeat center/contain;
+}
+.promo__info_warlock {
+  background: url("/src/assets/img/promo/bg/classes/Warlock.png") no-repeat center/contain;
+}
+.promo__info_shaman {
+  background: url("/src/assets/img/promo/bg/classes/Shaman.png") no-repeat center/contain;
+}
+.promo__info_weapons-legendary {
+  background: url("/src/assets/img/promo/bg/weapons/legendary.png") no-repeat center/contain;
+}
+.promo__info_weapons-legendary-ashbringer {
+  background: url("/src/assets/img/weapons/bg/legendary/Ashbringer.png") no-repeat center/contain;
+}
+.promo__info_weapons-legendary-sulfuras {
+  background: url("/src/assets/img/weapons/bg/legendary/Sulfuras-Hand-of-Ragnaros.png") no-repeat center/contain;
+}
+.promo__info_weapons-legendary-thunderfury {
+  background: url("/src/assets/img/weapons/bg/legendary/Thunderfury-Blessed-Blade-of-the-Windseeker.png") no-repeat center/contain;
+}
+.promo__info_weapons-legendary-atiesh {
+  background: url("/src/assets/img/weapons/bg/legendary/Atiesh-Greatstaff-of-the-Guardian.png") no-repeat center/contain;
+}
+.promo__info_weapons-legendary-warglaives-of-azzinoth {
+  background: url("/src/assets/img/weapons/bg/legendary/Warglaives-of-Azzinoth.png") no-repeat center/contain;
+}
+.promo__info_weapons-legendary-thoridal {
+  background: url("/src/assets/img/weapons/bg/legendary/Thoridal-the-Stars-Fury.png") no-repeat center/contain;
+}
+.promo__info_weapons-legendary-valanyr {
+  background: url("/src/assets/img/weapons/bg/legendary/Valanyr-Hammer-of-Ancient-Kings.png") no-repeat center/contain;
+}
+.promo__info_weapons-legendary-frostmourne {
+  background: url("/src/assets/img/weapons/bg/legendary/Frostmourne.png") no-repeat center/contain;
+}
+.promo__info_weapons-legendary-shadowmourne {
+  background: url("/src/assets/img/weapons/bg/legendary/Shadowmourne.png") no-repeat center/contain;
+}
+.promo__info_weapons-legendary-tarecgosa {
+  background: url("/src/assets/img/weapons/bg/legendary/Dragonwrath-Tarecgosas-Rest.png") no-repeat center/contain;
+}
+.promo__info_weapons-legendary-fangs-father {
+  background: url("/src/assets/img/weapons/bg/legendary/Fangs-of-the-Father.png") no-repeat center/contain;
+}
+.promo__info_weapons-legendary-raeshalare {
+  background: url("/src/assets/img/weapons/bg/legendary/Raeshalare-Deaths-Whisper.png") no-repeat center/contain;
+}
+.promo__info_weapons-legendary-fyralath {
+  background: url("/src/assets/img/weapons/bg/legendary/Fyralath-the-Dreamrender.png") no-repeat center/contain;
+}
+.promo__info_weapons-legendary-naszuro {
+  background: url("/src/assets/img/weapons/bg/legendary/Naszuro-the-Unbound-Legacy.png") no-repeat center/contain;
+}
+.promo__info_weapons-decorative {
+  background: url("/src/assets/img/promo/bg/weapons/decorative.png") no-repeat center/contain;
+}
+.promo__info_water-mounts {
+  background: url("/src/assets/img/promo/bg/mounts/water.png") no-repeat center/contain;
+}
+@media (max-width: 425px) {
+  .promo__info_water-mounts {
+    height: 300px;
+  }
+}
+.promo__info_earth-mounts {
+  background: url("/src/assets/img/promo/bg/mounts/earth.png") no-repeat center/contain;
+}
+.promo__info_fly-mounts {
+  background: url("/src/assets/img/promo/bg/mounts/fly.png") no-repeat center/contain;
+}
+.promo__info_mining {
+  background: url("/src/assets/img/promo/bg/professions/mining.png") no-repeat center/contain;
+}
+.promo__info_blacksmithing {
+  background: url("/src/assets/img/promo/bg/professions/blacksmithing.png") no-repeat center/contain;
+}
+.promo__info_fishing {
+  background: url("/src/assets/img/promo/bg/professions/fishing.png") no-repeat center/contain;
+}
+.promo__info_cooking {
+  background: url("/src/assets/img/promo/bg/professions/cooking.png") no-repeat center/contain;
+}
+.promo__info_classic {
+  background: url("/src/assets/img/promo/bg/dungeons-raids/classic.png") no-repeat center/contain;
+}
+.promo__info_burning-crusade {
+  background: url("/src/assets/img/promo/bg/dungeons-raids/burning-crusade.png") no-repeat center/contain;
+}
+.promo__info_wrath-of-the-lich-king {
+  background: url("/src/assets/img/promo/bg/dungeons-raids/wrath-of-the-lich-king.png") no-repeat center/contain;
+}
+.promo__info_cataclysm {
+  background: url("/src/assets/img/promo/bg/dungeons-raids/cataclysm.png") no-repeat center/contain;
+}
+.promo__info_mists-of-pandaria {
+  background: url("/src/assets/img/promo/bg/dungeons-raids/mists-of-pandaria.png") no-repeat center/contain;
+}
+.promo__info_warlords-of-draenor {
+  background: url("/src/assets/img/promo/bg/dungeons-raids/warlords-of-draenor.png") no-repeat center/contain;
+}
+.promo__info_legion {
+  background: url("/src/assets/img/promo/bg/dungeons-raids/legion.png") no-repeat center/contain;
+}
+.promo__info_battle-for-azeroth {
+  background: url("/src/assets/img/promo/bg/dungeons-raids/battle-for-azeroth.png") no-repeat center/contain;
+}
+.promo__info_shadowlands {
+  background: url("/src/assets/img/promo/bg/dungeons-raids/shadowlands.png") no-repeat center/contain;
+}
+.promo__info_dragonflight {
+  background: url("/src/assets/img/promo/bg/dungeons-raids/dragonflight.png") no-repeat center/contain;
+}
+.promo__info_war-within {
+  background: url("/src/assets/img/promo/bg/dungeons-raids/war-within.png") no-repeat center/contain;
+}
+.promo__info_midnight {
+  background: url("/src/assets/img/promo/bg/dungeons-raids/midnight.png") no-repeat center/contain;
+}
+.promo__info_last-titan {
+  background: url("/src/assets/img/promo/bg/dungeons-raids/last-titan.png") no-repeat center/contain;
+}
+.promo__info_legacy {
+  background: url("/src/assets/img/promo/bg/achievements/legacy.png") no-repeat center/contain;
+}
+.promo__info_great-feats {
+  background: url("/src/assets/img/promo/bg/achievements/great-feats.png") no-repeat center/contain;
+}
+.promo__info_wow-anniversary {
+  background: url("/src/assets/img/promo/bg/achievements/Wow-Anniversary.webp") no-repeat center/cover;
+}
+
+.weapon__details__left {
+  width: 555px;
+  height: 765px;
+  border: 1px solid red;
+}
+.weapon__details__right {
+  width: 50%;
+  border: 1px solid red;
+}
+.weapon__details__title, .weapon__details__text {
+  font-weight: 900;
+  font-size: 48px;
+  color: #8400ff;
+  filter: brightness(125%);
+}
+.weapon__details__title_legendary, .weapon__details__text_legendary {
+  color: #ff8000;
+}
+.weapon__details__text {
+  font-size: 32px;
+}
+.weapon__details__img {
+  position: relative;
+  width: inherit;
+  height: inherit;
+}
+.weapon__details__img img {
+  transform: scale(0.8);
+  -o-object-fit: contain;
+     object-fit: contain;
+}
+.weapon__details__label {
+  padding: 10px;
+  border-radius: 20px;
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  color: #8400ff;
+  background: linear-gradient(325deg, #ff8000, transparent 30%, transparent 35%, #ff8000, transparent);
+}
+.weapon__details__stats, .weapon__details__price {
+  color: #ffc107;
+}
+.weapon__details__stats {
+  font-size: 20px;
+  filter: brightness(125%);
+}
+.weapon__details__price {
+  filter: brightness(125%);
+  font-size: 32px;
+  color: #8400ff;
+}
+.weapon__details__cart {
+  padding: 10px;
+  color: #8400ff;
+  font-weight: 700;
+  font-size: 32px;
+  border-radius: 10px;
+  background: linear-gradient(325deg, #ff8000, transparent 30%, transparent 35%, #ff8000, transparent);
+  border: 3px solid #ff8000;
+}
+.weapon__details__cart:hover {
+  box-shadow: 0 0 2px 3px #ff8000;
+}
+.weapon__details__descriptions {
+  filter: brightness(125%);
+  font-weight: 700;
+  font-size: 24px;
+  color: #ffc107;
+}
+
+/* Фон цена, заголовок, кнопка у карточек */
+.card {
+  width: 23rem;
+  transition: 0.5s all;
+  border-radius: 0.8rem;
+  border: none;
+  color: #8400ff;
+  background: linear-gradient(325deg, #8400ff, transparent 30%, transparent 35%, #8400ff, transparent);
+}
+.card [alt] {
+  padding: 10px;
+  text-shadow: 2px 2px 2px #000;
+  color: #8400ff;
+}
+.card:hover {
+  transition: 0.5s all;
+  transform: scale(1.05);
+  box-shadow: 0 0 2px 5px #000;
+}
+.card-races {
+  position: relative;
+  background: linear-gradient(-325deg, #8b0000, transparent 30%, transparent 35%, #1e90ff, transparent);
+}
+.card-horde {
+  color: #b90c1c;
+  background: linear-gradient(325deg, #b90c1c, transparent 30%, transparent 35%, #b90c1c, transparent);
+}
+.card-horde [alt] {
+  color: #b90c1c;
+}
+.card-horde:hover {
+  box-shadow: 0 0 2px 5px #b90c1c;
+}
+.card-alliance {
+  color: #037afb;
+  background: linear-gradient(325deg, #037afb, transparent 30%, transparent 35%, #037afb, transparent);
+}
+.card-alliance [alt] {
+  color: #037afb;
+}
+.card-alliance:hover {
+  box-shadow: 0 0 2px 5px #037afb;
+}
+.card-warrior {
+  color: #854c27;
+  background: linear-gradient(325deg, #854c27, transparent 30%, transparent 35%, #854c27, transparent);
+}
+.card-warrior [alt] {
+  color: #854c27;
+}
+.card-warrior:hover {
+  box-shadow: 0 0 2px 5px #854c27;
+}
+.card-druid {
+  color: #ff7d0a;
+  background: linear-gradient(325deg, #ff7d0a, transparent 30%, transparent 35%, #ff7d0a, transparent);
+}
+.card-druid [alt] {
+  color: #ff7d0a;
+}
+.card-druid:hover {
+  box-shadow: 0 0 2px 5px #ff7d0a;
+}
+.card-priest {
+  color: #fff;
+  background: linear-gradient(325deg, #fff, transparent 30%, transparent 35%, #fff, transparent);
+}
+.card-priest [alt] {
+  color: #fff;
+}
+.card-priest:hover {
+  box-shadow: 0 0 2px 5px #fff;
+}
+.card-mage {
+  color: #00bfff;
+  background: linear-gradient(325deg, #00bfff, transparent 30%, transparent 35%, #00bfff, transparent);
+}
+.card-mage [alt] {
+  color: #00bfff;
+}
+.card-mage:hover {
+  box-shadow: 0 0 2px 5px #00bfff;
+}
+.card-monk {
+  color: #0ae979;
+  background: linear-gradient(325deg, #0ae979, transparent 30%, transparent 35%, #0ae979, transparent);
+}
+.card-monk [alt] {
+  color: #0ae979;
+}
+.card-monk:hover {
+  box-shadow: 0 0 2px 5px #0ae979;
+}
+.card-hunter {
+  color: rgba(134, 197, 102, 0.9098039216);
+  background: linear-gradient(325deg, rgba(134, 197, 102, 0.9098039216), transparent 30%, transparent 35%, rgba(134, 197, 102, 0.9098039216), transparent);
+}
+.card-hunter [alt] {
+  color: rgba(134, 197, 102, 0.9098039216);
+}
+.card-hunter:hover {
+  box-shadow: 0 0 2px 5px rgba(134, 197, 102, 0.9098039216);
+}
+.card-demon-hunter {
+  color: #8b00ff;
+  background: linear-gradient(325deg, #8b00ff, transparent 30%, transparent 35%, #8b00ff, transparent);
+}
+.card-demon-hunter [alt] {
+  color: #8b00ff;
+}
+.card-demon-hunter:hover {
+  box-shadow: 0 0 2px 5px #8b00ff;
+}
+.card-paladin {
+  color: #fb3a86;
+  background: linear-gradient(325deg, #fb3a86, transparent 30%, transparent 35%, #fb3a86, transparent);
+}
+.card-paladin [alt] {
+  color: #fb3a86;
+}
+.card-paladin:hover {
+  box-shadow: 0 0 2px 5px #fb3a86;
+}
+.card-awakener {
+  color: #00c199;
+  background: linear-gradient(325deg, #00c199, transparent 30%, transparent 35%, #00c199, transparent);
+}
+.card-awakener [alt] {
+  color: #00c199;
+}
+.card-awakener:hover {
+  box-shadow: 0 0 2px 5px #00c199;
+}
+.card-rogue {
+  color: #ddcb17;
+  background: linear-gradient(325deg, #ddcb17, transparent 30%, transparent 35%, #ddcb17, transparent);
+}
+.card-rogue [alt] {
+  color: #ddcb17;
+}
+.card-rogue:hover {
+  box-shadow: 0 0 2px 5px #ddcb17;
+}
+.card-death-knight {
+  color: #c41f3b;
+  background: linear-gradient(325deg, #c41f3b, transparent 30%, transparent 35%, #c41f3b, transparent);
+}
+.card-death-knight [alt] {
+  color: #c41f3b;
+}
+.card-death-knight:hover {
+  box-shadow: 0 0 2px 5px #c41f3b;
+}
+.card-warlock {
+  color: #7b13df;
+  background: linear-gradient(325deg, #7b13df, transparent 30%, transparent 35%, #7b13df, transparent);
+}
+.card-warlock [alt] {
+  color: #7b13df;
+}
+.card-warlock:hover {
+  box-shadow: 0 0 2px 5px #7b13df;
+}
+.card-shaman {
+  color: #185ec1;
+  background: linear-gradient(325deg, #185ec1, transparent 30%, transparent 35%, #185ec1, transparent);
+}
+.card-shaman [alt] {
+  color: #185ec1;
+}
+.card-shaman:hover {
+  box-shadow: 0 0 2px 5px #185ec1;
+}
+.card-legendary {
+  color: #ff8000;
+  background: linear-gradient(325deg, #ff8000, transparent 30%, transparent 35%, #ff8000, transparent);
+}
+.card-legendary [alt] {
+  color: #ff8000;
+}
+.card-legendary:hover {
+  box-shadow: 0 0 2px 5px #ff8000;
+}
+.card-artifact {
+  background: linear-gradient(325deg, #d9c798, transparent 30%, transparent 35%, #d9c798, transparent);
+  color: #d9c798;
+}
+.card-artifact [alt] {
+  color: #d9c798;
+}
+.card-artifact:hover {
+  box-shadow: 0 0 2px 5px #d9c798;
+}
+.card-decorative {
+  color: #dc3ef3;
+  background: linear-gradient(325deg, #dc3ef3, transparent 30%, transparent 35%, #dc3ef3, transparent);
+}
+.card-decorative [alt] {
+  color: #dc3ef3;
+}
+.card-decorative:hover {
+  box-shadow: 0 0 2px 5px #dc3ef3;
+}
+.card-armours {
+  background: linear-gradient(325deg, #8400ff, transparent 30%, transparent 35%, #8400ff, transparent);
+}
+.card-armours [alt] {
+  color: #8400ff;
+}
+.card-mounts-water {
+  color: #00ffff;
+  background: linear-gradient(325deg, #00ffff, transparent 30%, transparent 35%, #00ffff, transparent);
+}
+.card-mounts-water [alt] {
+  color: #00ffff;
+}
+.card-mounts-water:hover {
+  box-shadow: 0 0 2px 5px #00ffff;
+}
+.card-mounts-earth {
+  color: #854c27;
+  background: linear-gradient(325deg, #854c27, transparent 30%, transparent 35%, #854c27, transparent);
+}
+.card-mounts-earth [alt] {
+  color: #854c27;
+}
+.card-mounts-earth:hover {
+  box-shadow: 0 0 2px 5px #854c27;
+}
+.card-mounts-fly {
+  color: #2e86e5;
+  background: linear-gradient(325deg, #2e86e5, transparent 30%, transparent 35%, #2e86e5, transparent);
+}
+.card-mounts-fly [alt] {
+  color: #2e86e5;
+}
+.card-mounts-fly:hover {
+  box-shadow: 0 0 2px 5px #2e86e5;
+}
+.card-professions {
+  background: linear-gradient(325deg, #8400ff, transparent 30%, transparent 35%, #8400ff, transparent);
+}
+.card-mining {
+  color: #5a4a38;
+  background: linear-gradient(325deg, #5a4a38, transparent 30%, transparent 35%, #5a4a38, transparent);
+}
+.card-mining [alt] {
+  color: #5a4a38;
+}
+.card-mining:hover {
+  box-shadow: 0 0 2px 5px #5a4a38;
+}
+.card-blacksmithing {
+  color: #3b6e8f;
+  background: linear-gradient(325deg, #3b6e8f, transparent 30%, transparent 35%, #3b6e8f, transparent);
+}
+.card-blacksmithing [alt] {
+  color: #3b6e8f;
+}
+.card-blacksmithing:hover {
+  box-shadow: 0 0 2px 5px #3b6e8f;
+}
+.card-cooking {
+  color: #b84a2a;
+  background: linear-gradient(325deg, #b84a2a, transparent 30%, transparent 35%, #b84a2a, transparent);
+}
+.card-cooking [alt] {
+  color: #b84a2a;
+}
+.card-cooking:hover {
+  box-shadow: 0 0 2px 5px #b84a2a;
+}
+.card-fishing {
+  color: #1a7f6b;
+  background: linear-gradient(325deg, #1a7f6b, transparent 30%, transparent 35%, #1a7f6b, transparent);
+}
+.card-fishing [alt] {
+  color: #1a7f6b;
+}
+.card-fishing:hover {
+  box-shadow: 0 0 2px 5px #1a7f6b;
+}
+.card-pvp {
+  background: linear-gradient(350deg, #ff0033, transparent 30%, transparent 35%, #ff0033, transparent);
+}
+.card-pvp:hover {
+  box-shadow: 0 0 2px 5px #ff0033;
+}
+.card-dungeons-raids-classic {
+  color: #854c27;
+  background: linear-gradient(325deg, #854c27, transparent 30%, transparent 35%, #854c27, transparent);
+}
+.card-dungeons-raids-classic_color {
+  color: #a75926;
+}
+.card-dungeons-raids-classic [alt] {
+  color: #854c27;
+}
+.card-dungeons-raids-classic:hover {
+  box-shadow: 0 0 2px 5px #854c27;
+}
+.card-dungeons-raids-burning-crusade {
+  color: #158d32;
+  background: linear-gradient(325deg, #158d32, transparent 30%, transparent 35%, #158d32, transparent);
+}
+.card-dungeons-raids-burning-crusade_color {
+  color: #7bed09;
+}
+.card-dungeons-raids-burning-crusade [alt] {
+  color: #158d32;
+}
+.card-dungeons-raids-burning-crusade:hover {
+  box-shadow: 0 0 2px 5px #158d32;
+}
+.card-dungeons-raids-wrath-of-the-lich-king {
+  color: #03a9f4;
+  background: linear-gradient(325deg, #03a9f4, transparent 30%, transparent 35%, #03a9f4, transparent);
+}
+.card-dungeons-raids-wrath-of-the-lich-king_color {
+  color: #00bfff;
+}
+.card-dungeons-raids-wrath-of-the-lich-king [alt] {
+  color: #03a9f4;
+}
+.card-dungeons-raids-wrath-of-the-lich-king:hover {
+  box-shadow: 0 0 2px 5px #03a9f4;
+}
+.card-dungeons-raids-cataclysm {
+  color: #ef5c18;
+  background: linear-gradient(325deg, #ef5c18, transparent 30%, transparent 35%, #ef5c18, transparent);
+}
+.card-dungeons-raids-cataclysm_color {
+  color: #ff4d00;
+}
+.card-dungeons-raids-cataclysm [alt] {
+  color: #ef5c18;
+}
+.card-dungeons-raids-cataclysm:hover {
+  box-shadow: 0 0 2px 5px #ef5c18;
+}
+.card-dungeons-raids-mists-of-pandaria {
+  color: #19dd8c;
+  background: linear-gradient(325deg, #19dd8c, transparent 30%, transparent 35%, #19dd8c, transparent);
+}
+.card-dungeons-raids-mists-of-pandaria_color {
+  color: #00ff7f;
+}
+.card-dungeons-raids-mists-of-pandaria [alt] {
+  color: #19dd8c;
+}
+.card-dungeons-raids-mists-of-pandaria:hover {
+  box-shadow: 0 0 2px 5px #19dd8c;
+}
+.card-dungeons-raids-warlords-of-draenor {
+  color: #854c27;
+  background: linear-gradient(325deg, #854c27, transparent 30%, transparent 35%, #854c27, transparent);
+}
+.card-dungeons-raids-warlords-of-draenor_color {
+  color: #a75926;
+}
+.card-dungeons-raids-warlords-of-draenor [alt] {
+  color: #854c27;
+}
+.card-dungeons-raids-warlords-of-draenor:hover {
+  box-shadow: 0 0 2px 5px #854c27;
+}
+.card-dungeons-raids-legion {
+  color: #158d32;
+  background: linear-gradient(325deg, #158d32, transparent 30%, transparent 35%, #158d32, transparent);
+}
+.card-dungeons-raids-legion_color {
+  color: #7bed09;
+}
+.card-dungeons-raids-legion [alt] {
+  color: #158d32;
+}
+.card-dungeons-raids-legion:hover {
+  box-shadow: 0 0 2px 5px #158d32;
+}
+.card-dungeons-raids-battle-for-azeroth {
+  color: #7c10e1;
+  background: linear-gradient(325deg, #7c10e1, transparent 30%, transparent 35%, #7c10e1, transparent);
+}
+.card-dungeons-raids-battle-for-azeroth_color {
+  color: #8b00ff;
+}
+.card-dungeons-raids-battle-for-azeroth [alt] {
+  color: #7c10e1;
+}
+.card-dungeons-raids-battle-for-azeroth:hover {
+  box-shadow: 0 0 2px 5px #7c10e1;
+}
+.card-dungeons-raids-shadowlands {
+  color: #759ca5;
+  background: linear-gradient(325deg, #759ca5, transparent 30%, transparent 35%, #759ca5, transparent);
+}
+.card-dungeons-raids-shadowlands_color {
+  color: #92c5d1;
+}
+.card-dungeons-raids-shadowlands [alt] {
+  color: #759ca5;
+}
+.card-dungeons-raids-shadowlands:hover {
+  box-shadow: 0 0 2px 5px #759ca5;
+}
+.card-dungeons-raids-dragonflight {
+  color: #1fbbad;
+  background: linear-gradient(325deg, #1fbbad, transparent 30%, transparent 35%, #1fbbad, transparent);
+}
+.card-dungeons-raids-dragonflight_color {
+  color: #31dfcf;
+}
+.card-dungeons-raids-dragonflight [alt] {
+  color: #1fbbad;
+}
+.card-dungeons-raids-dragonflight:hover {
+  box-shadow: 0 0 2px 5px #1fbbad;
+}
+.card-dungeons-raids-war-within {
+  color: #d35400;
+  background: linear-gradient(325deg, #d35400, transparent 30%, transparent 35%, #d35400, transparent);
+}
+.card-dungeons-raids-war-within_color {
+  color: #fa6604;
+}
+.card-dungeons-raids-war-within [alt] {
+  color: #d35400;
+}
+.card-dungeons-raids-war-within:hover {
+  box-shadow: 0 0 2px 5px #d35400;
+}
+.card-dungeons-raids-midnight {
+  color: #3126c1;
+  background: linear-gradient(325deg, #3126c1, transparent 30%, transparent 35%, #3126c1, transparent);
+}
+.card-dungeons-raids-midnight_color {
+  color: #1205c6;
+}
+.card-dungeons-raids-midnight [alt] {
+  color: #3126c1;
+}
+.card-dungeons-raids-midnight:hover {
+  box-shadow: 0 0 2px 5px #3126c1;
+}
+.card-dungeons-raids-last-titan {
+  color: #dfae56;
+  background: linear-gradient(325deg, #dfae56, transparent 30%, transparent 35%, #dfae56, transparent);
+}
+.card-dungeons-raids-last-titan_color {
+  color: #fcd075;
+}
+.card-dungeons-raids-last-titan [alt] {
+  color: #dfae56;
+}
+.card-dungeons-raids-last-titan:hover {
+  box-shadow: 0 0 2px 5px #dfae56;
+}
+.card-achievements {
+  color: #6a7982;
+  background: linear-gradient(325deg, #6a7982, transparent 30%, transparent 35%, #6a7982, transparent);
+}
+.card-achievements [alt] {
+  color: #6a7982;
+}
+.card-achievements:hover {
+  box-shadow: 0 0 2px 5px #6a7982;
+}
+.card-achievements-great-feats {
+  color: #ffd700;
+  background: linear-gradient(325deg, #ffd700, transparent 30%, transparent 35%, #ffd700, transparent);
+}
+.card-achievements-great-feats [alt] {
+  color: #ffd700;
+}
+.card-achievements-great-feats:hover {
+  box-shadow: 0 0 2px 5px #ffd700;
+}
+.card-buy {
+  width: 100%;
+}
+.card-buy:hover {
+  transform: scale(1);
+}
+@media (max-width: 991.98px) {
+  .card {
+    width: 30rem;
+  }
+}
+
+.card-box, .cards__wrapper {
+  -moz-column-gap: 1.4rem;
+       column-gap: 1.4rem;
+  row-gap: 2rem;
+}
+
+.card-img {
+  width: 100%;
+  height: 450px;
+  transition: 0.5s all;
+  filter: drop-shadow(0 0 2px #000);
+}
+.card-img:hover {
+  transition: 0.5s all;
+  transform: scale(1.05);
+}
+.card-img-object-fit {
+  -o-object-fit: contain;
+     object-fit: contain;
+}
+.card-img-tiers {
+  border-radius: 0.8rem;
+}
+.card-img-achievements {
+  border-radius: 50%;
+  transition: 0.5s all;
+}
+.card-img-achievements:hover {
+  transform: scale(1);
+  border-radius: 0;
+}
+
+.card-link {
+  display: inline-block;
+}
+
+.card-title {
+  font-weight: 900;
+  font-style: italic;
+  line-height: 1;
+  min-height: 160px;
+  text-shadow: 2px 2px 2px #000;
+  font-size: 32px;
+  transition: 0.5s all;
+  filter: drop-shadow(0 0 2px #000);
+}
+@media (max-width: 991.98px) {
+  .card-title {
+    min-height: auto;
+  }
+}
+.card-title:hover {
+  transition: 0.5s all;
+  transform: scale(1.1);
+}
+.card-title-races {
+  background: linear-gradient(120deg, #8b0000 48%, #1e90ff 48%);
+  -webkit-background-clip: text;
+          background-clip: text;
+  color: transparent;
+}
+.card-title-buy {
+  color: #564fff;
+  min-height: 0;
+  margin-bottom: 0;
+}
+.card-title-buy:hover {
+  transform: scale(1);
+  cursor: url("/src/assets/icons/cursor-action.png"), auto;
+}
+
+.card-text {
+  font-weight: 900;
+  font-style: italic;
+  font-size: 20px;
+  transition: 0.5s all;
+  text-shadow: 2px 2px 2px #000;
+  filter: drop-shadow(0 0 2px #000);
+}
+.card-text:hover {
+  transform: scale(1.05);
+  transition: 0.5s all;
+}
+.card-text-races {
+  background: linear-gradient(120deg, #8b0000 48%, #1e90ff 48%);
+  -webkit-background-clip: text;
+          background-clip: text;
+  color: transparent;
+}
+.card-text-buy:hover {
+  transform: scale(1);
+}
+
+.card-footer {
+  margin-bottom: 1rem;
+  border: none;
+  background: transparent;
+}
+
+.card-price {
+  font-weight: 700;
+  font-size: 28px;
+  transition: 0.5s all;
+  text-shadow: 2px 2px 2px #000;
+  filter: drop-shadow(2px 2px 2px #000);
+  cursor: url("/src/assets/icons/cursor-text.png"), auto;
+}
+.card-price [alt] {
+  padding: 0;
+}
+.card-price:hover {
+  transition: 0.5s all;
+  transform: scale(1.1);
+}
+.card-price-races {
+  background: linear-gradient(120deg, #8b0000 48%, #1e90ff 48%);
+  -webkit-background-clip: text;
+          background-clip: text;
+  color: transparent;
+}
+
+.card-btn {
+  padding: 8px;
+  border-radius: 5px;
+  text-shadow: 2px 2px 2px #000;
+  font-weight: 700;
+  transition: 0.5s all;
+  border: 1px solid #000;
+  box-shadow: 5px 5px 10px #000;
+  background: #000;
+  color: #ffc107;
+  filter: drop-shadow(0 0 2px #000);
+}
+.card-btn:hover {
+  transition: 0.5s all;
+  transform: scale(1.1);
+  color: #ffc107;
+}
+.card-btn-buy {
+  width: 10%;
+}
+
+.gold, .dollar {
+  margin-left: 10px;
+  width: 36px;
+  height: 36px;
+}
+
+.races__wrapper {
+  gap: 64px;
+}
+.races__header, .races__text {
+  filter: brightness(125%);
+  color: #ffc107;
+  font-size: 32px;
+  line-height: 1.2;
+  font-weight: 700;
+}
+.races__header {
+  font-size: 48px;
+}
+@media (max-width: 767.98px) {
+  .races__header {
+    font-size: 56px;
+  }
+}
+@media (max-width: 676px) {
+  .races__header {
+    font-size: 48px;
+  }
+}
+@media (max-width: 575.98px) {
+  .races__header {
+    font-size: 42px;
+  }
+}
+@media (max-width: 480px) {
+  .races__header {
+    font-size: 36px;
+  }
+}
+@media (max-width: 425px) {
+  .races__header {
+    font-size: 32px;
+  }
+}
+@media (max-width: 375px) {
+  .races__header {
+    font-size: 28px;
+  }
+}
+.races__text {
+  font-size: 30px;
+}
+@media (max-width: 767.98px) {
+  .races__text {
+    font-size: 28px;
+  }
+}
+@media (max-width: 676px) {
+  .races__text {
+    font-size: 24px;
+  }
+}
+@media (max-width: 575.98px) {
+  .races__text {
+    font-size: 20px;
+  }
+}
+@media (max-width: 480px) {
+  .races__text {
+    font-size: 18px;
+  }
+}
+.races__horde {
+  color: #b90c1c;
+}
+.races__alliance {
+  color: #037afb;
+}
+.races__img {
+  height: 600px;
+}
+.races__img_mount {
+  width: 65%;
+  height: 400px;
+}
+.races__img_leader {
+  width: 40%;
+}
+
+.filter__wrapper {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.order__steps {
+  padding: 25px 0;
+  min-height: 500px;
+}
+.order__steps__header {
+  color: #9fa3e5;
+  font-weight: 900;
+  font-size: 32px;
+}
+.order__steps__title {
+  text-align: center;
+  width: 185px;
+  color: #9fa3e5;
+  font-weight: 700;
+  font-size: 18px;
+  margin: 0 auto;
+}
+.order__steps__title {
+  margin-bottom: 20px;
+}
+.order__steps__text {
+  font-size: 14px;
+  font-weight: 400;
+}
+.order__steps__list {
+  position: relative;
+}
+.order__steps__img {
+  width: 60px;
+  height: 60px;
+  display: flex;
+  margin: 0 auto;
+  margin-bottom: 30px;
+}
+.order__steps .br {
+  transform: rotate(90deg);
+  display: inline-block;
+  height: 80px;
+  position: absolute;
+  top: -15px;
+  border-right: 5px dashed #7932ff;
+}
+.order__steps__text {
+  text-align: center;
+}
+
+.why__we {
+  padding: 50px 0;
+}
+@media (max-width: 425px) {
+  .why__we {
+    padding: 32px 0;
+  }
+}
+.why__we__header {
+  font-size: 64px;
+  color: #fff;
+  font-weight: 700;
+}
+@media (max-width: 767.98px) {
+  .why__we__header {
+    font-size: 56px;
+  }
+}
+@media (max-width: 676px) {
+  .why__we__header {
+    font-size: 48px;
+  }
+}
+@media (max-width: 575.98px) {
+  .why__we__header {
+    font-size: 42px;
+  }
+}
+@media (max-width: 480px) {
+  .why__we__header {
+    font-size: 36px;
+  }
+}
+@media (max-width: 425px) {
+  .why__we__header {
+    font-size: 32px;
+  }
+}
+.why__we__wrapper {
+  border-radius: 50px;
+  background: #1f2249;
+}
+@media (max-width: 425px) {
+  .why__we__wrapper {
+    border-radius: 30px;
+  }
+}
+.why__we__items {
+  flex-shrink: 0;
+  width: 16.6666666667%;
+  color: #9fa3e5;
+  font-size: 18px;
+}
+@media (max-width: 991.98px) {
+  .why__we__items {
+    width: 100%;
+  }
+}
+.why__we__img {
+  width: 60px;
+  height: 60px;
+}
+@media (max-width: 425px) {
+  .why__we__img {
+    width: 50px;
+    height: 50px;
+  }
+}
+@media (max-width: 375px) {
+  .why__we__img {
+    width: 45px;
+    height: 45px;
+  }
+}
+@media (max-width: 991.98px) {
+  .why__we__description {
+    width: 50%;
+  }
+}
+@media (max-width: 767.98px) {
+  .why__we__description {
+    width: 70%;
+  }
+}
+@media (max-width: 575.98px) {
+  .why__we__description {
+    width: 80%;
+  }
+}
+@media (max-width: 480px) {
+  .why__we__description {
+    width: 100%;
+  }
+}
+.why__we__text, .why__we__info {
+  font-size: 16px;
+  color: #9fa3e5;
+}
+@media (max-width: 425px) {
+  .why__we__text, .why__we__info {
+    font-size: 14px;
+  }
+}
+.why__we__info {
+  font-size: 20px;
+  font-weight: 700;
+}
+@media (max-width: 425px) {
+  .why__we__info {
+    font-size: 16px;
+  }
+}
+
+.footer {
+  padding: 50px 0;
+  background: #111635;
+}
+@media (max-width: 425px) {
+  .footer {
+    padding: 32px 0;
+  }
+}
+.footer__img {
+  width: 200px;
+  height: 100px;
+}
+.footer__btn {
+  width: 150px;
+  background: rgba(142, 148, 247, 0.2);
+  filter: brightness(125%);
+  color: #ffc107;
+  padding: 10px 35px;
+  border-radius: 10px;
+  font-weight: 700;
+}
+@media (max-width: 480px) {
+  .footer__btn {
+    display: none;
+  }
+}
+.footer__btn:focus, .footer__btn:active, .footer__btn:hover {
+  background: linear-gradient(180deg, #7932ff, #564fff);
+}
+.footer__copyright {
+  font-size: 24px;
+  color: #9fa3e5;
+}
+@media (max-width: 480px) {
+  .footer__copyright {
+    font-size: 20px;
+  }
+}
+@media (max-width: 425px) {
+  .footer__copyright {
+    font-size: 18px;
+  }
+}
+
+.arrow-up {
+  display: none;
+  position: fixed;
+  width: 50px;
+  height: 50px;
+  cursor: url("/src/assets/icons/cursor-action.png"), auto;
+  right: 30px;
+  bottom: 30px;
+  border-radius: 50%;
+  background: url("/src/assets/icons/arrow-up.svg") no-repeat center/cover;
+}
+.arrow-up:hover {
+  filter: brightness(125%);
+}
+.arrow-up-active {
+  display: flex;
+}
+
+.nav__tabs {
+  min-height: auto;
+}
+
+/** Логотип **/
+.navbar-brand {
+  width: 350px;
+  height: 165px;
+}
+.navbar-brand img {
+  width: 100%;
+  height: 100%;
+}
+
+/** Ссылки **/
+.navbar-light .navbar-nav .nav-link, .navbar-light .navbar-nav .show > .nav-link {
+  padding: 0.65rem;
+  margin: 10px;
+  color: #564fff;
+}
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover, .navbar-light .navbar-nav .show > .nav-link:focus, .navbar-light .navbar-nav .show > .nav-link:hover {
+  border-radius: 20px;
+  background: rgba(142, 148, 247, 0.2);
+  color: #ffc107;
+  font-weight: 700;
+  filter: brightness(125%);
+}
+
+/** Поиск в шапке **/
+.form-inline .form-control {
+  width: 500px;
+  font-weight: 700;
+  color: #564fff;
+  border: 1px solid #564fff;
+}
+
+.form-control::-moz-placeholder {
+  color: #564fff;
+}
+
+.form-control::placeholder {
+  color: #564fff;
+}
+.form-control:focus {
+  border: 2px solid #564fff;
+  filter: brightness(125%);
+}
+.form-control:focus::-moz-placeholder {
+  color: #564fff;
+}
+.form-control:focus::placeholder {
+  color: #564fff;
+}
+
+.dropdown-menu {
+  min-width: 0;
+  width: 150px;
+  border-radius: 10px;
+  background: linear-gradient(180deg, #7932ff, #564fff);
+  filter: brightness(125%);
+}
+
+.dropdown-item {
+  border-radius: 10px;
+  font-weight: 700;
+  color: #ffc107;
+}
+.dropdown-item:active, .dropdown-item:focus, .dropdown-item:hover {
+  background: #000;
+  color: #ffc107;
+}
+
+/* Кнопка Входа и Регистрации */
+.nav__btn {
+  margin: 10px;
+  border-radius: 5px;
+  color: #9fa3e5;
+  padding: 10px;
+}
+.nav__btn:hover {
+  filter: brightness(125%);
+}
+.nav__btn-enter {
+  background: rgba(142, 148, 247, 0.2);
+  color: #564fff;
+  font-weight: 700;
+}
+
+/* Табы карточек */
+.nav-pills .nav-link {
+  border-radius: 20px;
+}
+
+.nav-pills {
+  gap: 15px;
+}
+
+.nav-link-tabs {
+  text-align: center;
+  color: #9fa3e5;
+  background: rgba(142, 148, 247, 0.2);
+}
+.nav-link-tabs:hover {
+  color: #ffc107;
+  filter: brightness(125%);
+}
+
+/* Фон всех активных ссылок в нав меню */
+.nav-pills .nav-link.active {
+  color: #ffc107;
+  background: linear-gradient(325deg, #8400ff, transparent 30%, transparent 35%, #8400ff, transparent);
+  filter: brightness(125%);
+}
+
+/* Реакт табы */
+.nav {
+  min-height: 150px;
+}
+.nav__wrapper {
+  position: relative;
+}
+.nav__tabs, .nav-tabs {
+  border: none;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 32px;
+}
+.nav__menu, .nav-menu {
+  position: absolute;
+  top: 50px;
+  left: 0;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  border-radius: 20px;
+  background: #0f0a1f;
+  box-shadow: 0 0 2px 2px #ed143d;
+  z-index: 10;
+}
+.nav__menu_dropdown, .nav__menu-dropdown, .nav-menu_dropdown, .nav-menu-dropdown {
+  width: 205px;
+  height: 280px;
+  overflow-y: scroll;
+}
+.nav__menu_dropdown::-webkit-scrollbar, .nav__menu-dropdown::-webkit-scrollbar, .nav-menu_dropdown::-webkit-scrollbar, .nav-menu-dropdown::-webkit-scrollbar {
+  width: 0;
+}
+.nav__menu_dropdown .nav-link, .nav__menu-dropdown .nav-link, .nav-menu_dropdown .nav-link, .nav-menu-dropdown .nav-link {
+  font-weight: 700;
+}
+.nav__menu_races, .nav__menu-races, .nav-menu_races, .nav-menu-races {
+  top: -70px;
+  left: 0;
+  height: auto;
+}
+.nav__menu_faction, .nav-menu_faction {
+  top: -125px;
+  height: auto;
+}
+.nav__menu-raid-armours, .nav-menu-raid-armours {
+  left: 20.7%;
+}
+.nav__menu-weapons, .nav-menu-weapons {
+  left: 41.2%;
+}
+.nav__menu_mounts, .nav__menu-mounts, .nav-menu_mounts, .nav-menu-mounts {
+  height: auto;
+}
+.nav__menu-mounts, .nav-menu-mounts {
+  left: 82.5%;
+}
+.nav__menu-professions, .nav-menu-professions {
+  top: 1.85%;
+}
+.nav__menu-achievements, .nav-menu-achievements {
+  top: 3.5%;
+  left: 61.6%;
+}
+.nav-item {
+  min-height: 40px;
+}
+.nav__list, .nav-link {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-width: 100px;
+  padding: 7px 10px;
+  min-height: 40px;
+  border-radius: 20px !important;
+  transition: none !important;
+  border: none !important;
+  box-shadow: none;
+  outline: none !important;
+  color: #9fa3e5;
+  background: rgba(142, 148, 247, 0.2);
+  text-align: center;
+  filter: brightness(125%);
+  font-size: 18px;
+  text-shadow: 2px 2px 2px #000;
+}
+.nav__list.active, .nav__list:hover, .nav__list:focus, .nav-link.active, .nav-link:hover, .nav-link:focus {
+  border: none !important;
+  box-shadow: none;
+  outline: none !important;
+}
+.nav__list.active, .nav-link.active {
+  color: #ffc107 !important;
+  background: linear-gradient(325deg, #8400ff, transparent 30%, transparent 35%, #8400ff, transparent) !important;
+  box-shadow: 0 0 0 3px #8400ff;
+}
+.nav__list:hover, .nav__list:focus, .nav-link:hover, .nav-link:focus {
+  color: #ffc107;
+}
+.nav__list:hover, .nav-link:hover {
+  box-shadow: 0 0 0 3px #ffc107;
+}
+.nav__list-races, .nav-link-races {
+  background: linear-gradient(-325deg, #8b0000, transparent 50%, transparent 35%, #1e90ff, transparent);
+}
+.nav__list-races-horde, .nav-link-races-horde {
+  color: #b90c1c;
+  background: linear-gradient(325deg, #b90c1c, transparent 30%, transparent 35%, #b90c1c, transparent);
+}
+.nav__list-races-horde:hover, .nav-link-races-horde:hover {
+  box-shadow: 0 0 0 3px #b90c1c;
+}
+.nav__list-races-alliance, .nav-link-races-alliance {
+  color: #037afb;
+  background: linear-gradient(325deg, #037afb, transparent 30%, transparent 35%, #037afb, transparent);
+}
+.nav__list-races-alliance:hover, .nav-link-races-alliance:hover {
+  box-shadow: 0 0 0 3px #037afb;
+}
+.nav__list-warrior, .nav-link-warrior {
+  color: #854c27;
+  background: linear-gradient(325deg, #854c27, transparent 30%, transparent 35%, #854c27, transparent);
+}
+.nav__list-warrior:hover, .nav-link-warrior:hover {
+  box-shadow: 0 0 0 3px #854c27;
+}
+.nav__list-druid, .nav-link-druid {
+  color: #ff7d0a;
+  background: linear-gradient(325deg, #ff7d0a, transparent 30%, transparent 35%, #ff7d0a, transparent);
+}
+.nav__list-druid:hover, .nav-link-druid:hover {
+  box-shadow: 0 0 0 3px #ff7d0a;
+}
+.nav__list-priest, .nav-link-priest {
+  color: #fff;
+  background: linear-gradient(325deg, #fff, transparent 30%, transparent 35%, #fff, transparent);
+}
+.nav__list-priest:hover, .nav-link-priest:hover {
+  box-shadow: 0 0 0 3px #fff;
+}
+.nav__list-mage, .nav-link-mage {
+  color: #00bfff;
+  background: linear-gradient(325deg, #00bfff, transparent 30%, transparent 35%, #00bfff, transparent);
+}
+.nav__list-mage:hover, .nav-link-mage:hover {
+  box-shadow: 0 0 0 3px #00bfff;
+}
+.nav__list-monk, .nav-link-monk {
+  color: #0ae979;
+  background: linear-gradient(325deg, #0ae979, transparent 30%, transparent 35%, #0ae979, transparent);
+}
+.nav__list-monk:hover, .nav-link-monk:hover {
+  box-shadow: 0 0 0 3px #0ae979;
+}
+.nav__list-hunter, .nav-link-hunter {
+  color: rgba(134, 197, 102, 0.9098039216);
+  background: linear-gradient(325deg, rgba(134, 197, 102, 0.9098039216), transparent 30%, transparent 35%, rgba(134, 197, 102, 0.9098039216), transparent);
+}
+.nav__list-hunter:hover, .nav-link-hunter:hover {
+  box-shadow: 0 0 0 3px rgba(134, 197, 102, 0.9098039216);
+}
+.nav__list-demon-hunter, .nav-link-demon-hunter {
+  color: #8b00ff;
+  background: linear-gradient(325deg, #8b00ff, transparent 30%, transparent 35%, #8b00ff, transparent);
+}
+.nav__list-demon-hunter:hover, .nav-link-demon-hunter:hover {
+  box-shadow: 0 0 0 3px #8b00ff;
+}
+.nav__list-paladin, .nav-link-paladin {
+  color: #fb3a86;
+  background: linear-gradient(325deg, #fb3a86, transparent 30%, transparent 35%, #fb3a86, transparent);
+}
+.nav__list-paladin:hover, .nav-link-paladin:hover {
+  box-shadow: 0 0 0 3px #fb3a86;
+}
+.nav__list-awakener, .nav-link-awakener {
+  color: #00c199;
+  background: linear-gradient(325deg, #00c199, transparent 30%, transparent 35%, #00c199, transparent);
+}
+.nav__list-awakener:hover, .nav-link-awakener:hover {
+  box-shadow: 0 0 0 3px #00c199;
+}
+.nav__list-rogue, .nav-link-rogue {
+  color: #ddcb17;
+  background: linear-gradient(325deg, #ddcb17, transparent 30%, transparent 35%, #ddcb17, transparent);
+}
+.nav__list-rogue:hover, .nav-link-rogue:hover {
+  box-shadow: 0 0 0 3px #ddcb17;
+}
+.nav__list-death-knight, .nav-link-death-knight {
+  color: #c41f3b;
+  background: linear-gradient(325deg, #c41f3b, transparent 30%, transparent 35%, #c41f3b, transparent);
+}
+.nav__list-death-knight:hover, .nav-link-death-knight:hover {
+  box-shadow: 0 0 0 3px #c41f3b;
+}
+.nav__list-warlock, .nav-link-warlock {
+  color: #7b13df;
+  background: linear-gradient(325deg, #7b13df, transparent 30%, transparent 35%, #7b13df, transparent);
+}
+.nav__list-warlock:hover, .nav-link-warlock:hover {
+  box-shadow: 0 0 0 3px #7b13df;
+}
+.nav__list-shaman, .nav-link-shaman {
+  color: #185ec1;
+  background: linear-gradient(325deg, #185ec1, transparent 30%, transparent 35%, #185ec1, transparent);
+}
+.nav__list-shaman:hover, .nav-link-shaman:hover {
+  box-shadow: 0 0 0 3px #185ec1;
+}
+.nav__list-weapons, .nav-link-weapons {
+  color: #8400ff;
+  background: linear-gradient(325deg, #8400ff, transparent 30%, transparent 35%, #8400ff, transparent);
+}
+.nav__list-legendary, .nav-link-legendary {
+  color: #ff8000;
+  background: linear-gradient(325deg, #ff8000, transparent 30%, transparent 35%, #ff8000, transparent);
+}
+.nav__list-legendary:hover, .nav-link-legendary:hover {
+  box-shadow: 0 0 0 3px #ff8000;
+}
+.nav__list-artifact, .nav-link-artifact {
+  color: #d9c798;
+  background: linear-gradient(325deg, #d9c798, transparent 30%, transparent 35%, #d9c798, transparent);
+}
+.nav__list-decorative, .nav-link-decorative {
+  color: #dc3ef3;
+  background: linear-gradient(325deg, #dc3ef3, transparent 30%, transparent 35%, #dc3ef3, transparent);
+}
+.nav__list-decorative:hover, .nav-link-decorative:hover {
+  box-shadow: 0 0 0 3px #dc3ef3;
+}
+.nav__list-mounts-water, .nav-link-mounts-water {
+  color: #00ffff;
+  background: linear-gradient(325deg, #00ffff, transparent 30%, transparent 35%, #00ffff, transparent);
+}
+.nav__list-mounts-water:hover, .nav-link-mounts-water:hover {
+  box-shadow: 0 0 0 3px #00ffff;
+}
+.nav__list-mounts-earth, .nav-link-mounts-earth {
+  color: #854c27;
+  background: linear-gradient(325deg, #854c27, transparent 30%, transparent 35%, #854c27, transparent);
+}
+.nav__list-mounts-earth:hover, .nav-link-mounts-earth:hover {
+  box-shadow: 0 0 0 3px #854c27;
+}
+.nav__list-mounts-fly, .nav-link-mounts-fly {
+  color: #2e86e5;
+  background: linear-gradient(325deg, #2e86e5, transparent 30%, transparent 35%, #2e86e5, transparent);
+}
+.nav__list-mounts-fly:hover, .nav-link-mounts-fly:hover {
+  box-shadow: 0 0 0 3px #2e86e5;
+}
+.nav__list-professions-mining, .nav-link-professions-mining {
+  color: #5a4a38;
+  background: linear-gradient(325deg, #5a4a38, transparent 30%, transparent 35%, #5a4a38, transparent);
+}
+.nav__list-professions-mining:hover, .nav-link-professions-mining:hover {
+  box-shadow: 0 0 0 3px #5a4a38;
+}
+.nav__list-professions-blacksmithing, .nav-link-professions-blacksmithing {
+  color: #3b6e8f;
+  background: linear-gradient(325deg, #3b6e8f, transparent 30%, transparent 35%, #3b6e8f, transparent);
+}
+.nav__list-professions-blacksmithing:hover, .nav-link-professions-blacksmithing:hover {
+  box-shadow: 0 0 0 3px #3b6e8f;
+}
+.nav__list-professions-cooking, .nav-link-professions-cooking {
+  color: #b84a2a;
+  background: linear-gradient(325deg, #b84a2a, transparent 30%, transparent 35%, #b84a2a, transparent);
+}
+.nav__list-professions-cooking:hover, .nav-link-professions-cooking:hover {
+  box-shadow: 0 0 0 3px #b84a2a;
+}
+.nav__list-professions-fishing, .nav-link-professions-fishing {
+  color: #1a7f6b;
+  background: linear-gradient(325deg, #1a7f6b, transparent 30%, transparent 35%, #1a7f6b, transparent);
+}
+.nav__list-professions-fishing:hover, .nav-link-professions-fishing:hover {
+  box-shadow: 0 0 0 3px #1a7f6b;
+}
+.nav__list-achievements, .nav-link-achievements {
+  color: #6a7982;
+  background: linear-gradient(325deg, #6a7982, transparent 30%, transparent 35%, #6a7982, transparent);
+}
+.nav__list-achievements:hover, .nav-link-achievements:hover {
+  box-shadow: 0 0 0 3px #6a7982;
+}
+.nav__list-achievements-great-feats, .nav-link-achievements-great-feats {
+  color: #ffd700;
+  background: linear-gradient(325deg, #ffd700, transparent 30%, transparent 35%, #ffd700, transparent);
+}
+.nav__list-achievements-great-feats:hover, .nav-link-achievements-great-feats:hover {
+  box-shadow: 0 0 0 3px #ffd700;
+}
+
+.tab-content {
+  margin-top: 64px;
+}
+
+* {
+  font-family: Podkova, sans-serif;
+}
+
+body {
+  background: #0f0a1f;
+}
+
+label {
+  cursor: url("/src/assets/icons/cursor-text.png"), auto;
+}
+
+.container {
+  max-width: 1180px !important;
+}
+
+.container, .container-fluid {
+  min-height: inherit;
+}
+@media (max-width: 480px) {
+  .container, .container-fluid {
+    min-height: 0;
+  }
+}
+
+.container-fluid {
+  padding: 0;
+}
+
+@media (max-width: 480px) {
+  main > h1 {
+    display: none;
+  }
+}/*# sourceMappingURL=style.css.map */

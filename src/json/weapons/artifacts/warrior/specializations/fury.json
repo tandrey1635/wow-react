@@ -1,0 +1,313 @@
+[
+	{
+		"id": "WarswordsOfTheValarjar",
+		"className": "card-warrior",
+		"path": "#",
+		"cardImg": "/src/assets/img/promo/bg/classes/warrior/.jpg",
+		"titleClassName": "card-title-warrior",
+		"title": "Боевые мечи валарьяров",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Закажите Боевые мечи валарьяров",
+		"priceClassName": "card-price-warrior",
+		"price": 800
+	},
+
+	{
+		"id": "WarswordsOfTheValarjar",
+		"className": "card-warrior",
+		"path": "#",
+		"cardImg": "/src/assets/img/promo/bg/classes/warrior/.jpg",
+		"titleClassName": "card-title-warrior",
+		"title": "Боевые мечи валарьяров",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Закажите Боевые мечи валарьяров",
+		"priceClassName": "card-price-warrior",
+		"price": 800
+	},
+
+	{
+		"id": "WarswordsOfTheValarjar",
+		"className": "card-warrior",
+		"path": "#",
+		"cardImg": "/src/assets/img/promo/bg/classes/warrior/.jpg",
+		"titleClassName": "card-title-warrior",
+		"title": "Боевые мечи валарьяров",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Закажите Боевые мечи валарьяров",
+		"priceClassName": "card-price-warrior",
+		"price": 800
+	},
+
+	{
+		"id": "WarswordsOfTheValarjar",
+		"className": "card-warrior",
+		"path": "#",
+		"cardImg": "/src/assets/img/promo/bg/classes/warrior/.jpg",
+		"titleClassName": "card-title-warrior",
+		"title": "Боевые мечи валарьяров",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Закажите Боевые мечи валарьяров",
+		"priceClassName": "card-price-warrior",
+		"price": 800
+	},
+
+	{
+		"id": "ArmOfTheDragonrider",
+		"className": "card-warrior",
+		"path": "#",
+		"cardImg": "/src/assets/img/promo/bg/classes/warrior/.jpg",
+		"titleClassName": "card-title-warrior",
+		"title": "Длань укротителя драконов",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Закажите Длань укротителя драконов",
+		"priceClassName": "card-price-warrior",
+		"price": 1000
+	},
+
+	{
+		"id": "ArmOfTheDragonrider",
+		"className": "card-warrior",
+		"path": "#",
+		"cardImg": "/src/assets/img/promo/bg/classes/warrior/.jpg",
+		"titleClassName": "card-title-warrior",
+		"title": "Длань укротителя драконов",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Закажите Длань укротителя драконов",
+		"priceClassName": "card-price-warrior",
+		"price": 1000
+	},
+
+	{
+		"id": "ArmOfTheDragonrider",
+		"className": "card-warrior",
+		"path": "#",
+		"cardImg": "/src/assets/img/promo/bg/classes/warrior/.jpg",
+		"titleClassName": "card-title-warrior",
+		"title": "Длань укротителя драконов",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Закажите Длань укротителя драконов",
+		"priceClassName": "card-price-warrior",
+		"price": 1000
+	},
+
+	{
+		"id": "ArmOfTheDragonrider",
+		"className": "card-warrior",
+		"path": "#",
+		"cardImg": "/src/assets/img/promo/bg/classes/warrior/.jpg",
+		"titleClassName": "card-title-warrior",
+		"title": "Длань укротителя драконов",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Закажите Длань укротителя драконов",
+		"priceClassName": "card-price-warrior",
+		"price": 1000
+	},
+
+	{
+		"id": "Valormaw",
+		"className": "card-warrior",
+		"path": "#",
+		"cardImg": "/src/assets/img/promo/bg/classes/warrior/.jpg",
+		"titleClassName": "card-title-warrior",
+		"title": "Лик доблести",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Закажите Лик доблести",
+		"priceClassName": "card-price-warrior",
+		"price": 1200
+	},
+
+	{
+		"id": "Valormaw",
+		"className": "card-warrior",
+		"path": "#",
+		"cardImg": "/src/assets/img/promo/bg/classes/warrior/.jpg",
+		"titleClassName": "card-title-warrior",
+		"title": "Лик доблести",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Закажите Лик доблести",
+		"priceClassName": "card-price-warrior",
+		"price": 1200
+	},
+
+	{
+		"id": "Valormaw",
+		"className": "card-warrior",
+		"path": "#",
+		"cardImg": "/src/assets/img/promo/bg/classes/warrior/.jpg",
+		"titleClassName": "card-title-warrior",
+		"title": "Лик доблести",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Закажите Лик доблести",
+		"priceClassName": "card-price-warrior",
+		"price": 1200
+	},
+
+	{
+		"id": "Valormaw",
+		"className": "card-warrior",
+		"path": "#",
+		"cardImg": "/src/assets/img/promo/bg/classes/warrior/.jpg",
+		"titleClassName": "card-title-warrior",
+		"title": "Лик доблести",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Закажите Лик доблести",
+		"priceClassName": "card-price-warrior",
+		"price": 1200
+	},
+
+	{
+		"id": "Stormbreath",
+		"className": "card-warrior",
+		"path": "#",
+		"cardImg": "/src/assets/img/promo/bg/classes/warrior/.jpg",
+		"titleClassName": "card-title-warrior",
+		"title": "Дыхание шторма",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Закажите Дыхание шторма",
+		"priceClassName": "card-price-warrior",
+		"price": 1500
+	},
+
+	{
+		"id": "Stormbreath",
+		"className": "card-warrior",
+		"path": "#",
+		"cardImg": "/src/assets/img/promo/bg/classes/warrior/.jpg",
+		"titleClassName": "card-title-warrior",
+		"title": "Дыхание шторма",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Закажите Дыхание шторма",
+		"priceClassName": "card-price-warrior",
+		"price": 1500
+	},
+
+	{
+		"id": "Stormbreath",
+		"className": "card-warrior",
+		"path": "#",
+		"cardImg": "/src/assets/img/promo/bg/classes/warrior/.jpg",
+		"titleClassName": "card-title-warrior",
+		"title": "Дыхание шторма",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Закажите Дыхание шторма",
+		"priceClassName": "card-price-warrior",
+		"price": 1500
+	},
+
+	{
+		"id": "Stormbreath",
+		"className": "card-warrior",
+		"path": "#",
+		"cardImg": "/src/assets/img/promo/bg/classes/warrior/.jpg",
+		"titleClassName": "card-title-warrior",
+		"title": "Дыхание шторма",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Закажите Дыхание шторма",
+		"priceClassName": "card-price-warrior",
+		"price": 1500
+	},
+
+	{
+		"id": "HelyasGaze",
+		"className": "card-warrior",
+		"path": "#",
+		"cardImg": "/src/assets/img/promo/bg/classes/warrior/.jpg",
+		"titleClassName": "card-title-warrior",
+		"title": "Взор Хелии",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Закажите Взор Хелии",
+		"priceClassName": "card-price-warrior",
+		"price": 1800
+	},
+
+	{
+		"id": "HelyasGaze",
+		"className": "card-warrior",
+		"path": "#",
+		"cardImg": "/src/assets/img/promo/bg/classes/warrior/.jpg",
+		"titleClassName": "card-title-warrior",
+		"title": "Взор Хелии",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Закажите Взор Хелии",
+		"priceClassName": "card-price-warrior",
+		"price": 1800
+	},
+
+	{
+		"id": "HelyasGaze",
+		"className": "card-warrior",
+		"path": "#",
+		"cardImg": "/src/assets/img/promo/bg/classes/warrior/.jpg",
+		"titleClassName": "card-title-warrior",
+		"title": "Взор Хелии",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Закажите Взор Хелии",
+		"priceClassName": "card-price-warrior",
+		"price": 1800
+	},
+
+	{
+		"id": "HelyasGaze",
+		"className": "card-warrior",
+		"path": "#",
+		"cardImg": "/src/assets/img/promo/bg/classes/warrior/.jpg",
+		"titleClassName": "card-title-warrior",
+		"title": "Взор Хелии",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Закажите Взор Хелии",
+		"priceClassName": "card-price-warrior",
+		"price": 1800
+	},
+
+	{
+		"id": "DragonslayersEdge",
+		"className": "card-warrior",
+		"path": "#",
+		"cardImg": "/src/assets/img/promo/bg/classes/warrior/.jpg",
+		"titleClassName": "card-title-warrior",
+		"title": "Клинки убийцы драконов",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Закажите Клинки убийцы драконов",
+		"priceClassName": "card-price-warrior",
+		"price": 2000
+	},
+
+	{
+		"id": "DragonslayersEdge",
+		"className": "card-warrior",
+		"path": "#",
+		"cardImg": "/src/assets/img/promo/bg/classes/warrior/.jpg",
+		"titleClassName": "card-title-warrior",
+		"title": "Клинки убийцы драконов",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Закажите Клинки убийцы драконов",
+		"priceClassName": "card-price-warrior",
+		"price": 2000
+	},
+
+	{
+		"id": "DragonslayersEdge",
+		"className": "card-warrior",
+		"path": "#",
+		"cardImg": "/src/assets/img/promo/bg/classes/warrior/.jpg",
+		"titleClassName": "card-title-warrior",
+		"title": "Клинки убийцы драконов",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Закажите Клинки убийцы драконов",
+		"priceClassName": "card-price-warrior",
+		"price": 2000
+	},
+
+	{
+		"id": "DragonslayersEdge",
+		"className": "card-warrior",
+		"path": "#",
+		"cardImg": "/src/assets/img/promo/bg/classes/warrior/.jpg",
+		"titleClassName": "card-title-warrior",
+		"title": "Клинки убийцы драконов",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Закажите Клинки убийцы драконов",
+		"priceClassName": "card-price-warrior",
+		"price": 2000
+	}
+]

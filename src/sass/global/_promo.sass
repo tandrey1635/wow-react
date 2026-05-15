@@ -1,0 +1,187 @@
+@use '../base/index' as *
+
+.promo
+	padding: 32px 0
+	@media ( max-width: 480px )
+		min-height: 0
+	&__info
+		min-height: inherit
+		height: 500px
+		@include background('/src/assets/img/promo/bg/classes/default-bg.png', contain)
+		@media ( max-width: 425px )
+			height: 400px
+		&_races, &_wow-anniversary
+			height: 100vh
+			@media ( max-width: 991.98px )
+				height: 50vh
+			@media ( max-width: 425px )
+				height: 40vh
+		&_races
+			@include background('/src/assets/img/promo/bg/races/races.webp')
+		&_horde
+			@include background('/src/assets/img/promo/bg/faction/horde.png', contain)
+			&_orcs
+				@include background('/src/assets/img/races/bg/faction/horde/details/orcs/orcs.png', contain)
+			&_maghars
+				@include background('/src/assets/img/races/bg/faction/horde/details/maghars/maghars.png', contain)
+			&_undead
+				@include background('/src/assets/img/races/bg/faction/horde/details/undead/undead.png', contain)
+			&_taurens
+				@include background('/src/assets/img/races/bg/faction/horde/details/taurens/taurens.png', contain)
+			&_highmountaintaurens
+				@include background('/src/assets/img/races/bg/faction/horde/details/highmountaintaurens/highmountaintaurens.png', contain)
+			&_earthenshorde
+				@include background('/src/assets/img/races/bg/faction/horde/details/earthens/earthens.png', contain)
+			&_trolls
+				@include background('/src/assets/img/races/bg/faction/horde/details/trolls/trolls.png', contain)
+			&_zandalaritrolls
+				@include background('/src/assets/img/races/bg/faction/horde/details/zandalaritrolls/zandalaritrolls.png', contain)
+			&_dracthyrshorde
+				@include background('/src/assets/img/races/bg/faction/horde/details/dracthyrs/dracthyrs.png', contain)
+			&_bloodelfs
+				@include background('/src/assets/img/races/bg/faction/horde/details/bloodelfs/bloodelfs.png', contain)
+			&_nightbornes
+				@include background('/src/assets/img/races/bg/faction/horde/details/nightbornes/nightbornes.png', contain)
+			&_pandarenshorde
+				@include background('/src/assets/img/races/bg/faction/horde/details/pandarens/pandarens.png', contain)
+			&_goblins
+				@include background('/src/assets/img/races/bg/faction/horde/details/goblins/goblins.png', contain)
+			&_vulpers
+				@include background('/src/assets/img/races/bg/faction/horde/details/vulpers/vulpers.png', contain)
+		&_alliance
+			@include background('/src/assets/img/promo/bg/faction/alliance.png', contain)
+			&_humans
+				@include background('/src/assets/img/races/bg/faction/alliance/details/humans/humans.png', contain)
+			&_kultirans
+				@include background('/src/assets/img/races/bg/faction/alliance/details/kultirans/kultirans.png', contain)
+			&_worgens
+				@include background('/src/assets/img/races/bg/faction/alliance/details/worgens/worgens.png', contain)
+			&_dwarfs
+				@include background('/src/assets/img/races/bg/faction/alliance/details/dwarfs/dwarfs.png', contain)
+			&_darkirondwarfs
+				@include background('/src/assets/img/races/bg/faction/alliance/details/darkirondwarfs/darkirondwarfs.png', contain)
+			&_earthensalliance
+				@include background('/src/assets/img/races/bg/faction/alliance/details/earthens/earthens.png', contain)
+			&_draeneis
+				@include background('/src/assets/img/races/bg/faction/alliance/details/draeneis/draeneis.png', contain)
+			&_lightforgeddraeneis
+				@include background('/src/assets/img/races/bg/faction/alliance/details/lightforgeddraeneis/lightforgeddraeneis.png', contain)
+			&_dracthyrsalliance
+				@include background('/src/assets/img/races/bg/faction/alliance/details/dracthyrs/dracthyrs.png', contain)
+			&_nightelfs
+				@include background('/src/assets/img/races/bg/faction/alliance/details/nightelfs/nightelfs.png', contain)
+			&_voidelfs
+				@include background('/src/assets/img/races/bg/faction/alliance/details/voidelfs/voidelfs.png', contain)
+			&_pandarensalliance
+				@include background('/src/assets/img/races/bg/faction/alliance/details/pandarens/pandarens.png', contain)
+			&_gnomes
+				@include background('/src/assets/img/races/bg/faction/alliance/details/gnomes/gnomes.png', contain)
+			&_mechagnomes
+				@include background('/src/assets/img/races/bg/faction/alliance/details/mechagnomes/mechagnomes.png', contain)
+		&_warrior
+			@include background('/src/assets/img/promo/bg/classes/Warrior.png', contain)
+		&_druid
+			@include background('/src/assets/img/promo/bg/classes/Druid.png', contain)
+		&_priest
+			@include background('/src/assets/img/promo/bg/classes/Priest.png', contain)
+		&_mage
+			@include background('/src/assets/img/promo/bg/classes/Mage.png', contain)
+		&_monk
+			@include background('/src/assets/img/promo/bg/classes/Monk.png', contain)
+		&_hunter
+			@include background('/src/assets/img/promo/bg/classes/Hunter.png', contain)
+		&_demon-hunter
+			@include background('/src/assets/img/promo/bg/classes/Demon-Hunter.png', contain)
+		&_paladin
+			@include background('/src/assets/img/promo/bg/classes/Paladin.png', contain)
+		&_awakener
+			@include background('/src/assets/img/promo/bg/classes/Awakener.png', contain)
+		&_rogue
+			@include background('/src/assets/img/promo/bg/classes/Rogue.png', contain)
+		&_death-knight
+			@include background('/src/assets/img/promo/bg/classes/Death-Knight.png', contain)
+		&_warlock
+			@include background('/src/assets/img/promo/bg/classes/Warlock.png', contain)
+		&_shaman
+			@include background('/src/assets/img/promo/bg/classes/Shaman.png', contain)
+		&_weapons
+			&-legendary
+				@include background('/src/assets/img/promo/bg/weapons/legendary.png', contain)
+				&-ashbringer
+					@include background('/src/assets/img/weapons/bg/legendary/Ashbringer.png', contain)
+				&-sulfuras
+					@include background('/src/assets/img/weapons/bg/legendary/Sulfuras-Hand-of-Ragnaros.png', contain)
+				&-thunderfury
+					@include background('/src/assets/img/weapons/bg/legendary/Thunderfury-Blessed-Blade-of-the-Windseeker.png', contain)
+				&-atiesh
+					@include background('/src/assets/img/weapons/bg/legendary/Atiesh-Greatstaff-of-the-Guardian.png', contain)
+				&-warglaives-of-azzinoth
+					@include background('/src/assets/img/weapons/bg/legendary/Warglaives-of-Azzinoth.png', contain)
+				&-thoridal
+					@include background('/src/assets/img/weapons/bg/legendary/Thoridal-the-Stars-Fury.png', contain)
+				&-valanyr
+					@include background('/src/assets/img/weapons/bg/legendary/Valanyr-Hammer-of-Ancient-Kings.png', contain)
+				&-frostmourne
+					@include background('/src/assets/img/weapons/bg/legendary/Frostmourne.png', contain)
+				&-shadowmourne
+					@include background('/src/assets/img/weapons/bg/legendary/Shadowmourne.png', contain)
+				&-tarecgosa
+					@include background('/src/assets/img/weapons/bg/legendary/Dragonwrath-Tarecgosas-Rest.png', contain)
+				&-fangs-father
+					@include background('/src/assets/img/weapons/bg/legendary/Fangs-of-the-Father.png', contain)
+				&-raeshalare
+					@include background('/src/assets/img/weapons/bg/legendary/Raeshalare-Deaths-Whisper.png', contain)
+				&-fyralath
+					@include background('/src/assets/img/weapons/bg/legendary/Fyralath-the-Dreamrender.png', contain)
+				&-naszuro
+					@include background('/src/assets/img/weapons/bg/legendary/Naszuro-the-Unbound-Legacy.png', contain)
+			&-decorative
+				@include background('/src/assets/img/promo/bg/weapons/decorative.png', contain)
+		&_water-mounts
+			@include background('/src/assets/img/promo/bg/mounts/water.png', contain)
+			@media ( max-width: 425px )
+				height: 300px
+		&_earth-mounts
+			@include background('/src/assets/img/promo/bg/mounts/earth.png', contain)
+		&_fly-mounts
+			@include background('/src/assets/img/promo/bg/mounts/fly.png', contain)
+		&_mining
+			@include background('/src/assets/img/promo/bg/professions/mining.png', contain)
+		&_blacksmithing
+			@include background('/src/assets/img/promo/bg/professions/blacksmithing.png', contain)
+		&_fishing
+			@include background('/src/assets/img/promo/bg/professions/fishing.png', contain)
+		&_cooking
+			@include background('/src/assets/img/promo/bg/professions/cooking.png', contain)
+		&_classic
+			@include background('/src/assets/img/promo/bg/dungeons-raids/classic.png', contain)
+		&_burning-crusade
+			@include background('/src/assets/img/promo/bg/dungeons-raids/burning-crusade.png', contain)
+		&_wrath-of-the-lich-king
+			@include background('/src/assets/img/promo/bg/dungeons-raids/wrath-of-the-lich-king.png', contain)
+		&_cataclysm
+			@include background('/src/assets/img/promo/bg/dungeons-raids/cataclysm.png', contain)
+		&_mists-of-pandaria
+			@include background('/src/assets/img/promo/bg/dungeons-raids/mists-of-pandaria.png', contain)
+		&_warlords-of-draenor
+			@include background('/src/assets/img/promo/bg/dungeons-raids/warlords-of-draenor.png', contain)
+		&_legion
+			@include background('/src/assets/img/promo/bg/dungeons-raids/legion.png', contain)
+		&_battle-for-azeroth
+			@include background('/src/assets/img/promo/bg/dungeons-raids/battle-for-azeroth.png', contain)
+		&_shadowlands
+			@include background('/src/assets/img/promo/bg/dungeons-raids/shadowlands.png', contain)
+		&_dragonflight
+			@include background('/src/assets/img/promo/bg/dungeons-raids/dragonflight.png', contain)
+		&_war-within
+			@include background('/src/assets/img/promo/bg/dungeons-raids/war-within.png', contain)
+		&_midnight
+			@include background('/src/assets/img/promo/bg/dungeons-raids/midnight.png', contain)
+		&_last-titan
+			@include background('/src/assets/img/promo/bg/dungeons-raids/last-titan.png', contain)
+		&_legacy
+			@include background('/src/assets/img/promo/bg/achievements/legacy.png', contain)
+		&_great-feats
+			@include background('/src/assets/img/promo/bg/achievements/great-feats.png', contain)
+		&_wow-anniversary
+			@include background('/src/assets/img/promo/bg/achievements/Wow-Anniversary.webp')

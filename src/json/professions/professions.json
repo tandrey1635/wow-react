@@ -1,0 +1,227 @@
+[
+	{
+		"id": "alchemy",
+		"className": "card-professions",
+		"path": "professions/alchemy",
+		"cardImg": "/src/assets/img/promo/bg/professions/alchemy.png",
+		"titleClassName": "card-title-professions",
+		"title": "Алхимия",
+		"descriptionClassName": "card-text-professions",
+		"description": "С помощью алхимии можно создавать мощные зелья, настои и элексиры",
+		"priceClassName": "card-price-professions",
+		"price": 200
+	},
+
+	{
+		"id": "Mining",
+		"type": "mining",
+		"path": "professions/mining",
+		"img": "/src/assets/img/promo/bg/professions/mining.png",
+		"objectFit": false,
+		"title": "Горное Дело",
+		"description": "Собирательная профессия. Добывайте руду по всему миру, переплавляйте в слитки для Кузнечного и Инженерного дела. Руда пригодится ювелирам для просеивания, так можно получить редкие камни. Всегда носите с собой кирку. В месторождениях можно найти необычного питомца.",
+		"price": 300
+	},
+
+	{
+		"id": "engineering",
+		"className": "card-professions",
+		"path": "professions/engineering",
+		"cardImg": "/src/assets/img/promo/bg/professions/engineering.png",
+		"titleClassName": "card-title-professions",
+		"title": "Инженерное дело",
+		"descriptionClassName": "card-text-professions",
+		"description": "Инженеры превращают различные материалы в интересные и полезные гаджеты, необычные предметы и даже в эпические шлемы и очки, оружия дальнего боя и прицелы к ним",
+		"priceClassName": "card-price-professions",
+		"price": 200
+	},
+
+	{
+		"id": "leatherworking",
+		"className": "card-professions",
+		"path": "professions/leatherworking",
+		"cardImg": "/src/assets/img/promo/bg/professions/leatherworking.png",
+		"titleClassName": "card-title-professions",
+		"title": "Кожевничество",
+		"descriptionClassName": "card-text-professions",
+		"description": "Ремесленная профессия, которая использует шкуры и кожу для изготовления доспехов и барабанов",
+		"priceClassName": "card-price-professions",
+		"price": 200
+	},
+
+	{
+		"id": "Blacksmithing",
+		"type": "blacksmithing",
+		"path": "professions/blacksmithing",
+		"img": "/src/assets/img/promo/bg/professions/blacksmithing.png",
+		"objectFit": false,
+		"title": "Кузнечное Дело",
+		"description": "Ремесленная профессия, использующая различные металлы для изготовления пластинчатых доспехов, оружия, щитов и других полезных предметов. Кузнецы могут создавать оружие, кольчужную и латную броню, а также добавлять в экипировку дополнительные гнезда для самоцветов.",
+		"price": 300
+	},
+
+	{
+		"id": "enchanting",
+		"className": "card-professions",
+		"path": "professions/enchanting",
+		"cardImg": "/src/assets/img/promo/bg/professions/enchanting.png",
+		"titleClassName": "card-title-professions",
+		"title": "Наложение чар",
+		"descriptionClassName": "card-text-professions",
+		"description": "Наложение чар позволяет получать материалы для зачаровывания путем распыления брони необычного или лучшего качества и превращать их в постоянные улучшения для собственной брони или брони союзников",
+		"priceClassName": "card-price-professions",
+		"price": 200
+	},
+
+	{
+		"id": "inscription",
+		"className": "card-professions",
+		"path": "professions/inscription",
+		"cardImg": "/src/assets/img/promo/bg/professions/inscription.png",
+		"titleClassName": "card-title-professions",
+		"title": "Начертание",
+		"descriptionClassName": "card-text-professions",
+		"description": "Начертание позволяет создавать символы, свитки и карты с помощью чернил получаемых при измельчении трав",
+		"priceClassName": "card-price-professions",
+		"price": 200
+	},
+
+	{
+		"id": "tailoring",
+		"className": "card-professions",
+		"path": "professions/tailoring",
+		"cardImg": "/src/assets/img/promo/bg/professions/tailoring.png",
+		"titleClassName": "card-title-professions",
+		"title": "Портняжное дело",
+		"descriptionClassName": "card-text-professions",
+		"description": "Ремесленная профессия которая использует различные ткани для создания брони, сумок, чародейских нитей и даже ковров-самолетов",
+		"priceClassName": "card-price-professions",
+		"price": 200
+	},
+
+	{
+		"id": "skinning",
+		"className": "card-professions",
+		"path": "professions/skinning",
+		"cardImg": "/src/assets/img/promo/bg/professions/skinning.png",
+		"titleClassName": "card-title-professions",
+		"title": "Снятие шкур",
+		"descriptionClassName": "card-text-professions",
+		"description": "Собирательная профессия, позволяющая снимать кожу, шкуры, чешуйки и панцири с убитых животных, драконов, нерубов и силитидов",
+		"priceClassName": "card-price-professions",
+		"price": 200
+	},
+
+	{
+		"id": "herbalism",
+		"className": "card-professions",
+		"path": "professions/herbalism",
+		"cardImg": "/src/assets/img/promo/bg/professions/herbalism.png",
+		"titleClassName": "card-title-professions",
+		"title": "Травничество",
+		"descriptionClassName": "card-text-professions",
+		"description": "Собирательная профессия позволяющая собирать травы",
+		"priceClassName": "card-price-professions",
+		"price": 200
+	},
+
+	{
+		"id": "jewelcrafting",
+		"className": "card-professions",
+		"path": "professions/jewelcrafting",
+		"cardImg": "/src/assets/img/promo/bg/professions/jewelcrafting.png",
+		"titleClassName": "card-title-professions",
+		"title": "Ювелирное дело",
+		"descriptionClassName": "card-text-professions",
+		"description": "Ремесленная профессия с помощью которой можно создавать различные драгоценные камни, повышающие различные характеристики. Эти камни могут быть вставлены в экипировку",
+		"priceClassName": "card-price-professions",
+		"price": 200
+	},
+
+	{
+		"id": "archaeology",
+		"className": "card-professions",
+		"path": "professions/archaeology",
+		"cardImg": "/src/assets/img/promo/bg/professions/archaeology.png",
+		"titleClassName": "card-title-professions",
+		"title": "Археология",
+		"descriptionClassName": "card-text-professions",
+		"description": "Вторичная профессия позволяющая увидеть, что скрывают в себе глубины Азерота. Археологи должны путешествовать по всему миру в поисках фрагментов древних артефактов, которые содержат интереснейшие частицы истории мира",
+		"priceClassName": "card-price-professions",
+		"price": 200
+	},
+
+	{
+		"id": "riding",
+		"className": "card-professions",
+		"path": "professions/riding",
+		"cardImg": "/src/assets/img/promo/bg/professions/riding.png",
+		"titleClassName": "card-title-professions",
+		"title": "Верховая езда",
+		"descriptionClassName": "card-text-professions",
+		"description": "Пассивный навык, позволяющий использовать верховых животных для передвижения по всему миру. Чем выше навык верховой езды, тем быстрее ваши верховые животные могут передвигаться по миру",
+		"priceClassName": "card-price-professions",
+		"price": 200
+	},
+
+	{
+		"id": "Cooking",
+		"type": "cooking",
+		"path": "professions/cooking",
+		"img": "/src/assets/img/promo/bg/professions/cooking.png",
+		"objectFit": false,
+		"title": "Кулинария",
+		"description": "Вторичная профессия, позволяющая комбинировать рыбу или мясо, превращая их во вкусную еду и напитки. Готовая еда восстанавливает здоровье и ману, а лучшие блюда дают полезные боевые баффы. Для приготовления нужен огонь, разожгите свой очаг или найдите таверну. Рецепты можно купить, найти или получить за ежедневные кулинарные задания. А особые награды откроют доступ к мощным блюдам и ускорят готовку.",
+		"price": 300
+	},
+
+	{
+		"id": "firstAid",
+		"className": "card-professions",
+		"path": "professions/first-aid",
+		"img": "/src/assets/img/promo/bg/professions/first-aid.jpg",
+		"titleClassName": "card-title-professions",
+		"title": "Первая помощь",
+		"descriptionClassName": "card-text-professions",
+		"description": "Вторичная профессия позволяющая превращать ткани в бинты. Очень полезна классам, у которых нет собственного лечащего заклинания",
+		"priceClassName": "card-price-professions",
+		"price": 200
+	},
+
+	{
+		"id": "Fishing",
+		"type": "fishing",
+		"path": "professions/fishing",
+		"img": "/src/assets/img/promo/bg/professions/fishing.png",
+		"objectFit": false,
+		"title": "Рыбная Ловля",
+		"description": "Вторичная собирательная профессия, позволяющая рыбачить в различных водоемах по всему миру. Рыба и другие морские обитатели используются в Кулинарии для создания еды, временно повышающей характеристики персонажа. Игроки, наслаждающиеся рыбалкой могут выполнять ежедневные рыболовные задания и участвовать в Рыболовных состязаниях за ценные призы!",
+		"price": 300
+	},
+
+	{
+		"id": "junkyardTinkering",
+		"className": "card-professions",
+		"path": "professions/junkyard-tinkering",
+		"Cardimg": "/src/assets/img/promo/bg/professions/junkyard-tinkering.png",
+		"titleClassName": "card-title-professions",
+		"title": "Кустарная механика",
+		"descriptionClassName": "card-text-professions",
+		"description": "Паскал-К0Р0Л6, огромный железный робот, изготавливающий снаряжение, средства передвижения, игрушки, расходные материалы и другие полезные вещи в обмен на запчасти и аккумуляторы, которые можно добывать в Мехагоне. Также на острове можно находить чертежи новых предметов",
+		"priceClassName": "card-price-professions",
+		"price": 200
+	},
+
+	{
+		"id": "protoformSynthesis",
+		"className": "card-professions",
+		"path": "professions/protoform-synthesis",
+		"cardImg": "/src/assets/img/promo/bg/professions/protoform-synthesis.png",
+		"titleClassName": "card-title-professions",
+		"title": "Протосинтез",
+		"descriptionClassName": "card-text-professions",
+		"description": "Система протосинтеза позволяет собирать реагенты из многих источников в Зерет Мортис и использовать их для создания множества питомцев и ездовых животных.",
+		"priceClassName": "card-price-professions",
+		"price": 200
+	}
+]

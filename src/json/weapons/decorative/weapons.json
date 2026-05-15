@@ -1,0 +1,320 @@
+[
+	{
+		"id": "SwabbiesOar",
+		"type": "decorative",
+		"path": "",
+		"img": "/src/assets/img/weapons/bg/decorative/Swabbies-Oar.png",
+		"objectFit": true,
+		"title": "Весло Юнги",
+		"description": "Воплощение веселья и отдыха. Кружки, факелы, лопаты и грабли все, что нужно герою после тяжелого рейда. И копье. На всякий случай.",
+		"price": 1000
+	},
+
+	{
+		"id": "SwabbiesShovel",
+		"type": "decorative",
+		"path": "",
+		"img": "/src/assets/img/weapons/bg/decorative/Swabbies-Shovel.png",
+		"objectFit": true,
+		"title": "Лопата Юнги",
+		"description": "Воплощение веселья и отдыха. Кружки, факелы, лопаты и грабли все, что нужно герою после тяжелого рейда. И копье. На всякий случай.",
+		"price": 1000
+	},
+
+	{
+		"id": "CorewayShovel",
+		"type": "decorative",
+		"path": "",
+		"img": "/src/assets/img/weapons/bg/decorative/Coreway-Shovel.png",
+		"objectFit": true,
+		"title": "Лопата Артерии",
+		"description": "Воплощение веселья и отдыха. Кружки, факелы, лопаты и грабли все, что нужно герою после тяжелого рейда. И копье. На всякий случай.",
+		"price": 1000
+	},
+
+	{
+		"id": "ElaborateReliquaryCandelabra",
+		"type": "decorative",
+		"path": "",
+		"img": "/src/assets/img/weapons/bg/decorative/Elaborate-Reliquary-Candelabra.png",
+		"objectFit": false,
+		"title": "Вычурный Канделябр Реликвария",
+		"description": "Воплощение веселья и отдыха. Кружки, факелы, лопаты и грабли все, что нужно герою после тяжелого рейда. И копье. На всякий случай.",
+		"price": 1000
+	},
+
+	{
+		"id": "ELIZAsRakeAttachment",
+		"type": "decorative",
+		"path": "",
+		"img": "/src/assets/img/weapons/bg/decorative/ELIZAs-Rake-Attachment.png",
+		"objectFit": true,
+		"title": "Грабли БРИЖИТ",
+		"description": "Воплощение веселья и отдыха. Кружки, факелы, лопаты и грабли все, что нужно герою после тяжелого рейда. И копье. На всякий случай.",
+		"price": 1000
+	},
+
+	{
+		"id": "TrainingSword",
+		"type": "decorative",
+		"path": "",
+		"img": "/src/assets/img/weapons/bg/decorative/Training-Sword.png",
+		"objectFit": true,
+		"title": "Тренировочный Меч",
+		"description": "Воплощение веселья и отдыха. Кружки, факелы, лопаты и грабли все, что нужно герою после тяжелого рейда. И копье. На всякий случай.",
+		"price": 1000
+	},
+
+	{
+		"id": "PracticeSword",
+		"type": "decorative",
+		"path": "",
+		"img": "/src/assets/img/weapons/bg/decorative/Practice-Sword.png",
+		"objectFit": true,
+		"title": "Учебный Меч",
+		"description": "Воплощение веселья и отдыха. Кружки, факелы, лопаты и грабли все, что нужно герою после тяжелого рейда. И копье. На всякий случай.",
+		"price": 1000
+	},
+
+	{
+		"id": "KelesethsPersuader",
+		"type": "decorative",
+		"path": "",
+		"img": "/src/assets/img/weapons/bg/decorative/Keleseths-Persuader.png",
+		"objectFit": true,
+		"title": "Доводы Келесета",
+		"description": "Воплощение веселья и отдыха. Кружки, факелы, лопаты и грабли все, что нужно герою после тяжелого рейда. И копье. На всякий случай.",
+		"price": 1000
+	},
+
+	{
+		"id": "WirtsLastLeg",
+		"type": "decorative",
+		"path": "",
+		"img": "/src/assets/img/weapons/bg/decorative/Wirts-Last-Leg.png",
+		"objectFit": true,
+		"title": "Последняя Нога Вирта",
+		"description": "Воплощение веселья и отдыха. Кружки, факелы, лопаты и грабли все, что нужно герою после тяжелого рейда. И копье. На всякий случай. Кто такой Вирт?",
+		"price": 1000
+	},
+
+	{
+		"id": "HivebreakersDipper",
+		"type": "decorative",
+		"path": "",
+		"img": "/src/assets/img/weapons/bg/decorative/Hivebreakers-Dipper.png",
+		"objectFit": true,
+		"title": "Ульеломная Ложка для Меда",
+		"description": "Воплощение веселья и отдыха. Кружки, факелы, лопаты и грабли все, что нужно герою после тяжелого рейда. И копье. На всякий случай.",
+		"price": 1000
+	},
+
+	{
+		"id": "GreenBrewfestStein",
+		"type": "decorative",
+		"path": "",
+		"img": "/src/assets/img/weapons/bg/decorative/Green-Brewfest-Stein.png",
+		"objectFit": false,
+		"title": "Зеленая Кружка Хмельного фестиваля",
+		"description": "Воплощение веселья и отдыха. Кружки, факелы, лопаты и грабли все, что нужно герою после тяжелого рейда. И копье. На всякий случай.",
+		"price": 1000
+	},
+
+	{
+		"id": "BlueBrewfestStein",
+		"type": "decorative",
+		"path": "",
+		"img": "/src/assets/img/weapons/bg/decorative/Blue-Brewfest-Stein.png",
+		"objectFit": false,
+		"title": "Синяя Кружка Хмельного фестиваля",
+		"description": "Воплощение веселья и отдыха. Кружки, факелы, лопаты и грабли все, что нужно герою после тяжелого рейда. И копье. На всякий случай.",
+		"price": 1000
+	},
+
+	{
+		"id": "OverflowingPurpleBrewfestStein",
+		"type": "decorative",
+		"path": "",
+		"img": "/src/assets/img/weapons/bg/decorative/Overflowing-Purple-Brewfest-Stein.png",
+		"objectFit": false,
+		"title": "Переполненная Фиолетовая Кружка Хмельного Фестиваля",
+		"description": "Воплощение веселья и отдыха. Кружки, факелы, лопаты и грабли все, что нужно герою после тяжелого рейда. И копье. На всякий случай. Использование: Слабый алкогольный напиток. Восстановление: 30 секунд. Теперь Хмельной фестиваль можно праздновать круглый год!",
+		"price": 1000
+	},
+
+	{
+		"id": "FilledYellowBrewfestStein",
+		"type": "decorative",
+		"path": "",
+		"img": "/src/assets/img/weapons/bg/decorative/Filled-Yellow-Brewfest-Stein.png",
+		"objectFit": false,
+		"title": "Полная Желтая Кружка Хмельного Фестиваля",
+		"description": "Воплощение веселья и отдыха. Кружки, факелы, лопаты и грабли все, что нужно герою после тяжелого рейда. И копье. На всякий случай. Использование: Слабый алкогольный напиток. Восстановление: 30 секунд. Теперь Хмельной фестиваль можно праздновать круглый год!",
+		"price": 1000
+	},
+
+	{
+		"id": "FoamSwordRed",
+		"type": "decorative",
+		"path": "",
+		"img": "/src/assets/img/weapons/bg/decorative/Foam-Sword-red.png",
+		"objectFit": true,
+		"title": "Меч из Пенополимера",
+		"description": "Воплощение веселья и отдыха. Кружки, факелы, лопаты и грабли все, что нужно герою после тяжелого рейда. И копье. На всякий случай.",
+		"price": 1000
+	},
+
+	{
+		"id": "FoamSwordYellow",
+		"type": "decorative",
+		"path": "",
+		"img": "/src/assets/img/weapons/bg/decorative/Foam-Sword-yellow.png",
+		"objectFit": true,
+		"title": "Меч из Пенополимера",
+		"description": "Воплощение веселья и отдыха. Кружки, факелы, лопаты и грабли все, что нужно герою после тяжелого рейда. И копье. На всякий случай.",
+		"price": 1000
+	},
+
+	{
+		"id": "FoamSwordGreen",
+		"type": "decorative",
+		"path": "",
+		"img": "/src/assets/img/weapons/bg/decorative/Foam-Sword-green.png",
+		"objectFit": true,
+		"title": "Меч из Пенополимера",
+		"description": "Воплощение веселья и отдыха. Кружки, факелы, лопаты и грабли все, что нужно герою после тяжелого рейда. И копье. На всякий случай.",
+		"price": 1000
+	},
+
+	{
+		"id": "FoamSwordBlue",
+		"type": "decorative",
+		"path": "",
+		"img": "/src/assets/img/weapons/bg/decorative/Foam-Sword-blue.png",
+		"objectFit": true,
+		"title": "Меч из Пенополимера",
+		"description": "Воплощение веселья и отдыха. Кружки, факелы, лопаты и грабли все, что нужно герою после тяжелого рейда. И копье. На всякий случай.",
+		"price": 1000
+	},
+
+	{
+		"id": "FoamSwordViolet",
+		"type": "decorative",
+		"path": "",
+		"img": "/src/assets/img/weapons/bg/decorative/Foam-Sword-violet.png",
+		"objectFit": true,
+		"title": "Меч из Пенополимера",
+		"description": "Воплощение веселья и отдыха. Кружки, факелы, лопаты и грабли все, что нужно герою после тяжелого рейда. И копье. На всякий случай.",
+		"price": 1000
+	},
+
+	{
+		"id": "ScepterOfSpectacleFire",
+		"type": "decorative",
+		"path": "",
+		"img": "/src/assets/img/weapons/bg/decorative/Scepter-of-Spectacle-Fire.png",
+		"objectFit": true,
+		"title": "Палочка Удивлялочка Огонь",
+		"description": "Воплощение веселья и отдыха. Кружки, факелы, лопаты и грабли все, что нужно герою после тяжелого рейда. И копье. На всякий случай.",
+		"price": 1000
+	},
+
+	{
+		"id": "ScepterOfSpectacleFrost",
+		"type": "decorative",
+		"path": "",
+		"img": "/src/assets/img/weapons/bg/decorative/Scepter-of-Spectacle-Frost.png",
+		"objectFit": true,
+		"title": "Палочка Удивлялочка Мороз",
+		"description": "Воплощение веселья и отдыха. Кружки, факелы, лопаты и грабли все, что нужно герою после тяжелого рейда. И копье. На всякий случай.",
+		"price": 1000
+	},
+
+	{
+		"id": "HordeLance",
+		"type": "decorative",
+		"path": "",
+		"img": "/src/assets/img/weapons/bg/decorative/Horde-Lance.png",
+		"objectFit": true,
+		"title": "Копье Орды",
+		"description": "Воплощение веселья и отдыха. Кружки, факелы, лопаты и грабли все, что нужно герою после тяжелого рейда. И копье. На всякий случай.",
+		"price": 1000
+	},
+
+	{
+		"id": "AllianceLance",
+		"type": "decorative",
+		"path": "",
+		"img": "/src/assets/img/weapons/bg/decorative/Alliance-Lance.png",
+		"objectFit": true,
+		"title": "Копье Альянса",
+		"description": "Воплощение веселья и отдыха. Кружки, факелы, лопаты и грабли все, что нужно герою после тяжелого рейда. И копье. На всякий случай.",
+		"price": 1000
+	},
+
+	{
+		"id": "ArgentLance",
+		"type": "decorative",
+		"path": "",
+		"img": "/src/assets/img/weapons/bg/decorative/Argent-Lance.png",
+		"objectFit": true,
+		"title": "Серебряное Копье",
+		"description": "Воплощение веселья и отдыха. Кружки, факелы, лопаты и грабли все, что нужно герою после тяжелого рейда. И копье. На всякий случай.",
+		"price": 1000
+	},
+
+	{
+		"id": "TwilightFirelance",
+		"type": "decorative",
+		"path": "",
+		"img": "/src/assets/img/weapons/bg/decorative/Twilight-Firelance.png",
+		"objectFit": true,
+		"title": "Огненное Копье Сумеречного Молота",
+		"description": "Воплощение веселья и отдыха. Кружки, факелы, лопаты и грабли все, что нужно герою после тяжелого рейда. И копье. На всякий случай. Лезвие выковано из чистого огня, однако древко, покрытое драконьей шкурой, прохладное на ощупь.",
+		"price": 1000
+	},
+
+	{
+		"id": "GnollishChewtoyLauncher",
+		"type": "decorative",
+		"path": "",
+		"img": "/src/assets/img/weapons/bg/decorative/Gnollish-Chewtoy-Launcher.png",
+		"objectFit": false,
+		"title": "Гнолльский Запускатель Игрушек для Питомцев",
+		"description": "Воплощение веселья и отдыха. Кружки, факелы, лопаты и грабли все, что нужно герою после тяжелого рейда. И копье. На всякий случай. Также можно использовать как арбалет.",
+		"price": 1000
+	},
+
+	{
+		"id": "AncestorsMight",
+		"type": "decorative",
+		"path": "",
+		"img": "/src/assets/img/weapons/bg/decorative/Ancestors-Might.png",
+		"objectFit": false,
+		"title": "Мощь Предков",
+		"description": "Воплощение веселья и отдыха. Кружки, факелы, лопаты и грабли все, что нужно герою после тяжелого рейда. И копье. На всякий случай.",
+		"price": 1000
+	},
+
+	{
+		"id": "GreatCandiedBlade",
+		"type": "decorative",
+		"path": "",
+		"img": "/src/assets/img/weapons/bg/decorative/Great-Candied-Blade.png",
+		"objectFit": true,
+		"title": "Большой Засахаренный Клинок",
+		"description": "Воплощение веселья и отдыха. Кружки, факелы, лопаты и грабли все, что нужно герою после тяжелого рейда. И копье. На всякий случай. Рубит врагов и укорачивает языки!",
+		"price": 1000
+	},
+
+	{
+		"id": "CheerbringerXL",
+		"type": "decorative",
+		"path": "",
+		"img": "/src/assets/img/weapons/bg/decorative/Cheerbringer-XL.png",
+		"objectFit": true,
+		"title": "Гигантский Радователь",
+		"description": "Воплощение веселья и отдыха. Кружки, факелы, лопаты и грабли все, что нужно герою после тяжелого рейда. И копье. На всякий случай. Вы будете веселиться — а не то...",
+		"price": 1000
+	}
+]

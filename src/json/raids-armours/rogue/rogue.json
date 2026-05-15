@@ -1,0 +1,456 @@
+[
+	{
+		"id": "InfernoHardenedGarb",
+		"type": "rogue",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/leather/rogue/Inferno-Hardened-Garb-rogue.png",
+		"objectFit": false,
+		"title": "Инфернальный Кожаный Доспех",
+		"description": "Броня выкованная в сердце вулкана на древней наковальне стихий из чешуи поверженных исполинов и кожи гончих преисподней из Огненных Недр дополнения",
+		"descriptionTrim": "Первая несокрушимая награда за покорение пекла. Повелитель Огня я иду за тобой! Потрясающая защита от магии огня!",
+		"addition": "Classic",
+		"price": 100
+	},
+
+	{
+		"id": "NightslayerArmor",
+		"type": "rogue",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/rogue/Nightslayer-Armor.png",
+		"objectFit": false,
+		"title": "Доспехи Ночного Убийцы",
+		"description": "Первый комплект брони для разбойника из рейда 60-го уровня Огненные Недра дополнения",
+		"descriptionTrim": "Повелитель Огня будет повержен! Очищение огнем пройдено!",
+		"addition": "Classic",
+		"price": 100
+	},
+
+	{
+		"id": "NightslayerArmorGold",
+		"type": "rogue",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/rogue/Nightslayer-Armor-gold.png",
+		"objectFit": false,
+		"title": "Доспехи Ночного Убийцы Путешественника из Другого Мира",
+		"description": "Кажется, сюда затесалась какая-то подозрительно похожая, но не родная броня из другого времени дополнения",
+		"descriptionTrim": "Альтернативный вариант прославленных доспехов, появившийся в иных измерениях Азерота. Обладает той же несокрушимой силой, что и оригинал, но несет в себе отпечаток другой истории.",
+		"addition": "Classic",
+		"price": 100
+	},
+
+	{
+		"id": "NightslayerArmorBlue",
+		"type": "rogue",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/rogue/Nightslayer-Armor-blue.png",
+		"objectFit": false,
+		"title": "Доспехи Ночного Убийцы Путешественника из Другого Мира",
+		"description": "Кажется, сюда затесалась какая-то подозрительно похожая, но не родная броня из другого времени дополнения",
+		"descriptionTrim": "Альтернативный вариант прославленных доспехов, появившийся в иных измерениях Азерота. Обладает той же несокрушимой силой, что и оригинал, но несет в себе отпечаток другой истории.",
+		"addition": "Classic",
+		"price": 100
+	},
+
+	{
+		"id": "BloodfangArmor",
+		"type": "rogue",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/rogue/Bloodfang-Armor.png",
+		"objectFit": false,
+		"title": "Доспехи Кровавых Клыков",
+		"description": "Второй комплект брони для разбойника из рейда 60-го уровня Логово Крыла Тьмы дополнения",
+		"descriptionTrim": "Лорд Черной Горы будет повержен! Теперь вы сливаетесь с тенью и мгновенно убиваете противника!",
+		"addition": "Classic",
+		"price": 100
+	},
+
+	{
+		"id": "BloodfangArmorBlue",
+		"type": "rogue",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/rogue/Bloodfang-Armor-blue.png",
+		"objectFit": false,
+		"title": "Доспехи Кровавых Клыков Путешественника из Другого Мира",
+		"description": "Кажется, сюда затесалась какая-то подозрительно похожая, но не родная броня из другого времени дополнения",
+		"descriptionTrim": "Альтернативный вариант прославленных доспехов, появившийся в иных измерениях Азерота. Обладает той же несокрушимой силой, что и оригинал, но несет в себе отпечаток другой истории.",
+		"addition": "Classic",
+		"price": 100
+	},
+
+	{
+		"id": "BloodfangArmorBrown",
+		"type": "rogue",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/rogue/Bloodfang-Armor-brown.png",
+		"objectFit": false,
+		"title": "Доспехи Кровавых Клыков Путешественника из Другого Мира",
+		"description": "Кажется, сюда затесалась какая-то подозрительно похожая, но не родная броня из другого времени дополнения",
+		"descriptionTrim": "Альтернативный вариант прославленных доспехов, появившийся в иных измерениях Азерота. Обладает той же несокрушимой силой, что и оригинал, но несет в себе отпечаток другой истории.",
+		"addition": "Classic",
+		"price": 100
+	},
+
+	{
+		"id": "DeathdealersEmbrace",
+		"type": "rogue",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/rogue/Deathdealers-Embrace.png",
+		"objectFit": false,
+		"title": "Объятия Торговца Смертью",
+		"description": "Комплект брони для разбойника 2.5 из рейда 60-го уровня Храм Ан'Киража дополнения",
+		"descriptionTrim": "Владыка Ан'Киража будет повержен! Вы еще не мертвы!",
+		"addition": "Classic",
+		"price": 100
+	},
+
+	{
+		"id": "BonescytheArmor",
+		"type": "rogue",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/rogue/Bonescythe-Armor.png",
+		"objectFit": false,
+		"title": "Доспехи Костяной Косы",
+		"description": "Третий комплект брони для разбойника из рейда 60-го уровня Наксрамас дополнения",
+		"descriptionTrim": "Верховный Лич будет повержен! Некромантия вам не страшна!",
+		"addition": "Classic",
+		"price": 100
+	},
+
+	{
+		"id": "PolarArmorSet",
+		"type": "rogue",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/leather/rogue/Polar-Armor-Set-rogue.png",
+		"objectFit": false,
+		"title": "Снежный Кожаный Комплект",
+		"description": "Награда за цепочку заданий исследования Наксрамаса дополнения",
+		"descriptionTrim": "Ледяной Змей будет повержен! Потрясающая защита от магии льда!",
+		"addition": "Classic",
+		"price": 100
+	},
+
+	{
+		"id": "CenarionMendersBattlegear",
+		"type": "rogue",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/leather/rogue/Cenarion-Menders-Battlegear-rogue.png",
+		"objectFit": false,
+		"title": "Боевое Снаряжение Кенарийского Целителя",
+		"description": "Комплект брони в награду за путешествия во времени по подземельям дополнения",
+		"descriptionTrim": "Броня, дарованная Хранителями Времени за череду подвигов в их походах по лабиринтам вечности. Ваша броня закалена в схватках с аномалиями прошлого и будущего, а ее сталь несет несокрушимую мощь самого времени!",
+		"addition": "The Burning Crusade",
+		"price": 200
+	},
+
+	{
+		"id": "DragonhideBattlegear",
+		"type": "rogue",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/leather/rogue/Dragonhide-Battlegear-rogue.png",
+		"objectFit": false,
+		"title": "Броня из Драконьей Шкуры",
+		"description": "Комплект брони за репутацию у фракций Нижний город, Траллмар, Хранители Времени, Кенарийская экспедиция и Ша'тар дополнения",
+		"descriptionTrim": "Вы стали непоколебимым щитом Нижнего города, грозной ударной силой Запределья! Ваша броня несет несокрушимую мощь временных потоков, укреплена силой древних лесов и озарена светом Наару на пути к победе над тьмой!",
+		"addition": "The Burning Crusade",
+		"price": 200
+	},
+
+	{
+		"id": "MoongladeRaiment",
+		"type": "rogue",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/leather/rogue/Moonglade-Raiment-rogue.png",
+		"objectFit": false,
+		"title": "Боевое Облачение Лунной Поляны",
+		"description": "Комплект брони из подземелий дополнения",
+		"descriptionTrim": "Броня, закаленная в героических походах по самым опасным подземельям Запределья, от огненных недр Кузницы Крови до кошмарных лабиринтов Гробниц Маны. Вы прошли через адский огонь и тенистую глушь, и теперь ваша сталь звенит песней побед!",
+		"addition": "The Burning Crusade",
+		"price": 200
+	},
+
+	{
+		"id": "Netherblade",
+		"type": "rogue",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/rogue/Netherblade.png",
+		"objectFit": false,
+		"title": "Клинок Пустоты",
+		"description": "Первый комплект брони для разбойника из рейдов 70-го уровня Каражан, Логово Магтеридона и Логово Груула дополнения",
+		"descriptionTrim": "Принц Эредаров, Повелитель Преисподней и Огров будут повержены! Станьте его погибелью! Оберните кровь против него самого! Никакой пощады ограм!",
+		"addition": "The Burning Crusade",
+		"price": 200
+	},
+
+	{
+		"id": "Deathmantle",
+		"type": "rogue",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/rogue/Deathmantle.png",
+		"objectFit": false,
+		"title": "Мантия Смерти",
+		"description": "Второй комплект брони для разбойника из рейдов 70-го уровня Змеиное святилище и Крепость Бурь дополнения",
+		"descriptionTrim": "Королева Наг и Принц Кель'Таласа будут повержены! Укажите место Королеве Наг положенное ей по праву! Теперь вы почувствуете вкус истинной мощи! За Кель'Талас!",
+		"addition": "The Burning Crusade",
+		"price": 200
+	},
+
+	{
+		"id": "SlayersArmor",
+		"type": "rogue",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/rogue/Slayers-Armor.png",
+		"objectFit": false,
+		"title": "Доспехи Убийцы",
+		"description": "Третий комплект брони для разбойника из рейдов 70-го уровня Гора Хиджал и Черный Храм дополнения",
+		"descriptionTrim": "Правитель Пылающего Легиона и Владыка Запределья будет повержен! Этот мир не сгорит! Теперь вы готовы!",
+		"addition": "The Burning Crusade",
+		"price": 200
+	},
+
+	{
+		"id": "SlayersSunwellBattlegear",
+		"type": "rogue",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/rogue/Slayers-Sunwell-Battlegear.png",
+		"objectFit": false,
+		"title": "Доспехи Убийцы Солнечного Колодца",
+		"description": "Четвертый комплект брони для разбойника из рейда 70-го уровня Плато Солнечного Колодца дополнения",
+		"descriptionTrim": "Искуситель будет повержен! Оберните силу Солнечного Колодца против него самого!",
+		"addition": "The Burning Crusade",
+		"price": 200
+	},
+
+	{
+		"id": "HeroesBonescytheBattlegear",
+		"type": "rogue",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/rogue/Heroes-Bonescythe-Battlegear.png",
+		"objectFit": false,
+		"title": "Героические Доспехи Костяной Косы",
+		"description": "Первый комплект брони для разбойника из рейда 80-го уровня Наксрамас 10 игроков дополнения",
+		"descriptionTrim": "Верховный Лич вернулся! И снова будет повержен! Некромантия вам не страшна!",
+		"addition": "Wrath of the Lich King",
+		"price": 300
+	},
+
+	{
+		"id": "ValorousBonescytheBattlegear",
+		"type": "rogue",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/rogue/Valorous-Bonescythe-Battlegear.png",
+		"objectFit": false,
+		"title": "Доблестные Доспехи Костяной Косы",
+		"description": "Первый комплект брони для разбойника из рейда 80-го уровня Наксрамас 25 игроков дополнения",
+		"descriptionTrim": "Верховный Лич вернулся! И снова будет повержен! Некромантия вам не страшна!",
+		"addition": "Wrath of the Lich King",
+		"price": 300
+	},
+
+	{
+		"id": "ValorousTerrorbladeBattlegear",
+		"type": "rogue",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/rogue/Valorous-Terrorblade-Battlegear.png",
+		"objectFit": false,
+		"title": "Доблестная Клинковая Броня",
+		"description": "Второй комплект брони для разбойника из рейда 80-го уровня Осада Ульдуара 10 игроков дополнения",
+		"descriptionTrim": "Бог Смерти будет повержен! Невероятная защита от безумия!",
+		"addition": "Wrath of the Lich King",
+		"price": 300
+	},
+
+	{
+		"id": "ValorousTerrorbladeBattlegearRecolor",
+		"type": "rogue",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/rogue/Valorous-Terrorblade-Battlegear-recolor.png",
+		"objectFit": false,
+		"title": "Доблестная Клинковая Броня Путешественника из Другого Мира",
+		"description": "Кажется, сюда затесалась какая-то подозрительно похожая, но не родная броня из другого времени дополнения",
+		"descriptionTrim": "Альтернативный вариант прославленных доспехов, появившийся в иных измерениях Азерота. Обладает той же несокрушимой силой, что и оригинал, но несет в себе отпечаток другой истории.",
+		"addition": "Wrath of the Lich King",
+		"price": 300
+	},
+
+	{
+		"id": "ConquerorsTerrorbladeBattlegear",
+		"type": "rogue",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/rogue/Conquerors-Terrorblade-Battlegear.png",
+		"objectFit": false,
+		"title": "Клинковая Броня Завоевателя",
+		"description": "Второй комплект брони для разбойника из рейда 80-го уровня Осада Ульдуара 25 игроков дополнения",
+		"descriptionTrim": "Бог Смерти будет повержен! Невероятная защита от безумия!",
+		"addition": "Wrath of the Lich King",
+		"price": 300
+	},
+
+	{
+		"id": "ConquerorsTerrorbladeBattlegearRecolor",
+		"type": "rogue",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/rogue/Conquerors-Terrorblade-Battlegear-recolor.png",
+		"objectFit": false,
+		"title": "Клинковая Броня Завоевателя Путешественника из Другого Мира",
+		"description": "Кажется, сюда затесалась какая-то подозрительно похожая, но не родная броня из другого времени дополнения",
+		"descriptionTrim": "Альтернативный вариант прославленных доспехов, появившийся в иных измерениях Азерота. Обладает той же несокрушимой силой, что и оригинал, но несет в себе отпечаток другой истории.",
+		"addition": "Wrath of the Lich King",
+		"price": 300
+	},
+
+	{
+		"id": "GaronasBattlegear",
+		"type": "rogue",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/rogue/Garonas-Battlegear.png",
+		"objectFit": false,
+		"title": "Броня Гароны",
+		"description": "Третий комплект брони для разбойника из рейда 80-го уровня Испытание Крестоносца 10 и 25 игроков только для Орды дополнения",
+		"descriptionTrim": "Король Азжол-Неруба будет повержен! Слава Чемпионам Серебряного Авангарда!",
+		"addition": "Wrath of the Lich King",
+		"price": 300
+	},
+
+	{
+		"id": "VanCleefsBattlegear",
+		"type": "rogue",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/rogue/VanCleefs-Battlegear.png",
+		"objectFit": false,
+		"title": "Броня Ван Клифа",
+		"description": "Третий комплект брони для разбойника из рейда 80-го уровня Испытание Крестоносца 10 и 25 игроков только для Альянса дополнения",
+		"descriptionTrim": "Король Азжол-Неруба будет повержен! Слава Чемпионам Серебряного Авангарда!",
+		"addition": "Wrath of the Lich King",
+		"price": 300
+	},
+
+	{
+		"id": "ShadowbladesBattlegear",
+		"type": "rogue",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/rogue/Shadowblades-Battlegear.png",
+		"objectFit": false,
+		"title": "Броня Теневого Клинка",
+		"description": "Четвертый комплект брони для разбойника из рейда 80-го уровня Цитадель Ледяной Короны 10 игроков обычного уровня сложности дополнения",
+		"descriptionTrim": "Король Лич будет повержен! Эту Броню носит сам Матиас Шоу! Свет защитит вас!",
+		"addition": "Wrath of the Lich King",
+		"price": 300
+	},
+
+	{
+		"id": "SanctifiedShadowbladesBattlegear25Normal",
+		"type": "rogue",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/rogue/Sanctified-Shadowblades-Battlegear-25-normal.png",
+		"objectFit": false,
+		"title": "Освященная Броня Теневого Клинка",
+		"description": "Четвертый комплект брони для разбойника из рейда 80-го уровня Цитадель Ледяной Короны 10 или 25 игроков героического/обычного уровня сложности дополнения",
+		"descriptionTrim": "Король Лич будет повержен! Эту Броню носит сам Матиас Шоу! Свет защитит вас!",
+		"addition": "Wrath of the Lich King",
+		"price": 300
+	},
+
+	{
+		"id": "SanctifiedShadowbladesBattlegear25Heroic",
+		"type": "rogue",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/rogue/Sanctified-Shadowblades-Battlegear-25-heroic.png",
+		"objectFit": false,
+		"title": "Освященная Броня Теневого Клинка",
+		"description": "Четвертый комплект брони для разбойника из рейда 80-го уровня Цитадель Ледяной Короны 25 игроков героического уровня сложности дополнения",
+		"descriptionTrim": "Король Лич будет повержен! Эту Броню носит сам Матиас Шоу! Свет защитит вас!",
+		"addition": "Wrath of the Lich King",
+		"price": 300
+	},
+
+	{
+		"id": "WindDancersRegaliaNormal",
+		"type": "rogue",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/rogue/Wind-Dancers-Regalia-normal.png",
+		"objectFit": false,
+		"title": "Регалии Танцующего с Ветром",
+		"description": "Первый комплект брони для разбойника из рейдов 85-го уровня Твердыня Крыла Тьмы, Сумеречный Бастион и Трон Четырех Ветров обычного уровня сложности дополнения",
+		"descriptionTrim": "Лорд Черной Горы, Вождь клана Сумеречного Молота и Повелитель ветра будут повержены! Культ Сумеречного Молота вам больше не страшен! Доспехи в стиле Подземья!",
+		"addition": "Cataclysm",
+		"price": 500
+	},
+
+	{
+		"id": "WindDancersRegaliaHeroic",
+		"type": "rogue",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/rogue/Wind-Dancers-Regalia-heroic.png",
+		"objectFit": false,
+		"title": "Регалии Танцующего с Ветром",
+		"description": "Первый комплект брони для разбойника из рейдов 85-го уровня Твердыня Крыла Тьмы, Сумеречный Бастион и Трон Четырех Ветров героического уровня сложности дополнения",
+		"descriptionTrim": "Лорд Черной Горы, Вождь клана Сумеречного Молота и Повелитель ветра будут повержены! Культ Сумеречного Молота вам больше не страшен! Доспехи в стиле Подземья!",
+		"addition": "Cataclysm",
+		"price": 500
+	},
+
+	{
+		"id": "VestmentsOfTheDarkPhoenixNormal",
+		"type": "rogue",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/rogue/Vestments-of-the-Dark-Phoenix-normal.png",
+		"objectFit": false,
+		"title": "Облачение Темного Феникса",
+		"description": "Второй комплект брони для разбойника из рейда 85-го уровня Огненные Просторы обычного уровня сложности дополнения",
+		"descriptionTrim": "Повелитель Огня вернулся! И снова будет повержен! Вы неуязвимы для пламени Сульфурона!",
+		"addition": "Cataclysm",
+		"price": 500
+	},
+
+	{
+		"id": "VestmentsOfTheDarkPhoenixHeroic",
+		"type": "rogue",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/rogue/Vestments-of-the-Dark-Phoenix-heroic.png",
+		"objectFit": false,
+		"title": "Облачение Темного Феникса",
+		"description": "Второй комплект брони для разбойника из рейда 85-го уровня Огненные Просторы героического уровня сложности дополнения",
+		"descriptionTrim": "Повелитель Огня вернулся! И снова будет повержен! Вы неуязвимы для пламени Сульфурона!",
+		"addition": "Cataclysm",
+		"price": 500
+	},
+
+	{
+		"id": "BlackfangBattleweaveRaidFinder",
+		"type": "rogue",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/rogue/Blackfang-Battleweave-raid-finder.png",
+		"objectFit": false,
+		"title": "Боевое Облачение Черного Клыка",
+		"description": "Третий комплект брони для разбойника из рейда 85-го уровня Душа Дракона режима поиска рейдов дополнения",
+		"descriptionTrim": "Аспект Смерти, Разрушитель Миров будет повержен! Броня из Чешуи самого Смертокрыла! Катаклизм отменяется!",
+		"addition": "Cataclysm",
+		"price": 500
+	},
+
+	{
+		"id": "BlackfangBattleweaveNormal",
+		"type": "rogue",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/rogue/Blackfang-Battleweave-normal.png",
+		"objectFit": false,
+		"title": "Боевое Облачение Черного Клыка",
+		"description": "Третий комплект брони для разбойника из рейда 85-го уровня Душа Дракона обычного уровня сложности дополнения",
+		"descriptionTrim": "Аспект Смерти, Разрушитель Миров будет повержен! Броня из Чешуи самого Смертокрыла! Катаклизм отменяется!",
+		"addition": "Cataclysm",
+		"price": 500
+	},
+
+	{
+		"id": "BlackfangBattleweaveHeroic",
+		"type": "rogue",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/rogue/Blackfang-Battleweave-heroic.png",
+		"objectFit": false,
+		"title": "Боевое Облачение Черного Клыка",
+		"description": "Третий комплект брони для разбойника из рейда 85-го уровня Душа Дракона героического уровня сложности дополнения",
+		"descriptionTrim": "Аспект Смерти, Разрушитель Миров будет повержен! Броня из Чешуи самого Смертокрыла! Катаклизм отменяется!",
+		"addition": "Cataclysm",
+		"price": 500
+	}
+]

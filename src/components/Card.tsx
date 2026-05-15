@@ -1,0 +1,269 @@
+import { Link } from "react-router";
+import type { ICard }  from "../types/card-types";
+
+
+const Card = ({type, path, img, objectFit, title, description, descriptionTrim, addition, price}: ICard) => {
+	return (
+		<div className={`card ${
+			type == "races"
+				? "card-races"
+				:
+			type == "faction-horde"
+				? "card-horde"
+				:
+			type == "faction-alliance"
+				? "card-alliance"
+				:
+			type == "warrior"
+				? "card-warrior"
+				:
+			type == "druid"
+				? "card-druid"
+				:
+			type == "priest"
+				? "card-priest"
+				:
+			type == "mage"
+				? "card-mage"
+				:
+			type == "monk"
+				? "card-monk"
+				:
+			type == "hunter"
+				? "card-hunter"
+				:
+			type == "demon-hunter"
+				? "card-demon-hunter"
+				:
+			type == "paladin"
+				? "card-paladin"
+				:
+			type == "awakener"
+				? "card-awakener"
+				:
+			type == "rogue"
+				? "card-rogue"
+				:
+			type == "death-knight"
+				? "card-death-knight"
+				:
+			type == "warlock"
+				? "card-warlock"
+				:
+			type == "shaman"
+				? "card-shaman"
+				:
+			type == "legendary"
+				? "card-legendary"
+				:
+			type == "artifact"
+				? "card-artifact"
+				:
+			type == "decorative"
+				? "card-decorative"
+				:
+			type == "armours"
+				? "card-armours"
+				:
+			type == "water-mounts"
+				? "card-mounts-water"
+				:
+			type == "earth-mounts"
+				? "card-mounts-earth"
+				:
+			type == "fly-mounts"
+				? "card-mounts-fly"
+				:
+			type == "mining"
+				? "card-mining"
+				:
+			type == "blacksmithing"
+				? "card-blacksmithing"
+				:
+			type == "cooking"
+				? "card-cooking"
+				:
+			type == "fishing"
+				? "card-fishing"
+				:
+			type == "dungeons-raids-classic"
+				? "card-dungeons-raids card-dungeons-raids-classic"
+				:
+			type == "dungeons-raids-burning-crusade"
+				? "card-dungeons-raids card-dungeons-raids-burning-crusade"
+				:
+			type == "dungeons-raids-wrath-of-the-lich-king"
+				? "card-dungeons-raids card-dungeons-raids-wrath-of-the-lich-king"
+				:
+			type == "dungeons-raids-cataclysm"
+				? "card-dungeons-raids card-dungeons-raids-cataclysm"
+				:
+			type == "dungeons-raids-mists-of-pandaria"
+				? "card-dungeons-raids card-dungeons-raids-mists-of-pandaria"
+				:
+			type == "dungeons-raids-warlords-of-draenor"
+				? "card-dungeons-raids card-dungeons-raids-warlords-of-draenor"
+				:
+			type == "dungeons-raids-legion"
+				? "card-dungeons-raids card-dungeons-raids-legion"
+				:
+			type == "dungeons-raids-battle-for-azeroth"
+				? "card-dungeons-raids card-dungeons-raids-battle-for-azeroth"
+				:
+			type == "dungeons-raids-shadowlands"
+				? "card-dungeons-raids card-dungeons-raids-shadowlands"
+				:
+			type == "dungeons-raids-dragonflight"
+				? "card-dungeons-raids card-dungeons-raids-dragonflight"
+				:
+			type == "dungeons-raids-war-within"
+				? "card-dungeons-raids card-dungeons-raids-war-within"
+				:
+			type == "dungeons-raids-midnight"
+				? "card-dungeons-raids card-dungeons-raids-midnight"
+				:
+			type == "dungeons-raids-last-titan"
+				? "card-dungeons-raids card-dungeons-raids-last-titan"
+				:
+			type == "achievements"
+				? "card-achievements"
+				:
+			type == "achievements great-feats"
+				? "card-achievements card-achievements-great-feats"
+				: null
+			}`
+		}>
+
+			<Link to={path}>
+				<img src={img} className={`card-img ${
+					objectFit
+						? "card-img-object-fit"
+						: null
+					}`
+				}
+				alt={title} />
+			</Link>
+
+			<div className="card-body">
+				<Link className="card-link" to={path}>
+					<h3 className={`card-title ${
+						type == "races"
+							? "card-title-races"
+							:
+						addition == "Classic"
+							? "card-dungeons-raids-classic_color"
+							:
+						addition == "The Burning Crusade"
+							? "card-dungeons-raids-burning-crusade_color"
+							:
+						addition == "Wrath of the Lich King"
+							? "card-dungeons-raids-wrath-of-the-lich-king_color"
+							:
+						addition == "Cataclysm"
+							? "card-dungeons-raids-cataclysm_color"
+							:
+						addition == "Mists of Pandaria"
+							? "card-dungeons-raids-mists-of-pandaria_color"
+							:
+						addition == "Warlords of Draenor"
+							? "card-dungeons-raids-warlords-of-draenor_color"
+							:
+						addition == "Legion"
+							? "card-dungeons-raids-legion_color"
+							:
+						addition == "Battle for Azeroth"
+							? "card-dungeons-raids-battle-for-azeroth_color"
+							:
+						addition == "Shadowlands"
+							? "card-dungeons-raids-shadowlands_color"
+							:
+						addition == "Dragonflight"
+							? "card-dungeons-raids-dragonflight_color"
+							:
+						addition == "The War Within"
+							? "card-dungeons-raids-war-within_color"
+							:
+						addition == "Midnight"
+							? "card-dungeons-raids-midnight_color"
+							:
+						addition == "The Last Titan"
+							? "card-dungeons-raids-last-titan_color"
+							: null
+						}`
+					}>
+						{title}
+					</h3>
+				</Link>
+
+				<p className={`card-text ${
+					type == "races"
+						? "card-text-races"
+						: null
+					}`
+				}>
+					{description}
+					{addition && <span className={`card-dungeons-raids ${
+							addition == "Classic"
+							? "card-dungeons-raids-classic_color"
+							:
+							addition == "The Burning Crusade"
+								? "card-dungeons-raids-burning-crusade_color"
+								:
+							addition == "Wrath of the Lich King"
+								? "card-dungeons-raids-wrath-of-the-lich-king_color"
+								:
+							addition == "Cataclysm"
+								? "card-dungeons-raids-cataclysm_color"
+								:
+							addition == "Mists of Pandaria"
+								? "card-dungeons-raids-mists-of-pandaria_color"
+								:
+							addition == "Warlords of Draenor"
+								? "card-dungeons-raids-warlords-of-draenor_color"
+								:
+							addition == "Legion"
+								? "card-dungeons-raids-legion_color"
+								:
+							addition == "Battle for Azeroth"
+								? "card-dungeons-raids-battle-for-azeroth_color"
+								:
+							addition == "Shadowlands"
+								? "card-dungeons-raids-shadowlands_color"
+								:
+							addition == "Dragonflight"
+								? "card-dungeons-raids-dragonflight_color"
+								:
+							addition == "The War Within"
+								? "card-dungeons-raids-war-within_color"
+								:
+							addition == "Midnight"
+								? "card-dungeons-raids-midnight_color"
+								:
+							addition == "The Last Titan"
+								? "card-dungeons-raids-last-titan_color"
+								: null
+						}`
+						}>{`${' ' + addition}.`} {/* Перед комментарием оставляем пробел чтобы был пробел после закрывающего тега */}</span>
+					}
+					{descriptionTrim}
+				</p>
+			</div>
+
+			<div className="card-footer d-flex justify-content-between align-items-center">
+				<p className={`card-price ${
+					type == "races"
+						? "card-price-races"
+						: null
+					}`
+				}>
+					от {price}
+					<img className="dollar"	src="/src/assets/img/gold/bg/dollar.png" alt="$"/>
+				</p>
+				<Link to={path} className="card-btn">Подробнее</Link>
+			</div>
+		</div>
+	)
+}
+
+
+export default Card

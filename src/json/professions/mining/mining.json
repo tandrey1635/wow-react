@@ -1,0 +1,265 @@
+[
+	{
+		"id": "MiningPick",
+		"type": "mining",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/mining/Mining-Pick.png",
+		"objectFit": false,
+		"title": "Шахтерская Кирка",
+		"description": "Для тех, кто знает, как работать с камнем. Звон кирки, искры, руда. И гордость от добытого своими руками, от грубой породы до ценного слитка. +4 к навыку Горного Дела.",
+		"price": 300
+	},
+
+	{
+		"id": "AncientPandarenMiningPick",
+		"type": "mining",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/mining/Ancient-Pandaren-Mining-Pick.png",
+		"objectFit": false,
+		"title": "Древняя Пандаренская Кирка",
+		"description": "Для тех, кто знает, как работать с камнем. Звон кирки, искры, руда. И гордость от добытого своими руками, от грубой породы до ценного слитка. +3 к навыку Горного Дела Пандарии. Позволяет находить самоцветы, занимаясь в Пандарии Горным Делом.",
+		"price": 300
+	},
+
+	{
+		"id": "ShatterstonePick",
+		"type": "mining",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/mining/Shatterstone-Pick.png",
+		"objectFit": false,
+		"title": "Камнеломная Кирка",
+		"description": "Для тех, кто знает, как работать с камнем. Звон кирки, искры, руда. И гордость от добытого своими руками, от грубой породы до ценного слитка. +4 к навыку Горного Дела.",
+		"price": 300
+	},
+
+	{
+		"id": "CalcifiedPickaxe",
+		"type": "mining",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/mining/Calcified-Pickaxe.png",
+		"objectFit": false,
+		"title": "Окаменелая Кирка",
+		"description": "Для тех, кто знает, как работать с камнем. Звон кирки, искры, руда. И гордость от добытого своими руками, от грубой породы до ценного слитка. +4 к навыку Горного Дела.",
+		"price": 300
+	},
+
+	{
+		"id": "IronwoodPickaxe",
+		"type": "mining",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/mining/Ironwood-Pickaxe.png",
+		"objectFit": false,
+		"title": "Кирка из Железного Дерева",
+		"description": "Для тех, кто знает, как работать с камнем. Звон кирки, искры, руда. И гордость от добытого своими руками, от грубой породы до ценного слитка. +4 к навыку Горного Дела.",
+		"price": 300
+	},
+
+	{
+		"id": "OgreMiningPick",
+		"type": "mining",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/mining/Ogre-Mining-Pick.png",
+		"objectFit": false,
+		"title": "Кирка Огра",
+		"description": "Для тех, кто знает, как работать с камнем. Звон кирки, искры, руда. И гордость от добытого своими руками, от грубой породы до ценного слитка.",
+		"price": 300
+	},
+
+	{
+		"id": "KoboldMastermindsPivel",
+		"type": "mining",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/mining/Kobold-Masterminds-Pivel.png",
+		"objectFit": false,
+		"title": "Топор Кобольда Зачинщика",
+		"description": "Для тех, кто знает, как работать с камнем. Звон кирки, искры, руда. И гордость от добытого своими руками, от грубой породы до ценного слитка. +11 к навыку Горного Дела. Автор разработки: Кыш Суматох. НЕ СМЕЙТЕ КРАСТЬ ИДЕЮ!",
+		"price": 300
+	},
+
+	{
+		"id": "HammerPick",
+		"type": "mining",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/mining/Hammer-Pick.png",
+		"objectFit": false,
+		"title": "Кирка Молот",
+		"description": "Для тех, кто знает, как работать с камнем. Звон кирки, искры, руда. И гордость от добытого своими руками, от грубой породы до ценного слитка. Используется как шахтерская кирка или кузнечный молот.",
+		"price": 300
+	},
+
+	{
+		"id": "MiningPickIron",
+		"type": "mining",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/mining/Mining-Pick-Iron.png",
+		"objectFit": false,
+		"title": "Шахтерская Кирка",
+		"description": "Для тех, кто знает, как работать с камнем. Звон кирки, искры, руда. И гордость от добытого своими руками, от грубой породы до ценного слитка.",
+		"price": 300
+	},
+
+	{
+		"id": "IronMiningPick",
+		"type": "mining",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/mining/Iron-Mining-Pick.png",
+		"objectFit": false,
+		"title": "Железная Кирка",
+		"description": "Для тех, кто знает, как работать с камнем. Звон кирки, искры, руда. И гордость от добытого своими руками, от грубой породы до ценного слитка. Судя по положению этой кирки, хозяин планировал отложить ее совсем ненадолго.",
+		"price": 300
+	},
+
+	{
+		"id": "ProficientPickaxe",
+		"type": "mining",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/mining/Proficient-Pickaxe.png",
+		"objectFit": false,
+		"title": "Кирка Умельца",
+		"description": "Для тех, кто знает, как работать с камнем. Звон кирки, искры, руда. И гордость от добытого своими руками, от грубой породы до ценного слитка. +8 к навыку Горного Дела.",
+		"price": 300
+	},
+
+	{
+		"id": "ArtisanPickaxe",
+		"type": "mining",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/mining/Artisan-Pickaxe.png",
+		"objectFit": false,
+		"title": "Кирка Ремесленника",
+		"description": "Для тех, кто знает, как работать с камнем. Звон кирки, искры, руда. И гордость от добытого своими руками, от грубой породы до ценного слитка. +18 к навыку Горного Дела.",
+		"price": 300
+	},
+
+	{
+		"id": "ArchivistsMiningPick",
+		"type": "mining",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/mining/Archivists-Mining-Pick.png",
+		"objectFit": false,
+		"title": "Кирка Архивариуса",
+		"description": "Для тех, кто знает, как работать с камнем. Звон кирки, искры, руда. И гордость от добытого своими руками, от грубой породы до ценного слитка.",
+		"price": 300
+	},
+
+	{
+		"id": "CursedPickaxe",
+		"type": "mining",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/mining/Cursed-Pickaxe.png",
+		"objectFit": false,
+		"title": "Проклятая Кирка",
+		"description": "Для тех, кто знает, как работать с камнем. Звон кирки, искры, руда. И гордость от добытого своими руками, от грубой породы до ценного слитка. Если этот предмет находится в вашей сумке, используется в снаряжении или используется в качестве трансмогрификации, вы будете периодически подвергаться проклятию. Металлический наконечник украшен древними рунами, которые в виде гравировки плавно переходят на рукоять. Доходя до навершия, рисунки становятся более хаотичными и в конце концов превращаются в неразборчивые царапины.",
+		"price": 300
+	},
+
+	{
+		"id": "ExpeditionExcavator",
+		"type": "mining",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/mining/Expedition-Excavator.png",
+		"objectFit": false,
+		"title": "Кирка Экспедиции",
+		"description": "Для тех, кто знает, как работать с камнем. Звон кирки, искры, руда. И гордость от добытого своими руками, от грубой породы до ценного слитка.",
+		"price": 300
+	},
+
+	{
+		"id": "OronaarMinersPickaxe",
+		"type": "mining",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/mining/Oronaar-Miners-Pickaxe.png",
+		"objectFit": false,
+		"title": "Кирка Оронаарского Шахтера",
+		"description": "Для тех, кто знает, как работать с камнем. Звон кирки, искры, руда. И гордость от добытого своими руками, от грубой породы до ценного слитка. Также может использоваться как обычная кирка.",
+		"price": 300
+	},
+
+	{
+		"id": "TelaastiMiningPick",
+		"type": "mining",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/mining/Telaasti-Mining-Pick.png",
+		"objectFit": false,
+		"title": "Кирка Телаасти",
+		"description": "Для тех, кто знает, как работать с камнем. Звон кирки, искры, руда. И гордость от добытого своими руками, от грубой породы до ценного слитка. Также может использоваться как обычная кирка.",
+		"price": 300
+	},
+
+	{
+		"id": "TorchlitPickaxe",
+		"type": "mining",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/mining/Torchlit-Pickaxe.png",
+		"objectFit": false,
+		"title": "Светоносная Кирка",
+		"description": "Для тех, кто знает, как работать с камнем. Звон кирки, искры, руда. И гордость от добытого своими руками, от грубой породы до ценного слитка.",
+		"price": 300
+	},
+
+	{
+		"id": "AlgariCompetitorsPickaxe",
+		"type": "mining",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/mining/Algari-Competitors-Pickaxe.png",
+		"objectFit": false,
+		"title": "Кирка Алгарийского Бойца",
+		"description": "Для тех, кто знает, как работать с камнем. Звон кирки, искры, руда. И гордость от добытого своими руками, от грубой породы до ценного слитка.",
+		"price": 300
+	},
+
+	{
+		"id": "ThalassianPickaxe",
+		"type": "mining",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/mining/Thalassian-Pickaxe.png",
+		"objectFit": false,
+		"title": "Талассийская Кирка",
+		"description": "Для тех, кто знает, как работать с камнем. Звон кирки, искры, руда. И гордость от добытого своими руками, от грубой породы до ценного слитка. +8 к навыку Горного Дела Midnight.",
+		"price": 300
+	},
+
+	{
+		"id": "SunBlessedPickaxe",
+		"type": "mining",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/mining/Sun-Blessed-Pickaxe.png",
+		"objectFit": false,
+		"title": "Солнцезарная Кирка",
+		"description": "Для тех, кто знает, как работать с камнем. Звон кирки, искры, руда. И гордость от добытого своими руками, от грубой породы до ценного слитка. +18 к навыку Горного Дела Midnight.",
+		"price": 300
+	},
+
+	{
+		"id": "SunforgedPickaxe",
+		"type": "mining",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/mining/Sunforged-Pickaxe.png",
+		"objectFit": false,
+		"title": "Солнцекованая Кирка",
+		"description": "Для тех, кто знает, как работать с камнем. Звон кирки, искры, руда. И гордость от добытого своими руками, от грубой породы до ценного слитка. +18 к навыку Горного Дела Midnight.",
+		"price": 300
+	},
+
+	{
+		"id": "FarstriderHardhat",
+		"type": "mining",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/mining/Farstrider-Hardhat.png",
+		"objectFit": false,
+		"title": "Каска Странника",
+		"description": "Для тех, кто знает, как работать с камнем. Звон кирки, искры, руда. И гордость от добытого своими руками, от грубой породы до ценного слитка. +5 к навыку Горного Дела.",
+		"price": 300
+	},
+
+	{
+		"id": "RockBonkinHardhat",
+		"type": "mining",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/mining/Rock-Bonkin-Hardhat.png",
+		"objectFit": false,
+		"title": "Антишмяк Каска",
+		"description": "Для тех, кто знает, как работать с камнем. Звон кирки, искры, руда. И гордость от добытого своими руками, от грубой породы до ценного слитка. +11 к навыку Горного Дела.",
+		"price": 300
+	}
+]

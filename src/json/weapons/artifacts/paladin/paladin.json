@@ -1,0 +1,34 @@
+[
+	{
+		"id": "Holy",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/promo/bg/classes/paladin/Holy.jpg",
+		"objectFit": false,
+		"title": "Свет",
+		"description": "Закажите артефакты для Паладина Света",
+		"price": 800
+	},
+
+	{
+		"id": "Protection",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/promo/bg/classes/paladin/Protection.jpg",
+		"objectFit": false,
+		"title": "Защита",
+		"description": "Закажите артефакты для Паладина Защиты",
+		"price": 800
+	},
+
+	{
+		"id": "Retribution",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/promo/bg/classes/paladin/Retribution.jpg",
+		"objectFit": false,
+		"title": "Воздаяние",
+		"description": "Закажите артефакты для Паладина Воздаяния",
+		"price": 800
+	}
+]

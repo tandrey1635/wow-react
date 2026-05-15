@@ -1,0 +1,193 @@
+[
+	{
+		"id": "HellfireRamparts",
+		"type": "dungeons-raids-burning-crusade",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/burning-crusade/Hellfire-Ramparts.jpg",
+		"objectFit": false,
+		"title": "Бастионы Адского Пламени",
+		"description": "Подземелье для игроков 60-65 уровней дополнения",
+		"addition": "The Burning Crusade",
+		"price": 50
+	},
+
+	{
+		"id": "BloodFurnace",
+		"type": "dungeons-raids-burning-crusade",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/burning-crusade/Blood-Furnace.jpg",
+		"objectFit": false,
+		"title": "Кузня Крови",
+		"description": "Подземелье для игроков 60-65 уровней дополнения",
+		"addition": "The Burning Crusade",
+		"price": 50
+	},
+
+	{
+		"id": "Underbog",
+		"type": "dungeons-raids-burning-crusade",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/burning-crusade/Underbog.jpg",
+		"objectFit": false,
+		"title": "Нижетопь",
+		"description": "Подземелье для игроков 60-65 уровней дополнения",
+		"addition": "The Burning Crusade",
+		"price": 55
+	},
+
+	{
+		"id": "SlavePens",
+		"type": "dungeons-raids-burning-crusade",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/burning-crusade/Slave-Pens.jpg",
+		"objectFit": false,
+		"title": "Узилище",
+		"description": "Подземелье для игроков 60-65 уровней дополнения",
+		"addition": "The Burning Crusade",
+		"price": 55
+	},
+
+	{
+		"id": "AuchenaiCrypts",
+		"type": "dungeons-raids-burning-crusade",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/burning-crusade/Auchenai-Crypts.jpg",
+		"objectFit": false,
+		"title": "Аукенайские Гробницы",
+		"description": "Подземелье для игроков 60-65 уровней дополнения",
+		"addition": "The Burning Crusade",
+		"price": 60
+	},
+
+	{
+		"id": "ManaTombs",
+		"type": "dungeons-raids-burning-crusade",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/burning-crusade/Mana-Tombs.jpg",
+		"objectFit": false,
+		"title": "Гробницы Маны",
+		"description": "Подземелье для игроков 60-65 уровней дополнения",
+		"addition": "The Burning Crusade",
+		"price": 60
+	},
+
+	{
+		"id": "SethekkHalls",
+		"type": "dungeons-raids-burning-crusade",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/burning-crusade/Sethekk-Halls.jpg",
+		"objectFit": false,
+		"title": "Сетеккские Залы",
+		"description": "Подземелье для игроков 65-70 уровней дополнения",
+		"addition": "The Burning Crusade",
+		"price": 65
+	},
+
+	{
+		"id": "ShadowLabyrinth",
+		"type": "dungeons-raids-burning-crusade",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/burning-crusade/Shadow-Labyrinth.jpg",
+		"objectFit": false,
+		"title": "Темный Лабиринт",
+		"description": "Подземелье для игроков 65-70 уровней дополнения",
+		"addition": "The Burning Crusade",
+		"price": 65
+	},
+
+	{
+		"id": "OldHillsbradFoothills",
+		"type": "dungeons-raids-burning-crusade",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/burning-crusade/Old-Hillsbrad-Foothills.jpg",
+		"objectFit": false,
+		"title": "Старые Предгорья Хилсбрада",
+		"description": "Подземелье для игроков 60-65 уровней дополнения",
+		"addition": "The Burning Crusade",
+		"price": 70
+	},
+
+	{
+		"id": "Botanica",
+		"type": "dungeons-raids-burning-crusade",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/burning-crusade/Botanica.jpg",
+		"objectFit": false,
+		"title": "Ботаника",
+		"description": "Подземелье для игроков 65-70 уровней дополнения",
+		"addition": "The Burning Crusade",
+		"price": 80
+	},
+
+	{
+		"id": "Mechanar",
+		"type": "dungeons-raids-burning-crusade",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/burning-crusade/Mechanar.jpg",
+		"objectFit": false,
+		"title": "Механар",
+		"description": "Подземелье для игроков 65-70 уровней дополнения",
+		"addition": "The Burning Crusade",
+		"price": 80
+	},
+
+	{
+		"id": "Arcatraz",
+		"type": "dungeons-raids-burning-crusade",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/burning-crusade/Arcatraz.jpg",
+		"objectFit": false,
+		"title": "Аркатрац",
+		"description": "Подземелье для игроков 65-70 уровней дополнения",
+		"addition": "The Burning Crusade",
+		"price": 80
+	},
+
+	{
+		"id": "ShatteredHalls",
+		"type": "dungeons-raids-burning-crusade",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/burning-crusade/Shattered-Halls.jpg",
+		"objectFit": false,
+		"title": "Разрушенные Залы",
+		"description": "Подземелье для игроков 65-70 уровней дополнения",
+		"addition": "The Burning Crusade",
+		"price": 90
+	},
+
+	{
+		"id": "Steamvault",
+		"type": "dungeons-raids-burning-crusade",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/burning-crusade/Steamvault.jpg",
+		"objectFit": false,
+		"title": "Паровое Подземелье",
+		"description": "Подземелье для игроков 65-70 уровней дополнения",
+		"addition": "The Burning Crusade",
+		"price": 90
+	},
+
+	{
+		"id": "BlackMorass",
+		"type": "dungeons-raids-burning-crusade",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/burning-crusade/Black-Morass.jpg",
+		"objectFit": false,
+		"title": "Черные Топи",
+		"description": "Подземелье для игроков 65-70 уровней дополнения",
+		"addition": "The Burning Crusade",
+		"price": 95
+	},
+
+	{
+		"id": "MagistersTerrace",
+		"type": "dungeons-raids-burning-crusade",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/burning-crusade/Magisters-Terrace.jpg",
+		"objectFit": false,
+		"title": "Терраса Магистров",
+		"description": "Подземелье для игроков 65-70 уровней дополнения",
+		"addition": "The Burning Crusade",
+		"price": 98
+	}
+]

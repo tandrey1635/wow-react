@@ -1,0 +1,1190 @@
+[
+	{
+		"id": "UpperBlackrockSpireClassic",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Верхняя Часть Пика Черной горы",
+		"description": "Убейте Генерала Драккисата в подземелье из дополнения Classic.",
+		"price": 1000
+	},
+
+	{
+		"id": "FifthElement",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Пятый Элемент",
+		"description": "Получите Квинтэссенцию воды.",
+		"price": 1000
+	},
+
+	{
+		"id": "HeroOfTheZandalarTribe",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Герой Племени Зандалар",
+		"description": "Добейтесь того, чтобы вас превозносило Племя Зандалари.",
+		"price": 1000
+	},
+
+	{
+		"id": "DeadliestCatch",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Последний Улов",
+		"description": "Выудите Газ'ранку в Зул'Гурубе из дополнения Classic, используя наживку для Грязнотинника.",
+		"price": 1000
+	},
+
+	{
+		"id": "ZulGurubClassic",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Зул'Гуруб",
+		"description": "Убейте Хаккара в рейде из дополнения Classic.",
+		"price": 1000
+	},
+
+	{
+		"id": "OnyxiasLairClassic",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Логово Ониксии",
+		"description": "Убейте Ониксию в рейде из дополнения Classic.",
+		"price": 1000
+	},
+
+	{
+		"id": "AncientKeeper",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Древний Хранитель",
+		"description": "Получите Рок-Делар, Длинный Лук Древних Хранителей, и Лок-Делар, Посох Древних Хранителей.",
+		"price": 1000
+	},
+
+	{
+		"id": "BalanceOfLightAndShadow",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "На Грани Света и Тьмы",
+		"description": "Получите Благодарение и Анафему.",
+		"price": 1000
+	},
+
+	{
+		"id": "ZulAmanBurningCrusade",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Зул'Аман",
+		"description": "Убейте Зул'Джина в Зул'Амане в рейде из дополнения The Burning Crusade.",
+		"price": 1000
+	},
+
+	{
+		"id": "ChampionOfTheNaaru",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Защитник Наару",
+		"description": "Заслужите звание Защитник Наару.",
+		"price": 1000
+	},
+
+	{
+		"id": "HandOfAdal",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Длань А'дала",
+		"description": "Заслужите звание Длань А'дала.",
+		"price": 1000
+	},
+
+	{
+		"id": "SafeDeposit",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Банковская Ячейка",
+		"description": "Купите 7 дополнительных ячеек в банке.",
+		"price": 1000
+	},
+
+	{
+		"id": "RightStuff",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Вас не Догонят",
+		"description": "Станьте искусником в деле верховой езды.",
+		"price": 1000
+	},
+
+	{
+		"id": "DualTalentSpecialization",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Двойная Специализация",
+		"description": "Посетите наставника вашего класса и обучитесь двойной специализации.",
+		"price": 1000
+	},
+
+	{
+		"id": "DidSomebodyOrderKnuckleSandwich",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Кому Зуботычину?",
+		"description": "Доведите навык рукопашного боя до 400.",
+		"price": 1000
+	},
+
+	{
+		"id": "MasterOfArms",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Искусство Владения Оружием",
+		"description": "Доведите навык боя четырьмя видами оружия до 400.",
+		"price": 1000
+	},
+
+	{
+		"id": "TimearForesees",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Предсказания Времиара",
+		"description": "Выполните все ежедневные задания в подземельях Нордскола.",
+		"price": 1000
+	},
+
+	{
+		"id": "ProofOfDemise",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Победный Трофей",
+		"description": "Выполните все ежедневные задания в подземельях Нордскола.",
+		"price": 1000
+	},
+
+	{
+		"id": "Charger",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Скакун",
+		"description": "Выполните задание для Паладина на получение Скакуна.",
+		"price": 1000
+	},
+
+	{
+		"id": "DreadsteedOfXoroth",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Зоротианский Скакун Погибели",
+		"description": "Выполните задание для Чернокнижника на получение Зоротианского Скакуна Погибели.",
+		"price": 1000
+	},
+
+	{
+		"id": "SwiftFlightForm",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Облик Стремительной Птицы",
+		"description": "Выполните задание для Друида на получение Облика Стремительной Птицы.",
+		"price": 1000
+	},
+
+	{
+		"id": "Greedy",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Жадина",
+		"description": "Победите в розыгрыше вещи эпического или превосходного качества уровнем не ниже 185, выбрав Не откажусь и выбросив 100 на костях.",
+		"price": 1000
+	},
+
+	{
+		"id": "Needy",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Ну Очень Нужно!",
+		"description": "Победите в розыгрыше вещи эпического или превосходного качества уровнем не ниже 185, выбрав Мне это нужно и выбросив 100 на костях.",
+		"price": 1000
+	},
+
+	{
+		"id": "OrgrimmarOffensive",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Наступление на Оргриммар",
+		"description": "Атакуйте Верховного Воеводу Саурфанга, пока он от скуки не притворится мертвым.",
+		"price": 1000
+	},
+
+	{
+		"id": "Scout",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Разведчик",
+		"description": "Получите звание Разведчик. Фракция: Орда.",
+		"price": 1000
+	},
+
+	{
+		"id": "Private",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Рядовой",
+		"description": "Получите звание Рядовой. Фракция: Альянс.",
+		"price": 1000
+	},
+
+	{
+		"id": "Grunt",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Рубака",
+		"description": "Получите звание Рубака. Фракция: Орда.",
+		"price": 1000
+	},
+
+	{
+		"id": "Corporal",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Капрал",
+		"description": "Получите звание Капрал. Фракция: Альянс.",
+		"price": 1000
+	},
+
+	{
+		"id": "Sergeant",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Сержант",
+		"description": "Получите звание Сержант.",
+		"price": 1000
+	},
+
+	{
+		"id": "SeniorSergeant",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Старший Сержант",
+		"description": "Получите звание Старший Сержант.",
+		"price": 1000
+	},
+
+	{
+		"id": "FirstSergeant",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Старшина",
+		"description": "Получите звание Старшина.",
+		"price": 1000
+	},
+
+	{
+		"id": "StoneGuard",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Каменный Страж",
+		"description": "Получите звание Каменный Страж. Фракция: Орда.",
+		"price": 1000
+	},
+
+	{
+		"id": "Knight",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Рыцарь",
+		"description": "Получите звание Рыцарь. Фракция: Альянс.",
+		"price": 1000
+	},
+
+	{
+		"id": "BloodGuard",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Кровавый Страж",
+		"description": "Получите звание Кровавый Страж. Фракция: Орда.",
+		"price": 1000
+	},
+
+	{
+		"id": "KnightLieutenant",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Рыцарь Лейтенант",
+		"description": "Получите звание Рыцарь Лейтенант. Фракция: Альянс.",
+		"price": 1000
+	},
+
+	{
+		"id": "Legionnaire",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Легионер",
+		"description": "Получите звание Легионер. Фракция: Орда.",
+		"price": 1000
+	},
+
+	{
+		"id": "KnightCaptain",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Рыцарь Капитан",
+		"description": "Получите звание Рыцарь Капитан. Фракция: Альянс.",
+		"price": 1000
+	},
+
+	{
+		"id": "Centurion",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Центурион",
+		"description": "Получите звание Центурион. Фракция: Орда.",
+		"price": 1000
+	},
+
+	{
+		"id": "KnightChampion",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Рыцарь Защитник",
+		"description": "Заслужите звание Рыцарь Защитник. Фракция: Альянс.",
+		"price": 1000
+	},
+
+	{
+		"id": "Champion",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Защитник",
+		"description": "Получите звание Защитник. Фракция: Орда.",
+		"price": 1000
+	},
+
+	{
+		"id": "LieutenantCommander",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Лейтенант Командор",
+		"description": "Получите звание Лейтенант Командор. Фракция: Альянс.",
+		"price": 1000
+	},
+
+	{
+		"id": "General",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Генерал",
+		"description": "Получите звание Генерал. Фракция: Орда.",
+		"price": 1000
+	},
+
+	{
+		"id": "Marshal",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Маршал",
+		"description": "Получите звание Маршал. Фракция: Альянс.",
+		"price": 1000
+	},
+
+	{
+		"id": "LieutenantGeneral",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Генерал Лейтенант",
+		"description": "Получите звание Генерал Лейтенант. Фракция: Орда.",
+		"price": 1000
+	},
+
+	{
+		"id": "Commander",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Командор",
+		"description": "Получите звание Командор. Фракция: Альянс.",
+		"price": 1000
+	},
+
+	{
+		"id": "Warlord",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Полководец",
+		"description": "Получите звание Полководец. Фракция: Орда.",
+		"price": 1000
+	},
+
+	{
+		"id": "FieldMarshal",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Фельдмаршал",
+		"description": "Получите звание Фельдмаршал. Фракция: Альянс.",
+		"price": 1000
+	},
+
+	{
+		"id": "HighWarlord",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Верховный Полководец",
+		"description": "Получите звание Верховный Полководец. Фракция: Орда.",
+		"price": 1000
+	},
+
+	{
+		"id": "GrandMarshal",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Главнокомандующий",
+		"description": "Получите звание Главнокомандующий. Фракция: Альянс.",
+		"price": 1000
+	},
+
+	{
+		"id": "50StoneKeepersShards",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "50 Осколков Каменного Хранителя",
+		"description": "Получите из добычи 50 осколков Каменного Хранителя.",
+		"price": 1000
+	},
+
+	{
+		"id": "100StoneKeepersShards",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "100 Осколков Каменного Хранителя",
+		"description": "Получите из добычи 100 осколков Каменного Хранителя.",
+		"price": 1000
+	},
+
+	{
+		"id": "250StoneKeepersShards",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "250 Осколков Каменного Хранителя",
+		"description": "Получите из добычи 250 осколков Каменного Хранителя.",
+		"price": 1000
+	},
+
+	{
+		"id": "500StoneKeepersShards",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "500 Осколков Каменного Хранителя",
+		"description": "Получите из добычи 500 осколков Каменного Хранителя.",
+		"price": 1000
+	},
+
+	{
+		"id": "1000StoneKeepersShards",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "1000 Осколков Каменного Хранителя",
+		"description": "Получите из добычи 1000 осколков Каменного Хранителя.",
+		"price": 1000
+	},
+
+	{
+		"id": "1000DungeonAndRaidEmblems",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "1000 Эмблем Подземелий и Рейдов",
+		"description": "Получите 1000 эмблем героизма, доблести, завоевания, триумфа или льда.",
+		"price": 1000
+	},
+
+	{
+		"id": "2500DungeonAndRaidEmblems",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "2500 Эмблем Подземелий и Рейдов",
+		"description": "Получите 2500 эмблем героизма, доблести, завоевания, триумфа или льда.",
+		"price": 1000
+	},
+
+	{
+		"id": "5000ConquestPoints",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "5000 Очков Завоевания",
+		"description": "Заработайте 5000 очков завоевания.",
+		"price": 1000
+	},
+
+	{
+		"id": "25000ConquestPoints",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "25 000 Очков Завоевания",
+		"description": "Заработайте 25 000 очков завоевания.",
+		"price": 1000
+	},
+
+	{
+		"id": "50000ConquestPoints",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "50 000 Очков Завоевания",
+		"description": "Заработайте 50 000 очков завоевания.",
+		"price": 1000
+	},
+
+	{
+		"id": "1000ValorPoints",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "1000 Очков Доблести",
+		"description": "Заработайте 1000 очков доблести.",
+		"price": 1000
+	},
+
+	{
+		"id": "5000ValorPoints",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "5000 Очков Доблести",
+		"description": "Заработайте 5000 очков доблести.",
+		"price": 1000
+	},
+
+	{
+		"id": "25000ValorPoints",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "25 000 Очков Доблести",
+		"description": "Заработайте 25 000 очков доблести.",
+		"price": 1000
+	},
+
+	{
+		"id": "50000ValorPoints",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "50 000 Очков Доблести",
+		"description": "Заработайте 50 000 очков доблести.",
+		"price": 1000
+	},
+
+	{
+		"id": "100000ValorPoints",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "100 000 Очков Доблести",
+		"description": "Заработайте 100 000 очков доблести.",
+		"price": 1000
+	},
+
+	{
+		"id": "Hordebreaker",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Раскол Орды",
+		"description": "Помогите восставшим троллям Вол'джина в выступлении против правления Гарроша в обновлении 5.3 Восстание.",
+		"price": 1000
+	},
+
+	{
+		"id": "DarkspearRevolutionary",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Повстанец из Черного Копья",
+		"description": "Помогите Вол'джину во время восстания троллей в обновлении 5.3 Восстание.",
+		"price": 1000
+	},
+
+	{
+		"id": "InTheHallOfTheThunderKing",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "В Залах Властелина Грома",
+		"description": "Выполните все задачи в сокровищнице Властелина Грома.",
+		"price": 1000
+	},
+
+	{
+
+		"id": "TestOfValor",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Испытание Доблести",
+		"description": "Начните легендарную цепочку заданий Гневиона Испытание Доблести и получите 3000 очков доблести.",
+		"price": 1000
+	},
+
+	{
+		"id": "ChapterITrialOfTheBlackPrince",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Глава I: Испытание Черного Принца",
+		"description": "Покажите Гневиону, чего вы стоите, и получите пораженный ша самоцвет.",
+		"price": 1000
+	},
+
+	{
+		"id": "ChapterIIWrathionsWar",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Глава II: Война Гневиона",
+		"description": "Докажите Гневиону преимущества Орды/Альянса, пройдя его испытания после высадки ваших войск на берегу.",
+		"price": 1000
+	},
+
+	{
+		"id": "ChapterIIITwoPrinces",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Глава III: Два Принца",
+		"description": "Проникните в тайны могу вместе с Гневионом и принесите ему сердце Властелина Грома.",
+		"price": 1000
+	},
+
+	{
+		"id": "ChapterIVCelestialBlessings",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Глава IV: Благословение Небожителей",
+		"description": "Вместе с Гневионом получите благословения четырех Августейших Небожителей.",
+		"price": 1000
+	},
+
+	{
+		"id": "ChapterVJudgmentOfTheBlackPrince",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Глава V: Решение Черного Принца",
+		"description": "Создайте легендарный плащ вместе с Гневионом и выполните его задание, одержав победу над Гаррошем Адским Криком.",
+		"price": 1000
+	},
+
+	{
+		"id": "ChapterICallOfTheArchmage",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Глава I: Зов Верховного Мага",
+		"description": "Начните выполнение легендарного задания Кадгара и докажите, что вы готовы, победив дух Кайроздорму.",
+		"price": 1000
+	},
+
+	{
+		"id": "ChapterIIGuldanStrikesBack",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Глава II: Гул'дан Наносит Ответный Удар",
+		"description": "Завершите легендарное задание Кадгара в Верховном Молоте и спасите его, когда все пойдет не по плану.",
+		"price": 1000
+	},
+
+	{
+		"id": "ChapterIIITheFoundryFalls",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Глава III: Литейная Закрывается",
+		"description": "Завершите легендарное задание Кадгара в Литейной Клана Черной Горы и обратите Железную Орду в бегство!",
+		"price": 1000
+	},
+
+	{
+		"id": "ChapterIVDarknessIncarnate",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Глава IV: Воплощение Мрака",
+		"description": "Получите легендарное кольцо, выполнив задание Кадгара.",
+		"price": 1000
+	},
+
+	{
+		"id": "ChallengeConqueror",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Победитель в Испытаниях",
+		"description": "Пройдите все подземелья из дополнения Mists of Pandaria в режиме испытаний.",
+		"price": 1000
+	},
+
+	{
+		"id": "ChallengeWarlord",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Испытания Дренора",
+		"description": "Пройдите все подземелья из дополнения Warlords of Draenor в режиме испытаний.",
+		"price": 1000
+	},
+
+	{
+		"id": "JourneymanMedic",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Подмастерье Первой Помощи",
+		"description": "Повысьте навык оказания первой помощи до 150.",
+		"price": 1000
+	},
+
+	{
+		"id": "ExpertMedic",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Умелец Оказывать Первую Помощь",
+		"description": "Повысьте навык оказания первой помощи до 225.",
+		"price": 1000
+	},
+
+	{
+		"id": "ArtisanMedic",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Искусник Оказания Первой Помощи",
+		"description": "Повысьте навык оказания первой помощи до 300.",
+		"price": 1000
+	},
+
+	{
+		"id": "MasterMedic",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Мастер Оказания Первой Помощи",
+		"description": "Повысьте навык оказания первой помощи до 375.",
+		"price": 1000
+	},
+
+	{
+		"id": "GrandMasterMedic",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Великий Мастер Первой Помощи",
+		"description": "Повысьте навык оказания первой помощи до 450.",
+		"price": 1000
+	},
+
+	{
+		"id": "IllustriousGrandMasterMedic",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Прославленный Мастер Первой Помощи",
+		"description": "Повысьте навык оказания первой помощи до 525.",
+		"price": 1000
+	},
+
+	{
+		"id": "ZenMasterMedic",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Дзен Мастер Первой Помощи",
+		"description": "Повысьте навык оказания первой помощи до 600.",
+		"price": 1000
+	},
+
+	{
+		"id": "DraenorMedic",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Целитель Дренора",
+		"description": "Повысьте навык оказания первой помощи до 700.",
+		"price": 1000
+	},
+
+	{
+		"id": "LegionMedic",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Медик Legion",
+		"description": "Повысьте навык оказания первой помощи до 800.",
+		"price": 1000
+	},
+
+	{
+		"id": "IsThereMedicInTheZone?",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Есть Здесь Врачи?",
+		"description": "Окажите помощь 10 раненым путешественникам на Расколотых островах.",
+		"price": 1000
+	},
+
+	{
+		"id": "FieldMedic",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Полевой Врач",
+		"description": "Окажите помощь всем раненым путешественникам на Расколотых островах.",
+		"price": 1000
+	},
+
+	{
+		"id": "SkillsToPayTheBills",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "На Все Руки Мастер",
+		"description": "Повысьте навык рыбной ловли, первой помощи и кулинарии до 450.",
+		"price": 1000
+	},
+
+	{
+		"id": "MoreSkillsToPayTheBills",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "На Все Руки от Скуки",
+		"description": "Повысьте навык рыбной ловли, первой помощи, кулинарии и археологии до 525.",
+		"price": 1000
+	},
+
+	{
+		"id": "SeriousSkillsToPayTheBills",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "На Все Руки от Тоски и Скуки",
+		"description": "Повысьте навык рыбной ловли, первой помощи, кулинарии и археологии до 600.",
+		"price": 1000
+	},
+
+	{
+		"id": "SavageSkillsToPayTheBills",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Хорошие Навыки Большая Зарплата",
+		"description": "Повысьте навык рыбной ловли, первой помощи, кулинарии и археологии до 700.",
+		"price": 1000
+	},
+
+	{
+		"id": "HeroicSkillsToPayTheBills",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Уж Точно На Все Руки от Тоски и Скуки",
+		"description": "Повысьте навык рыбной ловли, первой помощи, кулинарии и археологии до 800.",
+		"price": 1000
+	},
+
+	{
+		"id": "ArtifactOrArtifiction",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Все об Артефактах",
+		"description": "Достигните 10-го уровня знаний об артефакте с помощью исследователей в оплоте своего класса.",
+		"price": 1000
+	},
+
+	{
+		"id": "PartOfHistory",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Часть Истории",
+		"description": "Полностью изучите один из артефактов, исследовав его в оплоте своего класса.",
+		"price": 1000
+	},
+
+	{
+		"id": "ForgedForBattle",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Закаленный для Битвы",
+		"description": "Пройдите кампанию оплота вашего класса, чтобы открыть новый внешний вид вашего артефакта.",
+		"price": 1000
+	},
+
+	{
+		"id": "HonoringThePast",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Дань Прошлому",
+		"description": "Откройте новый вариант расцветки артефакта, отдав дань его прошлому.",
+		"price": 1000
+	},
+
+	{
+		"id": "PowerUnbound",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Высвобожденная Сила",
+		"description": "Разблокируйте новый набор особенностей одного из ваших артефактов.",
+		"price": 1000
+	},
+
+	{
+		"id": "PowerUnleashed",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Высвобожденная Мощь",
+		"description": "Разблокируйте новый набор особенностей всех ваших артефактов.",
+		"price": 1000
+	},
+
+	{
+		"id": "ChallengingLook",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Испытанное Оружие",
+		"description": "Завершите испытание и разблокируйте новый внешний вид одного из ваших артефактов.",
+		"price": 1000
+	},
+
+	{
+		"id": "FightingWithStyleChallenging",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Сражайся Стильно: Испытание",
+		"description": "Разблокируйте все варианты внешнего вида вашего артефакта в режиме испытаний.",
+		"price": 1000
+	},
+
+	{
+		"id": "PowerRealized",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Воплощенная Сила",
+		"description": "Откройте все особенности одного артефакта.",
+		"price": 1000
+	},
+
+	{
+		"id": "PowerAscended",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Больше Мощи",
+		"description": "Откройте все особенности одного артефакта после его усиления.",
+		"price": 1000
+	},
+
+	{
+		"id": "InfinitePower",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Бесконечная Сила",
+		"description": "Наденьте плащ бесконечных возможностей.",
+		"price": 1000
+	},
+
+	{
+		"id": "NowYoureCookingWithNetherlight",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Со Светом Пустоты Дело Пойдет на Лад!",
+		"description": "Получите доступ к Тиглю Света Пустоты.",
+		"price": 1000
+	},
+
+	{
+		"id": "CruciblesPromise",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/legacy/legacy.png",
+		"objectFit": false,
+		"title": "Мощь Тигля",
+		"description": "Полностью раскройте потенциал Тигля Света Пустоты с одним из ваших предметов артефакта.",
+		"price": 1000
+	}
+]

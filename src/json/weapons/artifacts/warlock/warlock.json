@@ -1,0 +1,34 @@
+[
+	{
+		"id": "Affliction",
+		"type": "warlock",
+		"path": "",
+		"img": "/src/assets/img/promo/bg/classes/warlock/Affliction.jpg",
+		"objectFit": false,
+		"title": "Колдовство",
+		"description": "Закажите артефакты для Чернокнижника Колдовства",
+		"price": 800
+	},
+
+	{
+		"id": "Demonology",
+		"type": "warlock",
+		"path": "",
+		"img": "/src/assets/img/promo/bg/classes/warlock/Demonology.jpg",
+		"objectFit": false,
+		"title": "Демонология",
+		"description": "Закажите артефакты для Чернокнижника Демонологии",
+		"price": 800
+	},
+
+	{
+		"id": "Destruction",
+		"type": "warlock",
+		"path": "",
+		"img": "/src/assets/img/promo/bg/classes/warlock/Destruction.jpg",
+		"objectFit": false,
+		"title": "Разрушение",
+		"description": "Закажите артефакты для Чернокнижника Разрушения",
+		"price": 800
+	}
+]

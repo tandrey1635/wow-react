@@ -1,0 +1,109 @@
+[
+	{
+		"id": "VaultOfArchavon",
+		"type": "dungeons-raids-wrath-of-the-lich-king",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/raids/wrath-of-the-lich-king/Vault-of-Archavon.jpg",
+		"objectFit": false,
+		"title": "Склеп Аркавона",
+		"description": "Рейд для игроков 80 уровня дополнения",
+		"addition": "Wrath of the Lich King",
+		"price": 150
+	},
+
+	{
+		"id": "Naxxramas",
+		"type": "dungeons-raids-wrath-of-the-lich-king",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/raids/wrath-of-the-lich-king/Naxxramas.jpg",
+		"objectFit": false,
+		"title": "Наксрамас",
+		"description": "Рейд для игроков 80 уровня дополнения",
+		"addition": "Wrath of the Lich King",
+		"price": 160
+	},
+
+	{
+		"id": "ObsidianSanctum",
+		"type": "dungeons-raids-wrath-of-the-lich-king",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/raids/wrath-of-the-lich-king/Obsidian-Sanctum.jpg",
+		"objectFit": false,
+		"title": "Обсидиановое Святилище",
+		"description": "Рейд для игроков 80 уровня дополнения",
+		"addition": "Wrath of the Lich King",
+		"price": 160
+	},
+
+	{
+		"id": "EyeOfEternity",
+		"type": "dungeons-raids-wrath-of-the-lich-king",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/raids/wrath-of-the-lich-king/Eye-of-Eternity.jpg",
+		"objectFit": false,
+		"title": "Око Вечности",
+		"description": "Рейд для игроков 80 уровня дополнения",
+		"addition": "Wrath of the Lich King",
+		"price": 160
+	},
+
+	{
+		"id": "Ulduar",
+		"type": "dungeons-raids-wrath-of-the-lich-king",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/raids/wrath-of-the-lich-king/Ulduar.jpg",
+		"objectFit": false,
+		"title": "Ульдуар",
+		"description": "Рейд для игроков 80 уровня дополнения",
+		"addition": "Wrath of the Lich King",
+		"price": 170
+	},
+
+	{
+		"id": "TrialOfTheCrusader",
+		"type": "dungeons-raids-wrath-of-the-lich-king",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/raids/wrath-of-the-lich-king/Trial-of-the-Crusader.jpg",
+		"objectFit": false,
+		"title": "Испытание Крестоносца",
+		"description": "Рейд для игроков 80 уровня дополнения",
+		"addition": "Wrath of the Lich King",
+		"price": 180
+	},
+
+	{
+		"id": "OnyxiasLair",
+		"type": "dungeons-raids-wrath-of-the-lich-king",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/raids/wrath-of-the-lich-king/Onyxias-Lair.jpg",
+		"objectFit": false,
+		"title": "Логово Ониксии",
+		"description": "Рейд для игроков 80 уровня дополнения",
+		"addition": "Wrath of the Lich King",
+		"price": 180
+	},
+
+	{
+		"id": "IcecrownCitadel",
+		"type": "dungeons-raids-wrath-of-the-lich-king",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/raids/wrath-of-the-lich-king/Icecrown-Citadel.jpg",
+		"objectFit": false,
+		"title": "Цитадель Ледяной Короны",
+		"description": "Рейд для игроков 80 уровня дополнения",
+		"addition": "Wrath of the Lich King",
+		"price": 190
+	},
+
+	{
+		"id": "RubySanctum",
+		"type": "dungeons-raids-wrath-of-the-lich-king",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/raids/wrath-of-the-lich-king/Ruby-Sanctum.jpg",
+		"objectFit": false,
+		"title": "Рубиновое Святилище",
+		"description": "Рейд для игроков 80 уровня дополнения",
+		"addition": "Wrath of the Lich King",
+		"price": 195
+	}
+]

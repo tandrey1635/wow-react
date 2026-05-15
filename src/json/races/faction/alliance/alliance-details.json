@@ -1,0 +1,225 @@
+[
+	{
+		"id": "Human",
+		"type": "faction-alliance",
+		"title": "Люди",
+		"description": "Королевство людей Штормград — главный оплот Альянса. Одно из его главных достоинств, готовность сотрудничать с другими расами и решать конфликты дипломатией. Подданные королевства борются за честь и справедливость, защищая свои земли и весь Альянс от любых захватчиков.",
+		"capital": "1",
+		"capitalImg": "/src/assets/img/races/bg/faction/alliance/details/humans/capital.png",
+		"capitalDescription": "1",
+		"raceMount": "1",
+		"raceMountImg": "/src/assets/img/races/bg/faction/alliance/details/humans/mount.png",
+		"raceMountDescription": "1",
+		"leader": "1",
+		"leaderImg": "/src/assets/img/races/bg/faction/alliance/details/humans/leader.png",
+		"leaderDescription": "1"
+	},
+
+	{
+		"id": "KulTiran",
+		"type": "faction-alliance",
+		"title": "Култирасцы",
+		"description": "Кул-Тирас был основан бесстрашными исследователями, бороздившими неизведанные воды в поисках приключений. Когда-то эта нация была одним из ключевых членов Альянса Лордерона, и ее легендарный флот царил на морях Азерота. Но после долгих лет смуты, обрушившейся на королевство, Кул-Тирас оказался отрезан от остального мира и поддался влиянию темных сил. Благодаря помощи храбрых героев дом Праудмуров вернул себе утраченную власть, и култирасцы готовы снова сражаться вместе с отважными защитниками Альянса.",
+		"capital": "1",
+		"capitalImg": "/src/assets/img/races/bg/faction/alliance/details/human/capital.png",
+		"capitalDescription": "1",
+		"raceMount": "1",
+		"raceMountImg": "/src/assets/img/races/bg/faction/alliance/details/human/mount.png",
+		"raceMountDescription": "1",
+		"leader": "1",
+		"leaderImg": "/src/assets/img/races/bg/faction/alliance/details/human/leader.png",
+		"leaderDescription": "1"
+	},
+
+	{
+		"id": "Worgen",
+		"type": "faction-alliance",
+		"title": "Воргены",
+		"description": "Страшное проклятие лежит над обитателями уединенного королевства Гилнеас, защищенного гигантской Стеной Седогрива. Многие из них, в прошлом честные и верные граждане, превратились в воргенов — свирепых хищников, полулюдей-полуволков. Спасаясь от проклятия и от армии жутких Отрекшихся, гилнеассцы обратились к ночным эльфам. Только с их помощью они наконец научились сдерживать свирепую волчью сущность. Но при малейшей угрозе Альянсу воргены готовы поддаться звериной ярости.",
+		"capital": "1",
+		"capitalImg": "/src/assets/img/races/bg/faction/alliance/details/human/capital.png",
+		"capitalDescription": "1",
+		"raceMount": "1",
+		"raceMountImg": "/src/assets/img/races/bg/faction/alliance/details/human/mount.png",
+		"raceMountDescription": "1",
+		"leader": "1",
+		"leaderImg": "/src/assets/img/races/bg/faction/alliance/details/human/leader.png",
+		"leaderDescription": "1"
+	},
+
+	{
+		"id": "Dwarf",
+		"type": "faction-alliance",
+		"title": "Дворфы",
+		"description": "Дворфы — древний народ, произошедший от земельников, существ из живого камня, созданных титанами еще на заре мира. Родом из неприступного Стальгорна в заснеженных горах Каз Модана, дворфы храбро сражаются во имя Альянса. В их громадной кузнице не стихает звон молотков, наполняющий город теплом и уютом. Стальгорн, высеченный в каменном сердце Каз Модана, олицетворяет силу и упорство дворфов.",
+		"capital": "1",
+		"capitalImg": "/src/assets/img/races/bg/faction/alliance/details/human/capital.png",
+		"capitalDescription": "1",
+		"raceMount": "1",
+		"raceMountImg": "/src/assets/img/races/bg/faction/alliance/details/human/mount.png",
+		"raceMountDescription": "1",
+		"leader": "1",
+		"leaderImg": "/src/assets/img/races/bg/faction/alliance/details/human/leader.png",
+		"leaderDescription": "1"
+	},
+
+	{
+		"id": "DarkIronDwarf",
+		"type": "faction-alliance",
+		"title": "Дворфы Черного Железа",
+		"description": "Дворфы Черного Железа известны суровым нравом и непоколебимым упорством, а их отношения с другими кланами далеко не всегда были дружескими. В результате провальной попытки переворота в Стальгорне началась Война Трех Кланов, и многие из них перешли на службу к Повелителю Огня Рагнаросу. Часть дворфов поддержала королеву-регента Мойру Тауриссан, но многие отказались присягать ей на верность. Альянс надеется объединить клан Черного Железа, чтобы завладеть силой азерита и добиться преимущества в борьбе с Ордой.",
+		"capital": "1",
+		"capitalImg": "/src/assets/img/races/bg/faction/alliance/details/human/capital.png",
+		"capitalDescription": "1",
+		"raceMount": "1",
+		"raceMountImg": "/src/assets/img/races/bg/faction/alliance/details/human/mount.png",
+		"raceMountDescription": "1",
+		"leader": "1",
+		"leaderImg": "/src/assets/img/races/bg/faction/alliance/details/human/leader.png",
+		"leaderDescription": "1"
+	},
+
+	{
+		"id": "EarthenAlliance",
+		"type": "faction-alliance",
+		"title": "Земельники",
+		"description": "Земельники — это существа, сотворенные титанами из живого камня и наполненные энергией души самой Азерот. Они живут в этом мире уже много тысячелетий, и лишь недавно освободились от запретов и эдиктов и отправились изучать мир. Исполненные любопытством, они готовы стать союзниками как для Альянса, так и для Орды.",
+		"capital": "Дорногал",
+		"capitalImg": "/src/assets/img/races/bg/faction/alliance/details/earthens/capital.webp",
+		"capitalDescription": "Гигантская крепость, выстроенная земельниками в самом сердце острова Дорн. Теперь это пристанище для отважных героев Альянса и Орды. Местные жители с радостью предоставят гостям много полезных услуг.",
+		"raceMount": "Сланцепородный Баранолит",
+		"raceMountImg": "/src/assets/img/races/bg/faction/alliance/details/earthens/mount.png",
+		"raceMountDescription": "Земельники-пастухи ценят этих существ за выносливость и рассказывают, что даже дождь не может намочить их блестящие шкуры.",
+		"leader": "Совет Дорногала",
+		"leaderImg": "/src/assets/img/races/bg/faction/alliance/details/earthens/leader.png",
+		"leaderDescription": "Совет Дорногала, заседающий в зале Основания, под руководством надзирателя Меррикса принимает решения, влияющие на судьбу всех земельников на острове Дорн."
+	},
+
+	{
+		"id": "Draenei",
+		"type": "faction-alliance",
+		"title": "Дренеи",
+		"description": "Дренеи бежали из Запределья — осколков их родного мира Дренора, разрушенного демонами. Когда их корабль разбился на Азероте, таинственные пришельцы обрели союзников в лице Альянса и поклялись вместе уничтожить общего врага — Пылающий Легион. После победы над Легионом дренеи просят благословенный Свет указать им новый путь.",
+		"capital": "1",
+		"capitalImg": "/src/assets/img/races/bg/faction/alliance/details/human/capital.png",
+		"capitalDescription": "1",
+		"raceMount": "1",
+		"raceMountImg": "/src/assets/img/races/bg/faction/alliance/details/human/mount.png",
+		"raceMountDescription": "1",
+		"leader": "1",
+		"leaderImg": "/src/assets/img/races/bg/faction/alliance/details/human/leader.png",
+		"leaderDescription": "1"
+	},
+
+	{
+		"id": "LightforgedDraenei",
+		"type": "faction-alliance",
+		"title": "Озаренные Дренеи",
+		"description": "На протяжении многих тысячелетий армия Света сражалась с полчищами Пылающего Легиона в Круговерти Пустоты. Самые преданные делу дренеи проходили особый ритуал, чтобы стать одним целым с энергией Света и войти в число озаренных. Когда озаренные одержали окончательную победу на Аргусе, у них появилась новая цель: защищать Азерот от любых угроз и помогать Альянсу в противостоянии Орде.",
+		"capital": "1",
+		"capitalImg": "/src/assets/img/races/bg/faction/alliance/details/human/capital.png",
+		"capitalDescription": "1",
+		"raceMount": "1",
+		"raceMountImg": "/src/assets/img/races/bg/faction/alliance/details/human/mount.png",
+		"raceMountDescription": "1",
+		"leader": "1",
+		"leaderImg": "/src/assets/img/races/bg/faction/alliance/details/human/leader.png",
+		"leaderDescription": "1"
+	},
+
+	{
+		"id": "DracthyrAlliance",
+		"type": "faction-alliance",
+		"title": "Драктиры",
+		"description": "Нелтарион, Хранитель Земли создал этих элитных солдат, наделив их сущностью драконов и быстрым умом смертных, а также способностью менять облик подобно своим старшим братьям. Освободившись от магического сна, драктиры столкнулись с новой угрозой, нависшей над Драконьими островами. Исследуя Запретный Край, они должны вернуть утраченные воспоминания и найти свое место в новом мире.",
+		"capital": "1",
+		"capitalImg": "/src/assets/img/races/bg/faction/alliance/details/human/capital.png",
+		"capitalDescription": "1",
+		"raceMount": "1",
+		"raceMountImg": "/src/assets/img/races/bg/faction/alliance/details/human/mount.png",
+		"raceMountDescription": "1",
+		"leader": "1",
+		"leaderImg": "/src/assets/img/races/bg/faction/alliance/details/human/leader.png",
+		"leaderDescription": "1"
+	},
+
+	{
+		"id": "NightElf",
+		"type": "faction-alliance",
+		"title": "Ночные Эльфы",
+		"description": "Древняя раса таинственных ночных эльфов, называющих себя калдорай, сыграла важнейшую роль в истории Азерота. Хотя теперь ночные эльфы сражаются за Альянс, они и поныне хранят в памяти события, произошедшие более десяти тысяч лет назад. А именно — Войну древних, когда им удалось остановить первое вторжение Пылающего Легиона в Азерот. Этот непримиримый народ будет до последнего бороться против темных сил, вновь посягающих на их священные земли.",
+		"capital": "1",
+		"capitalImg": "/src/assets/img/races/bg/faction/alliance/details/human/capital.png",
+		"capitalDescription": "1",
+		"raceMount": "1",
+		"raceMountImg": "/src/assets/img/races/bg/faction/alliance/details/human/mount.png",
+		"raceMountDescription": "1",
+		"leader": "1",
+		"leaderImg": "/src/assets/img/races/bg/faction/alliance/details/human/leader.png",
+		"leaderDescription": "1"
+	},
+
+	{
+		"id": "VoidElf",
+		"type": "faction-alliance",
+		"title": "Эльфы Бездны",
+		"description": "Многие пытались обуздать опасную магию Бездны, но для большинства это оканчивалось лишь безумием. Аллерия Ветрокрылая твердо намеревается использовать эту силу во благо Азерота, она стала первой смертной, неподвластной влиянию шепота теней. После того как ей удалось спасти группу собратьев, едва не сгинувших в объятиях тьмы, Аллерия поклялась научить эльфов Бездны держать темную силу под контролем. Она хочет добиться того, чтобы обретенная мощь служила Альянсу.",
+		"capital": "1",
+		"capitalImg": "/src/assets/img/races/bg/faction/alliance/details/human/capital.png",
+		"capitalDescription": "1",
+		"raceMount": "1",
+		"raceMountImg": "/src/assets/img/races/bg/faction/alliance/details/human/mount.png",
+		"raceMountDescription": "1",
+		"leader": "1",
+		"leaderImg": "/src/assets/img/races/bg/faction/alliance/details/human/leader.png",
+		"leaderDescription": "1"
+	},
+
+	{
+		"id": "PandarenAlliance",
+		"type": "faction-alliance",
+		"title": "Пандарены",
+		"description": "Загадочных пандаренов окружает множество тайн. Их мало кто видел, и еще меньше способны понять. История этого народа длится тысячи лет, они были еще до Раскола мира. Некогда рабы воинственной расы Могу, пандарены свергли угнетателей благодаря стойкости и особой технике боя, создав процветающую империю. Когда Пылающий Легион наводнил Азерот, последний Император спас свою землю, окутав ее непроницаемым туманом на десять тысяч лет. Но за это заплатил дорогой ценой — с былой безмятежностью и процветанием было покончено. Пандарены, следующие пути Тушуй, не признают полутонов, для них граница между добром и злом всегда ясна. Альянс разделяет те же убеждения, поэтому Тушуй решили поклясться в верности ему.",
+		"capital": "Святилище Семи Звезд",
+		"capitalImg": "/src/assets/img/races/bg/faction/alliance/details/human/capital.png",
+		"capitalDescription": "1",
+		"raceMount": "1",
+		"raceMountImg": "/src/assets/img/races/bg/faction/alliance/details/human/mount.png",
+		"raceMountDescription": "1",
+		"leader": "1",
+		"leaderImg": "/src/assets/img/races/bg/faction/alliance/details/human/leader.png",
+		"leaderDescription": "1"
+	},
+
+	{
+		"id": "Gnome",
+		"type": "faction-alliance",
+		"title": "Гномы",
+		"description": "Умные, дерзкие и подчас чудаковатые гномы — самая удивительная из цивилизованных рас Азерота. Оптимизм перед лицом несчастий как нельзя лучше характеризует непоколебимый дух этой расы. Их изобретательность может сравниться только с их непоколебимой верностью Альянсу.",
+		"capital": "1",
+		"capitalImg": "/src/assets/img/races/bg/faction/alliance/details/human/capital.png",
+		"capitalDescription": "1",
+		"raceMount": "1",
+		"raceMountImg": "/src/assets/img/races/bg/faction/alliance/details/human/mount.png",
+		"raceMountDescription": "1",
+		"leader": "1",
+		"leaderImg": "/src/assets/img/races/bg/faction/alliance/details/human/leader.png",
+		"leaderDescription": "1"
+	},
+
+	{
+		"id": "Mechagnome",
+		"type": "faction-alliance",
+		"title": "Мехагномы",
+		"description": "Много лет назад одна из фракций гномов задалась целью повысить свои физические и интеллектуальные возможности за счет древних технологий. Поселившись на уединенном острове Мехагон, гномы экспериментировали, пытаясь обратить проклятие плоти и превратиться в живые машины. Но полная механизация оказалась сопряжена с опасностями, и вместо этого они нашли идеальный баланс между плотью и металлом. Теперь, когда механогномы воссоединились со своими собратьями-гномами, их упорство и изобретательность хорошо послужат Альянсу.",
+		"capital": "1",
+		"capitalImg": "/src/assets/img/races/bg/faction/alliance/details/human/capital.png",
+		"capitalDescription": "1",
+		"raceMount": "1",
+		"raceMountImg": "/src/assets/img/races/bg/faction/alliance/details/human/mount.png",
+		"raceMountDescription": "1",
+		"leader": "1",
+		"leaderImg": "/src/assets/img/races/bg/faction/alliance/details/human/leader.png",
+		"leaderDescription": "1"
+	}
+]

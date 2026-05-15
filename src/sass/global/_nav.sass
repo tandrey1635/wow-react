@@ -1,0 +1,320 @@
+@use '../base/index' as *
+
+
+.nav__tabs
+	min-height: auto
+
+
+/** Логотип **/
+.navbar-brand
+	width: 350px
+	height: 165px
+	img
+		width: 100%
+		height: 100%
+
+/** Ссылки **/
+.navbar-light .navbar-nav .nav-link, .navbar-light .navbar-nav .show>.nav-link
+	padding: 0.65rem
+	margin: 10px
+	color: $mainColor
+	&:focus, &:hover
+		border-radius: 20px
+		background: $navLinkBg
+		color: $textColor
+		font-weight: 700
+		filter: brightness(125%)
+
+/** Поиск в шапке **/
+.form-inline .form-control
+	width: 500px
+	font-weight: 700
+	color: $mainColor
+	border: 1px solid $mainBorder
+.form-control
+	&::placeholder
+		color: $mainColor
+	&:focus
+		border: 2px solid $mainBorder
+		filter: brightness(125%)
+	&:focus::placeholder
+		color: $mainColor
+
+// Дроп меню
+.dropdown-menu
+	min-width: 0
+	width: 150px
+	border-radius: 10px
+	background: $dropMenuBg
+	filter: brightness(125%)
+.dropdown-item
+	border-radius: 10px
+	font-weight: 700
+	color: $textColor
+	&:active, &:focus, &:hover
+		background: $dropMenuBgSecond
+		color: $textColor
+
+/* Кнопка Входа и Регистрации */
+.nav__btn
+	margin: 10px
+	border-radius: 5px
+	color: $secondColor
+	padding: 10px
+	&:hover
+		filter: brightness(125%)
+	&-enter
+		background: $navBtnBgSecond
+		color: $mainColor
+		font-weight: 700
+
+
+
+/* Табы карточек */
+.nav-pills .nav-link
+	border-radius: 20px
+.nav-pills
+	gap: 15px
+.nav-link-tabs
+	text-align: center
+	color: $secondColor
+	background: $navLinkBg
+	&:hover
+		color: $textColor
+		filter: brightness(125%)
+
+
+
+
+
+/* Фон всех активных ссылок в нав меню */
+.nav-pills .nav-link.active
+	color: $textColor
+	background: $defaultBg
+	filter: brightness(125%)
+
+
+
+
+
+
+
+/* Реакт табы */
+.nav
+	min-height: 150px
+	&__wrapper
+		position: relative
+	&__tabs, &-tabs
+		border: none
+		display: grid
+		grid-template-columns: repeat(5, 1fr)
+		gap: 32px
+	&__menu, &-menu
+		@include absolute(50px)
+		padding: 10px
+		@include flexReverseAxios
+		gap: 16px
+		border-radius: 20px
+		background: $navMenuBg
+		box-shadow: 0 0 2px 2px $navMenuShadow
+		z-index: 10
+		&_dropdown, &-dropdown
+			width: 205px
+			height: 280px
+			overflow-y: scroll
+			&::-webkit-scrollbar
+				width: 0
+			.nav-link
+				font-weight: 700
+		&_races, &-races
+			top: -70px
+			left: 0
+			height: auto
+		&_faction
+			top: -125px
+			height: auto
+		&-raid-armours
+			left: 20.7%
+		&-weapons
+			left: 41.2%
+		&_mounts, &-mounts
+			height: auto
+		&-mounts
+			left: 82.5%
+		&-professions
+			top: 1.85%
+		&-achievements
+			top: 3.5%
+			left: 61.6%
+	&-item
+		min-height: 40px
+	&__list, &-link
+		@include flexCenter
+		min-width: 100px
+		padding: 7px 10px
+		min-height: 40px
+		border-radius: 20px!important
+		transition: none!important
+		border: none!important
+		box-shadow: none
+		outline: none!important
+		color: $secondColor
+		background: $navLinkBg
+		text-align: center
+		filter: brightness(125%)
+		font-size: 18px
+		text-shadow: 2px 2px 2px $defaultShadow
+		&.active, &:hover, &:focus
+			border: none!important
+			box-shadow: none
+			outline: none!important
+		&.active
+			color: $navLinkActiveColor!important
+			background: $defaultBg!important
+			box-shadow: 0 0 0 3px $navLinkActiveShadow
+		&:hover, &:focus
+			color: $navLinkActiveColor
+		&:hover
+			box-shadow: 0 0 0 3px $navLinkShadow
+		&-races
+			background: $racesnavLinkBg
+			&-horde
+				color: $hordeColor
+				background: $hordeBg
+				&:hover
+					box-shadow: 0 0 0 3px $hordeShadow
+			&-alliance
+				color: $allianceColor
+				background: $allianceBg
+				&:hover
+					box-shadow: 0 0 0 3px $allianceShadow
+		&-warrior
+			color: $warriorColor
+			background: $warriorBg
+			&:hover
+				box-shadow: 0 0 0 3px $warriorShadow
+		&-druid
+			color: $druidColor
+			background: $druidBg
+			&:hover
+				box-shadow: 0 0 0 3px $druidShadow
+		&-priest
+			color: $priestColor
+			background: $priestBg
+			&:hover
+				box-shadow: 0 0 0 3px $priestShadow
+		&-mage
+			color: $mageColor
+			background: $mageBg
+			&:hover
+				box-shadow: 0 0 0 3px $mageShadow
+		&-monk
+			color: $monkColor
+			background: $monkBg
+			&:hover
+				box-shadow: 0 0 0 3px $monkShadow
+		&-hunter
+			color: $hunterColor
+			background: $hunterBg
+			&:hover
+				box-shadow: 0 0 0 3px $hunterShadow
+		&-demon-hunter
+			color: $demonHunterColor
+			background: $demonHunterBg
+			&:hover
+				box-shadow: 0 0 0 3px $demonHunterShadow
+		&-paladin
+			color: $paladinColor
+			background: $paladinBg
+			&:hover
+				box-shadow: 0 0 0 3px $paladinShadow
+		&-awakener
+			color: $awakenerColor
+			background: $awakenerBg
+			&:hover
+				box-shadow: 0 0 0 3px $awakenerShadow
+		&-rogue
+			color: $rogueColor
+			background: $rogueBg
+			&:hover
+				box-shadow: 0 0 0 3px $rogueShadow
+		&-death-knight
+			color: $deathKnightColor
+			background: $deathKnightBg
+			&:hover
+				box-shadow: 0 0 0 3px $deathKnightShadow
+		&-warlock
+			color: $warlockColor
+			background: $warlockBg
+			&:hover
+				box-shadow: 0 0 0 3px $warlockShadow
+		&-shaman
+			color: $shamanColor
+			background: $shamanBg
+			&:hover
+				box-shadow: 0 0 0 3px $shamanShadow
+		&-weapons
+			color: $defaultColor
+			background: $defaultBg
+		&-legendary
+			color: $legendaryColor
+			background: $legendaryBg
+			&:hover
+				box-shadow: 0 0 0 3px $legendaryShadow
+		&-artifact
+			color: $artifactColor
+			background: $artifactBg
+		&-decorative
+			color: $decorativeColor
+			background: $decorativeBg
+			&:hover
+				box-shadow: 0 0 0 3px $decorativeShadow
+		&-mounts
+			&-water
+				color: $waterMountsColor
+				background: $waterMountsBg
+				&:hover
+					box-shadow: 0 0 0 3px $waterMountsShadow
+			&-earth
+				color: $earthMountsColor
+				background: $earthMountsBg
+				&:hover
+					box-shadow: 0 0 0 3px $earthMountsShadow
+			&-fly
+				color: $flyMountsColor
+				background: $flyMountsBg
+				&:hover
+					box-shadow: 0 0 0 3px $flyMountsShadow
+		&-professions
+			&-mining
+				color: $miningColor
+				background: $miningBg
+				&:hover
+					box-shadow: 0 0 0 3px $miningShadow
+			&-blacksmithing
+				color: $blacksmithingColor
+				background: $blacksmithingBg
+				&:hover
+					box-shadow: 0 0 0 3px $blacksmithingShadow
+			&-cooking
+				color: $cookingColor
+				background: $cookingBg
+				&:hover
+					box-shadow: 0 0 0 3px $cookingShadow
+			&-fishing
+				color: $fishingColor
+				background: $fishingBg
+				&:hover
+					box-shadow: 0 0 0 3px $fishingShadow
+		&-achievements
+			color: $achievementsColor
+			background: $achievementsBg
+			&:hover
+				box-shadow: 0 0 0 3px $achievementsShadow
+			&-great-feats
+				color: $greatFeatsColor
+				background: $greatFeatsBg
+				&:hover
+					box-shadow: 0 0 0 3px $greatFeatsShadow
+.tab-content
+	margin-top: 64px

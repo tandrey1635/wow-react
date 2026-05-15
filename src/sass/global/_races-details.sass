@@ -1,0 +1,47 @@
+@use '../base/index' as *
+
+
+.races
+	&__wrapper
+		gap: 64px
+	&__header, &__text
+		filter: brightness(125%)
+		color: $textColor
+		font-size: 32px
+		line-height: 1.2
+		font-weight: 700
+	&__header
+		font-size: 48px
+		@media ( max-width: 767.98px )
+			font-size: 56px
+		@media ( max-width: 676px )
+			font-size: 48px
+		@media ( max-width: 575.98px )
+			font-size: 42px
+		@media ( max-width: 480px )
+			font-size: 36px
+		@media ( max-width: 425px )
+			font-size: 32px
+		@media ( max-width: 375px )
+			font-size: 28px
+	&__text
+		font-size: 30px
+		@media ( max-width: 767.98px )
+			font-size: 28px
+		@media ( max-width: 676px )
+			font-size: 24px
+		@media ( max-width: 575.98px )
+			font-size: 20px
+		@media ( max-width: 480px )
+			font-size: 18px
+	&__horde
+		color: $hordeColor
+	&__alliance
+		color: $allianceColor
+	&__img
+		height: 600px
+		&_mount
+			width: 65%
+			height: 400px
+		&_leader
+			width: 40%

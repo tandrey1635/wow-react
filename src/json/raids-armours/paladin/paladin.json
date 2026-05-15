@@ -1,0 +1,456 @@
+[
+	{
+		"id": "DarkIronPlate",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/paladin/Dark-Iron-Plate-paladin.png",
+		"objectFit": false,
+		"title": "Броня из Черного Железа",
+		"description": "Броня выкованная в сердце вулкана на древней наковальне стихий из чешуи поверженных исполинов и кожи гончих преисподней из Огненных Недр дополнения",
+		"descriptionTrim": "Первая несокрушимая награда за покорение пекла. Повелитель Огня я иду за тобой! Потрясающая защита от магии огня!",
+		"addition": "Classic",
+		"price": 100
+	},
+
+	{
+		"id": "LawbringerArmor",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/paladin/Lawbringer-Armor.png",
+		"objectFit": false,
+		"title": "Доспехи Законника",
+		"description": "Первый комплект брони для паладина из рейда 60-го уровня Огненные Недра дополнения",
+		"descriptionTrim": "Повелитель Огня будет повержен! Очищение огнем пройдено!",
+		"addition": "Classic",
+		"price": 100
+	},
+
+	{
+		"id": "LawbringerArmorRecolor",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/paladin/Lawbringer-Armor-recolor.png",
+		"objectFit": false,
+		"title": "Доспехи Законника Путешественника из Другого Мира",
+		"description": "Кажется, сюда затесалась какая-то подозрительно похожая, но не родная броня из другого времени дополнения",
+		"descriptionTrim": "Альтернативный вариант прославленных доспехов, появившийся в иных измерениях Азерота. Обладает той же несокрушимой силой, что и оригинал, но несет в себе отпечаток другой истории.",
+		"addition": "Classic",
+		"price": 100
+	},
+
+	{
+		"id": "JudgmentArmor",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/paladin/Judgment-Armor.png",
+		"objectFit": false,
+		"title": "Доспехи Правосудия",
+		"description": "Второй комплект брони для паладина из рейда 60-го уровня Логово Крыла Тьмы дополнения",
+		"descriptionTrim": "Лорд Черной Горы будет повержен! Теперь вы почти бессмертны!",
+		"addition": "Classic",
+		"price": 100
+	},
+
+	{
+		"id": "JudgmentArmorRecolor",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/paladin/Judgment-Armor-recolor.png",
+		"objectFit": false,
+		"title": "Доспехи Правосудия Путешественника из Другого Мира",
+		"description": "Кажется, сюда затесалась какая-то подозрительно похожая, но не родная броня из другого времени дополнения",
+		"descriptionTrim": "Альтернативный вариант прославленных доспехов, появившийся в иных измерениях Азерота. Обладает той же несокрушимой силой, что и оригинал, но несет в себе отпечаток другой истории.",
+		"addition": "Classic",
+		"price": 100
+	},
+
+	{
+		"id": "AvengersBattlegear",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/paladin/Avengers-Battlegear.png",
+		"objectFit": false,
+		"title": "Броня Мстителя",
+		"description": "Комплект брони для паладина 2.5 из рейда 60-го уровня Храм Ан'Киража дополнения",
+		"descriptionTrim": "Владыка Ан'Киража будет повержен! Вы еще не мертвы!",
+		"addition": "Classic",
+		"price": 100
+	},
+
+	{
+		"id": "RedemptionArmor",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/paladin/Redemption-Armor.png",
+		"objectFit": false,
+		"title": "Доспехи Искупления",
+		"description": "Третий комплект брони для паладина из рейда 60-го уровня Наксрамас дополнения",
+		"descriptionTrim": "Верховный Лич будет повержен! Некромантия вам не страшна!",
+		"addition": "Classic",
+		"price": 100
+	},
+
+	{
+		"id": "PlateIcebaneSet",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/paladin/Plate-Icebane-Set-paladin.png",
+		"objectFit": false,
+		"title": "Латный Комплект Ледяной Погибели",
+		"description": "Награда за цепочку заданий исследования Наксрамаса дополнения",
+		"descriptionTrim": "Ледяной Змей будет повержен! Потрясающая защита от магии льда!",
+		"addition": "Classic",
+		"price": 100
+	},
+
+	{
+		"id": "TelhamatAnchoritesRaiment",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/paladin/Telhamat-Anchorites-Raiment-paladin.png",
+		"objectFit": false,
+		"title": "Облачение Телхаматского Анахорета",
+		"description": "Комплект брони в награду за путешествия во времени по подземельям дополнения",
+		"descriptionTrim": "Броня, дарованная Хранителями Времени за череду подвигов в их походах по лабиринтам вечности. Ваша броня закалена в схватках с аномалиями прошлого и будущего, а ее сталь несет несокрушимую мощь самого времени!",
+		"addition": "The Burning Crusade",
+		"price": 200
+	},
+
+	{
+		"id": "CrusadersOrnamentedBattlegear",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/paladin/Crusaders-Ornamented-Battlegear-paladin.png",
+		"objectFit": false,
+		"title": "Чешуйчатая Броня Рыцаря",
+		"description": "Комплект брони за репутацию у фракций Нижний город, Траллмар, Хранители Времени, Кенарийская экспедиция и Ша'тар дополнения",
+		"descriptionTrim": "Вы стали непоколебимым щитом Нижнего города, грозной ударной силой Запределья! Ваша броня несет несокрушимую мощь временных потоков, укреплена силой древних лесов и озарена светом Наару на пути к победе над тьмой!",
+		"addition": "The Burning Crusade",
+		"price": 200
+	},
+
+	{
+		"id": "RighteousArmor",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/paladin/Righteous-Armor-paladin.png",
+		"objectFit": false,
+		"title": "Броня Праведности",
+		"description": "Комплект брони из подземелий дополнения",
+		"descriptionTrim": "Броня, закаленная в героических походах по самым опасным подземельям Запределья, от огненных недр Кузницы Крови до кошмарных лабиринтов Гробниц Маны. Вы прошли через адский огонь и тенистую глушь, и теперь ваша сталь звенит песней побед!",
+		"addition": "The Burning Crusade",
+		"price": 200
+	},
+
+	{
+		"id": "JusticarArmor",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/paladin/Justicar-Armor.png",
+		"objectFit": false,
+		"title": "Доспехи Вершителя Правосудия",
+		"description": "Первый комплект брони для паладина из рейдов 70-го уровня Каражан, Логово Магтеридона и Логово Груула дополнения",
+		"descriptionTrim": "Принц Эредаров, Повелитель Преисподней и Огров будут повержены! Станьте его погибелью! Оберните кровь против него самого! Никакой пощады ограм!",
+		"addition": "The Burning Crusade",
+		"price": 200
+	},
+
+	{
+		"id": "JusticarArmorRecolor",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/paladin/Justicar-Armor-recolor.png",
+		"objectFit": false,
+		"title": "Доспехи Вершителя Правосудия Путешественника из Другого Мира",
+		"description": "Кажется, сюда затесалась какая-то подозрительно похожая, но не родная броня из другого времени дополнения",
+		"descriptionTrim": "Альтернативный вариант прославленных доспехов, появившийся в иных измерениях Азерота. Обладает той же несокрушимой силой, что и оригинал, но несет в себе отпечаток другой истории.",
+		"addition": "The Burning Crusade",
+		"price": 200
+	},
+
+	{
+		"id": "CrystalforgeArmor",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/paladin/Crystalforge-Armor.png",
+		"objectFit": false,
+		"title": "Доспехи Хрустальной Кузницы",
+		"description": "Второй комплект брони для паладина из рейдов 70-го уровня Змеиное святилище и Крепость Бурь дополнения",
+		"descriptionTrim": "Королева Наг и Принц Кель'Таласа будут повержены! Укажите место Королеве Наг положенное ей по праву! Теперь вы почувствуете вкус истинной мощи! За Кель'Талас!",
+		"addition": "The Burning Crusade",
+		"price": 200
+	},
+
+	{
+		"id": "CrystalforgeArmorRecolor",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/paladin/Crystalforge-Armor-recolor.png",
+		"objectFit": false,
+		"title": "Доспехи Хрустальной Кузницы Путешественника из Другого Мира",
+		"description": "Кажется, сюда затесалась какая-то подозрительно похожая, но не родная броня из другого времени дополнения",
+		"descriptionTrim": "Альтернативный вариант прославленных доспехов, появившийся в иных измерениях Азерота. Обладает той же несокрушимой силой, что и оригинал, но несет в себе отпечаток другой истории.",
+		"addition": "The Burning Crusade",
+		"price": 200
+	},
+
+	{
+		"id": "LightbringerArmor",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/paladin/Lightbringer-Armor.png",
+		"objectFit": false,
+		"title": "Доспехи Светоносного",
+		"description": "Третий комплект брони для паладина из рейдов 70-го уровня Гора Хиджал и Черный Храм дополнения",
+		"descriptionTrim": "Правитель Пылающего Легиона и Владыка Запределья будет повержен! Этот мир не сгорит! Теперь вы готовы!",
+		"addition": "The Burning Crusade",
+		"price": 200
+	},
+
+	{
+		"id": "LightbringerSunwellBattlegear",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/paladin/Lightbringer-Sunwell-Battlegear.png",
+		"objectFit": false,
+		"title": "Доспехи Светоносного Солнечного Колодца",
+		"description": "Четвертый комплект брони для паладина из рейда 70-го уровня Плато Солнечного Колодца дополнения",
+		"descriptionTrim": "Искуситель будет повержен! Оберните силу Солнечного Колодца против него самого!",
+		"addition": "The Burning Crusade",
+		"price": 200
+	},
+
+	{
+		"id": "RedemptionPlate",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/paladin/Redemption-Plate.png",
+		"objectFit": false,
+		"title": "Героический Доспех Искупления",
+		"description": "Первый комплект брони для паладина из рейда 80-го уровня Наксрамас 10 игроков дополнения",
+		"descriptionTrim": "Верховный Лич вернулся! И снова будет повержен! Некромантия вам не страшна!",
+		"addition": "Wrath of the Lich King",
+		"price": 300
+	},
+
+	{
+		"id": "ValorousRedemptionPlate",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/paladin/Valorous-Redemption-Plate.png",
+		"objectFit": false,
+		"title": "Доблестный Доспех Искупления",
+		"description": "Первый комплект брони для паладина из рейда 80-го уровня Наксрамас 25 игроков дополнения",
+		"descriptionTrim": "Верховный Лич вернулся! И снова будет повержен! Некромантия вам не страшна!",
+		"addition": "Wrath of the Lich King",
+		"price": 300
+	},
+
+	{
+		"id": "AegisBattlegear",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/paladin/Aegis-Battlegear.png",
+		"objectFit": false,
+		"title": "Доблестная Броня Покровительства",
+		"description": "Второй комплект брони для паладина из рейда 80-го уровня Осада Ульдуара 10 игроков дополнения",
+		"descriptionTrim": "Бог Смерти будет повержен! Невероятная защита от безумия!",
+		"addition": "Wrath of the Lich King",
+		"price": 300
+	},
+
+	{
+		"id": "AegisBattlegearRecolor",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/paladin/Aegis-Battlegear-recolor.png",
+		"objectFit": false,
+		"title": "Доблестная Броня Покровительства Путешественника из Другого Мира",
+		"description": "Кажется, сюда затесалась какая-то подозрительно похожая, но не родная броня из другого времени дополнения",
+		"descriptionTrim": "Альтернативный вариант прославленных доспехов, появившийся в иных измерениях Азерота. Обладает той же несокрушимой силой, что и оригинал, но несет в себе отпечаток другой истории.",
+		"addition": "Wrath of the Lich King",
+		"price": 300
+	},
+
+	{
+		"id": "ConquerorsAegisBattlegear",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/paladin/Conquerors-Aegis-Battlegear.png",
+		"objectFit": false,
+		"title": "Броня Покровительства Завоевателя",
+		"description": "Второй комплект брони для паладина из рейда 80-го уровня Осада Ульдуара 25 игроков дополнения",
+		"descriptionTrim": "Бог Смерти будет повержен! Невероятная защита от безумия!",
+		"addition": "Wrath of the Lich King",
+		"price": 300
+	},
+
+	{
+		"id": "ConquerorsAegisBattlegearRecolor",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/paladin/Conquerors-Aegis-Battlegear-recolor.png",
+		"objectFit": false,
+		"title": "Броня Покровительства Завоевателя Путешественника из Другого Мира",
+		"description": "Кажется, сюда затесалась какая-то подозрительно похожая, но не родная броня из другого времени дополнения",
+		"descriptionTrim": "Альтернативный вариант прославленных доспехов, появившийся в иных измерениях Азерота. Обладает той же несокрушимой силой, что и оригинал, но несет в себе отпечаток другой истории.",
+		"addition": "Wrath of the Lich King",
+		"price": 300
+	},
+
+	{
+		"id": "TuralyonsPlate",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/paladin/Turalyons-Plate.png",
+		"objectFit": false,
+		"title": "Доспехи Туралиона",
+		"description": "Третий комплект брони для паладина из рейда 80-го уровня Испытание Крестоносца 10 и 25 игроков только для Альянса дополнения",
+		"descriptionTrim": "Король Азжол-Неруба будет повержен! Слава Чемпионам Серебряного Авангарда!",
+		"addition": "Wrath of the Lich King",
+		"price": 300
+	},
+
+	{
+		"id": "LiadrinsBattlegear",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/paladin/Liadrins-Battlegear.png",
+		"objectFit": false,
+		"title": "Броня Завоеваний Лиадрин",
+		"description": "Третий комплект брони для паладина из рейда 80-го уровня Испытание Крестоносца 10 и 25 игроков только для Орды дополнения",
+		"descriptionTrim": "Король Азжол-Неруба будет повержен! Слава Чемпионам Серебряного Авангарда!",
+		"addition": "Wrath of the Lich King",
+		"price": 300
+	},
+
+	{
+		"id": "LightswornBattlegear",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/paladin/Lightsworn-Battlegear.png",
+		"objectFit": false,
+		"title": "Броня Клятвы Свету",
+		"description": "Четвертый комплект брони для паладина из рейда 80-го уровня Цитадель Ледяной Короны 10 игроков обычного уровня сложности дополнения",
+		"descriptionTrim": "Король Лич будет повержен! Эту Броню носит сам Верховный Лорд Тирион Фордринг! Свет защитит вас!",
+		"addition": "Wrath of the Lich King",
+		"price": 300
+	},
+
+	{
+		"id": "SanctifiedLightswornBattlegear25Normal",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/paladin/Sanctified-Lightsworn-Battlegear-25-normal.png",
+		"objectFit": false,
+		"title": "Освященная Броня Клятвы Свету",
+		"description": "Четвертый комплект брони для паладина из рейда 80-го уровня Цитадель Ледяной Короны 10 или 25 игроков героического/обычного уровня сложности дополнения",
+		"descriptionTrim": "Король Лич будет повержен! Эту Броню носит сам Верховный Лорд Тирион Фордринг! Свет защитит вас!",
+		"addition": "Wrath of the Lich King",
+		"price": 300
+	},
+
+	{
+		"id": "SanctifiedLightswornBattlegear25Heroic",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/paladin/Sanctified-Lightsworn-Battlegear-25-heroic.png",
+		"objectFit": false,
+		"title": "Освященная Броня Клятвы Свету",
+		"description": "Четвертый комплект брони для паладина из рейда 80-го уровня Цитадель Ледяной Короны 25 игроков героического уровня сложности дополнения",
+		"descriptionTrim": "Король Лич будет повержен! Эту Броню носит сам Верховный Лорд Тирион Фордринг! Свет защитит вас!",
+		"addition": "Wrath of the Lich King",
+		"price": 300
+	},
+
+	{
+		"id": "ReinforcedSapphiriumBattleplateNormal",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/paladin/Reinforced-Sapphirium-Battleplate-normal.png",
+		"objectFit": false,
+		"title": "Усиленный Сапфировый Боевой Доспех",
+		"description": "Первый комплект брони для паладина из рейдов 85-го уровня Твердыня Крыла Тьмы, Сумеречный Бастион и Трон Четырех Ветров обычного уровня сложности дополнения",
+		"descriptionTrim": "Лорд Черной Горы, Вождь клана Сумеречного Молота и Повелитель ветра будут повержены! Культ Сумеречного Молота вам больше не страшен! Доспехи в стиле Подземья!",
+		"addition": "Cataclysm",
+		"price": 500
+	},
+
+	{
+		"id": "ReinforcedSapphiriumBattleplateHeroic",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/paladin/Reinforced-Sapphirium-Battleplate-heroic.png",
+		"objectFit": false,
+		"title": "Усиленный Сапфировый Боевой Доспех",
+		"description": "Первый комплект брони для паладина из рейдов 85-го уровня Твердыня Крыла Тьмы, Сумеречный Бастион и Трон Четырех Ветров героического уровня сложности дополнения",
+		"descriptionTrim": "Лорд Черной Горы, Вождь клана Сумеречного Молота и Повелитель ветра будут повержены! Культ Сумеречного Молота вам больше не страшен! Доспехи в стиле Подземья!",
+		"addition": "Cataclysm",
+		"price": 500
+	},
+
+	{
+		"id": "BattleplateOfImmolationNormal",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/paladin/Battleplate-of-Immolation-normal.png",
+		"objectFit": false,
+		"title": "Обжигающий Боевой Доспех",
+		"description": "Второй комплект брони для паладина из рейда 85-го уровня Огненные Просторы обычного уровня сложности дополнения",
+		"descriptionTrim": "Повелитель Огня вернулся! И снова будет повержен! Вы неуязвимы для пламени Сульфурона!",
+		"addition": "Cataclysm",
+		"price": 500
+	},
+
+	{
+		"id": "BattleplateOfImmolationHeroic",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/paladin/Battleplate-of-Immolation-heroic.png",
+		"objectFit": false,
+		"title": "Обжигающий Боевой Доспех",
+		"description": "Второй комплект брони для паладина из рейда 85-го уровня Огненные Просторы героического уровня сложности дополнения",
+		"descriptionTrim": "Повелитель Огня вернулся! И снова будет повержен! Вы неуязвимы для пламени Сульфурона!",
+		"addition": "Cataclysm",
+		"price": 500
+	},
+
+	{
+		"id": "BattleplateOfRadiantGloryRaidFinder",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/paladin/Battleplate-of-Radiant-Glory-raid-finder.png",
+		"objectFit": false,
+		"title": "Боевой Доспех Блистательной Славы",
+		"description": "Третий комплект брони для паладина из рейда 85-го уровня Душа Дракона режима поиска рейдов дополнения",
+		"descriptionTrim": "Аспект Смерти, Разрушитель Миров будет повержен! Броня из Чешуи самого Смертокрыла, освященная в горниле Света! Катаклизм отменяется!",
+		"addition": "Cataclysm",
+		"price": 500
+	},
+
+	{
+		"id": "BattleplateOfRadiantGloryNormal",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/paladin/Battleplate-of-Radiant-Glory-normal.png",
+		"objectFit": false,
+		"title": "Боевой Доспех Блистательной Славы",
+		"description": "Третий комплект брони для паладина из рейда 85-го уровня Душа Дракона обычного уровня сложности дополнения",
+		"descriptionTrim": "Аспект Смерти, Разрушитель Миров будет повержен! Броня из Чешуи самого Смертокрыла, освященная в горниле Света! Катаклизм отменяется!",
+		"addition": "Cataclysm",
+		"price": 500
+	},
+
+	{
+		"id": "BattleplateOfRadiantGloryHeroic",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/paladin/Battleplate-of-Radiant-Glory-heroic.png",
+		"objectFit": false,
+		"title": "Боевой Доспех Блистательной Славы",
+		"description": "Третий комплект брони для паладина из рейда 85-го уровня Душа Дракона героического уровня сложности дополнения",
+		"descriptionTrim": "Аспект Смерти, Разрушитель Миров будет повержен! Броня из Чешуи самого Смертокрыла, освященная в горниле Света! Катаклизм отменяется!",
+		"addition": "Cataclysm",
+		"price": 500
+	}
+]

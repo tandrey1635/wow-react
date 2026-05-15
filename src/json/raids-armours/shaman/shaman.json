@@ -1,0 +1,456 @@
+[
+	{
+		"id": "InfernoForgedMail",
+		"type": "shaman",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/mail/shaman/Inferno-Forged-Mail-shaman.png",
+		"objectFit": false,
+		"title": "Инфернальная Кованая Кольчуга",
+		"description": "Броня выкованная в сердце вулкана на древней наковальне стихий из чешуи поверженных исполинов и кожи гончих преисподней из Огненных Недр дополнения",
+		"descriptionTrim": "Первая несокрушимая награда за покорение пекла. Повелитель Огня я иду за тобой! Потрясающая защита от магии огня!",
+		"addition": "Classic",
+		"price": 100
+	},
+
+	{
+		"id": "Earthfury",
+		"type": "shaman",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/shaman/Earthfury.png",
+		"objectFit": false,
+		"title": "Ярость Земли",
+		"description": "Первый комплект брони для шамана из рейда 60-го уровня Огненные Недра дополнения",
+		"descriptionTrim": "Повелитель Огня будет повержен! Очищение огнем пройдено!",
+		"addition": "Classic",
+		"price": 100
+	},
+
+	{
+		"id": "EarthfuryRecolor",
+		"type": "shaman",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/shaman/Earthfury-recolor.png",
+		"objectFit": false,
+		"title": "Ярость Земли Путешественника из Другого Мира",
+		"description": "Кажется, сюда затесалась какая-то подозрительно похожая, но не родная броня из другого времени дополнения",
+		"descriptionTrim": "Альтернативный вариант прославленных доспехов, появившийся в иных измерениях Азерота. Обладает той же несокрушимой силой, что и оригинал, но несет в себе отпечаток другой истории.",
+		"addition": "Classic",
+		"price": 100
+	},
+
+	{
+		"id": "TenStorms",
+		"type": "shaman",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/shaman/Ten-Storms.png",
+		"objectFit": false,
+		"title": "Десять Бурь",
+		"description": "Второй комплект брони для шамана из рейда 60-го уровня Логово Крыла Тьмы дополнения",
+		"descriptionTrim": "Лорд Черной Горы будет повержен! Теперь ваша сила стихий вызывает катаклизмы!",
+		"addition": "Classic",
+		"price": 100
+	},
+
+	{
+		"id": "TenStormsRecolor",
+		"type": "shaman",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/shaman/Ten-Storms-recolor.png",
+		"objectFit": false,
+		"title": "Десять Бурь Путешественника из Другого Мира",
+		"description": "Кажется, сюда затесалась какая-то подозрительно похожая, но не родная броня из другого времени дополнения",
+		"descriptionTrim": "Альтернативный вариант прославленных доспехов, появившийся в иных измерениях Азерота. Обладает той же несокрушимой силой, что и оригинал, но несет в себе отпечаток другой истории.",
+		"addition": "Classic",
+		"price": 100
+	},
+
+	{
+		"id": "StormcallersGarb",
+		"type": "shaman",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/shaman/Stormcallers-Garb.png",
+		"objectFit": false,
+		"title": "Одеяния Зовущего Бурю",
+		"description": "Комплект брони для шамана 2.5 из рейда 60-го уровня Храм Ан'Киража дополнения",
+		"descriptionTrim": "Владыка Ан'Киража будет повержен! Вы еще не мертвы!",
+		"addition": "Classic",
+		"price": 100
+	},
+
+	{
+		"id": "Earthshatterer",
+		"type": "shaman",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/shaman/Earthshatterer.png",
+		"objectFit": false,
+		"title": "Регалии Землекрушителя",
+		"description": "Третий комплект брони для шамана из рейда 60-го уровня Наксрамас дополнения",
+		"descriptionTrim": "Верховный Лич будет повержен! Некромантия вам не страшна!",
+		"addition": "Classic",
+		"price": 100
+	},
+
+	{
+		"id": "IcyScaleMailSet",
+		"type": "shaman",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/mail/shaman/Icy-Scale-Mail-Set-shaman.png",
+		"objectFit": false,
+		"title": "Кольчужный Комплект из Ледяной Чешуи",
+		"description": "Награда за цепочку заданий исследования Наксрамаса дополнения",
+		"descriptionTrim": "Ледяной Змей будет повержен! Потрясающая защита от магии льда!",
+		"addition": "Classic",
+		"price": 100
+	},
+
+	{
+		"id": "BoulderfistMysticsBattlegear",
+		"type": "shaman",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/mail/shaman/Boulderfist-Mystics-Battlegear-shaman.png",
+		"objectFit": false,
+		"title": "Боевое Снаряжение Мистика из Клана Тяжелого Кулака",
+		"description": "Комплект брони в награду за путешествия во времени по подземельям дополнения",
+		"descriptionTrim": "Броня, дарованная Хранителями Времени за череду подвигов в их походах по лабиринтам вечности. Ваша броня закалена в схватках с аномалиями прошлого и будущего, а ее сталь несет несокрушимую мощь самого времени!",
+		"addition": "The Burning Crusade",
+		"price": 200
+	},
+
+	{
+		"id": "SeersMailBattlegear",
+		"type": "shaman",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/mail/shaman/Seers-Mail-Battlegear-shaman.png",
+		"objectFit": false,
+		"title": "Кольчужная Броня Провидца",
+		"description": "Комплект брони за репутацию у фракций Нижний город, Траллмар, Хранители Времени, Кенарийская экспедиция и Ша'тар дополнения",
+		"descriptionTrim": "Вы стали непоколебимым щитом Нижнего города, грозной ударной силой Запределья! Ваша броня несет несокрушимую мощь временных потоков, укреплена силой древних лесов и озарена светом Наару на пути к победе над тьмой!",
+		"addition": "The Burning Crusade",
+		"price": 200
+	},
+
+	{
+		"id": "TidefuryRaiment",
+		"type": "shaman",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/mail/shaman/Tidefury-Raiment-shaman.png",
+		"objectFit": false,
+		"title": "Одеяния Яростного Прилива",
+		"description": "Комплект брони из подземелий дополнения",
+		"descriptionTrim": "Броня, закаленная в героических походах по самым опасным подземельям Запределья, от огненных недр Кузницы Крови до кошмарных лабиринтов Гробниц Маны. Вы прошли через адский огонь и тенистую глушь, и теперь ваша сталь звенит песней побед!",
+		"addition": "The Burning Crusade",
+		"price": 200
+	},
+
+	{
+		"id": "CycloneRegalia",
+		"type": "shaman",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/shaman/Cyclone-Regalia.png",
+		"objectFit": false,
+		"title": "Регалии Смерча",
+		"description": "Первый комплект брони для шамана из рейдов 70-го уровня Каражан, Логово Магтеридона и Логово Груула дополнения",
+		"descriptionTrim": "Принц Эредаров, Повелитель Преисподней и Огров будут повержены! Станьте его погибелью! Оберните кровь против него самого! Никакой пощады ограм!",
+		"addition": "The Burning Crusade",
+		"price": 200
+	},
+
+	{
+		"id": "CataclysmRegalia",
+		"type": "shaman",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/shaman/Cataclysm-Regalia.png",
+		"objectFit": false,
+		"title": "Регалии Катаклизма",
+		"description": "Второй комплект брони для шамана из рейдов 70-го уровня Змеиное святилище и Крепость Бурь дополнения",
+		"descriptionTrim": "Королева Наг и Принц Кель'Таласа будут повержены! Укажите место Королеве Наг положенное ей по праву! Теперь вы почувствуете вкус истинной мощи! За Кель'Талас!",
+		"addition": "The Burning Crusade",
+		"price": 200
+	},
+
+	{
+		"id": "CataclysmRegaliaRecolor",
+		"type": "shaman",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/shaman/Cataclysm-Regalia-recolor.png",
+		"objectFit": false,
+		"title": "Регалии Катаклизма Путешественника из Другого Мира",
+		"description": "Кажется, сюда затесалась какая-то подозрительно похожая, но не родная броня из другого времени дополнения",
+		"descriptionTrim": "Альтернативный вариант прославленных доспехов, появившийся в иных измерениях Азерота. Обладает той же несокрушимой силой, что и оригинал, но несет в себе отпечаток другой истории.",
+		"addition": "The Burning Crusade",
+		"price": 200
+	},
+
+	{
+		"id": "SkyshatterRegalia",
+		"type": "shaman",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/shaman/Skyshatter-Regalia.png",
+		"objectFit": false,
+		"title": "Регалии Небокрушителя",
+		"description": "Третий комплект брони для шамана из рейдов 70-го уровня Гора Хиджал и Черный Храм дополнения",
+		"descriptionTrim": "Правитель Пылающего Легиона и Владыка Запределья будет повержен! Этот мир не сгорит! Теперь вы готовы!",
+		"addition": "The Burning Crusade",
+		"price": 200
+	},
+
+	{
+		"id": "SkyshatterRegaliaRecolor",
+		"type": "shaman",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/shaman/Skyshatter-Regalia-recolor.png",
+		"objectFit": false,
+		"title": "Регалии Небокрушителя Путешественника из Другого Мира",
+		"description": "Кажется, сюда затесалась какая-то подозрительно похожая, но не родная броня из другого времени дополнения",
+		"descriptionTrim": "Альтернативный вариант прославленных доспехов, появившийся в иных измерениях Азерота. Обладает той же несокрушимой силой, что и оригинал, но несет в себе отпечаток другой истории.",
+		"addition": "The Burning Crusade",
+		"price": 200
+	},
+
+	{
+		"id": "SkyshatterSunwellRaiment",
+		"type": "shaman",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/shaman/Skyshatter-Sunwell-Raiment.png",
+		"objectFit": false,
+		"title": "Регалии Небокрушителя Солнечного Колодца",
+		"description": "Четвертый комплект брони для шамана из рейда 70-го уровня Плато Солнечного Колодца дополнения",
+		"descriptionTrim": "Искуситель будет повержен! Оберните силу Солнечного Колодца против него самого!",
+		"addition": "The Burning Crusade",
+		"price": 200
+	},
+
+	{
+		"id": "HeroesEarthshatterRegalia",
+		"type": "shaman",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/shaman/Heroes-Earthshatter-Regalia.png",
+		"objectFit": false,
+		"title": "Героические Регалии Землекрушителя",
+		"description": "Первый комплект брони для шамана из рейда 80-го уровня Наксрамас 10 игроков дополнения",
+		"descriptionTrim": "Верховный Лич вернулся! И снова будет повержен! Некромантия вам не страшна!",
+		"addition": "Wrath of the Lich King",
+		"price": 300
+	},
+
+	{
+		"id": "ValorousEarthshatterRegalia",
+		"type": "shaman",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/shaman/Valorous-Earthshatter-Regalia.png",
+		"objectFit": false,
+		"title": "Доблестные Регалии Землекрушителя",
+		"description": "Первый комплект брони для шамана из рейда 80-го уровня Наксрамас 25 игроков дополнения",
+		"descriptionTrim": "Верховный Лич вернулся! И снова будет повержен! Некромантия вам не страшна!",
+		"addition": "Wrath of the Lich King",
+		"price": 300
+	},
+
+	{
+		"id": "ValorousWorldbreakerRegalia",
+		"type": "shaman",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/shaman/Valorous-Worldbreaker-Regalia.png",
+		"objectFit": false,
+		"title": "Доблестные Регалии Разрушителя Миров",
+		"description": "Второй комплект брони для шамана из рейда 80-го уровня Осада Ульдуара 10 игроков дополнения",
+		"descriptionTrim": "Бог Смерти будет повержен! Невероятная защита от безумия!",
+		"addition": "Wrath of the Lich King",
+		"price": 300
+	},
+
+	{
+		"id": "ValorousWorldbreakerRegaliaRecolor",
+		"type": "shaman",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/shaman/Valorous-Worldbreaker-Regalia-recolor.png",
+		"objectFit": false,
+		"title": "Доблестные Регалии Разрушителя Миров Путешественника из Другого Мира",
+		"description": "Кажется, сюда затесалась какая-то подозрительно похожая, но не родная броня из другого времени дополнения",
+		"descriptionTrim": "Альтернативный вариант прославленных доспехов, появившийся в иных измерениях Азерота. Обладает той же несокрушимой силой, что и оригинал, но несет в себе отпечаток другой истории.",
+		"addition": "Wrath of the Lich King",
+		"price": 300
+	},
+
+	{
+		"id": "ConquerorsWorldbreakerRegalia",
+		"type": "shaman",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/shaman/Conquerors-Worldbreaker-Regalia.png",
+		"objectFit": false,
+		"title": "Регалии Разрушающего Миры Завоевателя",
+		"description": "Второй комплект брони для шамана из рейда 80-го уровня Осада Ульдуара 25 игроков дополнения",
+		"descriptionTrim": "Бог Смерти будет повержен! Невероятная защита от безумия!",
+		"addition": "Wrath of the Lich King",
+		"price": 300
+	},
+
+	{
+		"id": "ConquerorsWorldbreakerRegaliaRecolor",
+		"type": "shaman",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/shaman/Conquerors-Worldbreaker-Regalia-recolor.png",
+		"objectFit": false,
+		"title": "Регалии Разрушающего Миры Завоевателя Путешественника из Другого Мира",
+		"description": "Кажется, сюда затесалась какая-то подозрительно похожая, но не родная броня из другого времени дополнения",
+		"descriptionTrim": "Альтернативный вариант прославленных доспехов, появившийся в иных измерениях Азерота. Обладает той же несокрушимой силой, что и оригинал, но несет в себе отпечаток другой истории.",
+		"addition": "Wrath of the Lich King",
+		"price": 300
+	},
+
+	{
+		"id": "ThrallsBattlegear",
+		"type": "shaman",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/shaman/Thralls-Battlegear.png",
+		"objectFit": false,
+		"title": "Доспехи Тралла",
+		"description": "Третий комплект брони для шамана из рейда 80-го уровня Испытание Крестоносца 10 и 25 игроков только для Орды дополнения",
+		"descriptionTrim": "Король Азжол-Неруба будет повержен! Слава Чемпионам Серебряного Авангарда!",
+		"addition": "Wrath of the Lich King",
+		"price": 300
+	},
+
+	{
+		"id": "NobundosBattlegear",
+		"type": "shaman",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/shaman/Nobundos-Battlegear.png",
+		"objectFit": false,
+		"title": "Доспехи Нобундо",
+		"description": "Третий комплект брони для шамана из рейда 80-го уровня Испытание Крестоносца 10 и 25 игроков только для Альянса дополнения",
+		"descriptionTrim": "Король Азжол-Неруба будет повержен! Слава Чемпионам Серебряного Авангарда!",
+		"addition": "Wrath of the Lich King",
+		"price": 300
+	},
+
+	{
+		"id": "FrostWitchsRegalia",
+		"type": "shaman",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/shaman/Frost-Witchs-Regalia.png",
+		"objectFit": false,
+		"title": "Регалии Ледяной Ведьмы",
+		"description": "Четвертый комплект брони для шамана из рейда 80-го уровня Цитадель Ледяной Короны 10 игроков обычного уровня сложности дополнения",
+		"descriptionTrim": "Король Лич будет повержен! Эту Броню носит сам Верховный Вождь Орды Тралл! Свет защитит вас!",
+		"addition": "Wrath of the Lich King",
+		"price": 300
+	},
+
+	{
+		"id": "SanctifiedFrostWitchsRegalia25Normal",
+		"type": "shaman",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/shaman/Sanctified-Frost-Witchs-Regalia-25-normal.png",
+		"objectFit": false,
+		"title": "Освященные Регалии Ледяной Ведьмы",
+		"description": "Четвертый комплект брони для шамана из рейда 80-го уровня Цитадель Ледяной Короны 10 или 25 игроков героического/обычного уровня сложности дополнения",
+		"descriptionTrim": "Король Лич будет повержен! Эту Броню носит сам Верховный Вождь Орды Тралл! Свет защитит вас!",
+		"addition": "Wrath of the Lich King",
+		"price": 300
+	},
+
+	{
+		"id": "SanctifiedFrostWitchsRegalia25Heroic",
+		"type": "shaman",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/shaman/Sanctified-Frost-Witchs-Regalia-25-heroic.png",
+		"objectFit": false,
+		"title": "Освященные Регалии Ледяной Ведьмы",
+		"description": "Четвертый комплект брони для шамана из рейда 80-го уровня Цитадель Ледяной Короны 25 игроков героического уровня сложности дополнения",
+		"descriptionTrim": "Король Лич будет повержен! Эту Броню носит сам Верховный Вождь Орды Тралл! Свет защитит вас!",
+		"addition": "Wrath of the Lich King",
+		"price": 300
+	},
+
+	{
+		"id": "RegaliaOfTheRagingElementsNormal",
+		"type": "shaman",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/shaman/Regalia-of-the-Raging-Elements-normal.png",
+		"objectFit": false,
+		"title": "Регалии Бушующих Стихий",
+		"description": "Первый комплект брони для шамана из рейдов 85-го уровня Твердыня Крыла Тьмы, Сумеречный Бастион и Трон Четырех Ветров обычного уровня сложности дополнения",
+		"descriptionTrim": "Лорд Черной Горы, Вождь клана Сумеречного Молота и Повелитель ветра будут повержены! Культ Сумеречного Молота вам больше не страшен! Доспехи в стиле Подземья!",
+		"addition": "Cataclysm",
+		"price": 500
+	},
+
+	{
+		"id": "RegaliaOfTheRagingElementsHeroic",
+		"type": "shaman",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/shaman/Regalia-of-the-Raging-Elements-heroic.png",
+		"objectFit": false,
+		"title": "Регалии Бушующих Стихий",
+		"description": "Первый комплект брони для шамана из рейдов 85-го уровня Твердыня Крыла Тьмы, Сумеречный Бастион и Трон Четырех Ветров героического уровня сложности дополнения",
+		"descriptionTrim": "Лорд Черной Горы, Вождь клана Сумеречного Молота и Повелитель ветра будут повержены! Культ Сумеречного Молота вам больше не страшен! Доспехи в стиле Подземья!",
+		"addition": "Cataclysm",
+		"price": 500
+	},
+
+	{
+		"id": "VolcanicRegaliaNormal",
+		"type": "shaman",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/shaman/Volcanic-Regalia-normal.png",
+		"objectFit": false,
+		"title": "Вулканические Регалии",
+		"description": "Второй комплект брони для шамана из рейда 85-го уровня Огненные Просторы обычного уровня сложности дополнения",
+		"descriptionTrim": "Повелитель Огня вернулся! И снова будет повержен! Вы неуязвимы для пламени Сульфурона!",
+		"addition": "Cataclysm",
+		"price": 500
+	},
+
+	{
+		"id": "VolcanicRegaliaHeroic",
+		"type": "shaman",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/shaman/Volcanic-Regalia-heroic.png",
+		"objectFit": false,
+		"title": "Вулканические Регалии",
+		"description": "Второй комплект брони для шамана из рейда 85-го уровня Огненные Просторы героического уровня сложности дополнения",
+		"descriptionTrim": "Повелитель Огня вернулся! И снова будет повержен! Вы неуязвимы для пламени Сульфурона!",
+		"addition": "Cataclysm",
+		"price": 500
+	},
+
+	{
+		"id": "SpiritwalkersRegaliaRaidFinder",
+		"type": "shaman",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/shaman/Spiritwalkers-Regalia-raid-finder.png",
+		"objectFit": false,
+		"title": "Регалии Духовного Пути",
+		"description": "Третий комплект брони для шамана из рейда 85-го уровня Душа Дракона режима поиска рейдов дополнения",
+		"descriptionTrim": "Аспект Смерти, Разрушитель Миров будет повержен! Броня из Чешуи самого Смертокрыла, закаленная в вихрях бушующих стихий и покрытая черепами древних драконьих духов прародителей! Катаклизм отменяется!",
+		"addition": "Cataclysm",
+		"price": 500
+	},
+
+	{
+		"id": "SpiritwalkersRegaliaNormal",
+		"type": "shaman",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/shaman/Spiritwalkers-Regalia-normal.png",
+		"objectFit": false,
+		"title": "Регалии Духовного Пути",
+		"description": "Третий комплект брони для шамана из рейда 85-го уровня Душа Дракона обычного уровня сложности дополнения",
+		"descriptionTrim": "Аспект Смерти, Разрушитель Миров будет повержен! Броня из Чешуи самого Смертокрыла, закаленная в вихрях бушующих стихий и покрытая черепами древних драконьих духов прародителей! Катаклизм отменяется!",
+		"addition": "Cataclysm",
+		"price": 500
+	},
+
+	{
+		"id": "SpiritwalkersRegaliaHeroic",
+		"type": "shaman",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/shaman/Spiritwalkers-Regalia-heroic.png",
+		"objectFit": false,
+		"title": "Регалии Духовного Пути",
+		"description": "Третий комплект брони для шамана из рейда 85-го уровня Душа Дракона героического уровня сложности дополнения",
+		"descriptionTrim": "Аспект Смерти, Разрушитель Миров будет повержен! Броня из Чешуи самого Смертокрыла, закаленная в вихрях бушующих стихий и покрытая черепами древних драконьих духов прародителей! Катаклизм отменяется!",
+		"addition": "Cataclysm",
+		"price": 500
+	}
+]

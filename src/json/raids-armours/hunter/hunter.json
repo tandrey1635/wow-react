@@ -1,0 +1,235 @@
+[
+	{
+		"id": "InfernoForgedMail",
+		"type": "hunter",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/mail/hunter/Inferno-Forged-Mail-hunter.png",
+		"objectFit": false,
+		"title": "Инфернальная Кованая Кольчуга",
+		"description": "Броня выкованная в сердце вулкана на древней наковальне стихий из чешуи поверженных исполинов и кожи гончих преисподней из Огненных Недр дополнения",
+		"descriptionTrim": "Первая несокрушимая награда за покорение пекла. Повелитель Огня я иду за тобой! Потрясающая защита от магии огня!",
+		"addition": "Classic",
+		"price": 100
+	},
+
+	{
+		"id": "GiantstalkerArmor",
+		"type": "hunter",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/hunter/Giantstalker-Armor.png",
+		"objectFit": false,
+		"title": "Доспехи Истребителя Великанов",
+		"description": "Первый комплект брони для охотника из рейда 60-го уровня Огненные Недра дополнения",
+		"descriptionTrim": "Повелитель Огня будет повержен! Очищение огнем пройдено!",
+		"addition": "Classic",
+		"price": 100
+	},
+
+	{
+		"id": "GiantstalkerArmorRecolor",
+		"type": "hunter",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/hunter/Giantstalker-Armor-recolor.png",
+		"objectFit": false,
+		"title": "Доспехи Истребителя Великанов Путешественника из Другого Мира",
+		"description": "Кажется, сюда затесалась какая-то подозрительно похожая, но не родная броня из другого времени дополнения",
+		"descriptionTrim": "Альтернативный вариант прославленных доспехов, появившийся в иных измерениях Азерота. Обладает той же несокрушимой силой, что и оригинал, но несет в себе отпечаток другой истории.",
+		"addition": "Classic",
+		"price": 100
+	},
+
+	{
+		"id": "DragonstalkerArmor",
+		"type": "hunter",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/hunter/Dragonstalker-Armor.png",
+		"objectFit": false,
+		"title": "Доспехи Охотника на Драконов",
+		"description": "Второй комплект брони для охотника из рейда 60-го уровня Логово Крыла Тьмы дополнения",
+		"descriptionTrim": "Лорд Черной Горы будет повержен! Теперь ваше оружие незнает преград!",
+		"addition": "Classic",
+		"price": 100
+	},
+
+	{
+		"id": "DragonstalkerArmorGreen",
+		"type": "hunter",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/hunter/Dragonstalker-Armor-green.png",
+		"objectFit": false,
+		"title": "Доспехи Охотника на Драконов Путешественника из Другого Мира",
+		"description": "Кажется, сюда затесалась какая-то подозрительно похожая, но не родная броня из другого времени дополнения",
+		"descriptionTrim": "Альтернативный вариант прославленных доспехов, появившийся в иных измерениях Азерота. Обладает той же несокрушимой силой, что и оригинал, но несет в себе отпечаток другой истории.",
+		"addition": "Classic",
+		"price": 100
+	},
+
+	{
+		"id": "DragonstalkerArmorYellow",
+		"type": "hunter",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/hunter/Dragonstalker-Armor-yellow.png",
+		"objectFit": false,
+		"title": "Доспехи Охотника на Драконов Путешественника из Другого Мира",
+		"description": "Кажется, сюда затесалась какая-то подозрительно похожая, но не родная броня из другого времени дополнения",
+		"descriptionTrim": "Альтернативный вариант прославленных доспехов, появившийся в иных измерениях Азерота. Обладает той же несокрушимой силой, что и оригинал, но несет в себе отпечаток другой истории.",
+		"addition": "Classic",
+		"price": 100
+	},
+
+	{
+		"id": "StrikersGarb",
+		"type": "hunter",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/hunter/Strikers-Garb.png",
+		"objectFit": false,
+		"title": "Одеяния Бойца",
+		"description": "Комплект брони для охотника 2.5 из рейда 60-го уровня Храм Ан'Киража дополнения",
+		"descriptionTrim": "Владыка Ан'Киража будет повержен! Вы еще не мертвы!",
+		"addition": "Classic",
+		"price": 100
+	},
+
+	{
+		"id": "CryptstalkerArmor",
+		"type": "hunter",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/hunter/Cryptstalker-Armor.png",
+		"objectFit": false,
+		"title": "Доспехи Расхитителя Гробниц",
+		"description": "Третий комплект брони для охотника из рейда 60-го уровня Наксрамас дополнения",
+		"descriptionTrim": "Верховный Лич будет повержен! Некромантия вам не страшна!",
+		"addition": "Classic",
+		"price": 100
+	},
+
+	{
+		"id": "IcyScaleMailSet",
+		"type": "hunter",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/mail/hunter/Icy-Scale-Mail-Set-hunter.png",
+		"objectFit": false,
+		"title": "Кольчужный Комплект из Ледяной Чешуи",
+		"description": "Награда за цепочку заданий исследования Наксрамаса дополнения",
+		"descriptionTrim": "Ледяной Змей будет повержен! Потрясающая защита от магии льда!",
+		"addition": "Classic",
+		"price": 100
+	},
+
+	{
+		"id": "BoulderfistMysticsBattlegear",
+		"type": "hunter",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/mail/hunter/Boulderfist-Mystics-Battlegear-hunter.png",
+		"objectFit": false,
+		"title": "Боевое Снаряжение Мистика из Клана Тяжелого Кулака",
+		"description": "Комплект брони в награду за путешествия во времени по подземельям дополнения",
+		"descriptionTrim": "Броня, дарованная Хранителями Времени за череду подвигов в их походах по лабиринтам вечности. Ваша броня закалена в схватках с аномалиями прошлого и будущего, а ее сталь несет несокрушимую мощь самого времени!",
+		"addition": "The Burning Crusade",
+		"price": 200
+	},
+
+	{
+		"id": "SeersMailBattlegear",
+		"type": "hunter",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/mail/hunter/Seers-Mail-Battlegear-hunter.png",
+		"objectFit": false,
+		"title": "Кольчужная Броня Провидца",
+		"description": "Комплект брони за репутацию у фракций Нижний город, Траллмар, Хранители Времени, Кенарийская экспедиция и Ша'тар дополнения",
+		"descriptionTrim": "Вы стали непоколебимым щитом Нижнего города, грозной ударной силой Запределья! Ваша броня несет несокрушимую мощь временных потоков, укреплена силой древних лесов и озарена светом Наару на пути к победе над тьмой!",
+		"addition": "The Burning Crusade",
+		"price": 200
+	},
+
+	{
+		"id": "TidefuryRaiment",
+		"type": "hunter",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/mail/hunter/Tidefury-Raiment-hunter.png",
+		"objectFit": false,
+		"title": "Одеяния Яростного Прилива",
+		"description": "Комплект брони из подземелий дополнения",
+		"descriptionTrim": "Броня, закаленная в героических походах по самым опасным подземельям Запределья, от огненных недр Кузницы Крови до кошмарных лабиринтов Гробниц Маны. Вы прошли через адский огонь и тенистую глушь, и теперь ваша сталь звенит песней побед!",
+		"addition": "The Burning Crusade",
+		"price": 200
+	},
+
+	{
+		"id": "DemonStalkerArmor",
+		"type": "hunter",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/hunter/Demon-Stalker-Armor.png",
+		"objectFit": false,
+		"title": "Доспехи Ловчего Демонов",
+		"description": "Первый комплект брони для охотника из рейдов 70-го уровня Каражан, Логово Магтеридона и Логово Груула дополнения",
+		"descriptionTrim": "Принц Эредаров, Повелитель Преисподней и Огров будут повержены! Станьте его погибелью! Оберните кровь против него самого! Никакой пощады ограм!",
+		"addition": "The Burning Crusade",
+		"price": 200
+	},
+
+	{
+		"id": "RiftStalkerArmor",
+		"type": "hunter",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/hunter/Rift-Stalker-Armor.png",
+		"objectFit": false,
+		"title": "Доспехи Следопыта Ущелий",
+		"description": "Второй комплект брони для охотника из рейдов 70-го уровня Змеиное святилище и Крепость Бурь дополнения",
+		"descriptionTrim": "Королева Наг и Принц Кель'Таласа будут повержены! Укажите место Королеве Наг положенное ей по праву! Теперь вы почувствуете вкус истинной мощи! За Кель'Талас!",
+		"addition": "The Burning Crusade",
+		"price": 200
+	},
+
+	{
+		"id": "RiftStalkerArmorRecolor",
+		"type": "hunter",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/hunter/Rift-Stalker-Armor-recolor.png",
+		"objectFit": false,
+		"title": "Доспехи Следопыта Ущелий Путешественника из Другого Мира",
+		"description": "Кажется, сюда затесалась какая-то подозрительно похожая, но не родная броня из другого времени дополнения",
+		"descriptionTrim": "Альтернативный вариант прославленных доспехов, появившийся в иных измерениях Азерота. Обладает той же несокрушимой силой, что и оригинал, но несет в себе отпечаток другой истории.",
+		"addition": "The Burning Crusade",
+		"price": 200
+	},
+
+	{
+		"id": "GronnstalkersArmor",
+		"type": "hunter",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/hunter/Gronnstalkers-Armor.png",
+		"objectFit": false,
+		"title": "Доспехи Охотника на Гроннов",
+		"description": "Третий комплект брони для охотника из рейдов 70-го уровня Гора Хиджал и Черный Храм дополнения",
+		"descriptionTrim": "Правитель Пылающего Легиона и Владыка Запределья будет повержен! Этот мир не сгорит! Теперь вы готовы!",
+		"addition": "The Burning Crusade",
+		"price": 200
+	},
+
+	{
+		"id": "GronnstalkersSunwellBattlegear",
+		"type": "hunter",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/hunter/Gronnstalkers-Sunwell-Battlegear.png",
+		"objectFit": false,
+		"title": "Доспехи Охотника на Гроннов Солнечного Колодца",
+		"description": "Четвертый комплект брони для охотника из рейда 70-го уровня Плато Солнечного Колодца дополнения",
+		"descriptionTrim": "Искуситель будет повержен! Оберните силу Солнечного Колодца против него самого!",
+		"addition": "The Burning Crusade",
+		"price": 200
+	},
+
+	{
+		"id": "GronnstalkersSunwellBattlegearRecolor",
+		"type": "hunter",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/hunter/Gronnstalkers-Sunwell-Battlegear-recolor.png",
+		"objectFit": false,
+		"title": "Доспехи Охотника на Гроннов Солнечного Колодца из Другого Мира",
+		"description": "Кажется, сюда затесалась какая-то подозрительно похожая, но не родная броня из другого времени дополнения",
+		"descriptionTrim": "Альтернативный вариант прославленных доспехов, появившийся в иных измерениях Азерота. Обладает той же несокрушимой силой, что и оригинал, но несет в себе отпечаток другой истории.",
+		"addition": "The Burning Crusade",
+		"price": 200
+	}
+]

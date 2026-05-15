@@ -1,0 +1,61 @@
+[
+	{
+		"id": "Uldir",
+		"type": "dungeons-raids-battle-for-azeroth",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/raids/battle-for-azeroth/Uldir.jpg",
+		"objectFit": false,
+		"title": "Ульдир",
+		"description": "Рейд для игроков 120 уровня дополнения",
+		"addition": "Battle for Azeroth",
+		"price": 400
+	},
+
+	{
+		"id": "BattleOfDazaralor",
+		"type": "dungeons-raids-battle-for-azeroth",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/raids/battle-for-azeroth/Battle-of-Dazaralor.jpg",
+		"objectFit": false,
+		"title": "Битва за Дазар'алор",
+		"description": "Рейд для игроков 120 уровня дополнения",
+		"addition": "Battle for Azeroth",
+		"price": 410
+	},
+
+	{
+		"id": "CrucibleOfStorms",
+		"type": "dungeons-raids-battle-for-azeroth",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/raids/battle-for-azeroth/Crucible-of-Storms.jpg",
+		"objectFit": false,
+		"title": "Горнило Штормов",
+		"description": "Рейд для игроков 120 уровня дополнения",
+		"addition": "Battle for Azeroth",
+		"price": 420
+	},
+
+	{
+		"id": "EternalPalace",
+		"type": "dungeons-raids-battle-for-azeroth",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/raids/battle-for-azeroth/Eternal-Palace.jpg",
+		"objectFit": false,
+		"title": "Вечный Дворец",
+		"description": "Рейд для игроков 120 уровня дополнения",
+		"addition": "Battle for Azeroth",
+		"price": 430
+	},
+
+	{
+		"id": "NyalothaTheWakingCity",
+		"type": "dungeons-raids-battle-for-azeroth",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/raids/battle-for-azeroth/Nyalotha-the-Waking-City.jpg",
+		"objectFit": false,
+		"title": "Ни'алота, Пробуждающийся Город",
+		"description": "Рейд для игроков 120 уровня дополнения",
+		"addition": "Battle for Azeroth",
+		"price": 440
+	}
+]

@@ -1,0 +1,46 @@
+[
+	{
+		"id": "Balance",
+		"type": "druid",
+		"path": "",
+		"img": "/src/assets/img/promo/bg/classes/druid/Balance.jpg",
+		"objectFit": false,
+		"title": "Баланс",
+		"description": "Закажите артефакты для Друида Баланса",
+		"price": 800
+	},
+
+	{
+		"id": "Feral",
+		"type": "druid",
+		"path": "",
+		"img": "/src/assets/img/promo/bg/classes/druid/Feral.jpg",
+		"objectFit": false,
+		"title": "Сила Зверя",
+		"description": "Закажите артефакты для Друида Силы Зверя",
+		"price": 800
+	},
+
+	{
+		"id": "Guardian",
+		"type": "druid",
+		"path": "",
+		"img": "/src/assets/img/promo/bg/classes/druid/Guardian.jpg",
+		"objectFit": false,
+		"title": "Страж",
+		"description": "Закажите артефакты для Друида Стража",
+		"price": 800
+	},
+
+	{
+		"id": "Restoration",
+		"type": "druid",
+		"path": "",
+		"img": "/src/assets/img/promo/bg/classes/druid/Restoration.jpg",
+		"objectFit": false,
+		"title": "Исцеление",
+		"description": "Закажите артефакты для Друида Исцеления",
+		"price": 800
+	}
+
+]

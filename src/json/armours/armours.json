@@ -1,0 +1,56 @@
+[
+	{
+		"id": "LegendaryArmours",
+		"type": "legendary",
+		"path": "armours/legendary",
+		"cardImg": "/src/assets/img/promo/bg/armours/shields.png",
+		"objectFit": false,
+		"title": "Легендарная Броня",
+		"description": "Закажите любую легендарную броню",
+		"price": 500
+	},
+
+	{
+		"id": "Shields",
+		"type": "armours",
+		"path": "armours/shields",
+		"img": "/src/assets/img/promo/bg/armours/shields.png",
+		"objectFit": false,
+		"title": "Щиты",
+		"description": "Закажите любой щит",
+		"price": 300
+	},
+
+	{
+		"id": "Cloaks",
+		"type": "armours",
+		"path": "armours/cloaks",
+		"cardImg": "/src/assets/img/promo/bg/armours/cloaks.png",
+		"objectFit": false,
+		"title": "Плащи",
+		"description": "Плащи — бесшумные спутники героев. Воплощение грации и скрытности. Для тех, кто знает, что иногда лучше остаться незамеченным. Скрывают движения, хранят тайны и добавляют величия даже самому скромному силуэту.",
+		"price": 300
+	},
+
+	{
+		"id": "Tabards",
+		"type": "armours",
+		"path": "armours/tabards",
+		"cardImg": "/src/assets/img/promo/bg/armours/tabards.png",
+		"objectFit": false,
+		"title": "Гербовые Накидки",
+		"description": "Закажите любую гербовую накидку",
+		"price": 300
+	},
+
+	{
+		"id": "Shirts",
+		"type": "armours",
+		"path": "armours/shirts",
+		"cardImg": "/src/assets/img/promo/bg/armours/shirts.png",
+		"objectFit": false,
+		"title": "Рубашки",
+		"description": "Закажите любую рубашку",
+		"price": 300
+	}
+]

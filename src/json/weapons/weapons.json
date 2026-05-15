@@ -1,0 +1,67 @@
+[
+	{
+		"id": "OneHandedWeapons",
+		"type": "weapons",
+		"path": "weapons/one-handed",
+		"cardImg": "/src/assets/img/promo/bg/weapons/one-handed.png",
+		"objectFit": false,
+		"title": "Одноручное оружие",
+		"description": "Закажите любое одноручное оружие",
+		"price": 300
+	},
+
+	{
+		"id": "TwoHandedWeapons",
+		"type": "weapons",
+		"path": "weapons/two-handed",
+		"cardImg": "/src/assets/img/promo/bg/weapons/two-handed.png",
+		"objectFit": false,
+		"title": "Двуручное оружие",
+		"description": "Закажите любое двуручное оружие",
+		"price": 300
+	},
+
+	{
+		"id": "RangeWeapons",
+		"type": "weapons",
+		"path": "weapons/range",
+		"cardImg": "/src/assets/img/promo/bg/weapons/range.png",
+		"objectFit": false,
+		"title": "Оружие дальнего боя",
+		"description": "Закажите любое оружие дальнего боя",
+		"price": 300
+	},
+
+	{
+		"id": "LegendaryWeapons",
+		"type": "legendary",
+		"path": "weapons/legendary",
+		"img": "/src/assets/img/promo/bg/weapons/legendary.png",
+		"objectFit": true,
+		"title": "Легендарное Оружие",
+		"description": "Легендарное оружие Азерота. Воплощение силы и славы. Наследие героев, изменивших мир.",
+		"price": 500
+	},
+
+	{
+		"id": "ArtifactWeapons",
+		"type": "artifact",
+		"path": "weapons/artifact",
+		"cardImg": "/src/assets/img/promo/bg/weapons/artifact.png",
+		"objectFit": false,
+		"title": "Артефакты Legion",
+		"description": "Закажите любое артефактное оружие",
+		"price": 800
+	},
+
+	{
+		"id": "DecorativeWeapons",
+		"type": "decorative",
+		"path": "weapons/decorative",
+		"img": "/src/assets/img/promo/bg/weapons/decorative.png",
+		"objectFit": false,
+		"title": "Декоративное Оружие",
+		"description": "Кружка пива, факел, грабли, лопата и копье. Набор настоящего героя: выпить после рейда, осветить подвал, вскопать грядку и, на всякий случай, вооружиться.",
+		"price": 1000
+	}
+]

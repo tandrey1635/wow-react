@@ -1,0 +1,453 @@
+@use '../base/index' as *
+
+/* Фон цена, заголовок, кнопка у карточек */
+.card
+	width: 23rem
+	transition: 0.5s all
+	border-radius: 0.8rem
+	border: none
+	color: $defaultColor
+	background: $defaultBg
+	[alt]
+		padding: 10px
+		text-shadow: 2px 2px 2px $defaultShadow
+		color: $defaultColor
+	&:hover
+		transition: 0.5s all
+		transform: scale(1.05)
+		box-shadow: 0 0 2px 5px $defaultShadow
+	&-races
+		position: relative
+		background: $racesBg
+	&-horde
+		color: $hordeColor
+		background: $hordeBg
+		[alt]
+			color: $hordeColor
+		&:hover
+			box-shadow: 0 0 2px 5px $hordeShadow
+	&-alliance
+		color: $allianceColor
+		background: $allianceBg
+		[alt]
+			color: $allianceColor
+		&:hover
+			box-shadow: 0 0 2px 5px $allianceShadow
+	&-warrior
+		color: $warriorColor
+		background: $warriorBg
+		[alt]
+			color: $warriorColor
+		&:hover
+			box-shadow: 0 0 2px 5px $warriorShadow
+	&-druid
+		color: $druidColor
+		background: $druidBg
+		[alt]
+			color: $druidColor
+		&:hover
+			box-shadow: 0 0 2px 5px $druidShadow
+	&-priest
+		color: $priestColor
+		background: $priestBg
+		[alt]
+			color: $priestColor
+		&:hover
+			box-shadow: 0 0 2px 5px $priestShadow
+	&-mage
+		color: $mageColor
+		background: $mageBg
+		[alt]
+			color: $mageColor
+		&:hover
+			box-shadow: 0 0 2px 5px $mageShadow
+	&-monk
+		color: $monkColor
+		background: $monkBg
+		[alt]
+			color: $monkColor
+		&:hover
+			box-shadow: 0 0 2px 5px $monkShadow
+	&-hunter
+		color: $hunterColor
+		background: $hunterBg
+		[alt]
+			color: $hunterColor
+		&:hover
+			box-shadow: 0 0 2px 5px $hunterShadow
+	&-demon-hunter
+		color: $demonHunterColor
+		background: $demonHunterBg
+		[alt]
+			color: $demonHunterColor
+		&:hover
+			box-shadow: 0 0 2px 5px $demonHunterShadow
+	&-paladin
+		color: $paladinColor
+		background: $paladinBg
+		[alt]
+			color: $paladinColor
+		&:hover
+			box-shadow: 0 0 2px 5px $paladinShadow
+	&-awakener
+		color: $awakenerColor
+		background: $awakenerBg
+		[alt]
+			color: $awakenerColor
+		&:hover
+			box-shadow: 0 0 2px 5px $awakenerShadow
+	&-rogue
+		color: $rogueColor
+		background: $rogueBg
+		[alt]
+			color: $rogueColor
+		&:hover
+			box-shadow: 0 0 2px 5px $rogueShadow
+	&-death-knight
+		color: $deathKnightColor
+		background: $deathKnightBg
+		[alt]
+			color: $deathKnightColor
+		&:hover
+			box-shadow: 0 0 2px 5px $deathKnightShadow
+	&-warlock
+		color: $warlockColor
+		background: $warlockBg
+		[alt]
+			color: $warlockColor
+		&:hover
+			box-shadow: 0 0 2px 5px $warlockShadow
+	&-shaman
+		color: $shamanColor
+		background: $shamanBg
+		[alt]
+			color: $shamanColor
+		&:hover
+			box-shadow: 0 0 2px 5px $shamanShadow
+	&-legendary
+		color: $legendaryColor
+		background: $legendaryBg
+		[alt]
+			color: $legendaryColor
+		&:hover
+			box-shadow: 0 0 2px 5px $legendaryShadow
+	&-artifact
+		background: $artifactBg
+		color: $artifactColor
+		[alt]
+			color: $artifactColor
+		&:hover
+			box-shadow: 0 0 2px 5px $artifactShadow
+	&-decorative
+		color: $decorativeColor
+		background: $decorativeBg
+		[alt]
+			color: $decorativeColor
+		&:hover
+			box-shadow: 0 0 2px 5px $decorativeShadow
+	&-armours
+		background: $defaultBg
+		[alt]
+			color: $armoursColor
+	&-mounts
+		&-water
+			color: $waterMountsColor
+			background: $waterMountsBg
+			[alt]
+				color: $waterMountsColor
+			&:hover
+				box-shadow: 0 0 2px 5px $waterMountsShadow
+		&-earth
+			color: $earthMountsColor
+			background: $earthMountsBg
+			[alt]
+				color: $earthMountsColor
+			&:hover
+				box-shadow: 0 0 2px 5px $earthMountsShadow
+		&-fly
+			color: $flyMountsColor
+			background: $flyMountsBg
+			[alt]
+				color: $flyMountsColor
+			&:hover
+				box-shadow: 0 0 2px 5px $flyMountsShadow
+	&-professions
+		background: $defaultBg
+	&-mining
+		color: $miningColor
+		background: $miningBg
+		[alt]
+			color: $miningColor
+		&:hover
+			box-shadow: 0 0 2px 5px $miningShadow
+	&-blacksmithing
+		color: $blacksmithingColor
+		background: $blacksmithingBg
+		[alt]
+			color: $blacksmithingColor
+		&:hover
+			box-shadow: 0 0 2px 5px $blacksmithingShadow
+	&-cooking
+		color: $cookingColor
+		background: $cookingBg
+		[alt]
+			color: $cookingColor
+		&:hover
+			box-shadow: 0 0 2px 5px $cookingShadow
+	&-fishing
+		color: $fishingColor
+		background: $fishingBg
+		[alt]
+			color: $fishingColor
+		&:hover
+			box-shadow: 0 0 2px 5px $fishingShadow
+	&-pvp
+		background: $pvpBg
+		&:hover
+			box-shadow: 0 0 2px 5px $pvpCardHoverShadow
+	&-dungeons-raids
+		&-classic
+			color: $classicColor
+			background: $classicBg
+			&_color
+				color: $classicSecondColor
+			[alt]
+				color: $classicColor
+			&:hover
+				box-shadow: 0 0 2px 5px $classicShadow
+		&-burning-crusade
+			color: $burningCrusadeColor
+			background: $burningCrusadeBg
+			&_color
+				color: $burningCrusadeSecondColor
+			[alt]
+				color: $burningCrusadeColor
+			&:hover
+				box-shadow: 0 0 2px 5px $burningCrusadeShadow
+		&-wrath-of-the-lich-king
+			color: $wrathOfTheLichKingColor
+			background: $wrathOfTheLichKingBg
+			&_color
+				color: $wrathOfTheLichKingSecondColor
+			[alt]
+				color: $wrathOfTheLichKingColor
+			&:hover
+				box-shadow: 0 0 2px 5px $wrathOfTheLichKingShadow
+		&-cataclysm
+			color: $cataclysmColor
+			background: $cataclysmBg
+			&_color
+				color: $cataclysmSecondColor
+			[alt]
+				color: $cataclysmColor
+			&:hover
+				box-shadow: 0 0 2px 5px $cataclysmShadow
+		&-mists-of-pandaria
+			color: $mistsOfPandariaColor
+			background: $mistsOfPandariaBg
+			&_color
+				color: $mistsOfPandariaSecondColor
+			[alt]
+				color: $mistsOfPandariaColor
+			&:hover
+				box-shadow: 0 0 2px 5px $mistsOfPandariaShadow
+		&-warlords-of-draenor
+			color: $warlordsOfDraenorColor
+			background: $warlordsOfDraenorBg
+			&_color
+				color: $warlordsOfDraenorSecondColor
+			[alt]
+				color: $warlordsOfDraenorColor
+			&:hover
+				box-shadow: 0 0 2px 5px $warlordsOfDraenorShadow
+		&-legion
+			color: $legionColor
+			background: $legionBg
+			&_color
+				color: $legionSecondColor
+			[alt]
+				color: $legionColor
+			&:hover
+				box-shadow: 0 0 2px 5px $legionShadow
+		&-battle-for-azeroth
+			color: $battleForAzerothColor
+			background: $battleForAzerothBg
+			&_color
+				color: $battleForAzerothSecondColor
+			[alt]
+				color: $battleForAzerothColor
+			&:hover
+				box-shadow: 0 0 2px 5px $battleForAzerothShadow
+		&-shadowlands
+			color: $shadowlandsColor
+			background: $shadowlandsBg
+			&_color
+				color: $shadowlandsSecondColor
+			[alt]
+				color: $shadowlandsColor
+			&:hover
+				box-shadow: 0 0 2px 5px $shadowlandsShadow
+		&-dragonflight
+			color: $dragonflightColor
+			background: $dragonflightBg
+			&_color
+				color: $dragonflightSecondColor
+			[alt]
+				color: $dragonflightColor
+			&:hover
+				box-shadow: 0 0 2px 5px $dragonflightShadow
+		&-war-within
+			color: $warWithinColor
+			background: $warWithinBg
+			&_color
+				color: $warWithinSecondColor
+			[alt]
+				color: $warWithinColor
+			&:hover
+				box-shadow: 0 0 2px 5px $warWithinShadow
+		&-midnight
+			color: $midnightColor
+			background: $midnightBg
+			&_color
+				color: $midnightSecondColor
+			[alt]
+				color: $midnightColor
+			&:hover
+				box-shadow: 0 0 2px 5px $midnightShadow
+		&-last-titan
+			color: $lastTitanColor
+			background: $lastTitanBg
+			&_color
+				color: $lastTitanSecondColor
+			[alt]
+				color: $lastTitanColor
+			&:hover
+				box-shadow: 0 0 2px 5px $lastTitanShadow
+	&-achievements
+		color: $achievementsColor
+		background: $achievementsBg
+		[alt]
+			color: $achievementsColor
+		&:hover
+			box-shadow: 0 0 2px 5px $achievementsShadow
+		&-great-feats
+			color: $greatFeatsColor
+			background: $greatFeatsBg
+			[alt]
+				color: $greatFeatsColor
+			&:hover
+				box-shadow: 0 0 2px 5px $greatFeatsShadow
+	&-buy
+		width: 100%
+		&:hover
+			transform: scale(1)
+	@media (max-width: 991.98px)
+		width: 30rem
+.card-box, .cards__wrapper
+	column-gap: 1.4rem
+	row-gap: 2rem
+
+.card-img
+	width: 100%
+	height: 450px
+	transition: 0.5s all
+	filter: drop-shadow(0 0 2px $defaultShadow)
+	&:hover
+		transition: 0.5s all
+		transform: scale(1.05)
+	&-object-fit
+		object-fit: contain
+	&-tiers
+		border-radius: 0.8rem
+	&-achievements
+		border-radius: 50%
+		transition: 0.5s all
+		&:hover
+			transform: scale(1)
+			border-radius: 0
+.card-link
+	display: inline-block
+.card-title
+	font-weight: 900
+	font-style: italic
+	line-height: 1
+	min-height: 160px
+	text-shadow: 2px 2px 2px $defaultShadow
+	font-size: 32px
+	transition: 0.5s all
+	filter: drop-shadow(0 0 2px $defaultShadow)
+	@media ( max-width:  991.98px)
+		min-height: auto
+	&:hover
+		transition: 0.5s all
+		transform: scale(1.1)
+	&-races
+		background: $racesColor
+		background-clip: text
+		color: transparent
+	&-buy
+		color: $mainColor
+		min-height: 0
+		margin-bottom: 0
+		&:hover
+			transform: scale(1)
+			cursor: $cursorAction
+.card-text
+	font-weight: 900
+	font-style: italic
+	font-size: 20px
+	transition: 0.5s all
+	text-shadow: 2px 2px 2px $defaultShadow
+	filter: drop-shadow(0 0 2px $defaultShadow)
+	&:hover
+		transform: scale(1.05)
+		transition: 0.5s all
+	&-races
+		background: $racesColor
+		background-clip: text
+		color: transparent
+	&-buy
+		&:hover
+			transform: scale(1)
+.card-footer
+	margin-bottom: 1rem
+	border: none
+	background: transparent
+.card-price
+	font-weight: 700
+	font-size: 28px
+	transition: 0.5s all
+	text-shadow: 2px 2px 2px $defaultShadow
+	filter: drop-shadow(2px 2px 2px $defaultShadow)
+	cursor: $cursorText
+	[alt]
+		padding: 0
+	&:hover
+		transition: 0.5s all
+		transform: scale(1.1)
+	&-races
+		background: $racesColor
+		background-clip: text
+		color: transparent
+.card-btn
+	padding: 8px
+	border-radius: 5px
+	text-shadow: 2px 2px 2px $defaultShadow
+	font-weight: 700
+	transition: 0.5s all
+	border: 1px solid $defaultBorder
+	box-shadow: 5px 5px 10px $defaultShadow
+	background: $defaultBtnBg
+	color: $defaultBtn
+	filter: drop-shadow(0 0 2px $defaultShadow)
+	&:hover
+		transition: 0.5s all
+		transform: scale(1.1)
+		color: $defaultBtn
+	&-buy
+		width: 10%
+// Картинка золота в цене
+.gold, .dollar
+	margin-left: 10px
+	width: 36px
+	height: 36px

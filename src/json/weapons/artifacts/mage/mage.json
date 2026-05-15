@@ -1,0 +1,34 @@
+[
+	{
+		"id": "Arcane",
+		"type": "mage",
+		"path": "",
+		"img": "/src/assets/img/promo/bg/classes/mage/Arcane.jpg",
+		"objectFit": false,
+		"title": "Тайная Магия",
+		"description": "Закажите артефакты для Мага Тайной Магии",
+		"price": 800
+	},
+
+	{
+		"id": "Fire",
+		"type": "mage",
+		"path": "",
+		"img": "/src/assets/img/promo/bg/classes/mage/Fire.jpg",
+		"objectFit": false,
+		"title": "Огонь",
+		"description": "Закажите артефакты для Мага Огня",
+		"price": 800
+	},
+
+	{
+		"id": "Frost",
+		"type": "mage",
+		"path": "",
+		"img": "/src/assets/img/promo/bg/classes/mage/Frost.jpg",
+		"objectFit": false,
+		"title": "Лед",
+		"description": "Закажите артефакты для Мага Льда",
+		"price": 800
+	}
+]

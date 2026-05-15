@@ -1,0 +1,133 @@
+[
+	{
+		"id": "Classic",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/wow-collection-editions/Classic.png",
+		"objectFit": false,
+		"title": "Classic",
+		"description": "Коллекционное издание World of Warcraft Classic",
+		"price": 1000
+	},
+
+	{
+		"id": "BurningCrusade",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/wow-collection-editions/The-Burning-Crusade.png",
+		"objectFit": false,
+		"title": "The Burning Crusade",
+		"description": "Коллекционное издание World of Warcraft The Burning Crusade",
+		"price": 1000
+	},
+
+	{
+		"id": "WrathOfTheLichKing",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/wow-collection-editions/Wrath-of-the-Lich-King.png",
+		"objectFit": false,
+		"title": "Wrath of the Lich King",
+		"description": "Коллекционное издание World of Warcraft Wrath of the Lich King",
+		"price": 1000
+	},
+
+	{
+		"id": "Cataclysm",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/wow-collection-editions/Cataclysm.png",
+		"objectFit": false,
+		"title": "Cataclysm",
+		"description": "Коллекционное издание World of Warcraft Cataclysm",
+		"price": 1000
+	},
+
+	{
+		"id": "MistsOfPandaria",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/wow-collection-editions/Mists-of-Pandaria.png",
+		"objectFit": false,
+		"title": "Mists of Pandaria",
+		"description": "Коллекционное издание World of Warcraft Mists of Pandaria",
+		"price": 1000
+	},
+
+	{
+		"id": "WarlordsOfDraenor",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/wow-collection-editions/Warlords-of-Draenor.png",
+		"objectFit": false,
+		"title": "Warlords of Draenor",
+		"description": "Коллекционное издание World of Warcraft Warlords of Draenor",
+		"price": 1000
+	},
+
+	{
+		"id": "Legion",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/wow-collection-editions/Legion.png",
+		"objectFit": false,
+		"title": "Legion",
+		"description": "Коллекционное издание World of Warcraft Legion",
+		"price": 1000
+	},
+
+	{
+		"id": "BattleForAzeroth",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/wow-collection-editions/Battle-for-Azeroth.png",
+		"objectFit": false,
+		"title": "Battle for Azeroth",
+		"description": "Коллекционное издание World of Warcraft Battle for Azeroth",
+		"price": 1000
+	},
+
+	{
+		"id": "Shadowlands",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/wow-collection-editions/Shadowlands.png",
+		"objectFit": false,
+		"title": "Shadowlands",
+		"description": "Коллекционное издание World of Warcraft Shadowlands",
+		"price": 1000
+	},
+
+	{
+		"id": "Dragonflight",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/wow-collection-editions/Dragonflight.png",
+		"objectFit": false,
+		"title": "Dragonflight",
+		"description": "Коллекционное издание World of Warcraft Dragonflight",
+		"price": 1000
+	},
+
+	{
+		"id": "WarWithin",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/wow-collection-editions/The-War-Within.png",
+		"objectFit": false,
+		"title": "The War Within",
+		"description": "Коллекционное издание World of Warcraft The War Within",
+		"price": 1000
+	},
+
+	{
+		"id": "Midnight",
+		"type": "achievements",
+		"path": "",
+		"img": "/src/assets/img/achievements/bg/wow-collection-editions/Midnight.png",
+		"objectFit": false,
+		"title": "Midnight",
+		"description": "Коллекционное издание World of Warcraft Midnight",
+		"price": 1000
+	}
+]

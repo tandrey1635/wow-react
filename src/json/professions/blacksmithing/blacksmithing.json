@@ -1,0 +1,144 @@
+[
+	{
+		"id": "BlacksmithHammer",
+		"type": "blacksmithing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/blacksmithing/Blacksmith-Hammer.png",
+		"objectFit": false,
+		"title": "Кузнечный Молот",
+		"description": "Для тех, кто знает, как обращаться с молотом и наковальней. Звон металла, жар горна и гордость за то, что выковано своими руками, от слитка до готового изделия.",
+		"price": 300
+	},
+
+	{
+		"id": "HammerPick",
+		"type": "blacksmithing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/blacksmithing/Hammer-Pick.png",
+		"objectFit": false,
+		"title": "Кирка Молот",
+		"description": "Для тех, кто знает, как обращаться с молотом и наковальней. Звон металла, жар горна и гордость за то, что выковано своими руками, от слитка до готового изделия. Используется как шахтерская кирка или кузнечный молот.",
+		"price": 300
+	},
+
+	{
+		"id": "VraikulsBlacksmithHammer",
+		"type": "blacksmithing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/blacksmithing/Vraikuls-Blacksmith-Hammer.png",
+		"objectFit": false,
+		"title": "Врайкульский Кузнечный Молот",
+		"description": "Для тех, кто знает, как обращаться с молотом и наковальней. Звон металла, жар горна и гордость за то, что выковано своими руками, от слитка до готового изделия. Этот древний врайкульский молот можно использовать в Кузнечном Деле вместо обычного молота.",
+		"price": 300
+	},
+
+	{
+		"id": "ProficientBlacksmithsHammer",
+		"type": "blacksmithing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/blacksmithing/Proficient-Blacksmiths-Hammer.png",
+		"objectFit": false,
+		"title": "Кузнечный Молот Умельца",
+		"description": "Для тех, кто знает, как обращаться с молотом и наковальней. Звон металла, жар горна и гордость за то, что выковано своими руками, от слитка до готового изделия. +8 к навыку Кузнечного Дела.",
+		"price": 300
+	},
+
+	{
+		"id": "MereldarBlacksmithingHammer",
+		"type": "blacksmithing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/blacksmithing/Mereldar-Blacksmithing-Hammer.png",
+		"objectFit": false,
+		"title": "Мерельдарский Кузнечный Молот",
+		"description": "Для тех, кто знает, как обращаться с молотом и наковальней. Звон металла, жар горна и гордость за то, что выковано своими руками, от слитка до готового изделия.",
+		"price": 300
+	},
+
+	{
+		"id": "MereldarSmithingMallet",
+		"type": "blacksmithing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/blacksmithing/Mereldar-Smithing-Mallet.png",
+		"objectFit": false,
+		"title": "Мерельдарский Кузнечный Молот",
+		"description": "Для тех, кто знает, как обращаться с молотом и наковальней. Звон металла, жар горна и гордость за то, что выковано своими руками, от слитка до готового изделия.",
+		"price": 300
+	},
+
+	{
+		"id": "BastionBlacksmithingHammer",
+		"type": "blacksmithing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/blacksmithing/Bastion-Blacksmithing-Hammer.png",
+		"objectFit": false,
+		"title": "Кузнечный Молот Бастиона",
+		"description": "Для тех, кто знает, как обращаться с молотом и наковальней. Звон металла, жар горна и гордость за то, что выковано своими руками, от слитка до готового изделия.",
+		"price": 300
+	},
+
+	{
+		"id": "KhazgoriteBlacksmithsHammer",
+		"type": "blacksmithing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/blacksmithing/Khazgorite-Blacksmiths-Hammer.png",
+		"objectFit": false,
+		"title": "Каз'горитовый Кузнечный Молот",
+		"description": "Для тех, кто знает, как обращаться с молотом и наковальней. Звон металла, жар горна и гордость за то, что выковано своими руками, от слитка до готового изделия. +10 к навыку Кузнечного Дела.",
+		"price": 300
+	},
+
+	{
+		"id": "KhazgorianSmithingHammer",
+		"type": "blacksmithing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/blacksmithing/Khazgorian-Smithing-Hammer.png",
+		"objectFit": false,
+		"title": "Кузнечный Молот",
+		"description": "Для тех, кто знает, как обращаться с молотом и наковальней. Звон металла, жар горна и гордость за то, что выковано своими руками, от слитка до готового изделия. +4 к навыку Кузнечного Дела Каз Алгара. Этот молот можно использовать в Кузнечном Деле вместо обычного кузнечного молота. Оружие и броня, изготавливаемые с помощью навыка Кузнечное Дело, могут получить свойство: Предмет не теряет прочности. Использование: Позволяет мгновенно починить предмет экипировки. Восстановление: 1 час.",
+		"price": 300
+	},
+
+	{
+		"id": "ThalassianBlacksmithsHammer",
+		"type": "blacksmithing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/blacksmithing/Thalassian-Blacksmiths-Hammer.png",
+		"objectFit": false,
+		"title": "Талассийский Кузнечный Молот",
+		"description": "Для тех, кто знает, как обращаться с молотом и наковальней. Звон металла, жар горна и гордость за то, что выковано своими руками, от слитка до готового изделия. +8 к навыку Кузнечного Дела Midnight.",
+		"price": 300
+	},
+
+	{
+		"id": "SunBlessedBlacksmithsHammer",
+		"type": "blacksmithing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/blacksmithing/Sun-Blessed-Blacksmiths-Hammer.png",
+		"objectFit": false,
+		"title": "Солнцезарный Кузнечный Молот",
+		"description": "Для тех, кто знает, как обращаться с молотом и наковальней. Звон металла, жар горна и гордость за то, что выковано своими руками, от слитка до готового изделия. +18 к навыку Кузнечного Дела Midnight.",
+		"price": 300
+	},
+
+	{
+		"id": "SilvermoonBlacksmithsHammer",
+		"type": "blacksmithing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/blacksmithing/Silvermoon-Blacksmiths-Hammer.png",
+		"objectFit": false,
+		"title": "Луносветский Кузнечный Молот",
+		"description": "Для тех, кто знает, как обращаться с молотом и наковальней. Звон металла, жар горна и гордость за то, что выковано своими руками, от слитка до готового изделия. +18 к навыку Кузнечного Дела Midnight.",
+		"price": 300
+	},
+
+	{
+		"id": "SunforgedBlacksmithsHammer",
+		"type": "blacksmithing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/blacksmithing/Sunforged-Blacksmiths-Hammer.png",
+		"objectFit": false,
+		"title": "Солнцекованый Кузнечный Молот",
+		"description": "Для тех, кто знает, как обращаться с молотом и наковальней. Звон металла, жар горна и гордость за то, что выковано своими руками, от слитка до готового изделия. +18 к навыку Кузнечного Дела Midnight.",
+		"price": 300
+	}
+]
