@@ -201,10 +201,10 @@
 		"id": "ChameleonSong",
 		"type": "legendary",
 		"path": "",
-		"img": "/src/assets/img/armours/bg/legendary/Chameleon-Song.png",
+		"img": "/src/assets/img/armours/bg/legendary/druid/Chameleon-Song.png",
 		"objectFit": false,
 		"title": "Изменчивая Песнь",
-		"description": "Хранители поддерживали хрупкий мир, зная, что всему когда-то приходит конец: и деревьям, и любви, и насилию. Буйный Рост с вероятностью в 15% применяет к вам эффект Воплощение: Древо Жизни на 12 секунд. Класс: Друид.",
+		"description": "Хранители поддерживали хрупкий мир, зная, что всему когда-то приходит конец и деревьям, и любви, и насилию. Буйный Рост с вероятностью 15% применяет к вам эффект Воплощение: Древо Жизни на 12 секунд. Класс: Друид.",
 		"price": 500
 	},
 
@@ -212,7 +212,7 @@
 		"id": "EmeraldDreamcatcher",
 		"type": "legendary",
 		"path": "",
-		"img": "/src/assets/img/armours/bg/legendary/Emerald-Dreamcatcher.png",
+		"img": "/src/assets/img/armours/bg/legendary/druid/Emerald-Dreamcatcher.png",
 		"objectFit": false,
 		"title": "Изумрудный Ловец Снов",
 		"description": "Изера спит, и мир содрогается. Звездный Поток снижает затраты астральной мощи на применение следующих Звездных Потоков на 5 на 5 секунд. Эффект суммируется до 2 раз. Класс: Друид.",
@@ -223,7 +223,7 @@
 		"id": "OakheartsPunyQuods",
 		"type": "legendary",
 		"path": "",
-		"img": "/src/assets/img/armours/bg/legendary/Oakhearts-Puny-Quods.png",
+		"img": "/src/assets/img/armours/bg/legendary/druid/Oakhearts-Puny-Quods.png",
 		"objectFit": false,
 		"title": "Кора Ярости Дубосерда",
 		"description": "Моя кора принесет вам погибель... Дубовая Кожа мгновенно восстанавливает 45 ярости и дает еще дополнительно 30 ярости в течение 3 секунд. Класс: Друид.",
@@ -234,10 +234,197 @@
 		"id": "BehemothHeaddress",
 		"type": "legendary",
 		"path": "",
-		"img": "/src/assets/img/armours/bg/legendary/Behemoth-Headdress.png",
+		"img": "/src/assets/img/armours/bg/legendary/druid/Behemoth-Headdress.png",
 		"objectFit": false,
 		"title": "Лик Чудовища",
 		"description": "Не буди спящего тигра. Завершающие приемы продлевают время действия Тигриного Неистовства на 0.5 секунды за каждый использованный прием серии. Класс: Друид.",
+		"price": 500
+	},
+
+	{
+		"id": "LadyAndTheChild",
+		"type": "legendary",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/legendary/druid/Lady-and-the-Child.png",
+		"objectFit": false,
+		"title": "Дама и Дитя",
+		"description": "Посредством самосозерцания и упорства верховный друид Том'акос научился воспроизводить силу двух лун. Лунный Огонь наносит на 20% больше урона и поражает еще одного противника в радиусе 15 метров от основной цели. Класс: Друид.",
+		"price": 500
+	},
+
+	{
+		"id": "AmanThulsWisdom",
+		"type": "legendary",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/legendary/druid/AmanThuls-Wisdom.png",
+		"objectFit": false,
+		"title": "Мудрость Аман'тула",
+		"description": "Тебе поручено дело величайшей важности — следить за чистотой самого времени. Знай, что существует лишь одна истинная временная линия, но есть и те, кто очень хотел бы ее изменить. Тебе надлежит защитить ее. Когда вы применяете Омоложение к цели с полным запасом здоровья, его длительность действия увеличивается на 3 секунды вплоть до 9 секунд за каждое применение. Класс: Друид.",
+		"price": 500
+	},
+
+	{
+		"id": "EkowraithCreatorOfWorlds",
+		"type": "legendary",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/legendary/druid/Ekowraith-Creator-of-Worlds.png",
+		"objectFit": false,
+		"title": "Экодух, Творец Миров",
+		"description": "Мы могли бы не просто представить, но и сотворить для себя новый мир. Все когда-либо существовавшие миры служили осуществлению нашей цели. А теперь постарайся услышать то, что слышу я. Усиливает эффект способностей Плотная Шкура, Родство с Астралом, Стремительность Кошки и Дар Изеры на 75%. Класс: Друид.",
+		"price": 500
+	},
+
+	{
+		"id": "OnethsIntuition",
+		"type": "legendary",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/legendary/druid/Oneths-Intuition.png",
+		"objectFit": false,
+		"title": "Интуиция Онефа",
+		"description": "Аглая наверняка назвала бы эти наручи Самоуверенность Онефа. Звездный Поток и Звездопад с вероятностью 20% позволяют применить второе из этих двух заклинаний без затрат ресурсов. Класс: Друид.",
+		"price": 500
+	},
+
+	{
+		"id": "LuffaWrappings",
+		"type": "legendary",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/legendary/druid/Luffa-Wrappings.png",
+		"objectFit": false,
+		"title": "Оплетенные Люфой Обмотки",
+		"description": "Иногда лучше люфы ничего и не придумаешь. Увеличивает урон и радиус действия способности Взбучка на 25%. Класс: Друид.",
+		"price": 500
+	},
+
+	{
+		"id": "EdraithBondsOfAglaya",
+		"type": "legendary",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/legendary/druid/Edraith-Bonds-of-Aglaya.png",
+		"objectFit": false,
+		"title": "Эдрет, Узы Аглаи",
+		"description": "Изготовлены из шкуры древнего быка, которому свыше было даровано ощущение непреходящего счастья. Быстрое Восстановление продлевает время действия ваших заклинаний периодического лечения цели на 10 секунд. Класс: Друид.",
+		"price": 500
+	},
+
+	{
+		"id": "XonisCaress",
+		"type": "legendary",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/legendary/druid/Xonis-Caress.png",
+		"objectFit": false,
+		"title": "Прикосновение Кс'они",
+		"description": "Кс'они умела ободрять союзников одним лишь своим присутствием. Она была одним из сильнейших друидов в истории, но все же Кс'они многому научилась у легендарной жрицы Фирикс. Железная Кора восстанавливается на 20% быстрее. Союзники, которых защищает ваша Железная Кора, также получают 75% исцеления от всех ваших активных Омоложений. Класс: Друид.",
+		"price": 500
+	},
+
+	{
+		"id": "WildshapersClutch",
+		"type": "legendary",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/legendary/druid/Wildshapers-Clutch.png",
+		"objectFit": false,
+		"title": "Хватка Перевертеня",
+		"description": "Падшие друиды из племени Буйного Нрава верят, что настанет день, когда они сумеют подчинить себе силу, вложенную в них Аллзином. Ваши эффекты кровотечения при критическом ударе с вероятностью 30% вызывают срабатывание Изначального Неистовства. Класс: Друид.",
+		"price": 500
+	},
+
+	{
+		"id": "CinidariaTheSymbiote",
+		"type": "legendary",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/legendary/Cinidaria-the-Symbiote.png",
+		"objectFit": false,
+		"title": "Синидария, Cимбионт",
+		"description": "Этот демонический симбионт наловчился поглощать энергию азарта битвы и иногда имитирует действия хозяина. Ваши атаки наносят дополнительно 30% урона противникам с запасом здоровья выше 90% и восстанавливают вам здоровье в объеме 100% от нанесенного урона. Классы: Друид, Монах, Охотник на демонов, Разбойник.",
+		"price": 500
+	},
+
+	{
+		"id": "DarkTitansAdvice",
+		"type": "legendary",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/legendary/Dark-Titans-Advice.png",
+		"objectFit": false,
+		"title": "Совет Темного Титана",
+		"description": "Терпение, дитя. Ты получишь все в свое время. Усиливает финальное исцеление от Жизнецвета на 200%. Каждый такт периодического исцеления Жизнецвета с вероятностью 5% восполняет здоровье, как если бы это был финальный такт. Класс: Друид.",
+		"price": 500
+	},
+
+	{
+		"id": "FieryRedMaimers",
+		"type": "legendary",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/legendary/druid/Fiery-Red-Maimers.png",
+		"objectFit": false,
+		"title": "Красные Штаны Калечения",
+		"description": "Кошки — капризные существа. Если кошка подошла к вам поластиться — замечательно, но если вы сами решили приласкать кошку — ей это может не понравиться... Увеличивает наносимый урон на 3%. После использования Бешенства Пеплошкурой следующее применение Калечения не потребует затрат энергии, нанесет на 500% больше урона и поразит 2 дополнительных противников рядом с основной целью. Класс: Друид.",
+		"price": 500
+	},
+
+	{
+		"id": "ElizesEverlastingEncasement",
+		"type": "legendary",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/legendary/druid/Elizes-Everlasting-Encasement.png",
+		"objectFit": false,
+		"title": "Непробиваемый Корпус Элизы",
+		"description": "Стопроцентная природная ярость — очень меткое описание его владелицы времен Раскола. Эффект Взбучка может суммироваться до 2 раз больше. Класс: Друид.",
+		"price": 500
+	},
+
+	{
+		"id": "SentinelsEternalRefuge",
+		"type": "legendary",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/legendary/druid/Sentinels-Eternal-Refuge.png",
+		"objectFit": false,
+		"title": "Вечное Пристанище Часового",
+		"description": "Ее дух заточен в коже этих ботфорт, удерживающих ее в этом мире. Убивая противника, вы получаете 5%-ю прибавку к скорости передвижения на 1 минуту. Суммируется до 5 раз. Накопив 5 эффектов, вне боя вы превращаетесь в огонек. В этом облике ваша скорость передвижения повышается еще сильнее, и вы можете летать. Классы: Друид, Монах, Охотник на демонов, Разбойник.",
+		"price": 500
+	},
+
+	{
+		"id": "PromiseOfEluneTheMoonGoddess",
+		"type": "legendary",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/legendary/druid/Promise-of-Elune-the-Moon-Goddess.png",
+		"objectFit": false,
+		"title": "Обещание Элуны, Богини Луны",
+		"description": "Когда другие получают от тебя жизненную силу и энергию, я дарую жизненную силу и энергию тебе. Лунный Удар и Солнечный Гнев наносят на 8% больше урона и дают эффект Сила Элуны, под воздействием которого ваше следующее Восстановление восполнит на 30% больше здоровья, а время его применения сократится на 5%. Эффект суммируется до 20 раз. Класс: Друид.",
+		"price": 500
+	},
+
+	{
+		"id": "SkysecsHold",
+		"type": "legendary",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/legendary/druid/Skysecs-Hold.png",
+		"objectFit": false,
+		"title": "Опора Скайсека",
+		"description": "Скайсек, страж Нордрассила, отразил натиск бесчисленных полчищ Плети и Легиона во время битвы за гору Хиджал. В конечном итоге он героически погиб, защищая старое Древо Жизни. Неистовое Восстановление дополнительно восполняет вам 12% от вашего максимального запаса здоровья в течение 3 секунд. Класс: Друид.",
+		"price": 500
+	},
+
+	{
+		"id": "AiluroPouncers",
+		"type": "legendary",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/legendary/druid/Ailuro-Pouncers.png",
+		"objectFit": false,
+		"title": "Прыгуны Айлуро",
+		"description": "Говорят, силу этим сапогам придает безумие, прочно укоренившееся в душе Марла Червоточного. Накапливает 1 заряд Стремительности Хищника раз в 15 секунд. Кроме того, Стремительность Хищника может суммироваться до 3 раз. Класс: Друид.",
+		"price": 500
+	},
+
+	{
+		"id": "EssenceOfInfusion",
+		"type": "legendary",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/legendary/druid/Essence-of-Infusion.png",
+		"objectFit": false,
+		"title": "Сущность Насыщения",
+		"description": "Ощутите, как по вашим жилам разливается сила самой природы. Спокойствие восстанавливает на 60% больше здоровья целям, чей уровень здоровья ниже 60%. Класс: Друид.",
 		"price": 500
 	},
 
