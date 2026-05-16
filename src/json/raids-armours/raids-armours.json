@@ -68,7 +68,7 @@
 	{
 		"id": "DemonHunter",
 		"type": "demon-hunter",
-		"path": "raids-armours/demon-hunter",
+		"path": "raids-armours/demonhunter",
 		"img": "/src/assets/img/promo/bg/classes/Demon-Hunter.png",
 		"objectFit": false,
 		"title": "Охотник на Демонов",
@@ -112,7 +112,7 @@
 	{
 		"id": "DeathKnight",
 		"type": "death-knight",
-		"path": "raids-armours/death-knight",
+		"path": "raids-armours/deathknight",
 		"img": "/src/assets/img/promo/bg/classes/Death-Knight.png",
 		"objectFit": false,
 		"title": "Рыцарь Смерти",

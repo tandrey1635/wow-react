@@ -2,26 +2,11 @@ import { Link } from "react-router";
 import { Tabs, Tab } from 'react-bootstrap';
 
 
-
 import Card from './Card.tsx'
 
 import dataRaces from '../json/races/races.json';
-
-
 import dataRaidsArmours from '../json/raids-armours/raids-armours.json';
-import dataWarriorRaidArmours from '../json/raids-armours/warrior/warrior.json';
-import dataDruidRaidArmours from '../json/raids-armours/druid/druid.json';
-import dataPriestRaidArmours from '../json/raids-armours/priest/priest.json';
-import dataMageRaidArmours from '../json/raids-armours/mage/mage.json';
-import dataMonkRaidArmours from '../json/raids-armours/monk/monk.json';
-import dataHunterRaidArmours from '../json/raids-armours/hunter/hunter.json';
-import dataDemonHunterRaidArmours from '../json/raids-armours/demon-hunter/demon-hunter.json';
-import dataPaladinRaidArmours from '../json/raids-armours/paladin/paladin.json';
-import dataAwakenerRaidArmours from '../json/raids-armours/awakener/awakener.json';
-import dataRogueRaidArmours from '../json/raids-armours/rogue/rogue.json';
-import dataDeathKnightRaidArmours from '../json/raids-armours/death-knight/death-knight.json';
-import dataWarlockRaidArmours from '../json/raids-armours/warlock/warlock.json';
-import dataShamanRaidArmours from '../json/raids-armours/shaman/shaman.json';
+
 
 
 import dataWeapons from '../json/weapons/weapons.json';
@@ -32,11 +17,9 @@ import dataDecorativeWeapons from '../json/weapons/decorative/weapons.json';
 
 
 import dataTwoHandedAxesWeaponDetails from '../json/weapons/two-handed/axes/axes-details.json';
-import dataLegendaryWeaponDetails from '../json/weapons/legendary/weapons-details.json';
 
 
 import dataClasses from '../json/weapons/artifacts/classes.json';
-
 
 import dataWarriorArtifacts from '../json/weapons/artifacts/warrior/warrior.json';
 import dataDruidArtifacts from '../json/weapons/artifacts/druid/druid.json';
@@ -66,11 +49,10 @@ import dataCloaks from '../json/armours/cloaks/cloaks.json';
 
 
 import dataMounts from '../json/mounts/mounts.json';
-
-
-
-
 import dataProfessions from '../json/professions/professions.json';
+
+
+
 
 
 import dataMining from '../json/professions/mining/mining.json';
@@ -132,29 +114,13 @@ import dataWowCollectionEditions from '../json/achievements/wow-collection-editi
 
 
 import type { ICard }  from "../types/card-types";
-import { useState } from "react";
 
 
 
-const Cards = ({home, raidsArmoursWarrior, raidsArmoursDruid, raidsArmoursPriest, raidsArmoursMage, raidsArmoursMonk, raidsArmoursHunter, raidsArmoursDemonHunter, raidsArmoursPaladin, raidsArmoursAwakener, raidsArmoursRogue, raidsArmoursDeathKnight, raidsArmoursWarlock, raidsArmoursShaman, twoHandedWeapons, twoHandedAxes, twoHandedAxesWeaponDetails, legendaryWeapons, legendaryWeaponDetails, decorativeWeapons, classes, warriorArtifacts, druidArtifacts, priestArtifacts, mageArtifacts, monkArtifacts, hunterArtifacts, demonHunterArtifacts, paladinArtifacts, rogueArtifacts, deathKnightArtifacts, warlockArtifacts, shamanArtifacts, armsWarrior, furyWarrior, protectionWarrior, legendaryArmours, cloaks, mining, blacksmithing, cooking, fishing, additionsDungeons, additionsRaids, dungeonsClassic, dungeonsBurningCrusade, dungeonsWrathOfTheLichKing, dungeonsCataclysm, dungeonsMistsOfPandaria, dungeonsWarlordsOfDraenor, dungeonsLegion, dungeonsBattleForAzeroth, dungeonsShadowlands, dungeonsDragonflight, dungeonsWarWithin, dungeonsMidnight, dungeonsLastTitan, raidsClassic, raidsBurningCrusade, raidsWrathOfTheLichKing, raidsCataclysm, raidsMistsOfPandaria, raidsWarlordsOfDraenor, raidsLegion, raidsBattleForAzeroth, raidsShadowlands, raidsDragonflight, raidsWarWithin, raidsMidnight, raidsLastTitan, legacy, greatFeats, wowAnniversary, wowCollectionEditions}) => {
+const Cards = ({home, twoHandedWeapons, twoHandedAxes, twoHandedAxesWeaponDetails, legendaryWeapons, decorativeWeapons, classes, warriorArtifacts, druidArtifacts, priestArtifacts, mageArtifacts, monkArtifacts, hunterArtifacts, demonHunterArtifacts, paladinArtifacts, rogueArtifacts, deathKnightArtifacts, warlockArtifacts, shamanArtifacts, armsWarrior, furyWarrior, protectionWarrior, legendaryArmours, cloaks, mining, blacksmithing, cooking, fishing, additionsDungeons, additionsRaids, dungeonsClassic, dungeonsBurningCrusade, dungeonsWrathOfTheLichKing, dungeonsCataclysm, dungeonsMistsOfPandaria, dungeonsWarlordsOfDraenor, dungeonsLegion, dungeonsBattleForAzeroth, dungeonsShadowlands, dungeonsDragonflight, dungeonsWarWithin, dungeonsMidnight, dungeonsLastTitan, raidsClassic, raidsBurningCrusade, raidsWrathOfTheLichKing, raidsCataclysm, raidsMistsOfPandaria, raidsWarlordsOfDraenor, raidsLegion, raidsBattleForAzeroth, raidsShadowlands, raidsDragonflight, raidsWarWithin, raidsMidnight, raidsLastTitan, legacy, greatFeats, wowAnniversary, wowCollectionEditions}) => {
 
 
 	const counterCardItems = (dataJson: ICard[]) => dataJson.length
-	const counterCardItemsDone = (dataJson: ICard[]) => dataJson.map(card=>{
-		let arr = []
-
-		if (card.type) {
-			arr.push(card.type)
-		}
-
-		return arr
-
-	}).flat().length
-
-
-	const [filter, setFilter] = useState([])
-
-
 
 	const renderCardItems = (dataJson: ICard[]) => dataJson.map(card=> {
 		return (
@@ -180,7 +146,7 @@ const Cards = ({home, raidsArmoursWarrior, raidsArmoursDruid, raidsArmoursPriest
 				<div className="nav__wrapper">
 					{ home &&
 					<>
-						<Tabs defaultActiveKey="world" id="cards-tabs" fill>
+						<Tabs defaultActiveKey="raidsArmours" id="cards-tabs" fill>
 							{/* Таб контент Мир Азерота */}
 							{/* <Tab eventKey="world" title="Мир Азерота">
 								<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
@@ -318,176 +284,6 @@ const Cards = ({home, raidsArmoursWarrior, raidsArmoursDruid, raidsArmoursPriest
 					</>
 
 					}
-
-					{/* Таб контент рейдовая броня */}
-					<>
-						{/* Воин */}
-						{ raidsArmoursWarrior &&
-							<Tabs defaultActiveKey="raidsArmours" id="cards-tabs" fill>
-								<Tab eventKey="raidsArmours" title="Рейдовые Комплекты">
-									<h3 className="text-success text-center fw-bold display-4">Всего Брони: {counterCardItems(dataWarriorRaidArmours)}</h3>
-									<h3 className="text-success text-center fw-bold display-4">Готово: {counterCardItemsDone(dataWarriorRaidArmours)}</h3>
-									<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
-										{ renderCardItems(dataWarriorRaidArmours) }
-									</div>
-
-									<ul className="nav-menu nav-menu-dropdown nav-menu-raid-armours">
-										<Link className="nav-link nav-link-home" to="/">Главная</Link>
-										<Link className="nav-link nav-link-druid" to="/raids-armours/druid">Друид</Link>
-										<Link className="nav-link nav-link-priest" to="/raids-armours/priest">Жрец</Link>
-										<Link className="nav-link nav-link-mage" to="/raids-armours/mage">Маг</Link>
-										<Link className="nav-link nav-link-monk" to="/raids-armours/monk">Монах</Link>
-										<Link className="nav-link nav-link-hunter" to="/raids-armours/hunter">Охотник</Link>
-										<Link className="nav-link nav-link-demon-hunter" to="/raids-armours/demon-hunter">Охотник на Демонов</Link>
-										<Link className="nav-link nav-link-paladin" to="/raids-armours/paladin">Паладин</Link>
-										<Link className="nav-link nav-link-awakener" to="/raids-armours/awakener">Пробудитель</Link>
-										<Link className="nav-link nav-link-rogue" to="/raids-armours/rogue">Разбойник</Link>
-										<Link className="nav-link nav-link-death-knight" to="/raids-armours/death-knight">Рыцарь Смерти</Link>
-										<Link className="nav-link nav-link-warlock" to="/raids-armours/warlock">Чернокнижник</Link>
-										<Link className="nav-link nav-link-shaman" to="/raids-armours/shaman">Шаман</Link>
-									</ul>
-								</Tab>
-							</Tabs>
-						}
-
-						{/* Друид */}
-						{ raidsArmoursDruid &&
-							<>
-								<h3 className="text-success text-center fw-bold display-4">Всего Брони: {counterCardItems(dataDruidRaidArmours)}</h3>
-								<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
-									{ renderCardItems(dataDruidRaidArmours) }
-								</div>
-							</>
-						}
-
-						{/* Жрец */}
-						{ raidsArmoursPriest &&
-							<>
-								<h3 className="text-success text-center fw-bold display-4">Всего Брони: {counterCardItems(dataPriestRaidArmours)}</h3>
-								<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
-									{ renderCardItems(dataPriestRaidArmours) }
-								</div>
-							</>
-						}
-
-						{/* Маг */}
-						{ raidsArmoursMage &&
-							<>
-								<h3 className="text-success text-center fw-bold display-4">Всего Брони: {counterCardItems(dataMageRaidArmours)}</h3>
-								<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
-									{ renderCardItems(dataMageRaidArmours) }
-								</div>
-							</>
-						}
-
-						{/* Монах */}
-						{ raidsArmoursMonk &&
-							<>
-								<h3 className="text-success text-center fw-bold display-4">Всего Брони: {counterCardItems(dataMonkRaidArmours)}</h3>
-								<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
-									{ renderCardItems(dataMonkRaidArmours) }
-								</div>
-							</>
-						}
-
-						{/* Охотник */}
-						{ raidsArmoursHunter &&
-							<>
-								<h3 className="text-success text-center fw-bold display-4">Всего Брони: {counterCardItems(dataHunterRaidArmours)}</h3>
-								<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
-									{ renderCardItems(dataHunterRaidArmours) }
-								</div>
-							</>
-						}
-
-						{/* Охотник на демонов */}
-						{ raidsArmoursDemonHunter &&
-							<>
-								<h3 className="text-success text-center fw-bold display-4">Всего Брони: {counterCardItems(dataDemonHunterRaidArmours)}</h3>
-								<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
-									{ renderCardItems(dataDemonHunterRaidArmours) }
-								</div>
-							</>
-						}
-
-						{/* Паладин */}
-						{ raidsArmoursPaladin &&
-							<>
-								<h3 className="text-success text-center fw-bold display-4">Всего Брони: {counterCardItems(dataPaladinRaidArmours)}</h3>
-								<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
-									{ renderCardItems(dataPaladinRaidArmours) }
-								</div>
-							</>
-						}
-
-						{/* Пробудитель */}
-						{ raidsArmoursAwakener &&
-							<>
-								<h3 className="text-success text-center fw-bold display-4">Всего Брони: {counterCardItems(dataAwakenerRaidArmours)}</h3>
-								<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
-									{ renderCardItems(dataAwakenerRaidArmours) }
-								</div>
-							</>
-						}
-
-						{/* Разбойник */}
-						{ raidsArmoursRogue &&
-							<>
-								<h3 className="text-success text-center fw-bold display-4">Всего Брони: {counterCardItems(dataRogueRaidArmours)}</h3>
-								<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
-									{ renderCardItems(dataRogueRaidArmours) }
-								</div>
-							</>
-						}
-
-						{/* Рыцарь смерти */}
-						{ raidsArmoursDeathKnight &&
-							<Tabs defaultActiveKey="raidsArmours" id="cards-tabs" fill>
-								<Tab eventKey="raidsArmours" title="Рейдовые Комплекты">
-									<h3 className="text-success text-center fw-bold display-4">Всего Брони: {counterCardItems(dataDeathKnightRaidArmours)}</h3>
-									<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
-										{ renderCardItems(dataDeathKnightRaidArmours) }
-									</div>
-
-									<ul className="nav-menu nav-menu-dropdown nav-menu-raid-armours">
-										<Link className="nav-link nav-link-home" to="/">Главная</Link>
-										<Link className="nav-link nav-link-warrior" to="/raids-armours/warrior">Воин</Link>
-										<Link className="nav-link nav-link-druid" to="/raids-armours/druid">Друид</Link>
-										<Link className="nav-link nav-link-priest" to="/raids-armours/priest">Жрец</Link>
-										<Link className="nav-link nav-link-mage" to="/raids-armours/mage">Маг</Link>
-										<Link className="nav-link nav-link-monk" to="/raids-armours/monk">Монах</Link>
-										<Link className="nav-link nav-link-hunter" to="/raids-armours/hunter">Охотник</Link>
-										<Link className="nav-link nav-link-demon-hunter" to="/raids-armours/demon-hunter">Охотник на Демонов</Link>
-										<Link className="nav-link nav-link-paladin" to="/raids-armours/paladin">Паладин</Link>
-										<Link className="nav-link nav-link-awakener" to="/raids-armours/awakener">Пробудитель</Link>
-										<Link className="nav-link nav-link-rogue" to="/raids-armours/rogue">Разбойник</Link>
-										<Link className="nav-link nav-link-warlock" to="/raids-armours/warlock">Чернокнижник</Link>
-										<Link className="nav-link nav-link-shaman" to="/raids-armours/shaman">Шаман</Link>
-									</ul>
-								</Tab>
-							</Tabs>
-						}
-
-						{/* Чернокнижник */}
-						{ raidsArmoursWarlock &&
-							<>
-								<h3 className="text-success text-center fw-bold display-4">Всего Брони: {counterCardItems(dataWarlockRaidArmours)}</h3>
-								<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
-									{ renderCardItems(dataWarlockRaidArmours) }
-								</div>
-							</>
-						}
-
-						{/* Шаман */}
-						{ raidsArmoursShaman &&
-							<>
-								<h3 className="text-success text-center fw-bold display-4">Всего Брони: {counterCardItems(dataShamanRaidArmours)}</h3>
-								<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
-									{ renderCardItems(dataShamanRaidArmours) }
-								</div>
-							</>
-						}
-					</>
 
 					{/* Таб контент оружие */}
 					<>

@@ -1,4 +1,4 @@
-const Announcement = ({ home, warrior, druid, priest, mage, monk, hunter, demonHunter, paladin, awakener, rogue, deathKnight, warlock, shaman, oneHandedWeapons, twoHandedWeapons, rangeWeapons, legendaryWeapons, artifactWeapons, decorativeWeapons, twoHandedAxes, weaponsDetailsTitle, weaponsDetailsDescription, ashbringer, sulfuras, thunderfury, atiesh, warglaivesOfAzzinoth, thoridal, valanyr, frostmourne, shadowmourne, tarecgosa, fangsFather, raeshalareDeathsWhisper, fyralathTheDreamrender, naszuroTheUnboundLegacy, armsWarrior, furyWarrior, protectionWarrior, legendaryArmours, shields, cloaks, tabards, professions, alchemy, mining, engineering, leatherworking, blacksmithing, enchanting,  inscription, tailoring, skinning, herbalism, jewelcrafting, archaeology, riding, cooking, firstAid, fishing, junkyardTinkering, protoformSynthesis, pvp, honour, arena, rbg, additionsDungeons, additionsRaids, dungeonsClassic, dungeonsBurningCrusade, dungeonsWrathOfTheLichKing, dungeonsCataclysm, dungeonsMistsOfPandaria, dungeonsWarlordsOfDraenor, dungeonsLegion, dungeonsBattleForAzeroth, dungeonsShadowlands, dungeonsDragonflight, dungeonsWarWithin, dungeonsMidnight, dungeonsLastTitan, raidsClassic, raidsBurningCrusade, raidsWrathOfTheLichKing, raidsCataclysm, raidsMistsOfPandaria, raidsWarlordsOfDraenor, raidsLegion, raidsBattleForAzeroth, raidsShadowlands, raidsDragonflight, raidsWarWithin, raidsMidnight, raidsLastTitan, lvlUp, lvlUpBase, lvlUpExpert, lvlUpMaster, achievements, quests, legacy, greatFeats, warcraftReforged, wowAnniversary, diablo, hearthstone, heroesStorm, starcraft, overwatch, wowCollectionEditions, diabloCollectionEditions }) => {
+const Announcement = ({ home, oneHandedWeapons, twoHandedWeapons, rangeWeapons, legendaryWeapons, artifactWeapons, decorativeWeapons, twoHandedAxes, weaponsDetailsTitle, weaponsDetailsDescription, ashbringer, sulfuras, thunderfury, atiesh, warglaivesOfAzzinoth, thoridal, valanyr, frostmourne, shadowmourne, tarecgosa, fangsFather, raeshalareDeathsWhisper, fyralathTheDreamrender, naszuroTheUnboundLegacy, armsWarrior, furyWarrior, protectionWarrior, legendaryArmours, shields, cloaks, tabards, professions, alchemy, mining, engineering, leatherworking, blacksmithing, enchanting,  inscription, tailoring, skinning, herbalism, jewelcrafting, archaeology, riding, cooking, firstAid, fishing, junkyardTinkering, protoformSynthesis, pvp, honour, arena, rbg, additionsDungeons, additionsRaids, dungeonsClassic, dungeonsBurningCrusade, dungeonsWrathOfTheLichKing, dungeonsCataclysm, dungeonsMistsOfPandaria, dungeonsWarlordsOfDraenor, dungeonsLegion, dungeonsBattleForAzeroth, dungeonsShadowlands, dungeonsDragonflight, dungeonsWarWithin, dungeonsMidnight, dungeonsLastTitan, raidsClassic, raidsBurningCrusade, raidsWrathOfTheLichKing, raidsCataclysm, raidsMistsOfPandaria, raidsWarlordsOfDraenor, raidsLegion, raidsBattleForAzeroth, raidsShadowlands, raidsDragonflight, raidsWarWithin, raidsMidnight, raidsLastTitan, lvlUp, lvlUpBase, lvlUpExpert, lvlUpMaster, achievements, quests, legacy, greatFeats, warcraftReforged, wowAnniversary, diablo, hearthstone, heroesStorm, starcraft, overwatch, wowCollectionEditions, diabloCollectionEditions }) => {
 
 	return (
 		<section className="announcement">
@@ -6,45 +6,6 @@ const Announcement = ({ home, warrior, druid, priest, mage, monk, hunter, demonH
 				<div className="announcement__description">
 					<h1
 						className={`announcement__header ${
-							warrior
-								? "announcement__header_warrior"
-								:
-							druid
-								? "announcement__header_druid"
-								:
-							priest
-								? "announcement__header_priest"
-								:
-							mage
-								? "announcement__header_mage"
-								:
-							monk
-								? "announcement__header_monk"
-								:
-							hunter
-								? "announcement__header_hunter"
-								:
-							demonHunter
-								? "announcement__header_demon-hunter"
-								:
-							paladin
-								? "announcement__header_paladin"
-								:
-							awakener
-								? "announcement__header_awakener"
-								:
-							rogue
-								? "announcement__header_rogue"
-								:
-							deathKnight
-								? "announcement__header_death-knight"
-								:
-							warlock
-								? "announcement__header_warlock"
-								:
-							shaman
-								? "announcement__header_shaman"
-								:
 							legendaryWeapons || legendaryArmours
 								? "announcement__header_legendary"
 								:
@@ -145,45 +106,6 @@ const Announcement = ({ home, warrior, druid, priest, mage, monk, hunter, demonH
 						}
 					>
 						{
-							warrior
-								? "Комплекты рейдовой брони\n для воина"
-								:
-							druid
-								? "Комплекты рейдовой брони\n для друида"
-								:
-							priest
-								? "Комплекты рейдовой брони\n для жреца"
-								:
-							mage
-								? "Комплекты рейдовой брони\n для мага"
-								:
-							monk
-								? "Комплекты рейдовой брони\n для монаха"
-								:
-							hunter
-								? "Комплекты рейдовой брони\n для охотника"
-								:
-							demonHunter
-								? "Комплекты рейдовой брони\n для охотника на демонов"
-								:
-							paladin
-								? "Комплекты рейдовой брони\n для паладина"
-								:
-							awakener
-								? "Комплекты рейдовой брони\n для пробудителя"
-								:
-							rogue
-								? "Комплекты рейдовой брони\n для разбойника"
-								:
-							deathKnight
-								? "Комплекты рейдовой брони\n для рыцаря смерти"
-								:
-							warlock
-								? "Комплекты рейдовой брони\n для чернокнижника"
-								:
-							shaman
-								? "Комплекты рейдовой брони\n для шамана"
-								:
 							legendaryWeapons
   								?
 								ashbringer
@@ -482,45 +404,6 @@ const Announcement = ({ home, warrior, druid, priest, mage, monk, hunter, demonH
 					<p className={`announcement__text text-center mt-3`}
 					>
 						{
-							warrior
-								? "Обрети мощь титана. Получите полный комплект, станьте неудержимой силой в бою и легендой Азерота!"
-								:
-							druid
-								? "Обрети мудрость Древних. Получите полный комплект, станьте воплощением неудержимой силы природы и легендой Азерота!"
-								:
-							priest
-								? "Твой путь к абсолютной власти над Светом и Тьмой. Получите полный комплект, станьте проводником божественной воли и легендой Азерота!"
-								:
-							mage
-								? "Покори магию стихий. Получите полный комплект, станьте повелителем огня, льда и тайной магии, обретите силу, доступную лишь избранным и станьте легендой Азерота!"
-								:
-							monk
-								? "Обрети гармонию стихий и единство духа через энергию ци. Получите полный комплект, станьте воплощением баланса сил и легендой Азерота!"
-								:
-							hunter
-								? "Стань хозяином диких земель. Получите полный комплект, обретите верного зверя, станьте неумолимым преследователем и легендой Азерота!"
-								:
-							demonHunter
-								? "Открой в себе ярость Иллидари, охотников на демонов Пылающего Легиона. Получите полный комплект, станьте воплощением мести и легендой Азерота!"
-								:
-							paladin
-								? "Обрушь на врагов молот правосудия и испепели их священным огнем возмездия. Получите полный комплект, станьте благородным воителем Света, непоколебимым защитником и легендой Азерота!"
-								:
-							awakener
-								? "Управляй магией пяти драконьих родов. Получите полный комплект, обрушьте на врагов испепеляющее дыхание красных драконов, леденящую магию синих, целительную силу зеленых, сокрушающую мощь черных и вневременную силу бронзовых драконов, парите над полем боя и станьте легендой Азерота!"
-								:
-							rogue
-								? "Растворись в тенях и нанеси смертельный удар отравленным клинком. Получите полный комплект, станьте скрытным убийцей, мастером ядовитых клинков и легендой Азерота!"
-								:
-							deathKnight
-								? "Пробуди силы, что правят самой смертью. Ледяное дыхание смерти, всепоглощающую чуму, пожирающую плоть, и кровь, дарующую вечную жизнь ценой тысяч жертв. Получите полный комплект, обрушьте на врагов истинную мощь Властелина Смерти и станьте легендой Азерота!"
-								:
-							warlock
-								? "Подчини себе необузданную силу хаоса и испепеляющее пламя Скверны. Получите полный комплект, обрушьте на врагов адское пламя, энергию хаоса и станьте легендой Азерота!"
-								:
-							shaman
-								? "Пробуди силу духов земли, огня, воды и воздуха. Прими благословение древних предков. Получите полный комплект, станьте воплощением могущества стихий и легендой Азерота!"
-								:
 							legendaryWeapons
 								? "Легендарное оружие, воплощение мифов, чья слава живет в веках. Идеальный выбор тех, кто стремится к совершенству, недостижимому для простых смертных. Будь то меткий выстрел, сокрушительный удар, могущественное заклинание или целительное прикосновение, каждое действие меняет ход истории Азерота. Неважно, что перед тобой полчища Плети или демоны Пылающего Легиона, сила легенды в твоих руках обратит любого врага в прах. Один взмах, выстрел, заклинание или целительное прикосновение, и мир узнает, почему это оружие стало легендой!"
 								:

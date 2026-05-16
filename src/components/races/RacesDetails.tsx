@@ -37,7 +37,7 @@ const RacesDetails = () => {
 				<div className="container">
 					<div className="announcement__description">
 						<h1 className={`announcement__header ${
-							race.type == "races"
+							race.type === "races"
 								? "announcement__header_races"
 								: ''} text-center`}
 						>

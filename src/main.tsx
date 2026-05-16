@@ -6,25 +6,15 @@ import './style.sass'
 import { BrowserRouter, Routes, Route } from "react-router";
 
 
-
+/* Расы */
 import RacesDetailsPage from "./pages/races/RacesDetailsPage.tsx";
 import FactionPage from "./pages/races/FactionPage.tsx";
 import FactionDetailsPage from "./pages/races/FactionDetailsPage.tsx";
 
+/* Рейдовая броня */
+import RaidsArmoursPage from './pages/raids-armours/RaidsArmoursPage.tsx'
 
-import Warrior from "./pages/raids-armours/Warrior.tsx";
-import Druid from "./pages/raids-armours/Druid.tsx";
-import Priest from "./pages/raids-armours/Priest.tsx";
-import Mage from "./pages/raids-armours/Mage.tsx";
-import Monk from "./pages/raids-armours/Monk.tsx";
-import Hunter from "./pages/raids-armours/Hunter.tsx";
-import DemonHunter from "./pages/raids-armours/DemonHunter.tsx";
-import Paladin from "./pages/raids-armours/Paladin.tsx";
-import Awakener from "./pages/raids-armours/Awakener.tsx";
-import Rogue from "./pages/raids-armours/Rogue.tsx";
-import DeathKnight from "./pages/raids-armours/DeathKnight.tsx";
-import Warlock from "./pages/raids-armours/Warlock.tsx";
-import Shaman from "./pages/raids-armours/Shaman.tsx";
+
 
 
 
@@ -179,28 +169,20 @@ createRoot(document.getElementById("root")!).render(
 	<StrictMode>
 		<BrowserRouter>
 			<Routes>
+				{/* Главная стр */}
 				<Route path="/" element={<App />} />
 
-
+				{/* Расы */}
 				<Route path=":races" element={<RacesDetailsPage />} />
 				<Route path=":races/:factionId" element={<FactionPage />} />
 				<Route path=":races/:factionId/:raceId" element={<FactionDetailsPage />} />
 
+				{/* Рейдовая броня */}
+				<Route path="raids-armours/:raidsArmours" element={<RaidsArmoursPage />} />
 
 
-				<Route path="raids-armours/warrior" element={<Warrior />} />
-				<Route path="raids-armours/druid" element={<Druid />} />
-				<Route path="raids-armours/priest" element={<Priest />} />
-				<Route path="raids-armours/mage" element={<Mage />} />
-				<Route path="raids-armours/monk" element={<Monk />} />
-				<Route path="raids-armours/hunter" element={<Hunter />} />
-				<Route path="raids-armours/demon-hunter" element={<DemonHunter />} />
-				<Route path="raids-armours/paladin" element={<Paladin />} />
-				<Route path="raids-armours/rogue" element={<Rogue />} />
-				<Route path="raids-armours/death-knight" element={<DeathKnight />} />
-				<Route path="raids-armours/warlock" element={<Warlock />} />
-				<Route path="raids-armours/shaman" element={<Shaman />} />
-				<Route path="raids-armours/awakener" element={<Awakener />} />
+
+
 
 
 				<Route path="weapons/one-handed" element={<OneHandedWeapons />} />

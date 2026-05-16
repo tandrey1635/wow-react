@@ -41,10 +41,10 @@ const Faction = () => {
 				<div className="container">
 					<div className="announcement__description">
 						<h1 className={`announcement__header ${
-							faction.type == "faction-horde"
+							faction.type === "faction-horde"
 								? "announcement__header_horde"
 								:
-							faction.type == "faction-alliance"
+							faction.type === "faction-alliance"
 								? "announcement__header_alliance"
 								: ''} text-center`}
 						>
@@ -58,10 +58,10 @@ const Faction = () => {
 			<section className="promo">
 				<div className="container-fluid">
 					<p className={`promo__info ${
-						faction.type == "faction-horde"
+						faction.type === "faction-horde"
 							? "promo__info_horde"
 							:
-						faction.type == "faction-alliance"
+						faction.type === "faction-alliance"
 							? "promo__info_alliance"
 							: ''}
 						`}
@@ -77,14 +77,14 @@ const Faction = () => {
 								<ul className="nav__tabs">
 									<li className="nav__list nav__list_races">Расы
 										{
-											faction.type == "faction-horde"
+											faction.type === "faction-horde"
 												? <ul className="nav__menu nav__menu_dropdown nav__menu_faction">
 													<Link className="nav-link nav-link-home" to="/">Главная</Link>
 													<Link className="nav-link nav-link-races" to="/races">Расы</Link>
 													<Link className="nav-link nav-link-races nav-link-races-alliance" to="/races/alliance">Альянс</Link>
 												</ul>
 												:
-											faction.type == "faction-alliance"
+											faction.type === "faction-alliance"
 												? <ul className="nav__menu nav__menu_dropdown nav__menu_faction">
 													<Link className="nav-link nav-link-home" to="/">Главная</Link>
 													<Link className="nav-link nav-link-races" to="/races">Расы</Link>
@@ -110,10 +110,10 @@ const Faction = () => {
 					<h2 className="text-success text-center fw-bold display-4">
 						{"Всего" + ' '}
 						{
-							faction.type == "faction-horde"
+							faction.type === "faction-horde"
 								? `Рас Орды: ${counterCardItems(dataHorde)}`
 								:
-							faction.type == "faction-alliance"
+							faction.type === "faction-alliance"
 								? `Рас Альянса: ${counterCardItems(dataAlliance)}`
 								: null
 						}
@@ -121,10 +121,10 @@ const Faction = () => {
 
 					<div className="cards__wrapper d-flex flex-wrap justify-content-center justify-content-xl-start mt-5">
 						{
-							faction.type == "faction-horde"
+							faction.type === "faction-horde"
 								? renderCardItems(dataHorde)
 								:
-							faction.type == "faction-alliance"
+							faction.type === "faction-alliance"
 								? renderCardItems(dataAlliance)
 								: null
 						}

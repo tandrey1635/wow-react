@@ -50,13 +50,13 @@ const MountsDetails = () => {
 				<div className="container">
 					<div className="announcement__description">
 						<h1 className={`announcement__header ${
-							mounts.type == "water-mounts"
+							mounts.type === "water-mounts"
 								? "announcement__header_water-mounts"
 								:
-							mounts.type == "earth-mounts"
+							mounts.type === "earth-mounts"
 								? "announcement__header_earth-mounts"
 								:
-							mounts.type == "fly-mounts"
+							mounts.type === "fly-mounts"
 								? "announcement__header_fly-mounts"
 								: ''} text-center`}
 						>
@@ -70,13 +70,13 @@ const MountsDetails = () => {
 			<section className="promo">
 				<div className="container-fluid">
 					<p className={`promo__info ${
-						mounts.type == "water-mounts"
+						mounts.type === "water-mounts"
 							? "promo__info_water-mounts"
 							:
-						mounts.type == "earth-mounts"
+						mounts.type === "earth-mounts"
 							? "promo__info_earth-mounts"
 							:
-						mounts.type == "fly-mounts"
+						mounts.type === "fly-mounts"
 							? "promo__info_fly-mounts"
 							: ''}
 						`}
@@ -98,21 +98,21 @@ const MountsDetails = () => {
 									<li className="nav__list nav__list_armours">Броня</li>
 									<li className="nav__list nav__list_mounts">Маунты
 										{
-											mounts.type == "water-mounts"
+											mounts.type === "water-mounts"
 												? <ul className="nav__menu nav__menu_dropdown nav__menu_mounts">
 													<Link className="nav-link nav-link-mouts nav-link-mounts-home" to="/">Главная</Link>
 													<Link className="nav-link nav-link-mouts nav-link-mounts-earth" to="/mounts/earth">Наземные</Link>
 													<Link className="nav-link nav-link-mouts nav-link-mounts-fly" to="/mounts/fly">Летающие</Link>
 												</ul>
 												:
-											mounts.type == "earth-mounts"
+											mounts.type === "earth-mounts"
 												? <ul className="nav__menu nav__menu_dropdown nav__menu_mounts">
 													<Link className="nav-link nav-link-mouts nav-link-mounts-home" to="/">Главная</Link>
 													<Link className="nav-link nav-link-mouts nav-link-mounts-water" to="/mounts/water">Водные</Link>
 													<Link className="nav-link nav-link-mouts nav-link-mounts-fly" to="/mounts/fly">Летающие</Link>
 												</ul>
 												:
-											mounts.type == "fly-mounts"
+											mounts.type === "fly-mounts"
 												? <ul className="nav__menu nav__menu_dropdown nav__menu_mounts">
 													<Link className="nav-link nav-link-mouts nav-link-mounts-home" to="/">Главная</Link>
 													<Link className="nav-link nav-link-mouts nav-link-mounts-water" to="/mounts/water">Водные</Link>
@@ -133,13 +133,13 @@ const MountsDetails = () => {
 					<h2 className="text-success text-center fw-bold display-4">
 						{"Всего" + ' '}
 						{
-							mounts.type == "water-mounts"
+							mounts.type === "water-mounts"
 								? `Водных Маунтов: ${counterCardItems(dataWaterMounts)}`
 								:
-							mounts.type == "earth-mounts"
+							mounts.type === "earth-mounts"
 								? `Наземных Маунтов: ${counterCardItems(dataEarthMounts)}`
 								:
-							mounts.type == "fly-mounts"
+							mounts.type === "fly-mounts"
 								? `Летающих Маунтов: ${counterCardItems(dataFlyMounts)}`
 								: null
 						}
@@ -147,13 +147,13 @@ const MountsDetails = () => {
 
 					<div className="cards__wrapper d-flex flex-wrap justify-content-center justify-content-xl-start mt-5">
 						{
-							mounts.type == "water-mounts"
+							mounts.type === "water-mounts"
 								? renderCardItems(dataWaterMounts)
 								:
-							mounts.type == "earth-mounts"
+							mounts.type === "earth-mounts"
 								? renderCardItems(dataEarthMounts)
 								:
-							mounts.type == "fly-mounts"
+							mounts.type === "fly-mounts"
 								? renderCardItems(dataFlyMounts)
 								: null
 						}
