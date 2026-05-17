@@ -131,6 +131,7 @@ const Cards = ({home, twoHandedWeapons, twoHandedAxes, twoHandedAxesWeaponDetail
 				img={card.img}
 				objectFit={card.objectFit}
 				addition={card.addition}
+				classes={card.classes}
 				description={card.description}
 				descriptionTrim={card.descriptionTrim}
 				title={card.title}

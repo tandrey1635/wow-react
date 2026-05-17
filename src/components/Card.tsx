@@ -1,134 +1,134 @@
 import { Link } from "react-router";
-import type { ICard }  from "../types/card-types";
+import type { ICard } from "../types/card-types";
 
 
-const Card = ({type, path, img, objectFit, title, description, descriptionTrim, addition, price}: ICard) => {
+const Card = ({type, path, img, objectFit, title, description, descriptionTrim, addition, classes, price}: ICard) => {
 	return (
 		<div className={`card ${
-			type == "races"
+			type === "races"
 				? "card-races"
 				:
-			type == "faction-horde"
+			type === "faction-horde"
 				? "card-horde"
 				:
-			type == "faction-alliance"
+			type === "faction-alliance"
 				? "card-alliance"
 				:
-			type == "warrior"
+			type === "warrior"
 				? "card-warrior"
 				:
-			type == "druid"
+			type === "druid"
 				? "card-druid"
 				:
-			type == "priest"
+			type === "priest"
 				? "card-priest"
 				:
-			type == "mage"
+			type === "mage"
 				? "card-mage"
 				:
-			type == "monk"
+			type === "monk"
 				? "card-monk"
 				:
-			type == "hunter"
+			type === "hunter"
 				? "card-hunter"
 				:
-			type == "demon-hunter"
+			type === "demon-hunter"
 				? "card-demon-hunter"
 				:
-			type == "paladin"
+			type === "paladin"
 				? "card-paladin"
 				:
-			type == "awakener"
+			type === "awakener"
 				? "card-awakener"
 				:
-			type == "rogue"
+			type === "rogue"
 				? "card-rogue"
 				:
-			type == "death-knight"
+			type === "death-knight"
 				? "card-death-knight"
 				:
-			type == "warlock"
+			type === "warlock"
 				? "card-warlock"
 				:
-			type == "shaman"
+			type === "shaman"
 				? "card-shaman"
 				:
-			type == "legendary"
+			type === "legendary"
 				? "card-legendary"
 				:
-			type == "artifact"
+			type === "artifact"
 				? "card-artifact"
 				:
-			type == "decorative"
+			type === "decorative"
 				? "card-decorative"
 				:
-			type == "armours"
+			type === "armours"
 				? "card-armours"
 				:
-			type == "water-mounts"
+			type === "water-mounts"
 				? "card-mounts-water"
 				:
-			type == "earth-mounts"
+			type === "earth-mounts"
 				? "card-mounts-earth"
 				:
-			type == "fly-mounts"
+			type === "fly-mounts"
 				? "card-mounts-fly"
 				:
-			type == "mining"
+			type === "mining"
 				? "card-mining"
 				:
-			type == "blacksmithing"
+			type === "blacksmithing"
 				? "card-blacksmithing"
 				:
-			type == "cooking"
+			type === "cooking"
 				? "card-cooking"
 				:
-			type == "fishing"
+			type === "fishing"
 				? "card-fishing"
 				:
-			type == "dungeons-raids-classic"
+			type === "dungeons-raids-classic"
 				? "card-dungeons-raids card-dungeons-raids-classic"
 				:
-			type == "dungeons-raids-burning-crusade"
+			type === "dungeons-raids-burning-crusade"
 				? "card-dungeons-raids card-dungeons-raids-burning-crusade"
 				:
-			type == "dungeons-raids-wrath-of-the-lich-king"
+			type === "dungeons-raids-wrath-of-the-lich-king"
 				? "card-dungeons-raids card-dungeons-raids-wrath-of-the-lich-king"
 				:
-			type == "dungeons-raids-cataclysm"
+			type === "dungeons-raids-cataclysm"
 				? "card-dungeons-raids card-dungeons-raids-cataclysm"
 				:
-			type == "dungeons-raids-mists-of-pandaria"
+			type === "dungeons-raids-mists-of-pandaria"
 				? "card-dungeons-raids card-dungeons-raids-mists-of-pandaria"
 				:
-			type == "dungeons-raids-warlords-of-draenor"
+			type === "dungeons-raids-warlords-of-draenor"
 				? "card-dungeons-raids card-dungeons-raids-warlords-of-draenor"
 				:
-			type == "dungeons-raids-legion"
+			type === "dungeons-raids-legion"
 				? "card-dungeons-raids card-dungeons-raids-legion"
 				:
-			type == "dungeons-raids-battle-for-azeroth"
+			type === "dungeons-raids-battle-for-azeroth"
 				? "card-dungeons-raids card-dungeons-raids-battle-for-azeroth"
 				:
-			type == "dungeons-raids-shadowlands"
+			type === "dungeons-raids-shadowlands"
 				? "card-dungeons-raids card-dungeons-raids-shadowlands"
 				:
-			type == "dungeons-raids-dragonflight"
+			type === "dungeons-raids-dragonflight"
 				? "card-dungeons-raids card-dungeons-raids-dragonflight"
 				:
-			type == "dungeons-raids-war-within"
+			type === "dungeons-raids-war-within"
 				? "card-dungeons-raids card-dungeons-raids-war-within"
 				:
-			type == "dungeons-raids-midnight"
+			type === "dungeons-raids-midnight"
 				? "card-dungeons-raids card-dungeons-raids-midnight"
 				:
-			type == "dungeons-raids-last-titan"
+			type === "dungeons-raids-last-titan"
 				? "card-dungeons-raids card-dungeons-raids-last-titan"
 				:
-			type == "achievements"
+			type === "achievements"
 				? "card-achievements"
 				:
-			type == "achievements great-feats"
+			type === "achievements great-feats"
 				? "card-achievements card-achievements-great-feats"
 				: null
 			}`
@@ -147,46 +147,61 @@ const Card = ({type, path, img, objectFit, title, description, descriptionTrim, 
 			<div className="card-body">
 				<Link className="card-link" to={path}>
 					<h3 className={`card-title ${
-						type == "races"
+						type === "races"
 							? "card-title-races"
 							:
-						addition == "Classic"
+						classes === "Воин"
+							? "card_warrior"
+							:
+						classes === "Друид"
+							? "card_druid"
+							:
+						classes === "Монах"
+							? "card_monk"
+							:
+						classes === "Паладин"
+							? "card_paladin"
+							:
+						classes === "Рыцарь Смерти"
+							? "card_death-knight"
+							:
+						addition === "Classic"
 							? "card-dungeons-raids-classic_color"
 							:
-						addition == "The Burning Crusade"
+						addition === "The Burning Crusade"
 							? "card-dungeons-raids-burning-crusade_color"
 							:
-						addition == "Wrath of the Lich King"
+						addition === "Wrath of the Lich King"
 							? "card-dungeons-raids-wrath-of-the-lich-king_color"
 							:
-						addition == "Cataclysm"
+						addition === "Cataclysm"
 							? "card-dungeons-raids-cataclysm_color"
 							:
-						addition == "Mists of Pandaria"
+						addition === "Mists of Pandaria"
 							? "card-dungeons-raids-mists-of-pandaria_color"
 							:
-						addition == "Warlords of Draenor"
+						addition === "Warlords of Draenor"
 							? "card-dungeons-raids-warlords-of-draenor_color"
 							:
-						addition == "Legion"
+						addition === "Legion"
 							? "card-dungeons-raids-legion_color"
 							:
-						addition == "Battle for Azeroth"
+						addition === "Battle for Azeroth"
 							? "card-dungeons-raids-battle-for-azeroth_color"
 							:
-						addition == "Shadowlands"
+						addition === "Shadowlands"
 							? "card-dungeons-raids-shadowlands_color"
 							:
-						addition == "Dragonflight"
+						addition === "Dragonflight"
 							? "card-dungeons-raids-dragonflight_color"
 							:
-						addition == "The War Within"
+						addition === "The War Within"
 							? "card-dungeons-raids-war-within_color"
 							:
-						addition == "Midnight"
+						addition === "Midnight"
 							? "card-dungeons-raids-midnight_color"
 							:
-						addition == "The Last Titan"
+						addition === "The Last Titan"
 							? "card-dungeons-raids-last-titan_color"
 							: null
 						}`
@@ -202,56 +217,79 @@ const Card = ({type, path, img, objectFit, title, description, descriptionTrim, 
 					}`
 				}>
 					{description}
+
 					{addition && <span className={`card-dungeons-raids ${
-							addition == "Classic"
-							? "card-dungeons-raids-classic_color"
-							:
-							addition == "The Burning Crusade"
+							addition === "Classic"
+								? "card-dungeons-raids-classic_color"
+								:
+							addition === "The Burning Crusade"
 								? "card-dungeons-raids-burning-crusade_color"
 								:
-							addition == "Wrath of the Lich King"
+							addition === "Wrath of the Lich King"
 								? "card-dungeons-raids-wrath-of-the-lich-king_color"
 								:
-							addition == "Cataclysm"
+							addition === "Cataclysm"
 								? "card-dungeons-raids-cataclysm_color"
 								:
-							addition == "Mists of Pandaria"
+							addition === "Mists of Pandaria"
 								? "card-dungeons-raids-mists-of-pandaria_color"
 								:
-							addition == "Warlords of Draenor"
+							addition === "Warlords of Draenor"
 								? "card-dungeons-raids-warlords-of-draenor_color"
 								:
-							addition == "Legion"
+							addition === "Legion"
 								? "card-dungeons-raids-legion_color"
 								:
-							addition == "Battle for Azeroth"
+							addition === "Battle for Azeroth"
 								? "card-dungeons-raids-battle-for-azeroth_color"
 								:
-							addition == "Shadowlands"
+							addition === "Shadowlands"
 								? "card-dungeons-raids-shadowlands_color"
 								:
-							addition == "Dragonflight"
+							addition === "Dragonflight"
 								? "card-dungeons-raids-dragonflight_color"
 								:
-							addition == "The War Within"
+							addition === "The War Within"
 								? "card-dungeons-raids-war-within_color"
 								:
-							addition == "Midnight"
+							addition === "Midnight"
 								? "card-dungeons-raids-midnight_color"
 								:
-							addition == "The Last Titan"
+							addition === "The Last Titan"
 								? "card-dungeons-raids-last-titan_color"
 								: null
 						}`
 						}>{`${' ' + addition}.`} {/* Перед комментарием оставляем пробел чтобы был пробел после закрывающего тега */}</span>
 					}
+
+					{ classes && <span className={`card-span ${
+						classes === "Воин"
+							? "card_warrior"
+							:
+						classes === "Друид"
+							? "card_druid"
+							:
+						classes === "Монах"
+							? "card_monk"
+							:
+						classes === "Паладин"
+							? "card_paladin"
+							:
+						classes === "Рыцарь Смерти"
+							? "card_death-knight"
+							: null}`
+						}>
+							<Link className="card-link" to="/">{`${classes}.`}</Link>
+						</span>
+					}
+
 					{descriptionTrim}
 				</p>
 			</div>
 
 			<div className="card-footer d-flex justify-content-between align-items-center">
 				<p className={`card-price ${
-					type == "races"
+					type === "races"
 						? "card-price-races"
 						: null
 					}`

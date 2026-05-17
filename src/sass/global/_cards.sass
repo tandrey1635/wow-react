@@ -14,7 +14,6 @@
 		color: $defaultColor
 	&:hover
 		transition: 0.5s all
-		transform: scale(1.05)
 		box-shadow: 0 0 2px 5px $defaultShadow
 	&-races
 		position: relative
@@ -40,6 +39,8 @@
 			color: $warriorColor
 		&:hover
 			box-shadow: 0 0 2px 5px $warriorShadow
+	&_warrior
+		color: $warriorColor
 	&-druid
 		color: $druidColor
 		background: $druidBg
@@ -47,6 +48,8 @@
 			color: $druidColor
 		&:hover
 			box-shadow: 0 0 2px 5px $druidShadow
+	&_druid
+		color: $druidColor
 	&-priest
 		color: $priestColor
 		background: $priestBg
@@ -68,6 +71,8 @@
 			color: $monkColor
 		&:hover
 			box-shadow: 0 0 2px 5px $monkShadow
+	&_monk
+		color: $monkColor
 	&-hunter
 		color: $hunterColor
 		background: $hunterBg
@@ -89,6 +94,8 @@
 			color: $paladinColor
 		&:hover
 			box-shadow: 0 0 2px 5px $paladinShadow
+	&_paladin
+		color: $paladinColor
 	&-awakener
 		color: $awakenerColor
 		background: $awakenerBg
@@ -110,6 +117,8 @@
 			color: $deathKnightColor
 		&:hover
 			box-shadow: 0 0 2px 5px $deathKnightShadow
+	&_death-knight
+		color: $deathKnightColor
 	&-warlock
 		color: $warlockColor
 		background: $warlockBg
@@ -343,6 +352,8 @@
 			transform: scale(1)
 	@media (max-width: 991.98px)
 		width: 30rem
+
+
 .card-box, .cards__wrapper
 	column-gap: 1.4rem
 	row-gap: 2rem
@@ -380,7 +391,7 @@
 		min-height: auto
 	&:hover
 		transition: 0.5s all
-		transform: scale(1.1)
+		text-decoration: underline
 	&-races
 		background: $racesColor
 		background-clip: text
@@ -400,15 +411,20 @@
 	text-shadow: 2px 2px 2px $defaultShadow
 	filter: drop-shadow(0 0 2px $defaultShadow)
 	&:hover
-		transform: scale(1.05)
 		transition: 0.5s all
+		.card-span
+			.card-link
+				text-decoration: underline
 	&-races
 		background: $racesColor
 		background-clip: text
 		color: transparent
-	&-buy
-		&:hover
-			transform: scale(1)
+
+
+.card-span
+	margin-left: 5px
+
+
 .card-footer
 	margin-bottom: 1rem
 	border: none
@@ -422,9 +438,6 @@
 	cursor: $cursorText
 	[alt]
 		padding: 0
-	&:hover
-		transition: 0.5s all
-		transform: scale(1.1)
 	&-races
 		background: $racesColor
 		background-clip: text

@@ -18,6 +18,8 @@ a {
   font-weight: 700;
   line-height: 100%;
   text-decoration: none;
+  -webkit-text-decoration-skip-ink: none;
+          text-decoration-skip-ink: none;
   color: unset;
 }
 a:hover {
@@ -691,7 +693,6 @@ footer {
 }
 .card:hover {
   transition: 0.5s all;
-  transform: scale(1.05);
   box-shadow: 0 0 2px 5px #000;
 }
 .card-races {
@@ -728,6 +729,9 @@ footer {
 .card-warrior:hover {
   box-shadow: 0 0 2px 5px #854c27;
 }
+.card_warrior {
+  color: #854c27;
+}
 .card-druid {
   color: #ff7d0a;
   background: linear-gradient(325deg, #ff7d0a, transparent 30%, transparent 35%, #ff7d0a, transparent);
@@ -737,6 +741,9 @@ footer {
 }
 .card-druid:hover {
   box-shadow: 0 0 2px 5px #ff7d0a;
+}
+.card_druid {
+  color: #ff7d0a;
 }
 .card-priest {
   color: #fff;
@@ -768,6 +775,9 @@ footer {
 .card-monk:hover {
   box-shadow: 0 0 2px 5px #0ae979;
 }
+.card_monk {
+  color: #0ae979;
+}
 .card-hunter {
   color: rgba(134, 197, 102, 0.9098039216);
   background: linear-gradient(325deg, rgba(134, 197, 102, 0.9098039216), transparent 30%, transparent 35%, rgba(134, 197, 102, 0.9098039216), transparent);
@@ -798,6 +808,9 @@ footer {
 .card-paladin:hover {
   box-shadow: 0 0 2px 5px #fb3a86;
 }
+.card_paladin {
+  color: #fb3a86;
+}
 .card-awakener {
   color: #00c199;
   background: linear-gradient(325deg, #00c199, transparent 30%, transparent 35%, #00c199, transparent);
@@ -827,6 +840,9 @@ footer {
 }
 .card-death-knight:hover {
   box-shadow: 0 0 2px 5px #c41f3b;
+}
+.card_death-knight {
+  color: #c41f3b;
 }
 .card-warlock {
   color: #7b13df;
@@ -1217,7 +1233,7 @@ footer {
 }
 .card-title:hover {
   transition: 0.5s all;
-  transform: scale(1.1);
+  text-decoration: underline;
 }
 .card-title-races {
   background: linear-gradient(120deg, #8b0000 48%, #1e90ff 48%);
@@ -1244,8 +1260,10 @@ footer {
   filter: drop-shadow(0 0 2px #000);
 }
 .card-text:hover {
-  transform: scale(1.05);
   transition: 0.5s all;
+}
+.card-text:hover .card-span .card-link {
+  text-decoration: underline;
 }
 .card-text-races {
   background: linear-gradient(120deg, #8b0000 48%, #1e90ff 48%);
@@ -1253,8 +1271,9 @@ footer {
           background-clip: text;
   color: transparent;
 }
-.card-text-buy:hover {
-  transform: scale(1);
+
+.card-span {
+  margin-left: 5px;
 }
 
 .card-footer {
@@ -1273,10 +1292,6 @@ footer {
 }
 .card-price [alt] {
   padding: 0;
-}
-.card-price:hover {
-  transition: 0.5s all;
-  transform: scale(1.1);
 }
 .card-price-races {
   background: linear-gradient(120deg, #8b0000 48%, #1e90ff 48%);
