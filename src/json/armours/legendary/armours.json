@@ -341,7 +341,7 @@
 	},
 
 	{
-		"id": "CinchOfUnityRaidFinder",
+		"id": "CinchOfUnityDruidRaidFinder",
 		"type": "legendary",
 		"path": "",
 		"img": "/src/assets/img/armours/bg/legendary/druid/Cinch-of-Unity-druid-raid-finder.png",
@@ -352,7 +352,7 @@
 	},
 
 	{
-		"id": "CinchOfUnityNormal",
+		"id": "CinchOfUnityDruidNormal",
 		"type": "legendary",
 		"path": "",
 		"img": "/src/assets/img/armours/bg/legendary/druid/Cinch-of-Unity-druid-normal.png",
@@ -363,7 +363,7 @@
 	},
 
 	{
-		"id": "CinchOfUnityHeroic",
+		"id": "CinchOfUnityDruidHeroic",
 		"type": "legendary",
 		"path": "",
 		"img": "/src/assets/img/armours/bg/legendary/druid/Cinch-of-Unity-druid-heroic.png",
@@ -374,7 +374,7 @@
 	},
 
 	{
-		"id": "CinchOfUnityMythic",
+		"id": "CinchOfUnityDruidMythic",
 		"type": "legendary",
 		"path": "",
 		"img": "/src/assets/img/armours/bg/legendary/druid/Cinch-of-Unity-druid-mythic.png",
@@ -469,6 +469,237 @@
 		"objectFit": false,
 		"title": "Сущность Насыщения",
 		"description": "Ощутите, как по вашим жилам разливается сила самой природы. Спокойствие восстанавливает на 60% больше здоровья целям, чей уровень здоровья ниже 60%. Класс: Друид.",
+		"price": 500
+	},
+
+	{
+		"id": "WindBlows",
+		"type": "legendary",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/legendary/monk/Wind-Blows.png",
+		"objectFit": false,
+		"title": "Завывание Ветра",
+		"description": "Поднимается солнце, завывает ветер, и сильные проигрывают бой. Увеличивает наносимый вами урон на 3%. Время восстановления Удара Владыки Ветра уменьшается на 20%, а следующий после его применения Нокаутирующий Удар не требует затрат энергии ци. Класс: Монах.",
+		"price": 500
+	},
+
+	{
+		"id": "FundamentalObservation",
+		"type": "legendary",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/legendary/monk/Fundamental-Observation.png",
+		"objectFit": false,
+		"title": "Фундаментальные Наблюдения",
+		"description": "Присядь, расслабься и наблюдай за миром вокруг. Сокращает время восстановления Дзен Медитации на 50% и не отменяет ее, когда вы сдвигаетесь с места или вас поражает вражеская атака в ближнем бою. Класс: Монах.",
+		"price": 500
+	},
+
+	{
+		"id": "UnisonSpaulders",
+		"type": "legendary",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/legendary/monk/Unison-Spaulders.png",
+		"objectFit": false,
+		"title": "Наплеч Согласия",
+		"description": "Те места, по которым ты путешествуешь в своем воображении, на самом деле существуют. В твоем разуме выстроен фантастический город, и ты знаешь каждый его уголок. Твой разум — это целый мир. Каждый из нас — это целое измерение. Успокаивающий Туман также восполняет второму раненому союзнику в радиусе 15 метров здоровье в объеме, равном 50% от лечения, получаемого основной целью. Класс: Монах.",
+		"price": 500
+	},
+
+	{
+		"id": "StormstoutsLastGasp",
+		"type": "legendary",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/legendary/monk/Stormstouts-Last-Gasp.png",
+		"objectFit": false,
+		"title": "Последний Вздох Буйного Портера",
+		"description": "Почему мы сражаемся? Чтобы защитить свой дом и семью. Чтобы сохранить равновесие и достичь гармонии. Удар Бочонком получает 1 дополнительный заряд и наносит на 25% больше урона. Класс: Монах.",
+		"price": 500
+	},
+
+	{
+		"id": "EmperorsCapacitor",
+		"type": "legendary",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/legendary/monk/Emperors-Capacitor.png",
+		"objectFit": false,
+		"title": "Императорский Конденсатор",
+		"description": "Украден у верховного хранителя Ра-дена, поверженного Хранителя бурь. Способности, расходующие энергию ци, увеличивают урон от вашей следующей Сверкающей Нефритовой Молнии на 100% и уменьшают затраты энергии на ее применение на 5%. Эффект суммируется до 20 раз. Класс: Монах.",
+		"price": 500
+	},
+
+	{
+		"id": "SalsalabimsLostTunic",
+		"type": "legendary",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/legendary/monk/Salsalabims-Lost-Tunic.png",
+		"objectFit": false,
+		"title": "Пропавший Мундир Саль'салабима",
+		"description": "Видать, пока Саль'салабим полдня валялся в отключке, кто-то стянул с него мундир... Когда вы используете Удар Бочонком, оставшееся время восстановления Пламенного Дыхания завершается мгновенно. Класс: Монах.",
+		"price": 500
+	},
+
+	{
+		"id": "ShelterOfRin",
+		"type": "legendary",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/legendary/monk/Shelter-of-Rin.png",
+		"objectFit": false,
+		"title": "Укрытие Жинь",
+		"description": "Жинь теперь присматривает за нами, как в свое время император Шаохао присматривал за ней и всей Пандарией. Увеличивает объем здоровья, восстанавливаемого Заживляющим Туманом на 10%. Дар Шей Луна восполняет союзникам, на которых действует Заживляющий Туман, 15% от восполненного им здоровья. Класс: Монах.",
+		"price": 500
+	},
+
+	{
+		"id": "PetrichorLagniappe",
+		"type": "legendary",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/legendary/monk/Petrichor-Lagniappe.png",
+		"objectFit": false,
+		"title": "Дар Сырой Земли",
+		"description": "Хм... Кажется, дождь собирается. Оставшееся время восстановления способности Восстановление Сил сокращается на 2 секунды при каждом использовании Заживляющего Тумана. Класс: Монах.",
+		"price": 500
+	},
+
+	{
+		"id": "AnvilHardenedWristwraps",
+		"type": "legendary",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/legendary/monk/Anvil-Hardened-Wristwraps.png",
+		"objectFit": false,
+		"title": "Закаленные на Наковальне Напульсники",
+		"description": "Некогда принадлежали Вэю Быстроэлю, знатному хмелевару и кузнецу. Каждый раз, когда вы уклоняетесь от атаки или противник промахивается по вам, оставшееся время восстановления ваших отваров уменьшается на 1 секунду. Класс: Монах.",
+		"price": 500
+	},
+
+	{
+		"id": "DrinkingHornCover",
+		"type": "legendary",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/legendary/monk/Drinking-Horn-Cover.png",
+		"objectFit": false,
+		"title": "Чехол от Рога для Питья",
+		"description": "Врайкулам Нордскола любая непогода нипочем, если в достатке согревающего меда. Время действия способности Буря, Земля и Огонь продлевается на 0.4 секунды за каждую израсходованную единицу энергию ци. Класс: Монах.",
+		"price": 500
+	},
+
+	{
+		"id": "HiddenMastersForbiddenTouch",
+		"type": "legendary",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/legendary/monk/Hidden-Masters-Forbidden-Touch.png",
+		"objectFit": false,
+		"title": "Запретное Касание Тайного Мастера",
+		"description": "Тысячи лет древнее знание об управлении потоками жизни тайно передавалось от одного мастера к другому. Смертельное Касание наносит на 40% больше урона. Его можно использовать повторно в течение 5 секунд, после чего начнется время восстановления способности. Класс: Монах.",
+		"price": 500
+	},
+
+	{
+		"id": "OvydsWinterWrap",
+		"type": "legendary",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/legendary/monk/Ovyds-Winter-Wrap.png",
+		"objectFit": false,
+		"title": "Зимняя Повязка Овида",
+		"description": "Философ Овид вошел в историю благодаря тому, что был одним из немногих врайкулов, кто с презрением относился к ратному делу, предпочитая совершенствоваться в красноречии. Каждый раз, когда Окутывающий Туман восстанавливает здоровье, целительный эффект с вероятностью 50% распространится на раненого союзника в радиусе 30 метров. Класс: Монах.",
+		"price": 500
+	},
+
+	{
+		"id": "CinchOfUnityMonkRaidFinder",
+		"type": "legendary",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/legendary/monk/Cinch-of-Unity-monk-raid-finder.png",
+		"objectFit": false,
+		"title": "Кушак Единства",
+		"description": "Вы получаете легендарный эффект вашего ковенанта. Кирии: Оружие Ордена призывает вам на помощь Нюцзао, Черного Быка или Чи-Цзи, Красного Журавля или  Сюэня, Белого Тигра на 12 секунд. Вентиры: Павший Орден на 24 секунды призывает еще 1 адепта. Пока таинственный портал открыт, критические удары ваших способностей сокращают время восстановления Павшего Ордена на 4 секунды. Ночной Народец: Ваши способности восстанавливают Волшебную Линию на 100% чаще. Волшебная Линия применяет к противникам и союзникам эффект Волшебное Влияние, увеличивающий наносимый урон и исцеление на 8% на 10 секунд. Некролорды: Ваши способности с некоторой вероятностью могут вызвать срабатывание Отвара из Костяной Пыли рядом с вашей целью. Класс: Монах.",
+		"price": 500
+	},
+
+	{
+		"id": "CinchOfUnityMonkNormal",
+		"type": "legendary",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/legendary/monk/Cinch-of-Unity-monk-normal.png",
+		"objectFit": false,
+		"title": "Кушак Единства",
+		"description": "Вы получаете легендарный эффект вашего ковенанта. Кирии: Оружие Ордена призывает вам на помощь Нюцзао, Черного Быка или Чи-Цзи, Красного Журавля или  Сюэня, Белого Тигра на 12 секунд. Вентиры: Павший Орден на 24 секунды призывает еще 1 адепта. Пока таинственный портал открыт, критические удары ваших способностей сокращают время восстановления Павшего Ордена на 4 секунды. Ночной Народец: Ваши способности восстанавливают Волшебную Линию на 100% чаще. Волшебная Линия применяет к противникам и союзникам эффект Волшебное Влияние, увеличивающий наносимый урон и исцеление на 8% на 10 секунд. Некролорды: Ваши способности с некоторой вероятностью могут вызвать срабатывание Отвара из Костяной Пыли рядом с вашей целью. Класс: Монах.",
+		"price": 500
+	},
+
+	{
+		"id": "CinchOfUnityMonkHeroic",
+		"type": "legendary",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/legendary/monk/Cinch-of-Unity-monk-heroic.png",
+		"objectFit": false,
+		"title": "Кушак Единства",
+		"description": "Вы получаете легендарный эффект вашего ковенанта. Кирии: Оружие Ордена призывает вам на помощь Нюцзао, Черного Быка или Чи-Цзи, Красного Журавля или  Сюэня, Белого Тигра на 12 секунд. Вентиры: Павший Орден на 24 секунды призывает еще 1 адепта. Пока таинственный портал открыт, критические удары ваших способностей сокращают время восстановления Павшего Ордена на 4 секунды. Ночной Народец: Ваши способности восстанавливают Волшебную Линию на 100% чаще. Волшебная Линия применяет к противникам и союзникам эффект Волшебное Влияние, увеличивающий наносимый урон и исцеление на 8% на 10 секунд. Некролорды: Ваши способности с некоторой вероятностью могут вызвать срабатывание Отвара из Костяной Пыли рядом с вашей целью. Класс: Монах.",
+		"price": 500
+	},
+
+	{
+		"id": "CinchOfUnityMonkMythic",
+		"type": "legendary",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/legendary/monk/Cinch-of-Unity-monk-mythic.png",
+		"objectFit": false,
+		"title": "Кушак Единства",
+		"description": "Вы получаете легендарный эффект вашего ковенанта. Кирии: Оружие Ордена призывает вам на помощь Нюцзао, Черного Быка или Чи-Цзи, Красного Журавля или  Сюэня, Белого Тигра на 12 секунд. Вентиры: Павший Орден на 24 секунды призывает еще 1 адепта. Пока таинственный портал открыт, критические удары ваших способностей сокращают время восстановления Павшего Ордена на 4 секунды. Ночной Народец: Ваши способности восстанавливают Волшебную Линию на 100% чаще. Волшебная Линия применяет к противникам и союзникам эффект Волшебное Влияние, увеличивающий наносимый урон и исцеление на 8% на 10 секунд. Некролорды: Ваши способности с некоторой вероятностью могут вызвать срабатывание Отвара из Костяной Пыли рядом с вашей целью. Класс: Монах.",
+		"price": 500
+	},
+
+	{
+		"id": "GaiPlinsSoothingSash",
+		"type": "legendary",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/legendary/monk/Gai-Plins-Soothing-Sash.png",
+		"objectFit": false,
+		"title": "Успокаивающий Кушак Гая Плина",
+		"description": "Гай Плин заключил в этом кушаке всю целительную силу реки Ру'шань и наделил его аурой безмятежности. Очищающий Отвар также восполняет вам здоровье в объеме 25% от отложенного Пошатыванием урона. Класс: Монах.",
+		"price": 500
+	},
+
+	{
+		"id": "LeggingsOfTheBlackFlame",
+		"type": "legendary",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/legendary/monk/Leggings-of-the-Black-Flame.png",
+		"objectFit": false,
+		"title": "Поножи Черного Пламени",
+		"description": "Черное Пламя — это лучшие услуги и лучшие развлечения, какие только можно купить за деньги: редкие предметы, гладиаторские бои, азартные игры. Громовой Чай случайным образом дает Излиянию, Окутывающему Туману, Купели Сущности, Заживляющему Туману и Оживить еще 1 заряд. Класс: Монах.",
+		"price": 500
+	},
+
+	{
+		"id": "KatsuosEclipse",
+		"type": "legendary",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/legendary/monk/Katsuos-Eclipse.png",
+		"objectFit": false,
+		"title": "Затмение Кацуо",
+		"description": "Если долго тренироваться, реакция станет лучше, и ни один враг не устоит под яростью твоих ударов, – так говорил Коулдер своему брату Кацуо. Снижает затраты энергии ци на применение Неистовых Кулаков на 1. Класс: Монах.",
+		"price": 500
+	},
+
+	{
+		"id": "FirestoneWalkers",
+		"type": "legendary",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/legendary/monk/Firestone-Walkers.png",
+		"objectFit": false,
+		"title": "Огнекаменные Башмаки",
+		"description": "Монахи — брат Адам и брат Давид были превосходными математиками. Они обожали рассуждать обо всяких вычислениях и графиках. — Хмелевар Бринильд. За каждого противника, пораженного Пламенным Дыханием, время восстановления Укрепляющего Отвара снижается на 2 секунды вплоть до 6 секунд. Класс: Монах.",
+		"price": 500
+	},
+
+	{
+		"id": "EithasLunarGlidesOfEramas",
+		"type": "legendary",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/legendary/monk/Eithas-Lunar-Glides-of-Eramas.png",
+		"objectFit": false,
+		"title": "Эй'тас, Лунные Башмаки Эрамаса",
+		"description": "Эрамас Сияющее Пламя часто говорил, какие они удобные. Увеличивает на 10% количество здоровья, восстанавливаемого заклинанием Оживить. Воодушевляющий Транс повышает эффективность исцеления с помощью Оживить на 10%. Оживить восполняет здоровье еще 1 цели. Класс: Монах.",
 		"price": 500
 	},
 
@@ -594,7 +825,7 @@
 	},
 
 	{
-		"id": "GirdleOfUnityRaidFinder",
+		"id": "GirdleOfUnityPaladinRaidFinder",
 		"type": "legendary",
 		"path": "",
 		"img": "/src/assets/img/armours/bg/legendary/paladin/Girdle-of-Unity-paladin-raid-finder.png",
@@ -605,7 +836,7 @@
 	},
 
 	{
-		"id": "GirdleOfUnityNormal",
+		"id": "GirdleOfUnityPaladinNormal",
 		"type": "legendary",
 		"path": "",
 		"img": "/src/assets/img/armours/bg/legendary/paladin/Girdle-of-Unity-paladin-normal.png",
@@ -616,7 +847,7 @@
 	},
 
 	{
-		"id": "GirdleOfUnityHeroic",
+		"id": "GirdleOfUnityPaladinHeroic",
 		"type": "legendary",
 		"path": "",
 		"img": "/src/assets/img/armours/bg/legendary/paladin/Girdle-of-Unity-paladin-heroic.png",
@@ -627,7 +858,7 @@
 	},
 
 	{
-		"id": "GirdleOfUnityMythic",
+		"id": "GirdleOfUnityPaladinMythic",
 		"type": "legendary",
 		"path": "",
 		"img": "/src/assets/img/armours/bg/legendary/paladin/Girdle-of-Unity-paladin-mythic.png",
