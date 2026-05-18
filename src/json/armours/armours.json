@@ -3,10 +3,10 @@
 		"id": "LegendaryArmours",
 		"type": "legendary",
 		"path": "armours/legendary",
-		"cardImg": "/src/assets/img/promo/bg/armours/shields.png",
+		"img": "/src/assets/img/promo/bg/armours/legendary.png",
 		"objectFit": false,
 		"title": "Легендарная Броня",
-		"description": "Закажите любую легендарную броню",
+		"description": "Легендарная броня Азерота. Воплощение стойкости и величия. Наследие защитников, переживших эпохи.",
 		"price": 500
 	},
 
