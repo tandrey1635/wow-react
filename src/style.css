@@ -798,6 +798,9 @@ footer {
 .card-demon-hunter:hover {
   box-shadow: 0 0 2px 5px #8b00ff;
 }
+.card_demon-hunter {
+  color: #8b00ff;
+}
 .card-paladin {
   color: #fb3a86;
   background: linear-gradient(325deg, #fb3a86, transparent 30%, transparent 35%, #fb3a86, transparent);
