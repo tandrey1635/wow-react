@@ -1137,6 +1137,207 @@
 	},
 
 	{
+		"id": "EmptyCrown",
+		"type": "legendary",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/legendary/rogue/Empty-Crown.png",
+		"objectFit": false,
+		"title": "Корона без Короля",
+		"description": "Сложно посадить на цепь пса, которому перед этим надели на голову корону. Скорость восстановления энергии увеличивается на 1 в секунду. Погибель Королей восстанавливает 40 энергии в течение 5 секунд. Класс:",
+		"classes": "Разбойник",
+		"price": 500
+	},
+
+	{
+		"id": "MantleOfTheMasterAssassin",
+		"type": "legendary",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/legendary/rogue/Mantle-of-the-Master-Assassin.png",
+		"objectFit": false,
+		"title": "Оплечье Искусного Убийцы",
+		"description": "Бойся не того, что видишь, а того, чего не видишь. - Матиас Шоу, ШРУ. Пока активна незаметность и в течение 5 секунд после ее отмены вероятность критического удара повышается на 100%. Класс:",
+		"classes": "Разбойник",
+		"price": 500
+	},
+
+	{
+		"id": "GreenskinsWaterloggedWristcuffs",
+		"type": "legendary",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/legendary/rogue/Greenskins-Waterlogged-Wristcuffs.png",
+		"objectFit": false,
+		"title": "Промокшие Насквозь Манжеты Зеленямса",
+		"description": "Для завсегдатая таверны, где в любой момент может произойти потасовка или дуэль, чрезвычайно важна меткость. Промеж Глаз с вероятностью 20% за каждый израсходованный прием серии увеличивает урон от следующего Выстрела из Пистоли на 200%. Класс:",
+		"classes": "Разбойник",
+		"price": 500
+	},
+
+	{
+		"id": "DenialOfTheHalfGiants",
+		"type": "legendary",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/legendary/rogue/Denial-of-the-Half-Giants.png",
+		"objectFit": false,
+		"title": "Упрямство Исполинов",
+		"description": "Если вам кажется, что таурен, который пытается укрыться в тени, — это смешно, вы еще не видели огромных врайкулов, которые стараются скрытно передвигаться посреди бела дня! Ваши завершающие приемы продлевают время действия Теневых Клинков на 0.2 секунды за каждый израсходованный прием серии. Класс:",
+		"classes": "Разбойник",
+		"price": 500
+	},
+
+	{
+		"id": "ZoldyckFamilyTrainingShackles",
+		"type": "legendary",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/legendary/rogue/Zoldyck-Family-Training-Shackles.png",
+		"objectFit": false,
+		"title": "Учебные Кандалы Семейства Золдик",
+		"description": "В семье Золдик принято с самого рождения обучать искусству ликвидации. На нижних этажах поместья обучают мастерски использовать смертоносные яды, а также сопротивляться их воздействию. Яды и эффекты кровотечения наносят на 30% больше урона целям, у которых осталось меньше 30% здоровья. Класс:",
+		"classes": "Разбойник",
+		"price": 500
+	},
+
+	{
+		"id": "ShivarranSymmetry",
+		"type": "legendary",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/legendary/rogue/Shivarran-Symmetry.png",
+		"objectFit": false,
+		"title": "Гармония Шиварры",
+		"description": "Считается, что шиварры как минимум втрое фанатичнее своих собратьев по Пылающему Легиону. В течение первых 3 секунд после активации Шквала Клинков ваши атаки ближнего боя наносят находящимся рядом противникам урон в объеме 39% обычного. Класс:",
+		"classes": "Разбойник",
+		"price": 500
+	},
+
+	{
+		"id": "FirstOfTheDead",
+		"type": "legendary",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/legendary/rogue/First-of-the-Dead.png",
+		"objectFit": false,
+		"title": "Первый из Павших",
+		"description": "В течение 2 секунд после применения Символов Смерти ваш Удар Тьмы дополнительно увеличивает длину серии приемов на 3, а Удар в Спину на 4. Класс:",
+		"classes": "Разбойник",
+		"price": 500
+	},
+
+	{
+		"id": "CinchOfUnityRogueRaidFinder",
+		"type": "legendary",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/legendary/rogue/Cinch-of-Unity-rogue-raid-finder.png",
+		"objectFit": false,
+		"title": "Кушак Единства (поиск рейда)",
+		"description": "Вы получаете легендарный эффект вашего ковенанта. Кирии:  Вентиры: Ночной Народец: Некролорды: Класс:",
+		"classes": "Разбойник",
+		"price": 500
+	},
+
+	{
+		"id": "CinchOfUnityRogueNormal",
+		"type": "legendary",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/legendary/rogue/Cinch-of-Unity-rogue-normal.png",
+		"objectFit": false,
+		"title": "Кушак Единства (обычный режим)",
+		"description": "Вы получаете легендарный эффект вашего ковенанта. Кирии:  Вентиры: Ночной Народец: Некролорды: Класс:",
+		"classes": "Разбойник",
+		"price": 500
+	},
+
+	{
+		"id": "CinchOfUnityRogueHeroic",
+		"type": "legendary",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/legendary/rogue/Cinch-of-Unity-rogue-heroic.png",
+		"objectFit": false,
+		"title": "Кушак Единства (героический режим)",
+		"description": "Вы получаете легендарный эффект вашего ковенанта. Кирии:  Вентиры: Ночной Народец: Некролорды: Класс:",
+		"classes": "Разбойник",
+		"price": 500
+	},
+
+	{
+		"id": "CinchOfUnityRogueMythic",
+		"type": "legendary",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/legendary/rogue/Cinch-of-Unity-rogue-mythic.png",
+		"objectFit": false,
+		"title": "Кушак Единства (эпохальный режим)",
+		"description": "Вы получаете легендарный эффект вашего ковенанта. Кирии:  Вентиры: Ночной Народец: Некролорды: Класс:",
+		"classes": "Разбойник",
+		"price": 500
+	},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	{
+		"id": "WillOfValeera",
+		"type": "legendary",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/legendary/rogue/Will-of-Valeera.png",
+		"objectFit": false,
+		"title": "Воля Валиры",
+		"description": "В юном возрасте Валира пережила гибель родителей, а затем познала заточение и рабство. Ее противники часто недооценивали ее волю к жизни – и расплата за эту ошибку не заставляла себя ждать. Уловка в течение 5 секунд восстанавливает вам 20% от вашего максимального запаса здоровья. Класс:",
+		"classes": "Разбойник",
+		"price": 500
+	},
+
+	{
+		"id": "ThraxisTricksyTreads",
+		"type": "legendary",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/legendary/rogue/Thraxis-Tricksy-Treads.png",
+		"objectFit": false,
+		"title": "Обманчивые Ботфорты Тракси",
+		"description": "Тракси нередко маскировалась под монахиню-хмелевара, чтобы обмануть противников. Увеличивает урон от Устранения на 20% от вашего бонуса к скорости передвижения. Класс:",
+		"classes": "Разбойник",
+		"price": 500
+	},
+
+	{
+		"id": "ShadowSatyrsWalk",
+		"type": "legendary",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/legendary/rogue/Shadow-Satyrs-Walk.png",
+		"objectFit": false,
+		"title": "Поступь Темного Сатира",
+		"description": "Происхождение темных сатиров остается загадкой. Известно лишь, что это бесплотные существа, которые обитают не только в Изумрудном Кошмаре, но и в некоторых местах Азерота. Удар Тьмы восстанавливает 3 энергии и дополнительно 1 энергию за каждые 3 метра расстояния от вас до вашей цели. Класс:",
+		"classes": "Разбойник",
+		"price": 500
+	},
+
+	{
+		"id": "DuskwalkersFootpads",
+		"type": "legendary",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/legendary/rogue/Duskwalkers-Footpads.png",
+		"objectFit": false,
+		"title": "Сапоги Сумеречной",
+		"description": "Если тебя заметит какой-нибудь агент ШРУ вроде Сельваны, останется только бежать. Как можно быстрее и как можно дальше. Сокращает время восстановления Вендетты на 1 секунду за каждые 65 энергии. Класс:",
+		"classes": "Разбойник",
+		"price": 500
+	},
+
+	{
 		"id": "DeathMarch",
 		"type": "legendary",
 		"path": "",

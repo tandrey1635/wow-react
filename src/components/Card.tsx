@@ -165,6 +165,9 @@ const Card = ({type, path, img, objectFit, title, description, descriptionTrim, 
 						classes === "Паладин"
 							? "card_paladin"
 							:
+						classes === "Разбойник"
+							? "card_rogue"
+							:
 						classes === "Рыцарь Смерти"
 							? "card_death-knight"
 							:
@@ -280,6 +283,9 @@ const Card = ({type, path, img, objectFit, title, description, descriptionTrim, 
 							:
 						classes === "Паладин"
 							? "card_paladin"
+							:
+						classes === "Разбойник"
+							? "card_rogue"
 							:
 						classes === "Рыцарь Смерти"
 							? "card_death-knight"

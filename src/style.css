@@ -824,6 +824,9 @@ footer {
 .card-awakener:hover {
   box-shadow: 0 0 2px 5px #00c199;
 }
+.card_rogue {
+  color: #ddcb17;
+}
 .card-rogue {
   color: #ddcb17;
   background: linear-gradient(325deg, #ddcb17, transparent 30%, transparent 35%, #ddcb17, transparent);
