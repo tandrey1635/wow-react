@@ -1,0 +1,441 @@
+[
+	{
+		"id": "LinenBandage",
+		"type": "first-aid",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/first-aid/Linen-Bandage.png",
+		"objectFit": false,
+		"title": "Льняные Бинты",
+		"description": "Использование: Восполнение 120 здоровья в течение 6 секунд.",
+		"price": 300
+	},
+
+	{
+		"id": "HeavyLinenBandage",
+		"type": "first-aid",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/first-aid/Heavy-Linen-Bandage.png",
+		"objectFit": false,
+		"title": "Плотные Льняные Бинты",
+		"description": "Использование: Восполнение 204 здоровья в течение 6 секунд.",
+		"price": 300
+	},
+
+	{
+		"id": "AntiVenom",
+		"type": "first-aid",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/first-aid/Anti-Venom.png",
+		"objectFit": false,
+		"title": "Противоядие",
+		"description": "Использование: Излечение цели от отравления ядом до 25-го уровня.",
+		"price": 300
+	},
+
+	{
+		"id": "WoolBandage",
+		"type": "first-aid",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/first-aid/Wool-Bandage.png",
+		"objectFit": false,
+		"title": "Шерстяные Бинты",
+		"description": "Использование: Восполнение 287 здоровья в течение 7 секунд.",
+		"price": 300
+	},
+
+	{
+		"id": "HeavyWoolBandage",
+		"type": "first-aid",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/first-aid/Heavy-Wool-Bandage.png",
+		"objectFit": false,
+		"title": "Плотные Шерстяные Бинты",
+		"description": "Использование: Восполнение 539 здоровья в течение 7 секунд.",
+		"price": 300
+	},
+
+	{
+		"id": "StrongAntiVenom",
+		"type": "first-aid",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/first-aid/Strong-Anti-Venom.png",
+		"objectFit": false,
+		"title": "Сильное Противоядие",
+		"description": "Использование: Излечение цели от отравления ядом до 35-го уровня.",
+		"price": 300
+	},
+
+	{
+		"id": "SilkBandage",
+		"type": "first-aid",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/first-aid/Silk-Bandage.png",
+		"objectFit": false,
+		"title": "Шелковые Бинты",
+		"description": "Использование: Восполнение 640 здоровья в течение 8 секунд.",
+		"price": 300
+	},
+
+	{
+		"id": "HeavySilkBandage",
+		"type": "first-aid",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/first-aid/Heavy-Silk-Bandage.png",
+		"objectFit": false,
+		"title": "Плотные Шелковые Бинты",
+		"description": "Использование: Восполнение 720 здоровья в течение 8 секунд.",
+		"price": 300
+	},
+
+	{
+		"id": "MageweaveBandage",
+		"type": "first-aid",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/first-aid/Heavy-Silk-Bandage.png",
+		"objectFit": false,
+		"title": "Бинты из Магической Ткани",
+		"description": "Использование: Восполнение 800 здоровья в течение 8 секунд.",
+		"price": 300
+	},
+
+	{
+		"id": "HeavyMageweaveBandage",
+		"type": "first-aid",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/first-aid/Heavy-Mageweave-Bandage.png",
+		"objectFit": false,
+		"title": "Плотные Бинты из Магической Ткани",
+		"description": "Использование: Восполнение 1104 здоровья в течение 8 секунд.",
+		"price": 300
+	},
+
+	{
+		"id": "RuneclothBandage",
+		"type": "first-aid",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/first-aid/Runecloth-Bandage.png",
+		"objectFit": false,
+		"title": "Бинты из Рунической Ткани",
+		"description": "Использование: Восполнение 1360 здоровья в течение 8 секунд.",
+		"price": 300
+	},
+
+	{
+		"id": "HeavyRuneclothBandage",
+		"type": "first-aid",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/first-aid/Heavy-Runecloth-Bandage.png",
+		"objectFit": false,
+		"title": "Плотные Бинты из Рунической Ткани",
+		"description": "Использование: Восполнение 2000 здоровья в течение 8 секунд.",
+		"price": 300
+	},
+
+	{
+		"id": "PowerfulAntiVenom",
+		"type": "first-aid",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/first-aid/Powerful-Anti-Venom.png",
+		"objectFit": false,
+		"title": "Мощное Противоядие",
+		"description": "Излечение цели от отравления ядом до 60-го уровня.",
+		"price": 300
+	},
+
+	{
+		"id": "NetherweaveBandage",
+		"type": "first-aid",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/first-aid/Netherweave-Bandage.png",
+		"objectFit": false,
+		"title": "Бинты из Ткани Пустоты",
+		"description": "Использование: Восполнение 2800 здоровья в течение 8 секунд.",
+		"price": 300
+	},
+
+	{
+		"id": "HeavyNetherweaveBandage",
+		"type": "first-aid",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/first-aid/Heavy-Netherweave-Bandage.png",
+		"objectFit": false,
+		"title": "Плотные Бинты из Ткани Пустоты",
+		"description": "Использование: Восполнение 3400 здоровья в течение 8 секунд.",
+		"price": 300
+	},
+
+	{
+		"id": "FrostweaveBandage",
+		"type": "first-aid",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/first-aid/.png",
+		"objectFit": false,
+		"title": "Бинты из Ледяной Ткани",
+		"description": "Использование: Восполнение 4800 здоровья в течение 8 секунд.",
+		"price": 300
+	},
+
+	{
+		"id": "HeavyFrostweaveBandage",
+		"type": "first-aid",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/first-aid/Heavy-Frostweave-Bandage.png",
+		"objectFit": false,
+		"title": "Плотные Бинты из Ледяной Ткани",
+		"description": "Использование: Восполнение 5800 здоровья в течение 8 секунд.",
+		"price": 300
+	},
+
+	{
+		"id": "EmbersilkBandage",
+		"type": "first-aid",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/first-aid/Embersilk-Bandage.png",
+		"objectFit": false,
+		"title": "Бинты из Угольного Шелка",
+		"description": "Использование: Восполнение 17 400 здоровья в течение 8 секунд.",
+		"price": 300
+	},
+
+	{
+		"id": "DenseEmbersilkBandage",
+		"type": "first-aid",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/first-aid/Dense-Embersilk-Bandage.png",
+		"objectFit": false,
+		"title": "Крепкие Бинты из Угольного Шелка",
+		"description": "Использование: Восполнение 35 000 здоровья в течение 8 секунд.",
+		"price": 300
+	},
+
+	{
+		"id": "HeavyEmbersilkBandage",
+		"type": "first-aid",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/first-aid/Heavy-Embersilk-Bandage.png",
+		"objectFit": false,
+		"title": "Плотные Бинты из Угольного Шелка",
+		"description": "Использование: Восполнение 45 000 здоровья в течение 8 секунд.",
+		"price": 300
+	},
+
+	{
+		"id": "WindwoolBandage",
+		"type": "first-aid",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/first-aid/Windwool-Bandage.png",
+		"objectFit": false,
+		"title": "Бинты из Ветрошерсти",
+		"description": "Использование: Восполнение 125 000 здоровья в течение 8 секунд.",
+		"price": 300
+	},
+
+	{
+		"id": "HeavyWindwoolBandage",
+		"type": "first-aid",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/first-aid/Heavy-Windwool-Bandage.png",
+		"objectFit": false,
+		"title": "Плотные Бинты из Ветрошерсти",
+		"description": "Использование: Восполнение 150 000 здоровья в течение 8 секунд.",
+		"price": 300
+	},
+
+	{
+		"id": "AntisepticBandage",
+		"type": "first-aid",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/first-aid/Antiseptic-Bandage.png",
+		"objectFit": false,
+		"title": "Пропитанные Антисептиком Бинты",
+		"description": "Использование: Восполнение 200 000 здоровья в течение 8 секунд.",
+		"price": 300
+	},
+
+	{
+		"id": "BlackwaterAntiVenom",
+		"type": "first-aid",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/first-aid/Blackwater-Anti-Venom.png",
+		"objectFit": false,
+		"title": "Противоядие Черноводья",
+		"description": "Использование: Нейтрализует яды вплоть до 110-го уровня и сокращает время действия свежепримененных ядов на 50% в течение 2 минут.",
+		"price": 300
+	},
+
+	{
+		"id": "FireAmmoniteOil",
+		"type": "first-aid",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/first-aid/Fire-Ammonite-Oil.png",
+		"objectFit": false,
+		"title": "Масло из Огненного Аммонита",
+		"description": "Использование: Излечивает болезни вплоть до 110-го уровня и сокращает время действия свежепримененных болезней на 50% в течение 2 минут.",
+		"price": 300
+	},
+
+	{
+		"id": "SilkweaveBandage",
+		"type": "first-aid",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/first-aid/Silkweave-Bandage.png",
+		"objectFit": false,
+		"title": "Бинты из Шелкового Полотна",
+		"description": "Использование: Восполнение 500 000 здоровья в течение 8 секунд.",
+		"price": 300
+	},
+
+	{
+		"id": "SilkweaveSplint",
+		"type": "first-aid",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/first-aid/Silkweave-Splint.png",
+		"objectFit": false,
+		"title": "Шина из Шелкового Полотна",
+		"description": "Использование: Восполнение 1 000 000 здоровья в течение 8 секунд.",
+		"price": 300
+	},
+
+	{
+		"id": "ArcaneSplint",
+		"type": "first-aid",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/first-aid/Arcane-Splint.png",
+		"objectFit": false,
+		"title": "Чародейская Шина",
+		"description": "Использование: Восполнение 2 000 000 здоровья в течение 8 секунд.",
+		"price": 300
+	},
+
+	{
+		"id": "TidesprayLinenBandage",
+		"type": "first-aid",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/first-aid/Tidespray-Linen-Bandage.png",
+		"objectFit": false,
+		"title": "Бинты из Морского Льна",
+		"description": "Использование: Восполнение 1 000 000 здоровья в течение 8 секунд.",
+		"price": 300
+	},
+
+	{
+		"id": "DeepSeaBandage",
+		"type": "first-aid",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/first-aid/Deep-Sea-Bandage.png",
+		"objectFit": false,
+		"title": "Бинты из Глубоководного Шелка",
+		"description": "Использование: Восполнение 1 500 000 здоровья в течение 8 секунд.",
+		"price": 300
+	},
+
+	{
+		"id": "ShroudedClothBandage",
+		"type": "first-aid",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/first-aid/Shrouded-Cloth-Bandage.png",
+		"objectFit": false,
+		"title": "Бинты из Сумеречной Ткани",
+		"description": "Использование: Восполнение 100 000 здоровья в течение 8 секунд.",
+		"price": 300
+	},
+
+	{
+		"id": "HeavyShroudedClothBandage",
+		"type": "first-aid",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/first-aid/Heavy-Shrouded-Cloth-Bandage.png",
+		"objectFit": false,
+		"title": "Плотные Бинты из Сумеречной Ткани",
+		"description": "Использование: Восполнение 150 000 здоровья в течение 8 секунд.",
+		"price": 300
+	},
+
+	{
+		"id": "SpiritualAntiVenom",
+		"type": "first-aid",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/first-aid/Spiritual-Anti-Venom.png",
+		"objectFit": false,
+		"title": "Духовное Противоядие",
+		"description": "Использование: Нейтрализует яды вплоть до 60-го уровня и в течение 2 минут сокращает время действия применяемых ядов на 50%.",
+		"price": 300
+	},
+
+	{
+		"id": "WilderclothBandage",
+		"type": "first-aid",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/first-aid/Wildercloth-Bandage.png",
+		"objectFit": false,
+		"title": "Бинты из Ткани Стихий",
+		"description": "Использование: Восполнение 150 000 здоровья в течение 8 секунд.",
+		"price": 300
+	},
+
+	{
+		"id": "YserallinePoultice",
+		"type": "first-aid",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/first-aid/Yseralline-Poultice.png",
+		"objectFit": false,
+		"title": "Компресс из Семян Изеры",
+		"description": "Использование: Восполняет 10% максимального запаса здоровья раз в 1 секунду в течение 8 секунд.",
+		"price": 300
+	},
+
+	{
+		"id": "MedicalWrapKit",
+		"type": "first-aid",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/first-aid/Medical-Wrap-Kit.png",
+		"objectFit": false,
+		"title": "Аптечка с Эластичными Бинтами",
+		"description": "Использование: Восполняет здоровье х2 Бинты из Ткани Стихий от в течение 8 секунд и их действие больше не прерывается при получении урона.",
+		"price": 300
+	},
+
+	{
+		"id": "ScarletSilkBandage",
+		"type": "first-aid",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/first-aid/Scarlet-Silk-Bandage.png",
+		"objectFit": false,
+		"title": "Бинты из Алого Шелка",
+		"description": "Использование: Восполнение 200 000 здоровья в течение 8 секунд.",
+		"price": 300
+	},
+
+	{
+		"id": "WeaverclothBandage",
+		"type": "first-aid",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/first-aid/Weavercloth-Bandage.png",
+		"objectFit": false,
+		"title": "Бинты из Паутинной Ткани",
+		"description": "Использование: Восполнение 300 000 здоровья в течение 8 секунд.",
+		"price": 300
+	},
+
+	{
+		"id": "BrightLinenBandage",
+		"type": "first-aid",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/first-aid/Bright-Linen-Bandage.png",
+		"objectFit": false,
+		"title": "Бинты из Светлого Льна",
+		"description": "Использование: Восполнение 100 000 здоровья в течение 4 секунд.",
+		"price": 300
+	},
+
+	{
+		"id": "BattlePetBandage",
+		"type": "first-aid",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/first-aid/Battle-Pet-Bandage.png",
+		"objectFit": false,
+		"title": "Бинты для Боевых Питомцев",
+		"description": "Использование: Воскрешает и полностью исцеляет всех ваших питомцев.",
+		"price": 300
+	}
+]

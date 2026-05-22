@@ -176,16 +176,16 @@
 	},
 
 	{
-		"id": "firstAid",
+		"id": "FirstAid",
 		"className": "card-professions",
 		"path": "professions/first-aid",
-		"img": "/src/assets/img/promo/bg/professions/first-aid.jpg",
+		"img": "/src/assets/img/promo/bg/professions/first-aid.png",
 		"titleClassName": "card-title-professions",
 		"title": "Первая помощь",
 		"descriptionClassName": "card-text-professions",
 		"description": "Вторичная профессия позволяющая превращать ткани в бинты. Очень полезна классам, у которых нет собственного лечащего заклинания",
 		"priceClassName": "card-price-professions",
-		"price": 200
+		"price": 300
 	},
 
 	{

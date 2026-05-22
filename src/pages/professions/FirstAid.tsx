@@ -18,6 +18,7 @@ const FirstAid = () => {
 				<h1 style={{fontSize: 120}} className="text-center text-danger">В разработке</h1>
 				<Announcement professions firstAid />
 				<Promo firstAid />
+				<Cards firstAid />
 			</Main>
 			<Footer />
 			<ArrowUp />

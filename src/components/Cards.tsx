@@ -59,6 +59,8 @@ import dataMining from '../json/professions/mining/mining.json';
 import dataBlacksmithing from '../json/professions/blacksmithing/blacksmithing.json';
 import dataCooking from '../json/professions/cooking/cooking.json';
 import dataFishing from '../json/professions/fishing/fishing.json';
+import dataFirstAid from '../json/professions/first-aid/first-aid.json';
+
 
 
 import dataPvp from '../json/pvp/pvp.json';
@@ -117,7 +119,7 @@ import type { ICard }  from "../types/card-types";
 
 
 
-const Cards = ({home, twoHandedWeapons, twoHandedAxes, twoHandedAxesWeaponDetails, legendaryWeapons, decorativeWeapons, classes, warriorArtifacts, druidArtifacts, priestArtifacts, mageArtifacts, monkArtifacts, hunterArtifacts, demonHunterArtifacts, paladinArtifacts, rogueArtifacts, deathKnightArtifacts, warlockArtifacts, shamanArtifacts, armsWarrior, furyWarrior, protectionWarrior, legendaryArmours, cloaks, mining, blacksmithing, cooking, fishing, additionsDungeons, additionsRaids, dungeonsClassic, dungeonsBurningCrusade, dungeonsWrathOfTheLichKing, dungeonsCataclysm, dungeonsMistsOfPandaria, dungeonsWarlordsOfDraenor, dungeonsLegion, dungeonsBattleForAzeroth, dungeonsShadowlands, dungeonsDragonflight, dungeonsWarWithin, dungeonsMidnight, dungeonsLastTitan, raidsClassic, raidsBurningCrusade, raidsWrathOfTheLichKing, raidsCataclysm, raidsMistsOfPandaria, raidsWarlordsOfDraenor, raidsLegion, raidsBattleForAzeroth, raidsShadowlands, raidsDragonflight, raidsWarWithin, raidsMidnight, raidsLastTitan, legacy, greatFeats, wowAnniversary, wowCollectionEditions}) => {
+const Cards = ({home, twoHandedWeapons, twoHandedAxes, twoHandedAxesWeaponDetails, legendaryWeapons, decorativeWeapons, classes, warriorArtifacts, druidArtifacts, priestArtifacts, mageArtifacts, monkArtifacts, hunterArtifacts, demonHunterArtifacts, paladinArtifacts, rogueArtifacts, deathKnightArtifacts, warlockArtifacts, shamanArtifacts, armsWarrior, furyWarrior, protectionWarrior, legendaryArmours, cloaks, mining, blacksmithing, cooking, fishing, firstAid, additionsDungeons, additionsRaids, dungeonsClassic, dungeonsBurningCrusade, dungeonsWrathOfTheLichKing, dungeonsCataclysm, dungeonsMistsOfPandaria, dungeonsWarlordsOfDraenor, dungeonsLegion, dungeonsBattleForAzeroth, dungeonsShadowlands, dungeonsDragonflight, dungeonsWarWithin, dungeonsMidnight, dungeonsLastTitan, raidsClassic, raidsBurningCrusade, raidsWrathOfTheLichKing, raidsCataclysm, raidsMistsOfPandaria, raidsWarlordsOfDraenor, raidsLegion, raidsBattleForAzeroth, raidsShadowlands, raidsDragonflight, raidsWarWithin, raidsMidnight, raidsLastTitan, legacy, greatFeats, wowAnniversary, wowCollectionEditions}) => {
 
 
 	const counterCardItems = (dataJson: ICard[]) => dataJson.length
@@ -399,6 +401,16 @@ const Cards = ({home, twoHandedWeapons, twoHandedAxes, twoHandedAxesWeaponDetail
 								<h3 className="text-success text-center fw-bold display-4">Всего Рыболовных Снастей: {counterCardItems(dataFishing)}</h3>
 								<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
 									{ renderCardItems(dataFishing) }
+								</div>
+							</>
+						}
+
+						{/* Первая помощь */}
+						{ firstAid &&
+							<>
+								<h3 className="text-success text-center fw-bold display-4">Всего Бинтов: {counterCardItems(dataFirstAid)}</h3>
+								<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
+									{ renderCardItems(dataFirstAid) }
 								</div>
 							</>
 						}
