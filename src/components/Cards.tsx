@@ -408,7 +408,7 @@ const Cards = ({home, twoHandedWeapons, twoHandedAxes, twoHandedAxesWeaponDetail
 						{/* Первая помощь */}
 						{ firstAid &&
 							<>
-								<h3 className="text-success text-center fw-bold display-4">Всего Бинтов: {counterCardItems(dataFirstAid)}</h3>
+								<h3 className="text-success text-center fw-bold display-4">Всего предметов для оказания Первой Помощи: {counterCardItems(dataFirstAid)}</h3>
 								<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
 									{ renderCardItems(dataFirstAid) }
 								</div>

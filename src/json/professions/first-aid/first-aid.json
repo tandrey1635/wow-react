@@ -91,7 +91,7 @@
 		"id": "MageweaveBandage",
 		"type": "first-aid",
 		"path": "",
-		"img": "/src/assets/img/professions/bg/first-aid/Heavy-Silk-Bandage.png",
+		"img": "/src/assets/img/professions/bg/first-aid/Mageweave-Bandage.png",
 		"objectFit": false,
 		"title": "Бинты из Магической Ткани",
 		"description": "Использование: Восполнение 800 здоровья в течение 8 секунд.",
