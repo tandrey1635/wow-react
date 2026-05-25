@@ -177,14 +177,12 @@
 
 	{
 		"id": "FirstAid",
-		"className": "card-professions",
+		"type": "first-aid",
 		"path": "professions/first-aid",
 		"img": "/src/assets/img/promo/bg/professions/first-aid.png",
-		"titleClassName": "card-title-professions",
-		"title": "Первая помощь",
-		"descriptionClassName": "card-text-professions",
-		"description": "Вторичная профессия позволяющая превращать ткани в бинты. Очень полезна классам, у которых нет собственного лечащего заклинания",
-		"priceClassName": "card-price-professions",
+		"objectFit": false,
+		"title": "Первая Помощь",
+		"description": "Вторичная профессия, позволяющая превращать ткани в бинты восстанавливающие здоровье в бою, а также противоядия, снимающие отравления. Эффективность бинтов зависит от качества ткани. Использование бинта накладывает временное ограничение на повторное применение. Урон прерывает эффект лечения. Рекомендуется классам, не имеющих собственных лечащих заклинаний.",
 		"price": 300
 	},
 

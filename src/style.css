@@ -554,6 +554,9 @@ footer {
 .promo__info_fishing {
   background: url("/src/assets/img/promo/bg/professions/fishing.png") no-repeat center/contain;
 }
+.promo__info_first-aid {
+  background: url("/src/assets/img/promo/bg/professions/first-aid.png") no-repeat center/contain;
+}
 .promo__info_cooking {
   background: url("/src/assets/img/promo/bg/professions/cooking.png") no-repeat center/contain;
 }
@@ -968,6 +971,16 @@ footer {
 }
 .card-cooking:hover {
   box-shadow: 0 0 2px 5px #b84a2a;
+}
+.card-first-aid {
+  color: #d90429;
+  background: linear-gradient(325deg, #d90429, transparent 30%, transparent 35%, #d90429, transparent);
+}
+.card-first-aid [alt] {
+  color: #d90429;
+}
+.card-first-aid:hover {
+  box-shadow: 0 0 2px 5px #d90429;
 }
 .card-fishing {
   color: #1a7f6b;

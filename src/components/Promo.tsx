@@ -63,6 +63,9 @@ const Promo = ({ oneHandedWeapons, twoHandedWeapons, rangeWeapons, legendaryWeap
 						cooking
 							? "promo__info_cooking"
 							:
+						firstAid
+							? "promo__info_first-aid"
+							:
 						fishing
 							? "promo__info_fishing"
 							:
@@ -190,9 +193,6 @@ const Promo = ({ oneHandedWeapons, twoHandedWeapons, rangeWeapons, legendaryWeap
 							:
 						riding
 							? "promo__raitings_riding"
-							:
-						firstAid
-							? "promo__raitings_first-aid"
 							:
 						junkyardTinkering
 							? "promo__raitings_junkyard-tinkering"

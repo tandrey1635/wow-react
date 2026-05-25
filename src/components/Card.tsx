@@ -83,6 +83,9 @@ const Card = ({type, path, img, objectFit, title, description, descriptionTrim, 
 			type === "cooking"
 				? "card-cooking"
 				:
+			type === "first-aid"
+				? "card-first-aid"
+				:
 			type === "fishing"
 				? "card-fishing"
 				:
