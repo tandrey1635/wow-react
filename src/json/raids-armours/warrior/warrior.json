@@ -451,7 +451,7 @@
 		"description": "Комплект брони для воина в награду за достижение Победитель в Испытаниях: Золото. Слава Чемпионам",
 		"descriptionTrim": "Вы лучший боец!",
 		"addition": "Mists of Pandaria",
-		"price": 800
+		"price": 1000
 	},
 
 	{
@@ -581,7 +581,7 @@
 		"description": "Комплект брони для воина в гарнизонном здании Военной фабрики/Дворфийском бункере Орды/Альянса 2-го или 3-го уровня дополения",
 		"descriptionTrim": "Превосходная броня выкованная в самом сердце Литейной Клана Черной Горы! Секрет выплавки этой брони до сих пор не раскрыт!",
 		"addition": "Warlords of Draenor",
-		"price": 1200
+		"price": 1500
 	},
 
 	{
@@ -631,7 +631,7 @@
 		"objectFit": false,
 		"title": "Броня Железной Ярости",
 		"description": "Второй комплект брони для воина из рейда 100-го уровня Цитадель Адского Пламени обычного уровня сложности дополнения",
-		"descriptionTrim": "Владыка Легиона будет повержен! Вы неуязвимы для пламени Скверны!",
+		"descriptionTrim": "Владыка Легиона будет повержен! Азерот не сгорит в огне легиона! Вы неуязвимы для пламени Скверны!",
 		"addition": "Warlords of Draenor",
 		"price": 1500
 	},
@@ -644,7 +644,7 @@
 		"objectFit": false,
 		"title": "Броня Железной Ярости",
 		"description": "Второй комплект брони для воина из рейда 100-го уровня Цитадель Адского Пламени героического уровня сложности дополнения",
-		"descriptionTrim": "",
+		"descriptionTrim": "Владыка Легиона будет повержен! Азерот не сгорит в огне легиона! Вы неуязвимы для пламени Скверны!",
 		"addition": "Warlords of Draenor",
 		"price": 1500
 	},
@@ -657,229 +657,229 @@
 		"objectFit": false,
 		"title": "Броня Железной Ярости",
 		"description": "Второй комплект брони для воина из рейда 100-го уровня Цитадель Адского Пламени эпохального уровня сложности дополнения Warlords of Draenor.",
-		"descriptionTrim": "",
+		"descriptionTrim": "Владыка Легиона будет повержен! Азерот не сгорит в огне легиона! Вы неуязвимы для пламени Скверны!",
 		"addition": "Warlords of Draenor",
 		"price": 1500
 	},
 
 	{
 		"id": "WarplateOfTheObsidianAspectRaidFinder",
-		"className": "card-warrior",
+		"type": "warrior",
 		"path": "",
-		"cardImg": "/src/assets/img/promo/bg/classes/Garrosh-Hellscrim.png",
-		"titleClassName": "card-title-warrior",
+		"img": "/src/assets/img/raids-armours/bg/warrior/Warplate-of-the-Obsidian-Aspect-raid-finder.png",
+		"objectFit": false,
 		"title": "Боевые Латы Обсидианового Аспекта",
-		"descriptionClassName": "card-text-warrior",
-		"description": "Первый комплект брони для воина из рейда 110-го уровня Цитадель Ночи режима поиска рейдов дополнения Legion.",
-		"priceClassName": "card-price-warrior",
-		"price": 1200
+		"description": "Первый комплект брони для воина из рейда 110-го уровня Цитадель Ночи режима поиска рейдов дополнения",
+		"descriptionTrim": "будет повержен!",
+		"addition": "Legion",
+		"price": 2000
 	},
 
 	{
 		"id": "WarplateOfTheObsidianAspectNormal",
-		"className": "card-warrior",
+		"type": "warrior",
 		"path": "",
-		"cardImg": "/src/assets/img/promo/bg/classes/Garrosh-Hellscrim.png",
-		"titleClassName": "card-title-warrior",
+		"img": "/src/assets/img/raids-armours/bg/warrior/Warplate-of-the-Obsidian-Aspect-normal.png",
+		"objectFit": false,
 		"title": "Боевые Латы Обсидианового Аспекта",
-		"descriptionClassName": "card-text-warrior",
-		"description": "Первый комплект брони для воина из рейда 110-го уровня Цитадель Ночи обычного уровня сложности дополнения Legion.",
-		"priceClassName": "card-price-warrior",
-		"price": 1200
+		"description": "Первый комплект брони для воина из рейда 110-го уровня Цитадель Ночи обычного уровня сложности дополнения",
+		"descriptionTrim": "будет повержен!",
+		"addition": "Legion",
+		"price": 2000
 	},
 
 	{
 		"id": "WarplateOfTheObsidianAspectHeroic",
-		"className": "card-warrior",
+		"type": "warrior",
 		"path": "",
-		"cardImg": "/src/assets/img/promo/bg/classes/Garrosh-Hellscrim.png",
-		"titleClassName": "card-title-warrior",
+		"img": "/src/assets/img/raids-armours/bg/warrior/Warplate-of-the-Obsidian-Aspect-heroic.png",
+		"objectFit": false,
 		"title": "Боевые Латы Обсидианового Аспекта",
-		"descriptionClassName": "card-text-warrior",
-		"description": "Первый комплект брони для воина из рейда 110-го уровня Цитадель Ночи героического уровня сложности дополнения Legion.",
-		"priceClassName": "card-price-warrior",
-		"price": 1200
+		"description": "Первый комплект брони для воина из рейда 110-го уровня Цитадель Ночи героического уровня сложности дополнения",
+		"descriptionTrim": "будет повержен!",
+		"addition": "Legion",
+		"price": 2000
 	},
 
 	{
 		"id": "WarplateOfTheObsidianAspectMythic",
-		"className": "card-warrior",
+		"type": "warrior",
 		"path": "",
-		"cardImg": "/src/assets/img/promo/bg/classes/Garrosh-Hellscrim.png",
-		"titleClassName": "card-title-warrior",
+		"img": "/src/assets/img/raids-armours/bg/warrior/Warplate-of-the-Obsidian-Aspect-mythic.png",
+		"objectFit": false,
 		"title": "Боевые Латы Обсидианового Аспекта",
-		"descriptionClassName": "card-text-warrior",
-		"description": "Первый комплект брони для воина из рейда 110-го уровня Цитадель Ночи эпохального уровня сложности дополнения Legion.",
-		"priceClassName": "card-price-warrior",
-		"price": 1200
+		"description": "Первый комплект брони для воина из рейда 110-го уровня Цитадель Ночи эпохального уровня сложности дополнения",
+		"descriptionTrim": "будет повержен!",
+		"addition": "Legion",
+		"price": 2000
 	},
 
 	{
 		"id": "FuneraryPlateOfTheChosenDeadRaidFinder",
-		"className": "card-warrior",
+		"type": "warrior",
 		"path": "",
-		"cardImg": "/src/assets/img/promo/bg/classes/Garrosh-Hellscrim.png",
-		"titleClassName": "card-title-warrior",
+		"img": "/src/assets/img/raids-armours/bg/warrior/Funerary-Plate-of-the-Chosen-Dead-raid-finder.png",
+		"objectFit": false,
 		"title": "Траурные Латы Избранных Мертвецов",
-		"descriptionClassName": "card-text-warrior",
-		"description": "Второй комплект брони для воина из рейда 110-го уровня Испытание Доблести режима поиска рейдов дополнения Legion.",
-		"priceClassName": "card-price-warrior",
-		"price": 1200
+		"description": "Второй комплект брони для воина из рейда 110-го уровня Испытание Доблести режима поиска рейдов дополнения",
+		"descriptionTrim": "будет повержен!",
+		"addition": "Legion",
+		"price": 2000
 	},
 
 	{
 		"id": "FuneraryPlateOfTheChosenDeadNormal",
-		"className": "card-warrior",
+		"type": "warrior",
 		"path": "",
-		"cardImg": "/src/assets/img/promo/bg/classes/Garrosh-Hellscrim.png",
-		"titleClassName": "card-title-warrior",
+		"img": "/src/assets/img/raids-armours/bg/warrior/Funerary-Plate-of-the-Chosen-Dead-normal.png",
+		"objectFit": false,
 		"title": "Траурные Латы Избранных Мертвецов",
-		"descriptionClassName": "card-text-warrior",
-		"description": "Второй комплект брони для воина из рейда 110-го уровня Испытание Доблести обычного уровня сложности дополнения Legion.",
-		"priceClassName": "card-price-warrior",
-		"price": 1200
+		"description": "Второй комплект брони для воина из рейда 110-го уровня Испытание Доблести обычного уровня сложности дополнения",
+		"descriptionTrim": "будет повержен!",
+		"addition": "Legion",
+		"price": 2000
 	},
 
 	{
 		"id": "FuneraryPlateOfTheChosenDeadHeroic",
-		"className": "card-warrior",
+		"type": "warrior",
 		"path": "",
-		"cardImg": "/src/assets/img/promo/bg/classes/Garrosh-Hellscrim.png",
-		"titleClassName": "card-title-warrior",
+		"img": "/src/assets/img/raids-armours/bg/warrior/Funerary-Plate-of-the-Chosen-Dead-heroic.png",
+		"objectFit": false,
 		"title": "Траурные Латы Избранных Мертвецов",
-		"descriptionClassName": "card-text-warrior",
-		"description": "Второй комплект брони для воина из рейда 110-го уровня Испытание Доблести героического уровня сложности дополнения Legion.",
-		"priceClassName": "card-price-warrior",
-		"price": 1200
+		"description": "Второй комплект брони для воина из рейда 110-го уровня Испытание Доблести героического уровня сложности дополнения",
+		"descriptionTrim": "будет повержен!",
+		"addition": "Legion",
+		"price": 2000
 	},
 
 	{
 		"id": "FuneraryPlateOfTheChosenDeadMythic",
-		"className": "card-warrior",
+		"type": "warrior",
 		"path": "",
-		"cardImg": "/src/assets/img/promo/bg/classes/Garrosh-Hellscrim.png",
-		"titleClassName": "card-title-warrior",
+		"img": "/src/assets/img/raids-armours/bg/warrior/Funerary-Plate-of-the-Chosen-Dead-mythic.png",
+		"objectFit": false,
 		"title": "Траурные Латы Избранных Мертвецов",
-		"descriptionClassName": "card-text-warrior",
-		"description": "Второй комплект брони для воина из рейда 110-го уровня Испытание Доблести эпохального уровня сложности дополнения Legion.",
-		"priceClassName": "card-price-warrior",
-		"price": 1200
+		"description": "Второй комплект брони для воина из рейда 110-го уровня Испытание Доблести эпохального уровня сложности дополнения",
+		"descriptionTrim": "будет повержен!",
+		"addition": "Legion",
+		"price": 2000
 	},
 
 	{
 		"id": "TitanicOnslaughtArmorRaidFinder",
-		"className": "card-warrior",
+		"type": "warrior",
 		"path": "",
-		"cardImg": "/src/assets/img/promo/bg/classes/Garrosh-Hellscrim.png",
-		"titleClassName": "card-title-warrior",
+		"img": "/src/assets/img/raids-armours/bg/warrior/Titanic-Onslaught-Armor-raid-finder.png",
+		"objectFit": false,
 		"title": "Доспехи Титанического Натиска",
-		"descriptionClassName": "card-text-warrior",
-		"description": "Третий комплект брони для воина из рейда 110-го уровня Гробница Саргераса режима поиска рейдов дополнения Legion.",
-		"priceClassName": "card-price-warrior",
-		"price": 1200
+		"description": "Третий комплект брони для воина из рейда 110-го уровня Гробница Саргераса режима поиска рейдов дополнения",
+		"descriptionTrim": "будет повержен!",
+		"addition": "Legion",
+		"price": 2000
 	},
 
 	{
 		"id": "TitanicOnslaughtArmorNormal",
-		"className": "card-warrior",
+		"type": "warrior",
 		"path": "",
-		"cardImg": "/src/assets/img/promo/bg/classes/Garrosh-Hellscrim.png",
-		"titleClassName": "card-title-warrior",
+		"img": "/src/assets/img/raids-armours/bg/warrior/Titanic-Onslaught-Armor-normal.png",
+		"objectFit": false,
 		"title": "Доспехи Титанического Натиска",
-		"descriptionClassName": "card-text-warrior",
-		"description": "Третий комплект брони для воина из рейда 110-го уровня Гробница Саргераса обычного уровня сложности дополнения Legion.",
-		"priceClassName": "card-price-warrior",
-		"price": 1200
+		"description": "Третий комплект брони для воина из рейда 110-го уровня Гробница Саргераса обычного уровня сложности дополнения",
+		"descriptionTrim": "будет повержен!",
+		"addition": "Legion",
+		"price": 2000
 	},
 
 	{
 		"id": "TitanicOnslaughtArmorHeroic",
-		"className": "card-warrior",
+		"type": "warrior",
 		"path": "",
-		"cardImg": "/src/assets/img/promo/bg/classes/Garrosh-Hellscrim.png",
-		"titleClassName": "card-title-warrior",
+		"img": "/src/assets/img/raids-armours/bg/warrior/Titanic-Onslaught-Armor-heroic.png",
+		"objectFit": false,
 		"title": "Доспехи Титанического Натиска",
-		"descriptionClassName": "card-text-warrior",
-		"description": "Третий комплект брони для воина из рейда 110-го уровня Гробница Саргераса героического уровня сложности дополнения Legion.",
-		"priceClassName": "card-price-warrior",
-		"price": 1200
+		"description": "Третий комплект брони для воина из рейда 110-го уровня Гробница Саргераса героического уровня сложности дополнения",
+		"descriptionTrim": "будет повержен!",
+		"addition": "Legion",
+		"price": 2000
 	},
 
 	{
 		"id": "TitanicOnslaughtArmorMythic",
-		"className": "card-warrior",
+		"type": "warrior",
 		"path": "",
-		"cardImg": "/src/assets/img/promo/bg/classes/Garrosh-Hellscrim.png",
-		"titleClassName": "card-title-warrior",
+		"img": "/src/assets/img/raids-armours/bg/warrior/Titanic-Onslaught-Armor-mythic.png",
+		"objectFit": false,
 		"title": "Доспехи Титанического Натиска",
-		"descriptionClassName": "card-text-warrior",
-		"description": "Третий комплект брони для воина из рейда 110-го уровня Гробница Саргераса эпохального уровня сложности дополнения Legion.",
-		"priceClassName": "card-price-warrior",
-		"price": 1200
+		"description": "Третий комплект брони для воина из рейда 110-го уровня Гробница Саргераса эпохального уровня сложности дополнения",
+		"descriptionTrim": "будет повержен!",
+		"addition": "Legion",
+		"price": 2000
 	},
 
 	{
 		"id": "WorldDefilersArmor",
-		"className": "card-warrior",
+		"type": "warrior",
 		"path": "",
-		"cardImg": "/src/assets/img/promo/bg/classes/Garrosh-Hellscrim.png",
-		"titleClassName": "card-title-warrior",
+		"img": "/src/assets/img/raids-armours/bg/warrior/World-Defilers-Armor.png",
+		"objectFit": false,
 		"title": "Доспехи Осквернителя Миров",
-		"descriptionClassName": "card-text-warrior",
-		"description": "Комплект брони для воина из локации Аргус с редких элитных монстров дополнения Legion.",
-		"priceClassName": "card-price-warrior",
-		"price": 1500
+		"description": "Комплект брони из локации Аргус с редких элитных монстров дополнения",
+		"descriptionTrim": "будет повержен!",
+		"addition": "Legion",
+		"price": 2000
 	},
 
 	{
 		"id": "JuggernautBattlegearRaidFinder",
-		"className": "card-warrior",
+		"type": "warrior",
 		"path": "",
-		"cardImg": "/src/assets/img/promo/bg/classes/Garrosh-Hellscrim.png",
-		"titleClassName": "card-title-warrior",
+		"img": "/src/assets/img/raids-armours/bg/warrior/Juggernaut-Battlegear-raid-finder.png",
+		"objectFit": false,
 		"title": "Боевое Облачение Исполина",
-		"descriptionClassName": "card-text-warrior",
-		"description": "Четвертый комплект брони для воина из рейда 110-го уровня Анторус, Пылающий Трон режима поиска рейдов дополнения Legion.",
-		"priceClassName": "card-price-warrior",
-		"price": 1200
+		"description": "Четвертый комплект брони для воина из рейда 110-го уровня Анторус, Пылающий Трон режима поиска рейдов дополнения",
+		"descriptionTrim": "будет повержен!",
+		"addition": "Legion",
+		"price": 2000
 	},
 
 	{
 		"id": "JuggernautBattlegearNormal",
-		"className": "card-warrior",
+		"type": "warrior",
 		"path": "",
-		"cardImg": "/src/assets/img/promo/bg/classes/Garrosh-Hellscrim.png",
-		"titleClassName": "card-title-warrior",
+		"img": "/src/assets/img/raids-armours/bg/warrior/Juggernaut-Battlegear-normal.png",
+		"objectFit": false,
 		"title": "Боевое Облачение Исполина",
-		"descriptionClassName": "card-text-warrior",
-		"description": "Четвертый комплект брони для воина из рейда 110-го уровня Анторус, Пылающий Трон обычного уровня сложности дополнения Legion.",
-		"priceClassName": "card-price-warrior",
-		"price": 1200
+		"description": "Четвертый комплект брони для воина из рейда 110-го уровня Анторус, Пылающий Трон обычного уровня сложности дополнения",
+		"descriptionTrim": "будет повержен!",
+		"addition": "Legion",
+		"price": 2000
 	},
 
 	{
 		"id": "JuggernautBattlegearHeroic",
-		"className": "card-warrior",
+		"type": "warrior",
 		"path": "",
-		"cardImg": "/src/assets/img/promo/bg/classes/Garrosh-Hellscrim.png",
-		"titleClassName": "card-title-warrior",
+		"img": "/src/assets/img/raids-armours/bg/warrior/Juggernaut-Battlegear-heroic.png",
+		"objectFit": false,
 		"title": "Боевое Облачение Исполина",
-		"descriptionClassName": "card-text-warrior",
-		"description": "Четвертый комплект брони для воина из рейда 110-го уровня Анторус, Пылающий Трон героического уровня сложности дополнения Legion.",
-		"priceClassName": "card-price-warrior",
-		"price": 1200
+		"description": "Четвертый комплект брони для воина из рейда 110-го уровня Анторус, Пылающий Трон героического уровня сложности дополнения",
+		"descriptionTrim": "будет повержен!",
+		"addition": "Legion",
+		"price": 2000
 	},
 
 	{
 		"id": "JuggernautBattlegearMythic",
-		"className": "card-warrior",
+		"type": "warrior",
 		"path": "",
-		"cardImg": "/src/assets/img/promo/bg/classes/Garrosh-Hellscrim.png",
-		"titleClassName": "card-title-warrior",
+		"img": "/src/assets/img/raids-armours/bg/warrior/Juggernaut-Battlegear-mythic.png",
+		"objectFit": false,
 		"title": "Боевое Облачение Исполина",
-		"descriptionClassName": "card-text-warrior",
-		"description": "Четвертый комплект брони для воина из рейда 110-го уровня Анторус, Пылающий Трон эпохального уровня сложности дополнения Legion.",
-		"priceClassName": "card-price-warrior",
-		"price": 1200
+		"description": "Четвертый комплект брони для воина из рейда 110-го уровня Анторус, Пылающий Трон эпохального уровня сложности дополнения",
+		"descriptionTrim": "будет повержен!",
+		"addition": "Legion",
+		"price": 2000
 	}
 ]
