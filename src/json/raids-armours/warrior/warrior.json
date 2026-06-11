@@ -442,6 +442,45 @@
 	},
 
 	{
+		"id": "SwarmbreakersBattleplateWhite",
+		"type": "warrior",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/Swarmbreakers-Battleplate-warrior-white.png",
+		"objectFit": false,
+		"title": "Боевые Латы Грозы Роя",
+		"description": "Комплект брони из подземелий дополнения",
+		"descriptionTrim": "Броня, закаленная в героических походах по самым опасным подземельям Пандарии, от заснеженных троп Монастыря Шадо-Пан до древних залов Дворца Могу'шан. Вы прошли через войны кланов и древнюю магию, и теперь ваша сталь звенит песней побед!",
+		"addition": "Mists of Pandaria",
+		"price": 1000
+	},
+
+	{
+		"id": "SwarmbreakersBattleplateOrange",
+		"type": "warrior",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/Swarmbreakers-Battleplate-warrior-orange.png",
+		"objectFit": false,
+		"title": "Боевые Латы Грозы Роя",
+		"description": "Комплект брони из подземелий дополнения",
+		"descriptionTrim": "Броня, закаленная в героических походах по самым опасным подземельям Пандарии, от заснеженных троп Монастыря Шадо-Пан до древних залов Дворца Могу'шан. Вы прошли через войны кланов и древнюю магию, и теперь ваша сталь звенит песней побед!",
+		"addition": "Mists of Pandaria",
+		"price": 1000
+	},
+
+	{
+		"id": "SwarmbreakersBattleplateBlack",
+		"type": "warrior",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/Swarmbreakers-Battleplate-warrior-black.png",
+		"objectFit": false,
+		"title": "Боевые Латы Грозы Роя",
+		"description": "Комплект брони из подземелий дополнения",
+		"descriptionTrim": "Броня, закаленная в героических походах по самым опасным подземельям Пандарии, от заснеженных троп Монастыря Шадо-Пан до древних залов Дворца Могу'шан. Вы прошли через войны кланов и древнюю магию, и теперь ваша сталь звенит песней побед!",
+		"addition": "Mists of Pandaria",
+		"price": 1000
+	},
+
+	{
 		"id": "GoldenKingPlate",
 		"type": "warrior",
 		"path": "",
@@ -572,13 +611,26 @@
 	},
 
 	{
+		"id": "ShadowmoonAnchoritesGuardplate",
+		"type": "warrior",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/Shadowmoon-Anchorites-Guardplate-warrior.png",
+		"objectFit": false,
+		"title": "Защитные Пластины Анахорета Призрачной Луны",
+		"description": "Комплект брони в награду за путешествия во времени по подземельям дополнения",
+		"descriptionTrim": "Броня, дарованная Хранителями Времени за череду подвигов в их походах по лабиринтам вечности. Ваша броня закалена в схватках с аномалиями прошлого и будущего, а ее сталь несет несокрушимую мощь самого времени!",
+		"addition": "Warlords of Draenor",
+		"price": 1500
+	},
+
+	{
 		"id": "BlackrockPlate",
 		"type": "warrior",
 		"path": "",
 		"img": "/src/assets/img/raids-armours/bg/warrior/Blackrock-Plate.png",
 		"objectFit": false,
 		"title": "Броня Черной Горы",
-		"description": "Комплект брони для воина в гарнизонном здании Военной фабрики/Дворфийском бункере Орды/Альянса 2-го или 3-го уровня дополения",
+		"description": "Комплект брони для воина в гарнизонном здании Военной фабрики/Дворфийском бункере Орды/Альянса 2-го или 3-го уровня дополнения",
 		"descriptionTrim": "Превосходная броня выкованная в самом сердце Литейной Клана Черной Горы! Секрет выплавки этой брони до сих пор не раскрыт!",
 		"addition": "Warlords of Draenor",
 		"price": 1500
@@ -624,6 +676,19 @@
 	},
 
 	{
+		"id": "DemonbreakerWargear",
+		"type": "warrior",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/Demonbreaker-Wargear-warrior.png",
+		"objectFit": false,
+		"title": "Боевой Доспех Бесолома",
+		"description": "Второй комплект брони для воина из рейда 100-го уровня Цитадель Адского Пламени  режима поиска рейдов дополнения",
+		"descriptionTrim": "Владыка Легиона будет повержен! Азерот не сгорит в огне легиона! Вы неуязвимы для пламени Скверны!",
+		"addition": "Warlords of Draenor",
+		"price": 1500
+	},
+
+	{
 		"id": "BattlegearOfIronWrathNormal",
 		"type": "warrior",
 		"path": "",
@@ -656,7 +721,7 @@
 		"img": "/src/assets/img/raids-armours/bg/warrior/Battlegear-of-Iron-Wrath-mythic.png",
 		"objectFit": false,
 		"title": "Броня Железной Ярости",
-		"description": "Второй комплект брони для воина из рейда 100-го уровня Цитадель Адского Пламени эпохального уровня сложности дополнения Warlords of Draenor.",
+		"description": "Второй комплект брони для воина из рейда 100-го уровня Цитадель Адского Пламени эпохального уровня сложности дополнения",
 		"descriptionTrim": "Владыка Легиона будет повержен! Азерот не сгорит в огне легиона! Вы неуязвимы для пламени Скверны!",
 		"addition": "Warlords of Draenor",
 		"price": 1500
