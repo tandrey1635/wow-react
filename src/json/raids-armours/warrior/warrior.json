@@ -481,6 +481,58 @@
 	},
 
 	{
+		"id": "MountainscalerBattleplateYellow",
+		"type": "warrior",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/Mountainscaler-Battleplate-warrior-yellow.png",
+		"objectFit": false,
+		"title": "Боевые Латы Шань'цзэ",
+		"description": "Комплект брони, дарованный за выполнение череды опасных заданий. Каждая деталь выкована в благодарность за самоотверженные подвиги и верность избранному пути дополнения",
+		"descriptionTrim": "Доблесть и труды героя нашли свое воплощение в этом доспехе!",
+		"addition": "Mists of Pandaria",
+		"price": 1000
+	},
+
+	{
+		"id": "MountainscalerBattleplateRed",
+		"type": "warrior",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/Mountainscaler-Battleplate-warrior-red.png",
+		"objectFit": false,
+		"title": "Боевые Латы Шань'цзэ",
+		"description": "Комплект брони, дарованный за выполнение череды опасных заданий. Каждая деталь выкована в благодарность за самоотверженные подвиги и верность избранному пути дополнения",
+		"descriptionTrim": "Доблесть и труды героя нашли свое воплощение в этом доспехе!",
+		"addition": "Mists of Pandaria",
+		"price": 1000
+	},
+
+	{
+		"id": "MountainscalerBattleplateGreen",
+		"type": "warrior",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/Mountainscaler-Battleplate-warrior-green.png",
+		"objectFit": false,
+		"title": "Боевые Латы Шань'цзэ",
+		"description": "Комплект брони, дарованный за выполнение череды опасных заданий. Каждая деталь выкована в благодарность за самоотверженные подвиги и верность избранному пути дополнения",
+		"descriptionTrim": "Доблесть и труды героя нашли свое воплощение в этом доспехе!",
+		"addition": "Mists of Pandaria",
+		"price": 1000
+	},
+
+	{
+		"id": "MountainscalerBattleplateBlack",
+		"type": "warrior",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/Mountainscaler-Battleplate-warrior-black.png",
+		"objectFit": false,
+		"title": "Боевые Латы Шань'цзэ",
+		"description": "Комплект брони, дарованный за выполнение череды опасных заданий. Каждая деталь выкована в благодарность за самоотверженные подвиги и верность избранному пути дополнения",
+		"descriptionTrim": "Доблесть и труды героя нашли свое воплощение в этом доспехе!",
+		"addition": "Mists of Pandaria",
+		"price": 1000
+	},
+
+	{
 		"id": "GoldenKingPlate",
 		"type": "warrior",
 		"path": "",
