@@ -533,6 +533,45 @@
 	},
 
 	{
+		"id": "BrickBattleplateSilver",
+		"type": "warrior",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/Brick-Battleplate-warrior-silver.png",
+		"objectFit": false,
+		"title": "Боевые Латы Стража Душ",
+		"description": "Комплект брони, дарованный за выполнение череды опасных заданий. Каждая деталь выкована в благодарность за самоотверженные подвиги и верность избранному пути дополнения",
+		"descriptionTrim": "Доблесть и труды героя нашли свое воплощение в этом доспехе!",
+		"addition": "Mists of Pandaria",
+		"price": 1000
+	},
+
+	{
+		"id": "BrickBattleplateGold",
+		"type": "warrior",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/Brick-Battleplate-warrior-gold.png",
+		"objectFit": false,
+		"title": "Боевые Латы Стража Душ",
+		"description": "Комплект брони, дарованный за выполнение череды опасных заданий. Каждая деталь выкована в благодарность за самоотверженные подвиги и верность избранному пути дополнения",
+		"descriptionTrim": "Доблесть и труды героя нашли свое воплощение в этом доспехе!",
+		"addition": "Mists of Pandaria",
+		"price": 1000
+	},
+
+	{
+		"id": "BrickBattleplateBlue",
+		"type": "warrior",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/Brick-Battleplate-warrior-blue.png",
+		"objectFit": false,
+		"title": "Боевые Латы Стража Душ",
+		"description": "Комплект брони, дарованный за выполнение череды опасных заданий. Каждая деталь выкована в благодарность за самоотверженные подвиги и верность избранному пути дополнения",
+		"descriptionTrim": "Доблесть и труды героя нашли свое воплощение в этом доспехе!",
+		"addition": "Mists of Pandaria",
+		"price": 1000
+	},
+
+	{
 		"id": "GoldenKingPlate",
 		"type": "warrior",
 		"path": "",
@@ -546,13 +585,65 @@
 	},
 
 	{
+		"id": "GatecrashersBattleplateBlack",
+		"type": "warrior",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/Gatecrashers-Battleplate-warrior-black.png",
+		"objectFit": false,
+		"title": "Боевые Латы Крушителя Ворот",
+		"description": "Комплект брони для воина, найденный на Вневременном Острове — священном месте пандаренов, дополнения",
+		"descriptionTrim": "Когда-то здесь царил мир между пандаренами, яунголами и их полубогом Ордосом, а Небожители испытывали юных героев на мудрость, силу и выносливость. Броня, не тронутая веками! Вы достойны силы, что старше самой Пандарии!",
+		"addition": "Mists of Pandaria",
+		"price": 1000
+	},
+
+	{
+		"id": "GatecrashersBattleplateRaidFinder",
+		"type": "warrior",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/Gatecrashers-Battleplate-warrior-raid-finder.png",
+		"objectFit": false,
+		"title": "Боевые Латы Крушителя Ворот",
+		"description": "Первый комплект брони для воина из рейда 90-го уровня Подземелья Могу'шан режима поиска рейдов дополнения",
+		"descriptionTrim": "Император будет повержен! Древняя магия могу не остановит вас! Вы сильнее проклятий, что сковывали эту землю тысячелетиями!",
+		"addition": "Mists of Pandaria",
+		"price": 1000
+	},
+
+	{
+		"id": "GatecrashersBattleplateNormal",
+		"type": "warrior",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/Gatecrashers-Battleplate-warrior-normal.png",
+		"objectFit": false,
+		"title": "Боевые Латы Крушителя Ворот",
+		"description": "Первый комплект брони для воина из рейда 90-го уровня Подземелья Могу'шан обычного уровня сложности дополнения",
+		"descriptionTrim": "Император будет повержен! Древняя магия могу не остановит вас! Вы сильнее проклятий, что сковывали эту землю тысячелетиями!",
+		"addition": "Mists of Pandaria",
+		"price": 1000
+	},
+
+	{
+		"id": "GatecrashersBattleplateHeroic",
+		"type": "warrior",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/Gatecrashers-Battleplate-warrior-heroic.png",
+		"objectFit": false,
+		"title": "Боевые Латы Крушителя Ворот",
+		"description": "Первый комплект брони для воина из рейда 90-го уровня Подземелья Могу'шан героического уровня сложности дополнения",
+		"descriptionTrim": "Император будет повержен! Древняя магия могу не остановит вас! Вы сильнее проклятий, что сковывали эту землю тысячелетиями!",
+		"addition": "Mists of Pandaria",
+		"price": 1000
+	},
+
+	{
 		"id": "BattleplateOfResoundingRingsRaidFinder",
 		"type": "warrior",
 		"path": "",
 		"img": "/src/assets/img/raids-armours/bg/warrior/Battleplate-of-Resounding-Rings-raid-finder.png",
 		"objectFit": false,
 		"title": "Боевые Латы из Резонирующих Колец",
-		"description": "Первый комплект брони для воина из рейдов 90-го уровня Сердце Страха и Терасса Вечной Весны режима поиска рейдов дополнения",
+		"description": "Второй комплект брони для воина из рейдов 90-го уровня Сердце Страха и Терасса Вечной Весны режима поиска рейдов дополнения",
 		"descriptionTrim": "Императрица Богомолов и Воплощение Ужаса будут повержены! Вам не ведом страх!",
 		"addition": "Mists of Pandaria",
 		"price": 1000
@@ -565,7 +656,7 @@
 		"img": "/src/assets/img/raids-armours/bg/warrior/Battleplate-of-Resounding-Rings-normal.png",
 		"objectFit": false,
 		"title": "Боевые Латы из Резонирующих Колец",
-		"description": "Первый комплект брони для воина из рейдов 90-го уровня Сердце Страха и Терасса Вечной Весны обычного уровня сложности дополнения",
+		"description": "Второй комплект брони для воина из рейдов 90-го уровня Сердце Страха и Терасса Вечной Весны обычного уровня сложности дополнения",
 		"descriptionTrim": "Императрица Богомолов и Воплощение Ужаса будут повержены! Вам не ведом страх!",
 		"addition": "Mists of Pandaria",
 		"price": 1000
@@ -578,7 +669,7 @@
 		"img": "/src/assets/img/raids-armours/bg/warrior/Battleplate-of-Resounding-Rings-heroic.png",
 		"objectFit": false,
 		"title": "Боевые Латы из Резонирующих Колец",
-		"description": "Первый комплект брони для воина из рейдов 90-го уровня Сердце Страха и Терасса Вечной Весны героического уровня сложности дополнения",
+		"description": "Второй комплект брони для воина из рейдов 90-го уровня Сердце Страха и Терасса Вечной Весны героического уровня сложности дополнения",
 		"descriptionTrim": "Императрица Богомолов и Воплощение Ужаса будут повержены! Вам не ведом страх!",
 		"addition": "Mists of Pandaria",
 		"price": 1000
@@ -591,7 +682,7 @@
 		"img": "/src/assets/img/raids-armours/bg/warrior/Battleplate-of-the-Last-Mogu-raid-finder.png",
 		"objectFit": false,
 		"title": "Боевой Доспех Последнего Могу",
-		"description": "Второй комплект брони для воина из рейда 90-го уровня Престол Гроз режима поиска рейдов дополнения",
+		"description": "Третий комплект брони для воина из рейда 90-го уровня Престол Гроз режима поиска рейдов дополнения",
 		"descriptionTrim": "Властелин Грома будет повержен! Вы неуязвимы для молний! Подчините силу грома!",
 		"addition": "Mists of Pandaria",
 		"price": 1000
@@ -604,7 +695,7 @@
 		"img": "/src/assets/img/raids-armours/bg/warrior/Battleplate-of-the-Last-Mogu-normal.png",
 		"objectFit": false,
 		"title": "Боевой Доспех Последнего Могу",
-		"description": "Второй комплект брони для воина из рейда 90-го уровня Престол Гроз обычного уровня сложности дополнения",
+		"description": "Третий комплект брони для воина из рейда 90-го уровня Престол Гроз обычного уровня сложности дополнения",
 		"descriptionTrim": "Властелин Грома будет повержен! Вы неуязвимы для молний! Подчините силу грома!",
 		"addition": "Mists of Pandaria",
 		"price": 1000
@@ -617,7 +708,7 @@
 		"img": "/src/assets/img/raids-armours/bg/warrior/Battleplate-of-the-Last-Mogu-heroic.png",
 		"objectFit": false,
 		"title": "Боевой Доспех Последнего Могу",
-		"description": "Второй комплект брони для воина из рейда 90-го уровня Престол Гроз героического уровня сложности дополнения",
+		"description": "Третий комплект брони для воина из рейда 90-го уровня Престол Гроз героического уровня сложности дополнения",
 		"descriptionTrim": "Властелин Грома будет повержен! Вы неуязвимы для молний! Подчините силу грома!",
 		"addition": "Mists of Pandaria",
 		"price": 1000
@@ -630,7 +721,7 @@
 		"img": "/src/assets/img/raids-armours/bg/warrior/Battleplate-of-the-Prehistoric-Marauder-raid-finder.png",
 		"objectFit": false,
 		"title": "Боевой Доспех Доисторического Разорителя",
-		"description": "Третий комплект брони для воина из рейда 90-го уровня Осада Оргриммара режима поиска рейдов дополнения",
+		"description": "Четвертый комплект брони для воина из рейда 90-го уровня Осада Оргриммара режима поиска рейдов дополнения",
 		"descriptionTrim": "Предводитель Настоящей Орды Орков будет повержен! Злость, Отчаяние, Сомнение, Ненависть, Жестокость, Страх и Гордыня над вами не властны! Вы не уязвимы для всех семи воплощений ша!",
 		"addition": "Mists of Pandaria",
 		"price": 1000
@@ -643,7 +734,7 @@
 		"img": "/src/assets/img/raids-armours/bg/warrior/Battleplate-of-the-Prehistoric-Marauder-normal-heroic.png",
 		"objectFit": false,
 		"title": "Боевой Доспех Доисторического Разорителя",
-		"description": "Третий комплект брони для воина из рейда 90-го уровня Осада Оргриммара обычного и героического уровней сложности дополнения",
+		"description": "Четвертый комплект брони для воина из рейда 90-го уровня Осада Оргриммара обычного и героического уровней сложности дополнения",
 		"descriptionTrim": "Предводитель Настоящей Орды Орков будет повержен! Злость, Отчаяние, Сомнение, Ненависть, Жестокость, Страх и Гордыня над вами не властны! Вы не уязвимы для всех семи воплощений ша!",
 		"addition": "Mists of Pandaria",
 		"price": 1000
@@ -656,7 +747,7 @@
 		"img": "/src/assets/img/raids-armours/bg/warrior/Battleplate-of-the-Prehistoric-Marauder-mythic.png",
 		"objectFit": false,
 		"title": "Боевой Доспех Доисторического Разорителя",
-		"description": "Третий комплект брони для воина из рейда 90-го уровня Осада Оргриммара эпохального уровня сложности дополнения",
+		"description": "Четвертый комплект брони для воина из рейда 90-го уровня Осада Оргриммара эпохального уровня сложности дополнения",
 		"descriptionTrim": "Предводитель Настоящей Орды Орков будет повержен! Злость, Отчаяние, Сомнение, Ненависть, Жестокость, Страх и Гордыня над вами не властны! Вы не уязвимы для всех семи воплощений ша!",
 		"addition": "Mists of Pandaria",
 		"price": 1000
@@ -728,13 +819,13 @@
 	},
 
 	{
-		"id": "DemonbreakerWargear",
+		"id": "DemonbreakerWargearRaidFinder",
 		"type": "warrior",
 		"path": "",
-		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/Demonbreaker-Wargear-warrior.png",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/Demonbreaker-Wargear-raid-finder-warrior.png",
 		"objectFit": false,
 		"title": "Боевой Доспех Бесолома",
-		"description": "Второй комплект брони для воина из рейда 100-го уровня Цитадель Адского Пламени  режима поиска рейдов дополнения",
+		"description": "Второй комплект брони для воина из рейда 100-го уровня Цитадель Адского Пламени режима поиска рейдов дополнения",
 		"descriptionTrim": "Владыка Легиона будет повержен! Азерот не сгорит в огне легиона! Вы неуязвимы для пламени Скверны!",
 		"addition": "Warlords of Draenor",
 		"price": 1500
