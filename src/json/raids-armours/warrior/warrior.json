@@ -884,6 +884,32 @@
 	},
 
 	{
+		"id": "RavencrestsBattleplate",
+		"type": "warrior",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/Ravencrests-Battleplate-warrior.png",
+		"objectFit": false,
+		"title": "Боевой Доспех Гребня Ворона",
+		"description": "Комплект брони в награду за путешествия во времени по подземельям дополнения",
+		"descriptionTrim": "Броня, дарованная Хранителями Времени за череду подвигов в их походах по лабиринтам вечности. Ваша броня закалена в схватках с аномалиями прошлого и будущего, а ее сталь несет несокрушимую мощь самого времени!",
+		"addition": "Legion",
+		"price": 2000
+	},
+
+	{
+		"id": "DrekirjarWarriorsBattlegear",
+		"type": "warrior",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/Drekirjar-Warriors-Battlegear-warrior.png",
+		"objectFit": false,
+		"title": "Боевой Доспех Дрекирьярского Воина",
+		"description": "Комплект брони в награду за путешествия во времени по подземельям дополнения",
+		"descriptionTrim": "Броня, дарованная Хранителями Времени за череду подвигов в их походах по лабиринтам вечности. Ваша броня закалена в схватках с аномалиями прошлого и будущего, а ее сталь несет несокрушимую мощь самого времени!",
+		"addition": "Legion",
+		"price": 2000
+	},
+
+	{
 		"id": "WorldDefilersBattleArmor",
 		"type": "warrior",
 		"path": "",
@@ -892,6 +918,19 @@
 		"title": "Доспехи Осквернителя Миров",
 		"description": "Комплект брони, собранный из обломков скверны, добытых у редких элитных монстров локации Аргус дополнения",
 		"descriptionTrim": "Каждый элемент — трофей с поверженного демона. Вы носите на себе доказательство того, что даже на землях Легиона охота идет на хозяев, а не на жертв!",
+		"addition": "Legion",
+		"price": 2000
+	},
+
+	{
+		"id": "BattlelordsPlate",
+		"type": "warrior",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/warrior/Battlelords-Plate.png",
+		"objectFit": false,
+		"title": "Латы Воеводы",
+		"description": "Комплект брони, оплота класса дополнения",
+		"descriptionTrim": "",
 		"addition": "Legion",
 		"price": 2000
 	},
