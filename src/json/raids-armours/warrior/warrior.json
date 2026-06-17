@@ -111,7 +111,7 @@
 		"objectFit": false,
 		"title": "Облачение Телхаматского Анахорета",
 		"description": "Комплект брони в награду за путешествия во времени по подземельям дополнения",
-		"descriptionTrim": "Броня, дарованная Хранителями Времени за череду подвигов в их походах по лабиринтам вечности. Ваша броня закалена в схватках с аномалиями прошлого и будущего, а ее сталь несет несокрушимую мощь самого времени!",
+		"descriptionTrim": "Броня, дарованная Хранителями Времени за череду подвигов в их походах по лабиринтам вечности. Ваша броня закалена в схватках с аномалиями прошлого и будущего, а каждый элемент несет несокрушимую мощь самого времени!",
 		"addition": "The Burning Crusade",
 		"price": 200
 	},
@@ -487,8 +487,8 @@
 		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/Mountainscaler-Battleplate-warrior-yellow.png",
 		"objectFit": false,
 		"title": "Боевые Латы Шань'цзэ",
-		"description": "Комплект брони, дарованный за выполнение череды опасных заданий. Каждая деталь выкована в благодарность за самоотверженные подвиги и верность избранному пути дополнения",
-		"descriptionTrim": "Доблесть и труды героя нашли свое воплощение в этом доспехе!",
+		"description": "Комплект брони, дарованный за выполнение череды опасных заданий дополнения",
+		"descriptionTrim": "Каждая деталь выкована в благодарность за самоотверженные подвиги и верность избранному пути. Доблесть и труды героя нашли свое воплощение в этом доспехе!",
 		"addition": "Mists of Pandaria",
 		"price": 1000
 	},
@@ -500,8 +500,8 @@
 		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/Mountainscaler-Battleplate-warrior-red.png",
 		"objectFit": false,
 		"title": "Боевые Латы Шань'цзэ",
-		"description": "Комплект брони, дарованный за выполнение череды опасных заданий. Каждая деталь выкована в благодарность за самоотверженные подвиги и верность избранному пути дополнения",
-		"descriptionTrim": "Доблесть и труды героя нашли свое воплощение в этом доспехе!",
+		"description": "Комплект брони, дарованный за выполнение череды опасных заданий дополнения",
+		"descriptionTrim": "Каждая деталь выкована в благодарность за самоотверженные подвиги и верность избранному пути. Доблесть и труды героя нашли свое воплощение в этом доспехе!",
 		"addition": "Mists of Pandaria",
 		"price": 1000
 	},
@@ -513,8 +513,8 @@
 		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/Mountainscaler-Battleplate-warrior-green.png",
 		"objectFit": false,
 		"title": "Боевые Латы Шань'цзэ",
-		"description": "Комплект брони, дарованный за выполнение череды опасных заданий. Каждая деталь выкована в благодарность за самоотверженные подвиги и верность избранному пути дополнения",
-		"descriptionTrim": "Доблесть и труды героя нашли свое воплощение в этом доспехе!",
+		"description": "Комплект брони, дарованный за выполнение череды опасных заданий дополнения",
+		"descriptionTrim": "Каждая деталь выкована в благодарность за самоотверженные подвиги и верность избранному пути. Доблесть и труды героя нашли свое воплощение в этом доспехе!",
 		"addition": "Mists of Pandaria",
 		"price": 1000
 	},
@@ -526,8 +526,8 @@
 		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/Mountainscaler-Battleplate-warrior-black.png",
 		"objectFit": false,
 		"title": "Боевые Латы Шань'цзэ",
-		"description": "Комплект брони, дарованный за выполнение череды опасных заданий. Каждая деталь выкована в благодарность за самоотверженные подвиги и верность избранному пути дополнения",
-		"descriptionTrim": "Доблесть и труды героя нашли свое воплощение в этом доспехе!",
+		"description": "Комплект брони, дарованный за выполнение череды опасных заданий дополнения",
+		"descriptionTrim": "Каждая деталь выкована в благодарность за самоотверженные подвиги и верность избранному пути. Доблесть и труды героя нашли свое воплощение в этом доспехе!",
 		"addition": "Mists of Pandaria",
 		"price": 1000
 	},
@@ -539,8 +539,8 @@
 		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/Brick-Battleplate-warrior-silver.png",
 		"objectFit": false,
 		"title": "Боевые Латы Стража Душ",
-		"description": "Комплект брони, дарованный за выполнение череды опасных заданий. Каждая деталь выкована в благодарность за самоотверженные подвиги и верность избранному пути дополнения",
-		"descriptionTrim": "Доблесть и труды героя нашли свое воплощение в этом доспехе!",
+		"description": "Комплект брони, дарованный за выполнение череды опасных заданий дополнения",
+		"descriptionTrim": "Каждая деталь выкована в благодарность за самоотверженные подвиги и верность избранному пути. Доблесть и труды героя нашли свое воплощение в этом доспехе!",
 		"addition": "Mists of Pandaria",
 		"price": 1000
 	},
@@ -552,8 +552,8 @@
 		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/Brick-Battleplate-warrior-gold.png",
 		"objectFit": false,
 		"title": "Боевые Латы Стража Душ",
-		"description": "Комплект брони, дарованный за выполнение череды опасных заданий. Каждая деталь выкована в благодарность за самоотверженные подвиги и верность избранному пути дополнения",
-		"descriptionTrim": "Доблесть и труды героя нашли свое воплощение в этом доспехе!",
+		"description": "Комплект брони, дарованный за выполнение череды опасных заданий дополнения",
+		"descriptionTrim": "Каждая деталь выкована в благодарность за самоотверженные подвиги и верность избранному пути. Доблесть и труды героя нашли свое воплощение в этом доспехе!",
 		"addition": "Mists of Pandaria",
 		"price": 1000
 	},
@@ -565,8 +565,8 @@
 		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/Brick-Battleplate-warrior-blue.png",
 		"objectFit": false,
 		"title": "Боевые Латы Стража Душ",
-		"description": "Комплект брони, дарованный за выполнение череды опасных заданий. Каждая деталь выкована в благодарность за самоотверженные подвиги и верность избранному пути дополнения",
-		"descriptionTrim": "Доблесть и труды героя нашли свое воплощение в этом доспехе!",
+		"description": "Комплект брони, дарованный за выполнение череды опасных заданий дополнения",
+		"descriptionTrim": "Каждая деталь выкована в благодарность за самоотверженные подвиги и верность избранному пути. Доблесть и труды героя нашли свое воплощение в этом доспехе!",
 		"addition": "Mists of Pandaria",
 		"price": 1000
 	},
@@ -761,7 +761,7 @@
 		"objectFit": false,
 		"title": "Защитные Пластины Анахорета Призрачной Луны",
 		"description": "Комплект брони в награду за путешествия во времени по подземельям дополнения",
-		"descriptionTrim": "Броня, дарованная Хранителями Времени за череду подвигов в их походах по лабиринтам вечности. Ваша броня закалена в схватках с аномалиями прошлого и будущего, а ее сталь несет несокрушимую мощь самого времени!",
+		"descriptionTrim": "Броня, дарованная Хранителями Времени за череду подвигов в их походах по лабиринтам вечности. Ваша броня закалена в схватках с аномалиями прошлого и будущего, а каждый элемент несет несокрушимую мощь самого времени!",
 		"addition": "Warlords of Draenor",
 		"price": 1500
 	},
@@ -884,19 +884,6 @@
 	},
 
 	{
-		"id": "RavencrestsBattleplate",
-		"type": "warrior",
-		"path": "",
-		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/Ravencrests-Battleplate-warrior.png",
-		"objectFit": false,
-		"title": "Боевой Доспех Гребня Ворона",
-		"description": "Комплект брони в награду за путешествия во времени по подземельям дополнения",
-		"descriptionTrim": "Броня, дарованная Хранителями Времени за череду подвигов в их походах по лабиринтам вечности. Ваша броня закалена в схватках с аномалиями прошлого и будущего, а ее сталь несет несокрушимую мощь самого времени!",
-		"addition": "Legion",
-		"price": 2000
-	},
-
-	{
 		"id": "DrekirjarWarriorsBattlegear",
 		"type": "warrior",
 		"path": "",
@@ -904,20 +891,137 @@
 		"objectFit": false,
 		"title": "Боевой Доспех Дрекирьярского Воина",
 		"description": "Комплект брони в награду за путешествия во времени по подземельям дополнения",
-		"descriptionTrim": "Броня, дарованная Хранителями Времени за череду подвигов в их походах по лабиринтам вечности. Ваша броня закалена в схватках с аномалиями прошлого и будущего, а ее сталь несет несокрушимую мощь самого времени!",
+		"descriptionTrim": "Броня, дарованная Хранителями Времени за череду подвигов в их походах по лабиринтам вечности. Ваша броня закалена в схватках с аномалиями прошлого и будущего, а каждый элемент несет несокрушимую мощь самого времени!",
 		"addition": "Legion",
 		"price": 2000
 	},
 
 	{
-		"id": "WorldDefilersBattleArmor",
+		"id": "RavencrestsBattleplate",
 		"type": "warrior",
 		"path": "",
-		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/World-Defilers-Battle-Armor-warrior.png",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/Ravencrests-Battleplate-warrior.png",
 		"objectFit": false,
-		"title": "Доспехи Осквернителя Миров",
-		"description": "Комплект брони, собранный из обломков скверны, добытых у редких элитных монстров локации Аргус дополнения",
-		"descriptionTrim": "Каждый элемент — трофей с поверженного демона. Вы носите на себе доказательство того, что даже на землях Легиона охота идет на хозяев, а не на жертв!",
+		"title": "Боевой Доспех Гребня Ворона",
+		"description": "Комплект брони в награду за путешествия во времени по подземельям дополнения",
+		"descriptionTrim": "Броня, дарованная Хранителями Времени за череду подвигов в их походах по лабиринтам вечности. Ваша броня закалена в схватках с аномалиями прошлого и будущего, а каждый элемент несет несокрушимую мощь самого времени!",
+		"addition": "Legion",
+		"price": 2000
+	},
+
+	{
+		"id": "VrykulFunerealRegalia",
+		"type": "warrior",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/Vrykul-Funereal-Regalia-warrior.png",
+		"objectFit": false,
+		"title": "Врайкульские Погребальные Регалии",
+		"description": "Комплект брони, дарованный за выполнение череды опасных заданий дополнения",
+		"descriptionTrim": "Каждая деталь выкована в благодарность за самоотверженные подвиги и верность избранному пути. Доблесть и труды героя нашли свое воплощение в этом доспехе!",
+		"addition": "Legion",
+		"price": 2000
+	},
+
+	{
+		"id": "NarthalasGraduatesTrim",
+		"type": "warrior",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/Narthalas-Graduates-Trim-warrior.png",
+		"objectFit": false,
+		"title": "Наряд Нар'таласского Выпускника",
+		"description": "Комплект брони, дарованный за выполнение череды опасных заданий дополнения",
+		"descriptionTrim": "Каждая деталь выкована в благодарность за самоотверженные подвиги и верность избранному пути. Доблесть и труды героя нашли свое воплощение в этом доспехе!",
+		"addition": "Legion",
+		"price": 2000
+	},
+
+	{
+		"id": "KaldelarBattleplate",
+		"type": "warrior",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/Kaldelar-Battleplate-warrior.png",
+		"objectFit": false,
+		"title": "Каль'деларский Боевой Доспех",
+		"description": "Комплект брони, дарованный за выполнение череды опасных заданий дополнения",
+		"descriptionTrim": "Каждая деталь выкована в благодарность за самоотверженные подвиги и верность избранному пути. Доблесть и труды героя нашли свое воплощение в этом доспехе!",
+		"addition": "Legion",
+		"price": 2000
+	},
+
+	{
+		"id": "ThunderpeakBoneguards",
+		"type": "warrior",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/Thunderpeak-Boneguards-warrior.png",
+		"objectFit": false,
+		"title": "Костяные Пластины Громовой Вершины",
+		"description": "Комплект брони, дарованный за выполнение череды опасных заданий дополнения",
+		"descriptionTrim": "Каждая деталь выкована в благодарность за самоотверженные подвиги и верность избранному пути. Доблесть и труды героя нашли свое воплощение в этом доспехе!",
+		"addition": "Legion",
+		"price": 2000
+	},
+
+	{
+		"id": "LeylineDefendersSunplateArmor",
+		"type": "warrior",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/Leyline-Defenders-Sunplate-Armor-warrior.png",
+		"objectFit": false,
+		"title": "Солнечные Пластины Защитника Силовых Линий",
+		"description": "Комплект брони, дарованный за выполнение череды опасных заданий дополнения",
+		"descriptionTrim": "Каждая деталь выкована в благодарность за самоотверженные подвиги и верность избранному пути. Доблесть и труды героя нашли свое воплощение в этом доспехе!",
+		"addition": "Legion",
+		"price": 2000
+	},
+
+	{
+		"id": "SuramarSilverPlating",
+		"type": "warrior",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/Suramar-Silver-Plating-warrior.png",
+		"objectFit": false,
+		"title": "Сурамарские Серебряные Латы",
+		"description": "Комплект брони из подземелий дополнения",
+		"descriptionTrim": "Броня, закаленная в героических походах по самым опасным подземельям Legion, от до. Вы прошли через, и теперь ваша сталь звенит песней побед!",
+		"addition": "Legion",
+		"price": 2000
+	},
+
+	{
+		"id": "JandvikDiversMetal",
+		"type": "warrior",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/Jandvik-Divers-Metal-warrior.png",
+		"objectFit": false,
+		"title": "Пластины Яндвикского Ныряльщика",
+		"description": "Комплект брони, дарованный за выполнение череды опасных заданий дополнения",
+		"descriptionTrim": "Каждая деталь выкована в благодарность за самоотверженные подвиги и верность избранному пути. Доблесть и труды героя нашли свое воплощение в этом доспехе!",
+		"addition": "Legion",
+		"price": 2000
+	},
+
+	{
+		"id": "BloodforgedBattleplate",
+		"type": "warrior",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/Bloodforged-Battleplate-warrior.png",
+		"objectFit": false,
+		"title": "Закаленные в Крови Боевые Латы",
+		"description": "Комплект брони из подземелий дополнения",
+		"descriptionTrim": "Броня, закаленная в героических походах по самым опасным подземельям Legion, от до. Вы прошли через, и теперь ваша сталь звенит песней побед!",
+		"addition": "Legion",
+		"price": 2000
+	},
+
+	{
+		"id": "HonorforgedValorplate",
+		"type": "warrior",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/Honorforged-Valorplate-warrior.png",
+		"objectFit": false,
+		"title": "Доспехи Отваги из Кузни Чести",
+		"description": "Комплект брони из подземелий дополнения",
+		"descriptionTrim": "Броня, закаленная в героических походах по самым опасным подземельям Legion, от до. Вы прошли через, и теперь ваша сталь звенит песней побед!",
 		"addition": "Legion",
 		"price": 2000
 	},
@@ -931,6 +1035,45 @@
 		"title": "Латы Воеводы",
 		"description": "Комплект брони, оплота класса дополнения",
 		"descriptionTrim": "",
+		"addition": "Legion",
+		"price": 2000
+	},
+
+	{
+		"id": "GarothiBattleplate",
+		"type": "warrior",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/Garothi-Battleplate-warrior.png",
+		"objectFit": false,
+		"title": "Боевой Доспех Кин'гарота",
+		"description": "Комплект брони, дарованный за выполнение череды опасных заданий дополнения",
+		"descriptionTrim": "Каждая деталь выкована в благодарность за самоотверженные подвиги и верность избранному пути. Доблесть и труды героя нашли свое воплощение в этом доспехе!",
+		"addition": "Legion",
+		"price": 2000
+	},
+
+	{
+		"id": "PraetoriumGuardsPlateArmor",
+		"type": "warrior",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/Praetorium-Guards-Plate-Armor-warrior.png",
+		"objectFit": false,
+		"title": "Латные Доспехи Стража Претория",
+		"description": "Комплект брони, дарованный за выполнение череды опасных заданий дополнения",
+		"descriptionTrim": "Каждая деталь выкована в благодарность за самоотверженные подвиги и верность избранному пути. Доблесть и труды героя нашли свое воплощение в этом доспехе!",
+		"addition": "Legion",
+		"price": 2000
+	},
+
+	{
+		"id": "WorldDefilersBattleArmor",
+		"type": "warrior",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/World-Defilers-Battle-Armor-warrior.png",
+		"objectFit": false,
+		"title": "Доспехи Осквернителя Миров",
+		"description": "Комплект брони, собранный из обломков скверны, добытых у редких элитных монстров локации Аргус дополнения",
+		"descriptionTrim": "Каждый элемент — трофей с поверженного демона. Вы носите на себе доказательство того, что даже на землях Легиона охота идет на хозяев, а не на жертв!",
 		"addition": "Legion",
 		"price": 2000
 	},
