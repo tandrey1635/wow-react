@@ -182,11 +182,11 @@ const Cards = ({home, twoHandedWeapons, twoHandedAxes, twoHandedAxesWeaponDetail
 									<Link className="nav-link nav-link-mage" to="/raids-armours/mage">Маг</Link>
 									<Link className="nav-link nav-link-monk" to="/raids-armours/monk">Монах</Link>
 									<Link className="nav-link nav-link-hunter" to="/raids-armours/hunter">Охотник</Link>
-									<Link className="nav-link nav-link-demon-hunter" to="/raids-armours/demon-hunter">Охотник на Демонов</Link>
+									<Link className="nav-link nav-link-demon-hunter" to="/raids-armours/demonhunter">Охотник на Демонов</Link>
 									<Link className="nav-link nav-link-paladin" to="/raids-armours/paladin">Паладин</Link>
 									<Link className="nav-link nav-link-awakener" to="/raids-armours/awakener">Пробудитель</Link>
 									<Link className="nav-link nav-link-rogue" to="/raids-armours/rogue">Разбойник</Link>
-									<Link className="nav-link nav-link-death-knight" to="/raids-armours/death-knight">Рыцарь Смерти</Link>
+									<Link className="nav-link nav-link-death-knight" to="/raids-armours/deathknight">Рыцарь Смерти</Link>
 									<Link className="nav-link nav-link-warlock" to="/raids-armours/warlock">Чернокнижник</Link>
 									<Link className="nav-link nav-link-shaman" to="/raids-armours/shaman">Шаман</Link>
 								</ul>

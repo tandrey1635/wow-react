@@ -5,6 +5,30 @@
 - Легендарное оружие (14шт)
 - Декоративное оружие (29шт)
 - Водные маунты (36шт)
+- Подземелья Classic(21шт)
+- Подземелья Burning Crusade(16шт)
+- Подземелья Wrath of the Lich King(16шт)
+- Подземелья Cataclysm(12шт)
+- Подземелья Mists of Pandaria(6шт)
+- Подземелья Warlords of Draenor(8шт)
+- Подземелья Legion(13шт)
+- Подземелья Battle for Azeroth(11шт)
+- Подземелья Shadowlands(9шт)
+
+- Рейды Classic(7шт)
+- Рейды Burning Crusade(9шт)
+- Рейды Wrath of the Lich King(9шт)
+- Рейды Cataclysm(6шт)
+- Рейды Mists of Pandaria(5шт)
+- Рейды Warlords of Draenor(3шт)
+- Рейды Legion(5шт)
+- Рейды Battle for Azeroth(5шт)
+- Рейды Shadowlands(3шт)
+- Рейды Dragonflight(3шт)
+- Рейды The War Within(3шт)
+
+
+
 - Горное дело (24шт)
 - Кузнечное дело (13шт)
 - Кулинария (8шт)
@@ -16,14 +40,24 @@
 
 
 
-В процессе:
+В процессе (сколько готово):
+- Расы детальная стр: Орда: Орк, Магхар, Нежить, Таурены, Таурены Крутогорья, Земельники,
+Альянс: Земельники
 - 150 летающих маунтов
-- 35 наземных маунтов
+- 42 Наземных Маунтов
+- 129 легендарной брони
 - Рейдовые сеты:
-- ката вар, дк, пал, рога, шаман
-- Подземелья дополнений классики - шл
+- комплект на сопротивление - воин, пал, дк, рога, шаман, хант, прист, маг, лок
+- подз накса - воин, пал, дк
+- тир 1-13 - воин, пал, дк
+- тир 1-19 - вар
+- тир 1-13 - шаман
+- тир 1-6 - хант
+- тир 1-13 - рога
+- тир 1-6 прист
 - Рейды
-- 73 плаща
+- 76 плаща
+
 
 
 
@@ -44,9 +78,25 @@ https://wow-react.vercel.app/races/horde/zandalaritroll
 https://wow-react.vercel.app/races/horde/dracthyrhorde
 https://wow-react.vercel.app/races/horde/bloodelf
 https://wow-react.vercel.app/races/horde/nightborne
+https://wow-react.vercel.app/races/horde/pandarenhorde
+https://wow-react.vercel.app/races/horde/goblin
+https://wow-react.vercel.app/races/horde/vulper
 
-
-
+https://wow-react.vercel.app/races/alliance
+https://wow-react.vercel.app/races/alliance/human
+https://wow-react.vercel.app/races/alliance/kultiran
+https://wow-react.vercel.app/races/alliance/worgen
+https://wow-react.vercel.app/races/alliance/dwarf
+https://wow-react.vercel.app/races/alliance/darkirondwarf
+https://wow-react.vercel.app/races/alliance/earthenalliance
+https://wow-react.vercel.app/races/alliance/draenei
+https://wow-react.vercel.app/races/alliance/lightforgeddraenei
+https://wow-react.vercel.app/races/alliance/dracthyralliance
+https://wow-react.vercel.app/races/alliance/nightelf
+https://wow-react.vercel.app/races/alliance/voidelf
+https://wow-react.vercel.app/races/alliance/pandarenalliance
+https://wow-react.vercel.app/races/alliance/gnome
+https://wow-react.vercel.app/races/alliance/mechagnome
 
 https://wow-react.vercel.app/raids-armours/warrior
 https://wow-react.vercel.app/raids-armours/druid
@@ -61,3 +111,84 @@ https://wow-react.vercel.app/raids-armours/rogue
 https://wow-react.vercel.app/raids-armours/deathknight
 https://wow-react.vercel.app/raids-armours/warlock
 https://wow-react.vercel.app/raids-armours/shaman
+
+https://wow-react.vercel.app/weapons/one-handed
+https://wow-react.vercel.app/weapons/two-handed
+https://wow-react.vercel.app/weapons/two-handed/axes
+https://wow-react.vercel.app/weapons/range
+https://wow-react.vercel.app/weapons/legendary
+
+https://wow-react.vercel.app/weapons/legendary/weapons-details/ashbringer
+
+https://wow-react.vercel.app/weapons/artifact
+https://wow-react.vercel.app/weapons/artifact/warrior
+https://wow-react.vercel.app/weapons/artifact/druid
+https://wow-react.vercel.app/weapons/artifact/priest
+https://wow-react.vercel.app/weapons/artifact/mage
+https://wow-react.vercel.app/weapons/artifact/monk
+https://wow-react.vercel.app/weapons/artifact/hunter
+https://wow-react.vercel.app/weapons/artifact/demonhunter
+https://wow-react.vercel.app/weapons/artifact/paladin
+https://wow-react.vercel.app/weapons/artifact/rogue
+https://wow-react.vercel.app/weapons/artifact/deathknight
+https://wow-react.vercel.app/weapons/artifact/warlock
+https://wow-react.vercel.app/weapons/artifact/shaman
+
+https://wow-react.vercel.app/weapons/artifact/warrior/arms
+https://wow-react.vercel.app/weapons/artifact/warrior/fury
+https://wow-react.vercel.app/weapons/artifact/warrior/protection
+
+https://wow-react.vercel.app/weapons/decorative
+
+https://wow-react.vercel.app/armours/legendary
+https://wow-react.vercel.app/armours/shields
+https://wow-react.vercel.app/armours/cloaks
+https://wow-react.vercel.app/armours/tabards
+
+https://wow-react.vercel.app/mounts/water
+https://wow-react.vercel.app/mounts/earth
+https://wow-react.vercel.app/mounts/fly
+
+https://wow-react.vercel.app/professions/mining
+https://wow-react.vercel.app/professions/blacksmithing
+https://wow-react.vercel.app/professions/cooking
+https://wow-react.vercel.app/professions/first-aid
+https://wow-react.vercel.app/professions/fishing
+
+https://wow-react.vercel.app/pvp/honour
+https://wow-react.vercel.app/pvp/arena
+https://wow-react.vercel.app/pvp/rbg
+
+https://wow-react.vercel.app/dungeons
+
+https://wow-react.vercel.app/dungeons/classic
+https://wow-react.vercel.app/dungeons/burning-crusade
+https://wow-react.vercel.app/dungeons/wrath-of-the-lich-king
+https://wow-react.vercel.app/dungeons/cataclysm
+https://wow-react.vercel.app/dungeons/mists-of-pandaria
+https://wow-react.vercel.app/dungeons/warlords-of-draenor
+https://wow-react.vercel.app/dungeons/legion
+https://wow-react.vercel.app/dungeons/battle-for-azeroth
+https://wow-react.vercel.app/dungeons/dragonflight
+https://wow-react.vercel.app/dungeons/war-within
+https://wow-react.vercel.app/dungeons/midnight
+
+https://wow-react.vercel.app/raids
+
+https://wow-react.vercel.app/raids/classic
+https://wow-react.vercel.app/raids/classic
+https://wow-react.vercel.app/raids/burning-crusade
+https://wow-react.vercel.app/raids/wrath-of-the-lich-king
+https://wow-react.vercel.app/raids/cataclysm
+https://wow-react.vercel.app/raids/mists-of-pandaria
+https://wow-react.vercel.app/raids/warlords-of-draenor
+https://wow-react.vercel.app/raids/legion
+https://wow-react.vercel.app/raids/battle-for-azeroth
+https://wow-react.vercel.app/raids/dragonflight
+https://wow-react.vercel.app/raids/war-within
+https://wow-react.vercel.app/raids/midnight
+
+https://wow-react.vercel.app/achievements/legacy
+https://wow-react.vercel.app/achievements/great-feats
+https://wow-react.vercel.app/achievements/wow-anniversary
+https://wow-react.vercel.app/achievements/wow-collection-editions
