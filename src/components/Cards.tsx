@@ -3,6 +3,7 @@ import { Tabs, Tab } from 'react-bootstrap';
 
 
 import Card from './Card.tsx'
+import WeaponDetails from './WeaponDetails.tsx'
 
 import dataRaces from '../json/races/races.json';
 import dataRaidsArmours from '../json/raids-armours/raids-armours.json';
@@ -138,6 +139,14 @@ const Cards = ({home, twoHandedWeapons, twoHandedAxes, twoHandedAxesWeaponDetail
 				descriptionTrim={card.descriptionTrim}
 				title={card.title}
 				price={card.price}
+			/>
+		)
+	})
+
+	const renderWeaponDetails = (dataJson: ICard[]) => dataJson.map(card=> {
+		return (
+			<WeaponDetails
+				{...card}
 			/>
 		)
 	})
@@ -305,6 +314,16 @@ const Cards = ({home, twoHandedWeapons, twoHandedAxes, twoHandedAxesWeaponDetail
 									<h3 className="text-success text-center fw-bold display-4">Всего Оружия: {counterCardItems(dataTwoHandedAxesWeaponDetails)}</h3>
 									<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
 										{ renderCardItems(dataTwoHandedAxes) }
+									</div>
+								</>
+							}
+
+							{/* Двуручные топоры детально */}
+							{ twoHandedAxesWeaponDetails &&
+								<>
+
+									<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
+										{ renderWeaponDetails(dataTwoHandedAxes) }
 									</div>
 								</>
 							}

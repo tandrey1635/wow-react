@@ -33,6 +33,61 @@
 	},
 
 	{
+		"id": "PandarenGuardsPoleaxe",
+		"type": "weapons",
+		"path": "axes-details",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Pandaren-Guards-Poleaxe.png",
+		"objectFit": true,
+		"title": "Полэкс Пандаренского Стражника",
+		"description": "Топор 4",
+		"price": 300
+	},
+
+	{
+		"id": "ColossalGreatAxe",
+		"type": "weapons",
+		"path": "axes-details",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Colossal-Great-Axe.png",
+		"objectFit": true,
+		"title": "Колоссальный Топор",
+		"description": "Топор 4",
+		"price": 300
+	},
+
+	{
+		"id": "LordAlexandersBattleAxe",
+		"type": "weapons",
+		"path": "axes-details",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Lord-Alexanders-Battle-Axe.png",
+		"objectFit": true,
+		"title": "Боевой Топор Лорда Александра",
+		"description": "Топор 4",
+		"price": 300
+	},
+
+	{
+		"id": "KangTheDecapitator",
+		"type": "weapons",
+		"path": "axes-details",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Kang-the-Decapitator.png",
+		"objectFit": false,
+		"title": "Канг Обезглавливатель",
+		"description": "Топор 4",
+		"price": 300
+	},
+
+	{
+		"id": "HellslayerBattleAxe",
+		"type": "weapons",
+		"path": "axes-details",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Hellslayer-Battle-Axe.png",
+		"objectFit": false,
+		"title": "Боевой Топор Рубаки",
+		"description": "Топор 4",
+		"price": 300
+	},
+
+	{
 		"id": "ArcaniteReaper",
 		"type": "weapons",
 		"path": "axes-details",
@@ -77,12 +132,78 @@
 	},
 
 	{
+		"id": "GrandMarshalsDecapitator",
+		"type": "weapons",
+		"path": "axes-details",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Grand-Marshals-Decapitator.png",
+		"objectFit": false,
+		"title": "Лабрисса Главнокомандующего",
+		"description": "Топор 4",
+		"price": 300
+	},
+
+	{
 		"id": "Nightfall",
 		"type": "weapons",
 		"path": "axes-details",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Nightfall.png",
 		"objectFit": false,
 		"title": "Сумерки",
+		"description": "Топор 4",
+		"price": 300
+	},
+
+	{
+		"id": "HellscreamsWill",
+		"type": "weapons",
+		"path": "axes-details",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Hellscreams-Will.png",
+		"objectFit": false,
+		"title": "Воля Адского Крика",
+		"description": "Топор 4",
+		"price": 300
+	},
+
+	{
+		"id": "ChilledAxe",
+		"type": "weapons",
+		"path": "axes-details",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Chilled-Axe.png",
+		"objectFit": false,
+		"title": "Прохладный Топор",
+		"description": "Топор 4",
+		"price": 300
+	},
+
+	{
+		"id": "BladeOfHarbingers",
+		"type": "weapons",
+		"path": "axes-details",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Blade-of-Harbingers.png",
+		"objectFit": true,
+		"title": "Клинок Вестников",
+		"description": "Топор 4",
+		"price": 300
+	},
+
+	{
+		"id": "ShadowswordVanquishersBlade",
+		"type": "weapons",
+		"path": "axes-details",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Shadowsword-Vanquishers-Blade.png",
+		"objectFit": true,
+		"title": "Топор Покорителя из Клана Темного Меча",
+		"description": "Топор 4",
+		"price": 300
+	},
+
+	{
+		"id": "Bloodmoon",
+		"type": "weapons",
+		"path": "axes-details",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Bloodmoon.png",
+		"objectFit": true,
+		"title": "Кровавая Луна",
 		"description": "Топор 4",
 		"price": 300
 	},
@@ -220,7 +341,7 @@
 	},
 
 	{
-		"id": "BloodiedEbonAxe",
+		"id": "IcyEbonAxe",
 		"type": "weapons",
 		"path": "axes-details",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Icy-Ebon-Axe.png",
@@ -231,7 +352,7 @@
 	},
 
 	{
-		"id": "BloodiedEbonAxe",
+		"id": "UnholyEbonAxe",
 		"type": "weapons",
 		"path": "axes-details",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Unholy-Ebon-Axe.png",

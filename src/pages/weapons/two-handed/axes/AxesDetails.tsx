@@ -8,6 +8,10 @@ import Wrapper from "../../../../components/Wrapper";
 import Announcement from "../../../../components/Announcement";
 import Promo from "../../../../components/Promo";
 import Cards from "../../../../components/Cards";
+import WeaponDetails from "../../../../components/WeaponDetails";
+
+import dataTwoHandedAxes from "../../../../json/weapons/two-handed/axes/axes-details.json";
+
 
 
 const AxesDetails = () => {
@@ -18,7 +22,7 @@ const AxesDetails = () => {
 				<h1 style={{fontSize: 120}} className="text-center text-danger">В разработке</h1>
 				<Announcement twoHandedAxes />
 				<Promo twoHandedAxes />
-				<Cards twoHandedAxesWeaponDetails />
+				<WeaponDetails twoHandedAxesWeaponDetails data={dataTwoHandedAxes} />
 			</Main>
 			<Footer />
 			<ArrowUp />
