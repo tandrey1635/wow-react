@@ -5,6 +5,9 @@ const Promo = ({ oneHandedWeapons, twoHandedWeapons, rangeWeapons, legendaryWeap
 			<div className="container-fluid">
 				<div
 					className={`promo__info ${
+						twoHandedAxes
+							? "promo__info_weapons promo__info_weapons-two-handed promo__info_weapons-two-handed-axes"
+							:
 						legendaryWeapons
 							? "promo__info_weapons" + ' ' +
 							(ashbringer
@@ -134,7 +137,7 @@ const Promo = ({ oneHandedWeapons, twoHandedWeapons, rangeWeapons, legendaryWeap
 						oneHandedWeapons
 							? "promo__raitings_one-handed-weapons"
 							:
-						twoHandedWeapons || twoHandedAxes
+						twoHandedWeapons
 							? "promo__raitings_two-handed-weapons"
 							:
 						rangeWeapons

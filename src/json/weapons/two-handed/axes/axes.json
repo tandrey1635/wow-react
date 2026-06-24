@@ -6,7 +6,7 @@
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Razor-Axe.png",
 		"objectFit": true,
 		"title": "Бритвенно Острый Топор",
-		"description": "Топор 4",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
 		"price": 300
 	},
 
@@ -209,6 +209,17 @@
 	},
 
 	{
+		"id": "Mooncleaver",
+		"type": "weapons",
+		"path": "axes-details",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Mooncleaver.png",
+		"objectFit": true,
+		"title": "Лунный Колун",
+		"description": "Топор 4",
+		"price": 300
+	},
+
+	{
 		"id": "DarkEdgeOfInsanity",
 		"type": "weapons",
 		"path": "axes-details",
@@ -238,83 +249,6 @@
 		"objectFit": false,
 		"title": "Драконье Возмездие",
 		"description": "Топор 4",
-		"price": 300
-	},
-
-	{
-		"id": "WhitefinAxe",
-		"type": "weapons",
-		"path": "axes-details",
-		"img": "/src/assets/img/weapons/bg/two-handed/axes/Whitefin-Axe.png",
-		"objectFit": false,
-		"title": "Белоперый Топор",
-		"description": "Топор 1",
-		"price": 300
-	},
-
-	{
-		"id": "TerminationAxe",
-		"type": "weapons",
-		"path": "axes-details",
-		"img": "/src/assets/img/weapons/bg/two-handed/axes/Termination-Axe.png",
-		"objectFit": false,
-		"title": "Топор Решимости",
-		"description": "Топор 1",
-		"price": 300
-	},
-
-	{
-		"id": "PlunderedFuryFinAxe",
-		"type": "weapons",
-		"path": "axes-details",
-		"img": "/src/assets/img/weapons/bg/two-handed/axes/Plundered-Fury-Fin-Axe.png",
-		"objectFit": false,
-		"title": "Трофейный Топор Яростного Плавника",
-		"description": "Топор 1",
-		"price": 300
-	},
-
-	{
-		"id": "BryntrollTheBoneArbiter",
-		"type": "weapons",
-		"path": "axes-details",
-		"img": "/src/assets/img/weapons/bg/two-handed/axes/Bryntroll-the-Bone-Arbiter.png",
-		"objectFit": false,
-		"title": "Бринтролль, Костяной Судья",
-		"description": "Топор 2",
-		"price": 300
-	},
-
-	{
-		"id": "EverlastingBoneforgedGreataxe",
-		"type": "weapons",
-		"path": "axes-details",
-		"img": "/src/assets/img/weapons/bg/two-handed/axes/Everlasting-Boneforged-Greataxe.png",
-		"objectFit": false,
-		"title": "Костяной Двуручный Топор Вечности",
-		"description": "Топор 4",
-		"price": 300
-	},
-
-	{
-		"id": "ContaminatingCleaver",
-		"type": "weapons",
-		"path": "axes-details",
-		"img": "/src/assets/img/weapons/bg/two-handed/axes/Contaminating-Cleaver.png",
-		"objectFit": false,
-		"title": "Загрязняющий Тесак",
-		"description": "Топор 4",
-		"price": 300
-	},
-
-	{
-		"id": "BonegaleGreataxe",
-		"type": "weapons",
-		"path": "axes-details",
-		"img": "/src/assets/img/weapons/bg/two-handed/axes/Bonegale-Greataxe.png",
-		"objectFit": false,
-		"title": "Большой Топор Костяного Шторма",
-		"description": "Топор 3",
 		"price": 300
 	},
 
@@ -374,35 +308,189 @@
 	},
 
 	{
-		"id": "PhaseLostChopper",
+		"id": "ScarletAxeOfAsymmetry",
 		"type": "weapons",
 		"path": "axes-details",
-		"img": "/src/assets/img/weapons/bg/two-handed/axes/Phase-Lost-Chopper.png",
-		"objectFit": true,
-		"title": "Межфазовый Колун",
-		"description": "",
-		"price": 300
-	},
-
-	{
-		"id": "SkullstealerGreataxe",
-		"type": "weapons",
-		"path": "axes-details",
-		"img": "/src/assets/img/weapons/bg/two-handed/axes/Skullstealer-Greataxe.png",
-		"objectFit": true,
-		"title": "Большой Топор Головоруба",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Scarlet-Axe-of-Asymmetry.png",
+		"objectFit": false,
+		"title": "Алый Топор Асимметрии",
 		"description": "Топор 4",
 		"price": 300
 	},
 
 	{
-		"id": "SkullstealerGreataxeHeroic",
+		"id": "DualBladeButcher",
 		"type": "weapons",
 		"path": "axes-details",
-		"img": "/src/assets/img/weapons/bg/two-handed/axes/Skullstealer-Greataxe-heroic.png",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Dual-Blade-Butcher.png",
+		"objectFit": false,
+		"title": "Двусторонний Топор Мясника",
+		"description": "Топор 4",
+		"price": 300
+	},
+
+	{
+		"id": "SapphireAxeOfAsymmetry",
+		"type": "weapons",
+		"path": "axes-details",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Sapphire-Axe-of-Asymmetry.png",
+		"objectFit": false,
+		"title": "Сапфировый Топор Асимметрии",
+		"description": "Топор 4",
+		"price": 300
+	},
+
+	{
+		"id": "LotharsEdge",
+		"type": "weapons",
+		"path": "axes-details",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Lothars-Edge.png",
+		"objectFit": false,
+		"title": "Лезвие Лотара",
+		"description": "Топор 4",
+		"price": 300
+	},
+
+	{
+		"id": "JusticebringerNormal",
+		"type": "weapons",
+		"path": "axes-details",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Justicebringer-normal.png",
+		"objectFit": false,
+		"title": "Творец Справедливости",
+		"description": "Топор 4",
+		"price": 300
+	},
+
+	{
+		"id": "JusticebringerHeroic",
+		"type": "weapons",
+		"path": "axes-details",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Justicebringer-heroic.png",
+		"objectFit": false,
+		"title": "Творец Справедливости (Героический)",
+		"description": "Топор 4",
+		"price": 300
+	},
+
+	{
+		"id": "RamaladnisBladeOfCullingNormal",
+		"type": "weapons",
+		"path": "axes-details",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Ramaladnis-Blade-of-Culling-normal.png",
 		"objectFit": true,
-		"title": "Большой Топор Головоруба",
-		"description": "героический",
+		"title": "Клинок Очищения Рамаладни",
+		"description": "Топор 4",
+		"price": 300
+	},
+
+	{
+		"id": "RamaladnisBladeOfCullingHeroic",
+		"type": "weapons",
+		"path": "axes-details",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Ramaladnis-Blade-of-Culling-heroic.png",
+		"objectFit": true,
+		"title": "Клинок Очищения Рамаладни (Героический)",
+		"description": "Топор 4",
+		"price": 300
+	},
+
+	{
+		"id": "WrathfulGladiatorsDecapitator",
+		"type": "weapons",
+		"path": "axes-details",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Wrathful-Gladiators-Decapitator.png",
+		"objectFit": false,
+		"title": "Лабрисса Разгневанного Гладиатора",
+		"description": "Топор 4",
+		"price": 300
+	},
+
+	{
+		"id": "BryntrollTheBoneArbiter",
+		"type": "weapons",
+		"path": "axes-details",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Bryntroll-the-Bone-Arbiter.png",
+		"objectFit": false,
+		"title": "Бринтролль, Костяной Судья",
+		"description": "Топор 2",
+		"price": 300
+	},
+
+	{
+		"id": "EverlastingBoneforgedGreataxe",
+		"type": "weapons",
+		"path": "axes-details",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Everlasting-Boneforged-Greataxe.png",
+		"objectFit": false,
+		"title": "Костяной Двуручный Топор Вечности",
+		"description": "Топор 4",
+		"price": 300
+	},
+
+	{
+		"id": "ContaminatingCleaver",
+		"type": "weapons",
+		"path": "axes-details",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Contaminating-Cleaver.png",
+		"objectFit": false,
+		"title": "Загрязняющий Тесак",
+		"description": "Топор 4",
+		"price": 300
+	},
+
+	{
+		"id": "BonegaleGreataxe",
+		"type": "weapons",
+		"path": "axes-details",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Bonegale-Greataxe.png",
+		"objectFit": false,
+		"title": "Большой Топор Костяного Шторма",
+		"description": "Топор 3",
+		"price": 300
+	},
+
+	{
+		"id": "ShadowsEdge",
+		"type": "weapons",
+		"path": "axes-details",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Shadows-Edge.png",
+		"objectFit": false,
+		"title": "Грань Тьмы",
+		"description": "Топор 3",
+		"price": 300
+	},
+
+	{
+		"id": "WhitefinAxe",
+		"type": "weapons",
+		"path": "axes-details",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Whitefin-Axe.png",
+		"objectFit": false,
+		"title": "Белоперый Топор",
+		"description": "Топор 1",
+		"price": 300
+	},
+
+	{
+		"id": "TerminationAxe",
+		"type": "weapons",
+		"path": "axes-details",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Termination-Axe.png",
+		"objectFit": false,
+		"title": "Топор Решимости",
+		"description": "Топор 1",
+		"price": 300
+	},
+
+	{
+		"id": "PlunderedFuryFinAxe",
+		"type": "weapons",
+		"path": "axes-details",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Plundered-Fury-Fin-Axe.png",
+		"objectFit": false,
+		"title": "Трофейный Топор Яростного Плавника",
+		"description": "Топор 1",
 		"price": 300
 	},
 
@@ -436,6 +524,72 @@
 		"objectFit": false,
 		"title": "Трофейный Топор с Лезвием Крылом",
 		"description": "",
+		"price": 300
+	},
+
+	{
+		"id": "PhaseLostChopper",
+		"type": "weapons",
+		"path": "axes-details",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Phase-Lost-Chopper.png",
+		"objectFit": true,
+		"title": "Межфазовый Колун",
+		"description": "",
+		"price": 300
+	},
+
+	{
+		"id": "SkullstealerGreataxeNormal",
+		"type": "weapons",
+		"path": "axes-details",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Skullstealer-Greataxe-normal.png",
+		"objectFit": true,
+		"title": "Большой Топор Головоруба",
+		"description": "Топор 4",
+		"price": 300
+	},
+
+	{
+		"id": "SkullstealerGreataxeHeroic",
+		"type": "weapons",
+		"path": "axes-details",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Skullstealer-Greataxe-heroic.png",
+		"objectFit": true,
+		"title": "Большой Топор Головоруба (Героический)",
+		"description": "Топор 4",
+		"price": 300
+	},
+
+	{
+		"id": "ExperimentalSpecimenSlicerRaidFinder",
+		"type": "weapons",
+		"path": "axes-details",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Experimental-Specimen-Slicer-raid-finder.png",
+		"objectFit": false,
+		"title": "Тесак для Экспериментальных Образцов (Поиск Рейда)",
+		"description": "Топор 4",
+		"price": 300
+	},
+
+	{
+		"id": "ExperimentalSpecimenSlicerNormal",
+		"type": "weapons",
+		"path": "axes-details",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Experimental-Specimen-Slicer-normal.png",
+		"objectFit": false,
+		"title": "Тесак для Экспериментальных Образцов",
+		"description": "Топор 4",
+		"price": 300
+	},
+
+	{
+		"id": "ExperimentalSpecimenSlicerHeroic",
+		"type": "weapons",
+		"path": "axes-details",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Experimental-Specimen-Slicer-heroic.png",
+		"objectFit": false,
+		"title": "Тесак для Экспериментальных Образцов (Героический)",
+		"description": "Топор 4",
 		"price": 300
 	}
 ]

@@ -7,7 +7,6 @@ import Wrapper from "../../../../components/Wrapper";
 
 import Announcement from "../../../../components/Announcement";
 import Promo from "../../../../components/Promo";
-import Cards from "../../../../components/Cards";
 import WeaponDetails from "../../../../components/WeaponDetails";
 
 import dataTwoHandedAxes from "../../../../json/weapons/two-handed/axes/axes-details.json";

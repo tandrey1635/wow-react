@@ -3,9 +3,10 @@
 		"id": "TwoHandedAxes",
 		"type": "weapons",
 		"path": "axes",
-		"img": "/src/assets/img/promo/bg/weapons/two-handed.png",
+		"img": "/src/assets/img/promo/bg/weapons/two-handed/two-handed-axes.png",
+		"objectFit": true,
 		"title": "Двуручные Топоры",
-		"description": "Закажите любой двуручный топор",
+		"description": "Двуручные топоры — мощное рубящее оружие. Для тех, кто ценит силу и размах в бою. Сила удара сокрушает доспехи, дробит кости и не оставляет врагу ни единого шанса.",
 		"price": 300
 	},
 

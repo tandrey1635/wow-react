@@ -483,6 +483,9 @@ footer {
 .promo__info_shaman {
   background: url("/src/assets/img/promo/bg/classes/Shaman.png") no-repeat center/contain;
 }
+.promo__info_weapons-two-handed-axes {
+  background: url("/src/assets/img/promo/bg/weapons/two-handed/two-handed-axes.png") no-repeat center/contain;
+}
 .promo__info_weapons-legendary {
   background: url("/src/assets/img/promo/bg/weapons/legendary.png") no-repeat center/contain;
 }
