@@ -162,6 +162,31 @@ import DiabloCollectionEditions from "./pages/achievements/DiabloCollectionEditi
 
 
 
+import MoltenCore from "./pages/raids-armours/RaidsArmoursDetailsPage/MoltenCore.tsx";
+import BlackwingLair from "./pages/raids-armours/RaidsArmoursDetailsPage/BlackwingLair.tsx";
+import AhnqirajTemple from "./pages/raids-armours/RaidsArmoursDetailsPage/AhnqirajTemple.tsx";
+import NaxxramasClassic from "./pages/raids-armours/RaidsArmoursDetailsPage/NaxxramasClassic.tsx";
+import NaxxramasClassicSapphiron from "./pages/raids-armours/RaidsArmoursDetailsPage/NaxxramasClassicSapphiron.tsx";
+import TimeWalk from "./pages/raids-armours/RaidsArmoursDetailsPage/TimeWalk.tsx";
+import TierFour from "./pages/raids-armours/RaidsArmoursDetailsPage/TierFour.tsx";
+import SnakeSanctuary from "./pages/raids-armours/RaidsArmoursDetailsPage/SnakeSanctuary.tsx";
+import BlackTemple from "./pages/raids-armours/RaidsArmoursDetailsPage/BlackTemple.tsx";
+import Sunwell from "./pages/raids-armours/RaidsArmoursDetailsPage/Sunwell.tsx";
+import Naxxramas from "./pages/raids-armours/RaidsArmoursDetailsPage/Naxxramas.tsx";
+import Ulduar from "./pages/raids-armours/RaidsArmoursDetailsPage/Ulduar.tsx";
+import TrialOfTheCrusader from "./pages/raids-armours/RaidsArmoursDetailsPage/TrialOfTheCrusader.tsx";
+import IceCrownCitadel from "./pages/raids-armours/RaidsArmoursDetailsPage/IceCrownCitadel.tsx";
+import TierEleven from "./pages/raids-armours/RaidsArmoursDetailsPage/TierEleven.tsx";
+import Firelands from "./pages/raids-armours/RaidsArmoursDetailsPage/firelands.tsx";
+import DragonSoul from "./pages/raids-armours/RaidsArmoursDetailsPage/DragonSoul.tsx";
+import TierFourteens from "./pages/raids-armours/RaidsArmoursDetailsPage/TierFourteens.tsx";
+import ThroneOfThunder from "./pages/raids-armours/RaidsArmoursDetailsPage/ThroneOfThunder.tsx";
+import SiegeOfOrgrimmar from "./pages/raids-armours/RaidsArmoursDetailsPage/SiegeOfOrgrimmar.tsx";
+import FoundryOfBlackMountainClan from "./pages/raids-armours/RaidsArmoursDetailsPage/FoundryOfBlackMountainClan.tsx";
+
+
+
+
 
 
 
@@ -181,7 +206,28 @@ createRoot(document.getElementById("root")!).render(
 				<Route path="raids-armours/:raidsArmours" element={<RaidsArmoursPage />} />
 
 
-
+				{/* Детальные стр рейдовой брони */}
+				<Route path="raids-armours/:raidsArmours/molten-core" element={<MoltenCore />} />
+				<Route path="raids-armours/:raidsArmours/blackwing-lair" element={<BlackwingLair />} />
+				<Route path="raids-armours/:raidsArmours/ahnqiraj-temple" element={<AhnqirajTemple />} />
+				<Route path="raids-armours/:raidsArmours/naxxramas-classic" element={<NaxxramasClassic />} />
+				<Route path="raids-armours/:raidsArmours/naxxramas-classic-sapphiron" element={<NaxxramasClassicSapphiron />} />
+				<Route path="raids-armours/:raidsArmours/time-walk" element={<TimeWalk />} />
+				<Route path="raids-armours/:raidsArmours/tier-four" element={<TierFour />} />
+				<Route path="raids-armours/:raidsArmours/snake-sanctuary" element={<SnakeSanctuary />} />
+				<Route path="raids-armours/:raidsArmours/black-temple" element={<BlackTemple />} />
+				<Route path="raids-armours/:raidsArmours/sunwell" element={<Sunwell />} />
+				<Route path="raids-armours/:raidsArmours/naxxramas" element={<Naxxramas />} />
+				<Route path="raids-armours/:raidsArmours/ulduar" element={<Ulduar />} />
+				<Route path="raids-armours/:raidsArmours/trial-of-the-crusader" element={<TrialOfTheCrusader />} />
+				<Route path="raids-armours/:raidsArmours/ice-crown-citadel" element={<IceCrownCitadel />} />
+				<Route path="raids-armours/:raidsArmours/tier-eleven" element={<TierEleven />} />
+				<Route path="raids-armours/:raidsArmours/firelands" element={<Firelands />} />
+				<Route path="raids-armours/:raidsArmours/dragon-soul" element={<DragonSoul />} />
+				<Route path="raids-armours/:raidsArmours/tier-fourteens" element={<TierFourteens />} />
+				<Route path="raids-armours/:raidsArmours/throne-of-thunder" element={<ThroneOfThunder />} />
+				<Route path="raids-armours/:raidsArmours/siege-of-orgrimmar" element={<SiegeOfOrgrimmar />} />
+				<Route path="raids-armours/:raidsArmours/foundry-of-black-mountain-clan" element={<FoundryOfBlackMountainClan />} />
 
 
 
