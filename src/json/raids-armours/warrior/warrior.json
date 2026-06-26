@@ -2,7 +2,7 @@
 	{
 		"id": "DarkIronPlate",
 		"type": "warrior",
-		"path": "",
+		"path": "molten-core",
 		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/Dark-Iron-Plate.png",
 		"objectFit": false,
 		"title": "Броня из Черного Железа",
@@ -15,7 +15,7 @@
 	{
 		"id": "BattlegearOfMight",
 		"type": "warrior",
-		"path": "",
+		"path": "molten-core",
 		"img": "/src/assets/img/raids-armours/bg/warrior/Battlegear-of-Might.png",
 		"objectFit": false,
 		"title": "Броня Мощи",
@@ -28,7 +28,7 @@
 	{
 		"id": "BattlegearOfMightRecolor",
 		"type": "warrior",
-		"path": "",
+		"path": "molten-core",
 		"img": "/src/assets/img/raids-armours/bg/warrior/Battlegear-of-Might-recolor.png",
 		"objectFit": false,
 		"title": "Броня Мощи Путешественника из Другого Мира",
@@ -41,7 +41,7 @@
 	{
 		"id": "BattlegearOfWrath",
 		"type": "warrior",
-		"path": "",
+		"path": "blackwing-lair",
 		"img": "/src/assets/img/raids-armours/bg/warrior/Battlegear-of-Wrath.png",
 		"objectFit": false,
 		"title": "Броня Гнева",
@@ -54,7 +54,7 @@
 	{
 		"id": "BattlegearOfWrathRecolor",
 		"type": "warrior",
-		"path": "",
+		"path": "blackwing-lair",
 		"img": "/src/assets/img/raids-armours/bg/warrior/Battlegear-of-Wrath-recolor.png",
 		"objectFit": false,
 		"title": "Броня Гнева Путешественника из Другого Мира",
@@ -67,7 +67,7 @@
 	{
 		"id": "ConquerorsBattlegear",
 		"type": "warrior",
-		"path": "",
+		"path": "ahnqiraj-temple",
 		"img": "/src/assets/img/raids-armours/bg/warrior/Conquerors-Battlegear.png",
 		"objectFit": false,
 		"title": "Броня Завоевателя",
@@ -80,7 +80,7 @@
 	{
 		"id": "DreadnaughtsBattlegear",
 		"type": "warrior",
-		"path": "",
+		"path": "naxxramas-classic",
 		"img": "/src/assets/img/raids-armours/bg/warrior/Dreadnaughts-Battlegear.png",
 		"objectFit": false,
 		"title": "Броня Неустрашимости",
@@ -93,7 +93,7 @@
 	{
 		"id": "PlateIcebaneSet",
 		"type": "warrior",
-		"path": "",
+		"path": "naxxramas-classic-sapphiron",
 		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/Plate-Icebane-Set.png",
 		"objectFit": false,
 		"title": "Латный Комплект Ледяной Погибели",
@@ -106,7 +106,7 @@
 	{
 		"id": "TelhamatAnchoritesRaiment",
 		"type": "warrior",
-		"path": "",
+		"path": "time-walk",
 		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/Telhamat-Anchorites-Raiment.png",
 		"objectFit": false,
 		"title": "Облачение Телхаматского Анахорета",
@@ -145,7 +145,7 @@
 	{
 		"id": "WarbringerArmor",
 		"type": "warrior",
-		"path": "",
+		"path": "tier-four",
 		"img": "/src/assets/img/raids-armours/bg/warrior/Warbringer-Armor.png",
 		"objectFit": false,
 		"title": "Доспехи Вестника Войны",
@@ -158,7 +158,7 @@
 	{
 		"id": "DestroyerArmor",
 		"type": "warrior",
-		"path": "",
+		"path": "snake-sanctuary",
 		"img": "/src/assets/img/raids-armours/bg/warrior/Destroyer-Armor.png",
 		"objectFit": false,
 		"title": "Доспехи Разрушителя",
@@ -171,7 +171,7 @@
 	{
 		"id": "DestroyerArmorRecolor",
 		"type": "warrior",
-		"path": "",
+		"path": "snake-sanctuary",
 		"img": "/src/assets/img/raids-armours/bg/warrior/Destroyer-Armor-recolor.png",
 		"objectFit": false,
 		"title": "Доспехи Разрушителя Путешественника из Другого Мира",
@@ -184,7 +184,7 @@
 	{
 		"id": "OnslaughtArmor",
 		"type": "warrior",
-		"path": "",
+		"path": "black-temple",
 		"img": "/src/assets/img/raids-armours/bg/warrior/Onslaught-Armor.png",
 		"objectFit": false,
 		"title": "Доспехи Натиска",
@@ -197,7 +197,7 @@
 	{
 		"id": "OnslaughtSunwellBattlegear",
 		"type": "warrior",
-		"path": "",
+		"path": "sunwell",
 		"img": "/src/assets/img/raids-armours/bg/warrior/Onslaught-Sunwell-Battlegear.png",
 		"objectFit": false,
 		"title": "Доспехи Натиска Солнечного Колодца",
@@ -210,7 +210,7 @@
 	{
 		"id": "HeroesDreadnaughtBattlegear",
 		"type": "warrior",
-		"path": "",
+		"path": "naxxramas",
 		"img": "/src/assets/img/raids-armours/bg/warrior/Heroes-Dreadnaught-Battlegear.png",
 		"objectFit": false,
 		"title": "Героическая Броня Неустрашимости",
@@ -223,7 +223,7 @@
 	{
 		"id": "ValorousDreadnaughtBattlegear",
 		"type": "warrior",
-		"path": "",
+		"path": "naxxramas",
 		"img": "/src/assets/img/raids-armours/bg/warrior/Valorous-Dreadnaught-Battlegear.png",
 		"objectFit": false,
 		"title": "Доблестная Броня Неустрашимости",
@@ -236,7 +236,7 @@
 	{
 		"id": "SiegebreakerBattlegear",
 		"type": "warrior",
-		"path": "",
+		"path": "ulduar",
 		"img": "/src/assets/img/raids-armours/bg/warrior/Siegebreaker-Battlegear.png",
 		"objectFit": false,
 		"title": "Доблестная Осадная Броня",
@@ -249,7 +249,7 @@
 	{
 		"id": "SiegebreakerBattlegearRecolor",
 		"type": "warrior",
-		"path": "",
+		"path": "ulduar",
 		"img": "/src/assets/img/raids-armours/bg/warrior/Siegebreaker-Battlegear-recolor.png",
 		"objectFit": false,
 		"title": "Доблестная Осадная Броня Путешественника из Другого Мира",
@@ -262,7 +262,7 @@
 	{
 		"id": "ConquerorsSiegebreakerBattlegear",
 		"type": "warrior",
-		"path": "",
+		"path": "ulduar",
 		"img": "/src/assets/img/raids-armours/bg/warrior/Conquerors-Siegebreaker-Battlegear.png",
 		"objectFit": false,
 		"title": "Осадная Броня Завоевателя",
@@ -275,7 +275,7 @@
 	{
 		"id": "ConquerorsSiegebreakerBattlegearRecolor",
 		"type": "warrior",
-		"path": "",
+		"path": "ulduar",
 		"img": "/src/assets/img/raids-armours/bg/warrior/Conquerors-Siegebreaker-Battlegear-recolor.png",
 		"objectFit": false,
 		"title": "Осадная Броня Завоевателя Путешественника из Другого Мира",
@@ -288,7 +288,7 @@
 	{
 		"id": "HellscreamsBattlegear",
 		"type": "warrior",
-		"path": "",
+		"path": "trial-of-the-crusader",
 		"img": "/src/assets/img/raids-armours/bg/warrior/Hellscreams-Battlegear.png",
 		"objectFit": false,
 		"title": "Броня Адского Крика",
@@ -301,7 +301,7 @@
 	{
 		"id": "WrynnsBattlegear",
 		"type": "warrior",
-		"path": "",
+		"path": "trial-of-the-crusader",
 		"img": "/src/assets/img/raids-armours/bg/warrior/Wrynns-Battlegear.png",
 		"objectFit": false,
 		"title": "Броня Ринна",
@@ -314,7 +314,7 @@
 	{
 		"id": "YmirjarLordsBattlegear",
 		"type": "warrior",
-		"path": "",
+		"path": "ice-crown-citadel",
 		"img": "/src/assets/img/raids-armours/bg/warrior/Ymirjar-Lords-Battlegear.png",
 		"objectFit": false,
 		"title": "Броня Повелителя Имирьяров",
@@ -327,7 +327,7 @@
 	{
 		"id": "SanctifiedYmirjarLordsBattlegear25Normal",
 		"type": "warrior",
-		"path": "",
+		"path": "ice-crown-citadel",
 		"img": "/src/assets/img/raids-armours/bg/warrior/Sanctified-Ymirjar-Lords-Battlegear-25-normal.png",
 		"objectFit": false,
 		"title": "Освященная Броня Повелителя Имирьяров",
@@ -340,7 +340,7 @@
 	{
 		"id": "SanctifiedYmirjarLordsBattlegear25Heroic",
 		"type": "warrior",
-		"path": "",
+		"path": "ice-crown-citadel",
 		"img": "/src/assets/img/raids-armours/bg/warrior/Sanctified-Ymirjar-Lords-Battlegear-25-heroic.png",
 		"objectFit": false,
 		"title": "Освященная Броня Повелителя Имирьяров",
@@ -353,7 +353,7 @@
 	{
 		"id": "EarthenBattleplateNormal",
 		"type": "warrior",
-		"path": "",
+		"path": "tier-eleven",
 		"img": "/src/assets/img/raids-armours/bg/warrior/Earthen-Battleplate-normal.png",
 		"objectFit": false,
 		"title": "Боевой Доспех Земли",
@@ -366,7 +366,7 @@
 	{
 		"id": "EarthenBattleplateHeroic",
 		"type": "warrior",
-		"path": "",
+		"path": "tier-eleven",
 		"img": "/src/assets/img/raids-armours/bg/warrior/Earthen-Battleplate-heroic.png",
 		"objectFit": false,
 		"title": "Боевой Доспех Земли",
@@ -379,7 +379,7 @@
 	{
 		"id": "MoltenGiantBattleplateNormal",
 		"type": "warrior",
-		"path": "",
+		"path": "firelands",
 		"img": "/src/assets/img/raids-armours/bg/warrior/Molten-Giant-Battleplate-normal.png",
 		"objectFit": false,
 		"title": "Боевой Доспех Огненного Великана",
@@ -392,7 +392,7 @@
 	{
 		"id": "MoltenGiantBattleplateHeroic",
 		"type": "warrior",
-		"path": "",
+		"path": "firelands",
 		"img": "/src/assets/img/raids-armours/bg/warrior/Molten-Giant-Battleplate-heroic.png",
 		"objectFit": false,
 		"title": "Боевой Доспех Огненного Великана",
@@ -405,7 +405,7 @@
 	{
 		"id": "ColossalDragonplateBattlegearRaidFinder",
 		"type": "warrior",
-		"path": "",
+		"path": "dragon-soul",
 		"img": "/src/assets/img/raids-armours/bg/warrior/Colossal-Dragonplate-Battlegear-raid-finder.png",
 		"objectFit": false,
 		"title": "Броня из Чешуи Гигантского Дракона",
@@ -418,7 +418,7 @@
 	{
 		"id": "ColossalDragonplateBattlegearNormal",
 		"type": "warrior",
-		"path": "",
+		"path": "dragon-soul",
 		"img": "/src/assets/img/raids-armours/bg/warrior/Colossal-Dragonplate-Battlegear-normal.png",
 		"objectFit": false,
 		"title": "Броня из Чешуи Гигантского Дракона",
@@ -431,7 +431,7 @@
 	{
 		"id": "ColossalDragonplateBattlegearHeroic",
 		"type": "warrior",
-		"path": "",
+		"path": "dragon-soul",
 		"img": "/src/assets/img/raids-armours/bg/warrior/Colossal-Dragonplate-Battlegear-heroic.png",
 		"objectFit": false,
 		"title": "Броня из Чешуи Гигантского Дракона",
@@ -639,7 +639,7 @@
 	{
 		"id": "BattleplateOfResoundingRingsRaidFinder",
 		"type": "warrior",
-		"path": "",
+		"path": "tier-fourteens",
 		"img": "/src/assets/img/raids-armours/bg/warrior/Battleplate-of-Resounding-Rings-raid-finder.png",
 		"objectFit": false,
 		"title": "Боевые Латы из Резонирующих Колец",
@@ -652,7 +652,7 @@
 	{
 		"id": "BattleplateOfResoundingRingsNormal",
 		"type": "warrior",
-		"path": "",
+		"path": "tier-fourteens",
 		"img": "/src/assets/img/raids-armours/bg/warrior/Battleplate-of-Resounding-Rings-normal.png",
 		"objectFit": false,
 		"title": "Боевые Латы из Резонирующих Колец",
@@ -665,7 +665,7 @@
 	{
 		"id": "BattleplateOfResoundingRingsHeroic",
 		"type": "warrior",
-		"path": "",
+		"path": "tier-fourteens",
 		"img": "/src/assets/img/raids-armours/bg/warrior/Battleplate-of-Resounding-Rings-heroic.png",
 		"objectFit": false,
 		"title": "Боевые Латы из Резонирующих Колец",
@@ -678,7 +678,7 @@
 	{
 		"id": "BattleplateOfResoundingRingsRecolor",
 		"type": "warrior",
-		"path": "",
+		"path": "tier-fourteens",
 		"img": "/src/assets/img/raids-armours/bg/warrior/Battleplate-of-Resounding-Rings-recolor.png",
 		"objectFit": false,
 		"title": "Боевые Латы из Резонирующих Колец Путешественника из Другого Мира",
@@ -691,7 +691,7 @@
 	{
 		"id": "BattleplateOfTheLastMoguRaidFinder",
 		"type": "warrior",
-		"path": "",
+		"path": "throne-of-thunder",
 		"img": "/src/assets/img/raids-armours/bg/warrior/Battleplate-of-the-Last-Mogu-raid-finder.png",
 		"objectFit": false,
 		"title": "Боевой Доспех Последнего Могу",
@@ -704,7 +704,7 @@
 	{
 		"id": "BattleplateOfTheLastMoguNormal",
 		"type": "warrior",
-		"path": "",
+		"path": "throne-of-thunder",
 		"img": "/src/assets/img/raids-armours/bg/warrior/Battleplate-of-the-Last-Mogu-normal.png",
 		"objectFit": false,
 		"title": "Боевой Доспех Последнего Могу",
@@ -717,7 +717,7 @@
 	{
 		"id": "BattleplateOfTheLastMoguHeroic",
 		"type": "warrior",
-		"path": "",
+		"path": "throne-of-thunder",
 		"img": "/src/assets/img/raids-armours/bg/warrior/Battleplate-of-the-Last-Mogu-heroic.png",
 		"objectFit": false,
 		"title": "Боевой Доспех Последнего Могу",
@@ -730,7 +730,7 @@
 	{
 		"id": "BattleplateOfThePrehistoricMarauderRaidFinder",
 		"type": "warrior",
-		"path": "",
+		"path": "siege-of-orgrimmar",
 		"img": "/src/assets/img/raids-armours/bg/warrior/Battleplate-of-the-Prehistoric-Marauder-raid-finder.png",
 		"objectFit": false,
 		"title": "Боевой Доспех Доисторического Разорителя",
@@ -743,7 +743,7 @@
 	{
 		"id": "BattleplateOfThePrehistoricMarauderNormalHeroic",
 		"type": "warrior",
-		"path": "",
+		"path": "siege-of-orgrimmar",
 		"img": "/src/assets/img/raids-armours/bg/warrior/Battleplate-of-the-Prehistoric-Marauder-normal-heroic.png",
 		"objectFit": false,
 		"title": "Боевой Доспех Доисторического Разорителя",
@@ -756,7 +756,7 @@
 	{
 		"id": "BattleplateOfThePrehistoricMarauderMythic",
 		"type": "warrior",
-		"path": "",
+		"path": "siege-of-orgrimmar",
 		"img": "/src/assets/img/raids-armours/bg/warrior/Battleplate-of-the-Prehistoric-Marauder-mythic.png",
 		"objectFit": false,
 		"title": "Боевой Доспех Доисторического Разорителя",
@@ -769,7 +769,7 @@
 	{
 		"id": "ShadowmoonAnchoritesGuardplate",
 		"type": "warrior",
-		"path": "",
+		"path": "time-walk",
 		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/Shadowmoon-Anchorites-Guardplate.png",
 		"objectFit": false,
 		"title": "Защитные Пластины Анахорета Призрачной Луны",
@@ -795,7 +795,7 @@
 	{
 		"id": "BlacksteelBattleplateRaidFinder",
 		"type": "warrior",
-		"path": "",
+		"path": "foundry-of-black-mountain-clan",
 		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/Blacksteel-Battleplate-raid-finder.png",
 		"objectFit": false,
 		"title": "Боевой Доспех из Вороненой Стали",
@@ -808,7 +808,7 @@
 	{
 		"id": "BlacksteelBattleplateRed",
 		"type": "warrior",
-		"path": "",
+		"path": "foundry-of-black-mountain-clan",
 		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/Blacksteel-Battleplate-red.png",
 		"objectFit": false,
 		"title": "Боевой Доспех из Вороненой Стали Путешественника из Другого Мира",
@@ -821,7 +821,7 @@
 	{
 		"id": "BlacksteelBattleplateBrown",
 		"type": "warrior",
-		"path": "",
+		"path": "foundry-of-black-mountain-clan",
 		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/Blacksteel-Battleplate-brown.png",
 		"objectFit": false,
 		"title": "Боевой Доспех из Вороненой Стали Путешественника из Другого Мира",
@@ -834,7 +834,7 @@
 	{
 		"id": "BlackhandsBattlegearNormal",
 		"type": "warrior",
-		"path": "",
+		"path": "foundry-of-black-mountain-clan",
 		"img": "/src/assets/img/raids-armours/bg/warrior/Blackhands-Battlegear-normal.png",
 		"objectFit": false,
 		"title": "Броня Чернорука",
@@ -847,7 +847,7 @@
 	{
 		"id": "BlackhandsBattlegearHeroic",
 		"type": "warrior",
-		"path": "",
+		"path": "foundry-of-black-mountain-clan",
 		"img": "/src/assets/img/raids-armours/bg/warrior/Blackhands-Battlegear-heroic.png",
 		"objectFit": false,
 		"title": "Броня Чернорука",
@@ -860,7 +860,7 @@
 	{
 		"id": "BlackhandsBattlegearMythic",
 		"type": "warrior",
-		"path": "",
+		"path": "foundry-of-black-mountain-clan",
 		"img": "/src/assets/img/raids-armours/bg/warrior/Blackhands-Battlegear-mythic.png",
 		"objectFit": false,
 		"title": "Броня Чернорука",
@@ -1388,5 +1388,57 @@
 		"descriptionTrim": "Порабощенный Титан будет повержен! Эпохи мучений закончатся здесь! Ваша сила не знает границ! Вы неуязвимы для скверны и смерти! Принесите покой павшему Титану! Пылающий Легион разбит навсегда!",
 		"addition": "Legion",
 		"price": 2000
+	},
+
+	{
+		"id": "RaidFinder",
+		"type": "warrior",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/-raid-finder.png",
+		"objectFit": false,
+		"title": "Латы Бессмертного Куратора",
+		"description": "Первый комплект брони для воина из рейда 120-го уровня Ульдир режима поиска рейдов дополнения",
+		"descriptionTrim": "Кровавый Бог будет повержен!",
+		"addition": "Battle for Azeroth",
+		"price": 2500
+	},
+
+	{
+		"id": "Normal",
+		"type": "warrior",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/-normal.png",
+		"objectFit": false,
+		"title": "Латы Бессмертного Куратора",
+		"description": "Первый комплект брони для воина из рейда 120-го уровня Ульдир обычного уровня сложности дополнения",
+		"descriptionTrim": "Кровавый Бог будет повержен!",
+		"addition": "Battle for Azeroth",
+		"price": 2500
+	},
+
+	{
+		"id": "Heroic",
+		"type": "warrior",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/-heroic.png",
+		"objectFit": false,
+		"title": "Латы Бессмертного Куратора",
+		"description": "Первый комплект брони для воина из рейда 120-го уровня Ульдир героического уровня сложности дополнения",
+		"descriptionTrim": "Кровавый Бог будет повержен!",
+		"addition": "Battle for Azeroth",
+		"price": 2500
+	},
+
+	{
+		"id": "Heroic",
+		"type": "warrior",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/-heroic.png",
+		"objectFit": false,
+		"title": "Латы Бессмертного Куратора",
+		"description": "Первый комплект брони для воина из рейда 120-го уровня Ульдир эпохального уровня сложности дополнения",
+		"descriptionTrim": "Кровавый Бог будет повержен!",
+		"addition": "Battle for Azeroth",
+		"price": 2500
 	}
 ]
