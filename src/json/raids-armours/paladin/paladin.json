@@ -2,7 +2,7 @@
 	{
 		"id": "DarkIronPlate",
 		"type": "paladin",
-		"path": "",
+		"path": "molten-core",
 		"img": "/src/assets/img/raids-armours/bg/general/plate/paladin/Dark-Iron-Plate.png",
 		"objectFit": false,
 		"title": "Броня из Черного Железа",
@@ -15,7 +15,7 @@
 	{
 		"id": "LawbringerArmor",
 		"type": "paladin",
-		"path": "",
+		"path": "molten-core",
 		"img": "/src/assets/img/raids-armours/bg/paladin/Lawbringer-Armor.png",
 		"objectFit": false,
 		"title": "Доспехи Законника",
@@ -28,7 +28,7 @@
 	{
 		"id": "LawbringerArmorRecolor",
 		"type": "paladin",
-		"path": "",
+		"path": "molten-core",
 		"img": "/src/assets/img/raids-armours/bg/paladin/Lawbringer-Armor-recolor.png",
 		"objectFit": false,
 		"title": "Доспехи Законника Путешественника из Другого Мира",
@@ -41,7 +41,7 @@
 	{
 		"id": "JudgmentArmor",
 		"type": "paladin",
-		"path": "",
+		"path": "blackwing-lair",
 		"img": "/src/assets/img/raids-armours/bg/paladin/Judgment-Armor.png",
 		"objectFit": false,
 		"title": "Доспехи Правосудия",
@@ -54,7 +54,7 @@
 	{
 		"id": "JudgmentArmorRecolor",
 		"type": "paladin",
-		"path": "",
+		"path": "blackwing-lair",
 		"img": "/src/assets/img/raids-armours/bg/paladin/Judgment-Armor-recolor.png",
 		"objectFit": false,
 		"title": "Доспехи Правосудия Путешественника из Другого Мира",
@@ -67,7 +67,7 @@
 	{
 		"id": "AvengersBattlegear",
 		"type": "paladin",
-		"path": "",
+		"path": "ahnqiraj-temple",
 		"img": "/src/assets/img/raids-armours/bg/paladin/Avengers-Battlegear.png",
 		"objectFit": false,
 		"title": "Броня Мстителя",
@@ -80,7 +80,7 @@
 	{
 		"id": "RedemptionArmor",
 		"type": "paladin",
-		"path": "",
+		"path": "naxxramas-classic",
 		"img": "/src/assets/img/raids-armours/bg/paladin/Redemption-Armor.png",
 		"objectFit": false,
 		"title": "Доспехи Искупления",
@@ -93,7 +93,7 @@
 	{
 		"id": "PlateIcebaneSet",
 		"type": "paladin",
-		"path": "",
+		"path": "naxxramas-classic-sapphiron",
 		"img": "/src/assets/img/raids-armours/bg/general/plate/paladin/Plate-Icebane-Set.png",
 		"objectFit": false,
 		"title": "Латный Комплект Ледяной Погибели",
@@ -106,7 +106,7 @@
 	{
 		"id": "TelhamatAnchoritesRaiment",
 		"type": "paladin",
-		"path": "",
+		"path": "time-walk",
 		"img": "/src/assets/img/raids-armours/bg/general/plate/paladin/Telhamat-Anchorites-Raiment.png",
 		"objectFit": false,
 		"title": "Облачение Телхаматского Анахорета",
@@ -145,7 +145,7 @@
 	{
 		"id": "JusticarArmor",
 		"type": "paladin",
-		"path": "",
+		"path": "tier-four",
 		"img": "/src/assets/img/raids-armours/bg/paladin/Justicar-Armor.png",
 		"objectFit": false,
 		"title": "Доспехи Вершителя Правосудия",
@@ -158,7 +158,7 @@
 	{
 		"id": "JusticarArmorRecolor",
 		"type": "paladin",
-		"path": "",
+		"path": "tier-four",
 		"img": "/src/assets/img/raids-armours/bg/paladin/Justicar-Armor-recolor.png",
 		"objectFit": false,
 		"title": "Доспехи Вершителя Правосудия Путешественника из Другого Мира",
@@ -171,7 +171,7 @@
 	{
 		"id": "CrystalforgeArmor",
 		"type": "paladin",
-		"path": "",
+		"path": "snake-sanctuary",
 		"img": "/src/assets/img/raids-armours/bg/paladin/Crystalforge-Armor.png",
 		"objectFit": false,
 		"title": "Доспехи Хрустальной Кузницы",
@@ -184,7 +184,7 @@
 	{
 		"id": "CrystalforgeArmorRecolor",
 		"type": "paladin",
-		"path": "",
+		"path": "snake-sanctuary",
 		"img": "/src/assets/img/raids-armours/bg/paladin/Crystalforge-Armor-recolor.png",
 		"objectFit": false,
 		"title": "Доспехи Хрустальной Кузницы Путешественника из Другого Мира",
@@ -197,7 +197,7 @@
 	{
 		"id": "LightbringerArmor",
 		"type": "paladin",
-		"path": "",
+		"path": "black-temple",
 		"img": "/src/assets/img/raids-armours/bg/paladin/Lightbringer-Armor.png",
 		"objectFit": false,
 		"title": "Доспехи Светоносного",
@@ -210,7 +210,7 @@
 	{
 		"id": "LightbringerSunwellBattlegear",
 		"type": "paladin",
-		"path": "",
+		"path": "sunwell",
 		"img": "/src/assets/img/raids-armours/bg/paladin/Lightbringer-Sunwell-Battlegear.png",
 		"objectFit": false,
 		"title": "Доспехи Светоносного Солнечного Колодца",
@@ -223,7 +223,7 @@
 	{
 		"id": "RedemptionPlate",
 		"type": "paladin",
-		"path": "",
+		"path": "naxxramas",
 		"img": "/src/assets/img/raids-armours/bg/paladin/Redemption-Plate.png",
 		"objectFit": false,
 		"title": "Героический Доспех Искупления",
@@ -236,7 +236,7 @@
 	{
 		"id": "ValorousRedemptionPlate",
 		"type": "paladin",
-		"path": "",
+		"path": "naxxramas",
 		"img": "/src/assets/img/raids-armours/bg/paladin/Valorous-Redemption-Plate.png",
 		"objectFit": false,
 		"title": "Доблестный Доспех Искупления",
@@ -249,7 +249,7 @@
 	{
 		"id": "AegisBattlegear",
 		"type": "paladin",
-		"path": "",
+		"path": "ulduar",
 		"img": "/src/assets/img/raids-armours/bg/paladin/Aegis-Battlegear.png",
 		"objectFit": false,
 		"title": "Доблестная Броня Покровительства",
@@ -262,7 +262,7 @@
 	{
 		"id": "AegisBattlegearRecolor",
 		"type": "paladin",
-		"path": "",
+		"path": "ulduar",
 		"img": "/src/assets/img/raids-armours/bg/paladin/Aegis-Battlegear-recolor.png",
 		"objectFit": false,
 		"title": "Доблестная Броня Покровительства Путешественника из Другого Мира",
@@ -275,7 +275,7 @@
 	{
 		"id": "ConquerorsAegisBattlegear",
 		"type": "paladin",
-		"path": "",
+		"path": "ulduar",
 		"img": "/src/assets/img/raids-armours/bg/paladin/Conquerors-Aegis-Battlegear.png",
 		"objectFit": false,
 		"title": "Броня Покровительства Завоевателя",
@@ -288,7 +288,7 @@
 	{
 		"id": "ConquerorsAegisBattlegearRecolor",
 		"type": "paladin",
-		"path": "",
+		"path": "ulduar",
 		"img": "/src/assets/img/raids-armours/bg/paladin/Conquerors-Aegis-Battlegear-recolor.png",
 		"objectFit": false,
 		"title": "Броня Покровительства Завоевателя Путешественника из Другого Мира",
@@ -301,7 +301,7 @@
 	{
 		"id": "TuralyonsPlate",
 		"type": "paladin",
-		"path": "",
+		"path": "trial-of-the-crusader",
 		"img": "/src/assets/img/raids-armours/bg/paladin/Turalyons-Plate.png",
 		"objectFit": false,
 		"title": "Доспехи Туралиона",
@@ -314,7 +314,7 @@
 	{
 		"id": "LiadrinsBattlegear",
 		"type": "paladin",
-		"path": "",
+		"path": "trial-of-the-crusader",
 		"img": "/src/assets/img/raids-armours/bg/paladin/Liadrins-Battlegear.png",
 		"objectFit": false,
 		"title": "Броня Завоеваний Лиадрин",
@@ -327,7 +327,7 @@
 	{
 		"id": "LightswornBattlegear",
 		"type": "paladin",
-		"path": "",
+		"path": "ice-crown-citadel",
 		"img": "/src/assets/img/raids-armours/bg/paladin/Lightsworn-Battlegear.png",
 		"objectFit": false,
 		"title": "Броня Клятвы Свету",
@@ -340,7 +340,7 @@
 	{
 		"id": "SanctifiedLightswornBattlegear25Normal",
 		"type": "paladin",
-		"path": "",
+		"path": "ice-crown-citadel",
 		"img": "/src/assets/img/raids-armours/bg/paladin/Sanctified-Lightsworn-Battlegear-25-normal.png",
 		"objectFit": false,
 		"title": "Освященная Броня Клятвы Свету",
@@ -353,7 +353,7 @@
 	{
 		"id": "SanctifiedLightswornBattlegear25Heroic",
 		"type": "paladin",
-		"path": "",
+		"path": "ice-crown-citadel",
 		"img": "/src/assets/img/raids-armours/bg/paladin/Sanctified-Lightsworn-Battlegear-25-heroic.png",
 		"objectFit": false,
 		"title": "Освященная Броня Клятвы Свету",
@@ -366,7 +366,7 @@
 	{
 		"id": "ReinforcedSapphiriumBattleplateNormal",
 		"type": "paladin",
-		"path": "",
+		"path": "tier-eleven",
 		"img": "/src/assets/img/raids-armours/bg/paladin/Reinforced-Sapphirium-Battleplate-normal.png",
 		"objectFit": false,
 		"title": "Усиленный Сапфировый Боевой Доспех",
@@ -379,7 +379,7 @@
 	{
 		"id": "ReinforcedSapphiriumBattleplateHeroic",
 		"type": "paladin",
-		"path": "",
+		"path": "tier-eleven",
 		"img": "/src/assets/img/raids-armours/bg/paladin/Reinforced-Sapphirium-Battleplate-heroic.png",
 		"objectFit": false,
 		"title": "Усиленный Сапфировый Боевой Доспех",
@@ -392,7 +392,7 @@
 	{
 		"id": "BattleplateOfImmolationNormal",
 		"type": "paladin",
-		"path": "",
+		"path": "firelands",
 		"img": "/src/assets/img/raids-armours/bg/paladin/Battleplate-of-Immolation-normal.png",
 		"objectFit": false,
 		"title": "Обжигающий Боевой Доспех",
@@ -405,7 +405,7 @@
 	{
 		"id": "BattleplateOfImmolationHeroic",
 		"type": "paladin",
-		"path": "",
+		"path": "firelands",
 		"img": "/src/assets/img/raids-armours/bg/paladin/Battleplate-of-Immolation-heroic.png",
 		"objectFit": false,
 		"title": "Обжигающий Боевой Доспех",
@@ -418,7 +418,7 @@
 	{
 		"id": "BattleplateOfRadiantGloryRaidFinder",
 		"type": "paladin",
-		"path": "",
+		"path": "dragon-soul",
 		"img": "/src/assets/img/raids-armours/bg/paladin/Battleplate-of-Radiant-Glory-raid-finder.png",
 		"objectFit": false,
 		"title": "Боевой Доспех Блистательной Славы",
@@ -431,7 +431,7 @@
 	{
 		"id": "BattleplateOfRadiantGloryNormal",
 		"type": "paladin",
-		"path": "",
+		"path": "dragon-soul",
 		"img": "/src/assets/img/raids-armours/bg/paladin/Battleplate-of-Radiant-Glory-normal.png",
 		"objectFit": false,
 		"title": "Боевой Доспех Блистательной Славы",
@@ -444,7 +444,7 @@
 	{
 		"id": "BattleplateOfRadiantGloryHeroic",
 		"type": "paladin",
-		"path": "",
+		"path": "dragon-soul",
 		"img": "/src/assets/img/raids-armours/bg/paladin/Battleplate-of-Radiant-Glory-heroic.png",
 		"objectFit": false,
 		"title": "Боевой Доспех Блистательной Славы",
@@ -452,5 +452,200 @@
 		"descriptionTrim": "Аспект Смерти, Разрушитель Миров будет повержен! Броня из Чешуи самого Смертокрыла, освященная в горниле Света! Катаклизм отменяется!",
 		"addition": "Cataclysm",
 		"price": 500
+	},
+
+	{
+		"id": "SwarmbreakersBattleplateWhite",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/paladin/Swarmbreakers-Battleplate-white.png",
+		"objectFit": false,
+		"title": "Боевые Латы Грозы Роя",
+		"description": "Комплект брони из подземелий дополнения",
+		"descriptionTrim": "Броня, закаленная в героических походах по самым опасным подземельям Пандарии, от заснеженных троп Монастыря Шадо-Пан до древних залов Дворца Могу'шан. Вы прошли через войны кланов и древнюю магию. Каждый бой оставил на ней след, но она выдержала все. Достойная награда за пройденные испытания.",
+		"addition": "Mists of Pandaria",
+		"price": 1000
+	},
+
+	{
+		"id": "SwarmbreakersBattleplateOrange",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/paladin/Swarmbreakers-Battleplate-orange.png",
+		"objectFit": false,
+		"title": "Боевые Латы Грозы Роя",
+		"description": "Комплект брони из подземелий дополнения",
+		"descriptionTrim": "Броня, закаленная в героических походах по самым опасным подземельям Пандарии, от заснеженных троп Монастыря Шадо-Пан до древних залов Дворца Могу'шан. Вы прошли через войны кланов и древнюю магию. Каждый бой оставил на ней след, но она выдержала все. Достойная награда за пройденные испытания.",
+		"addition": "Mists of Pandaria",
+		"price": 1000
+	},
+
+	{
+		"id": "SwarmbreakersBattleplateBlack",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/paladin/Swarmbreakers-Battleplate-black.png",
+		"objectFit": false,
+		"title": "Боевые Латы Грозы Роя",
+		"description": "Комплект брони из подземелий дополнения",
+		"descriptionTrim": "Броня, закаленная в героических походах по самым опасным подземельям Пандарии, от заснеженных троп Монастыря Шадо-Пан до древних залов Дворца Могу'шан. Вы прошли через войны кланов и древнюю магию. Каждый бой оставил на ней след, но она выдержала все. Достойная награда за пройденные испытания.",
+		"addition": "Mists of Pandaria",
+		"price": 1000
+	},
+
+	{
+		"id": "MountainscalerBattleplateYellow",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/paladin/Mountainscaler-Battleplate-yellow.png",
+		"objectFit": false,
+		"title": "Боевые Латы Шань'цзэ",
+		"description": "Комплект брони, дарованный за выполнение череды опасных заданий дополнения",
+		"descriptionTrim": "Каждая деталь выкована в благодарность за самоотверженные подвиги и верность избранному пути. Доблесть и труды героя нашли свое воплощение в этом доспехе!",
+		"addition": "Mists of Pandaria",
+		"price": 1000
+	},
+
+	{
+		"id": "MountainscalerBattleplateRed",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/paladin/Mountainscaler-Battleplate-red.png",
+		"objectFit": false,
+		"title": "Боевые Латы Шань'цзэ",
+		"description": "Комплект брони, дарованный за выполнение череды опасных заданий дополнения",
+		"descriptionTrim": "Каждая деталь выкована в благодарность за самоотверженные подвиги и верность избранному пути. Доблесть и труды героя нашли свое воплощение в этом доспехе!",
+		"addition": "Mists of Pandaria",
+		"price": 1000
+	},
+
+	{
+		"id": "MountainscalerBattleplateGreen",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/paladin/Mountainscaler-Battleplate-green.png",
+		"objectFit": false,
+		"title": "Боевые Латы Шань'цзэ",
+		"description": "Комплект брони, дарованный за выполнение череды опасных заданий дополнения",
+		"descriptionTrim": "Каждая деталь выкована в благодарность за самоотверженные подвиги и верность избранному пути. Доблесть и труды героя нашли свое воплощение в этом доспехе!",
+		"addition": "Mists of Pandaria",
+		"price": 1000
+	},
+
+	{
+		"id": "MountainscalerBattleplateBlack",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/paladin/Mountainscaler-Battleplate-black.png",
+		"objectFit": false,
+		"title": "Боевые Латы Шань'цзэ",
+		"description": "Комплект брони, дарованный за выполнение череды опасных заданий дополнения",
+		"descriptionTrim": "Каждая деталь выкована в благодарность за самоотверженные подвиги и верность избранному пути. Доблесть и труды героя нашли свое воплощение в этом доспехе!",
+		"addition": "Mists of Pandaria",
+		"price": 1000
+	},
+
+	{
+		"id": "BrickBattleplateSilver",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/paladin/Brick-Battleplate-silver.png",
+		"objectFit": false,
+		"title": "Боевые Латы Стража Душ",
+		"description": "Комплект брони, дарованный за выполнение череды опасных заданий дополнения",
+		"descriptionTrim": "Каждая деталь выкована в благодарность за самоотверженные подвиги и верность избранному пути. Доблесть и труды героя нашли свое воплощение в этом доспехе!",
+		"addition": "Mists of Pandaria",
+		"price": 1000
+	},
+
+	{
+		"id": "BrickBattleplateGold",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/paladin/Brick-Battleplate-gold.png",
+		"objectFit": false,
+		"title": "Боевые Латы Стража Душ",
+		"description": "Комплект брони, дарованный за выполнение череды опасных заданий дополнения",
+		"descriptionTrim": "Каждая деталь выкована в благодарность за самоотверженные подвиги и верность избранному пути. Доблесть и труды героя нашли свое воплощение в этом доспехе!",
+		"addition": "Mists of Pandaria",
+		"price": 1000
+	},
+
+	{
+		"id": "BrickBattleplateBlue",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/paladin/Brick-Battleplate-blue.png",
+		"objectFit": false,
+		"title": "Боевые Латы Стража Душ",
+		"description": "Комплект брони, дарованный за выполнение череды опасных заданий дополнения",
+		"descriptionTrim": "Каждая деталь выкована в благодарность за самоотверженные подвиги и верность избранному пути. Доблесть и труды героя нашли свое воплощение в этом доспехе!",
+		"addition": "Mists of Pandaria",
+		"price": 1000
+	},
+
+	{
+		"id": "HolyWarriorPlate",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/paladin/Holy-Warrior-Plate.png",
+		"objectFit": false,
+		"title": "Броня Святого Воителя",
+		"description": "Комплект брони для паладина в награду за достижение Победитель в Испытаниях: Золото. Слава Чемпионам",
+		"descriptionTrim": "Вы лучший боец!",
+		"addition": "Mists of Pandaria",
+		"price": 1000
+	},
+
+	{
+		"id": "GatecrashersBattleplateBlack",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/paladin/Gatecrashers-Battleplate-black.png",
+		"objectFit": false,
+		"title": "Боевые Латы Крушителя Ворот",
+		"description": "Комплект брони для паладина, найденный на Вневременном Острове — священном месте пандаренов, дополнения",
+		"descriptionTrim": "Когда-то здесь царил мир между пандаренами, яунголами и их полубогом Ордосом, а Небожители испытывали юных героев на мудрость, силу и выносливость. Броня, не тронутая веками! Вы достойны силы, что старше самой Пандарии!",
+		"addition": "Mists of Pandaria",
+		"price": 1000
+	},
+
+	{
+		"id": "GatecrashersBattleplateRaidFinder",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/paladin/Gatecrashers-Battleplate-raid-finder.png",
+		"objectFit": false,
+		"title": "Боевые Латы Крушителя Ворот",
+		"description": "Первый комплект брони для паладина из рейда 90-го уровня Подземелья Могу'шан режима поиска рейдов дополнения",
+		"descriptionTrim": "Император будет повержен! Древняя магия могу не остановит вас! Вы сильнее проклятий, что сковывали эту землю тысячелетиями!",
+		"addition": "Mists of Pandaria",
+		"price": 1000
+	},
+
+	{
+		"id": "GatecrashersBattleplateNormal",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/paladin/Gatecrashers-Battleplate-normal.png",
+		"objectFit": false,
+		"title": "Боевые Латы Крушителя Ворот",
+		"description": "Первый комплект брони для паладина из рейда 90-го уровня Подземелья Могу'шан обычного уровня сложности дополнения",
+		"descriptionTrim": "Император будет повержен! Древняя магия могу не остановит вас! Вы сильнее проклятий, что сковывали эту землю тысячелетиями!",
+		"addition": "Mists of Pandaria",
+		"price": 1000
+	},
+
+	{
+		"id": "GatecrashersBattleplateHeroic",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/paladin/Gatecrashers-Battleplate-heroic.png",
+		"objectFit": false,
+		"title": "Боевые Латы Крушителя Ворот",
+		"description": "Первый комплект брони для паладина из рейда 90-го уровня Подземелья Могу'шан героического уровня сложности дополнения",
+		"descriptionTrim": "Император будет повержен! Древняя магия могу не остановит вас! Вы сильнее проклятий, что сковывали эту землю тысячелетиями!",
+		"addition": "Mists of Pandaria",
+		"price": 1000
 	}
 ]

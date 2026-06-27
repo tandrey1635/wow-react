@@ -50,7 +50,7 @@
 - комплект на сопротивление - воин, пал, дк, рога, шаман, хант, прист, маг, лок
 - подз накса - воин, пал, дк
 - тир 1-13 - воин, пал, дк
-- тир 1-19 - вар
+- тир 1-легион фул - воин
 - тир 1-13 - шаман
 - тир 1-6 - хант
 - тир 1-13 - рога
@@ -111,6 +111,30 @@ https://wow-react.vercel.app/raids-armours/rogue
 https://wow-react.vercel.app/raids-armours/deathknight
 https://wow-react.vercel.app/raids-armours/warlock
 https://wow-react.vercel.app/raids-armours/shaman
+
+https://wow-react.vercel.app/raids-armours/warrior/molten-core
+https://wow-react.vercel.app/raids-armours/warrior/blackwing-lair
+https://wow-react.vercel.app/raids-armours/warrior/ahnqiraj-temple
+https://wow-react.vercel.app/raids-armours/warrior/naxxramas-classic
+https://wow-react.vercel.app/raids-armours/warrior/naxxramas-classic-sapphiron
+https://wow-react.vercel.app/raids-armours/warrior/time-walk
+https://wow-react.vercel.app/raids-armours/warrior/tier-four
+https://wow-react.vercel.app/raids-armours/warrior/snake-sanctuary
+https://wow-react.vercel.app/raids-armours/warrior/black-temple
+https://wow-react.vercel.app/raids-armours/warrior/sunwell
+https://wow-react.vercel.app/raids-armours/warrior/ulduar
+https://wow-react.vercel.app/raids-armours/warrior/trial-of-the-crusader
+https://wow-react.vercel.app/raids-armours/warrior/ice-crown-citadel
+https://wow-react.vercel.app/raids-armours/warrior/tier-eleven
+https://wow-react.vercel.app/raids-armours/warrior/firelands
+https://wow-react.vercel.app/raids-armours/warrior/dragon-soul
+https://wow-react.vercel.app/raids-armours/warrior/tier-fourteens
+https://wow-react.vercel.app/raids-armours/warrior/throne-of-thunder
+https://wow-react.vercel.app/raids-armours/warrior/siege-of-orgrimmar
+https://wow-react.vercel.app/raids-armours/warrior/foundry-of-black-mountain-clan
+
+
+
 
 https://wow-react.vercel.app/weapons/one-handed
 https://wow-react.vercel.app/weapons/two-handed
