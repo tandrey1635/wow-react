@@ -647,5 +647,122 @@
 		"descriptionTrim": "Император будет повержен! Древняя магия могу не остановит вас! Вы сильнее проклятий, что сковывали эту землю тысячелетиями!",
 		"addition": "Mists of Pandaria",
 		"price": 1000
+	},
+
+	{
+		"id": "WhiteTigerBattlegearRaidFinder",
+		"type": "paladin",
+		"path": "tier-fourteens",
+		"img": "/src/assets/img/raids-armours/bg/paladin/White-Tiger-Battlegear-raid-finder.png",
+		"objectFit": false,
+		"title": "Боевые Латы Белого Тигра",
+		"description": "Второй комплект брони для паладина из рейдов 90-го уровня Сердце Страха и Терасса Вечной Весны режима поиска рейдов дополнения",
+		"descriptionTrim": "Императрица Богомолов и Воплощение Ужаса будут повержены! Вам не ведом страх!",
+		"addition": "Mists of Pandaria",
+		"price": 1000
+	},
+
+	{
+		"id": "WhiteTigerBattlegearNormal",
+		"type": "paladin",
+		"path": "tier-fourteens",
+		"img": "/src/assets/img/raids-armours/bg/paladin/White-Tiger-Battlegear-normal.png",
+		"objectFit": false,
+		"title": "Боевые Латы Белого Тигра",
+		"description": "Второй комплект брони для паладина из рейдов 90-го уровня Сердце Страха и Терасса Вечной Весны обычного уровня сложности дополнения",
+		"descriptionTrim": "Императрица Богомолов и Воплощение Ужаса будут повержены! Вам не ведом страх!",
+		"addition": "Mists of Pandaria",
+		"price": 1000
+	},
+
+	{
+		"id": "WhiteTigerBattlegearHeroic",
+		"type": "paladin",
+		"path": "tier-fourteens",
+		"img": "/src/assets/img/raids-armours/bg/paladin/White-Tiger-Battlegear-heroic.png",
+		"objectFit": false,
+		"title": "Боевые Латы Белого Тигра",
+		"description": "Второй комплект брони для паладина из рейдов 90-го уровня Сердце Страха и Терасса Вечной Весны героического уровня сложности дополнения",
+		"descriptionTrim": "Императрица Богомолов и Воплощение Ужаса будут повержены! Вам не ведом страх!",
+		"addition": "Mists of Pandaria",
+		"price": 1000
+	},
+
+	{
+		"id": "BattlegearOfTheLightningEmperorRaidFinder",
+		"type": "paladin",
+		"path": "throne-of-thunder",
+		"img": "/src/assets/img/raids-armours/bg/paladin/Battlegear-of-the-Lightning-Emperor-raid-finder.png",
+		"objectFit": false,
+		"title": "Броня Повелителя Молний",
+		"description": "Третий комплект брони для паладина из рейда 90-го уровня Престол Гроз режима поиска рейдов дополнения",
+		"descriptionTrim": "Властелин Грома будет повержен! Вы неуязвимы для молний! Подчините силу грома!",
+		"addition": "Mists of Pandaria",
+		"price": 1000
+	},
+
+	{
+		"id": "BattlegearOfTheLightningEmperorNormal",
+		"type": "paladin",
+		"path": "throne-of-thunder",
+		"img": "/src/assets/img/raids-armours/bg/paladin/Battlegear-of-the-Lightning-Emperor-normal.png",
+		"objectFit": false,
+		"title": "Броня Повелителя Молний",
+		"description": "Третий комплект брони для паладина из рейда 90-го уровня Престол Гроз обычного уровня сложности дополнения",
+		"descriptionTrim": "Властелин Грома будет повержен! Вы неуязвимы для молний! Подчините силу грома!",
+		"addition": "Mists of Pandaria",
+		"price": 1000
+	},
+
+	{
+		"id": "BattlegearOfTheLightningEmperorHeroic",
+		"type": "paladin",
+		"path": "throne-of-thunder",
+		"img": "/src/assets/img/raids-armours/bg/paladin/Battlegear-of-the-Lightning-Emperor-heroic.png",
+		"objectFit": false,
+		"title": "Броня Повелителя Молний",
+		"description": "Третий комплект брони для паладина из рейда 90-го уровня Престол Гроз героического уровня сложности дополнения",
+		"descriptionTrim": "Властелин Грома будет повержен! Вы неуязвимы для молний! Подчините силу грома!",
+		"addition": "Mists of Pandaria",
+		"price": 1000
+	},
+
+	{
+		"id": "BattlegearOfWingedTriumphRaidFinder",
+		"type": "paladin",
+		"path": "siege-of-orgrimmar",
+		"img": "/src/assets/img/raids-armours/bg/paladin/Battlegear-Of-Winged-Triumph-raid-finder.png",
+		"objectFit": false,
+		"title": "Броня Окрыленного Победой",
+		"description": "Четвертый комплект брони для паладина из рейда 90-го уровня Осада Оргриммара режима поиска рейдов дополнения",
+		"descriptionTrim": "Предводитель Настоящей Орды Орков будет повержен! Злость, Отчаяние, Сомнение, Ненависть, Жестокость, Страх и Гордыня над вами не властны! Вы не уязвимы для всех семи воплощений ша!",
+		"addition": "Mists of Pandaria",
+		"price": 1000
+	},
+
+	{
+		"id": "BattlegearOfWingedTriumphNormalHeroic",
+		"type": "paladin",
+		"path": "siege-of-orgrimmar",
+		"img": "/src/assets/img/raids-armours/bg/paladin/Battlegear-Of-Winged-Triumph-normal-heroic.png",
+		"objectFit": false,
+		"title": "Броня Окрыленного Победой",
+		"description": "Четвертый комплект брони для паладина из рейда 90-го уровня Осада Оргриммара обычного и героического уровней сложности дополнения",
+		"descriptionTrim": "Предводитель Настоящей Орды Орков будет повержен! Злость, Отчаяние, Сомнение, Ненависть, Жестокость, Страх и Гордыня над вами не властны! Вы не уязвимы для всех семи воплощений ша!",
+		"addition": "Mists of Pandaria",
+		"price": 1000
+	},
+
+	{
+		"id": "BattlegearOfWingedTriumphMythic",
+		"type": "paladin",
+		"path": "siege-of-orgrimmar",
+		"img": "/src/assets/img/raids-armours/bg/paladin/Battlegear-Of-Winged-Triumph-mythic.png",
+		"objectFit": false,
+		"title": "Броня Окрыленного Победой",
+		"description": "Четвертый комплект брони для паладина из рейда 90-го уровня Осада Оргриммара эпохального уровней сложности дополнения",
+		"descriptionTrim": "Предводитель Настоящей Орды Орков будет повержен! Злость, Отчаяние, Сомнение, Ненависть, Жестокость, Страх и Гордыня над вами не властны! Вы не уязвимы для всех семи воплощений ша!",
+		"addition": "Mists of Pandaria",
+		"price": 1000
 	}
 ]
