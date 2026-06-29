@@ -9,7 +9,7 @@
 		"description": "Броня выкованная в сердце вулкана на древней наковальне стихий из чешуи поверженных исполинов и кожи гончих преисподней из Огненных Недр дополнения",
 		"descriptionTrim": "Первая несокрушимая награда за покорение пекла. Повелитель Огня я иду за тобой! Потрясающая защита от магии огня!",
 		"addition": "Classic",
-		"price": 100
+		"price": 50
 	},
 
 	{
@@ -22,7 +22,7 @@
 		"description": "Первый комплект брони для воина из рейда 60-го уровня Огненные Недра дополнения",
 		"descriptionTrim": "Повелитель Огня будет повержен! Очищение огнем пройдено!",
 		"addition": "Classic",
-		"price": 100
+		"price": 50
 	},
 
 	{
@@ -35,7 +35,7 @@
 		"description": "Кажется, сюда затесалась какая-то подозрительно похожая, но не родная броня из другого времени дополнения",
 		"descriptionTrim": "Альтернативный вариант прославленных доспехов, появившийся в иных измерениях Азерота. Обладает той же несокрушимой силой, что и оригинал, но несет в себе отпечаток другой истории.",
 		"addition": "Classic",
-		"price": 100
+		"price": 50
 	},
 
 	{
@@ -48,7 +48,7 @@
 		"description": "Второй комплект брони для воина из рейда 60-го уровня Логово Крыла Тьмы дополнения",
 		"descriptionTrim": "Лорд Черной Горы будет повержен! Теперь у вас невероятная сила!",
 		"addition": "Classic",
-		"price": 100
+		"price": 50
 	},
 
 	{
@@ -61,7 +61,7 @@
 		"description": "Кажется, сюда затесалась какая-то подозрительно похожая, но не родная броня из другого времени дополнения",
 		"descriptionTrim": "Альтернативный вариант прославленных доспехов, появившийся в иных измерениях Азерота. Обладает той же несокрушимой силой, что и оригинал, но несет в себе отпечаток другой истории.",
 		"addition": "Classic",
-		"price": 100
+		"price": 50
 	},
 
 	{
@@ -74,7 +74,7 @@
 		"description": "Комплект брони для воина 2.5 из рейда 60-го уровня Храм Ан'Киража дополнения",
 		"descriptionTrim": "Владыка Ан'Киража будет повержен! Вы еще не мертвы!",
 		"addition": "Classic",
-		"price": 100
+		"price": 50
 	},
 
 	{
@@ -87,7 +87,7 @@
 		"description": "Третий комплект брони для воина из рейда 60-го уровня Наксрамас дополнения",
 		"descriptionTrim": "Верховный Лич будет повержен! Некромантия вам не страшна!",
 		"addition": "Classic",
-		"price": 100
+		"price": 50
 	},
 
 	{
@@ -100,7 +100,7 @@
 		"description": "Награда за цепочку заданий исследования Наксрамаса дополнения",
 		"descriptionTrim": "Ледяной Змей будет повержен! Потрясающая защита от магии льда!",
 		"addition": "Classic",
-		"price": 100
+		"price": 50
 	},
 
 	{
@@ -1391,10 +1391,10 @@
 	},
 
 	{
-		"id": "RaidFinder",
+		"id": "UldirRaidPlateRaidFinder",
 		"type": "warrior",
 		"path": "",
-		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/-raid-finder.png",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/Uldir-Raid-Plate-raid-finder.png",
 		"objectFit": false,
 		"title": "Латы Бессмертного Куратора",
 		"description": "Первый комплект брони для воина из рейда 120-го уровня Ульдир режима поиска рейдов дополнения",
@@ -1404,10 +1404,10 @@
 	},
 
 	{
-		"id": "Normal",
+		"id": "UldirRaidPlateNormal",
 		"type": "warrior",
 		"path": "",
-		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/-normal.png",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/Uldir-Raid-Plate-normal.png",
 		"objectFit": false,
 		"title": "Латы Бессмертного Куратора",
 		"description": "Первый комплект брони для воина из рейда 120-го уровня Ульдир обычного уровня сложности дополнения",
@@ -1417,10 +1417,10 @@
 	},
 
 	{
-		"id": "Heroic",
+		"id": "UldirRaidPlateHeroic",
 		"type": "warrior",
 		"path": "",
-		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/-heroic.png",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/Uldir-Raid-Plate-heroic.png",
 		"objectFit": false,
 		"title": "Латы Бессмертного Куратора",
 		"description": "Первый комплект брони для воина из рейда 120-го уровня Ульдир героического уровня сложности дополнения",
@@ -1430,14 +1430,170 @@
 	},
 
 	{
-		"id": "Heroic",
+		"id": "UldirRaidPlateMythic",
 		"type": "warrior",
 		"path": "",
-		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/-heroic.png",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/Uldir-Raid-Plate-mythic.png",
 		"objectFit": false,
 		"title": "Латы Бессмертного Куратора",
 		"description": "Первый комплект брони для воина из рейда 120-го уровня Ульдир эпохального уровня сложности дополнения",
 		"descriptionTrim": "Кровавый Бог будет повержен!",
+		"addition": "Battle for Azeroth",
+		"price": 2500
+	},
+
+	{
+		"id": "DazaralorRaidPlateRaidFinder",
+		"type": "warrior",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/Dazaralor-Raid-Plate-raid-finder.png",
+		"objectFit": false,
+		"title": "Жуткие Латы Повелителя Могил",
+		"description": "Второй комплект брони для воина из рейда 120-го уровня Битва за Дазар'Алор режима поиска рейдов дополнения",
+		"descriptionTrim": "будет повержен!",
+		"addition": "Battle for Azeroth",
+		"price": 2500
+	},
+
+	{
+		"id": "DazaralorRaidPlateNormal",
+		"type": "warrior",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/Dazaralor-Raid-Plate-normal.png",
+		"objectFit": false,
+		"title": "Жуткие Латы Повелителя Могил",
+		"description": "Второй комплект брони для воина из рейда 120-го уровня Битва за Дазар'Алор обычного уровня сложности дополнения",
+		"descriptionTrim": "будет повержен!",
+		"addition": "Battle for Azeroth",
+		"price": 2500
+	},
+
+	{
+		"id": "DazaralorRaidPlateHeroic",
+		"type": "warrior",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/Dazaralor-Raid-Plate-heroic.png",
+		"objectFit": false,
+		"title": "Жуткие Латы Повелителя Могил",
+		"description": "Второй комплект брони для воина из рейда 120-го уровня Битва за Дазар'Алор героического уровня сложности дополнения",
+		"descriptionTrim": "будет повержен!",
+		"addition": "Battle for Azeroth",
+		"price": 2500
+	},
+
+	{
+		"id": "DazaralorRaidPlateMythic",
+		"type": "warrior",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/Dazaralor-Raid-Plate-mythic.png",
+		"objectFit": false,
+		"title": "Жуткие Латы Повелителя Могил",
+		"description": "Второй комплект брони для воина из рейда 120-го уровня Битва за Дазар'Алор эпохального уровня сложности дополнения",
+		"descriptionTrim": "будет повержен!",
+		"addition": "Battle for Azeroth",
+		"price": 2500
+	},
+
+	{
+		"id": "EternalPalaceRaidPlateRaidFinder",
+		"type": "warrior",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/Eternal-Palace-Raid-Plate-raid-finder.png",
+		"objectFit": false,
+		"title": "Боевой Доспех Повелителя Наг",
+		"description": "Третий комплект брони для воина из рейда 120-го уровня Вечный Дворец режима поиска рейдов дополнения",
+		"descriptionTrim": "будет повержен!",
+		"addition": "Battle for Azeroth",
+		"price": 2500
+	},
+
+	{
+		"id": "EternalPalaceRaidPlateNormal",
+		"type": "warrior",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/Eternal-Palace-Raid-Plate-normal.png",
+		"objectFit": false,
+		"title": "Боевой Доспех Повелителя Наг",
+		"description": "Третий комплект брони для воина из рейда 120-го уровня Вечный Дворец обычного уровня сложности дополнения",
+		"descriptionTrim": "будет повержен!",
+		"addition": "Battle for Azeroth",
+		"price": 2500
+	},
+
+	{
+		"id": "EternalPalaceRaidPlateHeroic",
+		"type": "warrior",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/Eternal-Palace-Raid-Plate-heroic.png",
+		"objectFit": false,
+		"title": "Боевой Доспех Повелителя Наг",
+		"description": "Третий комплект брони для воина из рейда 120-го уровня Вечный Дворец героического уровня сложности дополнения",
+		"descriptionTrim": "будет повержен!",
+		"addition": "Battle for Azeroth",
+		"price": 2500
+	},
+
+	{
+		"id": "EternalPalaceRaidPlateMythic",
+		"type": "warrior",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/Eternal-Palace-Raid-Plate-mythic.png",
+		"objectFit": false,
+		"title": "Боевой Доспех Повелителя Наг",
+		"description": "Третий комплект брони для воина из рейда 120-го уровня Вечный Дворец эпохального уровня сложности дополнения",
+		"descriptionTrim": "будет повержен!",
+		"addition": "Battle for Azeroth",
+		"price": 2500
+	},
+
+	{
+		"id": "NyalothaRaidPlateRaidFinder",
+		"type": "warrior",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/Nyalotha-Raid-Plate-raid-finder.png",
+		"objectFit": false,
+		"title": "Латы Космической Аберрации",
+		"description": "Четвертый комплект брони для воина из рейда 120-го уровня Ни'алота Пробуждающийся Город режима поиска рейдов дополнения",
+		"descriptionTrim": "будет повержен!",
+		"addition": "Battle for Azeroth",
+		"price": 2500
+	},
+
+	{
+		"id": "NyalothaRaidPlateNormal",
+		"type": "warrior",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/Nyalotha-Raid-Plate-normal.png",
+		"objectFit": false,
+		"title": "Латы Космической Аберрации",
+		"description": "Четвертый комплект брони для воина из рейда 120-го уровня Ни'алота Пробуждающийся Город обычного уровня сложности дополнения",
+		"descriptionTrim": "будет повержен!",
+		"addition": "Battle for Azeroth",
+		"price": 2500
+	},
+
+	{
+		"id": "NyalothaRaidPlateHeroic",
+		"type": "warrior",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/Nyalotha-Raid-Plate-heroic.png",
+		"objectFit": false,
+		"title": "Латы Космической Аберрации",
+		"description": "Четвертый комплект брони для воина из рейда 120-го уровня Ни'алота Пробуждающийся Город героического уровня сложности дополнения",
+		"descriptionTrim": "будет повержен!",
+		"addition": "Battle for Azeroth",
+		"price": 2500
+	},
+
+	{
+		"id": "NyalothaRaidPlateMythic",
+		"type": "warrior",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/Nyalotha-Raid-Plate-mythic.png",
+		"objectFit": false,
+		"title": "Латы Космической Аберрации",
+		"description": "Четвертый комплект брони для воина из рейда 120-го уровня Ни'алота Пробуждающийся Город эпохального уровня сложности дополнения",
+		"descriptionTrim": "будет повержен!",
 		"addition": "Battle for Azeroth",
 		"price": 2500
 	}

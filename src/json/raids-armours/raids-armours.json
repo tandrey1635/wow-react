@@ -7,7 +7,7 @@
 		"objectFit": false,
 		"title": "Воин",
 		"description": "Комплекты рейдовой брони для Воина.",
-		"price": 100
+		"price": 50
 	},
 
 	{
@@ -18,7 +18,7 @@
 		"objectFit": false,
 		"title": "Друид",
 		"description": "Комплекты рейдовой брони для Друида.",
-		"price": 100
+		"price": 50
 	},
 
 	{
@@ -29,7 +29,7 @@
 		"objectFit": false,
 		"title": "Жрец",
 		"description": "Комплекты рейдовой брони для Жреца.",
-		"price": 100
+		"price": 50
 	},
 
 	{
@@ -40,7 +40,7 @@
 		"objectFit": false,
 		"title": "Маг",
 		"description": "Комплекты рейдовой брони для Мага.",
-		"price": 100
+		"price": 50
 	},
 
 	{
@@ -51,7 +51,7 @@
 		"objectFit": false,
 		"title": "Монах",
 		"description": "Комплекты рейдовой брони для Монаха.",
-		"price": 100
+		"price": 50
 	},
 
 	{
@@ -62,7 +62,7 @@
 		"objectFit": false,
 		"title": "Охотник",
 		"description": "Комплекты рейдовой брони для Охотника.",
-		"price": 100
+		"price": 50
 	},
 
 	{
@@ -73,7 +73,7 @@
 		"objectFit": false,
 		"title": "Охотник на Демонов",
 		"description": "Комплекты рейдовой брони для Охотника на Демонов.",
-		"price": 100
+		"price": 50
 	},
 
 	{
@@ -84,7 +84,7 @@
 		"objectFit": false,
 		"title": "Паладин",
 		"description": "Комплекты рейдовой брони для Паладина.",
-		"price": 100
+		"price": 50
 	},
 
 	{
@@ -95,7 +95,7 @@
 		"objectFit": false,
 		"title": "Пробудитель",
 		"description": "Комплекты рейдовой брони для Пробудителя.",
-		"price": 100
+		"price": 50
 	},
 
 	{
@@ -106,7 +106,7 @@
 		"objectFit": false,
 		"title": "Разбойник",
 		"description": "Комплекты рейдовой брони для Разбойника.",
-		"price": 100
+		"price": 50
 	},
 
 	{
@@ -117,7 +117,7 @@
 		"objectFit": false,
 		"title": "Рыцарь Смерти",
 		"description": "Комплекты рейдовой брони для Рыцаря Смерти.",
-		"price": 100
+		"price": 50
 	},
 
 	{
@@ -128,7 +128,7 @@
 		"objectFit": false,
 		"title": "Чернокнижник",
 		"description": "Комплекты рейдовой брони для Чернокнижника.",
-		"price": 100
+		"price": 50
 	},
 
 	{
@@ -139,6 +139,6 @@
 		"objectFit": false,
 		"title": "Шаман",
 		"description": "Комплекты рейдовой брони для Шамана.",
-		"price": 100
+		"price": 50
 	}
 ]
