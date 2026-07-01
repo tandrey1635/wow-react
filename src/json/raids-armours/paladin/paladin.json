@@ -764,5 +764,161 @@
 		"descriptionTrim": "Предводитель Настоящей Орды Орков будет повержен! Злость, Отчаяние, Сомнение, Ненависть, Жестокость, Страх и Гордыня над вами не властны! Вы не уязвимы для всех семи воплощений ша!",
 		"addition": "Mists of Pandaria",
 		"price": 250
+	},
+
+	{
+		"id": "ShadowmoonAnchoritesGuardplate",
+		"type": "paladin",
+		"path": "time-walk",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/paladin/Shadowmoon-Anchorites-Guardplate.png",
+		"objectFit": false,
+		"title": "Защитные Пластины Анахорета Призрачной Луны",
+		"description": "Комплект брони в награду за путешествия во времени по подземельям дополнения",
+		"descriptionTrim": "Броня, дарованная Хранителями Времени за череду подвигов в их походах по лабиринтам вечности. Ваша броня закалена в схватках с аномалиями прошлого и будущего, а каждый элемент несет несокрушимую мощь самого времени!",
+		"addition": "Warlords of Draenor",
+		"price": 300
+	},
+
+	{
+		"id": "BlackrockPlate",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/paladin/Blackrock-Plate.png",
+		"objectFit": false,
+		"title": "Броня Черной Горы",
+		"description": "Комплект брони для паладина в гарнизонном здании Военной фабрики/Дворфийском бункере Орды/Альянса 2-го или 3-го уровня дополнения",
+		"descriptionTrim": "Превосходная броня выкованная в самом сердце Литейной Клана Черной Горы! Секрет выплавки этой брони до сих пор не раскрыт!",
+		"addition": "Warlords of Draenor",
+		"price": 300
+	},
+
+	{
+		"id": "BlacksteelBattleplateRaidFinder",
+		"type": "paladin",
+		"path": "foundry-of-black-mountain-clan",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/paladin/Blacksteel-Battleplate-raid-finder.png",
+		"objectFit": false,
+		"title": "Боевой Доспех из Вороненой Стали",
+		"description": "Первый комплект брони для паладина из рейда 100-го уровня Литейная Клана Черной Горы режима поиска рейдов дополнения",
+		"descriptionTrim": "Вождь Клана Черной Горы будет повержен! Секрет выплавки руды Черной горы раскрыт! Вы не уязвимы для пламени Сердца Черной Горы!",
+		"addition": "Warlords of Draenor",
+		"price": 300
+	},
+
+	{
+		"id": "BlacksteelBattleplateRed",
+		"type": "paladin",
+		"path": "foundry-of-black-mountain-clan",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/paladin/Blacksteel-Battleplate-red.png",
+		"objectFit": false,
+		"title": "Боевой Доспех из Вороненой Стали Путешественника из Другого Мира",
+		"description": "Кажется, сюда затесалась какая-то подозрительно похожая, но не родная броня из другого времени дополнения",
+		"descriptionTrim": "Альтернативный вариант прославленных доспехов, появившийся в иных измерениях Азерота. Обладает той же несокрушимой силой, что и оригинал, но несет в себе отпечаток другой истории.",
+		"addition": "Warlords of Draenor",
+		"price": 300
+	},
+
+	{
+		"id": "BlacksteelBattleplateBrown",
+		"type": "paladin",
+		"path": "foundry-of-black-mountain-clan",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/paladin/Blacksteel-Battleplate-brown.png",
+		"objectFit": false,
+		"title": "Боевой Доспех из Вороненой Стали Путешественника из Другого Мира",
+		"description": "Кажется, сюда затесалась какая-то подозрительно похожая, но не родная броня из другого времени дополнения",
+		"descriptionTrim": "Альтернативный вариант прославленных доспехов, появившийся в иных измерениях Азерота. Обладает той же несокрушимой силой, что и оригинал, но несет в себе отпечаток другой истории.",
+		"addition": "Warlords of Draenor",
+		"price": 300
+	},
+
+	{
+		"id": "BattlegearOfGuidingLightNormal",
+		"type": "paladin",
+		"path": "foundry-of-black-mountain-clan",
+		"img": "/src/assets/img/raids-armours/bg/paladin/Battlegear-of-Guiding-Light-normal.png",
+		"objectFit": false,
+		"title": "Броня Путеводного Света",
+		"description": "Первый комплект брони для паладина из рейда 100-го уровня Литейная Клана Черной Горы обычного уровня сложности дополнения",
+		"descriptionTrim": "Вождь Клана Черной Горы будет повержен! Секрет выплавки руды Черной горы раскрыт! Вы не уязвимы для пламени Сердца Черной Горы!",
+		"addition": "Warlords of Draenor",
+		"price": 300
+	},
+
+	{
+		"id": "BattlegearOfGuidingLightHeroic",
+		"type": "paladin",
+		"path": "foundry-of-black-mountain-clan",
+		"img": "/src/assets/img/raids-armours/bg/paladin/Battlegear-of-Guiding-Light-heroic.png",
+		"objectFit": false,
+		"title": "Броня Путеводного Света",
+		"description": "Первый комплект брони для паладина из рейда 100-го уровня Литейная Клана Черной Горы героического уровня сложности дополнения",
+		"descriptionTrim": "Вождь Клана Черной Горы будет повержен! Секрет выплавки руды Черной горы раскрыт! Вы не уязвимы для пламени Сердца Черной Горы!",
+		"addition": "Warlords of Draenor",
+		"price": 300
+	},
+
+	{
+		"id": "BattlegearOfGuidingLightMythic",
+		"type": "paladin",
+		"path": "foundry-of-black-mountain-clan",
+		"img": "/src/assets/img/raids-armours/bg/paladin/Battlegear-of-Guiding-Light-mythic.png",
+		"objectFit": false,
+		"title": "Броня Путеводного Света",
+		"description": "Первый комплект брони для паладина из рейда 100-го уровня Литейная Клана Черной Горы эпохального уровня сложности дополнения",
+		"descriptionTrim": "Вождь Клана Черной Горы будет повержен! Секрет выплавки руды Черной горы раскрыт! Вы не уязвимы для пламени Сердца Черной Горы!",
+		"addition": "Warlords of Draenor",
+		"price": 300
+	},
+
+	{
+		"id": "DemonbreakerWargearRaidFinder",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/paladin/Demonbreaker-Wargear-raid-finder.png",
+		"objectFit": false,
+		"title": "Боевой Доспех Бесолома",
+		"description": "Второй комплект брони для паладина из рейда 100-го уровня Цитадель Адского Пламени режима поиска рейдов дополнения",
+		"descriptionTrim": "Владыка Легиона будет повержен! Азерот не сгорит в огне легиона! Вы неуязвимы для пламени Скверны!",
+		"addition": "Warlords of Draenor",
+		"price": 300
+	},
+
+	{
+		"id": "WatchOfTheCeaselessVigilNormal",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/paladin/Watch-of-the-Ceaseless-Vigil-normal.png",
+		"objectFit": false,
+		"title": "Дозор Непристанного Бдения",
+		"description": "Второй комплект брони для паладина из рейда 100-го уровня Цитадель Адского Пламени обычного уровня сложности дополнения",
+		"descriptionTrim": "Владыка Легиона будет повержен! Азерот не сгорит в огне легиона! Вы неуязвимы для пламени Скверны!",
+		"addition": "Warlords of Draenor",
+		"price": 300
+	},
+
+	{
+		"id": "WatchOfTheCeaselessVigilHeroic",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/paladin/Watch-of-the-Ceaseless-Vigil-heroic.png",
+		"objectFit": false,
+		"title": "Дозор Непристанного Бдения",
+		"description": "Второй комплект брони для паладина из рейда 100-го уровня Цитадель Адского Пламени героического уровня сложности дополнения",
+		"descriptionTrim": "Владыка Легиона будет повержен! Азерот не сгорит в огне легиона! Вы неуязвимы для пламени Скверны!",
+		"addition": "Warlords of Draenor",
+		"price": 300
+	},
+
+	{
+		"id": "WatchOfTheCeaselessVigilMythic",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/paladin/Watch-of-the-Ceaseless-Vigil-mythic.png",
+		"objectFit": false,
+		"title": "Дозор Непристанного Бдения",
+		"description": "Второй комплект брони для паладина из рейда 100-го уровня Цитадель Адского Пламени эпохального уровня сложности дополнения",
+		"descriptionTrim": "Владыка Легиона будет повержен! Азерот не сгорит в огне легиона! Вы неуязвимы для пламени Скверны!",
+		"addition": "Warlords of Draenor",
+		"price": 300
 	}
 ]
