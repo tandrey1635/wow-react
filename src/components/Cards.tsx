@@ -377,7 +377,7 @@ const Cards = ({home, twoHandedWeapons, twoHandedAxes, twoHandedAxesWeaponDetail
 						{/* Горное дело */}
 						{ mining &&
 							<Tabs defaultActiveKey="professions" id="cards-tabs" fill>
-								<Tab eventKey="professions" title="Маунты">
+								<Tab eventKey="professions" title="Профессии">
 									<h3 className="text-success text-center fw-bold display-4">Всего Шахтерских Инструментов: {counterCardItems(dataMining)}</h3>
 									<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
 										{ renderCardItems(dataMining) }

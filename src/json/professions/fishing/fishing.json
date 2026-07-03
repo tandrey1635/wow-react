@@ -198,6 +198,39 @@
 	},
 
 	{
+		"id": "HollowHuntersSticker",
+		"type": "fishing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/fishing/Hollow-Hunters-Sticker.png",
+		"objectFit": true,
+		"title": "Гарпун Охотника из Пещеры",
+		"description": "Для тех, кто знает толк в рыбалке. Тихие вечера у воды, плеск волн и надежда на большой улов. Также можно использовать как копье.",
+		"price": 300
+	},
+
+	{
+		"id": "GromgarHuntingSpear",
+		"type": "fishing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/fishing/Gromgar-Hunting-Spear.png",
+		"objectFit": true,
+		"title": "Гром'гарское Охотничье Копье",
+		"description": "Для тех, кто знает толк в рыбалке. Тихие вечера у воды, плеск волн и надежда на большой улов. Также можно использовать как копье.",
+		"price": 300
+	},
+
+	{
+		"id": "AmaniWarSpear",
+		"type": "fishing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/fishing/Amani-War-Spear.png",
+		"objectFit": true,
+		"title": "Аманийское Боевое Копье",
+		"description": "Для тех, кто знает толк в рыбалке. Тихие вечера у воды, плеск волн и надежда на большой улов. Также можно использовать как копье.",
+		"price": 300
+	},
+
+	{
 		"id": "SharpenedTuskarrSpear",
 		"type": "fishing",
 		"path": "",
@@ -208,13 +241,101 @@
 		"price": 300
 	},
 
-		{
+	{
+		"id": "NotoriousAspirantsPikeHorde",
+		"type": "fishing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/fishing/Notorious-Aspirants-Pike-horde.png",
+		"objectFit": true,
+		"title": "Алебарда Отъявленного Претендента",
+		"description": "Для тех, кто знает толк в рыбалке. Тихие вечера у воды, плеск волн и надежда на большой улов. Также можно использовать как копье.",
+		"price": 300
+	},
+
+	{
+		"id": "NotoriousAspirantsPikeAlliance",
+		"type": "fishing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/fishing/Notorious-Aspirants-Pike-alliance.png",
+		"objectFit": true,
+		"title": "Алебарда Отъявленного Претендента",
+		"description": "Для тех, кто знает толк в рыбалке. Тихие вечера у воды, плеск волн и надежда на большой улов. Также можно использовать как копье.",
+		"price": 300
+	},
+
+	{
+		"id": "MobussVileHalberd",
+		"type": "fishing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/fishing/Mobuss-Vile-Halberd.png",
+		"objectFit": true,
+		"title": "Алебарда Зла Мобуса",
+		"description": "Для тех, кто знает толк в рыбалке. Тихие вечера у воды, плеск волн и надежда на большой улов. Также можно использовать как копье.",
+		"price": 300
+	},
+
+	{
+		"id": "BeaklessPolearm",
+		"type": "fishing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/fishing/Beakless-Polearm.png",
+		"objectFit": true,
+		"title": "Древко без Наконечника",
+		"description": "Для тех, кто знает толк в рыбалке. Тихие вечера у воды, плеск волн и надежда на большой улов. Также можно использовать как копье.",
+		"price": 300
+	},
+
+	{
+		"id": "HornstriderHuntersSerrator",
+		"type": "fishing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/fishing/Hornstrider-Hunters-Serrator.png",
+		"objectFit": true,
+		"title": "Древковое Оружие Охотника на Длиннорогов",
+		"description": "Для тех, кто знает толк в рыбалке. Тихие вечера у воды, плеск волн и надежда на большой улов. Также можно использовать как копье.",
+		"price": 300
+	},
+
+	{
+		"id": "DreadsquallHuntersSerrator",
+		"type": "fishing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/fishing/Dreadsquall-Hunters-Serrator.png",
+		"objectFit": true,
+		"title": "Зубчатый Клинок Охотника на Грозных Воронов",
+		"description": "Для тех, кто знает толк в рыбалке. Тихие вечера у воды, плеск волн и надежда на большой улов. Также можно использовать как копье.",
+		"price": 300
+	},
+
+	{
 		"id": "TuskarrAnglersCrossbow",
 		"type": "fishing",
 		"path": "",
 		"img": "/src/assets/img/professions/bg/fishing/Tuskarr-Anglers-Crossbow.png",
 		"objectFit": false,
 		"title": "Арбалет Клыкаррского Рыболова",
+		"description": "Для тех, кто знает толк в рыбалке. Тихие вечера у воды, плеск волн и надежда на большой улов. Также можно использовать как арбалет.",
+		"price": 300
+	},
+
+	{
+		"id": "HornstriderHuntersHarpooner",
+		"type": "fishing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/fishing/Hornstrider-Hunters-Harpooner.png",
+		"objectFit": true,
+		"title": "Гарпунщик Охотника на Длиннорогов",
+		"description": "Для тех, кто знает толк в рыбалке. Тихие вечера у воды, плеск волн и надежда на большой улов. Также можно использовать как арбалет.",
+		"price": 300
+	},
+
+	{
+		"id": "DreadsquallHuntersHarpooner",
+		"type": "fishing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/fishing/Dreadsquall-Hunters-Harpooner.png",
+		"objectFit": true,
+		"title": "Гарпунщик Охотника на Грозных Воронов",
 		"description": "Для тех, кто знает толк в рыбалке. Тихие вечера у воды, плеск волн и надежда на большой улов. Также можно использовать как арбалет.",
 		"price": 300
 	},

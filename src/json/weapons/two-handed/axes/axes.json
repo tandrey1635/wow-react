@@ -33,12 +33,12 @@
 	},
 
 	{
-		"id": "PandarenGuardsPoleaxe",
+		"id": "WallwatchersLongaxe",
 		"type": "weapons",
 		"path": "axes-details",
-		"img": "/src/assets/img/weapons/bg/two-handed/axes/Pandaren-Guards-Poleaxe.png",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Wallwatchers-Longaxe.png",
 		"objectFit": true,
-		"title": "Полэкс Пандаренского Стражника",
+		"title": "Секира Стражника Стены",
 		"description": "Топор 4",
 		"price": 300
 	},

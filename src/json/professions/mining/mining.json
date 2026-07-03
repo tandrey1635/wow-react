@@ -154,6 +154,17 @@
 	},
 
 	{
+		"id": "ProtomineralExtractor",
+		"type": "mining",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/mining/Protomineral-Extractor.png",
+		"objectFit": false,
+		"title": "Экстрактор Протоминералов",
+		"description": "Для тех, кто знает, как работать с камнем. Звон кирки, искры, руда. И гордость от добытого своими руками, от грубой породы до ценного слитка.",
+		"price": 300
+	},
+
+	{
 		"id": "ExpeditionExcavator",
 		"type": "mining",
 		"path": "",
@@ -205,6 +216,17 @@
 		"objectFit": false,
 		"title": "Кирка Алгарийского Бойца",
 		"description": "Для тех, кто знает, как работать с камнем. Звон кирки, искры, руда. И гордость от добытого своими руками, от грубой породы до ценного слитка.",
+		"price": 300
+	},
+
+	{
+		"id": "EndoskeletalPolecrank",
+		"type": "mining",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/mining/Endoskeletal-Polecrank.png",
+		"objectFit": false,
+		"title": "Двуручный Рычаг Несущей Рамы",
+		"description": "Для тех, кто знает, как работать с камнем. Звон кирки, искры, руда. И гордость от добытого своими руками, от грубой породы до ценного слитка. Используется как шахтерская кирка или кузнечный молот.",
 		"price": 300
 	},
 
