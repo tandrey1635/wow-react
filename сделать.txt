@@ -233,10 +233,5 @@ https://www.noob-club.ru/index.php?topic=71256.0 - т20 реколор
 
 
 
-Protomineral-Extractor, Endoskeletal-Polecrank - сжать фото C:\Users\Андрей\Desktop\wow сделать\wow react\public\src\assets\img\professions\bg\mining
 
-
-Endoskeletal-Polecrank - сжать фото C:\Users\Андрей\Desktop\wow сделать\wow react\public\src\assets\img\professions\bg\blacksmithing
-
-
-Boots-of-the-Bay, Nat-Pagles-Extreme-Anglin-Boots, Sharpened-Tuskarr-Spear, Dreadsquall-Hunters-Harpooner, Hornstrider-Hunters-Harpooner, Gromgar-Hunting-Spear, Hollow-Hunters-Sticker, Amani-War-Spear, Dreadsquall-Hunters-Serrator, Hornstrider-Hunters-Serrator, Beakless-Polearm, Mobuss-Vile-Halberd, Notorious-Aspirants-Pike-horde, Notorious-Aspirants-Pike-alliance - сжать фото C:\Users\Андрей\Desktop\wow сделать\wow react\public\src\assets\img\professions\bg\fishing
+Notorious-Aspirants-Pike-horde

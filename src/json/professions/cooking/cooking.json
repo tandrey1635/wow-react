@@ -55,6 +55,94 @@
 	},
 
 	{
+		"id": "BigBlueSpoon",
+		"type": "cooking",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/cooking/Big-Blue-Spoon.png",
+		"objectFit": true,
+		"title": "Большая Синяя Ложка",
+		"description": "Для тех, кто знает толк в готовке. Теплые вечера у плиты, масло на сковороде и радость от сытых друзей. Каждое блюдо, маленькая победа.",
+		"price": 300
+	},
+
+	{
+		"id": "BigSteelSpoon",
+		"type": "cooking",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/cooking/Big-Steel-Spoon.png",
+		"objectFit": true,
+		"title": "Большая Стальная Ложка",
+		"description": "Для тех, кто знает толк в готовке. Теплые вечера у плиты, масло на сковороде и радость от сытых друзей. Каждое блюдо, маленькая победа.",
+		"price": 300
+	},
+
+	{
+		"id": "BigFancySpoon",
+		"type": "cooking",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/cooking/Big-Fancy-Spoon.png",
+		"objectFit": true,
+		"title": "Большая Красивая Ложка",
+		"description": "Для тех, кто знает толк в готовке. Теплые вечера у плиты, масло на сковороде и радость от сытых друзей. Каждое блюдо, маленькая победа.",
+		"price": 300
+	},
+
+	{
+		"id": "BigGoldSpoon",
+		"type": "cooking",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/cooking/Big-Gold-Spoon.png",
+		"objectFit": true,
+		"title": "Большая Золотая Ложка",
+		"description": "Для тех, кто знает толк в готовке. Теплые вечера у плиты, масло на сковороде и радость от сытых друзей. Каждое блюдо, маленькая победа.",
+		"price": 300
+	},
+
+	{
+		"id": "BigIronFork",
+		"type": "cooking",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/cooking/Big-Iron-Fork.png",
+		"objectFit": true,
+		"title": "Большая Железная Вилка",
+		"description": "Для тех, кто знает толк в готовке. Теплые вечера у плиты, масло на сковороде и радость от сытых друзей. Каждое блюдо, маленькая победа.",
+		"price": 300
+	},
+
+	{
+		"id": "BigBronzeFork",
+		"type": "cooking",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/cooking/Big-Bronze-Fork.png",
+		"objectFit": true,
+		"title": "Большая Бронзовая Вилка",
+		"description": "Для тех, кто знает толк в готовке. Теплые вечера у плиты, масло на сковороде и радость от сытых друзей. Каждое блюдо, маленькая победа.",
+		"price": 300
+	},
+
+	{
+		"id": "BigSilverFork",
+		"type": "cooking",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/cooking/Big-Silver-Fork.png",
+		"objectFit": true,
+		"title": "Большая Серебряная Вилка",
+		"description": "Для тех, кто знает толк в готовке. Теплые вечера у плиты, масло на сковороде и радость от сытых друзей. Каждое блюдо, маленькая победа.",
+		"price": 300
+	},
+
+	{
+		"id": "BigGoldFork",
+		"type": "cooking",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/cooking/Big-Gold-Fork.png",
+		"objectFit": true,
+		"title": "Большая Золотая Вилка",
+		"description": "Для тех, кто знает толк в готовке. Теплые вечера у плиты, масло на сковороде и радость от сытых друзей. Каждое блюдо, маленькая победа.",
+		"price": 300
+	},
+
+	{
 		"id": "ChefsHat",
 		"type": "cooking",
 		"path": "",
