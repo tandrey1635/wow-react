@@ -198,6 +198,17 @@
 	},
 
 	{
+		"id": "TigulesHarpoon",
+		"type": "fishing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/fishing/Tigules-Harpoon.png",
+		"objectFit": true,
+		"title": "Гарпун Тигуля",
+		"description": "Для тех, кто знает толк в рыбалке. Тихие вечера у воды, плеск волн и надежда на большой улов. Также можно использовать как копье.",
+		"price": 300
+	},
+
+	{
 		"id": "HollowHuntersSticker",
 		"type": "fishing",
 		"path": "",
@@ -215,6 +226,17 @@
 		"img": "/src/assets/img/professions/bg/fishing/Gromgar-Hunting-Spear.png",
 		"objectFit": true,
 		"title": "Гром'гарское Охотничье Копье",
+		"description": "Для тех, кто знает толк в рыбалке. Тихие вечера у воды, плеск волн и надежда на большой улов. Также можно использовать как копье.",
+		"price": 300
+	},
+
+	{
+		"id": "AmaniFangcallersSpear",
+		"type": "fishing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/fishing/Amani-Fangcallers-Spear.png",
+		"objectFit": true,
+		"title": "Копье Аманийского Заклинателя Клыков",
 		"description": "Для тех, кто знает толк в рыбалке. Тихие вечера у воды, плеск волн и надежда на большой улов. Также можно использовать как копье.",
 		"price": 300
 	},
@@ -242,6 +264,127 @@
 	},
 
 	{
+		"id": "OceanTrident",
+		"type": "fishing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/fishing/Ocean-Trident.png",
+		"objectFit": true,
+		"title": "Океанский Трезубец",
+		"description": "Для тех, кто знает толк в рыбалке. Тихие вечера у воды, плеск волн и надежда на большой улов. Также можно использовать как копье.",
+		"price": 300
+	},
+
+	{
+		"id": "Blight",
+		"type": "fishing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/fishing/Blight.png",
+		"objectFit": true,
+		"title": "Гниль",
+		"description": "Для тех, кто знает толк в рыбалке. Тихие вечера у воды, плеск волн и надежда на большой улов. Также можно использовать как копье.",
+		"price": 300
+	},
+
+	{
+		"id": "ShendralarTrident",
+		"type": "fishing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/fishing/Shendralar-Trident.png",
+		"objectFit": true,
+		"title": "Шен'драларский Трезубец",
+		"description": "Для тех, кто знает толк в рыбалке. Тихие вечера у воды, плеск волн и надежда на большой улов. Также можно использовать как копье.",
+		"price": 300
+	},
+
+	{
+		"id": "NetherTrident",
+		"type": "fishing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/fishing/Nether-Trident.png",
+		"objectFit": true,
+		"title": "Трезубец Пустоты",
+		"description": "Для тех, кто знает толк в рыбалке. Тихие вечера у воды, плеск волн и надежда на большой улов. Также можно использовать как копье.",
+		"price": 300
+	},
+
+	{
+		"id": "KolkarPolearm",
+		"type": "fishing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/fishing/Kolkar-Polearm.png",
+		"objectFit": true,
+		"title": "Алебарда Племени Колкар",
+		"description": "Для тех, кто знает толк в рыбалке. Тихие вечера у воды, плеск волн и надежда на большой улов. Также можно использовать как копье.",
+		"price": 300
+	},
+
+	{
+		"id": "FlameWrath",
+		"type": "fishing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/fishing/Flame-Wrath.png",
+		"objectFit": true,
+		"title": "Пламенный Гнев",
+		"description": "Для тех, кто знает толк в рыбалке. Тихие вечера у воды, плеск волн и надежда на большой улов. Также можно использовать как копье.",
+		"price": 300
+	},
+
+	{
+		"id": "ShredderArmExtension",
+		"type": "fishing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/fishing/Shredder-Arm-Extension.png",
+		"objectFit": true,
+		"title": "Удлинитель Руки Крошшера",
+		"description": "Для тех, кто знает толк в рыбалке. Тихие вечера у воды, плеск волн и надежда на большой улов. Для добычи сокровищ из труднодоступных мест. Также можно использовать как копье.",
+		"price": 300
+	},
+
+	{
+		"id": "Thunderstrike",
+		"type": "fishing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/fishing/Thunderstrike.png",
+		"objectFit": true,
+		"title": "Громовой Удар",
+		"description": "Для тех, кто знает толк в рыбалке. Тихие вечера у воды, плеск волн и надежда на большой улов. Также можно использовать как копье.",
+		"price": 300
+	},
+
+	{
+		"id": "TailspikePike",
+		"type": "fishing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/fishing/Tailspike-Pike.png",
+		"objectFit": true,
+		"title": "Пика из Шипастого Хвоста",
+		"description": "Для тех, кто знает толк в рыбалке. Тихие вечера у воды, плеск волн и надежда на большой улов. Также можно использовать как копье.",
+		"price": 300
+	},
+
+	{
+		"id": "Shadowstrike",
+		"type": "fishing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/fishing/Shadowstrike.png",
+		"objectFit": true,
+		"title": "Удар Тьмы",
+		"description": "Для тех, кто знает толк в рыбалке. Тихие вечера у воды, плеск волн и надежда на большой улов. Также можно использовать как копье.",
+		"price": 300
+	},
+
+	{
+		"id": "ReinforcedShadowstrike",
+		"type": "fishing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/fishing/Reinforced-Shadowstrike.png",
+		"objectFit": true,
+		"title": "Усиленный Удар Тьмы",
+		"description": "Для тех, кто знает толк в рыбалке. Тихие вечера у воды, плеск волн и надежда на большой улов. Также можно использовать как копье.",
+		"price": 300
+	},
+
+	{
 		"id": "NotoriousAspirantsPikeHorde",
 		"type": "fishing",
 		"path": "",
@@ -253,12 +396,34 @@
 	},
 
 	{
+		"id": "TridentOfTheRiptide",
+		"type": "fishing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/fishing/Trident-of-the-Riptide.png",
+		"objectFit": true,
+		"title": "Трезубец Прилива",
+		"description": "Для тех, кто знает толк в рыбалке. Тихие вечера у воды, плеск волн и надежда на большой улов. Оружие для настоящего повелителя морей. Также можно использовать как копье.",
+		"price": 300
+	},
+
+	{
 		"id": "NotoriousAspirantsPikeAlliance",
 		"type": "fishing",
 		"path": "",
 		"img": "/src/assets/img/professions/bg/fishing/Notorious-Aspirants-Pike-alliance.png",
 		"objectFit": true,
 		"title": "Алебарда Отъявленного Претендента",
+		"description": "Для тех, кто знает толк в рыбалке. Тихие вечера у воды, плеск волн и надежда на большой улов. Также можно использовать как копье.",
+		"price": 300
+	},
+
+	{
+		"id": "SirenSlayersTrident",
+		"type": "fishing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/fishing/Siren-Slayers-Trident.png",
+		"objectFit": true,
+		"title": "Трезубец Истребителя Сирен",
 		"description": "Для тех, кто знает толк в рыбалке. Тихие вечера у воды, плеск волн и надежда на большой улов. Также можно использовать как копье.",
 		"price": 300
 	},
@@ -275,12 +440,78 @@
 	},
 
 	{
+		"id": "BladefistSpear",
+		"type": "fishing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/fishing/Bladefist-Spear.png",
+		"objectFit": true,
+		"title": "Копье Острорука",
+		"description": "Для тех, кто знает толк в рыбалке. Тихие вечера у воды, плеск волн и надежда на большой улов. Также можно использовать как копье.",
+		"price": 300
+	},
+
+	{
 		"id": "BeaklessPolearm",
 		"type": "fishing",
 		"path": "",
 		"img": "/src/assets/img/professions/bg/fishing/Beakless-Polearm.png",
 		"objectFit": true,
 		"title": "Древко без Наконечника",
+		"description": "Для тех, кто знает толк в рыбалке. Тихие вечера у воды, плеск волн и надежда на большой улов. Также можно использовать как копье.",
+		"price": 300
+	},
+
+	{
+		"id": "OrganPiercersBriarspear",
+		"type": "fishing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/fishing/Organ-Piercers-Briarspear.png",
+		"objectFit": true,
+		"title": "Колючее Копье Пронзателя Органов",
+		"description": "Для тех, кто знает толк в рыбалке. Тихие вечера у воды, плеск волн и надежда на большой улов. Также можно использовать как копье.",
+		"price": 300
+	},
+
+	{
+		"id": "TraitorsTalon",
+		"type": "fishing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/fishing/Traitors-Talon.png",
+		"objectFit": true,
+		"title": "Коготь Предателя",
+		"description": "Для тех, кто знает толк в рыбалке. Тихие вечера у воды, плеск волн и надежда на большой улов. Также можно использовать как копье.",
+		"price": 300
+	},
+
+	{
+		"id": "HaratiScoutsSpear",
+		"type": "fishing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/fishing/Harati-Scouts-Spear.png",
+		"objectFit": true,
+		"title": "Копье Разведчика Хара'ти",
+		"description": "Для тех, кто знает толк в рыбалке. Тихие вечера у воды, плеск волн и надежда на большой улов. Также можно использовать как копье.",
+		"price": 300
+	},
+
+	{
+		"id": "SplinterthornSpear",
+		"type": "fishing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/fishing/Splinterthorn-Spear.png",
+		"objectFit": true,
+		"title": "Копье из Расколотого Шипа",
+		"description": "Для тех, кто знает толк в рыбалке. Тихие вечера у воды, плеск волн и надежда на большой улов. Также можно использовать как копье.",
+		"price": 300
+	},
+
+	{
+		"id": "GalacticAspirantsHalberd",
+		"type": "fishing",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/fishing/Galactic-Aspirants-Halberd.png",
+		"objectFit": true,
+		"title": "Алебарда Галактического Претендента",
 		"description": "Для тех, кто знает толк в рыбалке. Тихие вечера у воды, плеск волн и надежда на большой улов. Также можно использовать как копье.",
 		"price": 300
 	},

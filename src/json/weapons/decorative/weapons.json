@@ -33,6 +33,61 @@
 	},
 
 	{
+		"id": "NerubianCutthroatsReach",
+		"type": "decorative",
+		"path": "",
+		"img": "/src/assets/img/weapons/bg/decorative/Nerubian-Cutthroats-Reach.png",
+		"objectFit": true,
+		"title": "Лопата Нерубского Головореза",
+		"description": "Воплощение веселья и отдыха. Кружки, факелы, лопаты и грабли все, что нужно герою после тяжелого рейда. И копье. На всякий случай.",
+		"price": 1000
+	},
+
+	{
+		"id": "DisturbanceDetectionDevice",
+		"type": "decorative",
+		"path": "",
+		"img": "/src/assets/img/weapons/bg/decorative/Disturbance-Detection-Device.png",
+		"objectFit": true,
+		"title": "Устройство для Обнаружения Помех",
+		"description": "Воплощение веселья и отдыха. Кружки, факелы, лопаты и грабли все, что нужно герою после тяжелого рейда. И копье. На всякий случай.",
+		"price": 1000
+	},
+
+	{
+		"id": "ExpeditionarySpear",
+		"type": "decorative",
+		"path": "",
+		"img": "/src/assets/img/weapons/bg/decorative/Expeditionary-Spear.png",
+		"objectFit": true,
+		"title": "Экспедиционная Лопата",
+		"description": "Воплощение веселья и отдыха. Кружки, факелы, лопаты и грабли все, что нужно герою после тяжелого рейда. И копье. На всякий случай.",
+		"price": 1000
+	},
+
+	{
+		"id": "KahetiConfiscatedSpade",
+		"type": "decorative",
+		"path": "",
+		"img": "/src/assets/img/weapons/bg/decorative/Kaheti-Confiscated-Spade.png",
+		"objectFit": true,
+		"title": "Конфискованная Кахетская Лопата",
+		"description": "Воплощение веселья и отдыха. Кружки, факелы, лопаты и грабли все, что нужно герою после тяжелого рейда. И копье. На всякий случай.",
+		"price": 1000
+	},
+
+	{
+		"id": "TimelyTouristsSpade",
+		"type": "decorative",
+		"path": "",
+		"img": "/src/assets/img/weapons/bg/decorative/Timely-Tourists-Spade.png",
+		"objectFit": true,
+		"title": "Лопата Туриста во Времени",
+		"description": "Воплощение веселья и отдыха. Кружки, факелы, лопаты и грабли все, что нужно герою после тяжелого рейда. И копье. На всякий случай.",
+		"price": 1000
+	},
+
+	{
 		"id": "ElaborateReliquaryCandelabra",
 		"type": "decorative",
 		"path": "",
@@ -72,6 +127,17 @@
 		"img": "/src/assets/img/weapons/bg/decorative/Practice-Sword.png",
 		"objectFit": true,
 		"title": "Учебный Меч",
+		"description": "Воплощение веселья и отдыха. Кружки, факелы, лопаты и грабли все, что нужно герою после тяжелого рейда. И копье. На всякий случай.",
+		"price": 1000
+	},
+
+	{
+		"id": "RecruitsSturdyPolearm",
+		"type": "decorative",
+		"path": "",
+		"img": "/src/assets/img/weapons/bg/decorative/Recruits-Sturdy-Polearm.png",
+		"objectFit": true,
+		"title": "Прочный Протазан Новобранца",
 		"description": "Воплощение веселья и отдыха. Кружки, факелы, лопаты и грабли все, что нужно герою после тяжелого рейда. И копье. На всякий случай.",
 		"price": 1000
 	},

@@ -231,6 +231,17 @@
 	},
 
 	{
+		"id": "EarthenScallywagsSpear",
+		"type": "mining",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/mining/Earthen-Scallywags-Spear.png",
+		"objectFit": false,
+		"title": "Кирка Молот Земельника Прохиндея",
+		"description": "Для тех, кто знает, как работать с камнем. Звон кирки, искры, руда. И гордость от добытого своими руками, от грубой породы до ценного слитка. Используется как шахтерская кирка или кузнечный молот.",
+		"price": 300
+	},
+
+	{
 		"id": "ThalassianPickaxe",
 		"type": "mining",
 		"path": "",
