@@ -1011,5 +1011,96 @@
 		"descriptionTrim": "Каждая деталь выкована в благодарность за самоотверженные подвиги и верность избранному пути. Доблесть и труды героя нашли свое воплощение в этом доспехе!",
 		"addition": "Legion",
 		"price": 350
+	},
+
+	{
+		"id": "LeylineDefendersSunplateArmor",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/paladin/Leyline-Defenders-Sunplate-Armor.png",
+		"objectFit": false,
+		"title": "Солнечные Пластины Защитника Силовых Линий",
+		"description": "Комплект брони, дарованный за выполнение череды опасных заданий дополнения",
+		"descriptionTrim": "Каждая деталь выкована в благодарность за самоотверженные подвиги и верность избранному пути. Доблесть и труды героя нашли свое воплощение в этом доспехе!",
+		"addition": "Legion",
+		"price": 350
+	},
+
+	{
+		"id": "SuramarSilverPlating",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/paladin/Suramar-Silver-Plating.png",
+		"objectFit": false,
+		"title": "Сурамарские Серебряные Латы",
+		"description": "Комплект брони из подземелий дополнения",
+		"descriptionTrim": "Броня, закаленная в героических походах по самым опасным подземельям Легиона, от проклятых берегов Хельхейма в Утробе душ до демонических залов Собора Вечной Ночи. Вы прошли сквозь царство мертвых и обитель скверны. Каждый бой оставил на ней след, но она выдержала все. Достойная награда за пройденные испытания.",
+		"addition": "Legion",
+		"price": 350
+	},
+
+	{
+		"id": "JandvikDiversMetal",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/paladin/Jandvik-Divers-Metal.png",
+		"objectFit": false,
+		"title": "Пластины Яндвикского Ныряльщика",
+		"description": "Комплект брони, дарованный за выполнение череды опасных заданий дополнения",
+		"descriptionTrim": "Каждая деталь выкована в благодарность за самоотверженные подвиги и верность избранному пути. Доблесть и труды героя нашли свое воплощение в этом доспехе!",
+		"addition": "Legion",
+		"price": 350
+	},
+
+	{
+		"id": "FuneraryPlateOfTheChosenDeadRaidFinder",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/paladin/Funerary-Plate-of-the-Chosen-Dead-raid-finder.png",
+		"objectFit": false,
+		"title": "Траурные Латы Избранных Мертвецов",
+		"description": "Второй комплект брони для паладина из рейда 110-го уровня Испытание Доблести режима поиска рейдов дополнения",
+		"descriptionTrim": "Королева подземного мира проклятых и падших врайкулов будет повержена! Хельхейм не поглотит ваши души! Вы неуязвимы для проклятий и ледяного тумана! Один обретет свободу!",
+		"addition": "Legion",
+		"price": 350
+	},
+
+	{
+		"id": "FuneraryPlateOfTheChosenDeadNormal",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/paladin/Funerary-Plate-of-the-Chosen-Dead-normal.png",
+		"objectFit": false,
+		"title": "Траурные Латы Избранных Мертвецов",
+		"description": "Второй комплект брони для паладина из рейда 110-го уровня Испытание Доблести обычного уровня сложности дополнения",
+		"descriptionTrim": "Королева подземного мира проклятых и падших врайкулов будет повержена! Хельхейм не поглотит ваши души! Вы неуязвимы для проклятий и ледяного тумана! Один обретет свободу!",
+		"addition": "Legion",
+		"price": 350
+	},
+
+	{
+		"id": "FuneraryPlateOfTheChosenDeadHeroic",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/paladin/Funerary-Plate-of-the-Chosen-Dead-heroic.png",
+		"objectFit": false,
+		"title": "Траурные Латы Избранных Мертвецов",
+		"description": "Второй комплект брони для паладина из рейда 110-го уровня Испытание Доблести героического уровня сложности дополнения",
+		"descriptionTrim": "Королева подземного мира проклятых и падших врайкулов будет повержена! Хельхейм не поглотит ваши души! Вы неуязвимы для проклятий и ледяного тумана! Один обретет свободу!",
+		"addition": "Legion",
+		"price": 350
+	},
+
+	{
+		"id": "FuneraryPlateOfTheChosenDeadMythic",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/paladin/Funerary-Plate-of-the-Chosen-Dead-mythic.png",
+		"objectFit": false,
+		"title": "Траурные Латы Избранных Мертвецов",
+		"description": "Второй комплект брони для паладина из рейда 110-го уровня Испытание Доблести эпохального уровня сложности дополнения",
+		"descriptionTrim": "Королева подземного мира проклятых и падших врайкулов будет повержена! Хельхейм не поглотит ваши души! Вы неуязвимы для проклятий и ледяного тумана! Один обретет свободу!",
+		"addition": "Legion",
+		"price": 350
 	}
 ]
