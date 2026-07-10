@@ -1,4 +1,4 @@
-const Promo = ({ oneHandedWeapons, twoHandedWeapons, rangeWeapons, legendaryWeapons, artifactWeapons, decorativeWeapons, twoHandedAxes, ashbringer, sulfuras, thunderfury, atiesh, warglaivesOfAzzinoth, thoridal, valanyr, frostmourne, shadowmourne, tarecgosa, fangsFather, raeshalareDeathsWhisper, fyralathTheDreamrender, naszuroTheUnboundLegacy, armsWarrior, furyWarrior, protectionWarrior, shields, cloaks, tabards, alchemy, mining, engineering, leatherworking, blacksmithing, enchanting,  inscription, tailoring, skinning, herbalism, jewelcrafting, archaeology, riding, cooking, firstAid, fishing, junkyardTinkering, protoformSynthesis, honour, arena, rbg, classic, burningCrusade, wrathOfTheLichKing, cataclysm, mistsOfPandaria, warlordsOfDraenor, legion, battleForAzeroth, shadowlands, dragonflight, warWithin, midnight, lastTitan, lvlUpBase, lvlUpExpert, lvlUpMaster, quests, legacy, greatFeats, warcraftReforged, wowAnniversary, diablo, hearthstone, heroesStorm, starcraft, overwatch, wowCollectionEditions, diabloCollectionEditions }) => {
+const Promo = ({ legendaryWeapons, twoHandedAxes, ashbringer, sulfuras, thunderfury, atiesh, warglaivesOfAzzinoth, thoridal, valanyr, frostmourne, shadowmourne, tarecgosa, fangsFather, raeshalareDeathsWhisper, fyralathTheDreamrender, naszuroTheUnboundLegacy, armsWarrior, furyWarrior, protectionWarrior, shields, cloaks, tabards, alchemy, mining, engineering, leatherworking, blacksmithing, enchanting,  inscription, tailoring, skinning, herbalism, jewelcrafting, archaeology, riding, cooking, firstAid, fishing, junkyardTinkering, protoformSynthesis, honour, arena, rbg, classic, burningCrusade, wrathOfTheLichKing, cataclysm, mistsOfPandaria, warlordsOfDraenor, legion, battleForAzeroth, shadowlands, dragonflight, warWithin, midnight, lastTitan, lvlUpBase, lvlUpExpert, lvlUpMaster, quests, legacy, greatFeats, warcraftReforged, wowAnniversary, diablo, hearthstone, heroesStorm, starcraft, overwatch, wowCollectionEditions, diabloCollectionEditions }) => {
 
 	return (
 		<section className="promo">
@@ -53,9 +53,6 @@ const Promo = ({ oneHandedWeapons, twoHandedWeapons, rangeWeapons, legendaryWeap
 								? "promo__info_weapons-legendary promo__info_weapons-legendary-naszuro"
 								:
 								"promo__info_weapons-legendary")
-							:
-						decorativeWeapons
-							? "promo__info_weapons-decorative"
 							:
 						mining
 							? "promo__info_mining"
@@ -134,18 +131,6 @@ const Promo = ({ oneHandedWeapons, twoHandedWeapons, rangeWeapons, legendaryWeap
 
 
 						/* старое доработать */
-						oneHandedWeapons
-							? "promo__raitings_one-handed-weapons"
-							:
-						twoHandedWeapons
-							? "promo__raitings_two-handed-weapons"
-							:
-						rangeWeapons
-							? "promo__raitings_range-weapons"
-							:
-						artifactWeapons
-							? "promo__raitings_artifact-weapons"
-							:
 						armsWarrior
 							? "promo__raitings_arms-warrior"
 							:

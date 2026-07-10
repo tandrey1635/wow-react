@@ -1,4 +1,4 @@
-const Announcement = ({ home, oneHandedWeapons, twoHandedWeapons, rangeWeapons, legendaryWeapons, artifactWeapons, decorativeWeapons, twoHandedAxes, twoHandedMaces, weaponsDetailsTitle, weaponsDetailsDescription, ashbringer, sulfuras, thunderfury, atiesh, warglaivesOfAzzinoth, thoridal, valanyr, frostmourne, shadowmourne, tarecgosa, fangsFather, raeshalareDeathsWhisper, fyralathTheDreamrender, naszuroTheUnboundLegacy, armsWarrior, furyWarrior, protectionWarrior, legendaryArmours, shields, cloaks, tabards, professions, alchemy, mining, engineering, leatherworking, blacksmithing, enchanting,  inscription, tailoring, skinning, herbalism, jewelcrafting, archaeology, riding, cooking, firstAid, fishing, junkyardTinkering, protoformSynthesis, pvp, honour, arena, rbg, additionsDungeons, additionsRaids, dungeonsClassic, dungeonsBurningCrusade, dungeonsWrathOfTheLichKing, dungeonsCataclysm, dungeonsMistsOfPandaria, dungeonsWarlordsOfDraenor, dungeonsLegion, dungeonsBattleForAzeroth, dungeonsShadowlands, dungeonsDragonflight, dungeonsWarWithin, dungeonsMidnight, dungeonsLastTitan, raidsClassic, raidsBurningCrusade, raidsWrathOfTheLichKing, raidsCataclysm, raidsMistsOfPandaria, raidsWarlordsOfDraenor, raidsLegion, raidsBattleForAzeroth, raidsShadowlands, raidsDragonflight, raidsWarWithin, raidsMidnight, raidsLastTitan, lvlUp, lvlUpBase, lvlUpExpert, lvlUpMaster, achievements, quests, legacy, greatFeats, warcraftReforged, wowAnniversary, diablo, hearthstone, heroesStorm, starcraft, overwatch, wowCollectionEditions, diabloCollectionEditions }) => {
+const Announcement = ({ home, legendaryWeapons, twoHandedAxes, twoHandedMaces, weaponsDetailsTitle, weaponsDetailsDescription, ashbringer, sulfuras, thunderfury, atiesh, warglaivesOfAzzinoth, thoridal, valanyr, frostmourne, shadowmourne, tarecgosa, fangsFather, raeshalareDeathsWhisper, fyralathTheDreamrender, naszuroTheUnboundLegacy, armsWarrior, furyWarrior, protectionWarrior, legendaryArmours, shields, cloaks, tabards, professions, alchemy, mining, engineering, leatherworking, blacksmithing, enchanting,  inscription, tailoring, skinning, herbalism, jewelcrafting, archaeology, riding, cooking, firstAid, fishing, junkyardTinkering, protoformSynthesis, pvp, honour, arena, rbg, additionsDungeons, additionsRaids, dungeonsClassic, dungeonsBurningCrusade, dungeonsWrathOfTheLichKing, dungeonsCataclysm, dungeonsMistsOfPandaria, dungeonsWarlordsOfDraenor, dungeonsLegion, dungeonsBattleForAzeroth, dungeonsShadowlands, dungeonsDragonflight, dungeonsWarWithin, dungeonsMidnight, dungeonsLastTitan, raidsClassic, raidsBurningCrusade, raidsWrathOfTheLichKing, raidsCataclysm, raidsMistsOfPandaria, raidsWarlordsOfDraenor, raidsLegion, raidsBattleForAzeroth, raidsShadowlands, raidsDragonflight, raidsWarWithin, raidsMidnight, raidsLastTitan, lvlUp, lvlUpBase, lvlUpExpert, lvlUpMaster, achievements, quests, legacy, greatFeats, warcraftReforged, wowAnniversary, diablo, hearthstone, heroesStorm, starcraft, overwatch, wowCollectionEditions, diabloCollectionEditions }) => {
 
 	return (
 		<section className="announcement">
@@ -8,12 +8,6 @@ const Announcement = ({ home, oneHandedWeapons, twoHandedWeapons, rangeWeapons, 
 						className={`announcement__header ${
 							legendaryWeapons || legendaryArmours
 								? "announcement__header_legendary"
-								:
-							artifactWeapons
-								? "announcement__header_artifact"
-								:
-							decorativeWeapons
-								? "announcement__header_decorative"
 								:
 							mining
 								? "announcement__header_mining"
@@ -75,20 +69,8 @@ const Announcement = ({ home, oneHandedWeapons, twoHandedWeapons, rangeWeapons, 
 
 
 							/* Старое переделываю */
-							oneHandedWeapons
-								? "announcement__header_one-handed-weapons"
-								:
-							twoHandedWeapons || twoHandedAxes
-								? "announcement__header_two-handed-weapons"
-								:
-							rangeWeapons
-								? "announcement__header_range-weapons"
-								:
-							artifactWeapons || armsWarrior || furyWarrior || protectionWarrior
+							armsWarrior || furyWarrior || protectionWarrior
 								? "announcement__header_artifact-weapons"
-								:
-							decorativeWeapons
-								? "announcement__header_decorative-weapons"
 								:
 							professions
 								? "announcement__header_professions"
@@ -150,9 +132,6 @@ const Announcement = ({ home, oneHandedWeapons, twoHandedWeapons, rangeWeapons, 
 								naszuroTheUnboundLegacy
                               		? "Наз'уро, Высвобожденное Наследие"
                               		: "Легендарное оружие"
-								:
-							decorativeWeapons
-								? "Декоративное оружие"
 								:
 							legendaryArmours
 								? "Легендарная Броня"
@@ -274,18 +253,6 @@ const Announcement = ({ home, oneHandedWeapons, twoHandedWeapons, rangeWeapons, 
 
 
 							/* переделать */
-							oneHandedWeapons
-								? "Одноручное оружие"
-								:
-							twoHandedWeapons
-								? "Двуручное оружие"
-								:
-							rangeWeapons
-								? "Оружие дальнего боя"
-								:
-							artifactWeapons
-								? "Артефакты Legion"
-								:
 							twoHandedAxes
 								? "Двуручные топоры"
 								:
@@ -407,12 +374,6 @@ const Announcement = ({ home, oneHandedWeapons, twoHandedWeapons, rangeWeapons, 
 							legendaryArmours
 								? "Легендарная броня, воплощение мифов, чья стойкость живет в веках. Идеальный выбор тех, кто стремится к защите, недостижимой для простых смертных. Будь то меткий выстрел, сокрушительный удар или могущественное заклинание каждый доспех выдержит удар, меняющий ход битвы. Неважно, что перед тобой, полчища Плети или демоны Пылающего Легиона, легендарная броня поглотит любой удар. Один шаг под градом стрел, одно мгновение в эпицентре взрыва, и мир узнает, почему этот доспех стал легендой!"
 								:
-							legendaryWeapons
-								? "Легендарное оружие, воплощение мифов, чья слава живет в веках. Идеальный выбор тех, кто стремится к совершенству, недостижимому для простых смертных. Будь то меткий выстрел, сокрушительный удар, могущественное заклинание или целительное прикосновение, каждое действие меняет ход истории Азерота. Неважно, что перед тобой, полчища Плети или демоны Пылающего Легиона, сила легенды в твоих руках обратит любого врага в прах. Один взмах, выстрел, заклинание или целительное прикосновение, и мир узнает, почему это оружие стало легендой!"
-								:
-							decorativeWeapons
-								? "Декоративное оружие, воплощение безупречной эстетики и высочайшего мастерства. Идеальный выбор тех, кто верит, что истинная сила в искусстве, способном остановить время. Один лишь взгляд рождает восхищение, а сердца ценителей замирают от одного прикосновения. Неважно, что перед тобой частная коллекция ценителя или парадный зал королевского дворца, декоративный клинок затмит все своим великолепием, повествуя о легендах и мастерах минувших дней. Это не орудие битвы, а произведение искусства, чей удар направлен прямо в сердце ценителя!"
-								:
 							legendaryArmours
 								? "Легендарная Броня"
 								:
@@ -442,23 +403,11 @@ const Announcement = ({ home, oneHandedWeapons, twoHandedWeapons, rangeWeapons, 
 
 
 							/* Проверить */
-							oneHandedWeapons
-								? "Одноручное оружие, искусство смертоносной грации и невероятной скорости! Идеальный выбор тех, кто ценит скорость выше грубой силы. Каждый взмах клинка рождает вихрь молниеносных ударов, сметающий врагов. Неважно, что перед тобой полчища Плети или демоны Пылающего Легиона скорость твоего клинка решает все. Один искусный воин стоит целой армии!"
-								:
-							twoHandedWeapons
-								? "Двуручное оружие, воплощение неудержимой мощи и сокрушительной силы. Идеальный выбор тех, кто верит, что лучшая защита это яростное нападение. Один удар решает исход битвы, а враги разлетаются в клочья от одного взмаха. Неважно, что перед тобой, полчища Плети или могучий инфернал Пылающего Легиона, двуручник сметет все на своем пути!"
-								:
 							twoHandedAxes
 								? "Двуручные топоры — оружие, где сила важнее скорости, а вес становится союзником. Каждый взмах рассекает плоть и кости, как бумагу. Оружие для тех, кто не боится тяжести битвы. Неважно, кто перед тобой — рыцарь в латах или демон скверны — топор разрубит свою цель на мелкие кусочки."
 								:
 							twoHandedMaces
 								? "Двуручные дубины — оружие, где сила важнее скорости, а вес становится союзником. Каждый удар вгоняет врага в землю. не готово"
-								:
-							rangeWeapons
-								? "Оружие дальнего боя, искусство победы на дистанции. Идеальный выбор тех, кто предпочитает тактику грубой силе. Один точный выстрел решает исход битвы, враги падают, не успев приблизиться. Неважно, что перед тобой полчища Плети или демоны Пылающего Легиона дистанция и меткость станут твоим преимуществом. Меткость не оставит врагам ни шанса, а дистанция превратится в непреодолимую пропасть!"
-								:
-							artifactWeapons
-								? "Артефактное оружие, воплощение воли титанов, ярости древних богов и наследие величайших героев Азерота. Это не просто инструмент битвы, а символ эпохи, чья душа откликается лишь тому, кто достоин продолжить ее легенду. Идеальный выбор тех, кто не стремится к славе, но чьи поступки сами творят историю. Будь то сокрушительный удар, рассекающий саму магию, или благословение, воскрешающее павших героев, каждое действие артефакта оставляет вечный след в судьбе мира. Неважно, что перед тобой полчища Плети, демоны Пылающего Легиона или сама ненависть Древних Богов, мощь, что течет в его жилах, не знает границ. Один взмах и реальность склонится перед тобой. Одно заклинание и сама бездна отступает. Это не легенда из прошлого, это сила, которая творит будущее. И теперь она в твоих руках!"
 								:
 							weaponsDetailsDescription
 								? weaponsDetailsDescription

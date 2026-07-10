@@ -2,10 +2,10 @@
 	{
 		"id": "OneHandedWeapons",
 		"type": "weapons",
-		"path": "weapons/one-handed",
+		"path": "weapons/onehanded",
 		"cardImg": "/src/assets/img/promo/bg/weapons/one-handed.png",
 		"objectFit": false,
-		"title": "Одноручное оружие",
+		"title": "Одноручное Оружие",
 		"description": "Закажите любое одноручное оружие",
 		"price": 300
 	},
@@ -13,10 +13,10 @@
 	{
 		"id": "TwoHandedWeapons",
 		"type": "weapons",
-		"path": "weapons/two-handed",
+		"path": "weapons/twohanded",
 		"cardImg": "/src/assets/img/promo/bg/weapons/two-handed.png",
 		"objectFit": false,
-		"title": "Двуручное оружие",
+		"title": "Двуручное Оружие",
 		"description": "Двуручное оружие — мощь, не знающая преград. Один удар и враг повержен. Оружие для тех, кто решает исход битвы с первого удара.",
 		"price": 300
 	},
@@ -27,7 +27,7 @@
 		"path": "weapons/range",
 		"cardImg": "/src/assets/img/promo/bg/weapons/range.png",
 		"objectFit": false,
-		"title": "Оружие дальнего боя",
+		"title": "Оружие Дальнего Боя",
 		"description": "Закажите любое оружие дальнего боя",
 		"price": 300
 	},

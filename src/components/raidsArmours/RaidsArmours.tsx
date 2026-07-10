@@ -1,4 +1,5 @@
-import { useParams } from "react-router";
+import { useParams, Link } from "react-router";
+import { Tabs, Tab } from 'react-bootstrap';
 import Card from '../Card.tsx'
 
 
@@ -151,7 +152,27 @@ const RaidsArmours = ()=> {
 				<div className="container">
 					<section className="nav py-5">
 						<div className="container">
-							<div className="nav__wrapper"></div>
+							<div className="nav__wrapper">
+								<Tabs defaultActiveKey="raidsArmours" id="cards-tabs" fill>
+									<Tab eventKey="raidsArmours" title="Комплекты Брони">
+										<ul style={{left: 0}} className="nav-menu nav-menu-dropdown nav-menu-raid-armours">
+											<Link className="nav-link nav-link-warrior" to="/raids-armours/warrior">Воин</Link>
+											<Link className="nav-link nav-link-druid" to="/raids-armours/druid">Друид</Link>
+											<Link className="nav-link nav-link-priest" to="/raids-armours/priest">Жрец</Link>
+											<Link className="nav-link nav-link-mage" to="/raids-armours/mage">Маг</Link>
+											<Link className="nav-link nav-link-monk" to="/raids-armours/monk">Монах</Link>
+											<Link className="nav-link nav-link-hunter" to="/raids-armours/hunter">Охотник</Link>
+											<Link className="nav-link nav-link-demon-hunter" to="/raids-armours/demonhunter">Охотник на Демонов</Link>
+											<Link className="nav-link nav-link-paladin" to="/raids-armours/paladin">Паладин</Link>
+											<Link className="nav-link nav-link-awakener" to="/raids-armours/awakener">Пробудитель</Link>
+											<Link className="nav-link nav-link-rogue" to="/raids-armours/rogue">Разбойник</Link>
+											<Link className="nav-link nav-link-death-knight" to="/raids-armours/deathknight">Рыцарь Смерти</Link>
+											<Link className="nav-link nav-link-warlock" to="/raids-armours/warlock">Чернокнижник</Link>
+											<Link className="nav-link nav-link-shaman" to="/raids-armours/shaman">Шаман</Link>
+										</ul>
+									</Tab>
+								</Tabs>
+							</div>
 						</div>
 					</section>
 

@@ -14,16 +14,9 @@ import FactionDetailsPage from "./pages/races/FactionDetailsPage.tsx";
 /* Рейдовая броня */
 import RaidsArmoursPage from './pages/raids-armours/RaidsArmoursPage.tsx'
 
+/* Оружие */
+import WeaponsPage from './pages/weapons/WeaponsPage.tsx'
 
-
-
-
-import OneHandedWeapons from "./pages/weapons/OneHanded.tsx";
-import TwoHandedWeapons from "./pages/weapons/TwoHanded.tsx";
-import RangeWeapons from "./pages/weapons/Range.tsx";
-import LegendaryWeapons from "./pages/weapons/Legendary.tsx";
-import ArtifactWeapons from "./pages/weapons/Artifact.tsx";
-import DecorativeWeapons from "./pages/weapons/Decorative.tsx";
 
 
 import TwoHandedAxes from "./pages/weapons/two-handed/axes/Axes.tsx";
@@ -231,12 +224,9 @@ createRoot(document.getElementById("root")!).render(
 
 
 
-				<Route path="weapons/one-handed" element={<OneHandedWeapons />} />
-				<Route path="weapons/two-handed" element={<TwoHandedWeapons />} />
-				<Route path="weapons/range" element={<RangeWeapons />} />
-				<Route path="weapons/legendary" element={<LegendaryWeapons />} />
-				<Route path="weapons/artifact" element={<ArtifactWeapons />} />
-				<Route path="weapons/decorative" element={<DecorativeWeapons />} />
+
+
+				<Route path="weapons/:weapons" element={<WeaponsPage />} />
 
 
 				<Route path="weapons/two-handed/axes" element={<TwoHandedAxes />} />

@@ -11,10 +11,7 @@ import dataRaidsArmours from '../json/raids-armours/raids-armours.json';
 
 
 import dataWeapons from '../json/weapons/weapons.json';
-import dataTwoHandedWeapons from '../json/weapons/two-handed/weapons.json';
 import dataTwoHandedAxes from '../json/weapons/two-handed/axes/axes.json';
-import dataLegendaryWeapons from '../json/weapons/legendary/weapons.json';
-import dataDecorativeWeapons from '../json/weapons/decorative/weapons.json';
 
 
 import dataTwoHandedAxesWeaponDetails from '../json/weapons/two-handed/axes/axes-details.json';
@@ -120,7 +117,7 @@ import type { ICard }  from "../types/card-types";
 
 
 
-const Cards = ({home, twoHandedWeapons, twoHandedAxes, twoHandedAxesWeaponDetails, legendaryWeapons, decorativeWeapons, classes, warriorArtifacts, druidArtifacts, priestArtifacts, mageArtifacts, monkArtifacts, hunterArtifacts, demonHunterArtifacts, paladinArtifacts, rogueArtifacts, deathKnightArtifacts, warlockArtifacts, shamanArtifacts, armsWarrior, furyWarrior, protectionWarrior, legendaryArmours, cloaks, mining, blacksmithing, cooking, fishing, firstAid, additionsDungeons, additionsRaids, dungeonsClassic, dungeonsBurningCrusade, dungeonsWrathOfTheLichKing, dungeonsCataclysm, dungeonsMistsOfPandaria, dungeonsWarlordsOfDraenor, dungeonsLegion, dungeonsBattleForAzeroth, dungeonsShadowlands, dungeonsDragonflight, dungeonsWarWithin, dungeonsMidnight, dungeonsLastTitan, raidsClassic, raidsBurningCrusade, raidsWrathOfTheLichKing, raidsCataclysm, raidsMistsOfPandaria, raidsWarlordsOfDraenor, raidsLegion, raidsBattleForAzeroth, raidsShadowlands, raidsDragonflight, raidsWarWithin, raidsMidnight, raidsLastTitan, legacy, greatFeats, wowAnniversary, wowCollectionEditions}) => {
+const Cards = ({home, twoHandedAxes, twoHandedAxesWeaponDetails, classes, warriorArtifacts, druidArtifacts, priestArtifacts, mageArtifacts, monkArtifacts, hunterArtifacts, demonHunterArtifacts, paladinArtifacts, rogueArtifacts, deathKnightArtifacts, warlockArtifacts, shamanArtifacts, armsWarrior, furyWarrior, protectionWarrior, legendaryArmours, cloaks, mining, blacksmithing, cooking, fishing, firstAid, additionsDungeons, additionsRaids, dungeonsClassic, dungeonsBurningCrusade, dungeonsWrathOfTheLichKing, dungeonsCataclysm, dungeonsMistsOfPandaria, dungeonsWarlordsOfDraenor, dungeonsLegion, dungeonsBattleForAzeroth, dungeonsShadowlands, dungeonsDragonflight, dungeonsWarWithin, dungeonsMidnight, dungeonsLastTitan, raidsClassic, raidsBurningCrusade, raidsWrathOfTheLichKing, raidsCataclysm, raidsMistsOfPandaria, raidsWarlordsOfDraenor, raidsLegion, raidsBattleForAzeroth, raidsShadowlands, raidsDragonflight, raidsWarWithin, raidsMidnight, raidsLastTitan, legacy, greatFeats, wowAnniversary, wowCollectionEditions}) => {
 
 
 	const counterCardItems = (dataJson: ICard[]) => dataJson.length
@@ -179,7 +176,7 @@ const Cards = ({home, twoHandedWeapons, twoHandedAxes, twoHandedAxesWeaponDetail
 							</Tab>
 
 							{/* Таб контент рейдовая броня */}
-							<Tab eventKey="raidsArmours" title="Рейдовые Комплекты">
+							<Tab eventKey="raidsArmours" title="Комплекты Брони">
 								<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
 									{ renderCardItems(dataRaidsArmours) }
 								</div>
@@ -208,8 +205,8 @@ const Cards = ({home, twoHandedWeapons, twoHandedAxes, twoHandedAxesWeaponDetail
 								</div>
 
 								<ul className="nav-menu nav-menu-dropdown nav-menu-weapons">
-									<Link className="nav-link nav-link-weapons" to="/weapons/one-handed">Одноручное</Link>
-									<Link className="nav-link nav-link-weapons" to="/weapons/two-handed">Двуручное</Link>
+									<Link className="nav-link nav-link-weapons" to="/weapons/onehanded">Одноручное</Link>
+									<Link className="nav-link nav-link-weapons" to="/weapons/twohanded">Двуручное</Link>
 									<Link className="nav-link nav-link-weapons" to="/weapons/range">Дальний бой</Link>
 									<Link className="nav-link nav-link-legendary" to="/weapons/legendary">Легендарное</Link>
 									<Link className="nav-link nav-link-artifact" to="/weapons/artifact">Артефактное</Link>
@@ -299,24 +296,15 @@ const Cards = ({home, twoHandedWeapons, twoHandedAxes, twoHandedAxesWeaponDetail
 
 					{/* Таб контент оружие */}
 					<>
-						{/* Двуручное оружие */}
-						{ twoHandedWeapons &&
-							<div className="tab-pane fade show active" id="pills-raids-armour">
-								<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
-									{ renderCardItems(dataTwoHandedWeapons) }
+						{/* Двуручные топоры */}
+						{ twoHandedAxes &&
+							<>
+								<h3 className="text-success text-center fw-bold display-4">Всего Оружия: {counterCardItems(dataTwoHandedAxesWeaponDetails)}</h3>
+								<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
+									{ renderCardItems(dataTwoHandedAxes) }
 								</div>
-							</div>
+							</>
 						}
-
-							{/* Двуручные топоры */}
-							{ twoHandedAxes &&
-								<>
-									<h3 className="text-success text-center fw-bold display-4">Всего Оружия: {counterCardItems(dataTwoHandedAxesWeaponDetails)}</h3>
-									<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
-										{ renderCardItems(dataTwoHandedAxes) }
-									</div>
-								</>
-							}
 
 							{/* Двуручные топоры детально */}
 							{ twoHandedAxesWeaponDetails &&
@@ -327,26 +315,6 @@ const Cards = ({home, twoHandedWeapons, twoHandedAxes, twoHandedAxesWeaponDetail
 									</div>
 								</>
 							}
-
-						{/* Легендарное оружие */}
-						{ legendaryWeapons &&
-							<>
-								<h3 className="text-success text-center fw-bold display-4">Всего Легендарного Оружия: {counterCardItems(dataLegendaryWeapons)}</h3>
-								<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
-									{ renderCardItems(dataLegendaryWeapons) }
-								</div>
-							</>
-						}
-
-						{/* Декоративное оружие */}
-						{ decorativeWeapons &&
-							<>
-								<h3 className="text-success text-center fw-bold display-4">Всего Декоративного Оружия: {counterCardItems(dataDecorativeWeapons)}</h3>
-								<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
-								{ renderCardItems(dataDecorativeWeapons) }
-								</div>
-							</>
-						}
 					</>
 
 					{/* Таб контент броня */}
