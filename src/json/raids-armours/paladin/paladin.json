@@ -1053,6 +1053,97 @@
 	},
 
 	{
+		"id": "BloodforgedBattleplate",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/paladin/Bloodforged-Battleplate.png",
+		"objectFit": false,
+		"title": "Закаленные в Крови Боевые Латы",
+		"description": "Комплект брони из подземелий дополнения",
+		"descriptionTrim": "Броня, закаленная в героических походах по самым опасным подземельям Легиона, от проклятых берегов Хельхейма в Утробе душ до демонических залов Собора Вечной Ночи. Вы прошли сквозь царство мертвых и обитель скверны. Каждый бой оставил на ней след, но она выдержала все. Достойная награда за пройденные испытания.",
+		"addition": "Legion",
+		"price": 350
+	},
+
+	{
+		"id": "HonorforgedValorplate",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/paladin/Honorforged-Valorplate.png",
+		"objectFit": false,
+		"title": "Доспехи Отваги из Кузни Чести",
+		"description": "Комплект брони из подземелий дополнения",
+		"descriptionTrim": "Броня, закаленная в героических походах по самым опасным подземельям Легиона, от проклятых берегов Хельхейма в Утробе душ до демонических залов Собора Вечной Ночи. Вы прошли сквозь царство мертвых и обитель скверны. Каждый бой оставил на ней след, но она выдержала все. Достойная награда за пройденные испытания.",
+		"addition": "Legion",
+		"price": 350
+	},
+
+	{
+		"id": "BattleplateOfTheSilverHand",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/paladin/Battleplate-of-the-Silver-Hand.png",
+		"objectFit": false,
+		"title": "Боевой Доспех Ордена Серебряной Длани",
+		"description": "Комплект брони для паладина, оплота класса дополнения",
+		"descriptionTrim": "Созданный для тех, кто не отступил перед угрозой Пылающего Легиона. Вы вошли в самое сердце скверны и вышли оттуда победителем. Каждый след на этой броне, память о битвах за миры, которые не пали благодаря вам! Достойная награда за верность и отвагу!",
+		"addition": "Legion",
+		"price": 350
+	},
+
+	{
+		"id": "BattleplateOfTheHighlordRaidFinder",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/paladin/Battleplate-of-the-Highlord-raid-finder.png",
+		"objectFit": false,
+		"title": "Боевой Доспех Верховного Лорда",
+		"description": "Первый комплект брони для паладина из рейда 110-го уровня Цитадель Ночи режима поиска рейдов дополнения",
+		"descriptionTrim": "Глава Совета Теней будет повержен! Бесконечная тьма не поглотит ваш мир! Мастер чернокнижник доигрался!",
+		"addition": "Legion",
+		"price": 350
+	},
+
+	{
+		"id": "BattleplateOfTheHighlordNormal",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/paladin/Battleplate-of-the-Highlord-normal.png",
+		"objectFit": false,
+		"title": "Боевой Доспех Верховного Лорда",
+		"description": "Первый комплект брони для паладина из рейда 110-го уровня Цитадель Ночи обычного уровня сложности дополнения",
+		"descriptionTrim": "Глава Совета Теней будет повержен! Бесконечная тьма не поглотит ваш мир! Мастер чернокнижник доигрался!",
+		"addition": "Legion",
+		"price": 350
+	},
+
+	{
+		"id": "BattleplateOfTheHighlordHeroic",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/paladin/Battleplate-of-the-Highlord-heroic.png",
+		"objectFit": false,
+		"title": "Боевой Доспех Верховного Лорда",
+		"description": "Первый комплект брони для паладина из рейда 110-го уровня Цитадель Ночи героического уровня сложности дополнения",
+		"descriptionTrim": "Глава Совета Теней будет повержен! Бесконечная тьма не поглотит ваш мир! Мастер чернокнижник доигрался!",
+		"addition": "Legion",
+		"price": 350
+	},
+
+	{
+		"id": "BattleplateOfTheHighlordMythic",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/paladin/Battleplate-of-the-Highlord-mythic.png",
+		"objectFit": false,
+		"title": "Боевой Доспех Верховного Лорда",
+		"description": "Первый комплект брони для паладина из рейда 110-го уровня Цитадель Ночи эпохального уровня сложности дополнения",
+		"descriptionTrim": "Глава Совета Теней будет повержен! Бесконечная тьма не поглотит ваш мир! Мастер чернокнижник доигрался!",
+		"addition": "Legion",
+		"price": 350
+	},
+
+	{
 		"id": "FuneraryPlateOfTheChosenDeadRaidFinder",
 		"type": "paladin",
 		"path": "",
