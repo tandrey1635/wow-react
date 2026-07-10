@@ -229,8 +229,8 @@ createRoot(document.getElementById("root")!).render(
 				<Route path="weapons/:weapons" element={<WeaponsPage />} />
 
 
-				<Route path="weapons/two-handed/axes" element={<TwoHandedAxes />} />
-				<Route path="weapons/two-handed/axes/axes-details" element={<TwoHandedAxesDetails />} />
+				<Route path="weapons/twohanded/axes" element={<TwoHandedAxes />} />
+				<Route path="weapons/twohanded/axes/axes-details" element={<TwoHandedAxesDetails />} />
 
 
 				{/* <Route path="weapons/legendary/weapons-details/ashbringer" element={<Ashbringer />} />

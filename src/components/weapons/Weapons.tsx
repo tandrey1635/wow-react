@@ -4,6 +4,8 @@ import Card from '../Card.tsx'
 
 import dataWeapons from '../../json/weapons/weapons-details.json'
 
+
+import dataTwoHandedWeapons from '../../json/weapons/two-handed/weapons.json'
 import dataLegendaryWeapons from '../../json/weapons/legendary/weapons.json'
 import dataDecorativeWeapons from '../../json/weapons/decorative/weapons.json'
 
@@ -104,6 +106,9 @@ const Weapons = ()=> {
 
 					<div className="cards__wrapper d-flex flex-wrap justify-content-center justify-content-xl-start mt-5">
 						{
+							weapon.type === "two-handed"
+								? renderCardItems(dataTwoHandedWeapons)
+								:
 							weapon.type === "legendary"
 								? renderCardItems(dataLegendaryWeapons)
 								:
