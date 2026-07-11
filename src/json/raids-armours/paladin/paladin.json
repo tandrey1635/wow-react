@@ -1092,6 +1092,84 @@
 	},
 
 	{
+		"id": "GarothiBattleplate",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/paladin/Garothi-Battleplate.png",
+		"objectFit": false,
+		"title": "Боевой Доспех Кин'гарота",
+		"description": "Комплект брони, дарованный за выполнение череды опасных заданий дополнения",
+		"descriptionTrim": "Каждая деталь выкована в благодарность за самоотверженные подвиги и верность избранному пути. Доблесть и труды героя нашли свое воплощение в этом доспехе!",
+		"addition": "Legion",
+		"price": 350
+	},
+
+	{
+		"id": "PraetoriumGuardsPlateArmor",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/paladin/Praetorium-Guards-Plate-Armor.png",
+		"objectFit": false,
+		"title": "Латные Доспехи Стража Претория",
+		"description": "Комплект брони, дарованный за выполнение череды опасных заданий дополнения",
+		"descriptionTrim": "Каждая деталь выкована в благодарность за самоотверженные подвиги и верность избранному пути. Доблесть и труды героя нашли свое воплощение в этом доспехе!",
+		"addition": "Legion",
+		"price": 350
+	},
+
+	{
+		"id": "MoonshatterWarplate",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/paladin/Moonshatter-Warplate.png",
+		"objectFit": false,
+		"title": "Боевые Латы Раскола Луны",
+		"description": "Комплект брони, дарованный за выполнение череды опасных заданий дополнения",
+		"descriptionTrim": "Каждая деталь выкована в благодарность за самоотверженные подвиги и верность избранному пути. Доблесть и труды героя нашли свое воплощение в этом доспехе!",
+		"addition": "Legion",
+		"price": 350
+	},
+
+	{
+		"id": "XorothianPlateArmor",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/paladin/Xorothian-Plate-Armor.png",
+		"objectFit": false,
+		"title": "Зоротианские Латные Доспехи",
+		"description": "Комплект брони, добытый в самом сердце вторжений Пылающего Легиона дополнения",
+		"descriptionTrim": "Эта броня пропитана скверной, но не поддалась ей! Вы обратили силу демонов против них самих! Каждая царапина, каждый изъян на этой броне, память о битвах за миры, которые не пали благодаря вам!",
+		"addition": "Legion",
+		"price": 350
+	},
+
+	{
+		"id": "NightforgedFelplate",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/paladin/Nightforged-Felplate.png",
+		"objectFit": false,
+		"title": "Ночнокованные Доспехи Скверны",
+		"description": "Комплект брони из подземелий дополнения",
+		"descriptionTrim": "Броня, закаленная в героических походах по самым опасным подземельям Легиона, от проклятых берегов Хельхейма в Утробе душ до демонических залов Собора Вечной Ночи. Вы прошли сквозь царство мертвых и обитель скверны. Каждый бой оставил на ней след, но она выдержала все. Достойная награда за пройденные испытания.",
+		"addition": "Legion",
+		"price": 350
+	},
+
+	{
+		"id": "WorldDefilersBattleArmor",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/paladin/World-Defilers-Battle-Armor.png",
+		"objectFit": false,
+		"title": "Доспехи Осквернителя Миров",
+		"description": "Комплект брони, собранный из обломков скверны, добытых у редких элитных монстров локации Аргус дополнения",
+		"descriptionTrim": "Каждый элемент — трофей с поверженного демона. Вы носите на себе доказательство того, что даже на землях Легиона охота идет на хозяев, а не на жертв!",
+		"addition": "Legion",
+		"price": 350
+	},
+
+	{
 		"id": "BattleplateOfTheHighlordRaidFinder",
 		"type": "paladin",
 		"path": "",
@@ -1191,6 +1269,58 @@
 		"title": "Траурные Латы Избранных Мертвецов",
 		"description": "Второй комплект брони для паладина из рейда 110-го уровня Испытание Доблести эпохального уровня сложности дополнения",
 		"descriptionTrim": "Королева подземного мира проклятых и падших врайкулов будет повержена! Хельхейм не поглотит ваши души! Вы неуязвимы для проклятий и ледяного тумана! Один обретет свободу!",
+		"addition": "Legion",
+		"price": 350
+	},
+
+	{
+		"id": "LightsVanguardBattleplateRaidFinder",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/paladin/Lights-Vanguard-Battleplate-raid-finder.png",
+		"objectFit": false,
+		"title": "Боевое Облачение Авангарда Света",
+		"description": "Четвертый комплект брони для паладина из рейда 110-го уровня Анторус, Пылающий Трон режима поиска рейдов дополнения",
+		"descriptionTrim": "Порабощенный Титан будет повержен! Эпохи мучений закончатся здесь! Ваша сила не знает границ! Вы неуязвимы для скверны и смерти! Принесите покой павшему Титану! Пылающий Легион разбит навсегда!",
+		"addition": "Legion",
+		"price": 350
+	},
+
+	{
+		"id": "LightsVanguardBattleplateNormal",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/paladin/Lights-Vanguard-Battleplate-normal.png",
+		"objectFit": false,
+		"title": "Боевое Облачение Авангарда Света",
+		"description": "Четвертый комплект брони для паладина из рейда 110-го уровня Анторус, Пылающий Трон обычного уровня сложности дополнения",
+		"descriptionTrim": "Порабощенный Титан будет повержен! Эпохи мучений закончатся здесь! Ваша сила не знает границ! Вы неуязвимы для скверны и смерти! Принесите покой павшему Титану! Пылающий Легион разбит навсегда!",
+		"addition": "Legion",
+		"price": 350
+	},
+
+	{
+		"id": "LightsVanguardBattleplateHeroic",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/paladin/Lights-Vanguard-Battleplate-heroic.png",
+		"objectFit": false,
+		"title": "Боевое Облачение Авангарда Света",
+		"description": "Четвертый комплект брони для паладина из рейда 110-го уровня Анторус, Пылающий Трон героического уровня сложности дополнения",
+		"descriptionTrim": "Порабощенный Титан будет повержен! Эпохи мучений закончатся здесь! Ваша сила не знает границ! Вы неуязвимы для скверны и смерти! Принесите покой павшему Титану! Пылающий Легион разбит навсегда!",
+		"addition": "Legion",
+		"price": 350
+	},
+
+	{
+		"id": "LightsVanguardBattleplateMythic",
+		"type": "paladin",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/paladin/Lights-Vanguard-Battleplate-mythic.png",
+		"objectFit": false,
+		"title": "Боевое Облачение Авангарда Света",
+		"description": "Четвертый комплект брони для паладина из рейда 110-го уровня Анторус, Пылающий Трон эпохального уровня сложности дополнения",
+		"descriptionTrim": "Порабощенный Титан будет повержен! Эпохи мучений закончатся здесь! Ваша сила не знает границ! Вы неуязвимы для скверны и смерти! Принесите покой павшему Титану! Пылающий Легион разбит навсегда!",
 		"addition": "Legion",
 		"price": 350
 	}

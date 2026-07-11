@@ -16,6 +16,7 @@ import RaidsArmoursPage from './pages/raids-armours/RaidsArmoursPage.tsx'
 
 /* Оружие */
 import WeaponsPage from './pages/weapons/WeaponsPage.tsx'
+import WeaponsTypesPage from './pages/weapons/WeaponsTypesPage.tsx'
 
 
 
@@ -198,7 +199,6 @@ createRoot(document.getElementById("root")!).render(
 				{/* Рейдовая броня */}
 				<Route path="raids-armours/:raidsArmours" element={<RaidsArmoursPage />} />
 
-
 				{/* Детальные стр рейдовой брони */}
 				<Route path="raids-armours/:raidsArmours/molten-core" element={<MoltenCore />} />
 				<Route path="raids-armours/:raidsArmours/blackwing-lair" element={<BlackwingLair />} />
@@ -222,13 +222,11 @@ createRoot(document.getElementById("root")!).render(
 				<Route path="raids-armours/:raidsArmours/siege-of-orgrimmar" element={<SiegeOfOrgrimmar />} />
 				<Route path="raids-armours/:raidsArmours/foundry-of-black-mountain-clan" element={<FoundryOfBlackMountainClan />} />
 
-
-
-
-
+				{/* Оружие*/}
 				<Route path="weapons/:weapons" element={<WeaponsPage />} />
+				<Route path="weapons/:weapons/:weaponsTypes" element={<WeaponsTypesPage />} />
 
-
+				{/* Оружие 2 руч топоры детально */}
 				<Route path="weapons/twohanded/axes" element={<TwoHandedAxes />} />
 				<Route path="weapons/twohanded/axes/axes-details" element={<TwoHandedAxesDetails />} />
 
