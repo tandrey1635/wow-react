@@ -2,7 +2,7 @@
 	{
 		"id": "Ashbringer",
 		"type": "legendary",
-		"path": "weapons-details/ashbringer",
+		"path": "Ashbringer",
 		"img": "/src/assets/img/weapons/bg/legendary/Ashbringer.png",
 		"objectFit": true,
 		"title": "Испепелитель",
@@ -13,7 +13,7 @@
 	{
 		"id": "SulfurasHandOfRagnaros",
 		"type": "legendary",
-		"path": "weapons-details/sulfuras",
+		"path": "SulfurasHandOfRagnaros",
 		"img": "/src/assets/img/weapons/bg/legendary/Sulfuras-Hand-of-Ragnaros.png",
 		"objectFit": false,
 		"title": "Сульфурас, Рука Рагнароса",
@@ -24,7 +24,7 @@
 	{
 		"id": "ThunderfuryBlessedBladeOfTheWindseeker",
 		"type": "legendary",
-		"path": "weapons-details/thunderfury",
+		"path": "ThunderfuryBlessedBladeOfTheWindseeker",
 		"img": "/src/assets/img/weapons/bg/legendary/Thunderfury-Blessed-Blade-of-the-Windseeker.png",
 		"objectFit": true,
 		"title": "Громовая Ярость, Благословенный Клинок Искателя Ветра",
@@ -35,7 +35,7 @@
 	{
 		"id": "AtieshGreatstaffOfTheGuardian",
 		"type": "legendary",
-		"path": "weapons-details/atiesh",
+		"path": "AtieshGreatstaffOfTheGuardian",
 		"img": "/src/assets/img/weapons/bg/legendary/Atiesh-Greatstaff-of-the-Guardian.png",
 		"objectFit": true,
 		"title": "Атиеш, Великий Посох Хранителя",
@@ -46,7 +46,7 @@
 	{
 		"id": "WarglaivesOfAzzinoth",
 		"type": "legendary",
-		"path": "weapons-details/warglaives-of-azzinoth",
+		"path": "WarglaivesOfAzzinoth",
 		"img": "/src/assets/img/weapons/bg/legendary/Warglaives-of-Azzinoth.png",
 		"objectFit": false,
 		"title": "Боевые Клинки Аззинота",
@@ -57,7 +57,7 @@
 	{
 		"id": "ThoridalTheStarsFury",
 		"type": "legendary",
-		"path": "weapons-details/thoridal",
+		"path": "ThoridalTheStarsFury",
 		"img": "/src/assets/img/weapons/bg/legendary/Thoridal-the-Stars-Fury.png",
 		"objectFit": true,
 		"title": "Тори'дал, Звездная Ярость",
@@ -68,7 +68,7 @@
 	{
 		"id": "ValanyrHammerOfAncientKings",
 		"type": "legendary",
-		"path": "weapons-details/valanyr",
+		"path": "ValanyrHammerOfAncientKings",
 		"img": "/src/assets/img/weapons/bg/legendary/Valanyr-Hammer-of-Ancient-Kings.png",
 		"objectFit": false,
 		"title": "Вал'анир, Молот Древних Королей",
@@ -79,7 +79,7 @@
 	{
 		"id": "Frostmourne",
 		"type": "legendary",
-		"path": "weapons-details/frostmourne",
+		"path": "Frostmourne",
 		"img": "/src/assets/img/weapons/bg/legendary/Frostmourne.png",
 		"objectFit": true,
 		"title": "Ледяная Скорбь",
@@ -90,7 +90,7 @@
 	{
 		"id": "Shadowmourne",
 		"type": "legendary",
-		"path": "weapons-details/shadowmourne",
+		"path": "Shadowmourne",
 		"img": "/src/assets/img/weapons/bg/legendary/Shadowmourne.png",
 		"objectFit": false,
 		"title": "Темная Скорбь",
@@ -101,7 +101,7 @@
 	{
 		"id": "DragonwrathTarecgosasRest",
 		"type": "legendary",
-		"path": "weapons-details/tarecgosa",
+		"path": "DragonwrathTarecgosasRest",
 		"img": "/src/assets/img/weapons/bg/legendary/Dragonwrath-Tarecgosas-Rest.png",
 		"objectFit": false,
 		"title": "Гнев Дракона, Вечный Покой Таресгосы",
@@ -112,7 +112,7 @@
 	{
 		"id": "FangsOfTheFather",
 		"type": "legendary",
-		"path": "weapons-details/fangs-of-the-father",
+		"path": "FangsOfTheFather",
 		"img": "/src/assets/img/weapons/bg/legendary/Fangs-of-the-Father.png",
 		"objectFit": false,
 		"title": "Клыки Отца",
@@ -123,7 +123,7 @@
 	{
 		"id": "RaeshalareDeathsWhisper",
 		"type": "legendary",
-		"path": "weapons-details/raeshalare-deaths-whisper",
+		"path": "RaeshalareDeathsWhisper",
 		"img": "/src/assets/img/weapons/bg/legendary/Raeshalare-Deaths-Whisper.png",
 		"objectFit": false,
 		"title": "Раэ'шаларе, Шепот Смерти",
@@ -134,7 +134,7 @@
 	{
 		"id": "FyralathTheDreamrender",
 		"type": "legendary",
-		"path": "weapons-details/fyralath-the-dreamrender",
+		"path": "FyralathTheDreamrender",
 		"img": "/src/assets/img/weapons/bg/legendary/Fyralath-the-Dreamrender.png",
 		"objectFit": false,
 		"title": "Фир'алат Воздаятель Снов",
@@ -145,7 +145,7 @@
 	{
 		"id": "NaszuroTheUnboundLegacy",
 		"type": "legendary",
-		"path": "weapons-details/naszuro-the-unbound-legacy",
+		"path": "NaszuroTheUnboundLegacy",
 		"img": "/src/assets/img/weapons/bg/legendary/Naszuro-the-Unbound-Legacy.png",
 		"objectFit": false,
 		"title": "Наз'уро, Высвобожденное Наследие",

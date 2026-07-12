@@ -1,7 +1,7 @@
 [
 	{
 		"id": "RazorAxe",
-		"type": "two-handed-weapons",
+		"type": "twohanded-axes",
 		"path": "",
 		"weaponType": "Двуручный Топор",
 		"label": "Эпический",
@@ -45,7 +45,7 @@
 	},
 
 	{
-		"id": "PandarenGuardsPoleaxe",
+		"id": "WallwatchersLongaxe",
 		"type": "two-handed-weapons",
 		"path": "",
 		"weaponType": "Двуручный Топор",
@@ -738,7 +738,7 @@
 	},
 
 	{
-		"id": "SkullstealerGreataxe",
+		"id": "SkullstealerGreataxeNormal",
 		"type": "two-handed-weapons",
 		"path": "",
 		"weaponType": "Двуручный Топор",

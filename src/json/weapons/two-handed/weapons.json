@@ -21,7 +21,7 @@
 	},
 
 	{
-		"id": "",
+		"id": "1",
 		"type": "weapons",
 		"path": "",
 		"img": "/src/assets/img/promo/bg/weapons/two-handed.png",
@@ -31,7 +31,7 @@
 	},
 
 	{
-		"id": "",
+		"id": "2",
 		"type": "weapons",
 		"path": "",
 		"img": "/src/assets/img/promo/bg/weapons/two-handed.png",
@@ -41,7 +41,7 @@
 	},
 
 	{
-		"id": "",
+		"id": "3",
 		"type": "weapons",
 		"path": "",
 		"img": "/src/assets/img/promo/bg/weapons/two-handed.png",
@@ -49,5 +49,4 @@
 		"description": "Закажите любой посох",
 		"price": 300
 	}
-
 ]

@@ -1,17 +1,17 @@
 import Wrapper  from "../../components/Wrapper";
 import Header from "../../components/Header";
 import Main from "../../components/Main";
-import WeaponsTypes from "../../components/weapons/WeaponsTypes";
+import WeaponsDetails from "../../components/weapons/WeaponsDetails";
 import Footer  from "../../components/Footer";
 import ArrowUp  from "../../components/ArrowUp";
 
 
-const WeaponsTypesPage = () => {
+const WeaponsDetailsPage = () => {
 	return (
 		<Wrapper>
 			<Header />
 			<Main>
-				<WeaponsTypes />
+				<WeaponsDetails />
 			</Main>
 			<Footer />
 			<ArrowUp />
@@ -20,4 +20,4 @@ const WeaponsTypesPage = () => {
 }
 
 
-export default WeaponsTypesPage
+export default WeaponsDetailsPage

@@ -1,8 +1,8 @@
 [
 	{
 		"id": "RazorAxe",
-		"type": "weapons",
-		"path": "axes-details",
+		
+		"path": "RazorAxe",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Razor-Axe.png",
 		"objectFit": true,
 		"title": "Бритвенно Острый Топор",
@@ -13,7 +13,7 @@
 	{
 		"id": "BlackrockSlicer",
 		"type": "weapons",
-		"path": "axes-details",
+		"path": "BlackrockSlicer",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Blackrock-Slicer.png",
 		"objectFit": true,
 		"title": "Тесак Черной Горы",
@@ -24,7 +24,7 @@
 	{
 		"id": "WallwatchersPoleaxe",
 		"type": "weapons",
-		"path": "axes-details",
+		"path": "WallwatchersPoleaxe",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Wallwatchers-Poleaxe.png",
 		"objectFit": true,
 		"title": "Алебарда Стражника Стены",
@@ -35,7 +35,7 @@
 	{
 		"id": "WallwatchersLongaxe",
 		"type": "weapons",
-		"path": "axes-details",
+		"path": "WallwatchersLongaxe",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Wallwatchers-Longaxe.png",
 		"objectFit": true,
 		"title": "Секира Стражника Стены",
@@ -46,7 +46,7 @@
 	{
 		"id": "ColossalGreatAxe",
 		"type": "weapons",
-		"path": "axes-details",
+		"path": "ColossalGreatAxe",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Colossal-Great-Axe.png",
 		"objectFit": true,
 		"title": "Колоссальный Топор",
@@ -57,7 +57,7 @@
 	{
 		"id": "LordAlexandersBattleAxe",
 		"type": "weapons",
-		"path": "axes-details",
+		"path": "LordAlexandersBattleAxe",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Lord-Alexanders-Battle-Axe.png",
 		"objectFit": true,
 		"title": "Боевой Топор Лорда Александра",
@@ -68,7 +68,7 @@
 	{
 		"id": "KangTheDecapitator",
 		"type": "weapons",
-		"path": "axes-details",
+		"path": "KangTheDecapitator",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Kang-the-Decapitator.png",
 		"objectFit": false,
 		"title": "Канг Обезглавливатель",
@@ -79,7 +79,7 @@
 	{
 		"id": "HellslayerBattleAxe",
 		"type": "weapons",
-		"path": "axes-details",
+		"path": "HellslayerBattleAxe",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Hellslayer-Battle-Axe.png",
 		"objectFit": false,
 		"title": "Боевой Топор Рубаки",
@@ -90,7 +90,7 @@
 	{
 		"id": "ArcaniteReaper",
 		"type": "weapons",
-		"path": "axes-details",
+		"path": "ArcaniteReaper",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Arcanite-Reaper.png",
 		"objectFit": false,
 		"title": "Арканитовый Жнец",
@@ -101,7 +101,7 @@
 	{
 		"id": "ArcaniteReaperSecond",
 		"type": "weapons",
-		"path": "axes-details",
+		"path": "ArcaniteReaperSecond",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Arcanite-Reaper-second.png",
 		"objectFit": false,
 		"title": "Арканитовый Потрошитель",
@@ -112,7 +112,7 @@
 	{
 		"id": "HighWarlordsBattleAxe",
 		"type": "weapons",
-		"path": "axes-details",
+		"path": "HighWarlordsBattleAxe",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/High-Warlords-Battle-Axe.png",
 		"objectFit": false,
 		"title": "Боевой Топор Верховного Вождя",
@@ -123,7 +123,7 @@
 	{
 		"id": "HellscreamsDecapitator",
 		"type": "weapons",
-		"path": "axes-details",
+		"path": "HellscreamsDecapitator",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Hellscreams-Decapitator.png",
 		"objectFit": false,
 		"title": "Лабрисса Адского Крика",
@@ -134,7 +134,7 @@
 	{
 		"id": "GrandMarshalsDecapitator",
 		"type": "weapons",
-		"path": "axes-details",
+		"path": "GrandMarshalsDecapitator",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Grand-Marshals-Decapitator.png",
 		"objectFit": false,
 		"title": "Лабрисса Главнокомандующего",
@@ -145,7 +145,7 @@
 	{
 		"id": "Nightfall",
 		"type": "weapons",
-		"path": "axes-details",
+		"path": "Nightfall",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Nightfall.png",
 		"objectFit": false,
 		"title": "Сумерки",
@@ -156,7 +156,7 @@
 	{
 		"id": "HellscreamsWill",
 		"type": "weapons",
-		"path": "axes-details",
+		"path": "HellscreamsWill",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Hellscreams-Will.png",
 		"objectFit": false,
 		"title": "Воля Адского Крика",
@@ -167,7 +167,7 @@
 	{
 		"id": "ChilledAxe",
 		"type": "weapons",
-		"path": "axes-details",
+		"path": "ChilledAxe",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Chilled-Axe.png",
 		"objectFit": false,
 		"title": "Прохладный Топор",
@@ -178,7 +178,7 @@
 	{
 		"id": "BladeOfHarbingers",
 		"type": "weapons",
-		"path": "axes-details",
+		"path": "BladeOfHarbingers",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Blade-of-Harbingers.png",
 		"objectFit": true,
 		"title": "Клинок Вестников",
@@ -189,7 +189,7 @@
 	{
 		"id": "ShadowswordVanquishersBlade",
 		"type": "weapons",
-		"path": "axes-details",
+		"path": "ShadowswordVanquishersBlade",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Shadowsword-Vanquishers-Blade.png",
 		"objectFit": true,
 		"title": "Топор Покорителя из Клана Темного Меча",
@@ -200,7 +200,7 @@
 	{
 		"id": "Bloodmoon",
 		"type": "weapons",
-		"path": "axes-details",
+		"path": "Bloodmoon",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Bloodmoon.png",
 		"objectFit": true,
 		"title": "Кровавая Луна",
@@ -211,7 +211,7 @@
 	{
 		"id": "Mooncleaver",
 		"type": "weapons",
-		"path": "axes-details",
+		"path": "Mooncleaver",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Mooncleaver.png",
 		"objectFit": true,
 		"title": "Лунный Колун",
@@ -222,7 +222,7 @@
 	{
 		"id": "DarkEdgeOfInsanity",
 		"type": "weapons",
-		"path": "axes-details",
+		"path": "DarkEdgeOfInsanity",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Dark-Edge-of-Insanity.png",
 		"objectFit": false,
 		"title": "Темное Лезвие Безумия",
@@ -233,7 +233,7 @@
 	{
 		"id": "DrakeTalonCleaver",
 		"type": "weapons",
-		"path": "axes-details",
+		"path": "DrakeTalonCleaver",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Drake-Talon-Cleaver.png",
 		"objectFit": false,
 		"title": "Колун из Драконьего Когтя",
@@ -244,7 +244,7 @@
 	{
 		"id": "DraconicAvenger",
 		"type": "weapons",
-		"path": "axes-details",
+		"path": "DraconicAvenger",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Draconic-Avenger.png",
 		"objectFit": false,
 		"title": "Драконье Возмездие",
@@ -255,7 +255,7 @@
 	{
 		"id": "GreataxeOfTheEbonBlade",
 		"type": "weapons",
-		"path": "axes-details",
+		"path": "GreataxeOfTheEbonBlade",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Great-axe-of-the-Ebon-Blade.png",
 		"objectFit": false,
 		"title": "Большой Топор Рыцаря Черного Клинка",
@@ -266,7 +266,7 @@
 	{
 		"id": "BloodiedEbonAxe",
 		"type": "weapons",
-		"path": "axes-details",
+		"path": "BloodiedEbonAxe",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Bloodied-Ebon-Axe.png",
 		"objectFit": false,
 		"title": "Окровавленный Топор Черного Клинка",
@@ -277,7 +277,7 @@
 	{
 		"id": "IcyEbonAxe",
 		"type": "weapons",
-		"path": "axes-details",
+		"path": "IcyEbonAxe",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Icy-Ebon-Axe.png",
 		"objectFit": false,
 		"title": "Ледяной Топор Черного Клинка",
@@ -288,7 +288,7 @@
 	{
 		"id": "UnholyEbonAxe",
 		"type": "weapons",
-		"path": "axes-details",
+		"path": "UnholyEbonAxe",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Unholy-Ebon-Axe.png",
 		"objectFit": false,
 		"title": "Нечестивый Топор Черного Клинка",
@@ -299,7 +299,7 @@
 	{
 		"id": "TyrannicalBeheader",
 		"type": "weapons",
-		"path": "axes-details",
+		"path": "TyrannicalBeheader",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Tyrannical-Beheader.png",
 		"objectFit": false,
 		"title": "Тиранический Главорез",
@@ -310,7 +310,7 @@
 	{
 		"id": "ScarletAxeOfAsymmetry",
 		"type": "weapons",
-		"path": "axes-details",
+		"path": "ScarletAxeOfAsymmetry",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Scarlet-Axe-of-Asymmetry.png",
 		"objectFit": false,
 		"title": "Алый Топор Асимметрии",
@@ -321,7 +321,7 @@
 	{
 		"id": "DualBladeButcher",
 		"type": "weapons",
-		"path": "axes-details",
+		"path": "DualBladeButcher",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Dual-Blade-Butcher.png",
 		"objectFit": false,
 		"title": "Двусторонний Топор Мясника",
@@ -332,7 +332,7 @@
 	{
 		"id": "SapphireAxeOfAsymmetry",
 		"type": "weapons",
-		"path": "axes-details",
+		"path": "SapphireAxeOfAsymmetry",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Sapphire-Axe-of-Asymmetry.png",
 		"objectFit": false,
 		"title": "Сапфировый Топор Асимметрии",
@@ -343,7 +343,7 @@
 	{
 		"id": "LotharsEdge",
 		"type": "weapons",
-		"path": "axes-details",
+		"path": "LotharsEdge",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Lothars-Edge.png",
 		"objectFit": false,
 		"title": "Лезвие Лотара",
@@ -354,7 +354,7 @@
 	{
 		"id": "JusticebringerNormal",
 		"type": "weapons",
-		"path": "axes-details",
+		"path": "JusticebringerNormal",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Justicebringer-normal.png",
 		"objectFit": false,
 		"title": "Творец Справедливости",
@@ -365,7 +365,7 @@
 	{
 		"id": "JusticebringerHeroic",
 		"type": "weapons",
-		"path": "axes-details",
+		"path": "JusticebringerHeroic",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Justicebringer-heroic.png",
 		"objectFit": false,
 		"title": "Творец Справедливости (Героический)",
@@ -376,7 +376,7 @@
 	{
 		"id": "RamaladnisBladeOfCullingNormal",
 		"type": "weapons",
-		"path": "axes-details",
+		"path": "RamaladnisBladeOfCullingNormal",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Ramaladnis-Blade-of-Culling-normal.png",
 		"objectFit": true,
 		"title": "Клинок Очищения Рамаладни",
@@ -387,7 +387,7 @@
 	{
 		"id": "RamaladnisBladeOfCullingHeroic",
 		"type": "weapons",
-		"path": "axes-details",
+		"path": "RamaladnisBladeOfCullingHeroic",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Ramaladnis-Blade-of-Culling-heroic.png",
 		"objectFit": true,
 		"title": "Клинок Очищения Рамаладни (Героический)",
@@ -398,7 +398,7 @@
 	{
 		"id": "WrathfulGladiatorsDecapitator",
 		"type": "weapons",
-		"path": "axes-details",
+		"path": "WrathfulGladiatorsDecapitator",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Wrathful-Gladiators-Decapitator.png",
 		"objectFit": false,
 		"title": "Лабрисса Разгневанного Гладиатора",
@@ -409,7 +409,7 @@
 	{
 		"id": "BryntrollTheBoneArbiter",
 		"type": "weapons",
-		"path": "axes-details",
+		"path": "BryntrollTheBoneArbiter",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Bryntroll-the-Bone-Arbiter.png",
 		"objectFit": false,
 		"title": "Бринтролль, Костяной Судья",
@@ -420,7 +420,7 @@
 	{
 		"id": "EverlastingBoneforgedGreataxe",
 		"type": "weapons",
-		"path": "axes-details",
+		"path": "EverlastingBoneforgedGreataxe",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Everlasting-Boneforged-Greataxe.png",
 		"objectFit": false,
 		"title": "Костяной Двуручный Топор Вечности",
@@ -431,7 +431,7 @@
 	{
 		"id": "ContaminatingCleaver",
 		"type": "weapons",
-		"path": "axes-details",
+		"path": "ContaminatingCleaver",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Contaminating-Cleaver.png",
 		"objectFit": false,
 		"title": "Загрязняющий Тесак",
@@ -442,7 +442,7 @@
 	{
 		"id": "BonegaleGreataxe",
 		"type": "weapons",
-		"path": "axes-details",
+		"path": "BonegaleGreataxe",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Bonegale-Greataxe.png",
 		"objectFit": false,
 		"title": "Большой Топор Костяного Шторма",
@@ -453,7 +453,7 @@
 	{
 		"id": "ShadowsEdge",
 		"type": "weapons",
-		"path": "axes-details",
+		"path": "ShadowsEdge",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Shadows-Edge.png",
 		"objectFit": false,
 		"title": "Грань Тьмы",
@@ -464,7 +464,7 @@
 	{
 		"id": "WhitefinAxe",
 		"type": "weapons",
-		"path": "axes-details",
+		"path": "WhitefinAxe",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Whitefin-Axe.png",
 		"objectFit": false,
 		"title": "Белоперый Топор",
@@ -475,7 +475,7 @@
 	{
 		"id": "TerminationAxe",
 		"type": "weapons",
-		"path": "axes-details",
+		"path": "TerminationAxe",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Termination-Axe.png",
 		"objectFit": false,
 		"title": "Топор Решимости",
@@ -486,7 +486,7 @@
 	{
 		"id": "PlunderedFuryFinAxe",
 		"type": "weapons",
-		"path": "axes-details",
+		"path": "PlunderedFuryFinAxe",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Plundered-Fury-Fin-Axe.png",
 		"objectFit": false,
 		"title": "Трофейный Топор Яростного Плавника",
@@ -497,7 +497,7 @@
 	{
 		"id": "RiptideSlicer",
 		"type": "weapons",
-		"path": "axes-details",
+		"path": "RiptideSlicer",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Riptide-Slicer.png",
 		"objectFit": false,
 		"title": "Рассекатель Прилива",
@@ -508,7 +508,7 @@
 	{
 		"id": "ShalugdoomTheAxeOfUnmaking",
 		"type": "weapons",
-		"path": "axes-details",
+		"path": "ShalugdoomTheAxeOfUnmaking",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Shalugdoom-the-Axe-of-Unmaking.png",
 		"objectFit": false,
 		"title": "Шалуг'дум, Топор Разрушений",
@@ -519,7 +519,7 @@
 	{
 		"id": "PlunderedWingbladeAxe",
 		"type": "weapons",
-		"path": "axes-details",
+		"path": "PlunderedWingbladeAxe",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Plundered-Wingblade-Axe.png",
 		"objectFit": false,
 		"title": "Трофейный Топор с Лезвием Крылом",
@@ -530,7 +530,7 @@
 	{
 		"id": "PhaseLostChopper",
 		"type": "weapons",
-		"path": "axes-details",
+		"path": "PhaseLostChopper",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Phase-Lost-Chopper.png",
 		"objectFit": true,
 		"title": "Межфазовый Колун",
@@ -541,7 +541,7 @@
 	{
 		"id": "SkullstealerGreataxeNormal",
 		"type": "weapons",
-		"path": "axes-details",
+		"path": "SkullstealerGreataxeNormal",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Skullstealer-Greataxe-normal.png",
 		"objectFit": true,
 		"title": "Большой Топор Головоруба",
@@ -552,7 +552,7 @@
 	{
 		"id": "SkullstealerGreataxeHeroic",
 		"type": "weapons",
-		"path": "axes-details",
+		"path": "SkullstealerGreataxeHeroic",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Skullstealer-Greataxe-heroic.png",
 		"objectFit": true,
 		"title": "Большой Топор Головоруба (Героический)",
@@ -563,7 +563,7 @@
 	{
 		"id": "ExperimentalSpecimenSlicerRaidFinder",
 		"type": "weapons",
-		"path": "axes-details",
+		"path": "ExperimentalSpecimenSlicerRaidFinder",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Experimental-Specimen-Slicer-raid-finder.png",
 		"objectFit": false,
 		"title": "Тесак для Экспериментальных Образцов (Поиск Рейда)",
@@ -574,7 +574,7 @@
 	{
 		"id": "ExperimentalSpecimenSlicerNormal",
 		"type": "weapons",
-		"path": "axes-details",
+		"path": "ExperimentalSpecimenSlicerNormal",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Experimental-Specimen-Slicer-normal.png",
 		"objectFit": false,
 		"title": "Тесак для Экспериментальных Образцов",
@@ -585,7 +585,7 @@
 	{
 		"id": "ExperimentalSpecimenSlicerHeroic",
 		"type": "weapons",
-		"path": "axes-details",
+		"path": "ExperimentalSpecimenSlicerHeroic",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Experimental-Specimen-Slicer-heroic.png",
 		"objectFit": false,
 		"title": "Тесак для Экспериментальных Образцов (Героический)",

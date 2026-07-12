@@ -16,32 +16,11 @@ import RaidsArmoursPage from './pages/raids-armours/RaidsArmoursPage.tsx'
 
 /* Оружие */
 import WeaponsPage from './pages/weapons/WeaponsPage.tsx'
-import WeaponsTypesPage from './pages/weapons/WeaponsTypesPage.tsx'
+import WeaponsDetails from "./pages/weapons/WeaponsDetailsPage.tsx";
 
 
+import AxesPage from './pages/weapons/two-handed/AxesPage.tsx'
 
-import TwoHandedAxes from "./pages/weapons/two-handed/axes/Axes.tsx";
-import TwoHandedAxesDetails from "./pages/weapons/two-handed/axes/AxesDetails.tsx";
-
-
-import Ashbringer from "./pages/weapons/legendary/weapons-details/Ashbringer.tsx";
-import Sulfuras from "./pages/weapons/legendary/weapons-details/Sulfuras.tsx";
-import Thunderfury from "./pages/weapons/legendary/weapons-details/Thunderfury.tsx";
-import Atiesh from "./pages/weapons/legendary/weapons-details/Atiesh.tsx";
-import WarglaivesOfAzzinoth from "./pages/weapons/legendary/weapons-details/WarglaivesOfAzzinoth.tsx";
-import Thoridal from "./pages/weapons/legendary/weapons-details/Thoridal.tsx";
-import Valanyr from "./pages/weapons/legendary/weapons-details/Valanyr.tsx";
-import Shadowmourne from "./pages/weapons/legendary/weapons-details/Shadowmourne.tsx";
-import Frostmourne from "./pages/weapons/legendary/weapons-details/Frostmourne.tsx";
-import Tarecgosa from "./pages/weapons/legendary/weapons-details/Tarecgosa.tsx";
-import FangsFather from "./pages/weapons/legendary/weapons-details/FangsFather.tsx";
-import RaeshalareDeathsWhisper from "./pages/weapons/legendary/weapons-details/RaeshalareDeathsWhisper.tsx";
-import FyralathTheDreamrender from "./pages/weapons/legendary/weapons-details/FyralathTheDreamrender.tsx";
-import NaszuroTheUnboundLegacy from "./pages/weapons/legendary/weapons-details/NaszuroTheUnboundLegacy.tsx";
-
-
-
-import WeaponsDetails from "./pages/weapons/legendary/weapons-details/WeaponsDetails.tsx";
 
 
 
@@ -224,12 +203,12 @@ createRoot(document.getElementById("root")!).render(
 
 				{/* Оружие*/}
 				<Route path="weapons/:weapons" element={<WeaponsPage />} />
-				<Route path="weapons/:weapons/:weaponsTypes" element={<WeaponsTypesPage />} />
 
-				{/* Оружие 2 руч топоры детально */}
-				<Route path="weapons/twohanded/axes" element={<TwoHandedAxes />} />
-				<Route path="weapons/twohanded/axes/axes-details" element={<TwoHandedAxesDetails />} />
+				{/* Детальные стр оружия */}
+				<Route path="weapons/twohanded/axes/:weaponsDetails" element={<WeaponsDetails />} />
+				<Route path="weapons/legendary/:weaponsDetails" element={<WeaponsDetails />} />
 
+				<Route path="weapons/twohanded/axes" element={<AxesPage />} />
 
 				{/* <Route path="weapons/legendary/weapons-details/ashbringer" element={<Ashbringer />} />
 				<Route path="weapons/legendary/weapons-details/sulfuras" element={<Sulfuras />} />
@@ -245,10 +224,6 @@ createRoot(document.getElementById("root")!).render(
 				<Route path="weapons/legendary/weapons-details/raeshalare-deaths-whisper" element={<RaeshalareDeathsWhisper />} />
 				<Route path="weapons/legendary/weapons-details/fyralath-the-dreamrender" element={<FyralathTheDreamrender />} />
 				<Route path="weapons/legendary/weapons-details/naszuro-the-unbound-legacy" element={<NaszuroTheUnboundLegacy />} /> */}
-
-
-
-				<Route path="weapons/legendary/weapons-details/:id" element={<WeaponsDetails />} />
 
 
 				<Route path="weapons/artifact/warrior" element={<WarriorArtifacts />} />

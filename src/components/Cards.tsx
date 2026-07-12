@@ -3,7 +3,6 @@ import { Tabs, Tab } from 'react-bootstrap';
 
 
 import Card from './Card.tsx'
-import WeaponDetails from './WeaponDetails.tsx'
 
 import dataRaces from '../json/races/races.json';
 import dataRaidsArmours from '../json/raids-armours/raids-armours.json';
@@ -305,16 +304,6 @@ const Cards = ({home, twoHandedAxes, twoHandedAxesWeaponDetails, classes, warrio
 								</div>
 							</>
 						}
-
-							{/* Двуручные топоры детально */}
-							{ twoHandedAxesWeaponDetails &&
-								<>
-
-									<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start mt-4">
-										{ renderWeaponDetails(dataTwoHandedAxes) }
-									</div>
-								</>
-							}
 					</>
 
 					{/* Таб контент броня */}
