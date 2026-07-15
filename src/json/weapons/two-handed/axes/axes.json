@@ -319,6 +319,17 @@
 	},
 
 	{
+		"id": "Severance",
+		"type": "weapons",
+		"path": "Severance",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Severance.png",
+		"objectFit": false,
+		"title": "Отсечение",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
 		"id": "DrakeTalonCleaver",
 		"type": "weapons",
 		"path": "DrakeTalonCleaver",
@@ -391,6 +402,17 @@
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Shadowsword-Vanquishers-Blade.png",
 		"objectFit": true,
 		"title": "Топор Покорителя из Клана Темного Меча",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "Legacy",
+		"type": "weapons",
+		"path": "Legacy",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Legacy.png",
+		"objectFit": true,
+		"title": "Наследие",
 		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
 		"price": 300
 	},
@@ -754,6 +776,94 @@
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Experimental-Specimen-Slicer-heroic.png",
 		"objectFit": false,
 		"title": "Тесак для Экспериментальных Образцов (Героический)",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "ArgusDecapitator",
+		"type": "weapons",
+		"path": "ArgusDecapitator",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Argus-Decapitator.png",
+		"objectFit": false,
+		"title": "Обезглавливатель Аргуса",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "FelRiddenDivider",
+		"type": "weapons",
+		"path": "FelRiddenDivider",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Fel-Ridden-Divider.png",
+		"objectFit": false,
+		"title": "Одержимый Скверной Рассекатель",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "CorruptedGladiatorsDecapitatorHorde",
+		"type": "weapons",
+		"path": "CorruptedGladiatorsDecapitatorHorde",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Corrupted-Gladiators-Decapitator-horde.png",
+		"objectFit": false,
+		"title": "Лабрисса Падшего Гладиатора (Орда)",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "CorruptedGladiatorsDecapitatorAlliance",
+		"type": "weapons",
+		"path": "CorruptedGladiatorsDecapitatorAlliance",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Corrupted-Gladiators-Decapitator-alliance.png",
+		"objectFit": false,
+		"title": "Лабрисса Падшего Гладиатора (Альянс)",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "SkshuulVazRaidFinder",
+		"type": "weapons",
+		"path": "SkshuulVazRaidFinder",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Skshuul-Vaz-raid-finder.png",
+		"objectFit": false,
+		"title": "Ск'шуул Ваз (Поиск Рейда)",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "SkshuulVazNormal",
+		"type": "weapons",
+		"path": "SkshuulVazNormal",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Skshuul-Vaz-normal.png",
+		"objectFit": false,
+		"title": "Ск'шуул Ваз",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "SkshuulVazHeroic",
+		"type": "weapons",
+		"path": "SkshuulVazHeroic",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Skshuul-Vaz-heroic.png",
+		"objectFit": false,
+		"title": "Ск'шуул Ваз (Героический)",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "SkshuulVazMythic",
+		"type": "weapons",
+		"path": "SkshuulVazMythic",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Skshuul-Vaz-mythic.png",
+		"objectFit": false,
+		"title": "Ск'шуул Ваз (Эпохальный)",
 		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
 		"price": 300
 	},
