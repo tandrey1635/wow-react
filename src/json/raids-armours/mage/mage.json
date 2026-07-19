@@ -260,6 +260,19 @@
 	},
 
 	{
+		"id": "TirisfalRegaliaRecolor",
+		"type": "mage",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/mage/Tirisfal-Regalia-recolor.png",
+		"objectFit": false,
+		"title": "Тирисфальские Регалии Путешественника из Другого Мира",
+		"description": "Кажется, сюда затесалась какая-то подозрительно похожая, но не родная броня из другого времени дополнения",
+		"descriptionTrim": "Альтернативный вариант прославленных доспехов, появившийся в иных измерениях Азерота. Обладает той же несокрушимой силой, что и оригинал, но несет в себе отпечаток другой истории.",
+		"addition": "The Burning Crusade",
+		"price": 100
+	},
+
+	{
 		"id": "TempestRegalia",
 		"type": "mage",
 		"path": "",
