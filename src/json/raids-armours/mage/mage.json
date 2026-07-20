@@ -296,5 +296,83 @@
 		"descriptionTrim": "Искуситель будет повержен! Оберните силу Солнечного Колодца против него самого!",
 		"addition": "The Burning Crusade",
 		"price": 100
+	},
+
+	{
+		"id": "HeroesFrostfireGarb",
+		"type": "mage",
+		"path": "naxxramas",
+		"img": "/src/assets/img/raids-armours/bg/mage/Heroes-Frostfire-Garb.png",
+		"objectFit": false,
+		"title": "Героические Регалии Ледяного Огня",
+		"description": "Первый комплект брони для мага из рейда 80-го уровня Наксрамас 10 игроков дополнения",
+		"descriptionTrim": "Верховный Лич вернулся! И снова будет повержен! Некромантия вам не страшна!",
+		"addition": "Wrath of the Lich King",
+		"price": 150
+	},
+
+	{
+		"id": "ValorousFrostfireGarb",
+		"type": "mage",
+		"path": "naxxramas",
+		"img": "/src/assets/img/raids-armours/bg/mage/Valorous-Frostfire-Garb.png",
+		"objectFit": false,
+		"title": "Доблестные Регалии Ледяного Огня",
+		"description": "Первый комплект брони для мага из рейда 80-го уровня Наксрамас 25 игроков дополнения",
+		"descriptionTrim": "Верховный Лич вернулся! И снова будет повержен! Некромантия вам не страшна!",
+		"addition": "Wrath of the Lich King",
+		"price": 150
+	},
+
+	{
+		"id": "ValorousKirinTorGarb",
+		"type": "mage",
+		"path": "ulduar",
+		"img": "/src/assets/img/raids-armours/bg/mage/Valorous-Kirin-Tor-Garb.png",
+		"objectFit": false,
+		"title": "Доблестный Кирин Торский Наряд",
+		"description": "Второй комплект брони для мага из рейда 80-го уровня Осада Ульдуара 10 игроков дополнения",
+		"descriptionTrim": "Бог Смерти будет повержен! Невероятная защита от безумия!",
+		"addition": "Wrath of the Lich King",
+		"price": 150
+	},
+
+	{
+		"id": "ValorousKirinTorGarbRecolor",
+		"type": "mage",
+		"path": "ulduar",
+		"img": "/src/assets/img/raids-armours/bg/mage/Valorous-Kirin-Tor-Garb-recolor.png",
+		"objectFit": false,
+		"title": "Доблестный Кирин Торский Наряд Путешественника из Другого Мира",
+		"description": "Кажется, сюда затесалась какая-то подозрительно похожая, но не родная броня из другого времени дополнения",
+		"descriptionTrim": "Альтернативный вариант прославленных доспехов, появившийся в иных измерениях Азерота. Обладает той же несокрушимой силой, что и оригинал, но несет в себе отпечаток другой истории.",
+		"addition": "Wrath of the Lich King",
+		"price": 150
+	},
+
+	{
+		"id": "ConquerorsKirinTorGarb",
+		"type": "mage",
+		"path": "ulduar",
+		"img": "/src/assets/img/raids-armours/bg/mage/Conquerors-Kirin-Tor-Garb.png",
+		"objectFit": false,
+		"title": "Кирин Торский Наряд Завоевателя",
+		"description": "Второй комплект брони для мага из рейда 80-го уровня Осада Ульдуара 25 игроков дополнения",
+		"descriptionTrim": "Бог Смерти будет повержен! Невероятная защита от безумия!",
+		"addition": "Wrath of the Lich King",
+		"price": 150
+	},
+
+	{
+		"id": "ConquerorsKirinTorGarbRecolor",
+		"type": "mage",
+		"path": "ulduar",
+		"img": "/src/assets/img/raids-armours/bg/mage/Conquerors-Kirin-Tor-Garb-recolor.png",
+		"objectFit": false,
+		"title": "Кирин Торский Наряд Завоевателя Путешественника из Другого Мира",
+		"description": "Кажется, сюда затесалась какая-то подозрительно похожая, но не родная броня из другого времени дополнения",
+		"descriptionTrim": "Альтернативный вариант прославленных доспехов, появившийся в иных измерениях Азерота. Обладает той же несокрушимой силой, что и оригинал, но несет в себе отпечаток другой истории.",
+		"addition": "Wrath of the Lich King",
+		"price": 150
 	}
 ]
