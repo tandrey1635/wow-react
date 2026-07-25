@@ -377,6 +377,32 @@
 	},
 
 	{
+		"id": "SunstridersRegalia",
+		"type": "mage",
+		"path": "trial-of-the-crusader",
+		"img": "/src/assets/img/raids-armours/bg/mage/Sunstriders-Regalia.png",
+		"objectFit": false,
+		"title": "Регалии Солнечного Скитальца",
+		"description": "Третий комплект брони для мага из рейда 80-го уровня Испытание Крестоносца 10 и 25 игроков только для Орды дополнения",
+		"descriptionTrim": "Король Азжол-Неруба будет повержен! Слава Чемпионам Серебряного Авангарда!",
+		"addition": "Wrath of the Lich King",
+		"price": 150
+	},
+
+	{
+		"id": "WrynnsBattlegear",
+		"type": "mage",
+		"path": "trial-of-the-crusader",
+		"img": "/src/assets/img/raids-armours/bg/mage/.png",
+		"objectFit": false,
+		"title": "Регалии Кадгара",
+		"description": "Третий комплект брони для мага из рейда 80-го уровня Испытание Крестоносца 10 и 25 игроков только для Альянса дополнения",
+		"descriptionTrim": "Король Азжол-Неруба будет повержен! Слава Чемпионам Серебряного Авангарда!",
+		"addition": "Wrath of the Lich King",
+		"price": 150
+	},
+
+	{
 		"id": "BloodmagesRegalia",
 		"type": "mage",
 		"path": "ice-crown-citadel",
@@ -437,6 +463,71 @@
 		"title": "Одежды Повелителя Огня",
 		"description": "Первый комплект брони для мага из рейдов 85-го уровня Твердыня Крыла Тьмы, Сумеречный Бастион и Трон Четырех Ветров героического уровня сложности дополнения",
 		"descriptionTrim": "Лорд Черной Горы, Вождь клана Сумеречного Молота и Повелитель ветра будут повержены! Культ Сумеречного Молота вам больше не страшен! Доспехи в стиле Подземья!",
+		"addition": "Cataclysm",
+		"price": 200
+	},
+
+	{
+		"id": "FirehawkRobesOfConflagrationNormal",
+		"type": "mage",
+		"path": "firelands",
+		"img": "/src/assets/img/raids-armours/bg/mage/Firehawk-Robes-of-Conflagration-normal.png",
+		"objectFit": false,
+		"title": "Воспламеняющие Одеяния Огненного Ястреба",
+		"description": "Второй комплект брони для мага из рейда 85-го уровня Огненные Просторы обычного уровня сложности дополнения",
+		"descriptionTrim": "Повелитель Огня вернулся! И снова будет повержен! Вы неуязвимы для пламени Сульфурона!",
+		"addition": "Cataclysm",
+		"price": 200
+	},
+
+	{
+		"id": "FirehawkRobesOfConflagrationHeroic",
+		"type": "mage",
+		"path": "firelands",
+		"img": "/src/assets/img/raids-armours/bg/mage/Firehawk-Robes-of-Conflagration-heroic.png",
+		"objectFit": false,
+		"title": "Воспламеняющие Одеяния Огненного Ястреба",
+		"description": "Второй комплект брони для мага из рейда 85-го уровня Огненные Просторы героического уровня сложности дополнения",
+		"descriptionTrim": "Повелитель Огня вернулся! И снова будет повержен! Вы неуязвимы для пламени Сульфурона!",
+		"addition": "Cataclysm",
+		"price": 200
+	},
+
+	{
+		"id": "TimeLordsRegaliaRaidFinder",
+		"type": "mage",
+		"path": "dragon-soul",
+		"img": "/src/assets/img/raids-armours/bg/mage/Time-Lords-Regalia-raid-finder.png",
+		"objectFit": false,
+		"title": "Регалии Повелителя Времени",
+		"description": "Третий комплект брони для мага из рейда 85-го уровня Душа Дракона режима поиска рейдов дополнения",
+		"descriptionTrim": "Аспект Смерти, Разрушитель Миров будет повержен! Броня из Чешуи самого Смертокрыла! Катаклизм отменяется!",
+		"addition": "Cataclysm",
+		"price": 200
+	},
+
+	{
+		"id": "TimeLordsRegaliaNormal",
+		"type": "mage",
+		"path": "dragon-soul",
+		"img": "/src/assets/img/raids-armours/bg/mage/Time-Lords-Regalia-normal.png",
+		"objectFit": false,
+		"title": "Регалии Повелителя Времени",
+		"description": "Третий комплект брони для мага из рейда 85-го уровня Душа Дракона обычного уровня сложности дополнения",
+		"descriptionTrim": "Аспект Смерти, Разрушитель Миров будет повержен! Броня из Чешуи самого Смертокрыла! Катаклизм отменяется!",
+		"addition": "Cataclysm",
+		"price": 200
+	},
+
+	{
+		"id": "TimeLordsRegaliaHeroic",
+		"type": "mage",
+		"path": "dragon-soul",
+		"img": "/src/assets/img/raids-armours/bg/mage/Time-Lords-Regalia-heroic.png",
+		"objectFit": false,
+		"title": "Регалии Повелителя Времени",
+		"description": "Третий комплект брони для мага из рейда 85-го уровня Душа Дракона героического уровня сложности дополнения",
+		"descriptionTrim": "Аспект Смерти, Разрушитель Миров будет повержен! Броня из Чешуи самого Смертокрыла! Катаклизм отменяется!",
 		"addition": "Cataclysm",
 		"price": 200
 	}
