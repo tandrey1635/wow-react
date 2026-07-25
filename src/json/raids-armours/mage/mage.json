@@ -377,6 +377,45 @@
 	},
 
 	{
+		"id": "BloodmagesRegalia",
+		"type": "mage",
+		"path": "ice-crown-citadel",
+		"img": "/src/assets/img/raids-armours/bg/mage/Bloodmages-Regalia.png",
+		"objectFit": false,
+		"title": "Регалии Волшебника Крови",
+		"description": "Четвертый комплект брони для мага из рейда 80-го уровня Цитадель Ледяной Короны 10 игроков обычного уровня сложности дополнения",
+		"descriptionTrim": "Король Лич будет повержен! Эту Броню носит сам Верховный Архимаг Антонидас! Свет защитит вас!",
+		"addition": "Wrath of the Lich King",
+		"price": 150
+	},
+
+	{
+		"id": "SanctifiedBloodmagesRegalia25Normal",
+		"type": "mage",
+		"path": "ice-crown-citadel",
+		"img": "/src/assets/img/raids-armours/bg/mage/Sanctified-Bloodmages-Regalia-25-normal.png",
+		"objectFit": false,
+		"title": "Освященные Регалии Волшебника Крови",
+		"description": "Четвертый комплект брони для мага из рейда 80-го уровня Цитадель Ледяной Короны 10 или 25 игроков героического/обычного уровня сложности дополнения",
+		"descriptionTrim": "Король Лич будет повержен! Эту Броню носит сам Верховный Архимаг Антонидас! Свет защитит вас!",
+		"addition": "Wrath of the Lich King",
+		"price": 150
+	},
+
+	{
+		"id": "SanctifiedBloodmagesRegalia25Heroic",
+		"type": "mage",
+		"path": "ice-crown-citadel",
+		"img": "/src/assets/img/raids-armours/bg/mage/Sanctified-Bloodmages-Regalia-25-heroic.png",
+		"objectFit": false,
+		"title": "Освященные Регалии Волшебника Крови",
+		"description": "Четвертый комплект брони для мага из рейда 80-го уровня Цитадель Ледяной Короны 25 игроков героического уровня сложности дополнения",
+		"descriptionTrim": "Король Лич будет повержен! Эту Броню носит сам Верховный Архимаг Антонидас! Свет защитит вас!",
+		"addition": "Wrath of the Lich King",
+		"price": 150
+	},
+
+	{
 		"id": "FirelordsVestmentsNormal",
 		"type": "mage",
 		"path": "tier-eleven",
