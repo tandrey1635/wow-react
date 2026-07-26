@@ -390,10 +390,10 @@
 	},
 
 	{
-		"id": "WrynnsBattlegear",
+		"id": "KhadgarsRegalia",
 		"type": "mage",
 		"path": "trial-of-the-crusader",
-		"img": "/src/assets/img/raids-armours/bg/mage/.png",
+		"img": "/src/assets/img/raids-armours/bg/mage/Khadgars-Regalia.png",
 		"objectFit": false,
 		"title": "Регалии Кадгара",
 		"description": "Третий комплект брони для мага из рейда 80-го уровня Испытание Крестоносца 10 и 25 игроков только для Альянса дополнения",
