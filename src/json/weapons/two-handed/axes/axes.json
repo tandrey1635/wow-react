@@ -935,6 +935,72 @@
 	},
 
 	{
+		"id": "TyrannicalGladiatorsDecapitatorHorde",
+		"type": "weapons",
+		"path": "TyrannicalGladiatorsDecapitatorHorde",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Tyrannical-Gladiators-Decapitator-horde.png",
+		"objectFit": false,
+		"title": "Лабрисса Деспотичного Гладиатора (Орда)",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "TyrannicalGladiatorsDecapitatorAlliance",
+		"type": "weapons",
+		"path": "TyrannicalGladiatorsDecapitatorAlliance",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Tyrannical-Gladiators-Decapitator-alliance.png",
+		"objectFit": false,
+		"title": "Лабрисса Деспотичного Гладиатора (Альянс)",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "TyrannicalGladiatorsDecapitatorElite",
+		"type": "weapons",
+		"path": "TyrannicalGladiatorsDecapitatorElite",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Tyrannical-Gladiators-Decapitator-elite.png",
+		"objectFit": false,
+		"title": "Лабрисса Деспотичного Гладиатора (Элитный)",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "PrimalGladiatorsDecapitatorHorde",
+		"type": "weapons",
+		"path": "PrimalGladiatorsDecapitatorHorde",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Primal-Gladiators-Decapitator-horde.png",
+		"objectFit": false,
+		"title": "Лабрисса Необузданного Гладиатора (Орда)",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "PrimalGladiatorsDecapitatorAlliance",
+		"type": "weapons",
+		"path": "PrimalGladiatorsDecapitatorAlliance",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Primal-Gladiators-Decapitator-alliance.png",
+		"objectFit": false,
+		"title": "Лабрисса Необузданного Гладиатора (Альянс)",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "PrimalGladiatorsDecapitatorElite",
+		"type": "weapons",
+		"path": "PrimalGladiatorsDecapitatorElite",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Primal-Gladiators-Decapitator-elite.png",
+		"objectFit": false,
+		"title": "Лабрисса Необузданного Гладиатора (Элитный)",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
 		"id": "ArgusDecapitator",
 		"type": "weapons",
 		"path": "ArgusDecapitator",
@@ -1040,6 +1106,28 @@
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Valdrakken-Guards-Skullsplitter.png",
 		"objectFit": false,
 		"title": "Головоруб Стражи Вальдраккена",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "BackdraftCleaver",
+		"type": "weapons",
+		"path": "BackdraftCleaver",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Backdraft-Cleaver.png",
+		"objectFit": false,
+		"title": "Колун Обратного Потока",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "ObsidianGuardsSkullsplitter",
+		"type": "weapons",
+		"path": "ObsidianGuardsSkullsplitter",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Obsidian-Guards-Skullsplitter.png",
+		"objectFit": false,
+		"title": "Головоруб Обсидиановой Стражи",
 		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
 		"price": 300
 	},
