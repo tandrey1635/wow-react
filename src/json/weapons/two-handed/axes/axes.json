@@ -935,6 +935,28 @@
 	},
 
 	{
+		"id": "ViciousGladiatorsDecapitator",
+		"type": "weapons",
+		"path": "ViciousGladiatorsDecapitator",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Vicious-Gladiators-Decapitator.png",
+		"objectFit": false,
+		"title": "Лабрисса Яростного Гладиатора",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "ViciousGladiatorsDecapitatorElite",
+		"type": "weapons",
+		"path": "ViciousGladiatorsDecapitatorElite",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Vicious-Gladiators-Decapitator-elite.png",
+		"objectFit": false,
+		"title": "Лабрисса Яростного Гладиатора (Элитный)",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
 		"id": "TyrannicalGladiatorsDecapitatorHorde",
 		"type": "weapons",
 		"path": "TyrannicalGladiatorsDecapitatorHorde",
@@ -1161,6 +1183,28 @@
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Lamplighters-Greataxe.png",
 		"objectFit": false,
 		"title": "Большой Топор Фонарщика",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "AnubarashsColossalMandibleRaidFinder",
+		"type": "weapons",
+		"path": "AnubarashsColossalMandibleRaidFinder",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Anubarashs-Colossal-Mandible-raid-finder.png",
+		"objectFit": false,
+		"title": "Огромная Челюсть Ануб'араша (Поиск Рейда)",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "AnubarashsColossalMandibleNormal",
+		"type": "weapons",
+		"path": "AnubarashsColossalMandibleNormal",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Anubarashs-Colossal-Mandible-normal.png",
+		"objectFit": false,
+		"title": "Огромная Челюсть Ануб'араша",
 		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
 		"price": 300
 	}

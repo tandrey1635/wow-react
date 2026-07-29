@@ -1144,6 +1144,17 @@
 	},
 
 	{
+		"id": "ThunderhoofCelestial",
+		"type": "fly-mounts",
+		"path": "",
+		"img": "/src/assets/img/mounts/bg/fly/Thunderhoof-Celestial.png",
+		"objectFit": false,
+		"title": "Громокопытный Небожитель",
+		"description": "Когда Властелин Грома был повержен, его угасающий грохот слился с духом белого дракона. Он летит в вихре лазурных молний, взвивая облака — где была тирания, теперь льется благодатный свет. Источник: Внутриигровой магазин.",
+		"price": 300
+	},
+
+	{
 		"id": "ThunderdrumMisfire",
 		"type": "fly-mounts",
 		"path": "",
@@ -1386,15 +1397,24 @@
 	},
 
 	{
-		"id": "6",
-		"className": "card-mounts card-mounts-fly",
+		"id": "Feldrake",
+		"type": "fly-mounts",
 		"path": "",
-		"cardImg": "/src/assets/img/mounts/bg/fly/.png",
-		"titleClassName": "card-title-mounts card-title-mounts-fly",
+		"img": "/src/assets/img/mounts/bg/fly/Feldrake.png",
+		"objectFit": false,
 		"title": "Дракон Скверны",
-		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "1",
-		"priceClassName": "card-price-mounts card-price-mounts-fly",
+		"description": "Тысячу лет назад этот доблестный дракон сражался с Пылающим Легионом, но скверна взяла верх, когда его тело более не смогло сопротивляться демонической магии.  Источник: Промоакция (лут-код третьего уровня из издания коллекционной карточной игры World of Warcraft: Trading Card Game War of the Ancients. Вероятность получения: 0.41%).",
+		"price": 300
+	},
+
+	{
+		"id": "NetherSweptDrake",
+		"type": "fly-mounts",
+		"path": "",
+		"img": "/src/assets/img/mounts/bg/fly/Nether-Swept-Drake.png",
+		"objectFit": false,
+		"title": "Дракон Скиталец Пустоты",
+		"description": "Потерялся в Пустоте, нашелся у вас. Профессия: Рыбная ловля. Места рыбной ловли: Буря Бездны.",
 		"price": 300
 	},
 
@@ -1405,20 +1425,18 @@
 		"img": "/src/assets/img/mounts/bg/fly/Sunreaver-Dragonhawk.png",
 		"objectFit": false,
 		"title": "Дракондор Похитителей Солнца",
-		"description": "Похитители Солнца из Даларана седлают только самых быстрых и грозных дракондоров.  Фракция: Орда. Торговец: Васарин Красный Рассвет. Зона: Серебряный Турнир, Ледяная Корона.",
+		"description": "Похитители Солнца из Даларана седлают только самых быстрых и грозных дракондоров. Фракция: Орда. Торговец: Васарин Красный Рассвет. Зона: Серебряный Турнир, Ледяная Корона.",
 		"price": 300
 	},
 
 	{
-		"id": "8",
-		"className": "card-mounts card-mounts-fly",
+		"id": "DarkmoonDirigible",
+		"type": "fly-mounts",
 		"path": "",
-		"cardImg": "/src/assets/img/mounts/bg/fly/.png",
-		"titleClassName": "card-title-mounts card-title-mounts-fly",
+		"img": "/src/assets/img/mounts/bg/fly/Darkmoon-Dirigible.png",
+		"objectFit": false,
 		"title": "Дриблежабль Новолуния",
-		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "1",
-		"priceClassName": "card-price-mounts card-price-mounts-fly",
+		"description": "Сайлас вначале хотел использовать свой флот дирижаблей в ходе маркетинговой кампании, но потом решил, что лучшей маркетинговой кампанией будет выставить дирижабли на продажу. Торговец: Лахра. Зона: Остров Новолуния.",
 		"price": 300
 	},
 
@@ -1456,15 +1474,35 @@
 	},
 
 	{
-		"id": "12",
-		"className": "card-mounts card-mounts-fly",
+		"id": "IronReinsOfTheBloodthirstyWarWyrmArms",
+		"type": "fly-mounts",
 		"path": "",
-		"cardImg": "/src/assets/img/mounts/bg/fly/.png",
-		"titleClassName": "card-title-mounts card-title-mounts-fly",
+		"img": "/src/assets/img/mounts/bg/fly/Iron-Reins-of-the-Bloodthirsty-War-Wyrm-arms.png",
+		"objectFit": false,
 		"title": "Железные Поводья Кровожадного Боевого Змея",
-		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "1",
-		"priceClassName": "card-price-mounts card-price-mounts-fly",
+		"description": "Также отзывается на Мистера Кусаку. Классовый маунт Воина. Специализация: Оружие. Награда за задание: Испытание Ярости.",
+		"price": 300
+	},
+
+	{
+		"id": "IronReinsOfTheBloodthirstyWarWyrmArmsFury",
+		"type": "fly-mounts",
+		"path": "",
+		"img": "/src/assets/img/mounts/bg/fly/Iron-Reins-of-the-Bloodthirsty-War-Wyrm-fury.png",
+		"objectFit": false,
+		"title": "Железные Поводья Кровожадного Боевого Змея",
+		"description": "Также отзывается на Мистера Кусаку. Классовый маунт Воина. Специализация: Неистовство. Награда за задание: Испытание Ярости.",
+		"price": 300
+	},
+
+	{
+		"id": "IronReinsOfTheBloodthirstyWarWyrmProtection",
+		"type": "fly-mounts",
+		"path": "",
+		"img": "/src/assets/img/mounts/bg/fly/Iron-Reins-of-the-Bloodthirsty-War-Wyrm-protection.png",
+		"objectFit": false,
+		"title": "Железные Поводья Кровожадного Боевого Змея",
+		"description": "Также отзывается на Мистера Кусаку. Классовый маунт Воина. Специализация: Защита. Награда за задание: Испытание Ярости.",
 		"price": 300
 	},
 
@@ -1981,7 +2019,7 @@
 		"img": "/src/assets/img/mounts/bg/fly/X-51-Nether-Rocket-X-TREME.png",
 		"objectFit": false,
 		"title": "ИКС ключительная Ракета Пустоты X-51",
-		"description": "Недостаток безопасности с лихвой компенсируется скоростью и дизайном этой модели. Не для слабонервных. Источник: Промоакция (лут-код третьего уровня из издания коллекционной карточной игры World of Warcraft: Trading Card Game Servants of the Betrayer. Вероятность получения: 0.41%).",
+		"description": "Недостаток безопасности с лихвой компенсируется скоростью и дизайном этой модели. Не для слабонервных. Источник: Промоакция (лут код третьего уровня из издания коллекционной карточной игры World of Warcraft: Trading Card Game Servants of the Betrayer. Вероятность получения: 0.41%).",
 		"price": 300
 	},
 
