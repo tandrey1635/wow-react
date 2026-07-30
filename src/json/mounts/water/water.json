@@ -121,6 +121,17 @@
 	},
 
 	{
+		"id": "UnderlightCorruptedBehemoth",
+		"type": "water-mounts",
+		"path": "",
+		"img": "/src/assets/img/mounts/bg/fly/Underlight-Corrupted-Behemoth.png",
+		"objectFit": false,
+		"title": "Зараженный Левиафан Удильщик",
+		"description": "Свет от седла помогает зараженному левиафану приманивать добычу. Источник: Торговая лавка.",
+		"price": 300
+	},
+
+	{
 		"id": "SurfJelly",
 		"type": "water-mounts",
 		"path": "",
