@@ -1507,15 +1507,13 @@
 	},
 
 	{
-		"id": "13",
-		"className": "card-mounts card-mounts-fly",
+		"id": "IronReinsOfTheFelscornedWarWyrm",
+		"type": "fly-mounts",
 		"path": "",
-		"cardImg": "/src/assets/img/mounts/bg/fly/.png",
-		"titleClassName": "card-title-mounts card-title-mounts-fly",
+		"img": "/src/assets/img/mounts/bg/fly/Iron-Reins-of-the-Felscorned-War-Wyrm.png",
+		"objectFit": false,
 		"title": "Железные Поводья Отвергнутого Скверной Боевого Змея",
-		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "1",
-		"priceClassName": "card-price-mounts card-price-mounts-fly",
+		"description": "Небеса трепещут в ожидании вашего появления. Классовый маунт Воина. Событие: WoW Remix: Legion.",
 		"price": 300
 	},
 
