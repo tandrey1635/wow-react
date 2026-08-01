@@ -132,6 +132,28 @@
 	},
 
 	{
+		"id": "ViciousElectroEelHorde",
+		"type": "water-mounts",
+		"path": "",
+		"img": "/src/assets/img/mounts/bg/water/Vicious-Electro-Eel-horde.png",
+		"objectFit": false,
+		"title": "Злобный Электрический Угорь (Орда)",
+		"description": "Эти морские чудища обожают терзать бойцов Альянса разрядами электричества.  Источник: Сезонная награда за победы на рейтинговых аренах и полях боя The War Within, 2-й сезон.",
+		"price": 300
+	},
+
+	{
+		"id": "ViciousElectroEelAlliance",
+		"type": "water-mounts",
+		"path": "",
+		"img": "/src/assets/img/mounts/bg/water/Vicious-Electro-Eel-alliance.png",
+		"objectFit": false,
+		"title": "Злобный Электрический Угорь (Альянс)",
+		"description": "Эти морские чудища обожают терзать бойцов Орды разрядами электричества. Источник: Сезонная награда за победы на рейтинговых аренах и полях боя The War Within, 2-й сезон.",
+		"price": 300
+	},
+
+	{
 		"id": "SurfJelly",
 		"type": "water-mounts",
 		"path": "",
