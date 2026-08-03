@@ -2151,7 +2151,7 @@
 		"img": "/src/assets/img/mounts/bg/fly/Keys-to-the-Explorers-Jungle-Hopper.png",
 		"objectFit": false,
 		"title": "Ключи от Джунглелета Исследователя",
-		"description": "Для случаев, когда аварийная посадка посреди неведомых болот — ваш единственный шанс добраться до того самого древнего храма. Промоакция Пригласи друга.",
+		"description": "Для случаев, когда аварийная посадка посреди неведомых болот — ваш единственный шанс добраться до того самого древнего храма. Источник: Промоакция Пригласи друга.",
 		"price": 300
 	},
 
@@ -2189,158 +2189,145 @@
 	},
 
 	{
-		"id": "55",
-		"className": "card-mounts card-mounts-fly",
+		"id": "FlyingCarpet",
+		"type": "fly-mounts",
 		"path": "",
-		"cardImg": "/src/assets/img/mounts/bg/fly/.png",
-		"titleClassName": "card-title-mounts card-title-mounts-fly",
+		"img": "/src/assets/img/mounts/bg/fly/Flying-Carpet.png",
+		"objectFit": true,
 		"title": "Ковер Самолет",
-		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "1",
-		"priceClassName": "card-price-mounts card-price-mounts-fly",
+		"description": "Прыгайте на летающий ковер, чтобы вознестись над сияющим, бесконечно прекрасным Азеротом. Профессия: Портняжное дело.",
 		"price": 300
 	},
 
 	{
-		"id": "56",
-		"className": "card-mounts card-mounts-fly",
+		"id": "Hooktalon",
+		"type": "fly-mounts",
 		"path": "",
-		"cardImg": "/src/assets/img/mounts/bg/fly/.png",
-		"titleClassName": "card-title-mounts card-title-mounts-fly",
+		"img": "/src/assets/img/mounts/bg/fly/Hooktalon.png",
+		"objectFit": false,
 		"title": "Когтекрюк",
-		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "1",
-		"priceClassName": "card-price-mounts card-price-mounts-fly",
+		"description": "Раньше Когтекрюк плавал с пиратами Кровавого Паруса, потом — с пиратами Черноводья. Но затем ему захотелось узнать, какие сокровища можно найти за пределами морей. Cобытие: Пиратская буря.",
 		"price": 300
 	},
 
 	{
-		"id": "57",
-		"className": "card-mounts card-mounts-fly",
+		"id": "Hivemind",
+		"type": "fly-mounts",
 		"path": "",
-		"cardImg": "/src/assets/img/mounts/bg/fly/.png",
-		"titleClassName": "card-title-mounts card-title-mounts-fly",
+		"img": "/src/assets/img/mounts/bg/fly/Hivemind.png",
+		"objectFit": false,
 		"title": "Коллективный Разум",
-		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "1",
-		"priceClassName": "card-price-mounts card-price-mounts-fly",
+		"description": "Истинное единение умов. Источник: Коллективный Разум.",
 		"price": 300
 	},
 
 	{
-		"id": "58",
-		"className": "card-mounts card-mounts-fly",
+		"id": "WildseedCradle",
+		"type": "fly-mounts",
 		"path": "",
-		"cardImg": "/src/assets/img/mounts/bg/fly/.png",
-		"titleClassName": "card-title-mounts card-title-mounts-fly",
+		"img": "/src/assets/img/mounts/bg/fly/Wildseed-Cradle.png",
+		"objectFit": false,
 		"title": "Колыбель Дикого Семени",
-		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "1",
-		"priceClassName": "card-price-mounts card-price-mounts-fly",
+		"description": "Эта повозка с любовью вырезана для того, чтобы перевозить самый ценный груз в Арденвельде, дикие семена. Она наполнена анимой, благодаря чему парит на небольшом расстоянии от земли. Источник: Тайник луны. Зона: Арденвельд.",
 		"price": 300
 	},
 
 	{
-		"id": "59",
-		"className": "card-mounts card-mounts-fly",
+		"id": "CoralStalkerWaveray",
+		"type": "fly-mounts",
 		"path": "",
-		"cardImg": "/src/assets/img/mounts/bg/fly/.png",
-		"titleClassName": "card-title-mounts card-title-mounts-fly",
+		"img": "/src/assets/img/mounts/bg/fly/Coral-Stalker-Waveray.png",
+		"objectFit": false,
 		"title": "Коралловый Скат Волнорез",
-		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "1",
-		"priceClassName": "card-price-mounts card-price-mounts-fly",
+		"description": "Этот вид скатов приспособился к охоте среди ярких кораллов в теплых морях. Источник: Промоакция (к 20 летней годовщине игры World of Warcraft компания Razer выпустила набор тематических физических товаров. При покупке этих товаров к каждому из них дополнительно прилагается код на получение внутриигровой награды), Торговая лавка.",
 		"price": 300
 	},
 
 	{
-		"id": "60",
-		"className": "card-mounts card-mounts-fly",
+		"id": "GrandmastersRoyalBoard",
+		"type": "fly-mounts",
 		"path": "",
-		"cardImg": "/src/assets/img/mounts/bg/fly/.png",
-		"titleClassName": "card-title-mounts card-title-mounts-fly",
+		"img": "/src/assets/img/mounts/bg/fly/Grandmasters-Royal-Board.png",
+		"objectFit": true,
 		"title": "Королевская Доска Гроссмейстера",
-		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "1",
-		"priceClassName": "card-price-mounts card-price-mounts-fly",
+		"description": "Всегда двигайтесь вперед и смотрите на пешек свысока. Источник: Торговая лавка.",
 		"price": 300
 	},
 
 	{
-		"id": "61",
-		"className": "card-mounts card-mounts-fly",
+		"id": "VulpineFamiliar",
+		"type": "fly-mounts",
 		"path": "",
-		"cardImg": "/src/assets/img/mounts/bg/fly/.png",
-		"titleClassName": "card-title-mounts card-title-mounts-fly",
+		"img": "/src/assets/img/mounts/bg/fly/Vulpine-Familiar.png",
+		"objectFit": false,
 		"title": "Космический Лис",
-		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "1",
-		"priceClassName": "card-price-mounts card-price-mounts-fly",
+		"description": "Эти поразительно смышленые существа отличаются любопытством, которое подтолкнуло их к странствиям через Великую запредельную Тьму и в конце концов привело на Азерот. Они ценят дружбу и любят приключения, поэтому охотно сопровождают героев этого мира. Источник: Внутриигровой магазин.",
 		"price": 300
 	},
 
 	{
-		"id": "62",
-		"className": "card-mounts card-mounts-fly",
+		"id": "BonesewnFleshroc",
+		"type": "fly-mounts",
 		"path": "",
-		"cardImg": "/src/assets/img/mounts/bg/fly/.png",
-		"titleClassName": "card-title-mounts card-title-mounts-fly",
-		"title": "Костекрыл Вестника Смерти",
-		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "1",
-		"priceClassName": "card-price-mounts card-price-mounts-fly",
-		"price": 300
-	},
-
-	{
-		"id": "63",
-		"className": "card-mounts card-mounts-fly",
-		"path": "",
-		"cardImg": "/src/assets/img/mounts/bg/fly/.png",
-		"titleClassName": "card-title-mounts card-title-mounts-fly",
+		"img": "/src/assets/img/mounts/bg/fly/Bonesewn-Fleshroc-1.png",
+		"objectFit": false,
 		"title": "Костервятник",
-		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "1",
-		"priceClassName": "card-price-mounts card-price-mounts-fly",
+		"description": "Только самые опытные сшиватели плоти, хорошо владеющие магией Малдраксуса, могут создавать таких огромных некрорухов. Источник: Сшивание поганищ. Ковенант: Некролорды. Зона: Малдраксус.",
 		"price": 300
 	},
 
 	{
-		"id": "64",
-		"className": "card-mounts card-mounts-fly",
+		"id": "IvoryGoliathus",
+		"type": "fly-mounts",
 		"path": "",
-		"cardImg": "/src/assets/img/mounts/bg/fly/.png",
-		"titleClassName": "card-title-mounts card-title-mounts-fly",
+		"img": "/src/assets/img/mounts/bg/fly/Ivory-Goliathus.png",
+		"objectFit": false,
 		"title": "Костяной Голиаф",
-		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "1",
-		"priceClassName": "card-price-mounts card-price-mounts-fly",
+		"description": "Эти гигантские жуки обитают в самых темных туннелях Каз Алгара. Хотя до них не доходит ни малейшего проблеска даже искусственного света, они прекрасно себя чувствуют. Награда за достижение: Слава Знатоку Вылазок The War Within.",
 		"price": 300
 	},
 
 	{
-		"id": "65",
-		"className": "card-mounts card-mounts-fly",
+		"id": "PreyseekersNightmare",
+		"type": "fly-mounts",
 		"path": "",
-		"cardImg": "/src/assets/img/mounts/bg/fly/.png",
-		"titleClassName": "card-title-mounts card-title-mounts-fly",
+		"img": "/src/assets/img/mounts/bg/fly/Preyseekers-Nightmare.png",
+		"objectFit": false,
+		"title": "Кошмар Охотника",
+		"description": "Золотистые маназмеи — довольно редкое явление. Асталор хотел увеличить их численность, проводя эксперименты на стороне. Награда за достижение: Добыча: кошмарный режим III.",
+		"price": 300
+	},
+
+	{
+		"id": "RedRidingNetherRay",
+		"type": "fly-mounts",
+		"path": "",
+		"img": "/src/assets/img/mounts/bg/fly/Red-Riding-Nether-Ray.png",
+		"objectFit": false,
 		"title": "Красный Верховой Скат Пустоты",
-		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "1",
-		"priceClassName": "card-price-mounts card-price-mounts-fly",
+		"description": "Верховые скаты — одни из самых надежных и универсальных верховых животных в Запределье и за его границами. Фракция: Стражи Небес Ша'тар. Торговец: Грелла. Зона: Лес Тероккар (Запределье).",
 		"price": 300
 	},
 
 	{
-		"id": "66",
-		"className": "card-mounts card-mounts-fly",
+		"id": "RedDragonhawk",
+		"type": "fly-mounts",
 		"path": "",
-		"cardImg": "/src/assets/img/mounts/bg/fly/.png",
-		"titleClassName": "card-title-mounts card-title-mounts-fly",
+		"img": "/src/assets/img/mounts/bg/fly/Red-Dragonhawk.png",
+		"objectFit": false,
 		"title": "Красный Дракондор",
-		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "1",
-		"priceClassName": "card-price-mounts card-price-mounts-fly",
+		"description": "Дракондоры являются одними из самых смертоносных хищников среди известных в мире. Они способны обнаружить добычу с огромного расстояния, кинуться на нее и распотрошить когтями и клювом. Фракция: Орда. Награда за достижение: Не имей 100 рублей, а имей 100 коней.",
+		"price": 300
+	},
+
+	{
+		"id": "VibrantPetalwing",
+		"type": "fly-mounts",
+		"path": "",
+		"img": "/src/assets/img/mounts/bg/fly/Vibrant-Petalwing.png",
+		"objectFit": false,
+		"title": "Красочный Перецветник",
+		"description": "Красочный перецветник, приковывающий к себе взгляды благодаря потрясающему розовому оттенку, приобрел его, питаясь нектаром различных растений. Источник: Редкие существа Харандара.",
 		"price": 300
 	},
 
@@ -2367,6 +2354,17 @@
 		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
 		"description": "1",
 		"priceClassName": "card-price-mounts card-price-mounts-fly",
+		"price": 300
+	},
+
+	{
+		"id": "BloodedSnapvine",
+		"type": "fly-mounts",
+		"path": "",
+		"img": "/src/assets/img/mounts/bg/fly/Blooded-Snapvine.png",
+		"objectFit": false,
+		"title": "Кровавая Диколоза",
+		"description": "Обычные диколозы — тоже опасные твари, но как оказалось, подземные виды еще и летают. Яркий заметный окрас — признак того, что это существо недавного кого-то съело. Источник: Торговая лавка.",
 		"price": 300
 	},
 
