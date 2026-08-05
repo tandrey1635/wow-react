@@ -1,4 +1,7 @@
 import { useParams, Link } from "react-router"
+import useFancybox from "../../ts/useFancyBox";
+
+
 import Card from '../Card.tsx'
 import Search from '../Search.tsx'
 
@@ -16,6 +19,8 @@ const MountsDetails = () => {
 	const { id } = useParams()
 
 	const [search, setSearch] = useState('Багровый Бурунный Конек')
+
+	const [fancyboxRef] = useFancybox({})
 
 	const mounts = dataMountsDetails.find(mount => {
   		const result = mount.id.toLowerCase().replace('mounts', '') === id
@@ -145,7 +150,7 @@ const MountsDetails = () => {
 						}
 					</h2>
 
-					<div className="cards__wrapper d-flex flex-wrap justify-content-center justify-content-xl-start mt-5">
+					<div ref={fancyboxRef} className="cards__wrapper d-flex flex-wrap justify-content-center justify-content-xl-start mt-5">
 						{
 							mounts.type === "water-mounts"
 								? renderCardItems(dataWaterMounts)

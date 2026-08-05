@@ -15,6 +15,7 @@ interface ICard {
 	classes?: classes,
 	price: number,
 	gold?: boolean,
+	noFancybox?: boolean
 }
 
 

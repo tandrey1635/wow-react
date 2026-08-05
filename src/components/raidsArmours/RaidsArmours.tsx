@@ -1,5 +1,6 @@
 import { useParams, Link } from "react-router";
 import { Tabs, Tab } from 'react-bootstrap';
+import useFancybox from "../../ts/useFancyBox";
 import Card from '../Card.tsx'
 
 
@@ -21,8 +22,8 @@ import dataShamanRaidArmours from '../../json/raids-armours/shaman/shaman.json';
 
 
 const RaidsArmours = ()=> {
-
 	const { raidsArmours } = useParams()
+	const [fancyboxRef] = useFancybox({})
 
 	const raidsArmour = dataRaidsArmours.find(raidArmour => raidArmour.id.toLowerCase() === raidsArmours)
 
@@ -221,7 +222,7 @@ const RaidsArmours = ()=> {
 						}
 					</h2>
 
-					<div className="cards__wrapper d-flex flex-wrap justify-content-center justify-content-xl-start mt-5">
+					<div ref={fancyboxRef} className="cards__wrapper d-flex flex-wrap justify-content-center justify-content-xl-start mt-5">
 						{
 							raidsArmour.type === "warrior"
 								? renderCardItems(dataWarriorRaidArmours)
