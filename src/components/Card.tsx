@@ -2,7 +2,8 @@ import { Link } from "react-router";
 import type { ICard } from "../types/card-types";
 
 
-const Card = ({type, path, img, objectFit, title, description, descriptionTrim, addition, classes, price}: ICard) => {
+const Card = ({type, path, img, objectFit, title, description, descriptionTrim, addition, classes, price, noFancybox}: ICard) => {
+
 	return (
 		<div className={`card ${
 			type === "races"
@@ -137,7 +138,10 @@ const Card = ({type, path, img, objectFit, title, description, descriptionTrim, 
 			}`
 		}>
 
-			<Link to={path}>
+			<Link to={!noFancybox ? img	: path}
+				data-fancybox="gallery"
+				data-caption={title}
+			>
 				<img src={img} className={`card-img ${
 					objectFit
 						? "card-img-object-fit"

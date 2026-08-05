@@ -2,6 +2,11 @@ import { Link } from "react-router";
 import { Tabs, Tab } from 'react-bootstrap';
 
 
+
+import useFancybox from "../ts/useFancyBox";
+import "@fancyapps/ui/dist/fancybox/fancybox.css";
+
+
 import Card from './Card.tsx'
 
 import dataRaces from '../json/races/races.json';
@@ -118,7 +123,6 @@ import type { ICard }  from "../types/card-types";
 
 const Cards = ({home, twoHandedAxes, twoHandedAxesWeaponDetails, classes, warriorArtifacts, druidArtifacts, priestArtifacts, mageArtifacts, monkArtifacts, hunterArtifacts, demonHunterArtifacts, paladinArtifacts, rogueArtifacts, deathKnightArtifacts, warlockArtifacts, shamanArtifacts, armsWarrior, furyWarrior, protectionWarrior, legendaryArmours, cloaks, mining, blacksmithing, cooking, fishing, firstAid, additionsDungeons, additionsRaids, dungeonsClassic, dungeonsBurningCrusade, dungeonsWrathOfTheLichKing, dungeonsCataclysm, dungeonsMistsOfPandaria, dungeonsWarlordsOfDraenor, dungeonsLegion, dungeonsBattleForAzeroth, dungeonsShadowlands, dungeonsDragonflight, dungeonsWarWithin, dungeonsMidnight, dungeonsLastTitan, raidsClassic, raidsBurningCrusade, raidsWrathOfTheLichKing, raidsCataclysm, raidsMistsOfPandaria, raidsWarlordsOfDraenor, raidsLegion, raidsBattleForAzeroth, raidsShadowlands, raidsDragonflight, raidsWarWithin, raidsMidnight, raidsLastTitan, legacy, greatFeats, wowAnniversary, wowCollectionEditions}) => {
 
-
 	const counterCardItems = (dataJson: ICard[]) => dataJson.length
 
 	const renderCardItems = (dataJson: ICard[]) => dataJson.map(card=> {
@@ -135,6 +139,7 @@ const Cards = ({home, twoHandedAxes, twoHandedAxesWeaponDetails, classes, warrio
 				descriptionTrim={card.descriptionTrim}
 				title={card.title}
 				price={card.price}
+				noFancybox
 			/>
 		)
 	})
