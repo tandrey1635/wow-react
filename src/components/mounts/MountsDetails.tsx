@@ -1,18 +1,18 @@
-import { useParams, Link } from "react-router"
-import useFancybox from "../../ts/useFancyBox";
+import { Link, useParams } from "react-router";
+import useFancybox from "../../ts/useFancybox.ts";
 
 
-import Card from '../Card.tsx'
-import Search from '../Search.tsx'
+import Card from '../Card.tsx';
+import Search from '../Search.tsx';
 
-import dataMountsDetails from '../../json/mounts/mounts-details.json'
-import dataWaterMounts from '../../json/mounts/water/water.json';
 import dataEarthMounts from '../../json/mounts/earth/earth.json';
 import dataFlyMounts from '../../json/mounts/fly/fly.json';
+import dataMountsDetails from '../../json/mounts/mounts-details.json';
+import dataWaterMounts from '../../json/mounts/water/water.json';
 
 
-import type { ICard } from '../../types/card-types.ts'
 import { useState } from "react";
+import type { ICard } from '../../types/card-types.ts';
 
 
 const MountsDetails = () => {

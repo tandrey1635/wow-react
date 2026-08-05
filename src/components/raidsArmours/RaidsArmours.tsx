@@ -1,24 +1,24 @@
-import { useParams, Link } from "react-router";
-import { Tabs, Tab } from 'react-bootstrap';
-import useFancybox from "../../ts/useFancyBox";
-import Card from '../Card.tsx'
+import { Tab, Tabs } from 'react-bootstrap';
+import { Link, useParams } from "react-router";
+import useFancybox from "../../ts/useFancybox";
+import Card from '../Card.tsx';
 
 
-import dataRaidsArmours from '../../json/raids-armours/raids-armours-details.json'
+import dataRaidsArmours from '../../json/raids-armours/raids-armours-details.json';
 
-import dataWarriorRaidArmours from '../../json/raids-armours/warrior/warrior.json';
+import dataAwakenerRaidArmours from '../../json/raids-armours/awakener/awakener.json';
+import dataDeathKnightRaidArmours from '../../json/raids-armours/death-knight/death-knight.json';
+import dataDemonHunterRaidArmours from '../../json/raids-armours/demon-hunter/demon-hunter.json';
 import dataDruidRaidArmours from '../../json/raids-armours/druid/druid.json';
-import dataPriestRaidArmours from '../../json/raids-armours/priest/priest.json';
+import dataHunterRaidArmours from '../../json/raids-armours/hunter/hunter.json';
 import dataMageRaidArmours from '../../json/raids-armours/mage/mage.json';
 import dataMonkRaidArmours from '../../json/raids-armours/monk/monk.json';
-import dataHunterRaidArmours from '../../json/raids-armours/hunter/hunter.json';
-import dataDemonHunterRaidArmours from '../../json/raids-armours/demon-hunter/demon-hunter.json';
 import dataPaladinRaidArmours from '../../json/raids-armours/paladin/paladin.json';
-import dataAwakenerRaidArmours from '../../json/raids-armours/awakener/awakener.json';
+import dataPriestRaidArmours from '../../json/raids-armours/priest/priest.json';
 import dataRogueRaidArmours from '../../json/raids-armours/rogue/rogue.json';
-import dataDeathKnightRaidArmours from '../../json/raids-armours/death-knight/death-knight.json';
-import dataWarlockRaidArmours from '../../json/raids-armours/warlock/warlock.json';
 import dataShamanRaidArmours from '../../json/raids-armours/shaman/shaman.json';
+import dataWarlockRaidArmours from '../../json/raids-armours/warlock/warlock.json';
+import dataWarriorRaidArmours from '../../json/raids-armours/warrior/warrior.json';
 
 
 const RaidsArmours = ()=> {
