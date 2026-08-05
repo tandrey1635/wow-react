@@ -2332,28 +2332,24 @@
 	},
 
 	{
-		"id": "67",
-		"className": "card-mounts card-mounts-fly",
+		"id": "StoicReinsOfTheVigilantCharger",
+		"type": "fly-mounts",
 		"path": "",
-		"cardImg": "/src/assets/img/mounts/bg/fly/.png",
-		"titleClassName": "card-title-mounts card-title-mounts-fly",
+		"img": "/src/assets/img/mounts/bg/fly/Stoic-Reins-of-the-Vigilant-Charger.png",
+		"objectFit": false,
 		"title": "Крепкие Поводья Бдительного Скакуна",
-		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "1",
-		"priceClassName": "card-price-mounts card-price-mounts-fly",
+		"description": "У него такой пустой взгляд из-за постоянного напряжения. Классовый маунт Паладина. Условие: Откройте все особенности артефакта Страж Истины после того, как усилите его. Торговец: Командир Рыцарей Далфорс. Зона: Обитель Света.",
 		"price": 300
 	},
 
 	{
-		"id": "68",
-		"className": "card-mounts card-mounts-fly",
+		"id": "KirinTorSummoningCrystal",
+		"type": "fly-mounts",
 		"path": "",
-		"cardImg": "/src/assets/img/mounts/bg/fly/.png",
-		"titleClassName": "card-title-mounts card-title-mounts-fly",
+		"img": "/src/assets/img/mounts/bg/fly/Kirin-Tor-Summoning-Crystal.png",
+		"objectFit": false,
 		"title": "Кристалл Призыва Кирин Тора",
-		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "1",
-		"priceClassName": "card-price-mounts card-price-mounts-fly",
+		"description": "Дар Совета Шестерых в благодарность за очередное спасение Азерота от нашествия Легиона. Награда за задание: Кровь Титана.",
 		"price": 300
 	},
 
@@ -2369,93 +2365,123 @@
 	},
 
 	{
-		"id": "69",
-		"className": "card-mounts card-mounts-fly",
+		"id": "BloodyReinsOfDarkPortent",
+		"type": "fly-mounts",
 		"path": "",
-		"cardImg": "/src/assets/img/mounts/bg/fly/.png",
-		"titleClassName": "card-title-mounts card-title-mounts-fly",
+		"img": "/src/assets/img/mounts/bg/fly/Bloody-Reins-of-Dark-Portent.png",
+		"objectFit": false,
 		"title": "Кровавые Поводья Темного Предвестника",
-		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "1",
-		"priceClassName": "card-price-mounts card-price-mounts-fly",
+		"description": "Кровь ваших врагов даже не будет заметна на этих алых перьях.  Классовый маунт Разбойника. Торговец: Зан Кругореззик. Зона: Даларан (Расколотые Острова).",
 		"price": 300
 	},
 
 	{
-		"id": "70",
-		"className": "card-mounts card-mounts-fly",
+		"id": "SanguineHarrower",
+		"type": "fly-mounts",
 		"path": "",
-		"cardImg": "/src/assets/img/mounts/bg/fly/.png",
-		"titleClassName": "card-title-mounts card-title-mounts-fly",
+		"img": "/src/assets/img/mounts/bg/fly/Sanguine-Harrower.png",
+		"objectFit": false,
+		"title": "Кровавый Боронитель",
+		"description": "Кровавый боронитель, свирепый летающий хищник из Бури Бездны. Он слишком заметен для потенциальной добычи, но компенсирует это проворством, с которым охотится, и внушающим ужас обликом. Источник: Редкие существа Бури Бездны.",
+		"price": 300
+	},
+
+	{
+		"id": "GalacticGladiatorsGoredrake",
+		"type": "fly-mounts",
+		"path": "",
+		"img": "/src/assets/img/mounts/bg/fly/Galactic-Gladiators-Goredrake.png",
+		"objectFit": false,
+		"title": "Кроводракон Галактического Гладиатора",
+		"description": "Это порождение Бездны, с ног до головы закованное в броню, уже рвется в бой. Награда за достижение: Гладиатор: 1-й сезон Midnight.",
+		"price": 300
+	},
+
+	{
+		"id": "BloodthirstyDreadwing",
+		"type": "fly-mounts",
+		"path": "",
+		"img": "/src/assets/img/mounts/bg/fly/Bloodthirsty-Dreadwing.png",
 		"title": "Кровожадный Грознокрыл",
-		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "1",
-		"priceClassName": "card-price-mounts card-price-mounts-fly",
+		"objectFit": false,
+		"description": "Отрекшиеся предпочитают ездить верхом на этих кровожадных хищниках, ведь они быстры и производят сильное впечатление на врагов. Фракция: Орда. Торговец: Поставщик Мукра. Зона: Зулдазар.",
 		"price": 300
 	},
 
 	{
-		"id": "71",
-		"className": "card-mounts card-mounts-fly",
+		"id": "Rabbitath",
+		"type": "fly-mounts",
 		"path": "",
-		"cardImg": "/src/assets/img/mounts/bg/fly/.png",
-		"titleClassName": "card-title-mounts card-title-mounts-fly",
+		"img": "/src/assets/img/mounts/bg/fly/Rabbitath.png",
+		"title": "Крол'атат",
+		"objectFit": false,
+		"description": "Крол'атат несет погибель и отчаяние всем, кто узрит ее приход. По легенде, в ее глазах можно увидеть конец всего сущего. Источник: Промоакция BlizzCon 2026.",
+		"price": 300
+	},
+
+	{
+		"id": "DesertwingHunter",
+		"type": "fly-mounts",
+		"path": "",
+		"img": "/src/assets/img/mounts/bg/fly/Desertwing-Hunter.png",
+		"objectFit": false,
 		"title": "Крылатый Охотник Пустыни",
-		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "1",
-		"priceClassName": "card-price-mounts card-price-mounts-fly",
+		"description": "Крылатых охотников пустыни создали, чтобы они исполняли свое Предназначение в небесах дальних царств Темных Земель. Профессия: Протосинтез.",
 		"price": 300
 	},
 
 	{
-		"id": "72",
-		"className": "card-mounts card-mounts-fly",
+		"id": "WingedSteedOfTheEbonBlade",
+		"type": "fly-mounts",
 		"path": "",
-		"cardImg": "/src/assets/img/mounts/bg/fly/.png",
-		"titleClassName": "card-title-mounts card-title-mounts-fly",
+		"img": "/src/assets/img/mounts/bg/fly/Winged-Steed-of-the-Ebon-Blade.png",
+		"objectFit": false,
 		"title": "Крылатый Скакун Черного Клинка",
-		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "1",
-		"priceClassName": "card-price-mounts card-price-mounts-fly",
+		"description": "В жизни или смерти — ты будешь со мной. Классовый маунт Рыцаря Смерти. Торговец: властелин ужаса Таланор. Зона: Восточные Чумные земли.",
 		"price": 300
 	},
 
 	{
-		"id": "73",
-		"className": "card-mounts card-mounts-fly",
+		"id": "WingedGuardian",
+		"type": "fly-mounts",
 		"path": "",
-		"cardImg": "/src/assets/img/mounts/bg/fly/.png",
-		"titleClassName": "card-title-mounts card-title-mounts-fly",
+		"img": "/src/assets/img/mounts/bg/fly/Winged-Guardian.png",
+		"objectFit": false,
 		"title": "Крылатый Страж",
-		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "1",
-		"priceClassName": "card-price-mounts card-price-mounts-fly",
+		"description": "Этот могучий крылатый лев, найденный в недавно раскопанной гробнице, возможно, когда-то служил древним владыкам Тол'вира. Источник: Внутриигровой магазин.",
 		"price": 300
 	},
 
 	{
-		"id": "74",
-		"className": "card-mounts card-mounts-fly",
+		"id": "Quawks",
+		"type": "fly-mounts",
 		"path": "",
-		"cardImg": "/src/assets/img/mounts/bg/fly/.png",
-		"titleClassName": "card-title-mounts card-title-mounts-fly",
+		"img": "/src/assets/img/mounts/bg/fly/Quawks.png",
+		"objectFit": false,
 		"title": "Крякс",
-		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "1",
-		"priceClassName": "card-price-mounts card-price-mounts-fly",
+		"description": "Старший (и даже еще более громкий) брат Чирика готов терпеть ваше присутствие. Пока что. У вас немного времени, чтобы найти для него пару печенек.  Источник: Торговая лавка.",
 		"price": 300
 	},
 
 	{
-		"id": "75",
-		"className": "card-mounts card-mounts-fly",
+		"id": "ScrapforgedMechaspider",
+		"type": "fly-mounts",
 		"path": "",
-		"cardImg": "/src/assets/img/mounts/bg/fly/.png",
-		"titleClassName": "card-title-mounts card-title-mounts-fly",
+		"img": "/src/assets/img/mounts/bg/fly/Scrapforged-Mechaspider.png",
+		"objectFit": false,
 		"title": "Кустарный Механопаук",
-		"descriptionClassName": "card-text-mounts card-text-mounts-fly",
-		"description": "1",
-		"priceClassName": "card-price-mounts card-price-mounts-fly",
+		"description": "Вы сами его сделали. Гордитесь. Пусть даже он гремит и извергает дым и искры. Награда за задание: Прямо с конвейера.",
+		"price": 300
+	},
+
+	{
+		"id": "ScrapforgedMechaspiderFly",
+		"type": "fly-mounts",
+		"path": "",
+		"img": "/src/assets/img/mounts/bg/fly/Scrapforged-Mechaspider-fly.png",
+		"objectFit": false,
+		"title": "Кустарный Механопаук (Анимация Полета)",
+		"description": "Вы сами его сделали. Гордитесь. Пусть даже он гремит и извергает дым и искры. Награда за задание: Прямо с конвейера.",
 		"price": 300
 	},
 
