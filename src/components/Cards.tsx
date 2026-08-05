@@ -3,6 +3,13 @@ import { Tabs, Tab } from 'react-bootstrap';
 
 
 
+<<<<<<< HEAD
+=======
+import useFancybox from "../ts/useFancyBox";
+import "@fancyapps/ui/dist/fancybox/fancybox.css";
+
+
+>>>>>>> origin/master
 import Card from './Card.tsx'
 
 import dataRaces from '../json/races/races.json';
