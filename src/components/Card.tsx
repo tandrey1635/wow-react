@@ -140,7 +140,58 @@ const Card = ({type, path, img, objectFit, title, description, descriptionTrim, 
 
 			<Link to={!noFancybox ? img	: path}
 				data-fancybox="gallery"
-				data-caption={title}
+				data-caption={`
+					<h3 class="${
+						addition === "Classic"
+							? "card-dungeons-raids-classic_color"
+							:
+						addition === "The Burning Crusade"
+							? "card-dungeons-raids-burning-crusade_color"
+							:
+						addition === "Wrath of the Lich King"
+							? "card-dungeons-raids-wrath-of-the-lich-king_color"
+							:
+						addition === "Cataclysm"
+							? "card-dungeons-raids-cataclysm_color"
+							:
+						addition === "Mists of Pandaria"
+							? "card-dungeons-raids-mists-of-pandaria_color"
+							:
+						addition === "Warlords of Draenor"
+							? "card-dungeons-raids-warlords-of-draenor_color"
+							:
+						addition === "Legion"
+							? "card-dungeons-raids-legion_color"
+							:
+						addition === "Battle for Azeroth"
+							? "card-dungeons-raids-battle-for-azeroth_color"
+							:
+						addition === "Shadowlands"
+							? "card-dungeons-raids-shadowlands_color"
+							:
+						addition === "Dragonflight"
+							? "card-dungeons-raids-dragonflight_color"
+							:
+						addition === "The War Within"
+							? "card-dungeons-raids-war-within_color"
+							:
+						addition === "Midnight"
+							? "card-dungeons-raids-midnight_color"
+							:
+						addition === "The Last Titan"
+							? "card-dungeons-raids-last-titan_color"
+							:
+						type === "water-mounts"
+							? "card-mounts_water"
+							:
+						type === "earth-mounts"
+							? "card-mounts_earth"
+							:
+						type === "fly-mounts"
+							? "card-mounts_fly"
+							: null
+					}">${title}</h3>
+    			`}
 			>
 				<img src={img} className={`card-img ${
 					objectFit

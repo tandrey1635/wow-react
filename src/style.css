@@ -912,6 +912,9 @@ footer {
 .card-armours [alt] {
   color: #8400ff;
 }
+.card-mounts {
+  font-weight: 900;
+}
 .card-mounts-water {
   color: #00ffff;
   background: linear-gradient(325deg, #00ffff, transparent 30%, transparent 35%, #00ffff, transparent);
@@ -921,6 +924,9 @@ footer {
 }
 .card-mounts-water:hover {
   box-shadow: 0 0 2px 5px #00ffff;
+}
+.card-mounts_water {
+  color: #00ffff;
 }
 .card-mounts-earth {
   color: #854c27;
@@ -932,6 +938,9 @@ footer {
 .card-mounts-earth:hover {
   box-shadow: 0 0 2px 5px #854c27;
 }
+.card-mounts_earth {
+  color: #854c27;
+}
 .card-mounts-fly {
   color: #2e86e5;
   background: linear-gradient(325deg, #2e86e5, transparent 30%, transparent 35%, #2e86e5, transparent);
@@ -941,6 +950,9 @@ footer {
 }
 .card-mounts-fly:hover {
   box-shadow: 0 0 2px 5px #2e86e5;
+}
+.card-mounts_fly {
+  color: #2e86e5;
 }
 .card-professions {
   background: linear-gradient(325deg, #8400ff, transparent 30%, transparent 35%, #8400ff, transparent);
@@ -2107,4 +2119,14 @@ label {
   main > h1 {
     display: none;
   }
+}
+
+/* Заголовки фансибокс */
+.f-caption h2, .f-caption h3 {
+  font-weight: 900;
+  font-style: italic;
+  text-shadow: 2px 2px 2px #000;
+  font-size: 32px;
+  transition: 0.5s all;
+  filter: drop-shadow(0 0 2px #000);
 }/*# sourceMappingURL=style.css.map */
