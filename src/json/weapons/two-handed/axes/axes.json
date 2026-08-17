@@ -440,6 +440,28 @@
 	},
 
 	{
+		"id": "AdamantiteCleaver",
+		"type": "weapons",
+		"path": "AdamantiteCleaver",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Adamantite-Cleaver.png",
+		"objectFit": false,
+		"title": "Адамантитовый Колун",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "BitingGreataxe",
+		"type": "weapons",
+		"path": "BitingGreataxe",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Biting-Greataxe.png",
+		"objectFit": false,
+		"title": "Большой Топор Жестокости",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
 		"id": "OgreSplittingAxe",
 		"type": "weapons",
 		"path": "OgreSplittingAxe",
@@ -1144,6 +1166,61 @@
 	},
 
 	{
+		"id": "KorthianProtectorsGreataxe",
+		"type": "weapons",
+		"path": "KorthianProtectorsGreataxe",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Korthian-Protectors-Greataxe.png",
+		"objectFit": false,
+		"title": "Большой Топор Кортийского Смотрителя",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "MawswornReavesGreataxe",
+		"type": "weapons",
+		"path": "MawswornReavesGreataxe",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Mawsworn-Reaves-Greataxe.png",
+		"objectFit": false,
+		"title": "Большой Топор Верного Утробе Разорителя",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "DessiasDecimatingDecapitator",
+		"type": "weapons",
+		"path": "DessiasDecimatingDecapitator",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Dessias-Decimating-Decapitator.png",
+		"objectFit": false,
+		"title": "Неудержимый Обезглавливатель Дессии",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "UnchainedAspirantsGreataxe",
+		"type": "weapons",
+		"path": "UnchainedAspirantsGreataxe",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Unchained-Aspirants-Greataxe.png",
+		"objectFit": false,
+		"title": "Большой Топор Освобожденного Претендента",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "KazjsStygianSplitter",
+		"type": "weapons",
+		"path": "KazjsStygianSplitter",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Kazjs-Stygian-Splitter.png",
+		"objectFit": false,
+		"title": "Стигийский Раскалыватель Кажа",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
 		"id": "MawExecutionersGuillotine",
 		"type": "weapons",
 		"path": "MawExecutionersGuillotine",
@@ -1172,6 +1249,17 @@
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Backdraft-Cleaver.png",
 		"objectFit": false,
 		"title": "Колун Обратного Потока",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "ValdrakkenBladewingDecapitator",
+		"type": "weapons",
+		"path": "ValdrakkenBladewingDecapitator",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Valdrakken-Bladewing-Decapitator.png",
+		"objectFit": false,
+		"title": "Лабрисса Вальдраккенского Острокрыла",
 		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
 		"price": 300
 	},
@@ -1238,6 +1326,28 @@
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Lamplighters-Greataxe.png",
 		"objectFit": false,
 		"title": "Большой Топор Фонарщика",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "DwarvenCrownSplitter",
+		"type": "weapons",
+		"path": "DwarvenCrownSplitter",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Dwarven-Crown-Splitter.png",
+		"objectFit": false,
+		"title": "Дворфийский Разрубатель Корон",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "GildedCrownSplitter",
+		"type": "weapons",
+		"path": "GildedCrownSplitter",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Gilded-Crown-Splitter.png",
+		"objectFit": false,
+		"title": "Золоченый Разрубатель Корон",
 		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
 		"price": 300
 	},
