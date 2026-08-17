@@ -1045,6 +1045,39 @@
 	},
 
 	{
+		"id": "HellrenderNormal",
+		"type": "weapons",
+		"path": "HellrenderNormal",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Hellrender-normal.png",
+		"objectFit": false,
+		"title": "Рассекатель Преисподней",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "HellrenderHeroic",
+		"type": "weapons",
+		"path": "HellrenderHeroic",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Hellrender-heroic.png",
+		"objectFit": false,
+		"title": "Рассекатель Преисподней (Героический)",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "HellrenderMythic",
+		"type": "weapons",
+		"path": "HellrenderMythic",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Hellrender-mythic.png",
+		"objectFit": false,
+		"title": "Рассекатель Преисподней (Эпохальный)",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
 		"id": "CorruptedGladiatorsDecapitatorHorde",
 		"type": "weapons",
 		"path": "CorruptedGladiatorsDecapitatorHorde",
@@ -1150,6 +1183,28 @@
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Obsidian-Guards-Skullsplitter.png",
 		"objectFit": false,
 		"title": "Головоруб Обсидиановой Стражи",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "DevastatingDrakonidWaraxe",
+		"type": "weapons",
+		"path": "DevastatingDrakonidWaraxe",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Devastating-Drakonid-Waraxe.png",
+		"objectFit": false,
+		"title": "Сокрушающий Боевой Топор Драконида",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "CobaltDragonwingDecapitator",
+		"type": "weapons",
+		"path": "CobaltDragonwingDecapitator",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Cobalt-Dragonwing-Decapitator.png",
+		"objectFit": false,
+		"title": "Кобальтовая Лабрисса Драконьего Крыла",
 		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
 		"price": 300
 	},
