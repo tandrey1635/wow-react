@@ -25,6 +25,7 @@ const renderCardItems = (dataJson: ICard[]) => dataJson.map(card=> {
 			descriptionTrim={card.descriptionTrim}
 			title={card.title}
 			price={card.price}
+			noFancybox
 		/>
 	)
 })
