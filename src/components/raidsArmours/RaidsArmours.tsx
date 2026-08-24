@@ -1,6 +1,6 @@
 import { Tab, Tabs } from 'react-bootstrap';
 import { Link, useParams } from "react-router";
-import useFancybox from "../../ts/useFancybox";
+import useFancybox from "../../ts/useFancybox.ts";
 import Card from '../Card.tsx';
 
 

@@ -495,6 +495,17 @@
 	},
 
 	{
+		"id": "LuckyStrikeAxe",
+		"type": "weapons",
+		"path": "LuckyStrikeAxe",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Lucky-Strike-Axe.png",
+		"objectFit": false,
+		"title": "Топор Счастливого Удара",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
 		"id": "Legacy",
 		"type": "weapons",
 		"path": "Legacy",
@@ -902,6 +913,28 @@
 	},
 
 	{
+		"id": "RelentlessGladiatorsSunderer",
+		"type": "weapons",
+		"path": "RelentlessGladiatorsSunderer",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Relentless-Gladiators-Sunderer.png",
+		"objectFit": false,
+		"title": "Рассекатель Неумолимого Гладиатора",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "RelentlessGladiatorsDecapitator",
+		"type": "weapons",
+		"path": "RelentlessGladiatorsDecapitator",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Relentless-Gladiators-Decapitator.png",
+		"objectFit": false,
+		"title": "Лабрисса Неумолимого Гладиатора",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
 		"id": "BryntrollTheBoneArbiter",
 		"type": "weapons",
 		"path": "BryntrollTheBoneArbiter",
@@ -1133,6 +1166,39 @@
 	},
 
 	{
+		"id": "PrimalCombatantsDecapitator",
+		"type": "weapons",
+		"path": "PrimalCombatantsDecapitator",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Primal-Combatants-Decapitator.png",
+		"objectFit": false,
+		"title": "Лабрисса Необузданного Бойца",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "ExpeditiousBroadaxe",
+		"type": "weapons",
+		"path": "ExpeditiousBroadaxe",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Expeditious-Broadaxe.png",
+		"objectFit": false,
+		"title": "Всесокрушающий Широкий Топор",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "AxeOfTheStoneGeyser",
+		"type": "weapons",
+		"path": "AxeOfTheStoneGeyser",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Axe-of-the-Stone-Geyser.png",
+		"objectFit": false,
+		"title": "Топор Каменного Гейзера",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
 		"id": "ViciousGladiatorsDecapitator",
 		"type": "weapons",
 		"path": "ViciousGladiatorsDecapitator",
@@ -1249,6 +1315,50 @@
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Primal-Gladiators-Decapitator-elite.png",
 		"objectFit": false,
 		"title": "Лабрисса Необузданного Гладиатора (Элитный)",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "CrescentOfLivingMagma",
+		"type": "weapons",
+		"path": "CrescentOfLivingMagma",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Crescent-of-Living-Magma.png",
+		"objectFit": true,
+		"title": "Секира Живой Магмы",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "CrescentOfLivingMagmaHeroic",
+		"type": "weapons",
+		"path": "CrescentOfLivingMagmaHeroic",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Crescent-of-Living-Magma-heroic.png",
+		"objectFit": true,
+		"title": "Секира Живой Магмы (Героический)",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "CrescentOfLivingMagmaMythic",
+		"type": "weapons",
+		"path": "CrescentOfLivingMagmaMythic",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Crescent-of-Living-Magma-mythic.png",
+		"objectFit": true,
+		"title": "Секира Живой Магмы (Эпохальный)",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "PlunderedMoltenReaper",
+		"type": "weapons",
+		"path": "PlunderedMoltenReaper",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Plundered-Molten-Reaper.png",
+		"objectFit": true,
+		"title": "Трофейный Оплавленный Колун",
 		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
 		"price": 300
 	},
