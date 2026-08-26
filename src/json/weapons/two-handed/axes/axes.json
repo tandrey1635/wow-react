@@ -605,6 +605,17 @@
 	},
 
 	{
+		"id": "EthereumNexusReaver",
+		"type": "weapons",
+		"path": "EthereumNexusReaver",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Ethereum-Nexus-Reaver.png",
+		"objectFit": false,
+		"title": "Астральный Разбойник",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
 		"id": "AxeOfTheNexusKings",
 		"type": "weapons",
 		"path": "AxeOfTheNexusKings",
@@ -1419,6 +1430,50 @@
 	},
 
 	{
+		"id": "CrashOfTidesRaidFinder",
+		"type": "weapons",
+		"path": "CrashOfTidesRaidFinder",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Crash-of-Tides-raid-finder.png",
+		"objectFit": true,
+		"title": "Крушащая Волна (Поиск Рейда)",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "CrashOfTidesNormal",
+		"type": "weapons",
+		"path": "CrashOfTidesNormal",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Crash-of-Tides-normal.png",
+		"objectFit": true,
+		"title": "Крушащая Волна",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "CrashOfTidesHeroic",
+		"type": "weapons",
+		"path": "CrashOfTidesHeroic",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Crash-of-Tides-heroic.png",
+		"objectFit": true,
+		"title": "Крушащая Волна (Героический)",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "CrashOfTidesMythic",
+		"type": "weapons",
+		"path": "CrashOfTidesMythic",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Crash-of-Tides-mythic.png",
+		"objectFit": true,
+		"title": "Крушащая Волна (Эпохальный)",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
 		"id": "CorruptedGladiatorsDecapitatorHorde",
 		"type": "weapons",
 		"path": "CorruptedGladiatorsDecapitatorHorde",
@@ -1788,6 +1843,72 @@
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Gilded-Crown-Splitter.png",
 		"objectFit": false,
 		"title": "Золоченый Разрубатель Корон",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "GallagioRaidersBilgewaterChainsaw",
+		"type": "weapons",
+		"path": "GallagioRaidersBilgewaterChainsaw",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Gallagio-Raiders-Bilgewater-Chainsaw.png",
+		"objectFit": false,
+		"title": "Цепная Пила Рейдера Галаджио из Трюмных Вод",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "GallagioRaidersVentureCoChainsaw",
+		"type": "weapons",
+		"path": "GallagioRaidersVentureCoChainsaw",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Gallagio-Raiders-Venture-Co-Chainsaw.png",
+		"objectFit": false,
+		"title": "Цепная Пила рейдера Галаджио из Торговой Компании",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "PrizedGladiatorsGreatsaw",
+		"type": "weapons",
+		"path": "PrizedGladiatorsGreatsaw",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Prized-Gladiators-Greatsaw.png",
+		"objectFit": false,
+		"title": "Большая Пила Призового Гладиатора",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "GallagioRaidersBlackwaterChainsaw",
+		"type": "weapons",
+		"path": "GallagioRaidersBlackwaterChainsaw",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Gallagio-Raiders-Blackwater-Chainsaw.png",
+		"objectFit": false,
+		"title": "Цепная Пила Рейдера Галаджио из Черноводья",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "PrizedGladiatorsGreatsawElite",
+		"type": "weapons",
+		"path": "PrizedGladiatorsGreatsawElite",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Prized-Gladiators-Greatsaw-elite.png",
+		"objectFit": false,
+		"title": "Большая Пила Призового Гладиатора (Элитный)",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "GallagioRaidersDarkfuseChainsaw",
+		"type": "weapons",
+		"path": "GallagioRaidersDarkfuseChainsaw",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Gallagio-Raiders-Darkfuse-Chainsaw.png",
+		"objectFit": false,
+		"title": "Цепная Пила Рейдера Галаджио из Мрачных Минеров",
 		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
 		"price": 300
 	},
