@@ -781,6 +781,28 @@
 	},
 
 	{
+		"id": "DeadlyGladiatorsDecapitator",
+		"type": "weapons",
+		"path": "DeadlyGladiatorsDecapitator",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Deadly-Gladiators-Decapitator.png",
+		"objectFit": false,
+		"title": "Лабрисса Смертоносного Гладиатора",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "FuriousGladiatorsSunderer",
+		"type": "weapons",
+		"path": "FuriousGladiatorsSunderer",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Furious-Gladiators-Sunderer.png",
+		"objectFit": false,
+		"title": "Рассекатель Гневного Гладиатора",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
 		"id": "TyrannicalBeheader",
 		"type": "weapons",
 		"path": "TyrannicalBeheader",
@@ -1265,6 +1287,28 @@
 	},
 
 	{
+		"id": "HonorboundDecapitator",
+		"type": "weapons",
+		"path": "HonorboundDecapitator",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Honorbound-Decapitator.png",
+		"objectFit": false,
+		"title": "Обезглавливатель Армии Чести",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "DreadAspirantsDecapitator",
+		"type": "weapons",
+		"path": "DreadAspirantsDecapitator",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Dread-Aspirants-Decapitator.png",
+		"objectFit": false,
+		"title": "Лабрисса Ужасающего Претендента",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
 		"id": "TyrannicalGladiatorsDecapitatorHorde",
 		"type": "weapons",
 		"path": "TyrannicalGladiatorsDecapitatorHorde",
@@ -1425,6 +1469,39 @@
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Hellrender-mythic.png",
 		"objectFit": false,
 		"title": "Рассекатель Преисподней (Эпохальный)",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "DrakkariHeadSplitter",
+		"type": "weapons",
+		"path": "DrakkariHeadSplitter",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Drakkari-Head-Splitter.png",
+		"objectFit": false,
+		"title": "Раскалыватель Черепов Драккари",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "CorruptionBorneHeadlopper",
+		"type": "weapons",
+		"path": "CorruptionBorneHeadlopper",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Corruption-Borne-Headlopper.png",
+		"objectFit": false,
+		"title": "Закаленный Порчей Срубатель Голов",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "DazarsCeremonialNegotiator",
+		"type": "weapons",
+		"path": "DazarsCeremonialNegotiator",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Dazars-Ceremonial-Negotiator.png",
+		"objectFit": false,
+		"title": "Церемониальный Переговорщик Дазара",
 		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
 		"price": 300
 	},
@@ -1788,6 +1865,28 @@
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Cobalt-Dragonwing-Decapitator.png",
 		"objectFit": false,
 		"title": "Кобальтовая Лабрисса Драконьего Крыла",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "WebbedSoulforgedGreataxe",
+		"type": "weapons",
+		"path": "WebbedSoulforgedGreataxe",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Webbed-Soulforged-Greataxe.png",
+		"objectFit": false,
+		"title": "Плетеный Духокованный Большой Топор",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "WebbedSaroniteGreataxe",
+		"type": "weapons",
+		"path": "WebbedSaroniteGreataxe",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Webbed-Saronite-Greataxe.png",
+		"objectFit": false,
+		"title": "Большой Топор из Плетеного Саронита",
 		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
 		"price": 300
 	},
