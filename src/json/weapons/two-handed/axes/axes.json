@@ -1155,6 +1155,50 @@
 	},
 
 	{
+		"id": "ShinkaExecutionOfDominionRaidFinder",
+		"type": "weapons",
+		"path": "ShinkaExecutionOfDominionRaidFinder",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Shinka-Execution-of-Dominion-raid-finder.png",
+		"objectFit": false,
+		"title": "Шин'ка, Палач Доминиона (Поиск Рейда)",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "ShinkaExecutionOfDominionNormal",
+		"type": "weapons",
+		"path": "ShinkaExecutionOfDominionNormal",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Shinka-Execution-of-Dominion-normal.png",
+		"objectFit": false,
+		"title": "Шин'ка, Палач Доминиона",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "ShinkaExecutionOfDominionHeroic",
+		"type": "weapons",
+		"path": "ShinkaExecutionOfDominionHeroic",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Shinka-Execution-of-Dominion-heroic.png",
+		"objectFit": false,
+		"title": "Шин'ка, Палач Доминиона (Героический)",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "ShinkaTheTyrantsGreataxe",
+		"type": "weapons",
+		"path": "ShinkaTheTyrantsGreataxe",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Shinka-the-Tyrants-Greataxe.png",
+		"objectFit": false,
+		"title": "Шин'ка, Большой Топор Тирана",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
 		"id": "UroeHarbingerOfTerrorRaidFinder",
 		"type": "weapons",
 		"path": "UroeHarbingerOfTerrorRaidFinder",
@@ -1282,6 +1326,39 @@
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Greataxe-of-Trials.png",
 		"objectFit": false,
 		"title": "Большой Топор Испытаний",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "IronHordeWaraxe",
+		"type": "weapons",
+		"path": "IronHordeWaraxe",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Iron-Horde-Waraxe.png",
+		"objectFit": false,
+		"title": "Боевая Секира Железной Орды",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "AbandonedDarkIronGreataxe",
+		"type": "weapons",
+		"path": "AbandonedDarkIronGreataxe",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Abandoned-Dark-Iron-Greataxe.png",
+		"objectFit": false,
+		"title": "Брошенный Большой Топор из Черного Железа",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "VinewrappedBroadaxe",
+		"type": "weapons",
+		"path": "VinewrappedBroadaxe",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Vinewrapped-Broadaxe.png",
+		"objectFit": false,
+		"title": "Опутанный Лозами Широкий Топор",
 		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
 		"price": 300
 	},
@@ -2013,6 +2090,94 @@
 	},
 
 	{
+		"id": "FieryGreatAxeOfTheFrostwolf",
+		"type": "weapons",
+		"path": "FieryGreatAxeOfTheFrostwolf",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Fiery-Great-Axe-of-the-Frostwolf.png",
+		"objectFit": false,
+		"title": "Пылающий Большой Топор Северного Волка",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "GlowingGreatAxeOfTheFrostwolf",
+		"type": "weapons",
+		"path": "GlowingGreatAxeOfTheFrostwolf",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Glowing-Great-Axe-of-the-Frostwolf.png",
+		"objectFit": false,
+		"title": "Светящийся Большой Топор Северного Волка",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "FrozenGreatAxeOfTheFrostwolf",
+		"type": "weapons",
+		"path": "FrozenGreatAxeOfTheFrostwolf",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Frozen-Great-Axe-of-the-Frostwolf.png",
+		"objectFit": false,
+		"title": "Морозный Большой Топор Северного Волка",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "ArcaneGreatAxeOfTheFrostwolf",
+		"type": "weapons",
+		"path": "ArcaneGreatAxeOfTheFrostwolf",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Arcane-Great-Axe-of-the-Frostwolf.png",
+		"objectFit": false,
+		"title": "Чародейский Большой Топор Северного Волка",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "CrimsonGladiatorsGreataxe",
+		"type": "weapons",
+		"path": "CrimsonGladiatorsGreataxe",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Crimson-Gladiators-Greataxe.png",
+		"objectFit": false,
+		"title": "Большой Топор Багрового Гладиатора",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "IncarnateSkySplitter",
+		"type": "weapons",
+		"path": "IncarnateSkySplitter",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Incarnate-Sky-Splitter.png",
+		"objectFit": false,
+		"title": "Воплощенный Раскалыватель Неба",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "VaultRaidersCrystalSplitter",
+		"type": "weapons",
+		"path": "VaultRaidersCrystalSplitter",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Vault-Raiders-Crystal-Splitter.png",
+		"objectFit": false,
+		"title": "Кристальный Дробитель Расхитителя Хранилища",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "VaultRaidersFrozenSplitter",
+		"type": "weapons",
+		"path": "VaultRaidersFrozenSplitter",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Vault-Raiders-Frozen-Splitter.png",
+		"objectFit": false,
+		"title": "Замерзший Дробитель Расхитителя Хранилища",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
 		"id": "AnubarashsColossalMandibleRaidFinder",
 		"type": "weapons",
 		"path": "AnubarashsColossalMandibleRaidFinder",
@@ -2030,6 +2195,50 @@
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Anubarashs-Colossal-Mandible-normal.png",
 		"objectFit": false,
 		"title": "Огромная Челюсть Ануб'араша",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "AnubarashsColossalMandibleHeroic",
+		"type": "weapons",
+		"path": "AnubarashsColossalMandibleHeroic",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Anubarashs-Colossal-Mandible-heroic.png",
+		"objectFit": false,
+		"title": "Огромная Челюсть Ануб'араша (Героический)",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "AnubarashsColossalMandibleMythic",
+		"type": "weapons",
+		"path": "AnubarashsColossalMandibleMythic",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Anubarashs-Colossal-Mandible-mythic.png",
+		"objectFit": false,
+		"title": "Огромная Челюсть Ануб'араша (Эпохальный)",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "ForgedGladiatorsGreataxe",
+		"type": "weapons",
+		"path": "ForgedGladiatorsGreataxe",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Forged-Gladiators-Greataxe.png",
+		"objectFit": false,
+		"title": "Большой Топор Кованого Гладиатора",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "ForgedGladiatorsGreataxeElite",
+		"type": "weapons",
+		"path": "ForgedGladiatorsGreataxeElite",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Forged-Gladiators-Greataxe-elite.png",
+		"objectFit": false,
+		"title": "Большой Топор Кованого Гладиатора (Элитный)",
 		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
 		"price": 300
 	}
