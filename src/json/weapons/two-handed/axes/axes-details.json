@@ -1,7 +1,7 @@
 [
 	{
 		"id": "RazorAxe",
-		"type": "twohanded-axes",
+		"type": "two-handed-weapons",
 		"path": "",
 		"weaponType": "Двуручный Топор",
 		"label": "Эпический",
@@ -2181,12 +2181,12 @@
 	},
 
 	{
-		"id": "1",
+		"id": "ArgusDecapitator",
 		"type": "two-handed-weapons",
 		"path": "",
 		"weaponType": "Двуручный Топор",
 		"label": "Эпический",
-		"img": "/src/assets/img/weapons/bg/two-handed/axes/1.png",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Argus-Decapitator.png",
 		"objectFit": false,
 		"title": "Обезглавливатель Аргуса",
 		"description": "Уровень предмета: 17 Становится персональным при получении Двуручное Топор Урон: 8 - 17 Скорость 3.60 (3.5 ед. урона в секунду) +5 к [ловкости, силе или интеллекту] +8 к выносливости +5 к критическому удару (0.11% на 90 ур.) +5 к искусности (0.11% на 90 ур.) Прочность: 100 / 100 Требуется 45-й ур. Цена продажи: 6 71 7",

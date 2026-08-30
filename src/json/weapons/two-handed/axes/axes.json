@@ -1,7 +1,7 @@
 [
 	{
 		"id": "RazorAxe",
-
+		"type": "weapons",
 		"path": "RazorAxe",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Razor-Axe.png",
 		"objectFit": true,
