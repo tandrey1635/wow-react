@@ -1155,6 +1155,39 @@
 	},
 
 	{
+		"id": "EarthenSunderer",
+		"type": "weapons",
+		"path": "EarthenSunderer",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Earthen-Sunderer.png",
+		"objectFit": false,
+		"title": "Рассекатель Земли",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "RazorwindBroadaxe",
+		"type": "weapons",
+		"path": "RazorwindBroadaxe",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Razorwind-Broadaxe.png",
+		"objectFit": false,
+		"title": "Широкий Топор Колючего Ветра",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "SplinterspearBroadaxe",
+		"type": "weapons",
+		"path": "SplinterspearBroadaxe",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Splinterspear-Broadaxe.png",
+		"objectFit": false,
+		"title": "Широкий Топор Расщепленного Копья",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
 		"id": "ShinkaExecutionOfDominionRaidFinder",
 		"type": "weapons",
 		"path": "ShinkaExecutionOfDominionRaidFinder",
@@ -1331,6 +1364,61 @@
 	},
 
 	{
+		"id": "AlgariHeavyAxe",
+		"type": "weapons",
+		"path": "AlgariHeavyAxe",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Algari-Heavy-Axe.png",
+		"objectFit": false,
+		"title": "Алгарийский Тяжелый Топор",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "IronclawGreatAxe",
+		"type": "weapons",
+		"path": "IronclawGreatAxe",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Ironclaw-Great-Axe.png",
+		"objectFit": false,
+		"title": "Большой Топор из Когтестали",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "ArathiGreataxe",
+		"type": "weapons",
+		"path": "ArathiGreataxe",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Arathi-Greataxe.png",
+		"objectFit": false,
+		"title": "Аратийский Большой Топор",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "EversongBattleaxe",
+		"type": "weapons",
+		"path": "EversongBattleaxe",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Eversong-Battleaxe.png",
+		"objectFit": false,
+		"title": "Боевой Топор Вечной Песни",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "TimelyTouristsWaraxe",
+		"type": "weapons",
+		"path": "TimelyTouristsWaraxe",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Timely-Tourists-Waraxe.png",
+		"objectFit": false,
+		"title": "Боевой Топор Туриста во Времени",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
 		"id": "IronHordeWaraxe",
 		"type": "weapons",
 		"path": "IronHordeWaraxe",
@@ -1342,23 +1430,34 @@
 	},
 
 	{
-		"id": "AbandonedDarkIronGreataxe",
-		"type": "weapons",
-		"path": "AbandonedDarkIronGreataxe",
-		"img": "/src/assets/img/weapons/bg/two-handed/axes/Abandoned-Dark-Iron-Greataxe.png",
-		"objectFit": false,
-		"title": "Брошенный Большой Топор из Черного Железа",
-		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
-		"price": 300
-	},
-
-	{
 		"id": "VinewrappedBroadaxe",
 		"type": "weapons",
 		"path": "VinewrappedBroadaxe",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Vinewrapped-Broadaxe.png",
 		"objectFit": false,
 		"title": "Опутанный Лозами Широкий Топор",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "LunarglowBroadaxe",
+		"type": "weapons",
+		"path": "LunarglowBroadaxe",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Lunarglow-Broadaxe.png",
+		"objectFit": false,
+		"title": "Широкий Топор Лунного Света",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "AbandonedDarkIronGreataxe",
+		"type": "weapons",
+		"path": "AbandonedDarkIronGreataxe",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Abandoned-Dark-Iron-Greataxe.png",
+		"objectFit": false,
+		"title": "Брошенный Большой Топор из Черного Железа",
 		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
 		"price": 300
 	},
@@ -1848,6 +1947,72 @@
 	},
 
 	{
+		"id": "HellscreamsRequiemRaidFinder",
+		"type": "weapons",
+		"path": "HellscreamsRequiemRaidFinder",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Hellscreams-Requiem-raid-finder.png",
+		"objectFit": false,
+		"title": "Реквием Адского Крика (Поиск Рейда)",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "HellscreamsRequiemNormal",
+		"type": "weapons",
+		"path": "HellscreamsRequiemNormal",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Hellscreams-Requiem-normal.png",
+		"objectFit": false,
+		"title": "Реквием Адского Крика",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "HellscreamsRequiemHeroic",
+		"type": "weapons",
+		"path": "HellscreamsRequiemHeroic",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Hellscreams-Requiem-heroic.png",
+		"objectFit": false,
+		"title": "Реквием Адского Крика (Героический)",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "HellscreamsRequiemMythic",
+		"type": "weapons",
+		"path": "HellscreamsRequiemMythic",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Hellscreams-Requiem-mythic.png",
+		"objectFit": false,
+		"title": "Реквием Адского Крика (Эпохальный)",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "UnchainedGladiatorsGreataxe",
+		"type": "weapons",
+		"path": "UnchainedGladiatorsGreataxe",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Unchained-Gladiators-Greataxe.png",
+		"objectFit": false,
+		"title": "Двуручный Топор Освобожденного Гладиатора",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "UnchainedGladiatorsGreataxeElite",
+		"type": "weapons",
+		"path": "UnchainedGladiatorsGreataxeElite",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Unchained-Gladiators-Greataxe-elite.png",
+		"objectFit": false,
+		"title": "Двуручный Топор Освобожденного Гладиатора (Элитный)",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
 		"id": "MawExecutionersGuillotine",
 		"type": "weapons",
 		"path": "MawExecutionersGuillotine",
@@ -2173,6 +2338,17 @@
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Vault-Raiders-Frozen-Splitter.png",
 		"objectFit": false,
 		"title": "Замерзший Дробитель Расхитителя Хранилища",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "VaultRaidersStormingSplitter",
+		"type": "weapons",
+		"path": "VaultRaidersStormingSplitter",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Vault-Raiders-Storming-Splitter.png",
+		"objectFit": false,
+		"title": "Бушующий Дробитель Расхитителя Хранилища",
 		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
 		"price": 300
 	},
