@@ -210,36 +210,6 @@
 	},
 
 	{
-		"id": "WhirlwindAxe",
-		"type": "two-handed-weapons",
-		"path": "",
-		"weaponType": "Двуручный Топор",
-		"label": "Эпический",
-		"img": "/src/assets/img/weapons/bg/two-handed/axes/Whirlwind-Axe.png",
-		"objectFit": false,
-		"title": "Топор Вихря",
-		"description": "Уровень предмета: 12 Становится персональным при получении Двуручное Топор Урон: 5 - 11 Скорость 3.60 (2.2 ед. урона в секунду) +4 к силе +4 к выносливости Прочность: 100 / 100 Цена продажи: 21 14",
-		"dmg": 1000,
-		"speed": 2.6,
-		"price": 300
-	},
-
-	{
-		"id": "HellslayerBattleAxe",
-		"type": "two-handed-weapons",
-		"path": "",
-		"weaponType": "Двуручный Топор",
-		"label": "Эпический",
-		"img": "/src/assets/img/weapons/bg/two-handed/axes/Hellslayer-Battle-Axe.png",
-		"objectFit": false,
-		"title": "Боевой Топор Рубаки",
-		"description": "Уровень предмета: 12 Становится персональным при надевании Двуручное Топор Урон: 5 - 11 Скорость 3.60 (2.2 ед. урона в секунду) +2 к выносливости Прочность: 100 / 100 Если на персонаже: Увеличение силы атаки на 1 ед. в бою с нежитью. Требуется 15-й ур. Цена продажи: 53",
-		"dmg": 1000,
-		"speed": 2.6,
-		"price": 300
-	},
-
-	{
 		"id": "LimbCleaver",
 		"type": "two-handed-weapons",
 		"path": "",
@@ -279,6 +249,36 @@
 		"objectFit": false,
 		"title": "Мрачнолесская Секира",
 		"description": "Уровень предмета: 13 Становится персональным при надевании Двуручное Топор Урон: 5 - 12 Скорость 3.60 (2.4 ед. урона в секунду) +2 к силе +1 к выносливости Прочность: 95 / 95 Требуется 21-й ур. Цена продажи: 15",
+		"dmg": 1000,
+		"speed": 2.6,
+		"price": 300
+	},
+
+	{
+		"id": "HellslayerBattleAxe",
+		"type": "two-handed-weapons",
+		"path": "",
+		"weaponType": "Двуручный Топор",
+		"label": "Эпический",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Hellslayer-Battle-Axe.png",
+		"objectFit": false,
+		"title": "Боевой Топор Рубаки",
+		"description": "Уровень предмета: 12 Становится персональным при надевании Двуручное Топор Урон: 5 - 11 Скорость 3.60 (2.2 ед. урона в секунду) +2 к выносливости Прочность: 100 / 100 Если на персонаже: Увеличение силы атаки на 1 ед. в бою с нежитью. Требуется 15-й ур. Цена продажи: 53",
+		"dmg": 1000,
+		"speed": 2.6,
+		"price": 300
+	},
+
+	{
+		"id": "WhirlwindAxe",
+		"type": "two-handed-weapons",
+		"path": "",
+		"weaponType": "Двуручный Топор",
+		"label": "Эпический",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Whirlwind-Axe.png",
+		"objectFit": false,
+		"title": "Топор Вихря",
+		"description": "Уровень предмета: 12 Становится персональным при получении Двуручное Топор Урон: 5 - 11 Скорость 3.60 (2.2 ед. урона в секунду) +4 к силе +4 к выносливости Прочность: 100 / 100 Цена продажи: 21 14",
 		"dmg": 1000,
 		"speed": 2.6,
 		"price": 300
@@ -1491,15 +1491,45 @@
 	},
 
 	{
-		"id": "PhaseLostChopper",
+		"id": "CataclysmicGladiatorsDecapitator",
 		"type": "two-handed-weapons",
 		"path": "",
 		"weaponType": "Двуручный Топор",
 		"label": "Эпический",
-		"img": "/src/assets/img/weapons/bg/two-handed/axes/Phase-Lost-Chopper.png",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Cataclysmic-Gladiators-Decapitator.png",
 		"objectFit": false,
-		"title": "Межфазовый Колун",
-		"description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolores vel temporibus officiis quam, culpa doloremque dolore debitis cum aliquid. Sequi.",
+		"title": "Лабрисса Гладиатора Катаклизма",
+		"description": "11-й сезон Уровень предмета: 49 Становится персональным при получении Двуручное Топор Урон: 7 - 15 Скорость 3.60 (7.4 ед. урона в секунду) +10 к силе +15 к выносливости +10 к критическому удару (0.22% на 90 ур.) +10 к универсальности (0.19% на 90 ур.) Прочность: 120 / 120 Требуется 35-й ур. Цена продажи: 7 70 5",
+		"dmg": 1000,
+		"speed": 2.6,
+		"price": 300
+	},
+
+	{
+		"id": "CataclysmicGladiatorsDecapitatorElite",
+		"type": "two-handed-weapons",
+		"path": "",
+		"weaponType": "Двуручный Топор",
+		"label": "Эпический",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Cataclysmic-Gladiators-Decapitator-elite.png",
+		"objectFit": false,
+		"title": "Лабрисса Гладиатора Катаклизма (Элитный)",
+		"description": "11-й сезон (элитный) Уровень предмета: 49 Становится персональным при получении Двуручное Топор Урон: 7 - 15 Скорость 3.60 (7.4 ед. урона в секунду) +10 к силе +15 к выносливости +10 к критическому удару (0.22% на 90 ур.) +10 к универсальности (0.19% на 90 ур.) Прочность: 120 / 120 Требуется 35-й ур. Цена продажи: 8 2 84",
+		"dmg": 1000,
+		"speed": 2.6,
+		"price": 300
+	},
+
+	{
+		"id": "PhaseLostBattleaxe",
+		"type": "two-handed-weapons",
+		"path": "",
+		"weaponType": "Двуручный Топор",
+		"label": "Эпический",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Phase-Lost-Battleaxe.png",
+		"objectFit": false,
+		"title": "Межфазовый Боевой Топор",
+		"description": "Декоративный эффект Уровень предмета: 1 Привязывается к отряду Двуручное Топор Урон: 1 - 2 Скорость 3.60 (0.4 ед. урона в секунду) Прочность: 30 / 30 Требуется 80-й ур. Использование: добавляет эту иллюзию для трансмогрификации в коллекцию вашего отряда. Цена продажи: 38",
 		"dmg": 1000,
 		"speed": 2.6,
 		"price": 300
@@ -1530,6 +1560,21 @@
 		"objectFit": false,
 		"title": "Большой Топор Головоруба (Героический)",
 		"description": "Героический Уровень предмета: 15 Становится персональным при получении Двуручное Топор Урон: 7 - 15 Скорость 3.60 (3.1 ед. урона в секунду) +4 к силе +6 к выносливости +4 к скорости (0.34% на 80 ур.) +4 к искусности (0.33% на 80 ур.) Прочность: 120 / 120 Требуется 32-й ур. Цена продажи: 2 74 41 Добывается с: Шэннокс Вероятность получения: 18.13%",
+		"dmg": 1000,
+		"speed": 2.6,
+		"price": 300
+	},
+
+	{
+		"id": "PhaseLostChopper",
+		"type": "two-handed-weapons",
+		"path": "",
+		"weaponType": "Двуручный Топор",
+		"label": "Эпический",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Phase-Lost-Chopper.png",
+		"objectFit": false,
+		"title": "Межфазовый Колун",
+		"description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolores vel temporibus officiis quam, culpa doloremque dolore debitis cum aliquid. Sequi.",
 		"dmg": 1000,
 		"speed": 2.6,
 		"price": 300
