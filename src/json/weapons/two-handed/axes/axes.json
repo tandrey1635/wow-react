@@ -356,7 +356,7 @@
 		"type": "weapons",
 		"path": "Severance",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Severance.png",
-		"objectFit": false,
+		"objectFit": true,
 		"title": "Отсечение",
 		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
 		"price": 300
