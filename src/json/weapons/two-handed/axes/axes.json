@@ -1016,7 +1016,7 @@
 		"type": "weapons",
 		"path": "ShadowsEdge",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Shadows-Edge.png",
-		"objectFit": false,
+		"objectFit": true,
 		"title": "Грань Тьмы",
 		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
 		"price": 300
