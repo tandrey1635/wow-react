@@ -1454,7 +1454,7 @@
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Riptide-Slicer.png",
 		"objectFit": false,
 		"title": "Рассекатель Прилива",
-		"description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolores vel temporibus officiis quam, culpa doloremque dolore debitis cum aliquid. Sequi.",
+		"description": "Декоративный эффект Уровень предмета: 1 Привязывается к отряду Двуручное Топор Урон: 1 Скорость 3.60 (0.3 ед. урона в секунду) Можно использовать как якорь, но лучше как рубящее оружие. Использование: добавляет эту иллюзию для трансмогрификации в коллекцию вашего отряда. Цена продажи: 14 цена Торговой лавки: 125 Торговый жетон",
 		"dmg": 1000,
 		"speed": 2.6,
 		"price": 300
@@ -1574,7 +1574,7 @@
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Phase-Lost-Chopper.png",
 		"objectFit": false,
 		"title": "Межфазовый Колун",
-		"description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolores vel temporibus officiis quam, culpa doloremque dolore debitis cum aliquid. Sequi.",
+		"description": "Декоративный эффект Уровень предмета: 1 Привязывается к отряду Двуручное Топор Урон: 1 - 2 Скорость 3.60 (0.4 ед. урона в секунду) Прочность: 30 / 30 Требуется 80-й ур. Использование: добавляет эту иллюзию для трансмогрификации в коллекцию вашего отряда. Цена продажи: 38",
 		"dmg": 1000,
 		"speed": 2.6,
 		"price": 300
