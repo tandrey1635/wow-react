@@ -120,6 +120,36 @@
 	},
 
 	{
+		"id": "BattleaxeOfTheSoberDwarf",
+		"type": "two-handed-weapons",
+		"path": "",
+		"weaponType": "Двуручный Топор",
+		"label": "Эпический",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Battleaxe-of-the-Sober-Dwarf.png",
+		"objectFit": false,
+		"title": "Боевой Топор Дворфа Трезвенника",
+		"description": "Фракция: Альянс Уровень предмета: 80 Становится персональным при получении Двуручное Топор Урон: 2 - 4 Скорость 3.60 (13.3 ед. урона в секунду) +22 к силе +24 к выносливости Прочность: 45 / 45 Это небывальщина, дружище. Цена продажи: 53 7 45",
+		"dmg": 1000,
+		"speed": 2.6,
+		"price": 300
+	},
+
+	{
+		"id": "ShadowhideBattleAxe",
+		"type": "two-handed-weapons",
+		"path": "",
+		"weaponType": "Двуручный Топор",
+		"label": "Эпический",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Shadowhide-Battle-Axe.png",
+		"objectFit": false,
+		"title": "Боевой Топор Темношкуров",
+		"description": "Уровень предмета: 80 Становится персональным при надевании Двуручное Топор Урон: 4 - 10 Скорость 3.60 (13.3 ед. урона в секунду) +25 к силе +13 к выносливости Прочность: 85 / 85 Требуется 1-й ур. Цена продажи: 53 46 11 Добывается с: Воин из стаи Темношкуров Вероятность получения: 0.13%",
+		"dmg": 1000,
+		"speed": 2.6,
+		"price": 300
+	},
+
+	{
 		"id": "PendulumOfDoom",
 		"type": "two-handed-weapons",
 		"path": "",
