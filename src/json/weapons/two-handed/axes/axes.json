@@ -572,6 +572,17 @@
 	},
 
 	{
+		"id": "HonedVoidaxe",
+		"type": "weapons",
+		"path": "HonedVoidaxe",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Honed-Voidaxe.png",
+		"objectFit": false,
+		"title": "Заточенный Топор Бездны",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
 		"id": "Gorehowl",
 		"type": "weapons",
 		"path": "Gorehowl",
@@ -1247,7 +1258,7 @@
 		"type": "weapons",
 		"path": "ShinkaExecutionOfDominionRaidFinder",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Shinka-Execution-of-Dominion-raid-finder.png",
-		"objectFit": false,
+		"objectFit": true,
 		"title": "Шин'ка, Палач Доминиона (Поиск Рейда)",
 		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
 		"price": 300
@@ -1258,7 +1269,7 @@
 		"type": "weapons",
 		"path": "ShinkaExecutionOfDominionNormal",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Shinka-Execution-of-Dominion-normal.png",
-		"objectFit": false,
+		"objectFit": true,
 		"title": "Шин'ка, Палач Доминиона",
 		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
 		"price": 300
@@ -1269,7 +1280,7 @@
 		"type": "weapons",
 		"path": "ShinkaExecutionOfDominionHeroic",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Shinka-Execution-of-Dominion-heroic.png",
-		"objectFit": false,
+		"objectFit": true,
 		"title": "Шин'ка, Палач Доминиона (Героический)",
 		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
 		"price": 300
@@ -1280,7 +1291,7 @@
 		"type": "weapons",
 		"path": "ShinkaTheTyrantsGreataxe",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Shinka-the-Tyrants-Greataxe.png",
-		"objectFit": false,
+		"objectFit": true,
 		"title": "Шин'ка, Большой Топор Тирана",
 		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
 		"price": 300
@@ -1601,6 +1612,39 @@
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Primal-Gladiators-Decapitator-elite.png",
 		"objectFit": false,
 		"title": "Лабрисса Необузданного Гладиатора (Элитный)",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "WarmongeringGladiatorsDecapitatorHorde",
+		"type": "weapons",
+		"path": "WarmongeringGladiatorsDecapitatorHorde",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Warmongering-Gladiators-Decapitator-horde.png",
+		"objectFit": false,
+		"title": "Лабрисса Воинственного Гладиатора (Орда)",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "WarmongeringGladiatorsDecapitatorAlliance",
+		"type": "weapons",
+		"path": "WarmongeringGladiatorsDecapitatorAlliance",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Warmongering-Gladiators-Decapitator-alliance.png",
+		"objectFit": false,
+		"title": "Лабрисса Воинственного Гладиатора (Альянс)",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "WarmongeringGladiatorsDecapitatorElite",
+		"type": "weapons",
+		"path": "WarmongeringGladiatorsDecapitatorElite",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Warmongering-Gladiators-Decapitator-elite.png",
+		"objectFit": false,
+		"title": "Лабрисса Воинственного Гладиатора (Элитный)",
 		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
 		"price": 300
 	},
