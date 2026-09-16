@@ -561,6 +561,17 @@
 	},
 
 	{
+		"id": "CrystalforgedWarAxe",
+		"type": "weapons",
+		"path": "CrystalforgedWarAxe",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Crystalforged-War-Axe.png",
+		"objectFit": false,
+		"title": "Секира Хрустальной Кузницы",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
 		"id": "BurningCrusader",
 		"type": "weapons",
 		"path": "BurningCrusader",
@@ -1720,7 +1731,7 @@
 		"type": "weapons",
 		"path": "HellrenderNormal",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Hellrender-normal.png",
-		"objectFit": false,
+		"objectFit": true,
 		"title": "Рассекатель Преисподней",
 		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
 		"price": 300
