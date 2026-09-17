@@ -1353,6 +1353,28 @@
 	},
 
 	{
+		"id": "XalatohDesecratedImageOfGorehowlRaidFinder",
+		"type": "weapons",
+		"path": "XalatohDesecratedImageOfGorehowlRaidFinder",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Xalatoh-Desecrated-Image-of-Gorehowl.png",
+		"objectFit": false,
+		"title": "Ксал'ато, Оскверненный Образ Кровавого Воя (Поиск Рейда)",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "XalatohMalformedImageOfGorehowl",
+		"type": "weapons",
+		"path": "XalatohMalformedImageOfGorehowl",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Xalatoh-Malformed-Image-of-Gorehowl.png",
+		"objectFit": false,
+		"title": "Ксал'ато, Искаженный Образ Кровавого Воя",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
 		"id": "PrimalCombatantsDecapitator",
 		"type": "weapons",
 		"path": "PrimalCombatantsDecapitator",

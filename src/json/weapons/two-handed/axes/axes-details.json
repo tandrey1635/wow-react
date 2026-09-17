@@ -1851,6 +1851,36 @@
 	},
 
 	{
+		"id": "XalatohDesecratedImageOfGorehowlRaidFinder",
+		"type": "two-handed-weapons",
+		"path": "",
+		"weaponType": "Двуручный Топор",
+		"label": "Эпический",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Xalatoh-Desecrated-Image-of-Gorehowl.png",
+		"objectFit": false,
+		"title": "Ксал'ато, Оскверненный Образ Кровавого Воя (Поиск Рейда)",
+		"description": "Уровень предмета: 50 Становится персональным при получении Двуручное Топор Урон: 7 - 15 Скорость 3.60 (7.5 ед. урона в секунду) +8 к силе +15 к выносливости +9 к критическому удару (0.20% на 90 ур.) +9 к искусности (0.20% на 90 ур.) бесцветное гнездо При соответствии цвета: +1 к силе Прочность: 120 / 120 Требуется 35-й ур. Цена продажи: 9 10 24",
+		"dmg": 1000,
+		"speed": 2.6,
+		"price": 300
+	},
+
+	{
+		"id": "XalatohMalformedImageOfGorehowl",
+		"type": "two-handed-weapons",
+		"path": "",
+		"weaponType": "Двуручный Топор",
+		"label": "Эпический",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Xalatoh-Malformed-Image-of-Gorehowl.png",
+		"objectFit": false,
+		"title": "Ксал'ато, Искаженный Образ Кровавого Воя",
+		"description": "Уровень предмета: 11 Становится персональным при получении Двуручное Топор Урон: 4 - 10 Скорость 3.60 (1.9 ед. урона в секунду) +28 к силе +28 к ловкости +38 к интеллекту Требуемый уровень: 10 - 70 [(70)]",
+		"dmg": 1000,
+		"speed": 2.6,
+		"price": 300
+	},
+
+	{
 		"id": "PrimalCombatantsDecapitator",
 		"type": "two-handed-weapons",
 		"path": "",
