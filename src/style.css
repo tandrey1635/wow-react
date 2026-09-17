@@ -1259,6 +1259,7 @@ footer {
   font-size: 32px;
   transition: 0.5s all;
   filter: drop-shadow(0 0 2px #000);
+  white-space: pre-line;
 }
 @media (max-width: 991.98px) {
   .card-title {

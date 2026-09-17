@@ -1204,7 +1204,7 @@
 		"path": "ExperimentalSpecimenSlicerRaidFinder",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Experimental-Specimen-Slicer-raid-finder.png",
 		"objectFit": true,
-		"title": "Тесак для Экспериментальных Образцов (Поиск Рейда)",
+		"title": "Тесак для Экспериментальных Образцов\n (Поиск Рейда)",
 		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
 		"price": 300
 	},
@@ -1270,7 +1270,7 @@
 		"path": "ShinkaExecutionOfDominionRaidFinder",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Shinka-Execution-of-Dominion-raid-finder.png",
 		"objectFit": true,
-		"title": "Шин'ка, Палач Доминиона (Поиск Рейда)",
+		"title": "Шин'ка, Палач Доминиона\n (Поиск Рейда)",
 		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
 		"price": 300
 	},
@@ -1358,7 +1358,7 @@
 		"path": "XalatohDesecratedImageOfGorehowlRaidFinder",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Xalatoh-Desecrated-Image-of-Gorehowl.png",
 		"objectFit": false,
-		"title": "Ксал'ато, Оскверненный Образ Кровавого Воя (Поиск Рейда)",
+		"title": "Ксал'ато, Оскверненный Образ Кровавого Воя\n (Поиск Рейда)",
 		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
 		"price": 300
 	},
@@ -1886,7 +1886,7 @@
 		"path": "SkshuulVazRaidFinder",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Skshuul-Vaz-raid-finder.png",
 		"objectFit": false,
-		"title": "Ск'шуул Ваз (Поиск Рейда)",
+		"title": "Ск'шуул Ваз\n (Поиск Рейда)",
 		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
 		"price": 300
 	},
@@ -2491,7 +2491,7 @@
 		"path": "AnubarashsColossalMandibleRaidFinder",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Anubarashs-Colossal-Mandible-raid-finder.png",
 		"objectFit": false,
-		"title": "Огромная Челюсть Ануб'араша (Поиск Рейда)",
+		"title": "Огромная Челюсть Ануб'араша\n (Поиск Рейда)",
 		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
 		"price": 300
 	},
