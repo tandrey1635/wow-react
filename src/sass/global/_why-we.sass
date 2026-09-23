@@ -1,0 +1,60 @@
+@use '../base/index' as *
+
+.why__we
+	padding: 50px 0
+	@media ( max-width: 425px )
+		padding: 32px 0
+	&__header
+		font-size: 64px
+		color: $titleColor
+		font-weight: 700
+		@media ( max-width: 767.98px )
+			font-size: 56px
+		@media ( max-width: 676px )
+			font-size: 48px
+		@media ( max-width: 575.98px )
+			font-size: 42px
+		@media ( max-width: 480px )
+			font-size: 36px
+		@media ( max-width: 425px )
+			font-size: 32px
+	&__wrapper
+		border-radius: 50px
+		background: $whyWeBg
+		@media ( max-width: 425px )
+			border-radius: 30px
+	&__items
+		flex-shrink: 0
+		width: calc(100% / 6)
+		color: $secondColor
+		font-size: 18px
+		@media( max-width: 991.98px)
+			width: 100%
+	&__img
+		width: 60px
+		height: 60px
+		@media( max-width: 425px)
+			width: 50px
+			height: 50px
+		@media( max-width: 375px)
+			width: 45px
+			height: 45px
+	&__description
+		@media( max-width: 991.98px)
+			width: 50%
+		@media( max-width: 767.98px)
+			width: 70%
+		@media( max-width: 575.98px)
+			width: 80%
+		@media( max-width: 480px)
+			width: 100%
+	&__text, &__info
+		font-size: 16px
+		color: $secondColor
+		@media( max-width: 425px)
+			font-size: 14px
+	&__info
+		font-size: 20px
+		font-weight: 700
+		@media( max-width: 425px)
+			font-size: 16px

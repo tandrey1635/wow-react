@@ -1,0 +1,34 @@
+[
+	{
+		"id": "Brewmaster",
+		"type": "monk",
+		"path": "",
+		"img": "/src/assets/img/promo/bg/classes/monk/Brewmaster.jpg",
+		"objectFit": false,
+		"title": "Хмелевар",
+		"description": "Закажите артефакты для Монаха Хмелевара",
+		"price": 800
+	},
+
+	{
+		"id": "Mistweaver",
+		"type": "monk",
+		"path": "",
+		"img": "/src/assets/img/promo/bg/classes/monk/Mistweaver.jpg",
+		"objectFit": false,
+		"title": "Ткач Туманов",
+		"description": "Закажите артефакты для Монаха Ткача Туманов",
+		"price": 800
+	},
+
+	{
+		"id": "Windwalker",
+		"type": "monk",
+		"path": "",
+		"img": "/src/assets/img/promo/bg/classes/monk/Windwalker.jpg",
+		"objectFit": false,
+		"title": "Танцующий с Ветром",
+		"description": "Закажите артефакты для Монаха Танцующего с Ветром",
+		"price": 800
+	}
+]

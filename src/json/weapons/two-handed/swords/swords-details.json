@@ -1,0 +1,16 @@
+[
+	{
+		"id": "Крутой Меч",
+		"type": "two-handed-weapons",
+		"path": "",
+		"weaponType": "Двуручный Меч",
+		"label": "Эпический",
+		"img": "/src/assets/img/weapons/bg/two-handed/swords/.png",
+		"objectFit": false,
+		"title": "Крутой Меч",
+		"description": "",
+		"dmg": 1000,
+		"speed": 2.6,
+		"price": 300
+	}
+]

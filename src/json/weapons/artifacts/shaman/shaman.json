@@ -1,0 +1,34 @@
+[
+	{
+		"id": "Elemental",
+		"type": "shaman",
+		"path": "",
+		"img": "/src/assets/img/promo/bg/classes/shaman/Elemental.jpg",
+		"objectFit": false,
+		"title": "Стихии",
+		"description": "Закажите артефакты для Шамана Стихий",
+		"price": 800
+	},
+
+	{
+		"id": "Enhancement",
+		"type": "shaman",
+		"path": "",
+		"img": "/src/assets/img/promo/bg/classes/shaman/Enhancement.jpg",
+		"objectFit": false,
+		"title": "Совершенствование",
+		"description": "Закажите артефакты для Шамана Совершенствования",
+		"price": 800
+	},
+
+	{
+		"id": "Restoration",
+		"type": "shaman",
+		"path": "",
+		"img": "/src/assets/img/promo/bg/classes/shaman/Restoration.jpg",
+		"objectFit": false,
+		"title": "Исцеление",
+		"description": "Закажите артефакты для Шамана Исцеления",
+		"price": 800
+	}
+]

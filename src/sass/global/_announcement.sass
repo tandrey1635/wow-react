@@ -1,0 +1,118 @@
+@use '../base/index' as *
+
+.announcement
+	min-height: 150px
+	&__header, &__text
+		filter: brightness(125%)
+		color: $textColor
+	&__header
+		font-weight: 900
+		font-size: 64px
+		text-transform: uppercase
+		white-space: pre-wrap
+		@media ( max-width: 767.98px )
+			font-size: 56px
+		@media ( max-width: 676px )
+			font-size: 48px
+		@media ( max-width: 575.98px )
+			font-size: 42px
+		@media ( max-width: 480px )
+			font-size: 36px
+		@media ( max-width: 425px )
+			font-size: 32px
+		@media ( max-width: 375px )
+			font-size: 28px
+		&_races
+			background: $racesColor
+			background-clip: text
+			color: transparent
+		&_horde
+			color: $hordeColor
+		&_alliance
+			color: $allianceColor
+		&_warrior
+			color: $warriorColor
+		&_druid
+			color: $druidColor
+		&_priest
+			color: $priestColor
+		&_mage
+			color: $mageColor
+		&_monk
+			color: $monkColor
+		&_hunter
+			color: $hunterColor
+		&_demon-hunter
+			color: $demonHunterColor
+		&_paladin
+			color: $paladinColor
+		&_awakener
+			color: $awakenerColor
+		&_rogue
+			color: $rogueColor
+		&_death-knight
+			color: $deathKnightColor
+		&_warlock
+			color: $warlockColor
+		&_shaman
+			color: $shamanColor
+		&_legendary
+			color: $legendaryColor
+		&_artifact
+			color: $artifactColor
+		&_decorative
+			color: $decorativeColor
+		&_water-mounts
+			color: $waterMountsColor
+		&_earth-mounts
+			color: $earthMountsColor
+		&_fly-mounts
+			color: $flyMountsColor
+		&_mining
+			color: $miningColor
+		&_blacksmithing
+			color: $blacksmithingColor
+		&_cooking
+			color: $cookingColor
+		&_fishing
+			color: $fishingColor
+		&_сlassic
+			color: $classicColor
+		&_burning-crusade
+			color: $burningCrusadeColor
+		&_wrath-of-the-lich-king
+			color: $wrathOfTheLichKingColor
+		&_cataclysm
+			color: $cataclysmColor
+		&_mists-of-pandaria
+			color: $mistsOfPandariaColor
+		&_warlords-of-draenor
+			color: $warlordsOfDraenorColor
+		&_legion
+			color: $legionColor
+		&_battle-for-azeroth
+			color: $battleForAzerothColor
+		&_shadowlands
+			color: $shadowlandsColor
+		&_dragonflight
+			color: $dragonflightColor
+		&_war-within
+			color: $warWithinColor
+		&_midnight
+			color: $midnightColor
+		&_last-titan
+			color: $lastTitanColor
+		&_achievements
+			color: $achievementsColor
+	&__text
+		font-size: 32px
+		line-height: 1.2
+		font-weight: 700
+		@media ( max-width: 767.98px )
+			font-size: 28px
+		@media ( max-width: 676px )
+			font-size: 24px
+		@media ( max-width: 575.98px )
+			font-size: 20px
+		@media ( max-width: 480px )
+			font-size: 18px

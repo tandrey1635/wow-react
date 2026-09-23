@@ -1,0 +1,25 @@
+[
+	{
+		"id": "GoldHorde",
+		"type": "faction-horde",
+		"path": "gold/horde",
+		"img": "/src/assets/img/promo/bg/faction/horde.png",
+		"objectFit": false,
+		"title": "Орда",
+		"description": "Золото для игроков Орды. Любой сервер. За Орду!",
+		"price": 1000,
+		"gold": true
+	},
+
+	{
+		"id": "GoldAlliance",
+		"type": "faction-alliance",
+		"path": "gold/alliance",
+		"img": "/src/assets/img/promo/bg/faction/alliance.png",
+		"objectFit": false,
+		"title": "Альянс",
+		"description": "Золото для игроков Альянса. Любой сервер. За Альянс!",
+		"price": 1000,
+		"gold": true
+	}
+]

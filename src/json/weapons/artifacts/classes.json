@@ -1,0 +1,133 @@
+[
+	{
+		"id": "Warrior",
+		"type": "warrior",
+		"path": "warrior",
+		"img": "/src/assets/img/promo/bg/classes/Garrosh-Hellscream.png",
+		"objectFit": false,
+		"title": "Воин",
+		"description": "Артефакты для Воина",
+		"price": 800
+	},
+
+	{
+		"id": "Druid",
+		"type": "druid",
+		"path": "druid",
+		"img": "/src/assets/img/promo/bg/classes/Malfurion.png",
+		"objectFit": false,
+		"title": "Друид",
+		"description": "Артефакты для Друида",
+		"price": 800
+	},
+
+	{
+		"id": "Priest",
+		"type": "priest",
+		"path": "priest",
+		"img": "/src/assets/img/promo/bg/classes/Velen.png",
+		"objectFit": false,
+		"title": "Жрец",
+		"description": "Артефакты для Жреца",
+		"price": 800
+	},
+
+	{
+		"id": "Mage",
+		"type": "mage",
+		"path": "mage",
+		"img": "/src/assets/img/promo/bg/classes/Djaina-Proudmoure.png",
+		"objectFit": false,
+		"title": "Маг",
+		"description": "Артефакты для Мага",
+		"price": 800
+	},
+
+	{
+		"id": "Monk",
+		"type": "monk",
+		"path": "monk",
+		"img": "/src/assets/img/promo/bg/classes/Tjan-Dju.png",
+		"objectFit": false,
+		"title": "Монах",
+		"description": "Артефакты для Монаха",
+		"price": 800
+	},
+
+	{
+		"id": "Hunter",
+		"type": "hunter",
+		"path": "hunter",
+		"img": "/src/assets/img/promo/bg/classes/Rexar.png",
+		"objectFit": false,
+		"title": "Охотник",
+		"description": "Артефакты для Охотника",
+		"price": 800
+	},
+
+	{
+		"id": "DemonHunter",
+		"type": "demon-hunter",
+		"path": "demon-hunter",
+		"img": "/src/assets/img/promo/bg/classes/Illidan.png",
+		"objectFit": false,
+		"title": "Охотник на Демонов",
+		"description": "Артефакты для Охотника на Демонов",
+		"price": 800
+	},
+
+	{
+		"id": "Paladin",
+		"type": "paladin",
+		"path": "paladin",
+		"img": "/src/assets/img/promo/bg/classes/Tirion-Fordring.png",
+		"objectFit": false,
+		"title": "Паладин",
+		"description": "Артефакты для Паладина",
+		"price": 800
+	},
+
+	{
+		"id": "Rogue",
+		"type": "rogue",
+		"path": "rogue",
+		"img": "/src/assets/img/promo/bg/classes/Valira-Sangvinar.png",
+		"objectFit": false,
+		"title": "Разбойник",
+		"description": "Артефакты для Разбойника",
+		"price": 800
+	},
+
+	{
+		"id": "DeathKnight",
+		"type": "death-knight",
+		"path": "death-knight",
+		"img": "/src/assets/img/promo/bg/classes/Lich-King.png",
+		"objectFit": false,
+		"title": "Рыцарь Смерти",
+		"description": "Артефакты для Рыцаря Смерти",
+		"price": 800
+	},
+
+	{
+		"id": "Warlock",
+		"type": "warlock",
+		"path": "warlock",
+		"img": "/src/assets/img/promo/bg/classes/Guldan.png",
+		"objectFit": false,
+		"title": "Чернокнижник",
+		"description": "Артефакты для Чернокнижника",
+		"price": 800
+	},
+
+	{
+		"id": "Shaman",
+		"type": "shaman",
+		"path": "shaman",
+		"img": "/src/assets/img/promo/bg/classes/Thrall.png",
+		"objectFit": false,
+		"title": "Шаман",
+		"description": "Артефакты для Шамана",
+		"price": 800
+	}
+]

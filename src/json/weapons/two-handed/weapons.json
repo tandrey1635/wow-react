@@ -1,0 +1,52 @@
+[
+	{
+		"id": "TwoHandedAxes",
+		"type": "weapons",
+		"path": "axes",
+		"img": "/src/assets/img/promo/bg/weapons/two-handed/two-handed-axes.png",
+		"objectFit": true,
+		"title": "Двуручные Топоры",
+		"description": "Двуручные топоры — мощное рубящее оружие. Для тех, кто ценит силу и размах в бою. Сила удара сокрушает доспехи, дробит кости и не оставляет врагу ни единого шанса.",
+		"price": 300
+	},
+
+	{
+		"id": "TwoHandedSwords",
+		"type": "weapons",
+		"path": "swords",
+		"img": "/src/assets/img/promo/bg/weapons/two-handed.png",
+		"title": "Двуручные Мечи",
+		"description": "Двуручные Мечи — смертоносное режущее оружие. Для тех, кто ценит точность и мастерство в бою. Острота клинка рассекает доспехи, режет плоть и не оставляет врагу ни единого шанса.",
+		"price": 300
+	},
+
+	{
+		"id": "1",
+		"type": "weapons",
+		"path": "",
+		"img": "/src/assets/img/promo/bg/weapons/two-handed.png",
+		"title": "Двуручное Дробящее",
+		"description": "Закажите любую двуручную булаву",
+		"price": 300
+	},
+
+	{
+		"id": "2",
+		"type": "weapons",
+		"path": "",
+		"img": "/src/assets/img/promo/bg/weapons/two-handed.png",
+		"title": "Древковое",
+		"description": "Закажите любую двуручное копье",
+		"price": 300
+	},
+
+	{
+		"id": "3",
+		"type": "weapons",
+		"path": "",
+		"img": "/src/assets/img/promo/bg/weapons/two-handed.png",
+		"title": "Посохи",
+		"description": "Закажите любой посох",
+		"price": 300
+	}
+]

@@ -1,0 +1,177 @@
+[
+	{
+		"id": "Apron",
+		"type": "cooking",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/cooking/Apron.png",
+		"objectFit": false,
+		"title": "Фартук",
+		"description": "Для тех, кто знает толк в готовке. Теплые вечера у плиты, масло на сковороде и радость от сытых друзей. Каждое блюдо, маленькая победа. +10 к навыку Кулинарии. Набор: Фартук, Сковорода, Скалка +10 к навыку Кулинарии.",
+		"price": 300
+	},
+
+	{
+		"id": "FryingPan",
+		"type": "cooking",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/cooking/Frying-Pan.png",
+		"objectFit": true,
+		"title": "Сковорода",
+		"description": "Для тех, кто знает толк в готовке. Теплые вечера у плиты, масло на сковороде и радость от сытых друзей. Каждое блюдо, маленькая победа. +10 к навыку Кулинарии. Набор: Фартук, Сковорода, Скалка +10 к навыку Кулинарии.",
+		"price": 300
+	},
+
+	{
+		"id": "RollingPin",
+		"type": "cooking",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/cooking/Rolling-Pin.png",
+		"objectFit": true,
+		"title": "Скалка",
+		"description": "Для тех, кто знает толк в готовке. Теплые вечера у плиты, масло на сковороде и радость от сытых друзей. Каждое блюдо, маленькая победа. +10 к навыку Кулинарии. Набор: Фартук, Сковорода, Скалка +10 к навыку Кулинарии.",
+		"price": 300
+	},
+
+	{
+		"id": "ChefsSmoothRollingPin",
+		"type": "cooking",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/cooking/Chefs-Smooth-Rolling-Pin.png",
+		"objectFit": true,
+		"title": "Гладкая Cкалка Шеф Повара",
+		"description": "Для тех, кто знает толк в готовке. Теплые вечера у плиты, масло на сковороде и радость от сытых друзей. Каждое блюдо, маленькая победа. +6 к навыку Кулинарии. +29 к скорости приготовления.",
+		"price": 300
+	},
+
+	{
+		"id": "ChefsSplendidRollingPin",
+		"type": "cooking",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/cooking/Chefs-Splendid-Rolling-Pin.png",
+		"objectFit": true,
+		"title": "Прекрасная Скалка Шеф Повара",
+		"description": "Для тех, кто знает толк в готовке. Теплые вечера у плиты, масло на сковороде и радость от сытых друзей. Каждое блюдо, маленькая победа. +10 к навыку Кулинарии. +31 к скорости приготовления.",
+		"price": 300
+	},
+
+	{
+		"id": "BigBlueSpoon",
+		"type": "cooking",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/cooking/Big-Blue-Spoon.png",
+		"objectFit": true,
+		"title": "Большая Синяя Ложка",
+		"description": "Для тех, кто знает толк в готовке. Теплые вечера у плиты, масло на сковороде и радость от сытых друзей. Каждое блюдо, маленькая победа.",
+		"price": 300
+	},
+
+	{
+		"id": "BigSteelSpoon",
+		"type": "cooking",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/cooking/Big-Steel-Spoon.png",
+		"objectFit": true,
+		"title": "Большая Стальная Ложка",
+		"description": "Для тех, кто знает толк в готовке. Теплые вечера у плиты, масло на сковороде и радость от сытых друзей. Каждое блюдо, маленькая победа.",
+		"price": 300
+	},
+
+	{
+		"id": "BigFancySpoon",
+		"type": "cooking",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/cooking/Big-Fancy-Spoon.png",
+		"objectFit": true,
+		"title": "Большая Красивая Ложка",
+		"description": "Для тех, кто знает толк в готовке. Теплые вечера у плиты, масло на сковороде и радость от сытых друзей. Каждое блюдо, маленькая победа.",
+		"price": 300
+	},
+
+	{
+		"id": "BigGoldSpoon",
+		"type": "cooking",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/cooking/Big-Gold-Spoon.png",
+		"objectFit": true,
+		"title": "Большая Золотая Ложка",
+		"description": "Для тех, кто знает толк в готовке. Теплые вечера у плиты, масло на сковороде и радость от сытых друзей. Каждое блюдо, маленькая победа.",
+		"price": 300
+	},
+
+	{
+		"id": "BigIronFork",
+		"type": "cooking",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/cooking/Big-Iron-Fork.png",
+		"objectFit": true,
+		"title": "Большая Железная Вилка",
+		"description": "Для тех, кто знает толк в готовке. Теплые вечера у плиты, масло на сковороде и радость от сытых друзей. Каждое блюдо, маленькая победа.",
+		"price": 300
+	},
+
+	{
+		"id": "BigBronzeFork",
+		"type": "cooking",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/cooking/Big-Bronze-Fork.png",
+		"objectFit": true,
+		"title": "Большая Бронзовая Вилка",
+		"description": "Для тех, кто знает толк в готовке. Теплые вечера у плиты, масло на сковороде и радость от сытых друзей. Каждое блюдо, маленькая победа.",
+		"price": 300
+	},
+
+	{
+		"id": "BigSilverFork",
+		"type": "cooking",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/cooking/Big-Silver-Fork.png",
+		"objectFit": true,
+		"title": "Большая Серебряная Вилка",
+		"description": "Для тех, кто знает толк в готовке. Теплые вечера у плиты, масло на сковороде и радость от сытых друзей. Каждое блюдо, маленькая победа.",
+		"price": 300
+	},
+
+	{
+		"id": "BigGoldFork",
+		"type": "cooking",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/cooking/Big-Gold-Fork.png",
+		"objectFit": true,
+		"title": "Большая Золотая Вилка",
+		"description": "Для тех, кто знает толк в готовке. Теплые вечера у плиты, масло на сковороде и радость от сытых друзей. Каждое блюдо, маленькая победа.",
+		"price": 300
+	},
+
+	{
+		"id": "ChefsHat",
+		"type": "cooking",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/cooking/Chefs-Hat.png",
+		"objectFit": false,
+		"title": "Поварской Колпак",
+		"description": "Для тех, кто знает толк в готовке. Теплые вечера у плиты, масло на сковороде и радость от сытых друзей. Каждое блюдо, маленькая победа. Позволяет готовить быстрее. (снижает время готовки блюд с 3 секунд до 0.5 секунды!).",
+		"price": 300
+	},
+
+	{
+		"id": "SuperElegantArtisansCookingHat",
+		"type": "cooking",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/cooking/Super-Elegant-Artisans-Cooking-Hat.png",
+		"objectFit": false,
+		"title": "Поварской Cуперколпак Элегантного Ремесленника",
+		"description": "Для тех, кто знает толк в готовке. Теплые вечера у плиты, масло на сковороде и радость от сытых друзей. Каждое блюдо, маленькая победа. +11 к навыку Кулинарии. +15 к скорости приготовления.",
+		"price": 300
+	},
+
+	{
+		"id": "WeaverclothChefsHat",
+		"type": "cooking",
+		"path": "",
+		"img": "/src/assets/img/professions/bg/cooking/Weavercloth-Chefs-Hat.png",
+		"objectFit": false,
+		"title": "Поварской Колпак из Паутинной Ткани",
+		"description": "Для тех, кто знает толк в готовке. Теплые вечера у плиты, масло на сковороде и радость от сытых друзей. Каждое блюдо, маленькая победа. +5 к навыку Кулинарии. +26 к скорости приготовления.",
+		"price": 300
+	}
+]

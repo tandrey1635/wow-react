@@ -1,0 +1,463 @@
+[
+	{
+		"id": "SharktestedCrestHorn",
+		"type": "earth-mounts",
+		"path": "",
+		"img": "/src/assets/img/mounts/bg/earth/Sharktested-Crest-Horn.png",
+		"objectFit": false,
+		"title": "Акулостойкий Гребнерог",
+		"description": "Гребнероги часто заходят в воду, чтобы полакомиться водорослями. Некоторые даже готовы ради этого сражаться со свирепыми хищниками, что делает их настоящими калу'аками. Источник: Торговая лавка.",
+		"price": 200
+	},
+
+	{
+		"id": "CrimsonMudnose",
+		"type": "earth-mounts",
+		"path": "",
+		"img": "/src/assets/img/mounts/bg/earth/Crimson-Mudnose.png",
+		"objectFit": false,
+		"title": "Алый Грязенос",
+		"description": "Кобольды часто ездят на грязеносах верхом. Для вас Ассамблея глубин предоставила одного из самых преданных. Торговец: Воскоделец Пик-пик. Зона: Гулкие глубины.",
+		"price": 200
+	},
+
+	{
+		"id": "ScarletHelicid",
+		"type": "earth-mounts",
+		"path": "",
+		"img": "/src/assets/img/mounts/bg/earth/Scarlet-Helicid.png",
+		"objectFit": false,
+		"title": "Алый Хелицид",
+		"description": "Этот хелицид отличается от своих собратьев только двумя вещами: необычным красным оттенком и полным отсутствием слизи. Профессия: Протосинтез.",
+		"price": 200
+	},
+
+	{
+		"id": "AmaniBattleBear",
+		"type": "earth-mounts",
+		"path": "",
+		"img": "/src/assets/img/mounts/bg/earth/Amani-Battle-Bear.png",
+		"objectFit": false,
+		"title": "Аманийский Боевой Медведь",
+		"description": "Аманийские тролли украшают этих свирепых зверей магическими амулетами и церемониальными масками, поклоняясь богу-медведю Налоракку. Источник: Сумка Кайши. Зона: Зул'аман (героический режим). Вероятность получения: 100%.",
+		"price": 200
+	},
+
+	{
+		"id": "AmaniBattleBearRaid",
+		"type": "earth-mounts",
+		"path": "",
+		"img": "/src/assets/img/mounts/bg/earth/Amani-Battle-Bear-raid.png",
+		"objectFit": false,
+		"title": "Аманийский Боевой Медведь",
+		"description": "Только самым искусным исследователям храма троллей Зул'Аман удавалось подчинить себе этих редких боевых животных. Источник: Сумка Кайши. Зона: Зул'аман (The Burning Crusade). Вероятность получения: 100%.",
+		"price": 200
+	},
+
+	{
+		"id": "MekgineersChopper",
+		"type": "earth-mounts",
+		"path": "",
+		"img": "/src/assets/img/mounts/bg/earth/Mekgineers-Chopper.png",
+		"objectFit": false,
+		"title": "Анжинерский Чоппер",
+		"description": "Это чудо техники — один из немногих в Азероте мотоциклов, рассчитанных на двух седоков. Профессия: Инженерное дело.",
+		"price": 200
+	},
+
+	{
+		"id": "PhalynxOfLoyalty",
+		"type": "earth-mounts",
+		"path": "",
+		"img": "/src/assets/img/mounts/bg/earth/Phalynx-of-Loyalty.png",
+		"objectFit": false,
+		"title": "Анимапард Верности",
+		"description": "Некоторые перерожденные держат анимапардов в качестве питомцев. У них нет такой роскошной гривы, как у ларионов, но зато они не пытаются съесть других питомцев. Ковенант: Кирии. Зона: Бастион.",
+		"price": 200
+	},
+
+	{
+		"id": "PhalynxOfCourage",
+		"type": "earth-mounts",
+		"path": "",
+		"img": "/src/assets/img/mounts/bg/earth/Phalynx-of-Courage.png",
+		"objectFit": false,
+		"title": "Анимапард Отваги",
+		"description": "Анимапарды — хорошие спутники и прекрасные спарринг-партнеры. Ковенант: Кирии. Зона: Бастион.",
+		"price": 200
+	},
+
+	{
+		"id": "PhalynxOfHumility",
+		"type": "earth-mounts",
+		"path": "",
+		"img": "/src/assets/img/mounts/bg/earth/Phalynx-of-Humility.png",
+		"objectFit": false,
+		"title": "Анимапард Смирения",
+		"description": "Анимапарды не бегают за палками. Почему — непонятно. Ковенант: Кирии. Зона: Бастион.",
+		"price": 200
+	},
+
+	{
+		"id": "PhalynxOfPurity",
+		"type": "earth-mounts",
+		"path": "",
+		"img": "/src/assets/img/mounts/bg/earth/Phalynx-of-Purity.png",
+		"objectFit": false,
+		"title": "Анимапард Чистоты",
+		"description": "О происхождении анимапардов почти ничего не известно. Технологию их изготовления передают от учителя к ученику как религиозное учение. Ковенант: Кирии. Зона: Бастион.",
+		"price": 200
+	},
+
+	{
+		"id": "AssetAdvocator",
+		"type": "earth-mounts",
+		"path": "",
+		"img": "/src/assets/img/mounts/bg/earth/Asset-Advocator.png",
+		"objectFit": false,
+		"title": "Апеллянт Активов",
+		"description": "Прямое доказательство того, что все ваши активы работают на пользу. Торговец: Счетля Углечелка. Зона: Нижняя Шахта.",
+		"price": 200
+	},
+
+	{
+		"id": "ArcadianWarTurtle",
+		"type": "earth-mounts",
+		"path": "",
+		"img": "/src/assets/img/mounts/bg/earth/Arcadian-War-Turtle.png",
+		"objectFit": false,
+		"title": "Аркадийская Боевая Черепаха",
+		"description": "Эти рептилии, выведенные по приказу безумного полководца в далекой стране, – настоящие машины для убийств. Хорошо хоть седло удобное. Торговец: Ксур'иос. Зона: Даларан.",
+		"price": 200
+	},
+
+	{
+		"id": "CrimsonArmoredGrowler",
+		"type": "earth-mounts",
+		"path": "",
+		"img": "/src/assets/img/mounts/bg/earth/Crimson-Armored-Growler.png",
+		"objectFit": false,
+		"title": "Багровый Бронированный Зубоскал",
+		"description": "Зубоскал — это ласковое прозвище, которое гоблины иногда дают прирученным гиенам. Любимое занятие этой особи — копание в земле. Торговец: Рокко Шутобумс. Зона: Нижняя Шахта.",
+		"price": 200
+	},
+
+	{
+		"id": "CrimsonVorquin",
+		"type": "earth-mounts",
+		"path": "",
+		"img": "/src/assets/img/mounts/bg/earth/Crimson-Vorquin.png",
+		"objectFit": false,
+		"title": "Багровый Ворквин",
+		"description": "Этих благородных зверей уважают за бесстрашие, даже в бою против драконьего огня. Они считаются лучшими скакунами драктирской кавалерии. Торговец: Трейш/Теталаш. Зона: Запретный Край/Вальдраккен.",
+		"price": 200
+	},
+
+	{
+		"id": "CrimsonShardhide",
+		"type": "earth-mounts",
+		"path": "",
+		"img": "/src/assets/img/mounts/bg/earth/Crimson-Shardhide.png",
+		"objectFit": false,
+		"title": "Багровый Кристаллошкур",
+		"description": "Когда Кортия была притянута в Утробу, в ней выжили только самые сильные существа. Источник: Малбог. Зона: Кортия. Вероятность получения: 2%.",
+		"price": 200
+	},
+
+	{
+		"id": "CrimsonSilvermoonHawkstrider",
+		"type": "earth-mounts",
+		"path": "",
+		"img": "/src/assets/img/mounts/bg/earth/Crimson-Silvermoon-Hawkstrider.png",
+		"objectFit": false,
+		"title": "Багровый Крылобег из Луносвета",
+		"description": "Эти крылобеги — настоящая гордость двора Луносвета. Их ценят за ярко-красное оперение и изящество, свойственное только чистопородным зверям. Торговец: Церис Чистый Рассвет. Зона: Леса Вечной Песни.",
+		"price": 200
+	},
+
+	{
+		"id": "CrimsonGlimmerfur",
+		"type": "earth-mounts",
+		"path": "",
+		"img": "/src/assets/img/mounts/bg/earth/Crimson-Glimmerfur.png",
+		"objectFit": false,
+		"title": "Багровый Мерцающий Лисохвост",
+		"description": "Согласно гилнеасской легенде, эта красно-белая лиса проходит через Зимний Покров только в определенное время года. Источник: Торговая лавка.",
+		"price": 200
+	},
+
+	{
+		"id": "CrimsonSlavermaw",
+		"type": "earth-mounts",
+		"path": "",
+		"img": "/src/assets/img/mounts/bg/earth/Crimson-Slavermaw.png",
+		"objectFit": false,
+		"title": "Багровый Рабоглот",
+		"description": "Откликается на последовательность звуков, которую в состоянии воспроизвести только демоны. В переводе на нормальный язык это значит что-то вроде Смертельная Муть. Источник: Язвоглот. Зона: Пустоши Анторуса. Вероятность получения: 2.9%.",
+		"price": 200
+	},
+
+	{
+		"id": "BrewfestRam",
+		"type": "earth-mounts",
+		"path": "",
+		"img": "/src/assets/img/mounts/bg/earth/Brewfest-Ram.png",
+		"objectFit": false,
+		"title": "Баран Хмельного Фестиваля",
+		"description": "Хмелеварам пришлось отказаться от использования этих животных для глашатайства, так как многие считали их слишком норовистыми для большого города. Фракция: Альянс. Награда за задание: Скаковые бараны Хмельного фестиваля.",
+		"price": 200
+	},
+
+	{
+		"id": "Deathrunner",
+		"type": "earth-mounts",
+		"path": "",
+		"img": "/src/assets/img/mounts/bg/earth/Deathrunner.png",
+		"objectFit": false,
+		"title": "Бегущий со Смертью",
+		"description": "Эти дикие сервиды находят покой лишь в бесконечной скачке через миры смерти — или между ними. Профессия: Протосинтез.",
+		"price": 200
+	},
+
+	{
+		"id": "BansheesSickeningCharger",
+		"type": "earth-mounts",
+		"path": "",
+		"img": "/src/assets/img/mounts/bg/earth/Banshees-Sickening-Charger.png",
+		"objectFit": false,
+		"title": "Безобразный Скакун Банши",
+		"description": "Источник: Торговая лавка.",
+		"price": 200
+	},
+
+	{
+		"id": "BleakhoofRuinstrider",
+		"type": "earth-mounts",
+		"path": "",
+		"img": "/src/assets/img/mounts/bg/earth/Bleakhoof-Ruinstrider.png",
+		"objectFit": false,
+		"title": "Белоногий Аргусский Скиталец",
+		"description": "Армии Света удалось спасти лишь малое количество обитавших на Аргусе особей; большую их часть сгубил хаос. Награда за достижение: ...И жевать булочки из маны.",
+		"price": 200
+	},
+
+	{
+		"id": "WhiteRam",
+		"type": "earth-mounts",
+		"path": "",
+		"img": "/src/assets/img/mounts/bg/earth/White-Ram.png",
+		"objectFit": false,
+		"title": "Белый Баран",
+		"description": "Самцы баранов могут часами бодаться, чтобы впечатлить самку. В этом отношении они очень похожи на дворфов. Фракция: Альянс. Торговец: Верон Янтарлен. Зона: Дун Морог.",
+		"price": 200
+	},
+
+	{
+		"id": "CrusadersWhiteWarhorse",
+		"type": "earth-mounts",
+		"path": "",
+		"img": "/src/assets/img/mounts/bg/earth/Crusaders-White-Warhorse.png",
+		"objectFit": false,
+		"title": "Белый Боевой Конь Крестоносца",
+		"description": "Эти кони были выбраны для членов Альянса из личных конюшен Тириона Фордринга, чтобы стать наградой самым искусным чемпионам испытания крестоносца. Фракция: Альянс. Награда за достижение: Дань бессмертию.",
+		"price": 200
+	},
+
+	{
+		"id": "WhiteSkeletalWarhorse",
+		"type": "earth-mounts",
+		"path": "",
+		"img": "/src/assets/img/mounts/bg/earth/White-Skeletal-Warhorse.png",
+		"objectFit": false,
+		"title": "Белый Боевой Конь Скелет",
+		"description": "Когда павших героев обращают в нежить, та же участь постигает и их скакунов. Фракция: Орда. Торговец: Элиза Киллиан. Зона: Серебряный Турнир, Ледяная Корона.",
+		"price": 200
+	},
+
+	{
+		"id": "WhiteRidingCamel",
+		"type": "earth-mounts",
+		"path": "",
+		"img": "/src/assets/img/mounts/bg/earth/White-Riding-Camel.png",
+		"objectFit": false,
+		"title": "Белый Ездовой Верблюд",
+		"description": "Феннимор Куигли известен тем, что впервые подоил верблюда, а также совершил самый длинный непреднамеренный полет... и все за один вечер. Источник: Промоакция (лут код третьего уровня из издания коллекционной карточной игры World of Warcraft: Trading Card Game Tomb of the Forgotten. Вероятность получения: 0.41%).",
+		"price": 200
+	},
+
+	{
+		"id": "WhiteKodo",
+		"type": "earth-mounts",
+		"path": "",
+		"img": "/src/assets/img/mounts/bg/earth/White-Kodo.png",
+		"objectFit": false,
+		"title": "Белый Кодо",
+		"description": "Кодо — опора нашего народа. Торгует ли Орда, кочует или сражается — могучие кодо всегда с нами, — Харб Точеное Копыто. Фракция: Орда. Торговец: Харб Точеное Копыто. Зона: Мулгор.",
+		"price": 200
+	},
+
+	{
+		"id": "WhiteMechanostriderModB",
+		"type": "earth-mounts",
+		"path": "",
+		"img": "/src/assets/img/mounts/bg/earth/White-Mechanostrider-Mod-B.png",
+		"objectFit": false,
+		"title": "Белый Механодолгоног Модель Б",
+		"description": "Гномские инженеры были вынуждены снять с производства эту модель из-за поступающих жалоб на барахлящую дроссельную заслонку. Дефектному прототипу присвоено кодовое название модель Б. Фракция: Альянс. Награда за задание: Белый механодолгоног.",
+		"price": 200
+	},
+
+	{
+		"id": "WoolyWhiteRhino",
+		"type": "earth-mounts",
+		"path": "",
+		"img": "/src/assets/img/mounts/bg/earth/Wooly-White-Rhino.png",
+		"objectFit": false,
+		"title": "Белый Шерстистый Носорог",
+		"description": "После того, как Тоби Матушка Гусыня Железоболт поймал этого лохматого носорога в Борейской Тундре, большой зверь затаил обиду на маленького гнома. Источник: Промоакция: (лут код третьего уровня из издания коллекционной карточной игры World of Warcraft: Trading Card Game IceCrown. Вероятность получения: 0.41%).",
+		"price": 200
+	},
+
+	{
+		"id": "BerylShardhide",
+		"type": "earth-mounts",
+		"path": "",
+		"img": "/src/assets/img/mounts/bg/earth/Beryl-Shardhide.png",
+		"objectFit": false,
+		"title": "Берилловый Кристаллошкур",
+		"description": "Найти кристаллошкура — задача не из легких, они очень хорошо прячутся. Найти ручного кристаллошкура еще сложнее. Источник: Припасы Легиона Смерти.",
+		"price": 200
+	},
+
+	{
+		"id": "InfiniteArmoredon",
+		"type": "earth-mounts",
+		"path": "",
+		"img": "/src/assets/img/mounts/bg/earth/Infinite-Armoredon.png",
+		"objectFit": false,
+		"title": "Бесконечный Бронедон",
+		"description": "Будущее таит бесконечность возможностей даже для бронедонов. Награда за достижение: Мастер ключей Dragonflight 4-го сезона.",
+		"price": 200
+	},
+
+	{
+		"id": "QinshosEternalHound",
+		"type": "earth-mounts",
+		"path": "",
+		"img": "/src/assets/img/mounts/bg/earth/Qinshos-Eternal-Hound.png",
+		"objectFit": false,
+		"title": "Бессмертная Гончая Циньшо",
+		"description": "Циньшо изваял своего вечного стража из чистого золота и наделил его стойкостью самой земли. Источник: Островные экспедиции.",
+		"price": 200
+	},
+
+	{
+		"id": "FrenziedShredclaw",
+		"type": "earth-mounts",
+		"path": "",
+		"img": "/src/assets/img/mounts/bg/earth/Frenzied-Shredclaw.png",
+		"objectFit": false,
+		"title": "Бешеный Саблекоготь",
+		"description": "Если погибнет кто-то из стаи, саблекогти впадут в бешенство, и их не остановит даже огромный ультрадон. Торговец: Траксадар. Зона: Высота Непобедимых.",
+		"price": 200
+	},
+
+	{
+		"id": "FrenziedFeltalon",
+		"type": "earth-mounts",
+		"path": "",
+		"img": "/src/assets/img/mounts/bg/earth/Frenzied-Feltalon.png",
+		"objectFit": false,
+		"title": "Бешеный Сквернокоготь",
+		"description": "Пылающий Легион экспериментировал с осквернением многих видов животных. В том числе, огненных птиц из вулканических миров. Награда за достижение: Орда цокающих копыт.",
+		"price": 200
+	},
+
+	{
+		"id": "TealKodo",
+		"type": "earth-mounts",
+		"path": "",
+		"img": "/src/assets/img/mounts/bg/earth/Teal-Kodo.png",
+		"objectFit": false,
+		"title": "Бирюзовый Кодо",
+		"description": "Кодо — опора нашего народа. Торгует ли Орда, кочует или сражается — могучие кодо всегда с нами, — Харб Точеное Копыто. Фракция: Орда. Награда за задание: Бирюзовый кодо.",
+		"price": 200
+	},
+
+	{
+		"id": "CourtSinrunner",
+		"type": "earth-mounts",
+		"path": "",
+		"img": "/src/assets/img/mounts/bg/earth/Court-Sinrunner.png",
+		"objectFit": false,
+		"title": "Благородный Кошмарный Конь",
+		"description": "Кошмарные кони — скакуны темных душ, попавшие в Ревендрет за свои грехи или злодеяния своих хозяев. Некоторые обрели свободу, но многие служат силам тьмы после смерти так же, как служили при жизни. Торговец: Госпожа Михаэла. Зона: Ревендрет.",
+		"price": 200
+	},
+
+	{
+		"id": "BlessedAmaniBurrower",
+		"type": "earth-mounts",
+		"path": "",
+		"img": "/src/assets/img/mounts/bg/earth/Blessed-Amani-Burrower.png",
+		"objectFit": false,
+		"title": "Благословенный Аманийский Копатель",
+		"description": "Это существо, благословленное дикой природой, обладает стойкостью духа и смиренной силой, которые так чтят Амани. Торговец: Чель Щербинка. Зона: Леса Вечной Песни.",
+		"price": 200
+	},
+
+	{
+		"id": "AmaniBlessedBear",
+		"type": "earth-mounts",
+		"path": "",
+		"img": "/src/assets/img/mounts/bg/earth/Amani-Blessed-Bear.png",
+		"objectFit": false,
+		"title": "Благословенный Аманийский Медведь",
+		"description": "Эти боевые медведи, ставшие символом завоевания, снова в строю — благодаря благословению Налоракка и возрождению духа Амани. Торговец: Магову. Зона: Зул'Аман.",
+		"price": 200
+	},
+
+	{
+		"id": "BlessedFelcrusher",
+		"type": "earth-mounts",
+		"path": "",
+		"img": "/src/assets/img/mounts/bg/earth/Blessed-Felcrusher.png",
+		"objectFit": false,
+		"title": "Благословленный Сквернопотам",
+		"description": "После того как Аллерия и Туралион рассказали о том, насколько полезны могут быть звери, с давних пор бывшие верными спутниками дренеев, в Армии Света решили попробовать приручить несколько животных. Источник: Светящийся Сундучок.",
+		"price": 200
+	},
+
+	{
+		"id": "PaleAcidmaw",
+		"type": "earth-mounts",
+		"path": "",
+		"img": "/src/assets/img/mounts/bg/earth/Pale-Acidmaw.png",
+		"objectFit": false,
+		"title": "Бледный Желчеплюй",
+		"description": "Кислота, содержащаяся в ихоре этого существа, полностью обесцветила его панцирь, сделав его девственно-белым. Ковенант: Кирии. Источник: Путь Перерождения. Ковенант: Вентиры. Источник: Пепельный Двор. Ковенант: Ночной Народец. Источник: Королевский Зимний Сад. Ковенант: Некролорды. Источник: Фабрика Поганищ.",
+		"price": 200
+	},
+
+	{
+		"id": "PaleThorngrazer",
+		"type": "earth-mounts",
+		"path": "",
+		"img": "/src/assets/img/mounts/bg/earth/Pale-Thorngrazer.png",
+		"objectFit": false,
+		"title": "Бледный Шипоед",
+		"description": "Этот талбук питается исключительно шипами и колючками, и поэтому его внутренности так же прочны, как и шкура. Фракция: Альянс. Торговец: Крафтикус Мозголом. Зона: Преграда Ветров.",
+		"price": 200
+	},
+
+	{
+		"id": "SilessasBattleHarness",
+		"type": "earth-mounts",
+		"path": "",
+		"img": "/src/assets/img/mounts/bg/earth/Silessas-Battle-Harness.png",
+		"objectFit": false,
+		"title": "Боевая Упряжь Силессы",
+		"description": "Силесса отважно сражалась вместе со своим хозяином во время великого вторжения сил Света, а после битвы он посадил ее охранять свою казну. Ковенант: Вентиры. Зона: Ревендрет.",
+		"price": 200
+	}
+]

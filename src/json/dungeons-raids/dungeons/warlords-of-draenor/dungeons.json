@@ -1,0 +1,101 @@
+[
+	{
+		"id": "BloodmaulSlagMines",
+		"type": "dungeons-raids-warlords-of-draenor",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/warlords-of-draenor/Bloodmaul-Slag-Mines.jpg",
+		"objectFit": false,
+		"title": "Шлаковые Шахты Кровавого Молота",
+		"description": "Подземелье для игроков 90-95 уровней дополнения",
+		"addition": "Warlords of Draenor",
+		"price": 250
+	},
+
+	{
+		"id": "ShadowmoonBurialGrounds",
+		"type": "dungeons-raids-warlords-of-draenor",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/warlords-of-draenor/Shadowmoon-Burial-Grounds.jpg",
+		"objectFit": false,
+		"title": "Некрополь Призрачной Луны",
+		"description": "Подземелье для игроков 90-95 уровней дополнения",
+		"addition": "Warlords of Draenor",
+		"price": 250
+	},
+
+	{
+		"id": "IronDocks",
+		"type": "dungeons-raids-warlords-of-draenor",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/warlords-of-draenor/Iron-Docks.jpg",
+		"objectFit": false,
+		"title": "Железные Доки",
+		"description": "Подземелье для игроков 90-95 уровней дополнения",
+		"addition": "Warlords of Draenor",
+		"price": 260
+	},
+
+	{
+		"id": "Auchindoun",
+		"type": "dungeons-raids-warlords-of-draenor",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/warlords-of-draenor/Auchindoun.jpg",
+		"objectFit": false,
+		"title": "Аукиндон",
+		"description": "Подземелье для игроков 90-95 уровней дополнения",
+		"addition": "Warlords of Draenor",
+		"price": 260
+	},
+
+	{
+
+		"id": "Skyreach",
+		"type": "dungeons-raids-warlords-of-draenor",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/warlords-of-draenor/Skyreach.jpg",
+		"objectFit": false,
+		"title": "Небесный Путь",
+		"description": "Подземелье для игроков 95-100 уровней дополнения",
+		"addition": "Warlords of Draenor",
+		"price": 270
+	},
+
+	{
+
+		"id": "GrimrailDepot",
+		"type": "dungeons-raids-warlords-of-draenor",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/warlords-of-draenor/Grimrail-Depot.jpg",
+		"objectFit": false,
+		"title": "Депо Мрачных Путей",
+		"description": "Подземелье для игроков 95-100 уровней дополнения",
+		"addition": "Warlords of Draenor",
+		"price": 280
+	},
+
+	{
+
+		"id": "UpperBlackrockSpire",
+		"type": "dungeons-raids-warlords-of-draenor",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/warlords-of-draenor/Upper-Blackrock-Spire.jpg",
+		"objectFit": false,
+		"title": "Верхняя Часть Пика Черной Горы",
+		"description": "Подземелье для игроков 95-100 уровней дополнения",
+		"addition": "Warlords of Draenor",
+		"price": 290
+	},
+
+	{
+
+		"id": "Everbloom",
+		"type": "dungeons-raids-warlords-of-draenor",
+		"path": "",
+		"img": "/src/assets/img/dungeons-raids/bg/dungeons/warlords-of-draenor/Everbloom.jpg",
+		"objectFit": false,
+		"title": "Вечное Цветение",
+		"description": "Подземелье для игроков 95-100 уровней дополнения",
+		"addition": "Warlords of Draenor",
+		"price": 298
+	}
+]

@@ -1,0 +1,34 @@
+[
+	{
+		"id": "WaterMounts",
+		"type": "water-mounts",
+		"path": "mounts/water",
+		"img": "/src/assets/img/promo/bg/mounts/water.png",
+		"objectFit": true,
+		"title": "Водные",
+		"description": "Водные маунты, обитатели морей и океанов, могучие владыки глубин. Они обеспечат вам скорость морской бури и откроют тайны подводного мира. Покорите глубины Азерота!",
+		"price": 100
+	},
+
+	{
+		"id": "EarthMounts",
+		"type": "earth-mounts",
+		"path": "mounts/earth",
+		"img": "/src/assets/img/promo/bg/mounts/earth.png",
+		"objectFit": false,
+		"title": "Наземные",
+		"description": "Наземные маунты, обитатели пещер, могучие бегуны. Они обеспечат вам молниеносную скорость и превосходство в любом путешествии. Покорите бескрайние просторы Азерота!",
+		"price": 200
+	},
+
+	{
+		"id": "FlyMounts",
+		"type": "fly-mounts",
+		"path": "mounts/fly",
+		"img": "/src/assets/img/promo/bg/mounts/fly.png",
+		"objectFit": false,
+		"title": "Летающие",
+		"description": "Летающие маунты, властелины небес, повелители бескрайних воздушных просторов. Они обеспечат вам скорость ветра и абсолютное превосходство в воздухе. Покорите небеса Азерота!",
+		"price": 300
+	}
+]

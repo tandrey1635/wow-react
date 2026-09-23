@@ -1,0 +1,313 @@
+[
+	{
+		"id": "StromkarTheWarbreakerBase",
+		"className": "card-warrior",
+		"path": "#",
+		"cardImg": "/src/assets/img/weapons/bg/artifact/warrior/Stromkar-the-Warbreaker-base.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Стром'кар, Миротворец",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Закажите Стром'кар, Миротворец",
+		"priceClassName": "card-price-warrior",
+		"price": 800
+	},
+
+	{
+		"id": "StromkarTheWarbreakerPillarsOfCreation",
+		"className": "card-warrior",
+		"path": "#",
+		"cardImg": "/src/assets/img/weapons/bg/artifact/warrior/Stromkar-the-Warbreaker-pillars-of-creation.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Стром'кар, Миротворец",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Закажите Стром'кар, Миротворец",
+		"priceClassName": "card-price-warrior",
+		"price": 800
+	},
+
+	{
+		"id": "StromkarTheWarbreakerHeartOfLight",
+		"className": "card-warrior",
+		"path": "#",
+		"cardImg": "/src/assets/img/weapons/bg/artifact/warrior/Stromkar-the-Warbreaker-heart-of-light.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Стром'кар, Миротворец",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Закажите Стром'кар, Миротворец",
+		"priceClassName": "card-price-warrior",
+		"price": 800
+	},
+
+	{
+		"id": "StromkarTheWarbreakerFirstStageCompany",
+		"className": "card-warrior",
+		"path": "#",
+		"cardImg": "/src/assets/img/weapons/bg/artifact/warrior/Stromkar-the-Warbreaker-base-first-stage-company.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Стром'кар, Миротворец",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Закажите Стром'кар, Миротворец",
+		"priceClassName": "card-price-warrior",
+		"price": 800
+	},
+
+	{
+		"id": "VengeanceOfTheFallenBase",
+		"className": "card-warrior",
+		"path": "#",
+		"cardImg": "/src/assets/img/weapons/bg/artifact/warrior/Vengeance-of-the-Fallen-base.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Месть павших",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Закажите Месть павших",
+		"priceClassName": "card-price-warrior",
+		"price": 1000
+	},
+
+	{
+		"id": "VengeanceOfTheFallenAllPropertiesArtifact",
+		"className": "card-warrior",
+		"path": "#",
+		"cardImg": "/src/assets/img/weapons/bg/artifact/warrior/Vengeance-of-the-Fallen-all-properties-artifact.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Месть павших",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Закажите Месть павших",
+		"priceClassName": "card-price-warrior",
+		"price": 1000
+	},
+
+	{
+		"id": "VengeanceOfTheFallenFullPowerArtifact",
+		"className": "card-warrior",
+		"path": "#",
+		"cardImg": "/src/assets/img/weapons/bg/artifact/warrior/Vengeance-of-the-Fallen-full-power-artifact.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Месть павших",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Закажите Месть павших",
+		"priceClassName": "card-price-warrior",
+		"price": 1000
+	},
+
+	{
+		"id": "VengeanceOfTheFallenArchaeology",
+		"className": "card-warrior",
+		"path": "#",
+		"cardImg": "/src/assets/img/weapons/bg/artifact/warrior/Vengeance-of-the-Fallen-archaeology.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Месть павших",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Закажите Месть павших",
+		"priceClassName": "card-price-warrior",
+		"price": 1000
+	},
+
+	{
+		"id": "FlamereaperBase",
+		"className": "card-warrior",
+		"path": "#",
+		"cardImg": "/src/assets/img/weapons/bg/artifact/warrior/Flamereaper-base.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Огненный жнец",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Закажите Огненный жнец",
+		"priceClassName": "card-price-warrior",
+		"price": 1200
+	},
+
+	{
+		"id": "FlamereaperWorldBosses",
+		"className": "card-warrior",
+		"path": "#",
+		"cardImg": "/src/assets/img/weapons/bg/artifact/warrior/Flamereaper-world-bosses.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Огненный жнец",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Закажите Огненный жнец",
+		"priceClassName": "card-price-warrior",
+		"price": 1200
+	},
+
+	{
+		"id": "FlamereaperMythycDungeons15",
+		"className": "card-warrior",
+		"path": "#",
+		"cardImg": "/src/assets/img/weapons/bg/artifact/warrior/Flamereaper-mythyc-dungeons-15.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Огненный жнец",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Закажите Огненный жнец",
+		"priceClassName": "card-price-warrior",
+		"price": 1200
+	},
+
+	{
+		"id": "FlamereaperGloryOfTheLegionHero",
+		"className": "card-warrior",
+		"path": "#",
+		"cardImg": "/src/assets/img/weapons/bg/artifact/warrior/Flamereaper-Glory-of-the-legion-hero.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Огненный жнец",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Закажите Огненный жнец",
+		"priceClassName": "card-price-warrior",
+		"price": 1200
+	},
+
+	{
+		"id": "WrathsEdgeBase",
+		"className": "card-warrior",
+		"path": "#",
+		"cardImg": "/src/assets/img/weapons/bg/artifact/warrior/Wraths-Edge-base.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Клинок гнева",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Закажите Клинок гнева",
+		"priceClassName": "card-price-warrior",
+		"price": 1500
+	},
+
+	{
+		"id": "WrathsEdgePvp6Lvl",
+		"className": "card-warrior",
+		"path": "#",
+		"cardImg": "/src/assets/img/weapons/bg/artifact/warrior/Wraths-Edge-pvp-6-lvl.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Клинок гнева",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Закажите Клинок гнева",
+		"priceClassName": "card-price-warrior",
+		"price": 1500
+	},
+
+	{
+		"id": "WrathsEdgePvp10Lvl",
+		"className": "card-warrior",
+		"path": "#",
+		"cardImg": "/src/assets/img/weapons/bg/artifact/warrior/Wraths-Edge-pvp-10-lvl.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Клинок гнева",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Закажите Клинок гнева",
+		"priceClassName": "card-price-warrior",
+		"price": 1500
+	},
+
+	{
+		"id": "WrathsEdgePvp14Lvl",
+		"className": "card-warrior",
+		"path": "#",
+		"cardImg": "/src/assets/img/weapons/bg/artifact/warrior/Wraths-Edge-pvp-14-lvl.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Клинок гнева",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Закажите Клинок гнева",
+		"priceClassName": "card-price-warrior",
+		"price": 1500
+	},
+
+	{
+		"id": "BladeOfTheSkyChampionBase",
+		"className": "card-warrior",
+		"path": "#",
+		"cardImg": "/src/assets/img/weapons/bg/artifact/warrior/Blade-of-the-Sky-Champion-base.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Клинок защитника небес",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Закажите Клинок защитника небес",
+		"priceClassName": "card-price-warrior",
+		"price": 1800
+	},
+
+	{
+		"id": "BladeOfTheSkyChampionHeroicKiljaeden",
+		"className": "card-warrior",
+		"path": "#",
+		"cardImg": "/src/assets/img/weapons/bg/artifact/warrior/Blade-of-the-Sky-Champion-heroic-Kiljaeden.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Клинок защитника небес",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Закажите Клинок защитника небес",
+		"priceClassName": "card-price-warrior",
+		"price": 1800
+	},
+
+	{
+		"id": "BladeOfTheSkyChampionRbg",
+		"className": "card-warrior",
+		"path": "#",
+		"cardImg": "/src/assets/img/weapons/bg/artifact/warrior/Blade-of-the-Sky-Champion-rbg.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Клинок защитника небес",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Закажите Клинок защитника небес",
+		"priceClassName": "card-price-warrior",
+		"price": 1800
+	},
+
+	{
+		"id": "BladeOfTheSkyChampionDungeons",
+		"className": "card-warrior",
+		"path": "#",
+		"cardImg": "/src/assets/img/weapons/bg/artifact/warrior/Blade-of-the-Sky-Champion-dungeons.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Клинок защитника небес",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Закажите Клинок защитника небес",
+		"priceClassName": "card-price-warrior",
+		"price": 1800
+	},
+
+	{
+		"id": "ArcaniteBladebreakerBase",
+		"className": "card-warrior",
+		"path": "#",
+		"cardImg": "/src/assets/img/weapons/bg/artifact/warrior/Arcanite-Bladebreaker-base.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Арканитовый крушитель клинков",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Закажите Арканитовый крушитель клинков",
+		"priceClassName": "card-price-warrior",
+		"price": 2000
+	},
+
+	{
+		"id": "ArcaniteBladebreakerdungeonsDungeons",
+		"className": "card-warrior",
+		"path": "#",
+		"cardImg": "/src/assets/img/weapons/bg/artifact/warrior/Arcanite-Bladebreaker-dungeons.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Арканитовый крушитель клинков",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Закажите Арканитовый крушитель клинков",
+		"priceClassName": "card-price-warrior",
+		"price": 2000
+	},
+
+	{
+		"id": "ArcaniteBladebreakerWorldQuests",
+		"className": "card-warrior",
+		"path": "#",
+		"cardImg": "/src/assets/img/weapons/bg/artifact/warrior/Arcanite-Bladebreaker-world-quests.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Арканитовый крушитель клинков",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Закажите Арканитовый крушитель клинков",
+		"priceClassName": "card-price-warrior",
+		"price": 2000
+	},
+
+	{
+		"id": "ArcaniteBladebreakerPvp",
+		"className": "card-warrior",
+		"path": "#",
+		"cardImg": "/src/assets/img/weapons/bg/artifact/warrior/Arcanite-Bladebreaker-pvp.png",
+		"titleClassName": "card-title-warrior",
+		"title": "Арканитовый крушитель клинков",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Закажите Арканитовый крушитель клинков",
+		"priceClassName": "card-price-warrior",
+		"price": 2000
+	}
+]

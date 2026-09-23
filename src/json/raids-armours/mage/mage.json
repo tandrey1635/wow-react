@@ -1,0 +1,534 @@
+[
+	{
+		"id": "InfernoweaveRegalia",
+		"type": "mage",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/cloth/mage/Infernoweave-Regalia.png",
+		"objectFit": false,
+		"title": "Инфернальные Регалии",
+		"description": "Броня выкованная в сердце вулкана на древней наковальне стихий из чешуи поверженных исполинов и кожи гончих преисподней из Огненных Недр дополнения",
+		"descriptionTrim": "Первая несокрушимая награда за покорение пекла. Повелитель Огня я иду за тобой! Потрясающая защита от магии огня!",
+		"addition": "Classic",
+		"price": 50
+	},
+
+	{
+		"id": "ArcanistRegalia",
+		"type": "mage",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/mage/Arcanist-Regalia.png",
+		"objectFit": false,
+		"title": "Регалии Чародея",
+		"description": "Первый комплект брони для мага из рейда 60-го уровня Огненные Недра дополнения",
+		"descriptionTrim": "Повелитель Огня будет повержен! Очищение огнем пройдено!",
+		"addition": "Classic",
+		"price": 50
+	},
+
+	{
+		"id": "ArcanistRegaliaRed",
+		"type": "mage",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/mage/Arcanist-Regalia-red.png",
+		"objectFit": false,
+		"title": "Регалии Чародея Путешественника из Другого Мира",
+		"description": "Кажется, сюда затесалась какая-то подозрительно похожая, но не родная броня из другого времени дополнения",
+		"descriptionTrim": "Альтернативный вариант прославленных доспехов, появившийся в иных измерениях Азерота. Обладает той же несокрушимой силой, что и оригинал, но несет в себе отпечаток другой истории.",
+		"addition": "Classic",
+		"price": 50
+	},
+
+	{
+		"id": "ArcanistRegaliaBlue",
+		"type": "mage",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/mage/Arcanist-Regalia-blue.png",
+		"objectFit": false,
+		"title": "Регалии Чародея Путешественника из Другого Мира",
+		"description": "Кажется, сюда затесалась какая-то подозрительно похожая, но не родная броня из другого времени дополнения",
+		"descriptionTrim": "Альтернативный вариант прославленных доспехов, появившийся в иных измерениях Азерота. Обладает той же несокрушимой силой, что и оригинал, но несет в себе отпечаток другой истории.",
+		"addition": "Classic",
+		"price": 50
+	},
+
+	{
+		"id": "ArcanistRegaliaPurple",
+		"type": "mage",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/mage/Arcanist-Regalia-purple.png",
+		"objectFit": false,
+		"title": "Регалии Чародея Путешественника из Другого Мира",
+		"description": "Кажется, сюда затесалась какая-то подозрительно похожая, но не родная броня из другого времени дополнения",
+		"descriptionTrim": "Альтернативный вариант прославленных доспехов, появившийся в иных измерениях Азерота. Обладает той же несокрушимой силой, что и оригинал, но несет в себе отпечаток другой истории.",
+		"addition": "Classic",
+		"price": 50
+	},
+
+	{
+		"id": "NetherwindRegalia",
+		"type": "mage",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/mage/Netherwind-Regalia.png",
+		"objectFit": false,
+		"title": "Регалии Ветра Пустоты",
+		"description": "Второй комплект брони для мага из рейда 60-го уровня Логово Крыла Тьмы дополнения",
+		"descriptionTrim": "Лорд Черной Горы будет повержен! Теперь мощь вашей магии безгранична!",
+		"addition": "Classic",
+		"price": 50
+	},
+
+	{
+		"id": "NetherwindRegaliaRecolor",
+		"type": "mage",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/mage/Netherwind-Regalia-recolor.png",
+		"objectFit": false,
+		"title": "Регалии Ветра Пустоты Путешественника из Другого Мира",
+		"description": "Кажется, сюда затесалась какая-то подозрительно похожая, но не родная броня из другого времени дополнения",
+		"descriptionTrim": "Альтернативный вариант прославленных доспехов, появившийся в иных измерениях Азерота. Обладает той же несокрушимой силой, что и оригинал, но несет в себе отпечаток другой истории.",
+		"addition": "Classic",
+		"price": 50
+	},
+
+	{
+		"id": "EnigmaVestments",
+		"type": "mage",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/mage/Enigma-Vestments.png",
+		"objectFit": false,
+		"title": "Облачение Таинства",
+		"description": "Комплект брони для мага 2.5 из рейда 60-го уровня Храм Ан'Киража дополнения",
+		"descriptionTrim": "Владыка Ан'Киража будет повержен! Вы еще не мертвы!",
+		"addition": "Classic",
+		"price": 50
+	},
+
+	{
+		"id": "FrostfireRegalia",
+		"type": "mage",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/mage/Frostfire-Regalia.png",
+		"objectFit": false,
+		"title": "Регалии Ледяного Огня",
+		"description": "Третий комплект брони для мага из рейда 60-го уровня Наксрамас дополнения",
+		"descriptionTrim": "Верховный Лич будет повержен! Некромантия вам не страшна!",
+		"addition": "Classic",
+		"price": 50
+	},
+
+	{
+		"id": "GlacialRegaliaSet",
+		"type": "mage",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/cloth/mage/Glacial-Regalia-Set.png",
+		"objectFit": false,
+		"title": "Ледовый Тканевый Комплект",
+		"description": "Награда за цепочку заданий исследования Наксрамаса дополнения",
+		"descriptionTrim": "Ледяной Змей будет повержен! Потрясающая защита от магии льда!",
+		"addition": "Classic",
+		"price": 50
+	},
+
+	{
+		"id": "AuchenaiPriestsRaiment",
+		"type": "mage",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/cloth/mage/Auchenai-Priests-Raiment.png",
+		"objectFit": false,
+		"title": "Облачение Аукенайского Жреца",
+		"description": "Комплект брони в награду за путешествия во времени по подземельям дополнения",
+		"descriptionTrim": "Броня, дарованная Хранителями Времени за череду подвигов в их походах по лабиринтам вечности. Ваша броня закалена в схватках с аномалиями прошлого и будущего, а каждый элемент несет несокрушимую мощь самого времени!",
+		"addition": "The Burning Crusade",
+		"price": 100
+	},
+
+	{
+		"id": "MoonclothBattlegear",
+		"type": "mage",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/cloth/mage/Mooncloth-Battlegear.png",
+		"objectFit": false,
+		"title": "Облачение из Луноткани",
+		"description": "Комплект брони за репутацию у фракций Нижний город, Траллмар, Хранители Времени, Кенарийская экспедиция и Ша'тар дополнения",
+		"descriptionTrim": "Вы стали непоколебимым щитом Нижнего города, грозной ударной силой Запределья! Ваша броня несет несокрушимую мощь временных потоков, укреплена силой древних лесов и озарена светом Наару на пути к победе над тьмой!",
+		"addition": "The Burning Crusade",
+		"price": 100
+	},
+
+	{
+		"id": "HallowedRaiment",
+		"type": "mage",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/cloth/mage/Hallowed-Raiment.png",
+		"objectFit": false,
+		"title": "Благословенные Ризы",
+		"description": "Комплект брони из подземелий дополнения",
+		"descriptionTrim": "Броня, закаленная в героических походах по самым опасным подземельям Запределья, от огненных недр Кузницы Крови до кошмарных лабиринтов Гробниц Маны. Вы прошли через адский огонь и тенистую глушь. Каждый бой оставил на ней след, но она выдержала все. Достойная награда за пройденные испытания.",
+		"addition": "The Burning Crusade",
+		"price": 100
+	},
+
+	{
+		"id": "ManaEtchedRegalia",
+		"type": "mage",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/cloth/mage/Mana-Etched-Regalia.png",
+		"objectFit": false,
+		"title": "Пропитанные маной Одежды",
+		"description": "Комплект брони из подземелий дополнения",
+		"descriptionTrim": "Броня, закаленная в героических походах по самым опасным подземельям Запределья, от огненных недр Кузницы Крови до кошмарных лабиринтов Гробниц Маны. Вы прошли через адский огонь и тенистую глушь. Каждый бой оставил на ней след, но она выдержала все. Достойная награда за пройденные испытания.",
+		"addition": "The Burning Crusade",
+		"price": 100
+	},
+
+	{
+		"id": "ShadowmoonWarlocksVestments",
+		"type": "mage",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/cloth/mage/Shadowmoon-Warlocks-Vestments.png",
+		"objectFit": false,
+		"title": "Одежды Чернокнижника Клана Призрачной Луны",
+		"description": "Комплект брони в награду за путешествия во времени по подземельям дополнения",
+		"descriptionTrim": "Броня, дарованная Хранителями Времени за череду подвигов в их походах по лабиринтам вечности. Ваша броня закалена в схватках с аномалиями прошлого и будущего, а каждый элемент несет несокрушимую мощь самого времени!",
+		"addition": "The Burning Crusade",
+		"price": 100
+	},
+
+	{
+		"id": "DreadweaveBattlegear",
+		"type": "mage",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/cloth/mage/Dreadweave-Battlegear.png",
+		"objectFit": false,
+		"title": "Облачение из Ткани Ужаса",
+		"description": "Комплект брони за репутацию у фракций Нижний город, Траллмар, Хранители Времени, Кенарийская экспедиция и Ша'тар дополнения",
+		"descriptionTrim": "Вы стали непоколебимым щитом Нижнего города, грозной ударной силой Запределья! Ваша броня несет несокрушимую мощь временных потоков, укреплена силой древних лесов и озарена светом Наару на пути к победе над тьмой!",
+		"addition": "The Burning Crusade",
+		"price": 100
+	},
+
+	{
+		"id": "OblivionRaiment",
+		"type": "mage",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/cloth/mage/Oblivion-Raiment.png",
+		"objectFit": false,
+		"title": "Одежды Забвения",
+		"description": "Комплект брони из подземелий дополнения",
+		"descriptionTrim": "Броня, закаленная в героических походах по самым опасным подземельям Запределья, от огненных недр Кузницы Крови до кошмарных лабиринтов Гробниц Маны. Вы прошли через адский огонь и тенистую глушь. Каждый бой оставил на ней след, но она выдержала все. Достойная награда за пройденные испытания.",
+		"addition": "The Burning Crusade",
+		"price": 100
+	},
+
+	{
+		"id": "MindwrackRaiment",
+		"type": "mage",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/cloth/mage/Mindwrack-Raiment.png",
+		"objectFit": false,
+		"title": "Одеяния Насилия над Разумом",
+		"description": "Комплект брони в духе дополнения",
+		"descriptionTrim": "Добавлен в игру в 2018 году в рамках события «Наденьте это немедленно!» — особого праздника трансмогрификации (2 сезон). Стоимость комплекта составляет 60 жетонов шоу у специальных продавцов в столицах.",
+		"addition": "The Burning Crusade",
+		"price": 100
+	},
+
+	{
+		"id": "AldorRegalia",
+		"type": "mage",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/mage/Aldor-Regalia.png",
+		"objectFit": false,
+		"title": "Регалии Алдоров",
+		"description": "Первый комплект брони для мага из рейдов 70-го уровня Каражан, Логово Магтеридона и Логово Груула дополнения",
+		"descriptionTrim": "Принц Эредаров, Повелитель Преисподней и Огров будут повержены! Станьте его погибелью! Оберните кровь против него самого! Никакой пощады ограм!",
+		"addition": "The Burning Crusade",
+		"price": 100
+	},
+
+	{
+		"id": "TirisfalRegalia",
+		"type": "mage",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/mage/Tirisfal-Regalia.png",
+		"objectFit": false,
+		"title": "Тирисфальские Регалии",
+		"description": "Второй комплект брони для мага из рейдов 70-го уровня Змеиное святилище и Крепость Бурь дополнения",
+		"descriptionTrim": "Королева Наг и Принц Кель'Таласа будут повержены! Укажите место Королеве Наг положенное ей по праву! Теперь вы почувствуете вкус истинной мощи! За Кель'Талас!",
+		"addition": "The Burning Crusade",
+		"price": 100
+	},
+
+	{
+		"id": "TirisfalRegaliaRecolor",
+		"type": "mage",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/mage/Tirisfal-Regalia-recolor.png",
+		"objectFit": false,
+		"title": "Тирисфальские Регалии Путешественника из Другого Мира",
+		"description": "Кажется, сюда затесалась какая-то подозрительно похожая, но не родная броня из другого времени дополнения",
+		"descriptionTrim": "Альтернативный вариант прославленных доспехов, появившийся в иных измерениях Азерота. Обладает той же несокрушимой силой, что и оригинал, но несет в себе отпечаток другой истории.",
+		"addition": "The Burning Crusade",
+		"price": 100
+	},
+
+	{
+		"id": "TempestRegalia",
+		"type": "mage",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/mage/Tempest-Regalia.png",
+		"objectFit": false,
+		"title": "Регалии Урагана",
+		"description": "Третий комплект брони для мага из рейдов 70-го уровня Гора Хиджал и Черный Храм дополнения",
+		"descriptionTrim": "Правитель Пылающего Легиона и Владыка Запределья будет повержен! Этот мир не сгорит! Теперь вы готовы!",
+		"addition": "The Burning Crusade",
+		"price": 100
+	},
+
+	{
+		"id": "TempestSunwellGarb",
+		"type": "mage",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/mage/Tempest-Sunwell-Garb.png",
+		"objectFit": false,
+		"title": "Регалии Урагана Солнечного Колодца",
+		"description": "Четвертый комплект брони для мага из рейда 70-го уровня Плато Солнечного Колодца дополнения",
+		"descriptionTrim": "Искуситель будет повержен! Оберните силу Солнечного Колодца против него самого!",
+		"addition": "The Burning Crusade",
+		"price": 100
+	},
+
+	{
+		"id": "HeroesFrostfireGarb",
+		"type": "mage",
+		"path": "naxxramas",
+		"img": "/src/assets/img/raids-armours/bg/mage/Heroes-Frostfire-Garb.png",
+		"objectFit": false,
+		"title": "Героические Регалии Ледяного Огня",
+		"description": "Первый комплект брони для мага из рейда 80-го уровня Наксрамас 10 игроков дополнения",
+		"descriptionTrim": "Верховный Лич вернулся! И снова будет повержен! Некромантия вам не страшна!",
+		"addition": "Wrath of the Lich King",
+		"price": 150
+	},
+
+	{
+		"id": "ValorousFrostfireGarb",
+		"type": "mage",
+		"path": "naxxramas",
+		"img": "/src/assets/img/raids-armours/bg/mage/Valorous-Frostfire-Garb.png",
+		"objectFit": false,
+		"title": "Доблестные Регалии Ледяного Огня",
+		"description": "Первый комплект брони для мага из рейда 80-го уровня Наксрамас 25 игроков дополнения",
+		"descriptionTrim": "Верховный Лич вернулся! И снова будет повержен! Некромантия вам не страшна!",
+		"addition": "Wrath of the Lich King",
+		"price": 150
+	},
+
+	{
+		"id": "ValorousKirinTorGarb",
+		"type": "mage",
+		"path": "ulduar",
+		"img": "/src/assets/img/raids-armours/bg/mage/Valorous-Kirin-Tor-Garb.png",
+		"objectFit": false,
+		"title": "Доблестный Кирин Торский Наряд",
+		"description": "Второй комплект брони для мага из рейда 80-го уровня Осада Ульдуара 10 игроков дополнения",
+		"descriptionTrim": "Бог Смерти будет повержен! Невероятная защита от безумия!",
+		"addition": "Wrath of the Lich King",
+		"price": 150
+	},
+
+	{
+		"id": "ValorousKirinTorGarbRecolor",
+		"type": "mage",
+		"path": "ulduar",
+		"img": "/src/assets/img/raids-armours/bg/mage/Valorous-Kirin-Tor-Garb-recolor.png",
+		"objectFit": false,
+		"title": "Доблестный Кирин Торский Наряд Путешественника из Другого Мира",
+		"description": "Кажется, сюда затесалась какая-то подозрительно похожая, но не родная броня из другого времени дополнения",
+		"descriptionTrim": "Альтернативный вариант прославленных доспехов, появившийся в иных измерениях Азерота. Обладает той же несокрушимой силой, что и оригинал, но несет в себе отпечаток другой истории.",
+		"addition": "Wrath of the Lich King",
+		"price": 150
+	},
+
+	{
+		"id": "ConquerorsKirinTorGarb",
+		"type": "mage",
+		"path": "ulduar",
+		"img": "/src/assets/img/raids-armours/bg/mage/Conquerors-Kirin-Tor-Garb.png",
+		"objectFit": false,
+		"title": "Кирин Торский Наряд Завоевателя",
+		"description": "Второй комплект брони для мага из рейда 80-го уровня Осада Ульдуара 25 игроков дополнения",
+		"descriptionTrim": "Бог Смерти будет повержен! Невероятная защита от безумия!",
+		"addition": "Wrath of the Lich King",
+		"price": 150
+	},
+
+	{
+		"id": "ConquerorsKirinTorGarbRecolor",
+		"type": "mage",
+		"path": "ulduar",
+		"img": "/src/assets/img/raids-armours/bg/mage/Conquerors-Kirin-Tor-Garb-recolor.png",
+		"objectFit": false,
+		"title": "Кирин Торский Наряд Завоевателя Путешественника из Другого Мира",
+		"description": "Кажется, сюда затесалась какая-то подозрительно похожая, но не родная броня из другого времени дополнения",
+		"descriptionTrim": "Альтернативный вариант прославленных доспехов, появившийся в иных измерениях Азерота. Обладает той же несокрушимой силой, что и оригинал, но несет в себе отпечаток другой истории.",
+		"addition": "Wrath of the Lich King",
+		"price": 150
+	},
+
+	{
+		"id": "SunstridersRegalia",
+		"type": "mage",
+		"path": "trial-of-the-crusader",
+		"img": "/src/assets/img/raids-armours/bg/mage/Sunstriders-Regalia.png",
+		"objectFit": false,
+		"title": "Регалии Солнечного Скитальца",
+		"description": "Третий комплект брони для мага из рейда 80-го уровня Испытание Крестоносца 10 и 25 игроков только для Орды дополнения",
+		"descriptionTrim": "Король Азжол-Неруба будет повержен! Слава Чемпионам Серебряного Авангарда!",
+		"addition": "Wrath of the Lich King",
+		"price": 150
+	},
+
+	{
+		"id": "KhadgarsRegalia",
+		"type": "mage",
+		"path": "trial-of-the-crusader",
+		"img": "/src/assets/img/raids-armours/bg/mage/Khadgars-Regalia.png",
+		"objectFit": false,
+		"title": "Регалии Кадгара",
+		"description": "Третий комплект брони для мага из рейда 80-го уровня Испытание Крестоносца 10 и 25 игроков только для Альянса дополнения",
+		"descriptionTrim": "Король Азжол-Неруба будет повержен! Слава Чемпионам Серебряного Авангарда!",
+		"addition": "Wrath of the Lich King",
+		"price": 150
+	},
+
+	{
+		"id": "BloodmagesRegalia",
+		"type": "mage",
+		"path": "ice-crown-citadel",
+		"img": "/src/assets/img/raids-armours/bg/mage/Bloodmages-Regalia.png",
+		"objectFit": false,
+		"title": "Регалии Волшебника Крови",
+		"description": "Четвертый комплект брони для мага из рейда 80-го уровня Цитадель Ледяной Короны 10 игроков обычного уровня сложности дополнения",
+		"descriptionTrim": "Король Лич будет повержен! Эту Броню носит сам Верховный Архимаг Антонидас! Свет защитит вас!",
+		"addition": "Wrath of the Lich King",
+		"price": 150
+	},
+
+	{
+		"id": "SanctifiedBloodmagesRegalia25Normal",
+		"type": "mage",
+		"path": "ice-crown-citadel",
+		"img": "/src/assets/img/raids-armours/bg/mage/Sanctified-Bloodmages-Regalia-25-normal.png",
+		"objectFit": false,
+		"title": "Освященные Регалии Волшебника Крови",
+		"description": "Четвертый комплект брони для мага из рейда 80-го уровня Цитадель Ледяной Короны 10 или 25 игроков героического/обычного уровня сложности дополнения",
+		"descriptionTrim": "Король Лич будет повержен! Эту Броню носит сам Верховный Архимаг Антонидас! Свет защитит вас!",
+		"addition": "Wrath of the Lich King",
+		"price": 150
+	},
+
+	{
+		"id": "SanctifiedBloodmagesRegalia25Heroic",
+		"type": "mage",
+		"path": "ice-crown-citadel",
+		"img": "/src/assets/img/raids-armours/bg/mage/Sanctified-Bloodmages-Regalia-25-heroic.png",
+		"objectFit": false,
+		"title": "Освященные Регалии Волшебника Крови",
+		"description": "Четвертый комплект брони для мага из рейда 80-го уровня Цитадель Ледяной Короны 25 игроков героического уровня сложности дополнения",
+		"descriptionTrim": "Король Лич будет повержен! Эту Броню носит сам Верховный Архимаг Антонидас! Свет защитит вас!",
+		"addition": "Wrath of the Lich King",
+		"price": 150
+	},
+
+	{
+		"id": "FirelordsVestmentsNormal",
+		"type": "mage",
+		"path": "tier-eleven",
+		"img": "/src/assets/img/raids-armours/bg/mage/Firelords-Vestments-normal.png",
+		"objectFit": false,
+		"title": "Одежды Повелителя Огня",
+		"description": "Первый комплект брони для мага из рейдов 85-го уровня Твердыня Крыла Тьмы, Сумеречный Бастион и Трон Четырех Ветров обычного уровня сложности дополнения",
+		"descriptionTrim": "Лорд Черной Горы, Вождь клана Сумеречного Молота и Повелитель ветра будут повержены! Культ Сумеречного Молота вам больше не страшен! Доспехи в стиле Подземья!",
+		"addition": "Cataclysm",
+		"price": 200
+	},
+
+	{
+		"id": "FirelordsVestmentsHeroic",
+		"type": "mage",
+		"path": "tier-eleven",
+		"img": "/src/assets/img/raids-armours/bg/mage/Firelords-Vestments-heroic.png",
+		"objectFit": false,
+		"title": "Одежды Повелителя Огня",
+		"description": "Первый комплект брони для мага из рейдов 85-го уровня Твердыня Крыла Тьмы, Сумеречный Бастион и Трон Четырех Ветров героического уровня сложности дополнения",
+		"descriptionTrim": "Лорд Черной Горы, Вождь клана Сумеречного Молота и Повелитель ветра будут повержены! Культ Сумеречного Молота вам больше не страшен! Доспехи в стиле Подземья!",
+		"addition": "Cataclysm",
+		"price": 200
+	},
+
+	{
+		"id": "FirehawkRobesOfConflagrationNormal",
+		"type": "mage",
+		"path": "firelands",
+		"img": "/src/assets/img/raids-armours/bg/mage/Firehawk-Robes-of-Conflagration-normal.png",
+		"objectFit": false,
+		"title": "Воспламеняющие Одеяния Огненного Ястреба",
+		"description": "Второй комплект брони для мага из рейда 85-го уровня Огненные Просторы обычного уровня сложности дополнения",
+		"descriptionTrim": "Повелитель Огня вернулся! И снова будет повержен! Вы неуязвимы для пламени Сульфурона!",
+		"addition": "Cataclysm",
+		"price": 200
+	},
+
+	{
+		"id": "FirehawkRobesOfConflagrationHeroic",
+		"type": "mage",
+		"path": "firelands",
+		"img": "/src/assets/img/raids-armours/bg/mage/Firehawk-Robes-of-Conflagration-heroic.png",
+		"objectFit": false,
+		"title": "Воспламеняющие Одеяния Огненного Ястреба",
+		"description": "Второй комплект брони для мага из рейда 85-го уровня Огненные Просторы героического уровня сложности дополнения",
+		"descriptionTrim": "Повелитель Огня вернулся! И снова будет повержен! Вы неуязвимы для пламени Сульфурона!",
+		"addition": "Cataclysm",
+		"price": 200
+	},
+
+	{
+		"id": "TimeLordsRegaliaRaidFinder",
+		"type": "mage",
+		"path": "dragon-soul",
+		"img": "/src/assets/img/raids-armours/bg/mage/Time-Lords-Regalia-raid-finder.png",
+		"objectFit": false,
+		"title": "Регалии Повелителя Времени",
+		"description": "Третий комплект брони для мага из рейда 85-го уровня Душа Дракона режима поиска рейдов дополнения",
+		"descriptionTrim": "Аспект Смерти, Разрушитель Миров будет повержен! Броня из Чешуи самого Смертокрыла, усиленная магией драконьих прародителей и закаленная в потоках самого Времени! Катаклизм отменяется!",
+		"addition": "Cataclysm",
+		"price": 200
+	},
+
+	{
+		"id": "TimeLordsRegaliaNormal",
+		"type": "mage",
+		"path": "dragon-soul",
+		"img": "/src/assets/img/raids-armours/bg/mage/Time-Lords-Regalia-normal.png",
+		"objectFit": false,
+		"title": "Регалии Повелителя Времени",
+		"description": "Третий комплект брони для мага из рейда 85-го уровня Душа Дракона обычного уровня сложности дополнения",
+		"descriptionTrim": "Аспект Смерти, Разрушитель Миров будет повержен! Броня из Чешуи самого Смертокрыла, усиленная магией драконьих прародителей и закаленная в потоках самого Времени! Катаклизм отменяется!",
+		"addition": "Cataclysm",
+		"price": 200
+	},
+
+	{
+		"id": "TimeLordsRegaliaHeroic",
+		"type": "mage",
+		"path": "dragon-soul",
+		"img": "/src/assets/img/raids-armours/bg/mage/Time-Lords-Regalia-heroic.png",
+		"objectFit": false,
+		"title": "Регалии Повелителя Времени",
+		"description": "Третий комплект брони для мага из рейда 85-го уровня Душа Дракона героического уровня сложности дополнения",
+		"descriptionTrim": "Аспект Смерти, Разрушитель Миров будет повержен! Броня из Чешуи самого Смертокрыла, усиленная магией драконьих прародителей и закаленная в потоках самого Времени! Катаклизм отменяется!",
+		"addition": "Cataclysm",
+		"price": 200
+	}
+]

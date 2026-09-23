@@ -1,0 +1,14 @@
+[
+	{
+		"id": 
+		"className": "card-warrior",
+		"path": "#",
+		"cardImg": "/src/assets/img/weapons/bg/artifact/warrior/Stromkar-the-Warbreaker-base.png",
+		"titleClassName": "card-title-warrior",
+		"title": "",
+		"descriptionClassName": "card-text-warrior",
+		"description": "Закажите Стром'кар, Миротворец",
+		"priceClassName": "card-price-warrior",
+		"price": 800
+	}
+]

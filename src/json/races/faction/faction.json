@@ -1,0 +1,23 @@
+[
+	{
+		"id": "FactionHorde",
+		"type": "faction-horde",
+		"path": "horde",
+		"img": "/src/assets/img/promo/bg/faction/horde.png",
+		"objectFit": false,
+		"title": "Орда: Сила и Честь!",
+		"description": "Расы игроков Орды. Неудержимой Ордой движет идея единства и свободы. Ревностные поборники чести, они готовы сокрушить любого, кто угрожает их идеалам. За Орду!",
+		"price": 1000
+	},
+
+	{
+		"id": "FactionAlliance",
+		"type": "faction-alliance",
+		"path": "alliance",
+		"img": "/src/assets/img/promo/bg/faction/alliance.png",
+		"objectFit": false,
+		"title": "Альянс: Честь и Отвага!",
+		"description": "Расы игроков Альянса. Непоколебимый Альянс живет традициями чести и отваги. Эти убежденные защитники справедливости, верные своему долгу, готовы защищать Азерот любой ценой. За Альянс!",
+		"price": 1000
+	}
+]

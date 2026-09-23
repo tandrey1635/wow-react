@@ -1,0 +1,157 @@
+[
+	{
+		"id": "Classic",
+		"type": "dungeons-raids-classic",
+		"path": "classic",
+		"img": "/src/assets/img/promo/bg/dungeons-raids/classic.png",
+		"objectFit": false,
+		"title": "Classic",
+		"description": "Покорите рейды дополнения",
+		"addition": "Classic",
+		"price": 50
+	},
+
+	{
+		"id": "BurningCrusade",
+		"type": "dungeons-raids-burning-crusade",
+		"path": "burning-crusade",
+		"img": "/src/assets/img/promo/bg/dungeons-raids/burning-crusade.png",
+		"objectFit": false,
+		"title": "The Burning Crusade",
+		"description": "Покорите рейды дополнения",
+		"addition": "The Burning Crusade",
+		"price": 100
+	},
+
+	{
+		"id": "WrathOfTheLichKing",
+		"type": "dungeons-raids-wrath-of-the-lich-king",
+		"path": "wrath-of-the-lich-king",
+		"img": "/src/assets/img/promo/bg/dungeons-raids/wrath-of-the-lich-king.png",
+		"objectFit": false,
+		"title": "Wrath of the Lich King",
+		"description": "Покорите рейды дополнения",
+		"addition": "Wrath of the Lich King",
+		"price": 150
+	},
+
+	{
+		"id": "Cataclysm",
+		"type": "dungeons-raids-cataclysm",
+		"path": "cataclysm",
+		"img": "/src/assets/img/promo/bg/dungeons-raids/cataclysm.png",
+		"objectFit": false,
+		"title": "Cataclysm",
+		"description": "Покорите рейды дополнения",
+		"addition": "Cataclysm",
+		"price": 200
+	},
+
+	{
+		"id": "MistsOfPandaria",
+		"type": "dungeons-raids-mists-of-pandaria",
+		"path": "mists-of-pandaria",
+		"img": "/src/assets/img/promo/bg/dungeons-raids/mists-of-pandaria.png",
+		"objectFit": false,
+		"title": "Mists of Pandaria",
+		"description": "Покорите рейды дополнения",
+		"addition": "Mists of Pandaria",
+		"price": 250
+	},
+
+	{
+		"id": "WarlordsOfDraenor",
+		"type": "dungeons-raids-warlords-of-draenor",
+		"path": "warlords-of-draenor",
+		"img": "/src/assets/img/promo/bg/dungeons-raids/warlords-of-draenor.png",
+		"objectFit": false,
+		"title": "Warlords of Draenor",
+		"description": "Покорите рейды дополнения",
+		"addition": "Warlords of Draenor",
+		"price": 300
+	},
+
+	{
+		"id": "Legion",
+		"type": "dungeons-raids-legion",
+		"path": "legion",
+		"img": "/src/assets/img/promo/bg/dungeons-raids/legion.png",
+		"objectFit": false,
+		"title": "Legion",
+		"description": "Покорите рейды дополнения",
+		"addition": "Legion",
+		"price": 350
+	},
+
+	{
+		"id": "BattleForAzeroth",
+		"type": "dungeons-raids-battle-for-azeroth",
+		"path": "battle-for-azeroth",
+		"img": "/src/assets/img/promo/bg/dungeons-raids/battle-for-azeroth.png",
+		"objectFit": false,
+		"title": "Battle for Azeroth",
+		"description": "Покорите рейды дополнения",
+		"addition": "Battle for Azeroth",
+		"price": 400
+	},
+
+	{
+		"id": "Shadowlands",
+		"type": "dungeons-raids-shadowlands",
+		"path": "shadowlands",
+		"img": "/src/assets/img/promo/bg/dungeons-raids/shadowlands.png",
+		"objectFit": false,
+		"title": "Shadowlands",
+		"description": "Покорите рейды дополнения",
+		"addition": "Shadowlands",
+		"price": 450
+	},
+
+	{
+		"id": "Dragonflight",
+		"type": "dungeons-raids-dragonflight",
+		"path": "dragonflight",
+		"img": "/src/assets/img/promo/bg/dungeons-raids/dragonflight.png",
+		"objectFit": false,
+		"title": "Dragonflight",
+		"description": "Покорите рейды дополнения",
+		"addition": "Dragonflight",
+		"price": 500
+	},
+
+	{
+		"id": "WarWithin",
+		"type": "dungeons-raids-war-within",
+		"path": "war-within",
+		"img": "/src/assets/img/promo/bg/dungeons-raids/war-within.png",
+		"objectFit": false,
+		"title": "The War Within",
+		"description": "Покорите рейды дополнения",
+		"addition": "The War Within",
+		"price": 600
+	},
+
+	{
+		"id": "Midnight",
+		"type": "dungeons-raids-midnight",
+		"path": "midnight",
+		"img": "/src/assets/img/promo/bg/dungeons-raids/midnight.png",
+		"objectFit": false,
+		"title": "Midnight",
+		"description": "Покорите рейды дополнения",
+		"addition": "Midnight",
+		"price": 800
+	},
+
+	{
+		"id": "LastTitan",
+		"type": "dungeons-raids-last-titan",
+		"path": "last-titan",
+		"img": "/src/assets/img/promo/bg/dungeons-raids/last-titan.png",
+		"objectFit": false,
+		"title": "The Last Titan",
+		"description": "Покорите рейды дополнения",
+		"addition": "The Last Titan",
+		"price": 1000
+	}
+]

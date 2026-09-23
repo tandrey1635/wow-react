@@ -1,0 +1,34 @@
+[
+	{
+		"id": "BeastMastery",
+		"type": "hunter",
+		"path": "",
+		"img": "/src/assets/img/promo/bg/classes/hunter/BeastMastery.jpg",
+		"objectFit": false,
+		"title": "Повелитель Зверей",
+		"description": "Закажите артефакты для Охотника Повелителя Зверей",
+		"price": 800
+	},
+
+	{
+		"id": "Marksmanship",
+		"type": "hunter",
+		"path": "",
+		"img": "/src/assets/img/promo/bg/classes/hunter/Marksmanship.jpg",
+		"objectFit": false,
+		"title": "Стрельба",
+		"description": "Закажите артефакты для Охотника Стрельбы",
+		"price": 800
+	},
+
+	{
+		"id": "Survival",
+		"type": "hunter",
+		"path": "",
+		"img": "/src/assets/img/promo/bg/classes/hunter/Survival.jpg",
+		"objectFit": false,
+		"title": "Выживание",
+		"description": "Закажите артефакты для Охотника Выживания",
+		"price": 800
+	}
+]

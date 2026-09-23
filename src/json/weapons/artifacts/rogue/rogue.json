@@ -1,0 +1,34 @@
+[
+	{
+		"id": "Assassination",
+		"type": "rogue",
+		"path": "",
+		"img": "/src/assets/img/promo/bg/classes/rogue/Assassination.jpg",
+		"objectFit": false,
+		"title": "Ликвидация",
+		"description": "Закажите артефакты для Разбойника Ликвидации",
+		"price": 800
+	},
+
+	{
+		"id": "Outlaw",
+		"type": "rogue",
+		"path": "",
+		"img": "/src/assets/img/promo/bg/classes/rogue/Outlaw.jpg",
+		"objectFit": false,
+		"title": "Головорез",
+		"description": "Закажите артефакты для Разбойника Головореза",
+		"price": 800
+	},
+
+	{
+		"id": "Subtlety",
+		"type": "rogue",
+		"path": "",
+		"img": "/src/assets/img/promo/bg/classes/rogue/Subtlety.jpg",
+		"objectFit": false,
+		"title": "Скрытность",
+		"description": "Закажите артефакты для Разбойника Скрытности",
+		"price": 800
+	}
+]

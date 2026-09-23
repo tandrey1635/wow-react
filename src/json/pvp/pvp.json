@@ -1,0 +1,41 @@
+[
+	{
+		"id": "honour",
+		"className": "card-pvp",
+		"path": "pvp/honour",
+		"cardImg": "/src/assets/img/promo/bg/pvp/honour.png",
+		"titleClassName": "card-title-pvp",
+		"title": "Честь",
+		"descriptionClassName": "card-text-pvp",
+		"description": "Очки чести необходимые для покупки PvP экипировки",
+		"priceClassName": "card-price-pvp",
+		"price": 100
+	},
+
+
+	{
+		"id": "arena",
+		"className": "card-pvp",
+		"path": "pvp/arena",
+		"cardImg": "/src/assets/img/promo/bg/pvp/arena.png",
+		"titleClassName": "card-title-pvp",
+		"title": "Арена",
+		"descriptionClassName": "card-text-pvp",
+		"description": "Очки Арены необходимые для покупки мощной и самой лучшей PvP экипировки",
+		"priceClassName": "card-price-pvp",
+		"price": 200
+	},
+
+	{
+		"id": "rbg",
+		"className": "card-pvp",
+		"path": "pvp/rbg",
+		"cardImg": "/src/assets/img/promo/bg/pvp/rbg.png",
+		"titleClassName": "card-title-pvp",
+		"title": "Рейтинговые Поля Боя",
+		"descriptionClassName": "card-text-pvp",
+		"description": "Рейтинговые бои для покупки уникальной PvP экипировки и званий таких как Гладиатор",
+		"priceClassName": "card-price-pvp",
+		"price": 300
+	}
+]

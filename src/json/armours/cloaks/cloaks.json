@@ -1,0 +1,841 @@
+[
+	{
+		"id": "ScarletZealotsCloak",
+		"type": "armours",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/cloaks/Scarlet-Zealots-Cloak.png",
+		"objectFit": false,
+		"title": "Плащ Алого Ревнителя",
+		"description": "Плащ — тень за спиной героя, бесшумный спутник. Скрывает, украшает, защищает. Добавляет шарма даже самому простому образу. Тень, что всегда с тобой.",
+		"price": 300
+	},
+
+	{
+		"id": "AdventurousLamplightersCloak",
+		"type": "armours",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/cloaks/Adventurous-Lamplighters-Cloak.png",
+		"objectFit": false,
+		"title": "Плащ Отважного Фонарщика",
+		"description": "Плащ — тень за спиной героя, бесшумный спутник. Скрывает, украшает, защищает. Добавляет шарма даже самому простому образу. Тень, что всегда с тобой.",
+		"price": 300
+	},
+
+	{
+		"id": "SacredShawlOfThePriory",
+		"type": "armours",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/cloaks/Sacred-Shawl-of-the-Priory.png",
+		"objectFit": false,
+		"title": "Священная Пелерина Приората",
+		"description": "Плащ — тень за спиной героя, бесшумный спутник. Скрывает, украшает, защищает. Добавляет шарма даже самому простому образу. Тень, что всегда с тобой.",
+		"price": 300
+	},
+
+	{
+		"id": "HighPriestesssCeremonialDrape",
+		"type": "armours",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/cloaks/High-Priestesss-Ceremonial-Drape.png",
+		"objectFit": false,
+		"title": "Церемониальная Пелерина Верховной Жрицы",
+		"description": "Плащ — тень за спиной героя, бесшумный спутник. Скрывает, украшает, защищает. Добавляет шарма даже самому простому образу. Тень, что всегда с тобой.",
+		"price": 300
+	},
+
+	{
+		"id": "MoonpriestsCloak",
+		"type": "armours",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/cloaks/Moonpriests-Cloak.png",
+		"objectFit": false,
+		"title": "Плащ Лунного Жреца",
+		"description": "Плащ — тень за спиной героя, бесшумный спутник. Скрывает, украшает, защищает. Добавляет шарма даже самому простому образу. Тень, что всегда с тобой.",
+		"price": 300
+	},
+
+	{
+		"id": "WinterbornGreatcloak",
+		"type": "armours",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/cloaks/Winterborn-Greatcloak.png",
+		"objectFit": false,
+		"title": "Теплый Плащ Зиморожденного",
+		"description": "Плащ — тень за спиной героя, бесшумный спутник. Скрывает, украшает, защищает. Добавляет шарма даже самому простому образу. Тень, что всегда с тобой.",
+		"price": 300
+	},
+
+	{
+		"id": "FeatheredDrapeOfTheArchmage",
+		"type": "armours",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/cloaks/Feathered-Drape-of-the-Archmage.png",
+		"objectFit": false,
+		"title": "Пернатый Плащ Верховного Мага",
+		"description": "Плащ — тень за спиной героя, бесшумный спутник. Скрывает, украшает, защищает. Добавляет шарма даже самому простому образу. Тень, что всегда с тобой.",
+		"price": 300
+	},
+
+	{
+		"id": "DominantGladiatorsDrapeOfPiety",
+		"type": "armours",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/cloaks/Dominant-Gladiators-Drape-of-Piety.png",
+		"objectFit": false,
+		"title": "Пелерина Благочестия Господствующего Гладиатора",
+		"description": "Плащ — тень за спиной героя, бесшумный спутник. Скрывает, украшает, защищает. Добавляет шарма даже самому простому образу. Тень, что всегда с тобой.",
+		"price": 300
+	},
+
+	{
+		"id": "DemonicGladiatorsDrapeOfPiety",
+		"type": "armours",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/cloaks/Demonic-Gladiators-Drape-of-Piety.png",
+		"objectFit": false,
+		"title": "Пелерина Благочестия Демонического Гладиатора",
+		"description": "Плащ — тень за спиной героя, бесшумный спутник. Скрывает, украшает, защищает. Добавляет шарма даже самому простому образу. Тень, что всегда с тобой.",
+		"price": 300
+	},
+
+	{
+		"id": "GildedSeraphsDrape",
+		"type": "armours",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/cloaks/Gilded-Seraphs-Drape.png",
+		"objectFit": false,
+		"title": "Золотая Пелерина Серафима",
+		"description": "Плащ — тень за спиной героя, бесшумный спутник. Скрывает, украшает, защищает. Добавляет шарма даже самому простому образу. Тень, что всегда с тобой.",
+		"price": 300
+	},
+
+	{
+		"id": "FieryCloak",
+		"type": "armours",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/cloaks/Fiery-Cloak.png",
+		"objectFit": false,
+		"title": "Огненный плащ",
+		"description": "Плащ — тень за спиной героя, бесшумный спутник. Скрывает, украшает, защищает. Добавляет шарма даже самому простому образу. Тень, что всегда с тобой.",
+		"price": 300
+	},
+
+	{
+		"id": "CloakOfTheDarkmoonFaire",
+		"type": "armours",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/cloaks/Cloak-of-the-Darkmoon-Faire.png",
+		"objectFit": false,
+		"title": "Плащ Ярмарки Новолуния",
+		"description": "Плащ — тень за спиной героя, бесшумный спутник. Скрывает, украшает, защищает. Добавляет шарма даже самому простому образу. Тень, что всегда с тобой.",
+		"price": 300
+	},
+
+	{
+		"id": "ShroudOfOrgrimmar",
+		"type": "armours",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/cloaks/Shroud-of-Orgrimmar.png",
+		"objectFit": false,
+		"title": "Накидка Оргриммара",
+		"description": "Плащ — тень за спиной героя, бесшумный спутник. Скрывает, украшает, защищает. Добавляет шарма даже самому простому образу. Тень, что всегда с тобой.",
+		"price": 300
+	},
+
+	{
+		"id": "ShroudOfUndercity",
+		"type": "armours",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/cloaks/Shroud-of-Undercity.png",
+		"objectFit": false,
+		"title": "Накидка Подгорода",
+		"description": "Плащ — тень за спиной героя, бесшумный спутник. Скрывает, украшает, защищает. Добавляет шарма даже самому простому образу. Тень, что всегда с тобой.",
+		"price": 300
+	},
+
+	{
+		"id": "ShroudOfSilvermoon",
+		"type": "armours",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/cloaks/Shroud-of-Silvermoon.png",
+		"objectFit": false,
+		"title": "Накидка Луносвета",
+		"description": "Плащ — тень за спиной героя, бесшумный спутник. Скрывает, украшает, защищает. Добавляет шарма даже самому простому образу. Тень, что всегда с тобой.",
+		"price": 300
+	},
+
+	{
+		"id": "ShroudOfStormwind",
+		"type": "armours",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/cloaks/Shroud-of-Stormwind.png",
+		"objectFit": false,
+		"title": "Накидка Штормграда",
+		"description": "Плащ — тень за спиной героя, бесшумный спутник. Скрывает, украшает, защищает. Добавляет шарма даже самому простому образу. Тень, что всегда с тобой.",
+		"price": 300
+	},
+
+	{
+		"id": "ShroudOfGilneas",
+		"type": "armours",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/cloaks/Shroud-of-Gilneas.png",
+		"objectFit": false,
+		"title": "Накидка Гилнеаса",
+		"description": "Плащ — тень за спиной героя, бесшумный спутник. Скрывает, украшает, защищает. Добавляет шарма даже самому простому образу. Тень, что всегда с тобой.",
+		"price": 300
+	},
+
+	{
+		"id": "ShroudOfDarnassus",
+		"type": "armours",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/cloaks/Shroud-of-Darnassus.png",
+		"objectFit": false,
+		"title": "Накидка Дарнаса",
+		"description": "Плащ — тень за спиной героя, бесшумный спутник. Скрывает, украшает, защищает. Добавляет шарма даже самому простому образу. Тень, что всегда с тобой.",
+		"price": 300
+	},
+
+	{
+		"id": "DistinguishedWarcloak",
+		"type": "armours",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/cloaks/Distinguished-Warcloak.png",
+		"objectFit": false,
+		"title": "Выдающийся Боевой Плащ",
+		"description": "Плащ — тень за спиной героя, бесшумный спутник. Скрывает, украшает, защищает. Добавляет шарма даже самому простому образу. Тень, что всегда с тобой.",
+		"price": 300
+	},
+
+	{
+		"id": "DreadAspirantsGreatcloak",
+		"type": "armours",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/cloaks/Dread-Aspirants-Greatcloak.png",
+		"objectFit": false,
+		"title": "Теплый Плащ Ужасающего Претендента",
+		"description": "Плащ — тень за спиной героя, бесшумный спутник. Скрывает, украшает, защищает. Добавляет шарма даже самому простому образу. Тень, что всегда с тобой.",
+		"price": 300
+	},
+
+	{
+		"id": "RecruitsSturdyCloak",
+		"type": "armours",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/cloaks/Recruits-Sturdy-Cloak.png",
+		"objectFit": false,
+		"title": "Прочный Плащ Новобранца",
+		"description": "Плащ — тень за спиной героя, бесшумный спутник. Скрывает, украшает, защищает. Добавляет шарма даже самому простому образу. Тень, что всегда с тобой.",
+		"price": 300
+	},
+
+	{
+		"id": "7thLegionnairesCape",
+		"type": "armours",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/cloaks/7th-Legionnaires-Cape.png",
+		"objectFit": false,
+		"title": "Мантия 7-го Легиона",
+		"description": "Плащ — тень за спиной героя, бесшумный спутник. Скрывает, украшает, защищает. Добавляет шарма даже самому простому образу. Тень, что всегда с тобой.",
+		"price": 300
+	},
+
+	{
+		"id": "WrapOfRagingTempestsGreen",
+		"type": "armours",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/cloaks/Wrap-of-Raging-Tempests-green.png",
+		"objectFit": true,
+		"title": "Пелерина Яростных Бурь",
+		"description": "Плащ — тень за спиной героя, бесшумный спутник. Скрывает, украшает, защищает. Добавляет шарма даже самому простому образу. Тень, что всегда с тобой.",
+		"price": 300
+	},
+
+	{
+		"id": "WrapOfRagingTempestsBlue",
+		"type": "armours",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/cloaks/Wrap-of-Raging-Tempests-blue.png",
+		"objectFit": true,
+		"title": "Пелерина Яростных Бурь",
+		"description": "Плащ — тень за спиной героя, бесшумный спутник. Скрывает, украшает, защищает. Добавляет шарма даже самому простому образу. Тень, что всегда с тобой.",
+		"price": 300
+	},
+
+	{
+		"id": "DrapeOfForebodingMists",
+		"type": "armours",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/cloaks/Drape-of-Foreboding-Mists.png",
+		"title": "Пелерина Гнетущих Туманов",
+		"objectFit": true,
+		"description": "Плащ — тень за спиной героя, бесшумный спутник. Скрывает, украшает, защищает. Добавляет шарма даже самому простому образу. Тень, что всегда с тобой.",
+		"price": 300
+	},
+
+	{
+		"id": "ShadowmoonDestroyersDrape",
+		"type": "armours",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/cloaks/Shadowmoon-Destroyers-Drape.png",
+		"objectFit": false,
+		"title": "Пелерина Разрушителя из Клана Призрачной Луны",
+		"description": "Плащ — тень за спиной героя, бесшумный спутник. Скрывает, украшает, защищает. Добавляет шарма даже самому простому образу. Тень, что всегда с тобой.",
+		"price": 300
+	},
+
+	{
+		"id": "RoyalCloakOfTheSunstriders",
+		"type": "armours",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/cloaks/Royal-Cloak-of-the-Sunstriders.png",
+		"objectFit": false,
+		"title": "Королевский Плащ Солнечных Скитальцев",
+		"description": "Плащ — тень за спиной героя, бесшумный спутник. Скрывает, украшает, защищает. Добавляет шарма даже самому простому образу. Тень, что всегда с тобой.",
+		"price": 300
+	},
+
+	{
+		"id": "SindoreiAssassinsShroud",
+		"type": "armours",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/cloaks/Sindorei-Assassins-Shroud.png",
+		"objectFit": false,
+		"title": "Покров Син'дорай Убийцы",
+		"description": "Плащ — тень за спиной героя, бесшумный спутник. Скрывает, украшает, защищает. Добавляет шарма даже самому простому образу. Тень, что всегда с тобой.",
+		"price": 300
+	},
+
+	{
+		"id": "DrapeOfTheSullenGoddess",
+		"type": "armours",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/cloaks/Drape-of-the-Sullen-Goddess.png",
+		"objectFit": false,
+		"title": "Пелерина Угрюмой Богини",
+		"description": "Плащ — тень за спиной героя, бесшумный спутник. Скрывает, украшает, защищает. Добавляет шарма даже самому простому образу. Тень, что всегда с тобой.",
+		"price": 300
+	},
+
+	{
+		"id": "ShawlOfHauntedMemories",
+		"type": "armours",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/cloaks/Shawl-of-Haunted-Memories.png",
+		"objectFit": false,
+		"title": "Шаль Мучительных Воспоминаний",
+		"description": "Плащ — тень за спиной героя, бесшумный спутник. Скрывает, украшает, защищает. Добавляет шарма даже самому простому образу. Тень, что всегда с тобой.",
+		"price": 300
+	},
+
+	{
+		"id": "MagistersJeweledDrape",
+		"type": "armours",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/cloaks/Magisters-Jeweled-Drape.png",
+		"objectFit": false,
+		"title": "Пелерина Магистра с Каменьями",
+		"description": "Плащ — тень за спиной героя, бесшумный спутник. Скрывает, украшает, защищает. Добавляет шарма даже самому простому образу. Тень, что всегда с тобой.",
+		"price": 300
+	},
+
+	{
+		"id": "DrapeOfTheSunreavers",
+		"type": "armours",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/cloaks/Drape-of-the-Sunreavers.png",
+		"objectFit": false,
+		"title": "Пелерина Похитителей Солнца",
+		"description": "Плащ — тень за спиной героя, бесшумный спутник. Скрывает, украшает, защищает. Добавляет шарма даже самому простому образу. Тень, что всегда с тобой.",
+		"price": 300
+	},
+
+	{
+		"id": "PermafrostCape",
+		"type": "armours",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/cloaks/Permafrost-Cape.png",
+		"objectFit": false,
+		"title": "Накидка Вечной Мерзлоты",
+		"description": "Плащ — тень за спиной героя, бесшумный спутник. Скрывает, украшает, защищает. Добавляет шарма даже самому простому образу. Тень, что всегда с тобой.",
+		"price": 300
+	},
+
+	{
+		"id": "EmeraldDrape",
+		"type": "armours",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/cloaks/Emerald-Drape.png",
+		"objectFit": false,
+		"title": "Изумрудная Пелерина",
+		"description": "Плащ — тень за спиной героя, бесшумный спутник. Скрывает, украшает, защищает. Добавляет шарма даже самому простому образу. Тень, что всегда с тобой.",
+		"price": 300
+	},
+
+	{
+		"id": "CloudburstCloak",
+		"type": "armours",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/cloaks/Cloudburst-Cloak.png",
+		"objectFit": false,
+		"title": "Плащ Грозовой Сферы",
+		"description": "Плащ — тень за спиной героя, бесшумный спутник. Скрывает, украшает, защищает. Добавляет шарма даже самому простому образу. Тень, что всегда с тобой.",
+		"price": 300
+	},
+
+	{
+		"id": "WanderersCrimsonCloak",
+		"type": "armours",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/cloaks/Wanderers-Crimson-Cloak.png",
+		"objectFit": false,
+		"title": "Багровый Плащ Скитальца",
+		"description": "Плащ — тень за спиной героя, бесшумный спутник. Скрывает, украшает, защищает. Добавляет шарма даже самому простому образу. Тень, что всегда с тобой.",
+		"price": 300
+	},
+
+	{
+		"id": "WanderersCarrotCloak",
+		"type": "armours",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/cloaks/Wanderers-Carrot-Cloak.png",
+		"objectFit": false,
+		"title": "Морковный Плащ Скитальца",
+		"description": "Плащ — тень за спиной героя, бесшумный спутник. Скрывает, украшает, защищает. Добавляет шарма даже самому простому образу. Тень, что всегда с тобой.",
+		"price": 300
+	},
+
+	{
+		"id": "WanderersSunnyCloak",
+		"type": "armours",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/cloaks/Wanderers-Sunny-Cloak.png",
+		"objectFit": false,
+		"title": "Солнечный Плащ Скитальца",
+		"description": "Плащ — тень за спиной героя, бесшумный спутник. Скрывает, украшает, защищает. Добавляет шарма даже самому простому образу. Тень, что всегда с тобой.",
+		"price": 300
+	},
+
+	{
+		"id": "WanderersLivelyCloak",
+		"type": "armours",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/cloaks/Wanderers-Lively-Cloak.png",
+		"objectFit": false,
+		"title": "Яркий Плащ Скитальца",
+		"description": "Плащ — тень за спиной героя, бесшумный спутник. Скрывает, украшает, защищает. Добавляет шарма даже самому простому образу. Тень, что всегда с тобой.",
+		"price": 300
+	},
+
+	{
+		"id": "WanderersAquaticCloak",
+		"type": "armours",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/cloaks/Wanderers-Aquatic-Cloak.png",
+		"objectFit": false,
+		"title": "Водный Плащ Скитальца",
+		"description": "Плащ — тень за спиной героя, бесшумный спутник. Скрывает, украшает, защищает. Добавляет шарма даже самому простому образу. Тень, что всегда с тобой.",
+		"price": 300
+	},
+
+	{
+		"id": "WanderersAzureCloak",
+		"type": "armours",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/cloaks/Wanderers-Azure-Cloak.png",
+		"objectFit": false,
+		"title": "Лазурный Плащ Скитальца",
+		"description": "Плащ — тень за спиной героя, бесшумный спутник. Скрывает, украшает, защищает. Добавляет шарма даже самому простому образу. Тень, что всегда с тобой.",
+		"price": 300
+	},
+
+	{
+		"id": "WanderersVioletCloak",
+		"type": "armours",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/cloaks/Wanderers-Violet-Cloak.png",
+		"objectFit": false,
+		"title": "Лиловый Плащ Скитальца",
+		"description": "Плащ — тень за спиной героя, бесшумный спутник. Скрывает, украшает, защищает. Добавляет шарма даже самому простому образу. Тень, что всегда с тобой.",
+		"price": 300
+	},
+
+	{
+		"id": "WanderersSepiaCloak",
+		"type": "armours",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/cloaks/Wanderers-Sepia-Cloak.png",
+		"objectFit": false,
+		"title": "Светло Бурый Плащ Скитальца",
+		"description": "Плащ — тень за спиной героя, бесшумный спутник. Скрывает, украшает, защищает. Добавляет шарма даже самому простому образу. Тень, что всегда с тобой.",
+		"price": 300
+	},
+
+	{
+		"id": "WanderersRosyCloak",
+		"type": "armours",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/cloaks/Wanderers-Rosy-Cloak.png",
+		"objectFit": false,
+		"title": "Розовый Плащ Скитальца",
+		"description": "Плащ — тень за спиной героя, бесшумный спутник. Скрывает, украшает, защищает. Добавляет шарма даже самому простому образу. Тень, что всегда с тобой.",
+		"price": 300
+	},
+
+	{
+		"id": "WanderersSnowyCloak",
+		"type": "armours",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/cloaks/Wanderers-Snowy-Cloak.png",
+		"objectFit": false,
+		"title": "Заснеженный Плащ Скитальца",
+		"description": "Плащ — тень за спиной героя, бесшумный спутник. Скрывает, украшает, защищает. Добавляет шарма даже самому простому образу. Тень, что всегда с тобой.",
+		"price": 300
+	},
+
+	{
+		"id": "TigerclawCape",
+		"type": "armours",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/cloaks/Tigerclaw-Cape.png",
+		"objectFit": false,
+		"title": "Плащ Тигриного Когтя",
+		"description": "Плащ — тень за спиной героя, бесшумный спутник. Скрывает, украшает, защищает. Добавляет шарма даже самому простому образу. Тень, что всегда с тобой.",
+		"price": 300
+	},
+
+	{
+		"id": "OxhoofGreatcloak",
+		"type": "armours",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/cloaks/Oxhoof-Greatcloak.png",
+		"objectFit": false,
+		"title": "Теплый Плащ Неистового Быка",
+		"description": "Плащ — тень за спиной героя, бесшумный спутник. Скрывает, украшает, защищает. Добавляет шарма даже самому простому образу. Тень, что всегда с тобой.",
+		"price": 300
+	},
+
+	{
+		"id": "JadefireDrape",
+		"type": "armours",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/cloaks/Jadefire-Drape.png",
+		"objectFit": false,
+		"title": "Пелерина Нефритового Пламени",
+		"description": "Плащ — тень за спиной героя, бесшумный спутник. Скрывает, украшает, защищает. Добавляет шарма даже самому простому образу. Тень, что всегда с тобой.",
+		"price": 300
+	},
+
+	{
+		"id": "CranewingCloak",
+		"type": "armours",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/cloaks/Cranewing-Cloak.png",
+		"objectFit": false,
+		"title": "Плащ Журавлиного Крыла",
+		"description": "Плащ — тень за спиной героя, бесшумный спутник. Скрывает, украшает, защищает. Добавляет шарма даже самому простому образу. Тень, что всегда с тобой.",
+		"price": 300
+	},
+
+	{
+		"id": "FenYuFuryOfXuen",
+		"type": "legendary",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/cloaks/FenYu-Fury-of-Xuen.png",
+		"objectFit": false,
+		"title": "Фэнь-Ю, Гнев Сюэня",
+		"description": "Когда ваши атаки наносят урон, может сработать эффект Вихрь Сюэня, позволяющий наносить 248 126 урона 5 находящимся перед вами противникам раз в 0.3 секунды в течение 3 секунд. Срабатывает не чаще 3 раз в минуту. Для персонажей, являющихся танками, эффективность снижена вдвое.",
+		"price": 500
+	},
+
+	{
+		"id": "QianYingFortitudeOfNiuzao",
+		"type": "legendary",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/cloaks/QianYing-Fortitude-of-Niuzao.png",
+		"objectFit": false,
+		"title": "Сянь-Ин, Стойкость Нюцзао",
+		"description": "Когда вы получаете смертельный урон срабатывает эффект Живучесть Нюцзао поглощающий 496 252 урона от этой атаки. Срабатывает не чаще одного раза в 2 минуты. Не действует на персонажей, не являющихся танками.",
+		"price": 500
+	},
+
+	{
+		"id": "XingHoBreathOfYulon",
+		"className": "card-armours card-armours-legendary",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/XingHo-Breath-of-Yulon.png",
+		"titleClassName": "card-title-armours card-title-armours-legendary",
+		"title": "Син-Хо, Дыхание Юй-лун",
+		"descriptionClassName": "card-text-armours card-text-armours-legendary",
+		"description": "Закажите Син-Хо, Дыхание Юй-лун",
+		"priceClassName": "card-price-armours card-price-armours-legendary",
+		"price": 500
+	},
+
+	{
+		"id": "JinaKangKindnessOfChiJi",
+		"className": "card-armours card-armours-legendary",
+		"path": "#",
+		"cardImg": "/src/assets/img/armours/bg/cloaks/Jina-Kang-Kindness-of-Chi-Ji.png",
+		"titleClassName": "card-title-armours card-title-armours-legendary",
+		"title": "Цзина-Кан, Доброта Чи-Цзи",
+		"descriptionClassName": "card-text-armours card-text-armours-legendary",
+		"description": "Закажите Цзина-Кан, Доброта Чи-Цзи",
+		"priceClassName": "card-price-armours card-price-armours-legendary",
+		"price": 500
+	},
+
+	{
+		"id": "KazzalaxFujiedasFury",
+		"type": "legendary",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/cloaks/Kazzalax-Fujiedas-Fury.png",
+		"objectFit": true,
+		"title": "Каззалакс, Ярость Фудзиэды",
+		"description": "Порою цзинь-юй нашептывают истории о великом воине Фудзиэде, который много часов пролежал в засаде на мелководье, чтобы подкараулить и убить могучего демона Скверны. Кровожадность увеличивает наносимый урон и эффективность исцеления на 1% на 10 секунд. Эффект суммируется до 4 раз. Класс: Воин.",
+		"price": 500
+	},
+
+	{
+		"id": "RadiantMoonlight",
+		"type": "legendary",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/cloaks/Radiant-Moonlight.png",
+		"objectFit": false,
+		"title": "Сияющий Лунный Свет",
+		"description": "Перед завершением цикла и возвращением к Новолунию Полная Луна срабатывает еще один раз. Класс: Друид.",
+		"price": 500
+	},
+
+	{
+		"id": "FuryOfNature",
+		"type": "legendary",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/cloaks/Fury-of-Nature.png",
+		"objectFit": true,
+		"title": "Неистовость Природы",
+		"description": "Нелегко найти баланс между естественным и сверхъестественным, но достигший его, обретет величие. Пока вы находитесь в облике медведя, наносимый урон от сил природы и тайной магии увеличивается на 30%. Кроме того, вы исцеляетесь на 30% от урона, нанесенного этими заклинаниями. Класс: Друид.",
+		"price": 500
+	},
+
+	{
+		"id": "XanshiShroudOfArchbishopBenedictus",
+		"type": "legendary",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/cloaks/Xanshi-Shroud-of-Archbishop-Benedictus.png",
+		"objectFit": false,
+		"title": "Кс'анши, Накидка Архиепископа Бенедикта",
+		"description": "Возможна ли победа без предательства и коварства? После окончания Духа Воздаяния вы возрождаетесь с запасом здоровья до 100% в зависимости от эффективности действий в облике Духа Воздаяния. Срабатывает не чаще одного раза в 10 минут. Класс: Жрец.",
+		"price": 500
+	},
+
+	{
+		"id": "ZeksExterminatus",
+		"type": "legendary",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/cloaks/Zeks-Exterminatus.png",
+		"objectFit": false,
+		"title": "Экстерминатус Зека",
+		"description": "Думаешь, я боюсь смерти? Я умирал миллион раз. У меня это получается прекрасно. А сколько смертей у тебя за плечами? Урон, наносимый Словом Тьмы: Боль, может увеличить урон от следующего заклинания Слово Тьмы: Смерть на 100% и применить его к любой цели вне зависимости от ее текущего уровня здоровья. Класс: Жрец.",
+		"price": 500
+	},
+
+	{
+		"id": "DoorwayToNowhere",
+		"type": "legendary",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/cloaks/Doorway-to-Nowhere.png",
+		"objectFit": false,
+		"title": "Путь в Никуда",
+		"description": "Два знакомых пути предо мною, и все же... выберу третий, еще не хоженый. Ваша Купель сущности с вероятностью 20% может призвать Чи-Цзи. Класс: Монах.",
+		"price": 500
+	},
+
+	{
+		"id": "CenedrilReflectorOfHatred",
+		"type": "legendary",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/cloaks/Cenedril-Reflector-of-Hatred.png",
+		"objectFit": true,
+		"title": "Сенедрил, Отражатель Ненависти",
+		"description": "Познай себя, изучи своего врага и ты не убоишься сотни сражений. Закон Кармы наносит на 150% больше урона. Класс: Монах.",
+		"price": 500
+	},
+
+	{
+		"id": "UnseenPredatorsCloak",
+		"type": "legendary",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/cloaks/Unseen-Predators-Cloak.png",
+		"objectFit": false,
+		"title": "Плащ Невидимого Хищника",
+		"description": "Даже у самого сильного врага можно найти уязвимое место. Увеличивает наносимый урон на 3%. Вероятность нанести критический удар по целям, подожженным Взрывной Ловушкой, увеличивается на 10%. Класс: Охотник.",
+		"price": 500
+	},
+
+	{
+		"id": "CelerityOfTheWindrunners",
+		"type": "legendary",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/cloaks/Celerity-of-the-Windrunners.png",
+		"objectFit": false,
+		"title": "Проворство Ветрокрылых",
+		"description": "Твое сердце неслось вперед, как пущенная по ветру стрела. Ты была ярчайшей звездой нашего Ордена. И нашей любимой сестрой — Сильвана Аллерии. Повышает скорость на 3%. При активации Шквального Ветра скорость увеличивается на 15% на 6 секунд. Класс: Охотник.",
+		"price": 500
+	},
+
+	{
+		"id": "CloakOfFelFlames",
+		"type": "legendary",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/cloaks/Cloak-of-Fel-Flames.png",
+		"objectFit": false,
+		"title": "Плащ Пламени Скверны",
+		"description": "Выглядит так же, как любая другая вещь из раскаленных глубин, но похоже, что именно эта горит не просто так. Во время действия Обжигающего Жара вы получаете на 15% меньше магического урона. Класс: Охотник на Демонов.",
+		"price": 500
+	},
+
+	{
+		"id": "ChaosTheory",
+		"type": "legendary",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/cloaks/Chaos-Theory.png",
+		"objectFit": true,
+		"title": "Теория Хаоса",
+		"description": "Внутри хаоса есть повторения, которые благодаря петлям обратной связи выстраиваются в базисную систему. Танец Клинков с вероятностью 10% активирует Клинки Хаоса на 6 секунд. Класс: Охотник на Демонов.",
+		"price": 500
+	},
+
+	{
+		"id": "MaraadsDyingBreath",
+		"type": "legendary",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/cloaks/Maraads-Dying-Breath.png",
+		"objectFit": false,
+		"title": "Предсмертный Вздох Мараада",
+		"description": "Перед Светом мы едины. Если Свет Зари восполнил здоровье, то следующий Свет Мученика также исцелит цель вашей Частицы Света. За каждого исцеленного Светом Зари союзника Свет Мученика восстанавливает на 10% больше здоровья. Класс: Паладин.",
+		"price": 500
+	},
+
+	{
+		"id": "WhisperOfTheNathrezim",
+		"type": "legendary",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/cloaks/Whisper-of-the-Nathrezim.png",
+		"objectFit": false,
+		"title": "Шепот Натрезимов",
+		"description": "Жалкая попытка... Это все, что ты можешь? Вердикт Храмовника и Божественная Буря на 15% увеличивают урон от следующей способности Вердикт Храмовника или Божественная Буря в течение 4 секунд. Класс: Паладин.",
+		"price": 500
+	},
+
+	{
+		"id": "DreadlordsDeceit",
+		"type": "legendary",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/cloaks/Dreadlords-Deceit.png",
+		"objectFit": true,
+		"title": "Уловка Повелителя Ужаса",
+		"description": "Я ждал тебя, юный принц. Я Мал'Ганис. Как видишь, твои подданные теперь служат мне... Раз в 2 секунды урон, наносимый следующим Веером Клинков/Шквалом Сюрикенов, увеличивается на 35%/25%. Суммируется до 30 раз. Класс: Разбойник.",
+		"price": 500
+	},
+
+	{
+		"id": "CurseOfRestlessness",
+		"type": "legendary",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/cloaks/Curse-of-Restlessness.png",
+		"objectFit": false,
+		"title": "Проклятие Беспокойства",
+		"description": "Мы не можем долго сидеть без дела. Способность Не Знающие Устали Клинки сокращает время восстановления Проклятия Клинков Ужаса на 0.25 секунд и Выброса Адреналина дополнительно на 0.5 секунд за каждый прием серии. Класс: Разбойник.",
+		"price": 500
+	},
+
+	{
+		"id": "AcherusDrapes",
+		"type": "legendary",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/cloaks/Acherus-Drapes.png",
+		"objectFit": false,
+		"title": "Пелерина Акеруса",
+		"description": "Бросая вызов мне, знай, что за мной вся мощь Черного Клинка. Мы не умираем, не сдаемся и мы жаждем жизни! Увеличивает время действия Антимагического Панциря на 100%. Восполняет здоровье в объеме поглощенного урона. Класс: Рыцарь Смерти.",
+		"price": 500
+	},
+
+	{
+		"id": "OdrShawlOfTheYmirjar",
+		"type": "legendary",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/cloaks/Odr-Shawl-of-the-Ymirjar.png",
+		"objectFit": false,
+		"title": "Одр, Шаль Имирьяров",
+		"description": "Эта шаль была найдена практически в идеальном состоянии на пепелище деревни Имирхейм. Противники, отмеченные способностью Хаос, получают на 15% больше урона от ваших заклинаний, действующих на одиночную цель. Класс: Чернокнижник.",
+		"price": 500
+	},
+
+	{
+		"id": "ReapAndSow",
+		"type": "legendary",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/cloaks/Reap-and-Sow.png",
+		"objectFit": false,
+		"title": "Посев и Жатва",
+		"description": "Что посеешь, то и пожнешь... Что ж, пора браться за дело. Увеличивает наносимый урон на 3%. Урожай Душ действует на 1.5 секунды дольше за каждую поглощенную душу. Класс: Чернокнижник.",
+		"price": 500
+	},
+
+	{
+		"id": "AshjrakamasShroudOfResolve1lvl",
+		"type": "legendary",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/cloaks/Ashjrakamas-Shroud-of-Resolve-1-lvl.png",
+		"objectFit": true,
+		"title": "Ашжра'камас, Покров Решимости",
+		"description": "+5 Сопротивляемость порче. Уменьшает потери здравомыслия в Видениях Н'Зота на 20%.",
+		"price": 500
+	},
+
+	{
+		"id": "AshjrakamasShroudOfResolve6lvl",
+		"type": "legendary",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/cloaks/Ashjrakamas-Shroud-of-Resolve-6-lvl.png",
+		"objectFit": false,
+		"title": "Ашжра'камас, Покров Решимости",
+		"description": "+20 Сопротивляемость порче. Уменьшает потери здравомыслия в Видениях Н'Зота на 40%. Использование: Снимает эффекты порчи Н'Зота и на 6 секунд дает невосприимчивость к ним. (Восстановление 3 минуты).",
+		"price": 500
+	},
+
+	{
+		"id": "AshjrakamasShroudOfResolve15lvl",
+		"type": "legendary",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/cloaks/Ashjrakamas-Shroud-of-Resolve-15-lvl.png",
+		"objectFit": false,
+		"title": "Ашжра'камас, Покров Решимости",
+		"description": "+125 Сопротивляемость порче. Уменьшает потери здравомыслия в Видениях Н'Зота на 80%. Заклинания и способности могут повысить основную характеристику на 125 на 15 секунд. Срабатывает не чаще 2 раз в минуту. Требуется Сердце Азерот. Использование: Снимает эффекты порчи Н'Зота и на 6 секунд дает невосприимчивость к ним. (Восстановление 3 минуты).",
+		"price": 500
+	},
+
+	{
+		"id": "ReshiiWraps",
+		"type": "artifact",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/cloaks/Reshii-Wraps.png",
+		"objectFit": true,
+		"title": "Повязки Реши",
+		"description": "+ Волоконное гнездо. Повязки настраиваются на вашу специализацию и дают способность Астральное Восстановление, Астральная Защита или Астральная Жатва. Астральное Восстановление: Лечащие заклинания восполняют союзнику 1899 здоровья. Избыточное лечение превращается в поглощающий щит на 20 секунд. Астральная Защита: Дает щит, уменьшающий входящий урон на 20%, поглощает 2954 урона. При уровне здоровья ниже 40% щит усиливается на 500%. Срабатывает не чаще одного раза в 6 минут. Астральная Жатва: Атакующие заклинания наносят 1477 урона от тайной магии, распределяемого между целью и ближайшими противниками. Наносит на 20% больше урона противникам, чей уровень здоровья ниже 35%.",
+		"price": 1000
+	},
+
+	{
+		"id": "CloakOfInfinitePotential",
+		"type": "artifact",
+		"path": "",
+		"img": "/src/assets/img/armours/bg/cloaks/Cloak-of-Infinite-Potential.png",
+		"objectFit": false,
+		"title": "Плащ Бесконечных Возможностей",
+		"description": "Аура: Преимущество Путешественника во Времени. Найденные Нити Времени вплетаются в этот плащ, навсегда увеличивая его силу. Сила, Ловкость, Интеллект + 10 млн. Выносливость + 10 млн. Критический удар, Скорость, Искусность, Универсальность + 10 млн. Самоисцеление + 10 млн. Получаемый опыт + 10 млн %. Ощути силу Плаща Бесконечных Возможностей!",
+		"price": 1000
+	}
+]
