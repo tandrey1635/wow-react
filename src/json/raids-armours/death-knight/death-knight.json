@@ -491,5 +491,57 @@
 		"descriptionTrim": "Вы лучший боец!",
 		"addition": "Mists of Pandaria",
 		"price": 250
+	},
+
+	{
+		"id": "GatecrashersBattleplateBlack",
+		"type": "death-knight",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/death-knight/Gatecrashers-Battleplate-black.png",
+		"objectFit": false,
+		"title": "Боевые Латы Крушителя Ворот",
+		"description": "Комплект брони для воина, найденный на Вневременном Острове — священном месте пандаренов, дополнения",
+		"descriptionTrim": "Когда-то здесь царил мир между пандаренами, яунголами и их полубогом Ордосом, а Небожители испытывали юных героев на мудрость, силу и выносливость. Броня, не тронутая веками! Вы достойны силы, что старше самой Пандарии!",
+		"addition": "Mists of Pandaria",
+		"price": 250
+	},
+
+	{
+		"id": "GatecrashersBattleplateRaidFinder",
+		"type": "death-knight",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/death-knight/Gatecrashers-Battleplate-raid-finder.png",
+		"objectFit": false,
+		"title": "Боевые Латы Крушителя Ворот",
+		"description": "Первый комплект брони для воина из рейда 90-го уровня Подземелья Могу'шан режима поиска рейдов дополнения",
+		"descriptionTrim": "Император будет повержен! Древняя магия могу не остановит вас! Вы сильнее проклятий, что сковывали эту землю тысячелетиями!",
+		"addition": "Mists of Pandaria",
+		"price": 250
+	},
+
+	{
+		"id": "GatecrashersBattleplateNormal",
+		"type": "death-knight",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/death-knight/Gatecrashers-Battleplate-normal.png",
+		"objectFit": false,
+		"title": "Боевые Латы Крушителя Ворот",
+		"description": "Первый комплект брони для воина из рейда 90-го уровня Подземелья Могу'шан обычного уровня сложности дополнения",
+		"descriptionTrim": "Император будет повержен! Древняя магия могу не остановит вас! Вы сильнее проклятий, что сковывали эту землю тысячелетиями!",
+		"addition": "Mists of Pandaria",
+		"price": 250
+	},
+
+	{
+		"id": "GatecrashersBattleplateHeroic",
+		"type": "death-knight",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/death-knight/Gatecrashers-Battleplate-heroic.png",
+		"objectFit": false,
+		"title": "Боевые Латы Крушителя Ворот",
+		"description": "Первый комплект брони для воина из рейда 90-го уровня Подземелья Могу'шан героического уровня сложности дополнения",
+		"descriptionTrim": "Император будет повержен! Древняя магия могу не остановит вас! Вы сильнее проклятий, что сковывали эту землю тысячелетиями!",
+		"addition": "Mists of Pandaria",
+		"price": 250
 	}
 ]
