@@ -2,7 +2,7 @@
 	{
 		"id": "DarkIronPlate",
 		"type": "death-knight",
-		"path": "",
+		"path": "molten-core",
 		"img": "/src/assets/img/raids-armours/bg/general/plate/death-knight/Dark-Iron-Plate.png",
 		"objectFit": false,
 		"title": "Броня из Черного Железа",
@@ -15,7 +15,7 @@
 	{
 		"id": "PlateIcebaneSet",
 		"type": "death-knight",
-		"path": "",
+		"path": "naxxramas-classic-sapphiron",
 		"img": "/src/assets/img/raids-armours/bg/general/plate/death-knight/Plate-Icebane-Set.png",
 		"objectFit": false,
 		"title": "Латный Комплект Ледяной Погибели",
@@ -28,7 +28,7 @@
 	{
 		"id": "TelhamatAnchoritesRaiment",
 		"type": "death-knight",
-		"path": "",
+		"path": "time-walk",
 		"img": "/src/assets/img/raids-armours/bg/general/plate/death-knight/Telhamat-Anchorites-Raiment.png",
 		"objectFit": false,
 		"title": "Облачение Телхаматского Анахорета",
@@ -67,7 +67,7 @@
 	{
 		"id": "SaroniteWarBattleplateBlue",
 		"type": "death-knight",
-		"path": "",
+		"path": "naxxramas",
 		"img": "/src/assets/img/raids-armours/bg/death-knight/Saronite-War-Battleplate-blue.png",
 		"objectFit": false,
 		"title": "Саронитовый Боевой Доспех Павших Чародеев",
@@ -80,7 +80,7 @@
 	{
 		"id": "SaroniteWarBattleplateDarkBLue",
 		"type": "death-knight",
-		"path": "",
+		"path": "naxxramas",
 		"img": "/src/assets/img/raids-armours/bg/death-knight/Saronite-War-Battleplate-dark-blue.png",
 		"objectFit": false,
 		"title": "Саронитовый Боевой Доспех Темного Некроманта",
@@ -93,7 +93,7 @@
 	{
 		"id": "SaroniteWarBattleplateLightBlue",
 		"type": "death-knight",
-		"path": "",
+		"path": "naxxramas",
 		"img": "/src/assets/img/raids-armours/bg/death-knight/Saronite-War-Battleplate-light-blue.png",
 		"objectFit": false,
 		"title": "Саронитовый Боевой Доспех Ледяного Змея",
@@ -106,7 +106,7 @@
 	{
 		"id": "SaroniteWarBattleplateMaroon",
 		"type": "death-knight",
-		"path": "",
+		"path": "naxxramas",
 		"img": "/src/assets/img/raids-armours/bg/death-knight/Saronite-War-Battleplate-maroon.png",
 		"objectFit": false,
 		"title": "Саронитовый Боевой Доспех Кровавого Рыцаря",
@@ -119,7 +119,7 @@
 	{
 		"id": "ScourgebornePlate",
 		"type": "death-knight",
-		"path": "",
+		"path": "naxxramas",
 		"img": "/src/assets/img/raids-armours/bg/death-knight/Scourgeborne-Plate.png",
 		"objectFit": false,
 		"title": "Героический Кованый Плетью Доспех",
@@ -132,7 +132,7 @@
 	{
 		"id": "ValorousScourgebornePlate",
 		"type": "death-knight",
-		"path": "",
+		"path": "naxxramas",
 		"img": "/src/assets/img/raids-armours/bg/death-knight/Valorous-Scourgeborne-Plate.png",
 		"objectFit": false,
 		"title": "Доблестный Кованый Плетью Доспех",
@@ -145,7 +145,7 @@
 	{
 		"id": "DarkrunedBattlegear",
 		"type": "death-knight",
-		"path": "",
+		"path": "ulduar",
 		"img": "/src/assets/img/raids-armours/bg/death-knight/Darkruned-Battlegear.png",
 		"objectFit": false,
 		"title": "Доблестная Темноруническая Броня",
@@ -158,7 +158,7 @@
 	{
 		"id": "DarkrunedBattlegearRecolor",
 		"type": "death-knight",
-		"path": "",
+		"path": "ulduar",
 		"img": "/src/assets/img/raids-armours/bg/death-knight/Darkruned-Battlegear-recolor.png",
 		"objectFit": false,
 		"title": "Доблестная Темноруническая Броня Путешественника из Другого Мира",
@@ -171,7 +171,7 @@
 	{
 		"id": "ConquerorsDarkrunedBattlegear",
 		"type": "death-knight",
-		"path": "",
+		"path": "ulduar",
 		"img": "/src/assets/img/raids-armours/bg/death-knight/Conquerors-Darkruned-Battlegear.png",
 		"objectFit": false,
 		"title": "Темноруническая Броня Завоевателя",
@@ -184,7 +184,7 @@
 	{
 		"id": "ConquerorsDarkrunedBattlegearRecolor",
 		"type": "death-knight",
-		"path": "",
+		"path": "ulduar",
 		"img": "/src/assets/img/raids-armours/bg/death-knight/Conquerors-Darkruned-Battlegear-recolor.png",
 		"objectFit": false,
 		"title": "Темноруническая Броня Завоевателя Путешественника из Другого Мира",
@@ -197,7 +197,7 @@
 	{
 		"id": "KoltirasBattlegear",
 		"type": "death-knight",
-		"path": "",
+		"path": "trial-of-the-crusader",
 		"img": "/src/assets/img/raids-armours/bg/death-knight/Koltiras-Battlegear.png",
 		"objectFit": false,
 		"title": "Броня Кольтиры",
@@ -210,7 +210,7 @@
 	{
 		"id": "ThassariansBattlegear",
 		"type": "death-knight",
-		"path": "",
+		"path": "trial-of-the-crusader",
 		"img": "/src/assets/img/raids-armours/bg/death-knight/Thassarians-Battlegear.png",
 		"objectFit": false,
 		"title": "Броня Тассариана",
@@ -223,7 +223,7 @@
 	{
 		"id": "ScourgelordsBattlegear",
 		"type": "death-knight",
-		"path": "",
+		"path": "ice-crown-citadel",
 		"img": "/src/assets/img/raids-armours/bg/death-knight/Scourgelords-Battlegear.png",
 		"objectFit": false,
 		"title": "Броня Повелителя Плети",
@@ -236,7 +236,7 @@
 	{
 		"id": "SanctifiedScourgelordsBattlegear25Normal",
 		"type": "death-knight",
-		"path": "",
+		"path": "ice-crown-citadel",
 		"img": "/src/assets/img/raids-armours/bg/death-knight/Sanctified-Scourgelords-Battlegear-25-normal.png",
 		"objectFit": false,
 		"title": "Освященная Броня Повелителя Плети",
@@ -249,7 +249,7 @@
 	{
 		"id": "SanctifiedScourgelordsBattlegear25Heroic",
 		"type": "death-knight",
-		"path": "",
+		"path": "ice-crown-citadel",
 		"img": "/src/assets/img/raids-armours/bg/death-knight/Sanctified-Scourgelords-Battlegear-25-heroic.png",
 		"objectFit": false,
 		"title": "Освященная Броня Повелителя Плети",
@@ -262,7 +262,7 @@
 	{
 		"id": "MagmaPlatedBattlearmorNormal",
 		"type": "death-knight",
-		"path": "",
+		"path": "tier-eleven",
 		"img": "/src/assets/img/raids-armours/bg/death-knight/Magma-Plated-Battlearmor-normal.png",
 		"objectFit": false,
 		"title": "Магматические Латы",
@@ -275,7 +275,7 @@
 	{
 		"id": "MagmaPlatedBattlearmorHeroic",
 		"type": "death-knight",
-		"path": "",
+		"path": "tier-eleven",
 		"img": "/src/assets/img/raids-armours/bg/death-knight/Magma-Plated-Battlearmor-heroic.png",
 		"objectFit": false,
 		"title": "Магматические Латы",
@@ -288,7 +288,7 @@
 	{
 		"id": "ElementiumDeathplateBattlearmorNormal",
 		"type": "death-knight",
-		"path": "",
+		"path": "firelands",
 		"img": "/src/assets/img/raids-armours/bg/death-knight/Elementium-Deathplate-Battlearmor-normal.png",
 		"objectFit": false,
 		"title": "Элементиевые Латные Боевые Доспехи Смерти",
@@ -301,7 +301,7 @@
 	{
 		"id": "ElementiumDeathplateBattlearmorHeroic",
 		"type": "death-knight",
-		"path": "",
+		"path": "firelands",
 		"img": "/src/assets/img/raids-armours/bg/death-knight/Elementium-Deathplate-Battlearmor-heroic.png",
 		"objectFit": false,
 		"title": "Элементиевые Латные Боевые Доспехи Смерти",
@@ -314,7 +314,7 @@
 	{
 		"id": "NecroticBoneplateArmorRaidFinder",
 		"type": "death-knight",
-		"path": "",
+		"path": "dragon-soul",
 		"img": "/src/assets/img/raids-armours/bg/death-knight/Necrotic-Boneplate-Armor-raid-finder.png",
 		"objectFit": false,
 		"title": "Некротические Костяные Доспехи",
@@ -327,7 +327,7 @@
 	{
 		"id": "NecroticBoneplateArmorNormal",
 		"type": "death-knight",
-		"path": "",
+		"path": "dragon-soul",
 		"img": "/src/assets/img/raids-armours/bg/death-knight/Necrotic-Boneplate-Armor-normal.png",
 		"objectFit": false,
 		"title": "Некротические Костяные Доспехи",
@@ -340,7 +340,7 @@
 	{
 		"id": "NecroticBoneplateArmorHeroic",
 		"type": "death-knight",
-		"path": "",
+		"path": "dragon-soul",
 		"img": "/src/assets/img/raids-armours/bg/death-knight/Necrotic-Boneplate-Armor-heroic.png",
 		"objectFit": false,
 		"title": "Некротические Костяные Доспехи",
@@ -541,6 +541,45 @@
 		"title": "Боевые Латы Крушителя Ворот",
 		"description": "Первый комплект брони для воина из рейда 90-го уровня Подземелья Могу'шан героического уровня сложности дополнения",
 		"descriptionTrim": "Император будет повержен! Древняя магия могу не остановит вас! Вы сильнее проклятий, что сковывали эту землю тысячелетиями!",
+		"addition": "Mists of Pandaria",
+		"price": 250
+	},
+
+	{
+		"id": "PlateOfTheLostCatacombRaidFinder",
+		"type": "death-knight",
+		"path": "tier-fourteens",
+		"img": "/src/assets/img/raids-armours/bg/death-knight/Plate-of-the Lost-Catacomb-raid-finder.png",
+		"objectFit": false,
+		"title": "Броня Затерянных Подземелий",
+		"description": "Второй комплект брони для рыцаря смерти из рейдов 90-го уровня Сердце Страха и Терасса Вечной Весны режима поиска рейдов дополнения",
+		"descriptionTrim": "Императрица Богомолов и Воплощение Ужаса будут повержены! Вам не ведом страх!",
+		"addition": "Mists of Pandaria",
+		"price": 250
+	},
+
+	{
+		"id": "PlateOfTheLostCatacombNormal",
+		"type": "death-knight",
+		"path": "tier-fourteens",
+		"img": "/src/assets/img/raids-armours/bg/death-knight/Plate-of-the Lost-Catacomb-normal.png",
+		"objectFit": false,
+		"title": "Броня Затерянных Подземелий",
+		"description": "Второй комплект брони для рыцаря смерти из рейдов 90-го уровня Сердце Страха и Терасса Вечной Весны обычного уровня сложности дополнения",
+		"descriptionTrim": "Императрица Богомолов и Воплощение Ужаса будут повержены! Вам не ведом страх!",
+		"addition": "Mists of Pandaria",
+		"price": 250
+	},
+
+	{
+		"id": "PlateOfTheLostCatacombHeroic",
+		"type": "death-knight",
+		"path": "tier-fourteens",
+		"img": "/src/assets/img/raids-armours/bg/death-knight/Plate-of-the Lost-Catacomb-heroic.png",
+		"objectFit": false,
+		"title": "Броня Затерянных Подземелий",
+		"description": "Второй комплект брони для рыцаря смерти из рейдов 90-го уровня Сердце Страха и Терасса Вечной Весны героического уровня сложности дополнения",
+		"descriptionTrim": "Императрица Богомолов и Воплощение Ужаса будут повержены! Вам не ведом страх!",
 		"addition": "Mists of Pandaria",
 		"price": 250
 	}
