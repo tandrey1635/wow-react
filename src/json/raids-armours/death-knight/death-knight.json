@@ -582,5 +582,44 @@
 		"descriptionTrim": "Императрица Богомолов и Воплощение Ужаса будут повержены! Вам не ведом страх!",
 		"addition": "Mists of Pandaria",
 		"price": 250
+	},
+
+	{
+		"id": "BattleplateOfTheAllConsumingMawRaidFinder",
+		"type": "death-knight",
+		"path": "throne-of-thunder",
+		"img": "/src/assets/img/raids-armours/bg/death-knight/Battleplate-of-the-All-Consuming-Maw-raid-finder.png",
+		"objectFit": false,
+		"title": "Боевой Доспех Всепоглощающего Зева",
+		"description": "Третий комплект брони для рыцаря смерти из рейда 90-го уровня Престол Гроз режима поиска рейдов дополнения",
+		"descriptionTrim": "Властелин Грома будет повержен! Вы неуязвимы для молний! Подчините силу грома!",
+		"addition": "Mists of Pandaria",
+		"price": 250
+	},
+
+	{
+		"id": "BattleplateOfTheAllConsumingMawNormal",
+		"type": "death-knight",
+		"path": "throne-of-thunder",
+		"img": "/src/assets/img/raids-armours/bg/death-knight/Battleplate-of-the-All-Consuming-Maw-normal.png",
+		"objectFit": false,
+		"title": "Боевой Доспех Всепоглощающего Зева",
+		"description": "Третий комплект брони для рыцаря смерти из рейда 90-го уровня Престол Гроз обычного уровня сложности дополнения",
+		"descriptionTrim": "Властелин Грома будет повержен! Вы неуязвимы для молний! Подчините силу грома!",
+		"addition": "Mists of Pandaria",
+		"price": 250
+	},
+
+	{
+		"id": "BattleplateOfTheAllConsumingMawHeroic",
+		"type": "death-knight",
+		"path": "throne-of-thunder",
+		"img": "/src/assets/img/raids-armours/bg/death-knight/Battleplate-of-the-All-Consuming-Maw-heroic.png",
+		"objectFit": false,
+		"title": "Боевой Доспех Всепоглощающего Зева",
+		"description": "Третий комплект брони для рыцаря смерти из рейда 90-го уровня Престол Гроз героического уровня сложности дополнения",
+		"descriptionTrim": "Властелин Грома будет повержен! Вы неуязвимы для молний! Подчините силу грома!",
+		"addition": "Mists of Pandaria",
+		"price": 250
 	}
 ]
