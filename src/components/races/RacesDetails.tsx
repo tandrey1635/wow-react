@@ -27,6 +27,7 @@ const RacesDetails = () => {
 				descriptionTrim={card.descriptionTrim}
 				title={card.title}
 				price={card.price}
+				noFancybox
 			/>
 		)
 	})

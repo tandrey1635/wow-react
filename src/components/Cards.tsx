@@ -156,7 +156,7 @@ const Cards = ({home, twoHandedAxes, twoHandedAxesWeaponDetails, twoHandedSwords
 				<div className="nav__wrapper">
 					{ home &&
 					<>
-						<Tabs defaultActiveKey="raidsArmours" id="cards-tabs" fill>
+						<Tabs defaultActiveKey="general" id="cards-tabs" fill>
 							{/* Таб контент Мир Азерота */}
 							{/* <Tab eventKey="world" title="Мир Азерота">
 								<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
@@ -165,7 +165,7 @@ const Cards = ({home, twoHandedAxes, twoHandedAxesWeaponDetails, twoHandedSwords
 							</Tab> */}
 
 							{/* Таб контент расы */}
-							<Tab eventKey="races" title="Расы">
+							<Tab eventKey="general" title="Общее">
 								<div className="card-box d-flex flex-wrap justify-content-center justify-content-xl-start">
 									{ renderCardItems(dataRaces) }
 								</div>
