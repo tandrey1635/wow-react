@@ -621,5 +621,44 @@
 		"descriptionTrim": "Властелин Грома будет повержен! Вы неуязвимы для молний! Подчините силу грома!",
 		"addition": "Mists of Pandaria",
 		"price": 250
+	},
+
+	{
+		"id": "BattleplateOfCyclopeanDreadRaidFinder",
+		"type": "death-knight",
+		"path": "siege-of-orgrimmar",
+		"img": "/src/assets/img/raids-armours/bg/death-knight/Battleplate-of-Cyclopean-Dread-raid-finder.png",
+		"objectFit": false,
+		"title": "Боевой Доспех Циклопьего Ужаса",
+		"description": "Четвертый комплект брони для рыцаря смерти из рейда 90-го уровня Осада Оргриммара режима поиска рейдов дополнения",
+		"descriptionTrim": "Предводитель Настоящей Орды Орков будет повержен! Злость, Отчаяние, Сомнение, Ненависть, Жестокость, Страх и Гордыня над вами не властны! Вы не уязвимы для всех семи воплощений ша!",
+		"addition": "Mists of Pandaria",
+		"price": 250
+	},
+
+	{
+		"id": "BattleplateOfCyclopeanDreadNormalHeroic",
+		"type": "death-knight",
+		"path": "siege-of-orgrimmar",
+		"img": "/src/assets/img/raids-armours/bg/death-knight/Battleplate-of-Cyclopean-Dread-normal-heroic.png",
+		"objectFit": false,
+		"title": "Боевой Доспех Циклопьего Ужаса",
+		"description": "Четвертый комплект брони для рыцаря смерти из рейда 90-го уровня Осада Оргриммара обычного и героического уровней сложности дополнения",
+		"descriptionTrim": "Предводитель Настоящей Орды Орков будет повержен! Злость, Отчаяние, Сомнение, Ненависть, Жестокость, Страх и Гордыня над вами не властны! Вы не уязвимы для всех семи воплощений ша!",
+		"addition": "Mists of Pandaria",
+		"price": 250
+	},
+
+	{
+		"id": "BattleplateOfCyclopeanDreadMythic",
+		"type": "death-knight",
+		"path": "siege-of-orgrimmar",
+		"img": "/src/assets/img/raids-armours/bg/death-knight/Battleplate-of-Cyclopean-Dread-mythic.png",
+		"objectFit": false,
+		"title": "Боевой Доспех Циклопьего Ужаса",
+		"description": "Четвертый комплект брони для рыцаря смерти из рейда 90-го уровня Осада Оргриммара эпохального уровня сложности дополнения",
+		"descriptionTrim": "Предводитель Настоящей Орды Орков будет повержен! Злость, Отчаяние, Сомнение, Ненависть, Жестокость, Страх и Гордыня над вами не властны! Вы не уязвимы для всех семи воплощений ша!",
+		"addition": "Mists of Pandaria",
+		"price": 250
 	}
 ]

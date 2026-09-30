@@ -24,7 +24,7 @@
 	{
 		"id": "TwistingNether",
 		"type": "",
-		"path": "",
+		"path": "", 
 		"img": "/src/assets/img/promo/bg/general/Twisting-Nether.jpg",
 		"objectFit": false,
 		"title": "Круговерть Пустоты",

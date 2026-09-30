@@ -1,4 +1,5 @@
 import { useParams, Link } from "react-router"
+import useFancybox from "../../ts/useFancybox.ts";
 import Card from '../Card.tsx'
 
 import dataFaction from '../../json/races/faction/faction-details.json'
@@ -8,6 +9,7 @@ import dataAlliance from '../../json/races/faction/alliance/alliance.json'
 import type { ICard } from '../../types/card-types.ts'
 
 const Faction = () => {
+	const [fancyboxRef] = useFancybox({})
 	const { factionId } = useParams()
 
 	const faction = dataFaction.find(faction => {
@@ -119,7 +121,7 @@ const Faction = () => {
 						}
 					</h2>
 
-					<div className="cards__wrapper d-flex flex-wrap justify-content-center justify-content-xl-start mt-5">
+					<div ref={fancyboxRef} className="cards__wrapper d-flex flex-wrap justify-content-center justify-content-xl-start mt-5">
 						{
 							faction.type === "faction-horde"
 								? renderCardItems(dataHorde)
