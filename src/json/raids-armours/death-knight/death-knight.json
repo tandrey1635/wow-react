@@ -660,5 +660,18 @@
 		"descriptionTrim": "Предводитель Настоящей Орды Орков будет повержен! Злость, Отчаяние, Сомнение, Ненависть, Жестокость, Страх и Гордыня над вами не властны! Вы не уязвимы для всех семи воплощений ша!",
 		"addition": "Mists of Pandaria",
 		"price": 250
+	},
+
+	{
+		"id": "ShadowmoonAnchoritesGuardplate",
+		"type": "death-knight",
+		"path": "time-walk",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/death-knight/Shadowmoon-Anchorites-Guardplate.png",
+		"objectFit": false,
+		"title": "Защитные Пластины Анахорета Призрачной Луны",
+		"description": "Комплект брони в награду за путешествия во времени по подземельям дополнения",
+		"descriptionTrim": "Броня, дарованная Хранителями Времени за череду подвигов в их походах по лабиринтам вечности. Ваша броня закалена в схватках с аномалиями прошлого и будущего, а каждый элемент несет несокрушимую мощь самого времени!",
+		"addition": "Warlords of Draenor",
+		"price": 300
 	}
 ]
