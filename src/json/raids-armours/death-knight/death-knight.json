@@ -673,5 +673,57 @@
 		"descriptionTrim": "Броня, дарованная Хранителями Времени за череду подвигов в их походах по лабиринтам вечности. Ваша броня закалена в схватках с аномалиями прошлого и будущего, а каждый элемент несет несокрушимую мощь самого времени!",
 		"addition": "Warlords of Draenor",
 		"price": 300
+	},
+
+	{
+		"id": "BlackrockPlate",
+		"type": "death-knight",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/death-knight/Blackrock-Plate.png",
+		"objectFit": false,
+		"title": "Броня Черной Горы",
+		"description": "Комплект брони для рыцаря смерти в гарнизонном здании Военной фабрики/Дворфийском бункере Орды/Альянса 2-го или 3-го уровня дополнения",
+		"descriptionTrim": "Превосходная броня выкованная в самом сердце Литейной Клана Черной Горы! Секрет выплавки этой брони до сих пор не раскрыт!",
+		"addition": "Warlords of Draenor",
+		"price": 300
+	},
+
+	{
+		"id": "BlacksteelBattleplateRaidFinder",
+		"type": "death-knight",
+		"path": "foundry-of-black-mountain-clan",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/death-knight/Blacksteel-Battleplate-raid-finder.png",
+		"objectFit": false,
+		"title": "Боевой Доспех из Вороненой Стали",
+		"description": "Первый комплект брони для рыцаря смерти из рейда 100-го уровня Литейная Клана Черной Горы режима поиска рейдов дополнения",
+		"descriptionTrim": "Вождь Клана Черной Горы будет повержен! Секрет выплавки руды Черной горы раскрыт! Вы не уязвимы для пламени Сердца Черной Горы!",
+		"addition": "Warlords of Draenor",
+		"price": 300
+	},
+
+	{
+		"id": "BlacksteelBattleplateRed",
+		"type": "death-knight",
+		"path": "foundry-of-black-mountain-clan",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/death-knight/Blacksteel-Battleplate-red.png",
+		"objectFit": false,
+		"title": "Боевой Доспех из Вороненой Стали Путешественника из Другого Мира",
+		"description": "Кажется, сюда затесалась какая-то подозрительно похожая, но не родная броня из другого времени дополнения",
+		"descriptionTrim": "Альтернативный вариант прославленных доспехов, появившийся в иных измерениях Азерота. Обладает той же несокрушимой силой, что и оригинал, но несет в себе отпечаток другой истории.",
+		"addition": "Warlords of Draenor",
+		"price": 300
+	},
+
+	{
+		"id": "BlacksteelBattleplateBrown",
+		"type": "death-knight",
+		"path": "foundry-of-black-mountain-clan",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/death-knight/Blacksteel-Battleplate-brown.png",
+		"objectFit": false,
+		"title": "Боевой Доспех из Вороненой Стали Путешественника из Другого Мира",
+		"description": "Кажется, сюда затесалась какая-то подозрительно похожая, но не родная броня из другого времени дополнения",
+		"descriptionTrim": "Альтернативный вариант прославленных доспехов, появившийся в иных измерениях Азерота. Обладает той же несокрушимой силой, что и оригинал, но несет в себе отпечаток другой истории.",
+		"addition": "Warlords of Draenor",
+		"price": 300
 	}
 ]
