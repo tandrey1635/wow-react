@@ -78,7 +78,7 @@
 	},
 
 	{
-		"id": "SaroniteWarBattleplateDarkBLue",
+		"id": "SaroniteWarBattleplateDarkBlue",
 		"type": "death-knight",
 		"path": "naxxramas",
 		"img": "/src/assets/img/raids-armours/bg/death-knight/Saronite-War-Battleplate-dark-blue.png",
@@ -500,7 +500,7 @@
 		"img": "/src/assets/img/raids-armours/bg/general/plate/death-knight/Gatecrashers-Battleplate-black.png",
 		"objectFit": false,
 		"title": "Боевые Латы Крушителя Ворот",
-		"description": "Комплект брони для воина, найденный на Вневременном Острове — священном месте пандаренов, дополнения",
+		"description": "Комплект брони для рыцаря смерти, найденный на Вневременном Острове — священном месте пандаренов, дополнения",
 		"descriptionTrim": "Когда-то здесь царил мир между пандаренами, яунголами и их полубогом Ордосом, а Небожители испытывали юных героев на мудрость, силу и выносливость. Броня, не тронутая веками! Вы достойны силы, что старше самой Пандарии!",
 		"addition": "Mists of Pandaria",
 		"price": 250
@@ -513,7 +513,7 @@
 		"img": "/src/assets/img/raids-armours/bg/general/plate/death-knight/Gatecrashers-Battleplate-raid-finder.png",
 		"objectFit": false,
 		"title": "Боевые Латы Крушителя Ворот",
-		"description": "Первый комплект брони для воина из рейда 90-го уровня Подземелья Могу'шан режима поиска рейдов дополнения",
+		"description": "Первый комплект брони для рыцаря смерти из рейда 90-го уровня Подземелья Могу'шан режима поиска рейдов дополнения",
 		"descriptionTrim": "Император будет повержен! Древняя магия могу не остановит вас! Вы сильнее проклятий, что сковывали эту землю тысячелетиями!",
 		"addition": "Mists of Pandaria",
 		"price": 250
@@ -526,7 +526,7 @@
 		"img": "/src/assets/img/raids-armours/bg/general/plate/death-knight/Gatecrashers-Battleplate-normal.png",
 		"objectFit": false,
 		"title": "Боевые Латы Крушителя Ворот",
-		"description": "Первый комплект брони для воина из рейда 90-го уровня Подземелья Могу'шан обычного уровня сложности дополнения",
+		"description": "Первый комплект брони для рыцаря смерти из рейда 90-го уровня Подземелья Могу'шан обычного уровня сложности дополнения",
 		"descriptionTrim": "Император будет повержен! Древняя магия могу не остановит вас! Вы сильнее проклятий, что сковывали эту землю тысячелетиями!",
 		"addition": "Mists of Pandaria",
 		"price": 250
@@ -539,7 +539,7 @@
 		"img": "/src/assets/img/raids-armours/bg/general/plate/death-knight/Gatecrashers-Battleplate-heroic.png",
 		"objectFit": false,
 		"title": "Боевые Латы Крушителя Ворот",
-		"description": "Первый комплект брони для воина из рейда 90-го уровня Подземелья Могу'шан героического уровня сложности дополнения",
+		"description": "Первый комплект брони для рыцаря смерти из рейда 90-го уровня Подземелья Могу'шан героического уровня сложности дополнения",
 		"descriptionTrim": "Император будет повержен! Древняя магия могу не остановит вас! Вы сильнее проклятий, что сковывали эту землю тысячелетиями!",
 		"addition": "Mists of Pandaria",
 		"price": 250
@@ -549,7 +549,7 @@
 		"id": "PlateOfTheLostCatacombRaidFinder",
 		"type": "death-knight",
 		"path": "tier-fourteens",
-		"img": "/src/assets/img/raids-armours/bg/death-knight/Plate-of-the Lost-Catacomb-raid-finder.png",
+		"img": "/src/assets/img/raids-armours/bg/death-knight/Plate-of-the-Lost-Catacomb-raid-finder.png",
 		"objectFit": false,
 		"title": "Броня Затерянных Подземелий",
 		"description": "Второй комплект брони для рыцаря смерти из рейдов 90-го уровня Сердце Страха и Терасса Вечной Весны режима поиска рейдов дополнения",
@@ -562,7 +562,7 @@
 		"id": "PlateOfTheLostCatacombNormal",
 		"type": "death-knight",
 		"path": "tier-fourteens",
-		"img": "/src/assets/img/raids-armours/bg/death-knight/Plate-of-the Lost-Catacomb-normal.png",
+		"img": "/src/assets/img/raids-armours/bg/death-knight/Plate-of-the-Lost-Catacomb-normal.png",
 		"objectFit": false,
 		"title": "Броня Затерянных Подземелий",
 		"description": "Второй комплект брони для рыцаря смерти из рейдов 90-го уровня Сердце Страха и Терасса Вечной Весны обычного уровня сложности дополнения",
@@ -575,7 +575,7 @@
 		"id": "PlateOfTheLostCatacombHeroic",
 		"type": "death-knight",
 		"path": "tier-fourteens",
-		"img": "/src/assets/img/raids-armours/bg/death-knight/Plate-of-the Lost-Catacomb-heroic.png",
+		"img": "/src/assets/img/raids-armours/bg/death-knight/Plate-of-the-Lost-Catacomb-heroic.png",
 		"objectFit": false,
 		"title": "Броня Затерянных Подземелий",
 		"description": "Второй комплект брони для рыцаря смерти из рейдов 90-го уровня Сердце Страха и Терасса Вечной Весны героического уровня сложности дополнения",
@@ -723,6 +723,97 @@
 		"title": "Боевой Доспех из Вороненой Стали Путешественника из Другого Мира",
 		"description": "Кажется, сюда затесалась какая-то подозрительно похожая, но не родная броня из другого времени дополнения",
 		"descriptionTrim": "Альтернативный вариант прославленных доспехов, появившийся в иных измерениях Азерота. Обладает той же несокрушимой силой, что и оригинал, но несет в себе отпечаток другой истории.",
+		"addition": "Warlords of Draenor",
+		"price": 300
+	},
+
+	{
+		"id": "OgreskullBoneplateBattlegearNormal",
+		"type": "death-knight",
+		"path": "foundry-of-black-mountain-clan",
+		"img": "/src/assets/img/raids-armours/bg/death-knight/Ogreskull-Boneplate-Battlegear-normal.png",
+		"objectFit": false,
+		"title": "Броня Черепа Огра",
+		"description": "Первый комплект брони для рыцаря смерти из рейда 100-го уровня Литейная Клана Черной Горы обычного уровня сложности дополнения",
+		"descriptionTrim": "Вождь Клана Черной Горы будет повержен! Секрет выплавки руды Черной горы раскрыт! Вы не уязвимы для пламени Сердца Черной Горы!",
+		"addition": "Warlords of Draenor",
+		"price": 300
+	},
+
+	{
+		"id": "OgreskullBoneplateBattlegearHeroic",
+		"type": "death-knight",
+		"path": "foundry-of-black-mountain-clan",
+		"img": "/src/assets/img/raids-armours/bg/death-knight/Ogreskull-Boneplate-Battlegear-heroic.png",
+		"objectFit": false,
+		"title": "Броня Черепа Огра",
+		"description": "Первый комплект брони для рыцаря смерти из рейда 100-го уровня Литейная Клана Черной Горы героического уровня сложности дополнения",
+		"descriptionTrim": "Вождь Клана Черной Горы будет повержен! Секрет выплавки руды Черной горы раскрыт! Вы не уязвимы для пламени Сердца Черной Горы!",
+		"addition": "Warlords of Draenor",
+		"price": 300
+	},
+
+	{
+		"id": "OgreskullBoneplateBattlegearMythic",
+		"type": "death-knight",
+		"path": "foundry-of-black-mountain-clan",
+		"img": "/src/assets/img/raids-armours/bg/death-knight/Ogreskull-Boneplate-Battlegear-mythic.png",
+		"objectFit": false,
+		"title": "Броня Черепа Огра",
+		"description": "Первый комплект брони для рыцаря смерти из рейда 100-го уровня Литейная Клана Черной Горы эпохального уровня сложности дополнения",
+		"descriptionTrim": "Вождь Клана Черной Горы будет повержен! Секрет выплавки руды Черной горы раскрыт! Вы не уязвимы для пламени Сердца Черной Горы!",
+		"addition": "Warlords of Draenor",
+		"price": 300
+	},
+
+	{
+		"id": "DemonbreakerWargearRaidFinder",
+		"type": "death-knight",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/death-knight/Demonbreaker-Wargear-raid-finder.png",
+		"objectFit": false,
+		"title": "Боевой Доспех Бесолома",
+		"description": "Второй комплект брони для рыцаря смерти из рейда 100-го уровня Цитадель Адского Пламени режима поиска рейдов дополнения",
+		"descriptionTrim": "Владыка Легиона будет повержен! Азерот не сгорит в огне легиона! Вы неуязвимы для пламени Скверны!",
+		"addition": "Warlords of Draenor",
+		"price": 300
+	},
+
+	{
+		"id": "DemongazeArmorNormal",
+		"type": "death-knight",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/death-knight/Demongaze-Armor-normal.png",
+		"objectFit": false,
+		"title": "Доспехи Демонического Взора",
+		"description": "Второй комплект брони для рыцаря смерти из рейда 100-го уровня Цитадель Адского Пламени обычного уровня сложности дополнения",
+		"descriptionTrim": "Владыка Легиона будет повержен! Азерот не сгорит в огне легиона! Вы неуязвимы для пламени Скверны!",
+		"addition": "Warlords of Draenor",
+		"price": 300
+	},
+
+	{
+		"id": "DemongazeArmorHeroic",
+		"type": "death-knight",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/death-knight/Demongaze-Armor-heroic.png",
+		"objectFit": false,
+		"title": "Доспехи Демонического Взора",
+		"description": "Второй комплект брони для рыцаря смерти из рейда 100-го уровня Цитадель Адского Пламени героического уровня сложности дополнения",
+		"descriptionTrim": "Владыка Легиона будет повержен! Азерот не сгорит в огне легиона! Вы неуязвимы для пламени Скверны!",
+		"addition": "Warlords of Draenor",
+		"price": 300
+	},
+
+	{
+		"id": "DemongazeArmorMythic",
+		"type": "death-knight",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/death-knight/Demongaze-Armor-mythic.png",
+		"objectFit": false,
+		"title": "Доспехи Демонического Взора",
+		"description": "Второй комплект брони для рыцаря смерти из рейда 100-го уровня Цитадель Адского Пламени эпохального уровня сложности дополнения",
+		"descriptionTrim": "Владыка Легиона будет повержен! Азерот не сгорит в огне легиона! Вы неуязвимы для пламени Скверны!",
 		"addition": "Warlords of Draenor",
 		"price": 300
 	}
