@@ -1596,5 +1596,161 @@
 		"descriptionTrim": "Бог глубин будет повержен! Ваш разум свободен, видения бессильны перед вами, ваша судьба — в ваших руках! Вы — его погибель!",
 		"addition": "Battle for Azeroth",
 		"price": 400
+	},
+
+	{
+		"id": "CastleNathriaRaidPlateRaidFinder",
+		"type": "warrior",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/Castle-Nathria-Raid-Plate-raid-finder.png",
+		"objectFit": false,
+		"title": "Тяжелые Латы Старшего Часового",
+		"description": "Первый комплект брони для воина из рейда 60-го* уровня Замок Нафрия режима поиска рейдов дополнения",
+		"descriptionTrim": "будет повержен!",
+		"addition": "Shadowlands",
+		"price": 450
+	},
+
+	{
+		"id": "CastleNathriaRaidPlateNormal",
+		"type": "warrior",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/Castle-Nathria-Raid-Plate-normal.png",
+		"objectFit": false,
+		"title": "Тяжелые Латы Старшего Часового",
+		"description": "Первый комплект брони для воина из рейда 60-го* уровня Замок Нафрия обычного уровня сложности дополнения",
+		"descriptionTrim": "будет повержен!",
+		"addition": "Shadowlands",
+		"price": 450
+	},
+
+	{
+		"id": "CastleNathriaRaidPlateHeroic",
+		"type": "warrior",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/Castle-Nathria-Raid-Plate-heroic.png",
+		"objectFit": false,
+		"title": "Тяжелые Латы Старшего Часового",
+		"description": "Первый комплект брони для воина из рейда 60-го* уровня Замок Нафрия героического уровня сложности дополнения",
+		"descriptionTrim": "будет повержен!",
+		"addition": "Shadowlands",
+		"price": 450
+	},
+
+	{
+		"id": "CastleNathriaRaidPlateMythic",
+		"type": "warrior",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/Castle-Nathria-Raid-Plate-mythic.png",
+		"objectFit": false,
+		"title": "Тяжелые Латы Старшего Часового",
+		"description": "Первый комплект брони для воина из рейда 60-го* уровня Замок Нафрия эпохального уровня сложности дополнения",
+		"descriptionTrim": "будет повержен!",
+		"addition": "Shadowlands",
+		"price": 450
+	},
+
+	{
+		"id": "SanctumOfDominationRaidPlateRaidFinder",
+		"type": "warrior",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/Sanctum-of-Domination-Raid-Plate-raid-finder.png",
+		"objectFit": false,
+		"title": "Жуткие Латы Кузни Душ",
+		"description": "Второй комплект брони для воина из рейда 60-го* уровня Святилище Господства режима поиска рейдов дополнения",
+		"descriptionTrim": "будет повержен!",
+		"addition": "Shadowlands",
+		"price": 450
+	},
+
+	{
+		"id": "SanctumOfDominationRaidPlateNormal",
+		"type": "warrior",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/Sanctum-of-Domination-Raid-Plate-normal.png",
+		"objectFit": false,
+		"title": "Жуткие Латы Кузни Душ",
+		"description": "Второй комплект брони для воина из рейда 60-го* уровня Святилище Господства обычного уровня сложности дополнения",
+		"descriptionTrim": "будет повержен!",
+		"addition": "Shadowlands",
+		"price": 450
+	},
+
+	{
+		"id": "SanctumOfDominationRaidPlateHeroic",
+		"type": "warrior",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/Sanctum-of-Domination-Raid-Plate-heroic.png",
+		"objectFit": false,
+		"title": "Жуткие Латы Кузни Душ",
+		"description": "Второй комплект брони для воина из рейда 60-го* уровня Святилище Господства героического уровня сложности дополнения",
+		"descriptionTrim": "будет повержен!",
+		"addition": "Shadowlands",
+		"price": 450
+	},
+
+	{
+		"id": "SanctumOfDominationRaidPlateMythic",
+		"type": "warrior",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/Sanctum-of-Domination-Raid-Plate-mythic.png",
+		"objectFit": false,
+		"title": "Жуткие Латы Кузни Душ",
+		"description": "Второй комплект брони для воина из рейда 60-го* уровня Святилище Господства эпохального уровня сложности дополнения",
+		"descriptionTrim": "будет повержен!",
+		"addition": "Shadowlands",
+		"price": 450
+	},
+
+	{
+		"id": "ArmamentsOfTheInfiniteInfantryRaidFinder",
+		"type": "warrior",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/warrior/Armaments-of-the-Infinite-Infantry-raid-finder.png",
+		"objectFit": false,
+		"title": "Доспехи Вечного Пехотинца",
+		"description": "Третий комплект брони для воина из рейда 60-го* уровня Гробница Предвечных режима поиска рейдов дополнения",
+		"descriptionTrim": "будет повержен!",
+		"addition": "Shadowlands",
+		"price": 450
+	},
+
+	{
+		"id": "ArmamentsOfTheInfiniteInfantryNormal",
+		"type": "warrior",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/warrior/Armaments-of-the-Infinite-Infantry-normal.png",
+		"objectFit": false,
+		"title": "Доспехи Вечного Пехотинца",
+		"description": "Третий комплект брони для воина из рейда 60-го* уровня Гробница Предвечных обычного уровня сложности дополнения",
+		"descriptionTrim": "будет повержен!",
+		"addition": "Shadowlands",
+		"price": 450
+	},
+
+	{
+		"id": "ArmamentsOfTheInfiniteInfantryHeroic",
+		"type": "warrior",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/warrior/Armaments-of-the-Infinite-Infantry-heroic.png",
+		"objectFit": false,
+		"title": "Доспехи Вечного Пехотинца",
+		"description": "Третий комплект брони для воина из рейда 60-го* уровня Гробница Предвечных героического уровня сложности дополнения",
+		"descriptionTrim": "будет повержен!",
+		"addition": "Shadowlands",
+		"price": 450
+	},
+
+	{
+		"id": "ArmamentsOfTheInfiniteInfantryMythic",
+		"type": "warrior",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/warrior/Armaments-of-the-Infinite-Infantry-mythic.png",
+		"objectFit": false,
+		"title": "Доспехи Вечного Пехотинца",
+		"description": "Третий комплект брони для воина из рейда 60-го* уровня Гробница Предвечных эпохального уровня сложности дополнения",
+		"descriptionTrim": "будет повержен!",
+		"addition": "Shadowlands",
+		"price": 450
 	}
 ]

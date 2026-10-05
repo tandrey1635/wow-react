@@ -816,5 +816,44 @@
 		"descriptionTrim": "Владыка Легиона будет повержен! Азерот не сгорит в огне легиона! Вы неуязвимы для пламени Скверны!",
 		"addition": "Warlords of Draenor",
 		"price": 300
+	},
+
+	{
+		"id": "FelforgedPlateArmor",
+		"type": "death-knight",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/death-knight/Felforged-Plate-Armor.png",
+		"objectFit": false,
+		"title": "Доспехи из Кузни Скверны",
+		"description": "Комплект брони, добытый в самом сердце вторжений Пылающего Легиона дополнения",
+		"descriptionTrim": "Эта броня пропитана скверной, но не поддалась ей! Вы обратили силу демонов против них самих! Каждая царапина, каждый изъян на этой броне, память о битвах за миры, которые не пали благодаря вам!",
+		"addition": "Legion",
+		"price": 350
+	},
+
+	{
+		"id": "DrekirjarWarriorsBattlegear",
+		"type": "death-knight",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/death-knight/Drekirjar-Warriors-Battlegear.png",
+		"objectFit": false,
+		"title": "Боевой Доспех Дрекирьярского Воина",
+		"description": "Комплект брони в награду за путешествия во времени по подземельям дополнения",
+		"descriptionTrim": "Броня, дарованная Хранителями Времени за череду подвигов в их походах по лабиринтам вечности. Ваша броня закалена в схватках с аномалиями прошлого и будущего, а каждый элемент несет несокрушимую мощь самого времени!",
+		"addition": "Legion",
+		"price": 350
+	},
+
+	{
+		"id": "RavencrestsBattleplate",
+		"type": "death-knight",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/death-knight/Ravencrests-Battleplate.png",
+		"objectFit": false,
+		"title": "Боевой Доспех Гребня Ворона",
+		"description": "Комплект брони в награду за путешествия во времени по подземельям дополнения",
+		"descriptionTrim": "Броня, дарованная Хранителями Времени за череду подвигов в их походах по лабиринтам вечности. Ваша броня закалена в схватках с аномалиями прошлого и будущего, а каждый элемент несет несокрушимую мощь самого времени!",
+		"addition": "Legion",
+		"price": 350
 	}
 ]
