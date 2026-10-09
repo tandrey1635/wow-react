@@ -1,11 +1,11 @@
 [
 	{
-		"id": "Крутой Меч",
+		"id": "CrimsonGreatswordOfTheEbonBlade",
 		"type": "weapons",
-		"path": "Крутой Меч",
-		"img": "/src/assets/img/weapons/bg/two-handed/swords/.png",
+		"path": "CrimsonGreatswordOfTheEbonBlade",
+		"img": "/src/assets/img/weapons/bg/two-handed/swords/Crimson-Greatsword-of-the-Ebon-Blade.png",
 		"objectFit": false,
-		"title": "Крутой Меч",
+		"title": "Алый Меч Черного Клинка",
 		"description": "Двуручный Меч, символ доблести и чести. Рассекает броню, режет плоть, сеет ужас. Каждый взмах, приговор. Никто не устоит перед его клинком.",
 		"price": 300
 	}

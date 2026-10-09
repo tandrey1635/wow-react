@@ -1,14 +1,14 @@
 [
 	{
-		"id": "Крутой Меч",
+		"id": "CrimsonGreatswordOfTheEbonBlade",
 		"type": "two-handed-weapons",
 		"path": "",
 		"weaponType": "Двуручный Меч",
 		"label": "Эпический",
-		"img": "/src/assets/img/weapons/bg/two-handed/swords/.png",
+		"img": "/src/assets/img/weapons/bg/two-handed/swords/Crimson-Greatsword-of-the-Ebon-Blade.png",
 		"objectFit": false,
-		"title": "Крутой Меч",
-		"description": "",
+		"title": "Алый Меч Черного Клинка",
+		"description": "Уровень предмета: 80 Становится персональным при получении Двуручное Меч Урон: 6 - 11 Скорость 3.60 (13.2 ед. урона в секунду) +18 к силе +25 к выносливости +15 к скорости (0.34% на 90 ур.) +21 к универсальности (0.39% на 90 ур.) Прочность: 100 / 100 Классы: Рыцарь смерти Цена продажи: 3 9",
 		"dmg": 1000,
 		"speed": 2.6,
 		"price": 300
