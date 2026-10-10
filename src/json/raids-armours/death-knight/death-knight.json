@@ -910,6 +910,19 @@
 	},
 
 	{
+		"id": "DreadwyrmBattleplateHeroic",
+		"type": "death-knight",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/death-knight/Dreadwyrm-Battleplate-heroic.png",
+		"objectFit": false,
+		"title": "Боевой Доспех Ужасного Змея",
+		"description": "Первый комплект брони для рыцаря смерти из рейда 110-го уровня Цитадель Ночи героического уровня сложности дополнения",
+		"descriptionTrim": "Глава Совета Теней будет повержен! Бесконечная тьма не поглотит ваш мир! Мастер чернокнижник доигрался!",
+		"addition": "Legion",
+		"price": 350
+	},
+
+	{
 		"id": "DreadwakeArmorRaidFinder",
 		"type": "death-knight",
 		"path": "",
