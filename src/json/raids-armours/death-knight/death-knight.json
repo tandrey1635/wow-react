@@ -897,19 +897,6 @@
 	},
 
 	{
-		"id": "DreadwyrmBattleplateRaidFinder",
-		"type": "death-knight",
-		"path": "",
-		"img": "/src/assets/img/raids-armours/bg/death-knight/Dreadwyrm-Battleplate-raid-finder.png",
-		"objectFit": false,
-		"title": "Боевой Доспех Ужасного Змея",
-		"description": "Первый комплект брони для рыцаря смерти из рейда 110-го уровня Цитадель Ночи режима поиска рейдов дополнения",
-		"descriptionTrim": "Глава Совета Теней будет повержен! Бесконечная тьма не поглотит ваш мир! Мастер чернокнижник доигрался!",
-		"addition": "Legion",
-		"price": 350
-	},
-
-	{
 		"id": "DreadwyrmBattleplateNormal",
 		"type": "death-knight",
 		"path": "",
@@ -918,6 +905,58 @@
 		"title": "Боевой Доспех Ужасного Змея",
 		"description": "Первый комплект брони для рыцаря смерти из рейда 110-го уровня Цитадель Ночи обычного уровня сложности дополнения",
 		"descriptionTrim": "Глава Совета Теней будет повержен! Бесконечная тьма не поглотит ваш мир! Мастер чернокнижник доигрался!",
+		"addition": "Legion",
+		"price": 350
+	},
+
+	{
+		"id": "DreadwakeArmorRaidFinder",
+		"type": "death-knight",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/death-knight/Dreadwake-Armor-raid-finder.png",
+		"objectFit": false,
+		"title": "Доспехи Зловещих Деяний",
+		"description": "Четвертый комплект брони для рыцаря смерти из рейда 110-го уровня Анторус, Пылающий Трон режима поиска рейдов дополнения",
+		"descriptionTrim": "Порабощенный Титан будет повержен! Эпохи мучений закончатся здесь! Ваша сила не знает границ! Вы неуязвимы для скверны и смерти! Принесите покой павшему Титану! Пылающий Легион разбит навсегда!",
+		"addition": "Legion",
+		"price": 350
+	},
+
+	{
+		"id": "DreadwakeArmorNormal",
+		"type": "death-knight",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/death-knight/Dreadwake-Armor-normal.png",
+		"objectFit": false,
+		"title": "Доспехи Зловещих Деяний",
+		"description": "Четвертый комплект брони для рыцаря смерти из рейда 110-го уровня Анторус, Пылающий Трон обычного уровня сложности дополнения",
+		"descriptionTrim": "Порабощенный Титан будет повержен! Эпохи мучений закончатся здесь! Ваша сила не знает границ! Вы неуязвимы для скверны и смерти! Принесите покой павшему Титану! Пылающий Легион разбит навсегда!",
+		"addition": "Legion",
+		"price": 350
+	},
+
+	{
+		"id": "DreadwakeArmorHeroic",
+		"type": "death-knight",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/death-knight/Dreadwake-Armor-heroic.png",
+		"objectFit": false,
+		"title": "Доспехи Зловещих Деяний",
+		"description": "Четвертый комплект брони для рыцаря смерти из рейда 110-го уровня Анторус, Пылающий Трон героического уровня сложности дополнения",
+		"descriptionTrim": "Порабощенный Титан будет повержен! Эпохи мучений закончатся здесь! Ваша сила не знает границ! Вы неуязвимы для скверны и смерти! Принесите покой павшему Титану! Пылающий Легион разбит навсегда!",
+		"addition": "Legion",
+		"price": 350
+	},
+
+	{
+		"id": "DreadwakeArmorMythic",
+		"type": "death-knight",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/death-knight/Dreadwake-Armor-mythic.png",
+		"objectFit": false,
+		"title": "Доспехи Зловещих Деяний",
+		"description": "Четвертый комплект брони для рыцаря смерти из рейда 110-го уровня Анторус, Пылающий Трон эпохального уровня сложности дополнения",
+		"descriptionTrim": "Порабощенный Титан будет повержен! Эпохи мучений закончатся здесь! Ваша сила не знает границ! Вы неуязвимы для скверны и смерти! Принесите покой павшему Титану! Пылающий Легион разбит навсегда!",
 		"addition": "Legion",
 		"price": 350
 	}
