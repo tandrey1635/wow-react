@@ -936,6 +936,7 @@
 	},
 
 	{
+<<<<<<< HEAD
 		"id": "DeathlordsBattleplate",
 		"type": "death-knight",
 		"path": "",
@@ -975,6 +976,8 @@
 	},
 
 	{
+=======
+>>>>>>> origin/master
 		"id": "WorldDefilersBattleArmor",
 		"type": "death-knight",
 		"path": "",
