@@ -858,12 +858,38 @@
 	},
 
 	{
+		"id": "VrykulFunerealRegalia",
+		"type": "death-knight",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/death-knight/Vrykul-Funereal-Regalia.png",
+		"objectFit": false,
+		"title": "Врайкульские Погребальные Регалии",
+		"description": "Комплект брони, дарованный за выполнение череды опасных заданий дополнения",
+		"descriptionTrim": "Каждая деталь выкована в благодарность за самоотверженные подвиги и верность избранному пути. Доблесть и труды героя нашли свое воплощение в этом доспехе!",
+		"addition": "Legion",
+		"price": 350
+	},
+
+	{
 		"id": "NarthalasGraduatesTrim",
 		"type": "death-knight",
 		"path": "",
 		"img": "/src/assets/img/raids-armours/bg/general/plate/death-knight/Narthalas-Graduates-Trim.png",
 		"objectFit": false,
 		"title": "Наряд Нар'таласского Выпускника",
+		"description": "Комплект брони, дарованный за выполнение череды опасных заданий дополнения",
+		"descriptionTrim": "Каждая деталь выкована в благодарность за самоотверженные подвиги и верность избранному пути. Доблесть и труды героя нашли свое воплощение в этом доспехе!",
+		"addition": "Legion",
+		"price": 350
+	},
+
+	{
+		"id": "KaldelarBattleplate",
+		"type": "death-knight",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/death-knight/Kaldelar-Battleplate.png",
+		"objectFit": false,
+		"title": "Каль'деларский Боевой Доспех",
 		"description": "Комплект брони, дарованный за выполнение череды опасных заданий дополнения",
 		"descriptionTrim": "Каждая деталь выкована в благодарность за самоотверженные подвиги и верность избранному пути. Доблесть и труды героя нашли свое воплощение в этом доспехе!",
 		"addition": "Legion",
@@ -905,6 +931,19 @@
 		"title": "Доспехи Отваги из Кузни Чести",
 		"description": "Комплект брони из подземелий дополнения",
 		"descriptionTrim": "Броня, закаленная в героических походах по самым опасным подземельям Легиона, от проклятых берегов Хельхейма в Утробе душ до демонических залов Собора Вечной Ночи. Вы прошли сквозь царство мертвых и обитель скверны. Каждый бой оставил на ней след, но она выдержала все. Достойная награда за пройденные испытания.",
+		"addition": "Legion",
+		"price": 350
+	},
+
+	{
+		"id": "WorldDefilersBattleArmor",
+		"type": "death-knight",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/death-knight/World-Defilers-Battle-Armor.png",
+		"objectFit": false,
+		"title": "Доспехи Осквернителя Миров",
+		"description": "Комплект брони, собранный из обломков скверны, добытых у редких элитных монстров локации Аргус дополнения",
+		"descriptionTrim": "Каждый элемент — трофей с поверженного демона. Вы носите на себе доказательство того, что даже на землях Легиона охота идет на хозяев, а не на жертв!",
 		"addition": "Legion",
 		"price": 350
 	},
