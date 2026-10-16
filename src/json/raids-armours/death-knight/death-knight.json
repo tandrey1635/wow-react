@@ -936,6 +936,19 @@
 	},
 
 	{
+		"id": "DeathlordsBattleplate",
+		"type": "death-knight",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/death-knight/Deathlords-Battleplate.png",
+		"objectFit": false,
+		"title": "Боевой Доспех Владыки Смерти",
+		"description": "Комплект брони для рыцаря смерти, оплота класса дополнения",
+		"descriptionTrim": "Созданный для тех, кто не отступил перед угрозой Пылающего Легиона. Вы вошли в самое сердце скверны и вышли оттуда победителем. Каждый след на этой броне, память о битвах за миры, которые не пали благодаря вам! Достойная награда за верность и отвагу!",
+		"addition": "Legion",
+		"price": 350
+	},
+
+	{
 		"id": "GarothiBattleplate",
 		"type": "death-knight",
 		"path": "",
