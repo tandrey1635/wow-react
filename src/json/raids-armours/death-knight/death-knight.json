@@ -1014,6 +1014,45 @@
 	},
 
 	{
+		"id": "MoonshatterWarplate",
+		"type": "death-knight",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/death-knight/Moonshatter-Warplate.png",
+		"objectFit": false,
+		"title": "Боевые Латы Раскола Луны",
+		"description": "Комплект брони, дарованный за выполнение череды опасных заданий дополнения",
+		"descriptionTrim": "Каждая деталь выкована в благодарность за самоотверженные подвиги и верность избранному пути. Доблесть и труды героя нашли свое воплощение в этом доспехе!",
+		"addition": "Legion",
+		"price": 350
+	},
+
+	{
+		"id": "XorothianPlateArmor",
+		"type": "death-knight",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/death-knight/Xorothian-Plate-Armor.png",
+		"objectFit": false,
+		"title": "Зоротианские Латные Доспехи",
+		"description": "Комплект брони, добытый в самом сердце вторжений Пылающего Легиона дополнения",
+		"descriptionTrim": "Эта броня пропитана скверной, но не поддалась ей! Вы обратили силу демонов против них самих! Каждая царапина, каждый изъян на этой броне, память о битвах за миры, которые не пали благодаря вам!",
+		"addition": "Legion",
+		"price": 350
+	},
+
+	{
+		"id": "NightforgedFelplate",
+		"type": "death-knight",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/death-knight/Nightforged-Felplate.png",
+		"objectFit": false,
+		"title": "Ночнокованные Доспехи Скверны",
+		"description": "Комплект брони из подземелий дополнения",
+		"descriptionTrim": "Броня, закаленная в героических походах по самым опасным подземельям Легиона, от проклятых берегов Хельхейма в Утробе душ до демонических залов Собора Вечной Ночи. Вы прошли сквозь царство мертвых и обитель скверны. Каждый бой оставил на ней след, но она выдержала все. Достойная награда за пройденные испытания.",
+		"addition": "Legion",
+		"price": 350
+	},
+
+	{
 		"id": "WorldDefilersBattleArmor",
 		"type": "death-knight",
 		"path": "",
