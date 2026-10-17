@@ -1040,6 +1040,58 @@
 	},
 
 	{
+		"id": "FuneraryPlateOfTheChosenDeadRaidFinder",
+		"type": "death-knight",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/death-knight/Funerary-Plate-of-the-Chosen-Dead-raid-finder.png",
+		"objectFit": false,
+		"title": "Траурные Латы Избранных Мертвецов",
+		"description": "Второй комплект брони для рыцаря смерти из рейда 110-го уровня Испытание Доблести режима поиска рейдов дополнения",
+		"descriptionTrim": "Королева подземного мира проклятых и падших врайкулов будет повержена! Хельхейм не поглотит ваши души! Вы неуязвимы для проклятий и ледяного тумана! Один обретет свободу!",
+		"addition": "Legion",
+		"price": 350
+	},
+
+	{
+		"id": "FuneraryPlateOfTheChosenDeadNormal",
+		"type": "death-knight",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/death-knight/Funerary-Plate-of-the-Chosen-Dead-normal.png",
+		"objectFit": false,
+		"title": "Траурные Латы Избранных Мертвецов",
+		"description": "Второй комплект брони для рыцаря смерти из рейда 110-го уровня Испытание Доблести обычного уровня сложности дополнения",
+		"descriptionTrim": "Королева подземного мира проклятых и падших врайкулов будет повержена! Хельхейм не поглотит ваши души! Вы неуязвимы для проклятий и ледяного тумана! Один обретет свободу!",
+		"addition": "Legion",
+		"price": 350
+	},
+
+	{
+		"id": "FuneraryPlateOfTheChosenDeadHeroic",
+		"type": "death-knight",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/death-knight/Funerary-Plate-of-the-Chosen-Dead-heroic.png",
+		"objectFit": false,
+		"title": "Траурные Латы Избранных Мертвецов",
+		"description": "Второй комплект брони для рыцаря смерти из рейда 110-го уровня Испытание Доблести героического уровня сложности дополнения",
+		"descriptionTrim": "Королева подземного мира проклятых и падших врайкулов будет повержена! Хельхейм не поглотит ваши души! Вы неуязвимы для проклятий и ледяного тумана! Один обретет свободу!",
+		"addition": "Legion",
+		"price": 350
+	},
+
+	{
+		"id": "FuneraryPlateOfTheChosenDeadMythic",
+		"type": "death-knight",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/death-knight/Funerary-Plate-of-the-Chosen-Dead-mythic.png",
+		"objectFit": false,
+		"title": "Траурные Латы Избранных Мертвецов",
+		"description": "Второй комплект брони для рыцаря смерти из рейда 110-го уровня Испытание Доблести эпохального уровня сложности дополнения",
+		"descriptionTrim": "Королева подземного мира проклятых и падших врайкулов будет повержена! Хельхейм не поглотит ваши души! Вы неуязвимы для проклятий и ледяного тумана! Один обретет свободу!",
+		"addition": "Legion",
+		"price": 350
+	},
+
+	{
 		"id": "GravewardenArmamentsRaidFinder",
 		"type": "death-knight",
 		"path": "",
