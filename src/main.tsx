@@ -165,7 +165,7 @@ import FoundryOfBlackMountainClan from "./pages/raids-armours/RaidsArmoursDetail
 
 createRoot(document.getElementById("root")!).render(
 	<StrictMode>
-		<BrowserRouter basename="/wow">
+		<BrowserRouter basename={import.meta.env.DEV ? "/" : "/wow"}>
 			<Routes>
 				{/* Главная стр */}
 				<Route path="/" element={<App />} />
