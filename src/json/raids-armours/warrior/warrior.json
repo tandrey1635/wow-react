@@ -1599,6 +1599,162 @@
 	},
 
 	{
+		"id": "",
+		"type": "warrior",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/.png",
+		"objectFit": false,
+		"title": "Облачение Самоотверженности",
+		"description": "Комплект брони Компании дополнения",
+		"descriptionTrim": "комплект ковенанта Бастион",
+		"addition": "Shadowlands",
+		"price": 450
+	},
+
+	{
+		"id": "",
+		"type": "warrior",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/.png",
+		"objectFit": false,
+		"title": "Reverent - Kyrian Covenant Path of Ascension Plate Armor Set",
+		"description": "Комплект брони Транспортная сеть дополнения",
+		"descriptionTrim": "комплект ковенанта Бастион",
+		"addition": "Shadowlands",
+		"price": 450
+	},
+
+	{
+		"id": "",
+		"type": "warrior",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/.png",
+		"objectFit": false,
+		"title": "Discordant - Kyrian Covenant Path of Ascension Plate Armor Set",
+		"description": "Комплект брони Путь к вознесению дополнения",
+		"descriptionTrim": "комплект ковенанта Бастион",
+		"addition": "Shadowlands",
+		"price": 450
+	},
+
+	{
+		"id": "",
+		"type": "warrior",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/.png",
+		"objectFit": false,
+		"title": "Harmonious - Kyrian Covenant Renown Plate Armor Set",
+		"description": "Комплект брони Известность дополнения",
+		"descriptionTrim": "комплект ковенанта Бастион",
+		"addition": "Shadowlands",
+		"price": 450
+	},
+
+	{
+		"id": "",
+		"type": "warrior",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/.png",
+		"objectFit": false,
+		"title": "Эбонитовое Боевое Облачение Жуткого Часового",
+		"description": "Комплект брони Компании дополнения",
+		"descriptionTrim": "Вентиры",
+		"addition": "Shadowlands",
+		"price": 450
+	},
+
+	{
+		"id": "",
+		"type": "warrior",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/.png",
+		"objectFit": false,
+		"title": "Начищенное Боевое Облачение Жуткого Часового",
+		"description": "Комплект брони Транспортная сеть дополнения",
+		"descriptionTrim": "Вентиры",
+		"addition": "Shadowlands",
+		"price": 450
+	},
+
+	{
+		"id": "",
+		"type": "warrior",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/.png",
+		"objectFit": false,
+		"title": "Придворное Боевое Облачение Жуткого Часового",
+		"description": "Комплект брони пепельный двор дополнения",
+		"descriptionTrim": "Вентиры",
+		"addition": "Shadowlands",
+		"price": 450
+	},
+
+	{
+		"id": "",
+		"type": "warrior",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/.png",
+		"objectFit": false,
+		"title": "Алое Боевое Облачение Жуткого Часового",
+		"description": "Комплект брони известность дополнения",
+		"descriptionTrim": "Вентиры",
+		"addition": "Shadowlands",
+		"price": 450
+	},
+
+	{
+		"id": "",
+		"type": "warrior",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/.png",
+		"objectFit": false,
+		"title": "Сила Малдраксуса",
+		"description": "Комплект брони Компании дополнения",
+		"descriptionTrim": "Некролорды",
+		"addition": "Shadowlands",
+		"price": 450
+	},
+
+	{
+		"id": "",
+		"type": "warrior",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/.png",
+		"objectFit": false,
+		"title": "Мужество Малдраксуса",
+		"description": "Комплект брони Множество дополнения",
+		"descriptionTrim": "Некролорды",
+		"addition": "Shadowlands",
+		"price": 450
+	},
+
+	{
+		"id": "",
+		"type": "warrior",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/.png",
+		"objectFit": false,
+		"title": "Поганище из Малдраксуса",
+		"description": "Комплект брони Сшивание поганищ дополнения",
+		"descriptionTrim": "Некролорды",
+		"addition": "Shadowlands",
+		"price": 450
+	},
+
+	{
+		"id": "",
+		"type": "warrior",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/.png",
+		"objectFit": false,
+		"title": "Мощь Малдраксуса",
+		"description": "Комплект брони Известность дополнения",
+		"descriptionTrim": "Некролорды",
+		"addition": "Shadowlands",
+		"price": 450
+	},
+
+	{
 		"id": "CastleNathriaRaidPlateRaidFinder",
 		"type": "warrior",
 		"path": "",
