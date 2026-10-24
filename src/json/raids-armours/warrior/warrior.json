@@ -1599,66 +1599,66 @@
 	},
 
 	{
-		"id": "",
+		"id": "KyrianCovenantCampaignPlateArmorSet",
 		"type": "warrior",
 		"path": "",
-		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/.png",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/Kyrian-Covenant-Campaign-Plate-Armor-Set.jpg",
 		"objectFit": false,
-		"title": "Облачение Самоотверженности",
-		"description": "Комплект брони Компании дополнения",
+		"title": "Боевой Доспех Самоотверженности",
+		"description": "Комплект брони, дарованный за прохождение кампании ковенанта Кирий в Бастионе дополнения",
+		"descriptionTrim": "Кирии, благородные обитатели Бастиона, что веками тренируются, чтобы заслужить крылья и встать в ряды перерожденных. Броня, выкованная в Бастионе как символ их пути: служения, чести и самоотверженности. Защитите Бастион от любой угрозы!",
+		"addition": "Shadowlands",
+		"price": 450
+	},
+
+	{
+		"id": "ReverentKyrianCovenantPathOfAscensionPlateArmorSet",
+		"type": "warrior",
+		"path": "",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/Reverent-Kyrian-Covenant-Path-of-Ascension-Plate-Armor-Set.jpg",
+		"objectFit": false,
+		"title": "Боевой Доспех Почтения",
+		"description": "Комплект брони Путь перерорждения дополнения",
 		"descriptionTrim": "комплект ковенанта Бастион",
 		"addition": "Shadowlands",
 		"price": 450
 	},
 
 	{
-		"id": "",
+		"id": "DiscordantKyrianCovenantPathOfAscensionPlateArmorSet",
 		"type": "warrior",
 		"path": "",
-		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/.png",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/Discordant-Kyrian-Covenant-Path-of-Ascension-Plate-Armor-Set.jpg",
 		"objectFit": false,
-		"title": "Reverent - Kyrian Covenant Path of Ascension Plate Armor Set",
-		"description": "Комплект брони Транспортная сеть дополнения",
+		"title": "Боевой Доспех Диссонанса",
+		"description": "Комплект брони Путь перерождения дополнения",
 		"descriptionTrim": "комплект ковенанта Бастион",
 		"addition": "Shadowlands",
 		"price": 450
 	},
 
 	{
-		"id": "",
+		"id": "KyrianCovenantRenownPlateArmorSet",
 		"type": "warrior",
 		"path": "",
-		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/.png",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/Kyrian-Covenant-Renown-Plate-Armor-Set.jpg",
 		"objectFit": false,
-		"title": "Discordant - Kyrian Covenant Path of Ascension Plate Armor Set",
-		"description": "Комплект брони Путь к вознесению дополнения",
-		"descriptionTrim": "комплект ковенанта Бастион",
+		"title": "Боевой Доспех Гармонии",
+		"description": "Комплект брони за известность у ковенанта Кирий в Бастионе дополнения",
+		"descriptionTrim": "Вы стали несокрушимым щитом Бастиона, грозной ударной силой перерожденных! Ваша броня закалена в схватках с аномалиями Утробы, укреплена светом Бастиона и озарена славой тех, кто обрел крылья, на пути к защите вечного порядка!",
 		"addition": "Shadowlands",
 		"price": 450
 	},
 
 	{
-		"id": "",
+		"id": "VenthyrCovenantCampaignPlateArmorSet",
 		"type": "warrior",
 		"path": "",
-		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/.png",
-		"objectFit": false,
-		"title": "Harmonious - Kyrian Covenant Renown Plate Armor Set",
-		"description": "Комплект брони Известность дополнения",
-		"descriptionTrim": "комплект ковенанта Бастион",
-		"addition": "Shadowlands",
-		"price": 450
-	},
-
-	{
-		"id": "",
-		"type": "warrior",
-		"path": "",
-		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/.png",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/Venthyr-Covenant-Campaign-Plate-Armor-Set.jpg",
 		"objectFit": false,
 		"title": "Эбонитовое Боевое Облачение Жуткого Часового",
-		"description": "Комплект брони Компании дополнения",
-		"descriptionTrim": "Вентиры",
+		"description": "Комплект брони, дарованный за прохождение кампании ковенанта Вентиров в Ревендрете дополнения",
+		"descriptionTrim": "Вентиры, аристократы, им поручаются души, обремененные злобой и гордыней, чтобы направить грешников на трудный путь к искуплению. Броня, выкованная в Ревендрете как символ их пути: гордыни, греха и искупления. Защитите Ревендрет от любой угрозы!",
 		"addition": "Shadowlands",
 		"price": 450
 	},
@@ -1690,23 +1690,23 @@
 	},
 
 	{
-		"id": "",
+		"id": "VenthyrCovenantRenownPlateArmorSet",
 		"type": "warrior",
 		"path": "",
-		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/.png",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/Venthyr-Covenant-Renown-Plate-Armor-Set.jpg",
 		"objectFit": false,
 		"title": "Алое Боевое Облачение Жуткого Часового",
-		"description": "Комплект брони известность дополнения",
-		"descriptionTrim": "Вентиры",
+		"description": "Комплект брони за известность у ковенанта Вентиров в Ревендрете дополнения",
+		"descriptionTrim": "Вы стали несокрушимым щитом Ревендрета, грозной ударной силой вентиров! Ваша броня закалена в схватках с аномалиями Утробы, укреплена анимой Ревендрета и пропитана кровью тех, кто прошел путь искупления. Защитите вечный порядок от любой угрозы!",
 		"addition": "Shadowlands",
 		"price": 450
 	},
 
 	{
-		"id": "",
+		"id": "NecrolordCovenantCampaignPlateArmorSet",
 		"type": "warrior",
 		"path": "",
-		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/.png",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/Necrolord-Covenant-Campaign-Plate-Armor-Set.jpg",
 		"objectFit": false,
 		"title": "Сила Малдраксуса",
 		"description": "Комплект брони Компании дополнения",
@@ -1722,7 +1722,7 @@
 		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/.png",
 		"objectFit": false,
 		"title": "Мужество Малдраксуса",
-		"description": "Комплект брони Множество дополнения",
+		"description": "Комплект брони Сшивание поганищ дополнения",
 		"descriptionTrim": "Некролорды",
 		"addition": "Shadowlands",
 		"price": 450
@@ -1742,14 +1742,14 @@
 	},
 
 	{
-		"id": "",
+		"id": "NecrolordCovenantRenownPlateArmorSet",
 		"type": "warrior",
 		"path": "",
-		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/.png",
+		"img": "/src/assets/img/raids-armours/bg/general/plate/warrior/Necrolord-Covenant-Renown-Plate-Armor-Set.jpg",
 		"objectFit": false,
 		"title": "Мощь Малдраксуса",
-		"description": "Комплект брони Известность дополнения",
-		"descriptionTrim": "Некролорды",
+		"description": "Комплект брони за известность у ковенанта Некролордов в Малдраксусе дополнения",
+		"descriptionTrim": "Вы стали несокрушимым щитом Малдраксуса, грозной ударной силой некролордов! Ваша броня закалена в схватках с аномалиями Утробы, укреплена ? Малдраксуса и пропитана кровью тех, кто прошел путь искупления. Защитите вечный порядок от любой угрозы!",
 		"addition": "Shadowlands",
 		"price": 450
 	},
