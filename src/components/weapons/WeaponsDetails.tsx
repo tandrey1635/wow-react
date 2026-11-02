@@ -1,20 +1,16 @@
-import { useParams } from "react-router";
+import { useParams } from "react-router"
+import WeaponViewer from './WeaponViewer'
 
 
-
+import dataWeaponsLegendary from "../../json/weapons/legendary/weapons-details.json"
 import dataWeaponsTwoHandedAxes from "../../json/weapons/two-handed/axes/axes-details.json"
 import dataWeaponsTwoHandedSwords from "../../json/weapons/two-handed/swords/swords-details.json"
-import dataWeaponsLegendary from "../../json/weapons/legendary/weapons-details.json"
 
 
 const Weapons = ()=> {
 	const { weaponsDetails } = useParams()
 
-
-
 	const weaponDetails = dataWeaponsTwoHandedAxes.find(weaponDetails=> weaponDetails.id.toLowerCase() == weaponsDetails.toLowerCase()) || dataWeaponsTwoHandedSwords.find(weaponDetails=> weaponDetails.id.toLowerCase() == weaponsDetails.toLowerCase()) || dataWeaponsLegendary.find(weaponDetails=> weaponDetails.id.toLowerCase() == weaponsDetails.toLowerCase())
-
-
 
 	return (
 		<section className="weapon__details">
@@ -35,7 +31,7 @@ const Weapons = ()=> {
 					<div className="d-flex">
 						<div className="weapon__details__left">
 							<div className="weapon__details__img">
-								<img src={weaponDetails.img} alt={weaponDetails.title} />
+								{weaponDetails.model3d ? <WeaponViewer modelUrl={weaponDetails.model3d} /> : <img src={weaponDetails.img} alt={weaponDetails.title} />}
 								<div className="weapon__details__label">{weaponDetails.label}</div>
 							</div>
 						</div>
