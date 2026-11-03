@@ -2,7 +2,7 @@ import { Link } from "react-router";
 import type { ICard } from "../types/card-types";
 
 
-const Card = ({type, path, img, model3d, onOpen3d, objectFit, title, description, descriptionTrim, addition, classes, price, noFancybox}: ICard) => {
+const Card = ({id, type, path, img, model3d, onOpen3d, objectFit, title, description, descriptionTrim, addition, classes, price, noFancybox}: ICard) => {
 
 
 
@@ -143,7 +143,7 @@ const Card = ({type, path, img, model3d, onOpen3d, objectFit, title, description
 			{model3d ?
 				<button style={{background: 'transparent'}}
 					className="card-3d-trigger"
-					onClick={() => onOpen3d?.(model3d)}
+					onClick={() => onOpen3d?.(id)}
 				>
 					<img src={img} className={`card-img ${objectFit ? "card-img-object-fit" : ""}`} alt={title} />
 				</button>

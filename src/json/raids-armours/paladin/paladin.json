@@ -110,6 +110,7 @@
 		"type": "paladin",
 		"path": "time-walk",
 		"img": "/src/assets/img/raids-armours/bg/general/plate/paladin/Telhamat-Anchorites-Raiment.png",
+		"model3d": "/src/assets/img/weapons/bg/legendary/Shadowmourne.glb",
 		"objectFit": false,
 		"title": "Облачение Телхаматского Анахорета",
 		"description": "Комплект брони в награду за путешествия во времени по подземельям дополнения",
