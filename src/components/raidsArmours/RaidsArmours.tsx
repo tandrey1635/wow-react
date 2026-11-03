@@ -1,7 +1,10 @@
+import { useState } from 'react'
 import { Tab, Tabs } from 'react-bootstrap';
 import { Link, useParams } from "react-router";
 import useFancybox from "../../ts/useFancybox.ts";
 import Card from '../Card.tsx';
+
+import ModalLightbox from '../ModalLightbox'
 
 
 import dataRaidsArmours from '../../json/raids-armours/raids-armours-details.json';
@@ -24,24 +27,32 @@ import dataWarriorRaidArmours from '../../json/raids-armours/warrior/warrior.jso
 const RaidsArmours = ()=> {
 	const { raidsArmours } = useParams()
 	const [fancyboxRef] = useFancybox({})
+	const [openModelIndex, setOpenModelIndex] = useState<number | null>(null)
 
 	const raidsArmour = dataRaidsArmours.find(raidArmour => raidArmour.id.toLowerCase() === raidsArmours)
 
 	const counterCardItems = (dataJson: ICard[]) => dataJson.length
 
 	const renderCardItems = (dataJson: ICard[]) => dataJson.map(card=> {
+		const allModels = dataJson.filter(card => card.model3d).map(card => card.model3d!)
+
 		return (
 			<Card
 				key={card.id}
 				type={card.type}
 				path={card.path}
 				img={card.img}
+				model3d={card.model3d}
 				objectFit={card.objectFit}
 				addition={card.addition}
 				description={card.description}
 				descriptionTrim={card.descriptionTrim}
 				title={card.title}
 				price={card.price}
+				onOpen3d={(modelUrl) => {
+					const idx = allModels.indexOf(modelUrl);
+					if (idx !== -1) setOpenModelIndex(idx);
+				}}
 			/>
 		)
 	})
@@ -267,7 +278,45 @@ const RaidsArmours = ()=> {
 					</div>
 				</div>
 			</section>
-		</>
+
+
+			{/* Модалка 3D */}
+                <ModalLightbox
+                    models={
+                        raidsArmour.type === "warrior"
+                            ? dataWarriorRaidArmours.filter(c => c.model3d).map(c => c.model3d!)
+                            : raidsArmour.type === "druid"
+                            ? dataDruidRaidArmours.filter(c => c.model3d).map(c => c.model3d!)
+                            : raidsArmour.type === "priest"
+                            ? dataPriestRaidArmours.filter(c => c.model3d).map(c => c.model3d!)
+                            : raidsArmour.type === "mage"
+                            ? dataMageRaidArmours.filter(c => c.model3d).map(c => c.model3d!)
+                            : raidsArmour.type === "monk"
+                            ? dataMonkRaidArmours.filter(c => c.model3d).map(c => c.model3d!)
+                            : raidsArmour.type === "hunter"
+                            ? dataHunterRaidArmours.filter(c => c.model3d).map(c => c.model3d!)
+                            : raidsArmour.type === "demon-hunter"
+                            ? dataDemonHunterRaidArmours.filter(c => c.model3d).map(c => c.model3d!)
+                            : raidsArmour.type === "paladin"
+                            ? dataPaladinRaidArmours.filter(c => c.model3d).map(c => c.model3d!)
+                            : raidsArmour.type === "awakener"
+                            ? dataAwakenerRaidArmours.filter(c => c.model3d).map(c => c.model3d!)
+                            : raidsArmour.type === "rogue"
+                            ? dataRogueRaidArmours.filter(c => c.model3d).map(c => c.model3d!)
+                            : raidsArmour.type === "death-knight"
+                            ? dataDeathKnightRaidArmours.filter(c => c.model3d).map(c => c.model3d!)
+                            : raidsArmour.type === "warlock"
+                            ? dataWarlockRaidArmours.filter(c => c.model3d).map(c => c.model3d!)
+                            : raidsArmour.type === "shaman"
+                            ? dataShamanRaidArmours.filter(c => c.model3d).map(c => c.model3d!)
+                            : []
+                    }
+                    initialIndex={openModelIndex ?? 0}
+					isOpen={openModelIndex !== null}
+					onClose={() => setOpenModelIndex(null)}
+                />
+            
+        </>
 	)
 }
 
