@@ -30,6 +30,12 @@ const ModalLightbox = ({ models = [], initialIndex = 0, isOpen, onClose }: Model
         };
     }, [onClose, models.length, isOpen]);
 
+	useEffect(() => {
+		if (isOpen) {
+			setCurrentIndex(initialIndex);
+		}
+	}, [isOpen, initialIndex]);
+
     if (!models.length) return null;
 
     return (
@@ -38,7 +44,7 @@ const ModalLightbox = ({ models = [], initialIndex = 0, isOpen, onClose }: Model
                 <button className="model-lightbox__close" onClick={onClose}>×</button>
 
                 <div className="model-lightbox__canvas">
-                    <ModelViewer3d key={models[currentIndex]} modelUrl={models[currentIndex]} />
+                    <ModelViewer3d modelUrl={models[currentIndex]} />
                 </div>
 
                 {models.length > 1 && (
