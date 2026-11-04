@@ -27,55 +27,95 @@ const Weapons = ()=> {
 			</section>
 
 			<div className="container">
-				<div className="weapon__details__wrapper d-flex justify-content-between flex-column">
-					<div className="d-flex">
-						<div className="weapon__details__left">
-							<div className="weapon__details__img">
-								{weaponDetails.model3d ? <WeaponViewer modelUrl={weaponDetails.model3d} /> : <img src={weaponDetails.img} alt={weaponDetails.title} />}
-								<div className="weapon__details__label">{weaponDetails.label}</div>
+				<div className={`weapon__details__wrapper ${
+					weaponDetails.type == "сommon"
+					? "weapon__details__wrapper_common"
+					: ''}
+					d-flex justify-content-between`}
+				>
+					<div className={`weapon__details__left ${
+						weaponDetails.type == "сommon"
+							? "weapon__details__left_сommon"
+							: ''
+						}`}
+					>
+
+						<div className="weapon__details__img">
+							{weaponDetails.model3d
+								? <WeaponViewer modelUrl={weaponDetails.model3d} />
+								:
+								<img className={`weapon__details__photo ${
+									weaponDetails.objectFit
+										? "weapon__details__photo_object-fit"
+										: ''}
+									`} src={weaponDetails.img} alt={weaponDetails.title}
+								/>
+							}
+
+							<div className={`weapon__details__label ${
+								weaponDetails.type == "сommon"
+								? "weapon__details__label_common"
+								: ''}`}
+							>
+								{weaponDetails.label}
+							</div>
+						</div>
+					</div>
+
+					<div className="weapon__details__right p-4 d-flex flex-column">
+						<h2 className={`weapon__details__title ${
+							weaponDetails.type == "сommon"
+								? "weapon__details__title_common"
+								: ''
+							}`}>
+							{weaponDetails.title}
+						</h2>
+
+						<p className="weapon__details__text weapon__details__text_legendary">{weaponDetails.weaponType}</p>
+
+						<div className="weapon__details__stats d-grid gap-3 mt-4">
+							<div className="weapon__details__stats__top d-flex justify-content-between">
+								<div className={`weapon__details__info ${
+									weaponDetails.type == "сommon"
+										? "weapon__details__stats__info_common"
+										: ''}`}
+								>
+									Уровень предмета: {weaponDetails.itemLvl}
+								</div>
+
+								<div className="weapon__details__info">
+									Урон: {weaponDetails.damage}
+								</div>
+
+								<div className="weapon__details__info">
+									Скорость: {weaponDetails.speed}
+								</div>
+							</div>
+
+							<div className="weapon__details__stats__bottom d-grid gap-2">
+								<div className="weapon__details__info">
+									{weaponDetails.dps}
+								</div>
+
+								<div className="weapon__details__info">
+									{weaponDetails.strength} к силе
+								</div>
+
+								<div className="weapon__details__info">
+									{weaponDetails.stamina} к выносливости
+								</div>
 							</div>
 						</div>
 
-						<div className="weapon__details__right p-4 d-flex flex-column">
-							<h2 className="weapon__details__title weapon__details__title_legendary">{weaponDetails.title}</h2>
-							<p className="weapon__details__text weapon__details__text_legendary">{weaponDetails.weaponType}</p>
-
-							<div className="weapon__details__stats d-grid gap-3 mt-4">
-								<div className="weapon__details__stats__top d-flex justify-content-between">
-									<div className="weapon__details__info">
-										Урон: {weaponDetails.dmg}
-									</div>
-
-									<div className="weapon__details__info">
-										Скорость: {weaponDetails.speed}
-									</div>
-								</div>
-
-								<div className="weapon__details__stats__bottom d-grid gap-2">
-									<div className="weapon__details__info">
-										{weaponDetails.dps}
-									</div>
-
-									<div className="weapon__details__info">
-										{weaponDetails.strength} к силе
-									</div>
-
-									<div className="weapon__details__info">
-										{weaponDetails.stamina} к выносливости
-									</div>
-								</div>
-							</div>
-
-							<div className="weapon__details__info flex-grow-1 mt-5">
-								<p className="weapon__details__descriptions">{weaponDetails.description}</p>
-							</div>
-
-							<div className="weapon__details__price">
-								Цена: {weaponDetails.price}$
-							</div>
-
-							<button className="weapon__details__cart">Добавить в корзину</button>
+						<div className="weapon__details__info flex-grow-1 mt-5">
+							<p className="weapon__details__descriptions">{weaponDetails.description}</p>
 						</div>
+
+						<div className="weapon__details__price">
+							Цена: {weaponDetails.price}$
+						</div>
+
+						<button className="weapon__details__card__btn">Добавить в корзину</button>
 					</div>
 				</div>
 			</div>

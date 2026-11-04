@@ -19,7 +19,7 @@ const ModelViewer3d = ({ modelUrl }: { modelUrl: string }) => {
     }, [modelUrl])
 
     return (
-        <Canvas style={{ width: '555px', height: '765px' }} camera={{ position: [0, 0, 5], fov: 25 }}>
+        <Canvas /* style={{ width: '555px', height: '765px' }} */ camera={{ position: [0, 0, 5], fov: 25 }}>
             <Center position={[0, -0.2, 0]}>
                 <Suspense fallback={null}>
                     <Model url={modelUrl} />

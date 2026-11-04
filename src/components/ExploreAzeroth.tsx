@@ -1,6 +1,8 @@
 import Header from "./Header";
 import { useRef, useState } from "react";
 
+import ModelViewer3d from "./ModelViewer3d";
+
 const ExploreAzeroth = () => {
 	const [explore, setExplore] = useState('')
 	const audioRef = useRef('')
@@ -34,7 +36,9 @@ const ExploreAzeroth = () => {
 				<h2 className="text-center text-warning mt-4">Азерот (англ. Azeroth) — это мир, расположенный в Великой Запредельной Тьме. В его сердце обитает дремлющая мировая душа, зачаток духа титана. В далеком прошлом сюда вторглись древние боги, порождения Бездны. Когда прибыл Пантеон, титаны заточили древних богов глубоко под землей, а затем исцелили мир и создали жизнь на всей планете. В центре Калимдора был помещен великий источник магии, питающий землю, известный как Источник Вечности. Однажды демоническая армия Пылающего Легиона, привлеченная источником, нашла Азерот и вызвала Раскол. После Третьей войны возникли две крупные державы — Альянс и Орда. Несмотря на внутренние конфликты и внешние угрозы, народы Азерота всегда находили способ выжить.</h2>
 				<h3 className="text-center text-success my-5">Итак приключения начинаются!</h3>
 				<div className="explore__img" onClick={startExplore}>
-					<img src="/src/assets/img/azeroth.png" alt="Начать исследование Азерота" />
+					<img src="/src/assets/img/Azeroth.png" alt="Начать исследование Азерота" />
+
+					{/* <ModelViewer3d modelUrl={'src/assets/img/1.glb'} /> */}
 
 					<p className="explore__text">Исcледовать</p>
 				</div>

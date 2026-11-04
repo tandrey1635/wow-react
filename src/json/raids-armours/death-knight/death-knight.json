@@ -4,6 +4,7 @@
 		"type": "death-knight",
 		"path": "molten-core",
 		"img": "/src/assets/img/raids-armours/bg/general/plate/death-knight/Dark-Iron-Plate.png",
+		"model3d": "/src/assets/img/raids-armours/bg/general/plate/death-knight/model-3d/1.glb",
 		"objectFit": false,
 		"title": "Броня из Черного Железа",
 		"description": "Броня выкованная в сердце вулкана на древней наковальне стихий из чешуи поверженных исполинов и кожи гончих преисподней из Огненных Недр дополнения",

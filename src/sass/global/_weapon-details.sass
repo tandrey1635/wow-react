@@ -1,59 +1,122 @@
 @use '../base/index' as *
 
-.weapon
-	&__details
-		&__left
-			width: 555px
-			height: 765px
-			border: 1px solid red
-		&__right
-			width: 50%
-			border: 1px solid red
-		&__title, &__text
-			font-weight: 900
-			font-size: 48px
-			color: $weaponsColor
-			filter: brightness(125%)
-			&_legendary
-				color: $legendaryColor
-		&__text
-			font-size: 32px
-		&__img
-			position: relative
-			width: inherit
-			height: inherit
-			img
-				transform: scale(0.8)
-				object-fit: contain
-		&__label
-			padding: 10px
-			border-radius: 20px
-			position: absolute
-			top: 20px
-			right: 20px
-			color: $defaultColor
-			background: $legendaryBg
-		&__stats, &__price
-			color: $textColor
-		&__stats
-			font-size: 20px
-			filter: brightness(125%)
-		&__price
-			filter: brightness(125%)
-			font-size: 32px
-			color: $defaultColor
-		&__cart
-			padding: 10px
-			color: $defaultColor
+.weapon__details
+	&__wrapper
+		background: $commonBg
+		border: 2px solid $commonBorder
+		border-radius: 0.8rem
+		box-shadow: 0 10px 40px $commonShadow
+	&__left
+		position: relative
+		width: 45%
+		height: 765px
+		&_сommon
+			border-right: 2px solid $commonBorder
+	&__label
+		@include absoluteRight(24px, 24px)
+		font-weight: 900
+		font-size: 14px
+		text-transform: uppercase
+		padding: 8px 16px
+		border-radius: 30px
+		letter-spacing: 1px
+		&_common
+			background: $commonBg
+			color: $commonColor
+			box-shadow: 0 0 10px $commonShadow
+	&__img
+		padding: 40px
+		height: inherit
+		canvas
+			max-width: 100%
+			max-height: 100%
+	&__photo
+		&_object-fit
+			object-fit: contain
+	&__right
+		width: 55%
+		@media (max-width: 767.98px)
+			width: 100%
+
+	// Заголовок
+	&__title
+		font-size: 42px
+		font-weight: 900
+		/* margin: 0 0 8px 0 */
+
+		/* text-shadow: 2px 2px 0px $defaultColor, -2px -2px 0px $defaultColor, 2px -2px 0px $defaultColor, -2px 2px 0px $defaultColor */
+		&_common
+			color: $commonColor
+		&_legendary
+			color: $legendaryColor
+			text-shadow: 2px 2px 0px $legendaryShadow, -2px -2px 0px $legendaryShadow // Свечение для легендарки
+
+	&__text
+		font-size: 24px
+		font-weight: 700
+		color: $textColor
+		margin: 0
+		font-style: italic
+
+		&_legendary
+			color: $legendaryColor
+
+	// Статы
+	&__stats
+		&__top
+			padding-bottom: 16px
+			border-bottom: 2px solid $mainBorder
+
+			.weapon__details__info
+				font-size: 20px
+				font-weight: 900
+				color: $textColor
+				text-transform: uppercase
+		&__info
+			font-size: 18px
 			font-weight: 700
-			font-size: 32px
+			background: $navBtnBgSecond
+			padding: 12px 16px
 			border-radius: 10px
-			background: $legendaryBg
-			border: 3px solid $legendaryShadow
-			&:hover
-				box-shadow: 0 0 2px 3px $legendaryShadow
-		&__descriptions
-			filter: brightness(125%)
-			font-weight: 700
-			font-size: 24px
-			color: $textColor
+			border: 1px solid $mainBorder
+			box-shadow: inset 0 0 10px rgba($mainBorder, 0.5) // Внутреннее неоновое свечение
+			&_common
+				background: $commonBg
+
+	&__info
+		display: flex
+		align-items: center
+
+	// Описание (делаем его как на внешней карточке, но чуть крупнее)
+	&__descriptions
+		color: $titleColor
+		font-size: 20px
+		line-height: 1.6
+		font-weight: 700
+		font-style: italic
+		margin: 0
+		text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5) // Тень для читаемости
+
+	// Цена
+	&__price
+		font-size: 36px
+		font-weight: 900
+		color: $defaultBtn
+		margin-top: 24px
+		margin-bottom: 16px
+		font-style: italic
+		text-shadow: 0 0 15px rgba($defaultBtn, 0.6)
+
+	// Кнопка (в стиле внешней карточки)
+	&__card__btn
+		padding: 8px
+		border-radius: 5px
+		text-shadow: 2px 2px 2px $defaultShadow
+		font-weight: 700
+		border: 1px solid $defaultBorder
+		box-shadow: 5px 5px 10px $defaultShadow
+		background: $defaultBtnBg
+		color: $defaultBtn
+		filter: drop-shadow(0 0 2px $defaultShadow)
+		&:active
+			transform: translateY(3px)

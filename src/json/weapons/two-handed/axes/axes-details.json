@@ -1,16 +1,20 @@
 [
 	{
 		"id": "RazorAxe",
-		"type": "two-handed-weapons",
+		"type": "сommon",
 		"path": "",
 		"weaponType": "Двуручный Топор",
-		"label": "Эпический",
+		"label": "Необычное",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Razor-Axe.png",
 		"objectFit": false,
 		"title": "Бритвенно Острый Топор",
-		"description": "Уровень предмета: 13 Становится персональным при надевании Двуручное Топор Урон: 5 - 12 Скорость 3.60 (2.4 ед. урона в секунду) +3 к силе +5 к выносливости Прочность: 85 / 85 Требуется 23-й ур. Цена продажи: 75",
-		"dmg": 1000,
-		"speed": 2.6,
+		"description": "Требуется 23-й ур.",
+		"itemLvl": "13",
+		"damage": "5 - 12",
+		"dps":"(2.4 ед. урона в секунду)",
+		"strength": "+3",
+		"stamina": "+5",
+		"speed": 3.6,
 		"price": 300
 	},
 
