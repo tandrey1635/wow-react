@@ -28,14 +28,14 @@ const Weapons = ()=> {
 
 			<div className="container">
 				<div className={`weapon__details__wrapper ${
-					weaponDetails.type == "сommon"
+					weaponDetails.type == "common"
 					? "weapon__details__wrapper_common"
 					: ''}
 					d-flex justify-content-between`}
 				>
 					<div className={`weapon__details__left ${
-						weaponDetails.type == "сommon"
-							? "weapon__details__left_сommon"
+						weaponDetails.type == "common"
+							? "weapon__details__left_common"
 							: ''
 						}`}
 					>
@@ -53,7 +53,7 @@ const Weapons = ()=> {
 							}
 
 							<div className={`weapon__details__label ${
-								weaponDetails.type == "сommon"
+								weaponDetails.type == "common"
 								? "weapon__details__label_common"
 								: ''}`}
 							>
@@ -64,50 +64,65 @@ const Weapons = ()=> {
 
 					<div className="weapon__details__right p-4 d-flex flex-column">
 						<h2 className={`weapon__details__title ${
-							weaponDetails.type == "сommon"
+							weaponDetails.type == "common"
 								? "weapon__details__title_common"
 								: ''
 							}`}>
 							{weaponDetails.title}
 						</h2>
 
-						<p className="weapon__details__text weapon__details__text_legendary">{weaponDetails.weaponType}</p>
+						<p className="weapon__details__text mt-2">{weaponDetails.weaponType}</p>
 
 						<div className="weapon__details__stats d-grid gap-3 mt-4">
-							<div className="weapon__details__stats__top d-flex justify-content-between">
-								<div className={`weapon__details__info ${
-									weaponDetails.type == "сommon"
-										? "weapon__details__stats__info_common"
-										: ''}`}
-								>
+							<div className={`weapon__details__stats__top ${
+								weaponDetails.type == "common"
+									? "weapon__details__stats__top_common"
+									: ''} d-flex justify-content-between pb-2`}
+							>
+								<div className="weapon__details__stats__top__info">
 									Уровень предмета: {weaponDetails.itemLvl}
 								</div>
 
-								<div className="weapon__details__info">
+								<div className="weapon__details__stats__top__info">
 									Урон: {weaponDetails.damage}
 								</div>
 
-								<div className="weapon__details__info">
+								<div className="weapon__details__stats__top__info">
 									Скорость: {weaponDetails.speed}
 								</div>
 							</div>
 
 							<div className="weapon__details__stats__bottom d-grid gap-2">
-								<div className="weapon__details__info">
+								<div className={`weapon__details__stats__bottom__info ${
+									weaponDetails.type == "common"
+										? "weapon__details__stats__bottom__info_common"
+										: ''
+									}`}
+								>
 									{weaponDetails.dps}
 								</div>
 
-								<div className="weapon__details__info">
+								<div className={`weapon__details__stats__bottom__info ${
+									weaponDetails.type == "common"
+										? "weapon__details__stats__bottom__info_common"
+										: ''
+									}`}
+								>
 									{weaponDetails.strength} к силе
 								</div>
 
-								<div className="weapon__details__info">
+								<div className={`weapon__details__stats__bottom__info ${
+									weaponDetails.type == "common"
+										? "weapon__details__stats__bottom__info_common"
+										: ''
+									}`}
+								>
 									{weaponDetails.stamina} к выносливости
 								</div>
 							</div>
 						</div>
 
-						<div className="weapon__details__info flex-grow-1 mt-5">
+						<div className="weapon__details__info flex-grow-1 mt-3">
 							<p className="weapon__details__descriptions">{weaponDetails.description}</p>
 						</div>
 
@@ -115,7 +130,7 @@ const Weapons = ()=> {
 							Цена: {weaponDetails.price}$
 						</div>
 
-						<button className="weapon__details__card__btn">Добавить в корзину</button>
+						<button className="weapon__details__card__btn mt-3">Добавить в корзину</button>
 					</div>
 				</div>
 			</div>

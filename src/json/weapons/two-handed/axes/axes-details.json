@@ -1,14 +1,14 @@
 [
 	{
 		"id": "RazorAxe",
-		"type": "сommon",
+		"type": "common",
 		"path": "",
 		"weaponType": "Двуручный Топор",
 		"label": "Необычное",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Razor-Axe.png",
-		"objectFit": false,
+		"objectFit": true,
 		"title": "Бритвенно Острый Топор",
-		"description": "Требуется 23-й ур.",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью. Требуется 23-й ур.",
 		"itemLvl": "13",
 		"damage": "5 - 12",
 		"dps":"(2.4 ед. урона в секунду)",
@@ -80,16 +80,20 @@
 
 	{
 		"id": "WallwatchersPoleaxe",
-		"type": "two-handed-weapons",
+		"type": "common",
 		"path": "",
 		"weaponType": "Двуручный Топор",
 		"label": "Эпический",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Wallwatchers-Poleaxe.png",
-		"objectFit": false,
+		"objectFit": true,
 		"title": "Алебарда Стражника Стены",
 		"description": "Уровень предмета: 11 Становится персональным при получении Двуручное Топор Урон: 4 - 10 Скорость 3.60 (1.9 ед. урона в секунду) +28 к силе +28 к ловкости +38 к интеллекту Требуемый уровень: 10 - 80 [(80)]",
-		"dmg": 1000,
-		"speed": 2.6,
+		"itemLvl": "13",
+		"damage": "5 - 12",
+		"dps":"(2.4 ед. урона в секунду)",
+		"strength": "+3",
+		"stamina": "+5",
+		"speed": 3.6,
 		"price": 300
 	},
 

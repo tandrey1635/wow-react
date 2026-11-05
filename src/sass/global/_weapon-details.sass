@@ -2,15 +2,16 @@
 
 .weapon__details
 	&__wrapper
-		background: $commonBg
-		border: 2px solid $commonBorder
 		border-radius: 0.8rem
-		box-shadow: 0 10px 40px $commonShadow
+		&_common
+			background: $commonBg
+			border: 2px solid $commonBorder
+			box-shadow: 0 10px 40px $commonShadow
 	&__left
 		position: relative
 		width: 45%
 		height: 765px
-		&_сommon
+		&_common
 			border-right: 2px solid $commonBorder
 	&__label
 		@include absoluteRight(24px, 24px)
@@ -20,13 +21,16 @@
 		padding: 8px 16px
 		border-radius: 30px
 		letter-spacing: 1px
+		background: $defaultMainBg
+		box-shadow: 0 2px 5px $defaultShadow
+		text-shadow: 2px 2px 2px $defaultShadow
+		filter: drop-shadow(0 0 2px $defaultShadow)
 		&_common
-			background: $commonBg
 			color: $commonColor
-			box-shadow: 0 0 10px $commonShadow
 	&__img
-		padding: 40px
+		padding: 100px
 		height: inherit
+		filter: drop-shadow(0 0 6px $defaultShadow)
 		canvas
 			max-width: 100%
 			max-height: 100%
@@ -35,88 +39,65 @@
 			object-fit: contain
 	&__right
 		width: 55%
-		@media (max-width: 767.98px)
-			width: 100%
-
-	// Заголовок
 	&__title
 		font-size: 42px
 		font-weight: 900
-		/* margin: 0 0 8px 0 */
-
-		/* text-shadow: 2px 2px 0px $defaultColor, -2px -2px 0px $defaultColor, 2px -2px 0px $defaultColor, -2px 2px 0px $defaultColor */
+		text-shadow: 2px 2px 2px $defaultShadow
+		filter: drop-shadow(0 0 2px $defaultShadow)
 		&_common
 			color: $commonColor
-		&_legendary
-			color: $legendaryColor
-			text-shadow: 2px 2px 0px $legendaryShadow, -2px -2px 0px $legendaryShadow // Свечение для легендарки
-
 	&__text
+		font-size: 28px
+		font-weight: 700
+		color: $textColor
+		text-shadow: 2px 2px 2px $defaultShadow
+		filter: drop-shadow(0 0 2px $defaultShadow)
+	&__stats
+		font-weight: 700
+		&__top
+			text-shadow: 2px 2px 2px $defaultShadow
+			filter: drop-shadow(0 0 2px $defaultShadow)
+			&__info
+				font-size: 22px
+				color: $textColor
+			&_common
+				border-bottom: 2px solid $commonBorder
+		&__bottom
+			text-shadow: 2px 2px 2px $defaultShadow
+			filter: drop-shadow(0 0 2px $defaultShadow)
+			&__info
+				background: $defaultMainBg
+				font-size: 20px
+				padding: 12px 16px
+				border-radius: 10px
+				text-shadow: 2px 2px 2px $defaultShadow
+				filter: drop-shadow(0 0 2px $defaultShadow)
+				&_common
+					border: 2px solid $commonBorder
+					color: $commonColor
+	&__descriptions
 		font-size: 24px
 		font-weight: 700
 		color: $textColor
-		margin: 0
-		font-style: italic
-
-		&_legendary
-			color: $legendaryColor
-
-	// Статы
-	&__stats
-		&__top
-			padding-bottom: 16px
-			border-bottom: 2px solid $mainBorder
-
-			.weapon__details__info
-				font-size: 20px
-				font-weight: 900
-				color: $textColor
-				text-transform: uppercase
-		&__info
-			font-size: 18px
-			font-weight: 700
-			background: $navBtnBgSecond
-			padding: 12px 16px
-			border-radius: 10px
-			border: 1px solid $mainBorder
-			box-shadow: inset 0 0 10px rgba($mainBorder, 0.5) // Внутреннее неоновое свечение
-			&_common
-				background: $commonBg
-
-	&__info
-		display: flex
-		align-items: center
-
-	// Описание (делаем его как на внешней карточке, но чуть крупнее)
-	&__descriptions
-		color: $titleColor
-		font-size: 20px
-		line-height: 1.6
-		font-weight: 700
-		font-style: italic
-		margin: 0
-		text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5) // Тень для читаемости
-
-	// Цена
+		text-shadow: 2px 2px 2px $defaultShadow
+		filter: drop-shadow(0 0 2px $defaultShadow)
 	&__price
 		font-size: 36px
 		font-weight: 900
 		color: $defaultBtn
-		margin-top: 24px
-		margin-bottom: 16px
-		font-style: italic
-		text-shadow: 0 0 15px rgba($defaultBtn, 0.6)
-
-	// Кнопка (в стиле внешней карточки)
+		text-shadow: 2px 2px 2px $defaultShadow
+		filter: drop-shadow(0 0 2px $defaultShadow)
 	&__card__btn
 		padding: 8px
 		border-radius: 5px
-		text-shadow: 2px 2px 2px $defaultShadow
+		font-size: 20px
 		font-weight: 700
+		text-transform: uppercase
 		border: 1px solid $defaultBorder
+		text-shadow: 2px 2px 2px $defaultShadow
 		box-shadow: 5px 5px 10px $defaultShadow
+		filter: drop-shadow(0 0 2px $defaultShadow)
 		background: $defaultBtnBg
 		color: $defaultBtn
-		filter: drop-shadow(0 0 2px $defaultShadow)
 		&:active
 			transform: translateY(3px)
