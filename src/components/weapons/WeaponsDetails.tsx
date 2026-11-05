@@ -29,13 +29,19 @@ const Weapons = ()=> {
 			<div className="container">
 				<div className={`weapon__details__wrapper ${
 					weaponDetails.type == "common"
-					? "weapon__details__wrapper_common"
-					: ''}
+						? "weapon__details__wrapper_common"
+						:
+					weaponDetails.type == "rare"
+						? "weapon__details__wrapper_rare"
+						: ''}
 					d-flex justify-content-between`}
 				>
 					<div className={`weapon__details__left ${
 						weaponDetails.type == "common"
 							? "weapon__details__left_common"
+							:
+						weaponDetails.type == "rare"
+							? "weapon__details__left_rare"
 							: ''
 						}`}
 					>
@@ -54,8 +60,11 @@ const Weapons = ()=> {
 
 							<div className={`weapon__details__label ${
 								weaponDetails.type == "common"
-								? "weapon__details__label_common"
-								: ''}`}
+									? "weapon__details__label_common"
+									:
+								weaponDetails.type == "rare"
+									? "weapon__details__label_rare"
+								: ''} text-center`}
 							>
 								{weaponDetails.label}
 							</div>
@@ -66,6 +75,9 @@ const Weapons = ()=> {
 						<h2 className={`weapon__details__title ${
 							weaponDetails.type == "common"
 								? "weapon__details__title_common"
+								:
+							weaponDetails.type == "rare"
+								? "weapon__details__title_rare"
 								: ''
 							}`}>
 							{weaponDetails.title}
@@ -77,6 +89,9 @@ const Weapons = ()=> {
 							<div className={`weapon__details__stats__top ${
 								weaponDetails.type == "common"
 									? "weapon__details__stats__top_common"
+									:
+								weaponDetails.type == "rare"
+									? "weapon__details__stats__top_rare"
 									: ''} d-flex justify-content-between pb-2`}
 							>
 								<div className="weapon__details__stats__top__info">
@@ -96,29 +111,42 @@ const Weapons = ()=> {
 								<div className={`weapon__details__stats__bottom__info ${
 									weaponDetails.type == "common"
 										? "weapon__details__stats__bottom__info_common"
+										:
+									weaponDetails.type == "rare"
+										? "weapon__details__stats__bottom__info_rare"
 										: ''
 									}`}
 								>
 									{weaponDetails.dps}
 								</div>
 
-								<div className={`weapon__details__stats__bottom__info ${
-									weaponDetails.type == "common"
-										? "weapon__details__stats__bottom__info_common"
-										: ''
-									}`}
-								>
-									{weaponDetails.strength} к силе
-								</div>
+								{weaponDetails.strength &&
+									<div className={`weapon__details__stats__bottom__info ${
+										weaponDetails.type == "common"
+											? "weapon__details__stats__bottom__info_common"
+											:
+										weaponDetails.type == "rare"
+											? "weapon__details__stats__bottom__info_rare"
+											: ''
+										}`}
+									>
+										{weaponDetails.strength} к силе
+									</div>
+								}
 
-								<div className={`weapon__details__stats__bottom__info ${
-									weaponDetails.type == "common"
-										? "weapon__details__stats__bottom__info_common"
-										: ''
-									}`}
-								>
-									{weaponDetails.stamina} к выносливости
-								</div>
+								{weaponDetails.stamina &&
+									<div className={`weapon__details__stats__bottom__info ${
+										weaponDetails.type == "common"
+											? "weapon__details__stats__bottom__info_common"
+											:
+										weaponDetails.type == "rare"
+											? "weapon__details__stats__bottom__info_rare"
+											: ''
+										}`}
+									>
+										{weaponDetails.stamina} к выносливости
+									</div>
+								}
 							</div>
 						</div>
 

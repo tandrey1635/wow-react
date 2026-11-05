@@ -7,14 +7,21 @@
 			background: $commonBg
 			border: 2px solid $commonBorder
 			box-shadow: 0 10px 40px $commonShadow
+		&_rare
+			background: $rareBg
+			border: 2px solid $rareBorder
+			box-shadow: 0 10px 40px $rareShadow
 	&__left
 		position: relative
 		width: 45%
 		height: 765px
 		&_common
 			border-right: 2px solid $commonBorder
+		&_rare
+			border-right: 2px solid $rareBorder
 	&__label
 		@include absoluteRight(24px, 24px)
+		min-width: 130px
 		font-weight: 900
 		font-size: 14px
 		text-transform: uppercase
@@ -27,6 +34,8 @@
 		filter: drop-shadow(0 0 2px $defaultShadow)
 		&_common
 			color: $commonColor
+		&_rare
+			color: $rareColor
 	&__img
 		padding: 100px
 		height: inherit
@@ -46,6 +55,8 @@
 		filter: drop-shadow(0 0 2px $defaultShadow)
 		&_common
 			color: $commonColor
+		&_rare
+			color: $rareColor
 	&__text
 		font-size: 28px
 		font-weight: 700
@@ -62,6 +73,8 @@
 				color: $textColor
 			&_common
 				border-bottom: 2px solid $commonBorder
+			&_rare
+				border-bottom: 2px solid $rareBorder
 		&__bottom
 			text-shadow: 2px 2px 2px $defaultShadow
 			filter: drop-shadow(0 0 2px $defaultShadow)
@@ -75,6 +88,9 @@
 				&_common
 					border: 2px solid $commonBorder
 					color: $commonColor
+				&_rare
+					border: 2px solid $rareBorder
+					color: $rareColor
 	&__descriptions
 		font-size: 24px
 		font-weight: 700

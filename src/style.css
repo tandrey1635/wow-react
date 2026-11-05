@@ -690,6 +690,11 @@ footer {
   border: 2px solid #7bed09;
   box-shadow: 0 10px 40px #7bed09;
 }
+.weapon__details__wrapper_rare {
+  background: linear-gradient(325deg, #185ec1, transparent 30%, transparent 35%, #185ec1, transparent);
+  border: 2px solid #185ec1;
+  box-shadow: 0 10px 40px #185ec1;
+}
 .weapon__details__left {
   position: relative;
   width: 45%;
@@ -698,10 +703,14 @@ footer {
 .weapon__details__left_common {
   border-right: 2px solid #7bed09;
 }
+.weapon__details__left_rare {
+  border-right: 2px solid #185ec1;
+}
 .weapon__details__label {
   position: absolute;
   top: 24px;
   right: 24px;
+  min-width: 130px;
   font-weight: 900;
   font-size: 14px;
   text-transform: uppercase;
@@ -715,6 +724,9 @@ footer {
 }
 .weapon__details__label_common {
   color: #7bed09;
+}
+.weapon__details__label_rare {
+  color: #185ec1;
 }
 .weapon__details__img {
   padding: 100px;
@@ -741,6 +753,9 @@ footer {
 .weapon__details__title_common {
   color: #7bed09;
 }
+.weapon__details__title_rare {
+  color: #185ec1;
+}
 .weapon__details__text {
   font-size: 28px;
   font-weight: 700;
@@ -762,6 +777,9 @@ footer {
 .weapon__details__stats__top_common {
   border-bottom: 2px solid #7bed09;
 }
+.weapon__details__stats__top_rare {
+  border-bottom: 2px solid #185ec1;
+}
 .weapon__details__stats__bottom {
   text-shadow: 2px 2px 2px #000;
   filter: drop-shadow(0 0 2px #000);
@@ -777,6 +795,10 @@ footer {
 .weapon__details__stats__bottom__info_common {
   border: 2px solid #7bed09;
   color: #7bed09;
+}
+.weapon__details__stats__bottom__info_rare {
+  border: 2px solid #185ec1;
+  color: #185ec1;
 }
 .weapon__details__descriptions {
   font-size: 24px;
