@@ -22,6 +22,17 @@
 	},
 
 	{
+		"id": "BlackrockSlicerRecolor",
+		"type": "weapons",
+		"path": "BlackrockSlicerRecolor",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Blackrock-Slicer-recolor.png",
+		"objectFit": true,
+		"title": "Ломтерезка Черной Скалы",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
 		"id": "ColossalGreatAxe",
 		"type": "weapons",
 		"path": "ColossalGreatAxe",

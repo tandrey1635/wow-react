@@ -695,6 +695,16 @@ footer {
   border: 2px solid #185ec1;
   box-shadow: 0 10px 40px #185ec1;
 }
+.weapon__details__wrapper_epic {
+  background: linear-gradient(325deg, #8400ff, transparent 30%, transparent 35%, #8400ff, transparent);
+  border: 2px solid #8400ff;
+  box-shadow: 0 10px 40px #8400ff;
+}
+.weapon__details__wrapper_legendary {
+  background: linear-gradient(325deg, #ff8000, transparent 30%, transparent 35%, #ff8000, transparent);
+  border: 2px solid #ff8000;
+  box-shadow: 0 10px 40px #ff8000;
+}
 .weapon__details__left {
   position: relative;
   width: 45%;
@@ -705,6 +715,12 @@ footer {
 }
 .weapon__details__left_rare {
   border-right: 2px solid #185ec1;
+}
+.weapon__details__left_epic {
+  border-right: 2px solid #8400ff;
+}
+.weapon__details__left_legendary {
+  border-right: 2px solid #ff8000;
 }
 .weapon__details__label {
   position: absolute;
@@ -727,6 +743,12 @@ footer {
 }
 .weapon__details__label_rare {
   color: #185ec1;
+}
+.weapon__details__label_epic {
+  color: #8400ff;
+}
+.weapon__details__label_legendary {
+  color: #ff8000;
 }
 .weapon__details__img {
   padding: 100px;
@@ -756,12 +778,24 @@ footer {
 .weapon__details__title_rare {
   color: #185ec1;
 }
+.weapon__details__title_epic {
+  color: #8400ff;
+}
+.weapon__details__title_legendary {
+  color: #ff8000;
+}
 .weapon__details__text {
   font-size: 28px;
   font-weight: 700;
   color: #ffc107;
   text-shadow: 2px 2px 2px #000;
   filter: drop-shadow(0 0 2px #000);
+}
+.weapon__details__text_alliance {
+  color: #037afb;
+}
+.weapon__details__text_horde {
+  color: #b90c1c;
 }
 .weapon__details__stats {
   font-weight: 700;
@@ -780,9 +814,42 @@ footer {
 .weapon__details__stats__top_rare {
   border-bottom: 2px solid #185ec1;
 }
+.weapon__details__stats__top_epic {
+  border-bottom: 2px solid #8400ff;
+}
+.weapon__details__stats__top_legendary {
+  border-bottom: 2px solid #ff8000;
+}
 .weapon__details__stats__bottom {
   text-shadow: 2px 2px 2px #000;
   filter: drop-shadow(0 0 2px #000);
+  height: 188px;
+  overflow-y: auto;
+}
+.weapon__details__stats__bottom::-webkit-scrollbar {
+  width: 6px;
+  border-radius: 4px;
+  filter: drop-shadow(0 0 2px #000);
+}
+.weapon__details__stats__bottom::-webkit-scrollbar-thumb {
+  border-radius: 4px;
+  background: #ffc107;
+  filter: drop-shadow(0 0 2px #000);
+}
+.weapon__details__stats__bottom_scroll {
+  padding-right: 8px;
+}
+.weapon__details__stats__bottom_common::-webkit-scrollbar {
+  background: linear-gradient(325deg, #7bed09, transparent 30%, transparent 35%, #7bed09, transparent);
+}
+.weapon__details__stats__bottom_rare::-webkit-scrollbar {
+  background: linear-gradient(325deg, #185ec1, transparent 30%, transparent 35%, #185ec1, transparent);
+}
+.weapon__details__stats__bottom_epic::-webkit-scrollbar {
+  background: linear-gradient(325deg, #8400ff, transparent 30%, transparent 35%, #8400ff, transparent);
+}
+.weapon__details__stats__bottom_legendary::-webkit-scrollbar {
+  background: linear-gradient(325deg, #ff8000, transparent 30%, transparent 35%, #ff8000, transparent);
 }
 .weapon__details__stats__bottom__info {
   background: linear-gradient(325deg, #000, transparent 30%, transparent 35%, #000, transparent);
@@ -800,8 +867,45 @@ footer {
   border: 2px solid #185ec1;
   color: #185ec1;
 }
+.weapon__details__stats__bottom__info_epic {
+  border: 2px solid #8400ff;
+  color: #8400ff;
+}
+.weapon__details__stats__bottom__info_legendary {
+  border: 2px solid #ff8000;
+  color: #ff8000;
+}
+.weapon__details__info {
+  height: 188px;
+  overflow-y: auto;
+}
+.weapon__details__info::-webkit-scrollbar {
+  width: 6px;
+  border-radius: 4px;
+  filter: drop-shadow(0 0 2px #000);
+}
+.weapon__details__info::-webkit-scrollbar-thumb {
+  border-radius: 4px;
+  background: #ffc107;
+  filter: drop-shadow(0 0 2px #000);
+}
+.weapon__details__info_scroll {
+  padding-right: 8px;
+}
+.weapon__details__info_common::-webkit-scrollbar {
+  background: linear-gradient(325deg, #7bed09, transparent 30%, transparent 35%, #7bed09, transparent);
+}
+.weapon__details__info_rare::-webkit-scrollbar {
+  background: linear-gradient(325deg, #185ec1, transparent 30%, transparent 35%, #185ec1, transparent);
+}
+.weapon__details__info_epic::-webkit-scrollbar {
+  background: linear-gradient(325deg, #8400ff, transparent 30%, transparent 35%, #8400ff, transparent);
+}
+.weapon__details__info_legendary::-webkit-scrollbar {
+  background: linear-gradient(325deg, #ff8000, transparent 30%, transparent 35%, #ff8000, transparent);
+}
 .weapon__details__descriptions {
-  font-size: 24px;
+  font-size: 22px;
   font-weight: 700;
   color: #ffc107;
   text-shadow: 2px 2px 2px #000;

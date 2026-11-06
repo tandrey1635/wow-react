@@ -1,5 +1,7 @@
+import { useEffect, useRef, useState } from "react"
 import { useParams } from "react-router"
-import WeaponViewer from './WeaponViewer'
+import { ErrorBoundary } from "react-error-boundary"
+import ModelViewer3d from '../ModelViewer3d'
 
 
 import dataWeaponsLegendary from "../../json/weapons/legendary/weapons-details.json"
@@ -11,6 +13,20 @@ const Weapons = ()=> {
 	const { weaponsDetails } = useParams()
 
 	const weaponDetails = dataWeaponsTwoHandedAxes.find(weaponDetails=> weaponDetails.id.toLowerCase() == weaponsDetails.toLowerCase()) || dataWeaponsTwoHandedSwords.find(weaponDetails=> weaponDetails.id.toLowerCase() == weaponsDetails.toLowerCase()) || dataWeaponsLegendary.find(weaponDetails=> weaponDetails.id.toLowerCase() == weaponsDetails.toLowerCase())
+
+
+	const statsRef = useRef<HTMLDivElement>(null)
+	const descRef = useRef<HTMLDivElement>(null)
+    const [hasScroll, setHasScroll] = useState(false)
+
+    useEffect(() => {
+        const statsEl = statsRef.current
+    	const descEl = descRef.current
+
+        if (statsEl && descEl) {
+            setHasScroll(statsEl.scrollHeight > statsEl.clientHeight || descEl.scrollHeight > descEl.clientHeight)
+        }
+    }, [weaponDetails])
 
 	return (
 		<section className="weapon__details">
@@ -33,6 +49,12 @@ const Weapons = ()=> {
 						:
 					weaponDetails.type == "rare"
 						? "weapon__details__wrapper_rare"
+						:
+					weaponDetails.type == "epic"
+						? "weapon__details__wrapper_epic"
+						:
+					weaponDetails.type == "legendary"
+						? "weapon__details__wrapper_legendary"
 						: ''}
 					d-flex justify-content-between`}
 				>
@@ -42,21 +64,26 @@ const Weapons = ()=> {
 							:
 						weaponDetails.type == "rare"
 							? "weapon__details__left_rare"
+							:
+						weaponDetails.type == "epic"
+							? "weapon__details__left_epic"
+							:
+						weaponDetails.type == "legendary"
+							? "weapon__details__left_legendary"
 							: ''
 						}`}
 					>
 
 						<div className="weapon__details__img">
-							{weaponDetails.model3d
-								? <WeaponViewer modelUrl={weaponDetails.model3d} />
-								:
+							<ErrorBoundary fallback={
 								<img className={`weapon__details__photo ${
 									weaponDetails.objectFit
 										? "weapon__details__photo_object-fit"
 										: ''}
-									`} src={weaponDetails.img} alt={weaponDetails.title}
-								/>
-							}
+								`} src={weaponDetails.img} alt={weaponDetails.title} />
+							} >
+								<ModelViewer3d modelUrl={weaponDetails.model3d} settings={weaponDetails.settings} />
+							</ErrorBoundary>
 
 							<div className={`weapon__details__label ${
 								weaponDetails.type == "common"
@@ -64,7 +91,13 @@ const Weapons = ()=> {
 									:
 								weaponDetails.type == "rare"
 									? "weapon__details__label_rare"
-								: ''} text-center`}
+									:
+								weaponDetails.type == "epic"
+									? "weapon__details__label_epic"
+									:
+								weaponDetails.type == "legendary"
+									? "weapon__details__label_legendary"
+									: ''} text-center`}
 							>
 								{weaponDetails.label}
 							</div>
@@ -78,12 +111,33 @@ const Weapons = ()=> {
 								:
 							weaponDetails.type == "rare"
 								? "weapon__details__title_rare"
+								:
+							weaponDetails.type == "epic"
+								? "weapon__details__title_epic"
+								:
+							weaponDetails.type == "legendary"
+								? "weapon__details__title_legendary"
 								: ''
 							}`}>
 							{weaponDetails.title}
 						</h2>
 
-						<p className="weapon__details__text mt-2">{weaponDetails.weaponType}</p>
+						<div className="weapon__details__block__text d-flex align-items-center justify-content-between mt-2">
+							<p className="weapon__details__text">{weaponDetails.weaponType}</p>
+							{weaponDetails.fraction &&
+								<p className={`weapon__details__text ${
+									weaponDetails.fraction == "Орда"
+										? "weapon__details__text_horde"
+										:
+									weaponDetails.fraction == "Альянс"
+										? "weapon__details__text_alliance"
+										: ''}`}
+								>
+									<span className="weapon__details__text">Фракция:</span> {weaponDetails.fraction}
+								</p>
+							}
+						</div>
+
 
 						<div className="weapon__details__stats d-grid gap-3 mt-4">
 							<div className={`weapon__details__stats__top ${
@@ -92,6 +146,12 @@ const Weapons = ()=> {
 									:
 								weaponDetails.type == "rare"
 									? "weapon__details__stats__top_rare"
+									:
+								weaponDetails.type == "epic"
+									? "weapon__details__stats__top_epic"
+									:
+								weaponDetails.type == "legendary"
+									? "weapon__details__stats__top_legendary"
 									: ''} d-flex justify-content-between pb-2`}
 							>
 								<div className="weapon__details__stats__top__info">
@@ -107,13 +167,37 @@ const Weapons = ()=> {
 								</div>
 							</div>
 
-							<div className="weapon__details__stats__bottom d-grid gap-2">
+							<div ref={statsRef} className={`weapon__details__stats__bottom ${
+									weaponDetails.type == "common"
+										? "weapon__details__stats__bottom_common"
+										:
+									weaponDetails.type == "rare"
+										? "weapon__details__stats__bottom_rare"
+										:
+									weaponDetails.type == "epic"
+										? "weapon__details__stats__bottom_epic"
+										:
+									weaponDetails.type == "legendary"
+										? "weapon__details__stats__bottom_legendary"
+										: ''
+								} ${hasScroll
+									? "weapon__details__stats__bottom_scroll"
+									: ''
+								} d-grid gap-2`}
+							>
+
 								<div className={`weapon__details__stats__bottom__info ${
 									weaponDetails.type == "common"
 										? "weapon__details__stats__bottom__info_common"
 										:
 									weaponDetails.type == "rare"
 										? "weapon__details__stats__bottom__info_rare"
+										:
+									weaponDetails.type == "epic"
+										? "weapon__details__stats__bottom__info_epic"
+										:
+									weaponDetails.type == "legendary"
+										? "weapon__details__stats__bottom__info_legendary"
 										: ''
 									}`}
 								>
@@ -127,10 +211,36 @@ const Weapons = ()=> {
 											:
 										weaponDetails.type == "rare"
 											? "weapon__details__stats__bottom__info_rare"
+											:
+										weaponDetails.type == "epic"
+											? "weapon__details__stats__bottom__info_epic"
+											:
+										weaponDetails.type == "legendary"
+											? "weapon__details__stats__bottom__info_legendary"
 											: ''
 										}`}
 									>
 										{weaponDetails.strength} к силе
+									</div>
+								}
+
+								{weaponDetails.agility &&
+									<div className={`weapon__details__stats__bottom__info ${
+										weaponDetails.type == "common"
+											? "weapon__details__stats__bottom__info_common"
+											:
+										weaponDetails.type == "rare"
+											? "weapon__details__stats__bottom__info_rare"
+											:
+										weaponDetails.type == "epic"
+											? "weapon__details__stats__bottom__info_epic"
+											:
+										weaponDetails.type == "legendary"
+											? "weapon__details__stats__bottom__info_legendary"
+											: ''
+										}`}
+									>
+										{weaponDetails.agility} к ловкости
 									</div>
 								}
 
@@ -141,6 +251,12 @@ const Weapons = ()=> {
 											:
 										weaponDetails.type == "rare"
 											? "weapon__details__stats__bottom__info_rare"
+											:
+										weaponDetails.type == "epic"
+											? "weapon__details__stats__bottom__info_epic"
+											:
+										weaponDetails.type == "legendary"
+											? "weapon__details__stats__bottom__info_legendary"
 											: ''
 										}`}
 									>
@@ -150,7 +266,21 @@ const Weapons = ()=> {
 							</div>
 						</div>
 
-						<div className="weapon__details__info flex-grow-1 mt-3">
+						<div ref={descRef} className={`weapon__details__info ${
+							weaponDetails.type == "common"
+								? "weapon__details__info_common"
+								:
+							weaponDetails.type == "rare"
+								? "weapon__details__info_rare"
+								:
+							weaponDetails.type == "epic"
+								? "weapon__details__info_epic"
+								:
+							weaponDetails.type == "legendary"
+								? "weapon__details__info_legendary"
+								: ''
+							} ${hasScroll ? "weapon__details__info_scroll" : ""} flex-grow-1 my-3`}
+						>
 							<p className="weapon__details__descriptions">{weaponDetails.description}</p>
 						</div>
 
