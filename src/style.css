@@ -823,7 +823,7 @@ footer {
 .weapon__details__stats__bottom {
   text-shadow: 2px 2px 2px #000;
   filter: drop-shadow(0 0 2px #000);
-  height: 188px;
+  max-height: 188px;
   overflow-y: auto;
 }
 .weapon__details__stats__bottom::-webkit-scrollbar {

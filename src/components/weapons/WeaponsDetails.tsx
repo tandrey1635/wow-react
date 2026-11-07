@@ -17,15 +17,21 @@ const Weapons = ()=> {
 
 	const statsRef = useRef<HTMLDivElement>(null)
 	const descRef = useRef<HTMLDivElement>(null)
-    const [hasScroll, setHasScroll] = useState(false)
+    const [hasStatsScroll, setHasStatsScroll] = useState(false)
+	const [hasDescScroll, setHasDescScroll] = useState(false)
 
     useEffect(() => {
         const statsEl = statsRef.current
     	const descEl = descRef.current
 
-        if (statsEl && descEl) {
-            setHasScroll(statsEl.scrollHeight > statsEl.clientHeight || descEl.scrollHeight > descEl.clientHeight)
-        }
+        if (statsEl) {
+        	setHasStatsScroll(statsEl.scrollHeight > statsEl.clientHeight)
+    	}
+
+		if (descEl) {
+			setHasDescScroll(descEl.scrollHeight > descEl.clientHeight)
+		}
+
     }, [weaponDetails])
 
 	return (
@@ -180,7 +186,7 @@ const Weapons = ()=> {
 									weaponDetails.type == "legendary"
 										? "weapon__details__stats__bottom_legendary"
 										: ''
-								} ${hasScroll
+								} ${hasStatsScroll
 									? "weapon__details__stats__bottom_scroll"
 									: ''
 								} d-grid gap-2`}
@@ -279,7 +285,7 @@ const Weapons = ()=> {
 							weaponDetails.type == "legendary"
 								? "weapon__details__info_legendary"
 								: ''
-							} ${hasScroll ? "weapon__details__info_scroll" : ""} flex-grow-1 my-3`}
+							} ${hasDescScroll ? "weapon__details__info_scroll" : ""} flex-grow-1 my-3`}
 						>
 							<p className="weapon__details__descriptions">{weaponDetails.description}</p>
 						</div>

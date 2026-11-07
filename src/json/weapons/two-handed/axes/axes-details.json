@@ -191,6 +191,7 @@
 		"fraction": "Альянс",
 		"label": "Необычное",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Battleaxe-of-the-Sober-Dwarf.png",
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Battleaxe-of-the-Sober-Dwarf.glb",
 		"objectFit": true,
 		"title": "Боевой Топор Дворфа Трезвенника",
 		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью. Это небывальщина, дружище.",
@@ -200,67 +201,113 @@
 		"strength": "+22",
 		"stamina": "+24",
 		"speed": 3.6,
-		"price": 300
+		"price": 300,
+		"settings": {
+			"cameraPosition": [0, 0, 3],
+			"centerPosition": [0, -0.3, 0],
+			"minDistance": 2,
+			"maxDistance": 5
+		}
 	},
 
 	{
 		"id": "ShadowhideBattleAxe",
-		"type": "two-handed-weapons",
+		"type": "common",
 		"path": "",
 		"weaponType": "Двуручный Топор",
-		"label": "Эпический",
+		"label": "Необычное",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Shadowhide-Battle-Axe.png",
-		"objectFit": false,
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Shadowhide-Battle-Axe.glb",
+		"objectFit": true,
 		"title": "Боевой Топор Темношкуров",
-		"description": "Уровень предмета: 80 Становится персональным при надевании Двуручное Топор Урон: 4 - 10 Скорость 3.60 (13.3 ед. урона в секунду) +25 к силе +13 к выносливости Прочность: 85 / 85 Требуется 1-й ур. Цена продажи: 53 46 11 Добывается с: Воин из стаи Темношкуров Вероятность получения: 0.13%",
-		"dmg": 1000,
-		"speed": 2.6,
-		"price": 300
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"itemLvl": "80",
+		"damage": "4 - 10",
+		"dps":"(13.3 ед. урона в секунду)",
+		"strength": "+25",
+		"stamina": "+13",
+		"speed": 3.6,
+		"price": 300,
+		"settings": {
+			"cameraPosition": [0, 0, 3],
+			"centerPosition": [0, -0.3, 0],
+			"minDistance": 2,
+			"maxDistance": 5
+		}
 	},
 
 	{
 		"id": "PendulumOfDoom",
-		"type": "two-handed-weapons",
+		"type": "rare",
 		"path": "",
 		"weaponType": "Двуручный Топор",
-		"label": "Эпический",
+		"label": "Редкое",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Pendulum-of-Doom.png",
-		"objectFit": false,
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Pendulum-of-Doom.glb",
+		"objectFit": true,
 		"title": "Маятник Рока",
-		"description": "Уровень предмета: 19 Становится персональным при получении Двуручное Топор Урон: 14 - 30 Скорость 3.60 (0 ед. урона в секунду) +10 к силе +15 к выносливости +13 к критическому удару (0.28% на 120 ур.) Прочность: 100 / 100 Если на персонаже: Атаки в ближнем бою с некоторой вероятностью наносят 8675 ед. физического урона. Цена продажи: 11 62",
-		"dmg": 1000,
-		"speed": 2.6,
-		"price": 300
+		"description": "Возможный эффект при попадании: Нанесение смертельной раны с уроном в 340 ед.",
+		"itemLvl": "83",
+		"damage": "5 - 11",
+		"dps":"(13.8 ед. урона в секунду)",
+		"speed": 3.6,
+		"price": 300,
+		"settings": {
+			"cameraPosition": [0, 0, 3],
+			"centerPosition": [0, -0.3, 0],
+			"minDistance": 2,
+			"maxDistance": 5
+		}
 	},
 
 	{
 		"id": "Beastslayer",
-		"type": "two-handed-weapons",
+		"type": "common",
 		"path": "",
 		"weaponType": "Двуручный Топор",
-		"label": "Эпический",
+		"label": "Необычное",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Beastslayer.png",
-		"objectFit": false,
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Beastslayer.glb",
+		"objectFit": true,
 		"title": "Зверобой",
-		"description": "Уровень предмета: 13 Становится персональным при получении Двуручное Топор Урон: 5 - 12 Скорость 3.60 (2.4 ед. урона в секунду) Прочность: 85 / 85 Цена продажи: 62 14",
-		"dmg": 1000,
-		"speed": 2.6,
-		"price": 300
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"itemLvl": "13",
+		"damage": "5 - 12",
+		"dps":"(2.4 ед. урона в секунду)",
+		"speed": 3.6,
+		"price": 300,
+		"settings": {
+			"cameraPosition": [0, 0, 3],
+			"centerPosition": [0, -0.3, 0],
+			"minDistance": 2,
+			"maxDistance": 5
+		}
 	},
 
 	{
 		"id": "DwarvenCharge",
-		"type": "two-handed-weapons",
+		"type": "rare",
 		"path": "",
 		"weaponType": "Двуручный Топор",
-		"label": "Эпический",
+		"label": "Редкое",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Dwarven-Charge.png",
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Dwarven-Charge.glb",
 		"objectFit": false,
 		"title": "Дворфийский Натиск",
-		"description": "Уровень предмета: 12 Становится персональным при получении Двуручное Топор Урон: 5 - 11 Скорость 3.60 (2.2 ед. урона в секунду) +5 к силе +3 к выносливости Прочность: 100 / 100 Цена продажи: 21 7",
-		"dmg": 1000,
-		"speed": 2.6,
-		"price": 300
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"itemLvl": "12",
+		"damage": "5 - 11",
+		"dps":"(2.2 ед. урона в секунду)",
+		"strength": "+5",
+		"stamina": "+3",
+		"speed": 3.6,
+		"price": 300,
+		"settings": {
+			"cameraPosition": [0, 0, 3],
+			"centerPosition": [0, -0.3, 0],
+			"minDistance": 2,
+			"maxDistance": 5
+		}
 	},
 
 	{
