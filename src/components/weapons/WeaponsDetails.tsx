@@ -144,8 +144,7 @@ const Weapons = ()=> {
 							}
 						</div>
 
-
-						<div className="weapon__details__stats d-grid gap-3 mt-4">
+						<div className="weapon__details__stats d-grid gap-2 mt-2">
 							<div className={`weapon__details__stats__top ${
 								weaponDetails.type == "common"
 									? "weapon__details__stats__top_common"
@@ -158,19 +157,15 @@ const Weapons = ()=> {
 									:
 								weaponDetails.type == "legendary"
 									? "weapon__details__stats__top_legendary"
-									: ''} d-flex justify-content-between pb-2`}
+									: ''} d-grid gap-2 pb-2`}
 							>
-								<div className="weapon__details__stats__top__info">
-									Уровень предмета: {weaponDetails.itemLvl}
-								</div>
-
-								<div className="weapon__details__stats__top__info">
-									Урон: {weaponDetails.damage}
-								</div>
-
-								<div className="weapon__details__stats__top__info">
-									Скорость: {weaponDetails.speed}
-								</div>
+								{weaponDetails.stats?.general?.map(({value, name}, i)=> {
+									return (
+										<div className="weapon__details__stats__top__info">
+											{name} : {value}
+										</div>
+									)}
+								)}
 							</div>
 
 							<div ref={statsRef} className={`weapon__details__stats__bottom ${
@@ -191,85 +186,36 @@ const Weapons = ()=> {
 									: ''
 								} d-grid gap-2`}
 							>
-
-								<div className={`weapon__details__stats__bottom__info ${
-									weaponDetails.type == "common"
-										? "weapon__details__stats__bottom__info_common"
-										:
-									weaponDetails.type == "rare"
-										? "weapon__details__stats__bottom__info_rare"
-										:
-									weaponDetails.type == "epic"
-										? "weapon__details__stats__bottom__info_epic"
-										:
-									weaponDetails.type == "legendary"
-										? "weapon__details__stats__bottom__info_legendary"
-										: ''
-									}`}
-								>
-									{weaponDetails.dps}
-								</div>
-
-								{weaponDetails.strength &&
-									<div className={`weapon__details__stats__bottom__info ${
-										weaponDetails.type == "common"
-											? "weapon__details__stats__bottom__info_common"
-											:
-										weaponDetails.type == "rare"
-											? "weapon__details__stats__bottom__info_rare"
-											:
-										weaponDetails.type == "epic"
-											? "weapon__details__stats__bottom__info_epic"
-											:
-										weaponDetails.type == "legendary"
-											? "weapon__details__stats__bottom__info_legendary"
-											: ''
-										}`}
-									>
-										{weaponDetails.strength} к силе
-									</div>
-								}
-
-								{weaponDetails.agility &&
-									<div className={`weapon__details__stats__bottom__info ${
-										weaponDetails.type == "common"
-											? "weapon__details__stats__bottom__info_common"
-											:
-										weaponDetails.type == "rare"
-											? "weapon__details__stats__bottom__info_rare"
-											:
-										weaponDetails.type == "epic"
-											? "weapon__details__stats__bottom__info_epic"
-											:
-										weaponDetails.type == "legendary"
-											? "weapon__details__stats__bottom__info_legendary"
-											: ''
-										}`}
-									>
-										{weaponDetails.agility} к ловкости
-									</div>
-								}
-
-								{weaponDetails.stamina &&
-									<div className={`weapon__details__stats__bottom__info ${
-										weaponDetails.type == "common"
-											? "weapon__details__stats__bottom__info_common"
-											:
-										weaponDetails.type == "rare"
-											? "weapon__details__stats__bottom__info_rare"
-											:
-										weaponDetails.type == "epic"
-											? "weapon__details__stats__bottom__info_epic"
-											:
-										weaponDetails.type == "legendary"
-											? "weapon__details__stats__bottom__info_legendary"
-											: ''
-										}`}
-									>
-										{weaponDetails.stamina} к выносливости
-									</div>
-								}
+								{weaponDetails.stats?.main?.map(({value, name}, i)=> {
+									return (
+										<div key={i} className={`weapon__details__stats__bottom__info ${
+											weaponDetails.type == "common"
+												? "weapon__details__stats__bottom__info_common"
+												:
+											weaponDetails.type == "rare"
+												? "weapon__details__stats__bottom__info_rare"
+												:
+											weaponDetails.type == "epic"
+												? "weapon__details__stats__bottom__info_epic"
+												:
+											weaponDetails.type == "legendary"
+												? "weapon__details__stats__bottom__info_legendary"
+												: ''
+											}`}
+										>
+											{value} {name}
+										</div>
+									)}
+								)}
 							</div>
+
+							{weaponDetails.stats?.secondary?.map(({value, name}, i)=> {
+							return (
+								<div key={i} className="weapon__details__stats__secondary">
+									{value} {name}
+								</div>
+							)}
+						)}
 						</div>
 
 						<div ref={descRef} className={`weapon__details__info ${

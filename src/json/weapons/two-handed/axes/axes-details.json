@@ -10,12 +10,24 @@
 		"objectFit": true,
 		"title": "Бритвенно Острый Топор",
 		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью. Требуется 23 уровень.",
-		"itemLvl": "13",
-		"damage": "5 - 12",
-		"dps":"(2.4 ед. урона в секунду)",
-		"strength": "+3",
-		"stamina": "+5",
-		"speed": 3.6,
+		"dps": "",
+		"stats": {
+			"general": [
+				{"value": "13", "name": "Уровень предмета"},
+				{"value": "5 - 12 (2.4 ед. урона в секунду)", "name": "Урон"},
+				{"value": 3.6, "name": "Скорость"}
+			],
+			"main": [
+				{"value": "+3", "name": "к силе"},
+				{"value": "+0", "name": "к ловкости"},
+				{"value": "+0", "name": "к интеллекту"},
+				{"value": "+5", "name": "к выносливости"}
+			],
+			"secondary": [
+				{"value": "+5", "name": "к скорости"},
+				{"value": "+3", "name": "к криту"}
+			]
+		},
 		"price": 300
 	},
 
@@ -133,54 +145,77 @@
 		"type": "epic",
 		"path": "",
 		"weaponType": "Двуручный Топор",
-		"label": "Эпический",
+		"label": "Эпическое",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Wallwatchers-Poleaxe.png",
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Wallwatchers-Poleaxe.glb",
 		"objectFit": true,
 		"title": "Алебарда Стражника Стены",
-		"description": "Уровень предмета: 11 Становится персональным при получении Двуручное Топор Урон: 4 - 10 Скорость 3.60 (1.9 ед. урона в секунду) +28 к силе +28 к ловкости +38 к интеллекту Требуемый уровень: 10 - 80 [(80)]",
-		"itemLvl": "13",
-		"damage": "5 - 12",
-		"dps":"(2.4 ед. урона в секунду)",
-		"strength": "+3",
-		"stamina": "+5",
-		"agility": "+5",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью. Требуется 10 уровень.",
+		"itemLvl": "11",
+		"damage": "4 - 10",
+		"dps":"(1.9 ед. урона в секунду)",
+		"strength": "+28",
+		"agility": "+28",
+		"intellect": "+38",
+		"stamina": "+12",
 		"speed": 3.6,
-		"price": 300
+		"price": 300,
+		"settings": {
+			"cameraPosition": [0, 0, 5],
+			"centerPosition": [0, -0.1, 0]
+		}
 	},
 
 	{
 		"id": "WallwatchersGreataxe",
-		"type": "two-handed-weapons",
+		"type": "epic",
 		"path": "",
 		"weaponType": "Двуручный Топор",
-		"label": "Эпический",
+		"label": "Эпическое",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Wallwatchers-Greataxe.png",
-		"objectFit": false,
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Wallwatchers-Greataxe.glb",
+		"objectFit": true,
 		"title": "Большой Топор Стражника Стены",
-		"description": "Уровень предмета: 11 Становится персональным при получении Двуручное Топор Урон: 4 - 10 Скорость 3.60 (1.9 ед. урона в секунду) +28 к силе +28 к ловкости +38 к интеллекту +12 Выносливость Требуемый уровень: 10 - 0 [(0)]",
-		"itemLvl": "13",
-		"damage": "5 - 12",
-		"dps":"(2.4 ед. урона в секунду)",
-		"strength": "+3",
-		"agility": "+4",
-		"stamina": "+3",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью. Требуется 10 уровень.",
+		"itemLvl": "11",
+		"damage": "4 - 10",
+		"dps":"(1.9 ед. урона в секунду)",
+		"strength": "+28",
+		"agility": "+28",
+		"intellect": "+38",
+		"stamina": "+12",
 		"speed": 3.6,
-		"price": 300
+		"price": 300,
+		"settings": {
+			"cameraPosition": [0, 0, 5],
+			"centerPosition": [0, -0.1, 0]
+		}
 	},
 
 	{
 		"id": "WallwatchersLongaxe",
-		"type": "two-handed-weapons",
+		"type": "epic",
 		"path": "",
 		"weaponType": "Двуручный Топор",
-		"label": "Эпический",
+		"label": "Эпическое",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Wallwatchers-Longaxe.png",
-		"objectFit": false,
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Wallwatchers-Longaxe.glb",
+		"objectFit": true,
 		"title": "Секира Стражника Стены",
-		"description": "Уровень предмета: 11 Становится персональным при получении Двуручное Топор Урон: 4 - 10 Скорость 3.60 (1.9 ед. урона в секунду) +28 к силе +28 к ловкости +38 к интеллекту Требуемый уровень: 10 - 70 [(70)]",
-		"dmg": 1000,
-		"speed": 2.6,
-		"price": 300
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью. Требуется 10 уровень.",
+		"itemLvl": "11",
+		"damage": "4 - 10",
+		"dps":"(1.9 ед. урона в секунду)",
+		"strength": "+28",
+		"agility": "+28",
+		"intellect": "+38",
+		"stamina": "+12",
+		"speed": 3.6,
+		"price": 300,
+		"settings": {
+			"cameraPosition": [0, 0, 5],
+			"centerPosition": [0, -0.1, 0]
+		}
 	},
 
 	{
@@ -312,61 +347,89 @@
 
 	{
 		"id": "Ravager",
-		"type": "two-handed-weapons",
+		"type": "rare",
 		"path": "",
 		"weaponType": "Двуручный Топор",
-		"label": "Эпический",
+		"label": "Редкое",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Ravager.png",
-		"objectFit": false,
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Ravager.glb",
+		"objectFit": true,
 		"title": "Опустошитель",
-		"description": "Уровень предмета: 12 Становится персональным при получении Двуручное Топор Урон: 5 - 11 Скорость 3.60 (2.2 ед. урона в секунду) Прочность: 100 / 100 Возможный эффект при попадании: В течение 9 сек. вы раз в 3 сек. атакуете всех окружающих противников, нанося базовый урон оружия и дополнительно 1 ед. урона. Требуется 14-й ур. Цена продажи: 16 81 Добывается с: Ирод Вероятность получения: 24.29%",
-		"dmg": 1000,
-		"speed": 2.6,
-		"price": 300
+		"description": "Возможный эффект при попадании: В течение 9 секунд вы раз в 3 секунды атакуете всех окружающих противников, нанося базовый урон оружия и дополнительно 1 ед. урона. Требуется 14 уровень.",
+		"itemLvl": "12",
+		"damage": "5 - 11",
+		"dps":"(2.4 ед. урона в секунду)",
+		"speed": 3.6,
+		"price": 300,
+		"settings": {
+			"cameraPosition": [0, 0, 4.8],
+			"centerPosition": [-0.1, -0.55, 0]
+		}
 	},
 
 	{
 		"id": "KangTheDecapitator",
-		"type": "two-handed-weapons",
+		"type": "epic",
 		"path": "",
 		"weaponType": "Двуручный Топор",
 		"label": "Эпический",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Kang-the-Decapitator.png",
-		"objectFit": false,
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Kang-the-Decapitator.glb",
+		"objectFit": true,
 		"title": "Канг Обезглавливатель",
-		"description": "Уровень предмета: 13 Становится персональным при надевании Двуручное Топор Урон: 5 - 12 Скорость 3.60 (2.4 ед. урона в секунду) Прочность: 120 / 120 Возможный эффект при попадании: Наносит противнику кровоточащую рану, из-за которой он потеряет 18 ед. здоровья в течение 30 сек. Требуется 19-й ур. Цена продажи: 1 16",
-		"dmg": 1000,
-		"speed": 2.6,
-		"price": 300
+		"description": "Возможный эффект при попадании: Наносит противнику кровоточащую рану, из-за которой он потеряет 18 ед. здоровья в течение 30 секунд. Требуется 19 уровень.",
+		"itemLvl": "13",
+		"damage": "5 - 12",
+		"dps":"(2.4 ед. урона в секунду)",
+		"speed": 3.6,
+		"price": 300,
+		"settings": {
+			"cameraPosition": [0, 0, 4.8],
+			"centerPosition": [-0.1, -0.55, 0]
+		}
 	},
 
 	{
 		"id": "DarkIronSunderer",
-		"type": "two-handed-weapons",
+		"type": "rare",
 		"path": "",
 		"weaponType": "Двуручный Топор",
-		"label": "Эпический",
+		"label": "Редкое",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Dark-Iron-Sunderer.png",
-		"objectFit": false,
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Dark-Iron-Sunderer.glb",
+		"objectFit": true,
 		"title": "Рассекатель из Черного Железа",
-		"description": "Уровень предмета: 13 Становится персональным при надевании Двуручное Топор Урон: 5 - 12 Скорость 3.60 (2.4 ед. урона в секунду) Прочность: 100 / 100 Возможный эффект при попадании: Ослабление брони целей на 112 ед. на 20 сек. Требуется 22-й ур. Цена продажи: 69 2",
-		"dmg": 1000,
-		"speed": 2.6,
-		"price": 300
+		"description": "Возможный эффект при попадании: Ослабление брони целей на 112 ед. на 20 секунд. Требуется 22 уровень.",
+		"itemLvl": "13",
+		"damage": "5 - 12",
+		"dps":"(2.4 ед. урона в секунду)",
+		"speed": 3.6,
+		"price": 300,
+		"settings": {
+			"cameraPosition": [0, 0, 4.8],
+			"centerPosition": [-0.1, -0.55, 0]
+		}
 	},
 
 	{
 		"id": "LimbCleaver",
-		"type": "two-handed-weapons",
+		"type": "rare",
 		"path": "",
 		"weaponType": "Двуручный Топор",
-		"label": "Эпический",
+		"label": "Редкое",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Limb-Cleaver.png",
-		"objectFit": false,
+		"objectFit": true,
 		"title": "Расчленитель",
-		"description": "Уровень предмета: 13 Становится персональным при получении Двуручное Топор Урон: 5 - 12 Скорость 3.60 (2.4 ед. урона в секунду) +5 к силе +2 к выносливости +3 к скорости (0.07% на 90 ур.) Прочность: 100 / 100 Цена продажи: 74 58",
-		"dmg": 1000,
-		"speed": 2.6,
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"itemLvl": "13",
+		"damage": "5 - 12",
+		"dps":"(2.4 ед. урона в секунду)",
+		"strength": "+5",
+		"stamina": "+2",
+		"stats": {
+			"haste": "+3"
+		},
+		"speed": 3.6,
 		"price": 300
 	},
 
