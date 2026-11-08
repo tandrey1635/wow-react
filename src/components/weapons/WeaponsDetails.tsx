@@ -232,7 +232,7 @@ const Weapons = ()=> {
 							</div>
 						</div>
 
-						{weaponDetails.stats.secondary &&
+						{weaponDetails.stats?.secondary &&
 							<div className={`weapon__details__stats__bottom weapon__details__stats__bottom_secondary ${
 								weaponDetails.type == "common"
 									? "weapon__details__stats__bottom_secondary_common"

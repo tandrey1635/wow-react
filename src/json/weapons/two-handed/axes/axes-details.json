@@ -360,7 +360,6 @@
 		"objectFit": true,
 		"title": "Зверобой",
 		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
-		"speed": 3.6,
 		"stats": {
 			"general": [
 				{"value": "13", "name": "Уровень предмета"},
@@ -807,62 +806,134 @@
 
 	{
 		"id": "GrandMarshalsDecapitator",
-		"type": "two-handed-weapons",
+		"type": "rare",
 		"path": "",
 		"weaponType": "Двуручный Топор",
-		"label": "Эпический",
+		"fraction": "Альянс",
+		"label": "Редкое",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Grand-Marshals-Decapitator.png",
-		"objectFit": false,
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Grand-Marshals-Decapitator.glb",
+		"objectFit": true,
 		"title": "Лабрисса Главнокомандующего",
-		"description": "Фракция: Альянс Уровень предмета: 14 Становится персональным при получении Двуручное Топор Урон: 6 - 13 Скорость 3.60 (2.6 ед. урона в секунду) +3 к силе +5 к выносливости +5 к критическому удару (0.11% на 90 ур.) +3 к скорости (0.07% на 90 ур.) +3 к универсальности (0.06% на 90 ур.) Требуется 27-й ур. Цена продажи: 1 21 51",
-		"dmg": 1000,
-		"speed": 2.6,
-		"price": 300
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"stats": {
+			"general": [
+				{"value": "14", "name": "Уровень предмета"},
+				{"value": "6 - 13 (2.6 ед. урона в секунду)", "name": "Урон"},
+				{"value": 27, "name": "Требуется уровень"},
+				{"value": 3.6, "name": "Скорость"}
+			],
+			"main": [
+				{"value": "+3", "name": "к силе"},
+				{"value": "+5", "name": "к выносливости"}
+			],
+			"secondary": [
+				{"value": "+5", "name": "к критическому удару"},
+				{"value": "+3", "name": "к скорости"},
+				{"value": "+3", "name": "к универсальности"}
+			]
+		},
+		"price": 300,
+		"settings": {
+			"cameraPosition": [0, 0, 3.25],
+			"centerPosition": [0, -0.28, 0]
+		}
 	},
 
 	{
 		"id": "SpikedBattleAxe",
-		"type": "two-handed-weapons",
+		"type": "common",
 		"path": "",
 		"weaponType": "Двуручный Топор",
-		"label": "Эпический",
+		"label": "Необычное",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Spiked-Battle-Axe.png",
-		"objectFit": false,
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Spiked-Battle-Axe.glb",
+		"objectFit": true,
 		"title": "Шипастый Боевой Топор",
-		"description": "Уровень предмета: 14 Становится персональным при надевании Двуручное Топор Урон: 6 - 13 Скорость 3.60 (2.6 ед. урона в секунду) +4 к силе +6 к выносливости Прочность: 85 / 85 Требуется 25-й ур. Цена продажи: 1 9",
-		"dmg": 1000,
-		"speed": 2.6,
-		"price": 300
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"stats": {
+			"general": [
+				{"value": "14", "name": "Уровень предмета"},
+				{"value": "6 - 13 (2.6 ед. урона в секунду)", "name": "Урон"},
+				{"value": 25, "name": "Требуется уровень"},
+				{"value": 3.6, "name": "Скорость"}
+			],
+			"main": [
+				{"value": "+4", "name": "к силе"},
+				{"value": "+6", "name": "к выносливости"}
+			]
+		},
+		"price": 300,
+		"settings": {
+			"cameraPosition": [0, 0, 4.32],
+			"centerPosition": [0, -0.52, 0]
+		}
 	},
 
 	{
 		"id": "GrandMarshalsSunderer",
-		"type": "two-handed-weapons",
+		"type": "epic",
 		"path": "",
 		"weaponType": "Двуручный Топор",
-		"label": "Эпический",
+		"fraction": "Альянс",
+		"label": "Эпическое",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Grand-Marshals-Sunderer.png",
-		"objectFit": false,
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Grand-Marshals-Sunderer.glb",
+		"objectFit": true,
 		"title": "Рассекатель Главнокомандующего",
-		"description": "Фракция: Альянс Уровень предмета: 44 Становится персональным при получении Двуручное Топор Урон: 5 - 12 Скорость 3.60 (6.7 ед. урона в секунду) +8 к силе +13 к выносливости +6 к критическому удару (0.13% на 90 ур.) Прочность: 120 / 120 Требуется 30-й ур. Цена продажи: 4 60 12",
-		"dmg": 1000,
-		"speed": 2.6,
-		"price": 300
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"stats": {
+			"general": [
+				{"value": "15", "name": "Уровень предмета"},
+				{"value": "5 - 12 (2.4 ед. урона в секунду)", "name": "Урон"},
+				{"value": 28, "name": "Требуется уровень"},
+				{"value": 3.6, "name": "Скорость"}
+			],
+			"main": [
+				{"value": "+3", "name": "к силе"},
+				{"value": "+5", "name": "к выносливости"}
+			],
+			"secondary": [
+				{"value": "+4", "name": "к критическому удару"}
+			]
+		},
+		"price": 300,
+		"settings": {
+			"cameraPosition": [0, 0, 4.32],
+			"centerPosition": [0, -0.52, 0]
+		}
 	},
 
 	{
 		"id": "FelsteelReaper",
-		"type": "two-handed-weapons",
+		"type": "epic",
 		"path": "",
 		"weaponType": "Двуручный Топор",
-		"label": "Эпический",
+		"label": "Эпическое",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Felsteel-Reaper.png",
-		"objectFit": false,
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Felsteel-Reaper.glb",
+		"objectFit": true,
 		"title": "Жнец из Оскверненной Стали",
-		"description": "Уровень предмета: 14 Становится персональным при надевании Двуручное Топор Урон: 6 - 13 Скорость 3.60 (2.6 ед. урона в секунду) +4 к силе +5 к критическому удару (0.11% на 90 ур.) Прочность: 120 / 120 Требуется 27-й ур. Цена продажи: 1 38 71",
-		"dmg": 1000,
-		"speed": 2.6,
-		"price": 300
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"stats": {
+			"general": [
+				{"value": "14", "name": "Уровень предмета"},
+				{"value": "6 - 13 (2.6 ед. урона в секунду)", "name": "Урон"},
+				{"value": 27, "name": "Требуется уровень"},
+				{"value": 3.6, "name": "Скорость"}
+			],
+			"main": [
+				{"value": "+4", "name": "к силе"}
+			],
+			"secondary": [
+				{"value": "+5", "name": "к критическому удару"}
+			]
+		},
+		"price": 300,
+		"settings": {
+			"cameraPosition": [0, 0, 4.32],
+			"centerPosition": [0, -0.52, 0]
+		}
 	},
 
 	{
