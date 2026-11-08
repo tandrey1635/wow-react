@@ -17,6 +17,10 @@
 			background: $epicBg
 			border: 2px solid $epicBorder
 			box-shadow: 0 10px 40px $epicShadow
+		&_heirloom
+			background: $heirloomBg
+			border: 2px solid $heirloomBorder
+			box-shadow: 0 10px 40px $heirloomShadow
 		&_legendary
 			background: $legendaryBg
 			border: 2px solid $legendaryBorder
@@ -31,6 +35,8 @@
 			border-right: 2px solid $rareBorder
 		&_epic
 			border-right: 2px solid $epicBorder
+		&_heirloom
+			border-right: 2px solid $heirloomBorder
 		&_legendary
 			border-right: 2px solid $legendaryBorder
 	&__label
@@ -52,6 +58,8 @@
 			color: $rareColor
 		&_epic
 			color: $epicColor
+		&_heirloom
+			color: $heirloomColor
 		&_legendary
 			color: $legendaryColor
 	&__img
@@ -77,6 +85,8 @@
 			color: $rareColor
 		&_epic
 			color: $epicColor
+		&_heirloom
+			color: $heirloomColor
 		&_legendary
 			color: $legendaryColor
 	&__text
@@ -108,6 +118,8 @@
 				border-bottom: 2px solid $rareBorder
 			&_epic
 				border-bottom: 2px solid $epicBorder
+			&_heirloom
+				border-bottom: 2px solid $heirloomBorder
 			&_legendary
 				border-bottom: 2px solid $legendaryBorder
 		&__bottom
@@ -134,6 +146,9 @@
 			&_epic
 				&::-webkit-scrollbar
 					background: $epicBg
+			&_heirloom
+				&::-webkit-scrollbar
+					background: $heirloomBg
 			&_legendary
 				&::-webkit-scrollbar
 					background: $legendaryBg
@@ -152,15 +167,34 @@
 					border: 2px solid $rareBorder
 				&_epic
 					border: 2px solid $epicBorder
+				&_heirloom
+					border: 2px solid $heirloomBorder
 				&_legendary
 					border: 2px solid $legendaryBorder
-		&__secondary
+			&_secondary
+				max-height: 65px
+				&_common
+					&::-webkit-scrollbar
+						background: $commonBg
+				&_rare
+					&::-webkit-scrollbar
+						background: $rareBg
+				&_epic
+					&::-webkit-scrollbar
+						background: $epicBg
+				&_heirloom
+					&::-webkit-scrollbar
+						background: $heirloomBg
+				&_legendary
+					&::-webkit-scrollbar
+						background: $legendaryBg
+		&__secondary, &__third
 			padding: 2px 10px
 			font-size: 18px
 			font-weight: 700
 			color: $weaponSecondaryStatsColor
-			text-shadow: 2px 2px 2px $defaultShadow
-			filter: drop-shadow(0 0 2px $defaultShadow)
+		&__third
+			color: $textColor
 	&__info
 		height: 188px
 		overflow-y: auto
@@ -183,6 +217,9 @@
 		&_epic
 			&::-webkit-scrollbar
 				background: $epicBg
+		&_heirloom
+			&::-webkit-scrollbar
+				background: $heirloomBg
 		&_legendary
 			&::-webkit-scrollbar
 				background: $legendaryBg

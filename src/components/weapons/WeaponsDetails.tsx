@@ -59,6 +59,9 @@ const Weapons = ()=> {
 					weaponDetails.type == "epic"
 						? "weapon__details__wrapper_epic"
 						:
+					weaponDetails.type == "heirloom"
+						? "weapon__details__wrapper_heirloom"
+						:
 					weaponDetails.type == "legendary"
 						? "weapon__details__wrapper_legendary"
 						: ''}
@@ -73,6 +76,9 @@ const Weapons = ()=> {
 							:
 						weaponDetails.type == "epic"
 							? "weapon__details__left_epic"
+							:
+						weaponDetails.type == "heirloom"
+							? "weapon__details__left_heirloom"
 							:
 						weaponDetails.type == "legendary"
 							? "weapon__details__left_legendary"
@@ -101,6 +107,9 @@ const Weapons = ()=> {
 								weaponDetails.type == "epic"
 									? "weapon__details__label_epic"
 									:
+								weaponDetails.type == "heirloom"
+									? "weapon__details__label_heirloom"
+									:
 								weaponDetails.type == "legendary"
 									? "weapon__details__label_legendary"
 									: ''} text-center`}
@@ -120,6 +129,9 @@ const Weapons = ()=> {
 								:
 							weaponDetails.type == "epic"
 								? "weapon__details__title_epic"
+								:
+							weaponDetails.type == "heirloom"
+								? "weapon__details__title_heirloom"
 								:
 							weaponDetails.type == "legendary"
 								? "weapon__details__title_legendary"
@@ -155,6 +167,9 @@ const Weapons = ()=> {
 								weaponDetails.type == "epic"
 									? "weapon__details__stats__top_epic"
 									:
+								weaponDetails.type == "heirloom"
+									? "weapon__details__stats__top_heirloom"
+									:
 								weaponDetails.type == "legendary"
 									? "weapon__details__stats__top_legendary"
 									: ''} d-grid gap-2 pb-2`}
@@ -162,7 +177,8 @@ const Weapons = ()=> {
 								{weaponDetails.stats?.general?.map(({value, name}, i)=> {
 									return (
 										<div key={i} className="weapon__details__stats__top__info">
-											{name} : {value}
+											{name && value ? (`${name} : ${value}`) : name}
+
 										</div>
 									)}
 								)}
@@ -177,6 +193,9 @@ const Weapons = ()=> {
 										:
 									weaponDetails.type == "epic"
 										? "weapon__details__stats__bottom_epic"
+										:
+									weaponDetails.type == "heirloom"
+										? "weapon__details__stats__bottom_heirloom"
 										:
 									weaponDetails.type == "legendary"
 										? "weapon__details__stats__bottom_legendary"
@@ -198,6 +217,9 @@ const Weapons = ()=> {
 											weaponDetails.type == "epic"
 												? "weapon__details__stats__bottom__info_epic"
 												:
+											weaponDetails.type == "heirloom"
+												? "weapon__details__stats__bottom__info_heirloom"
+												:
 											weaponDetails.type == "legendary"
 												? "weapon__details__stats__bottom__info_legendary"
 												: ''
@@ -208,15 +230,43 @@ const Weapons = ()=> {
 									)}
 								)}
 							</div>
-
-							{weaponDetails.stats?.secondary?.map(({value, name}, i)=> {
-								return (
-									<div key={i} className="weapon__details__stats__secondary">
-										{value} {name}
-									</div>
-								)}
-							)}
 						</div>
+
+						{weaponDetails.stats.secondary &&
+							<div className={`weapon__details__stats__bottom weapon__details__stats__bottom_secondary ${
+								weaponDetails.type == "common"
+									? "weapon__details__stats__bottom_secondary_common"
+									:
+								weaponDetails.type == "rare"
+									? "weapon__details__stats__bottom_secondary_rare"
+									:
+								weaponDetails.type == "epic"
+									? "weapon__details__stats__bottom_secondary_epic"
+									:
+								weaponDetails.type == "heirloom"
+									? "weapon__details__stats__bottom_secondary_heirloom"
+									:
+								weaponDetails.type == "legendary"
+									? "weapon__details__stats__bottom_secondary_legendary"
+									: ''
+								} my-3`}
+							>
+								{weaponDetails.stats?.secondary?.map(({value, name}, i)=> {
+									return (
+										<div key={i} className="weapon__details__stats__secondary">
+											{value} {name}
+										</div>
+									)}
+								)}
+								{weaponDetails.stats?.third?.map(({value, name}, i)=> {
+									return (
+										<div key={i} className="weapon__details__stats__third">
+											{value} {name}
+										</div>
+									)}
+								)}
+							</div>
+						}
 
 						<div ref={descRef} className={`weapon__details__info ${
 							weaponDetails.type == "common"
@@ -228,18 +278,18 @@ const Weapons = ()=> {
 							weaponDetails.type == "epic"
 								? "weapon__details__info_epic"
 								:
+							weaponDetails.type == "heirloom"
+								? "weapon__details__info_heirloom"
+								:
 							weaponDetails.type == "legendary"
 								? "weapon__details__info_legendary"
 								: ''
 							} ${hasDescScroll ? "weapon__details__info_scroll" : ""} flex-grow-1 my-3`}
 						>
 
-							{weaponDetails.effect && <p className="weapon__details__descriptions weapon__details__descriptions_effect">{weaponDetails.effect}</p>}
-							
+							{weaponDetails.effect && <p className="weapon__details__descriptions weapon__details__descriptions_effect mb-3">{weaponDetails.effect}</p>}
+
 							{weaponDetails.description && <p className="weapon__details__descriptions">{weaponDetails.description}</p>}
-
-
-							{weaponDetails.unicalDescription && <p className="weapon__details__descriptions">{weaponDetails.unicalDescription}</p>}
 						</div>
 
 						<div className="weapon__details__price">
