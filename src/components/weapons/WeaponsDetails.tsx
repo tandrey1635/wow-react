@@ -161,7 +161,7 @@ const Weapons = ()=> {
 							>
 								{weaponDetails.stats?.general?.map(({value, name}, i)=> {
 									return (
-										<div className="weapon__details__stats__top__info">
+										<div key={i} className="weapon__details__stats__top__info">
 											{name} : {value}
 										</div>
 									)}
@@ -210,12 +210,12 @@ const Weapons = ()=> {
 							</div>
 
 							{weaponDetails.stats?.secondary?.map(({value, name}, i)=> {
-							return (
-								<div key={i} className="weapon__details__stats__secondary">
-									{value} {name}
-								</div>
+								return (
+									<div key={i} className="weapon__details__stats__secondary">
+										{value} {name}
+									</div>
+								)}
 							)}
-						)}
 						</div>
 
 						<div ref={descRef} className={`weapon__details__info ${
@@ -233,7 +233,13 @@ const Weapons = ()=> {
 								: ''
 							} ${hasDescScroll ? "weapon__details__info_scroll" : ""} flex-grow-1 my-3`}
 						>
-							<p className="weapon__details__descriptions">{weaponDetails.description}</p>
+
+							{weaponDetails.effect && <p className="weapon__details__descriptions weapon__details__descriptions_effect">{weaponDetails.effect}</p>}
+							
+							{weaponDetails.description && <p className="weapon__details__descriptions">{weaponDetails.description}</p>}
+
+
+							{weaponDetails.unicalDescription && <p className="weapon__details__descriptions">{weaponDetails.unicalDescription}</p>}
 						</div>
 
 						<div className="weapon__details__price">

@@ -814,7 +814,7 @@ footer {
 .weapon__details__stats__top__info:nth-of-type(2) {
   grid-row: 2;
 }
-.weapon__details__stats__top__info:last-of-type {
+.weapon__details__stats__top__info:nth-of-type(3), .weapon__details__stats__top__info:last-of-type {
   justify-self: flex-end;
 }
 .weapon__details__stats__top_common {
@@ -886,10 +886,7 @@ footer {
   padding: 2px 10px;
   font-size: 18px;
   font-weight: 700;
-  background: linear-gradient(325deg, #000, transparent 30%, transparent 35%, #000, transparent);
   color: #7bed09;
-  border: 2px solid #7bed09;
-  border-radius: 10px;
   text-shadow: 2px 2px 2px #000;
   filter: drop-shadow(0 0 2px #000);
 }
@@ -928,6 +925,9 @@ footer {
   color: #ffc107;
   text-shadow: 2px 2px 2px #000;
   filter: drop-shadow(0 0 2px #000);
+}
+.weapon__details__descriptions_effect {
+  color: #7bed09;
 }
 .weapon__details__price {
   font-size: 32px;
