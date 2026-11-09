@@ -7,7 +7,7 @@
 		"label": "Необычное",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Razor-Axe.png",
 		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Razor-Axe.glb",
-		"objectFit": true,
+		"objectFit": false,
 		"title": "Бритвенно Острый Топор",
 		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
 		"stats": {
@@ -33,7 +33,7 @@
 		"label": "Редкое",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Blackrock-Slicer.png",
 		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Blackrock-Slicer.glb",
-		"objectFit": true,
+		"objectFit": false,
 		"title": "Тесак Черной Горы",
 		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
 		"stats": {
@@ -56,7 +56,7 @@
 		"label": "Редкое",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Blackrock-Slicer-recolor.png",
 		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Blackrock-Slicer-recolor.glb",
-		"objectFit": true,
+		"objectFit": false,
 		"title": "Ломтерезка Черной Скалы",
 		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
 		"stats": {
@@ -79,7 +79,7 @@
 		"label": "Необычное",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Colossal-Great-Axe.png",
 		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Colossal-Great-Axe.glb",
-		"objectFit": true,
+		"objectFit": false,
 		"title": "Колоссальный Топор",
 		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
 		"stats": {
@@ -109,7 +109,7 @@
 		"label": "Необычное",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Gigantic-War-Axe.png",
 		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Gigantic-War-Axe.glb",
-		"objectFit": true,
+		"objectFit": false,
 		"title": "Гигантская Секира",
 		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
 		"stats": {
@@ -139,7 +139,7 @@
 		"label": "Редкое",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Lord-Alexanders-Battle-Axe.png",
 		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Lord-Alexanders-Battle-Axe.glb",
-		"objectFit": true,
+		"objectFit": false,
 		"title": "Боевой Топор Лорда Александра",
 		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
 		"stats": {
@@ -170,7 +170,7 @@
 		"label": "Эпическое",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Wallwatchers-Poleaxe.png",
 		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Wallwatchers-Poleaxe.glb",
-		"objectFit": true,
+		"objectFit": false,
 		"title": "Алебарда Стражника Стены",
 		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
 		"stats": {
@@ -202,7 +202,7 @@
 		"label": "Эпическое",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Wallwatchers-Greataxe.png",
 		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Wallwatchers-Greataxe.glb",
-		"objectFit": true,
+		"objectFit": false,
 		"title": "Большой Топор Стражника Стены",
 		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
 		"stats": {
@@ -234,7 +234,7 @@
 		"label": "Эпическое",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Wallwatchers-Longaxe.png",
 		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Wallwatchers-Longaxe.glb",
-		"objectFit": true,
+		"objectFit": false,
 		"title": "Секира Стражника Стены",
 		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
 		"stats": {
@@ -267,7 +267,7 @@
 		"label": "Необычное",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Battleaxe-of-the-Sober-Dwarf.png",
 		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Battleaxe-of-the-Sober-Dwarf.glb",
-		"objectFit": true,
+		"objectFit": false,
 		"title": "Боевой Топор Дворфа Трезвенника",
 		"description": "Это небывальщина, дружище.",
 		"stats": {
@@ -298,7 +298,7 @@
 		"label": "Необычное",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Shadowhide-Battle-Axe.png",
 		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Shadowhide-Battle-Axe.glb",
-		"objectFit": true,
+		"objectFit": false,
 		"title": "Боевой Топор Темношкуров",
 		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
 		"stats": {
@@ -329,7 +329,7 @@
 		"label": "Редкое",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Pendulum-of-Doom.png",
 		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Pendulum-of-Doom.glb",
-		"objectFit": true,
+		"objectFit": false,
 		"title": "Маятник Рока",
 		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
 		"stats": {
@@ -357,7 +357,7 @@
 		"label": "Необычное",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Beastslayer.png",
 		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Beastslayer.glb",
-		"objectFit": true,
+		"objectFit": false,
 		"title": "Зверобой",
 		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
 		"stats": {
@@ -415,7 +415,7 @@
 		"label": "Редкое",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Ravager.png",
 		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Ravager.glb",
-		"objectFit": true,
+		"objectFit": false,
 		"title": "Опустошитель",
 		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
 		"stats": {
@@ -442,7 +442,7 @@
 		"label": "Эпический",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Kang-the-Decapitator.png",
 		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Kang-the-Decapitator.glb",
-		"objectFit": true,
+		"objectFit": false,
 		"title": "Канг Обезглавливатель",
 		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
 		"stats": {
@@ -469,7 +469,7 @@
 		"label": "Редкое",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Dark-Iron-Sunderer.png",
 		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Dark-Iron-Sunderer.glb",
-		"objectFit": true,
+		"objectFit": false,
 		"title": "Рассекатель из Черного Железа",
 		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
 		"stats": {
@@ -496,7 +496,7 @@
 		"label": "Редкое",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Limb-Cleaver.png",
 		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Limb-Cleaver.glb",
-		"objectFit": true,
+		"objectFit": false,
 		"title": "Расчленитель",
 		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
 		"stats": {
@@ -528,7 +528,7 @@
 		"label": "Редкое",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Executioners-Cleaver.png",
 		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Executioners-Cleaver.glb",
-		"objectFit": true,
+		"objectFit": false,
 		"title": "Колун Палача",
 		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
 		"stats": {
@@ -560,7 +560,7 @@
 		"label": "Редкое",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Bleakwood-Hew.png",
 		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Bleakwood-Hew.glb",
-		"objectFit": true,
+		"objectFit": false,
 		"title": "Мрачнолесская Секира",
 		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
 		"stats": {
@@ -590,7 +590,7 @@
 		"label": "Редкое",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Hellslayer-Battle-Axe.png",
 		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Hellslayer-Battle-Axe.glb",
-		"objectFit": true,
+		"objectFit": false,
 		"title": "Боевой Топор Рубаки",
 		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
 		"stats": {
@@ -620,7 +620,7 @@
 		"label": "Редкое",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Whirlwind-Axe.png",
 		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Whirlwind-Axe.glb",
-		"objectFit": true,
+		"objectFit": false,
 		"title": "Топор Вихря",
 		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
 		"stats": {
@@ -649,7 +649,7 @@
 		"label": "Эпическое",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Spinal-Reaper.png",
 		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Spinal-Reaper.glb",
-		"objectFit": true,
+		"objectFit": false,
 		"title": "Хребтистый Жнец",
 		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
 		"stats": {
@@ -679,7 +679,7 @@
 		"label": "Редкое",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Arcanite-Reaper.png",
 		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Arcanite-Reaper.glb",
-		"objectFit": true,
+		"objectFit": false,
 		"title": "Арканитовый Жнец",
 		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
 		"stats": {
@@ -709,7 +709,7 @@
 		"label": "Эпическое",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Arcanite-Reaper-second.png",
 		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Arcanite-Reaper-second.glb",
-		"objectFit": true,
+		"objectFit": false,
 		"title": "Арканитовый Потрошитель",
 		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
 		"stats": {
@@ -773,7 +773,7 @@
 		"label": "Наследуемое",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Hellscreams-Decapitator.png",
 		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Hellscreams-Decapitator.glb",
-		"objectFit": true,
+		"objectFit": false,
 		"title": "Лабрисса Адского Крика",
 		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
 		"stats": {
@@ -813,7 +813,7 @@
 		"label": "Редкое",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Grand-Marshals-Decapitator.png",
 		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Grand-Marshals-Decapitator.glb",
-		"objectFit": true,
+		"objectFit": false,
 		"title": "Лабрисса Главнокомандующего",
 		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
 		"stats": {
@@ -848,7 +848,7 @@
 		"label": "Необычное",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Spiked-Battle-Axe.png",
 		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Spiked-Battle-Axe.glb",
-		"objectFit": true,
+		"objectFit": false,
 		"title": "Шипастый Боевой Топор",
 		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
 		"stats": {
@@ -879,7 +879,7 @@
 		"label": "Эпическое",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Grand-Marshals-Sunderer.png",
 		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Grand-Marshals-Sunderer.glb",
-		"objectFit": true,
+		"objectFit": false,
 		"title": "Рассекатель Главнокомандующего",
 		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
 		"stats": {
@@ -912,7 +912,7 @@
 		"label": "Эпическое",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Felsteel-Reaper.png",
 		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Felsteel-Reaper.glb",
-		"objectFit": true,
+		"objectFit": false,
 		"title": "Жнец из Оскверненной Стали",
 		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
 		"stats": {
@@ -938,272 +938,560 @@
 
 	{
 		"id": "Nightfall",
-		"type": "two-handed-weapons",
+		"type": "epic",
 		"path": "",
 		"weaponType": "Двуручный Топор",
-		"label": "Эпический",
+		"label": "Эпическое",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Nightfall.png",
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Nightfall.glb",
 		"objectFit": false,
 		"title": "Сумерки",
-		"description": "Уровень предмета: 13 Становится персональным при надевании Двуручное Топор Урон: 5 - 12 Скорость 3.60 (2.4 ед. урона в секунду) Прочность: 120 / 120 Возможный эффект при попадании: Увеличивает урон от заклинаний, получаемый целью, на 15% на 5 сек. Может не сработать против целей выше 49-го уровня. Требуется 25-й ур. Цена продажи: 1 2 39",
-		"dmg": 1000,
-		"speed": 2.6,
-		"price": 300
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"stats": {
+			"general": [
+				{"value": "13", "name": "Уровень предмета"},
+				{"value": "5 - 12 (2.4 ед. урона в секунду)", "name": "Урон"},
+				{"value": 25, "name": "Требуется уровень"},
+				{"value": 3.6, "name": "Скорость"}
+			]
+		},
+		"effect": "Возможный эффект при попадании: Увеличивает урон от заклинаний, получаемый целью, на 15% на 5 секунд.",
+		"price": 300,
+		"settings": {
+			"cameraPosition": [0, 0, 4.6],
+			"centerPosition": [0, -0.25, 0]
+		}
 	},
 
 	{
 		"id": "HellscreamsWill",
-		"type": "two-handed-weapons",
+		"type": "rare",
 		"path": "",
 		"weaponType": "Двуручный Топор",
-		"label": "Эпический",
+		"fraction": "Орда",
+		"label": "Редкое",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Hellscreams-Will.png",
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Hellscreams-Will.glb",
 		"objectFit": false,
 		"title": "Воля Адского Крика",
-		"description": "Уровень предмета: 14 Становится персональным при получении Уникальный использующийся Двуручное Топор Урон: 6 - 13 Скорость 3.60 (2.6 ед. урона в секунду) +4 к силе +7 к критическому удару (0.15% на 90 ур.) Прочность: 100 / 100 Требуется 27-й ур. Требуется: Превознесение (Маг'хары)Цена продажи: 1 12 31",
-		"dmg": 1000,
-		"speed": 2.6,
-		"price": 300
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"stats": {
+			"general": [
+				{"value": "14", "name": "Уровень предмета"},
+				{"value": "6 - 13 (2.6 ед. урона в секунду)", "name": "Урон"},
+				{"value": 27, "name": "Требуется уровень"},
+				{"value": 3.6, "name": "Скорость"}
+			],
+			"main": [
+				{"value": "+4", "name": "к силе"}
+			],
+			"secondary": [
+				{"value": "+7", "name": "к критическому удару"}
+			]
+		},
+		"price": 300,
+		"settings": {
+			"cameraPosition": [0, 0, 4.7],
+			"centerPosition": [0, -0.25, 0]
+		}
 	},
 
 	{
 		"id": "ChilledAxe",
-		"type": "two-handed-weapons",
+		"type": "epic",
 		"path": "",
 		"weaponType": "Двуручный Топор",
-		"label": "Эпический",
+		"label": "Эпическое",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Chilled-Axe.png",
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Chilled-Axe.glb",
 		"objectFit": false,
 		"title": "Прохладный Топор",
-		"description": "Декоративный эффект Уровень предмета: 1 Привязывается к отряду Двуручное Топор Урон: 1 - 2 Скорость 2.60 (0.6 ед. урона в секунду) Помогает, когда не удается остыть. Использование: добавляет эту иллюзию для трансмогрификации в коллекцию вашего отряда. Цена продажи: 11 цена Торговой лавки: 120 Торговый жетон",
-		"dmg": 1000,
-		"speed": 2.6,
-		"price": 300
+		"description": "Помогает, когда не удается остыть.",
+		"stats": {
+			"general": [
+				{"value": "14", "name": "Уровень предмета"},
+				{"value": "6 - 13 (2.6 ед. урона в секунду)", "name": "Урон"},
+				{"value": 27, "name": "Требуется уровень"},
+				{"value": 3.6, "name": "Скорость"}
+			],
+			"main": [
+				{"value": "+4", "name": "к силе"}
+			],
+			"secondary": [
+				{"value": "+7", "name": "к критическому удару"}
+			]
+		},
+		"effect": "Возможный эффект при попадании: Наносит противнику 44 ед. урона от магии льда.",
+		"price": 300,
+		"settings": {
+			"cameraPosition": [0, 0, 4.7],
+			"centerPosition": [0, -0.25, 0]
+		}
 	},
 
 	{
 		"id": "DarkEdgeOfInsanity",
-		"type": "two-handed-weapons",
+		"type": "epic",
 		"path": "",
 		"weaponType": "Двуручный Топор",
-		"label": "Эпический",
+		"label": "Эпическое",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Dark-Edge-of-Insanity.png",
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Dark-Edge-of-Insanity.glb",
 		"objectFit": false,
 		"title": "Темное Лезвие Безумия",
-		"description": "Уровень предмета: 14 Становится персональным при получении Двуручное Топор Урон: 6 - 13 Скорость 3.60 (2.6 ед. урона в секунду) +4 к силе +2 к ловкости +3 к выносливости Прочность: 120 / 120 Возможный эффект при попадании: Дезориентация цели, в результате чего она будет бесцельно бродить вокруг в течение 3 сек. Требуется 25-й ур. Цена продажи: 1 22 38 Добывается с: К'Тун Вероятность получения: 12.51%",
-		"dmg": 1000,
-		"speed": 2.6,
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"stats": {
+			"general": [
+				{"value": "14", "name": "Уровень предмета"},
+				{"value": "6 - 13 (2.6 ед. урона в секунду)", "name": "Урон"},
+				{"value": 25, "name": "Требуется уровень"},
+				{"value": 3.6, "name": "Скорость"}
+			],
+			"main": [
+				{"value": "+4", "name": "к силе"},
+				{"value": "+2", "name": "к ловкости"},
+				{"value": "+3", "name": "к выносливости"}
+			]
+		},
+		"effect": "Возможный эффект при попадании: Дезориентация цели, в результате чего она будет бесцельно бродить вокруг в течение 3 секунд.",
 		"price": 300
 	},
 
 	{
 		"id": "Severance",
-		"type": "two-handed-weapons",
+		"type": "epic",
 		"path": "",
 		"weaponType": "Двуручный Топор",
-		"label": "Эпический",
+		"label": "Эпическое",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Severance.png",
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Severance.glb",
 		"objectFit": false,
 		"title": "Отсечение",
-		"description": "Уровень предмета: 44 Становится персональным при получении Двуручное Топор Урон: 5 - 12 Скорость 3.60 (6.7 ед. урона в секунду) +13 к силе +5 к выносливости +12 к критическому удару (0.26% на 90 ур.) Требуется 30-й ур. Цена продажи: 5 3 24",
-		"dmg": 1000,
-		"speed": 2.6,
-		"price": 300
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"stats": {
+			"general": [
+				{"value": "16", "name": "Уровень предмета"},
+				{"value": "5 - 12 (2.4 ед. урона в секунду)", "name": "Урон"},
+				{"value": 30, "name": "Требуется уровень"},
+				{"value": 3.6, "name": "Скорость"}
+			],
+			"main": [
+				{"value": "+3", "name": "к силе"},
+				{"value": "+5", "name": "к выносливости"}
+			],
+			"secondary": [
+				{"value": "+12", "name": "к критическому удару"}
+			]
+		},
+		"price": 300,
+		"settings": {
+			"rotation": [0, 0, 1.46],
+			"cameraPosition": [0, 0, 4.5],
+			"centerPosition": [0, -0.4, 0]
+		}
 	},
 
 	{
 		"id": "DrakeTalonCleaver",
-		"type": "two-handed-weapons",
+		"type": "epic",
 		"path": "",
 		"weaponType": "Двуручный Топор",
-		"label": "Эпический",
+		"label": "Эпическое",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Drake-Talon-Cleaver.png",
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Drake-Talon-Cleaver.glb",
 		"objectFit": false,
 		"title": "Колун из Драконьего Когтя",
-		"description": "Уровень предмета: 13 Становится персональным при получении Двуручное Топор Урон: 5 - 12 Скорость 3.60 (2.4 ед. урона в секунду) +3 к силе +2 к выносливости Прочность: 120 / 120 Возможный эффект при попадании: Нанесение смертельной раны с уроном в 18 ед. Требуется 25-й ур. Цена продажи: 1 12 35",
-		"dmg": 1000,
-		"speed": 2.6,
-		"price": 300
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"stats": {
+			"general": [
+				{"value": "13", "name": "Уровень предмета"},
+				{"value": "5 - 12 (2.4 ед. урона в секунду)", "name": "Урон"},
+				{"value": 25, "name": "Требуется уровень"},
+				{"value": 3.6, "name": "Скорость"}
+			],
+			"main": [
+				{"value": "+3", "name": "к силе"},
+				{"value": "+2", "name": "к выносливости"}
+			]
+		},
+		"effect": "Возможный эффект при попадании: Нанесение смертельной раны с уроном в 18 ед.",
+		"price": 300,
+		"settings": {
+			"cameraPosition": [0, 0, 4.65],
+			"centerPosition": [0, -0.35, 0]
+		}
 	},
 
 	{
 		"id": "DraconicAvenger",
-		"type": "two-handed-weapons",
+		"type": "epic",
 		"path": "",
 		"weaponType": "Двуручный Топор",
-		"label": "Эпический",
+		"label": "Эпическое",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Draconic-Avenger.png",
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Draconic-Avenger.glb",
 		"objectFit": false,
 		"title": "Драконье Возмездие",
-		"description": "Уровень предмета: 13 Становится персональным при получении Двуручное Топор Урон: 5 - 12 Скорость 3.60 (2.4 ед. урона в секунду) +3 к силе +2 к выносливости Парирование ++8 (0.58% на 80 ур.). Прочность: 120 / 120 Требуется 25-й ур. Цена продажи: 1 2 2 Добывается с: Змеестраж Когтя Смерти Вероятность получения: 5.60%",
-		"dmg": 1000,
-		"speed": 2.6,
-		"price": 300
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"stats": {
+			"general": [
+				{"value": "13", "name": "Уровень предмета"},
+				{"value": "5 - 12 (2.4 ед. урона в секунду)", "name": "Урон"},
+				{"value": 25, "name": "Требуется уровень"},
+				{"value": 3.6, "name": "Скорость"}
+			],
+			"main": [
+				{"value": "+3", "name": "к силе"},
+				{"value": "+2", "name": "к выносливости"}
+			],
+			"secondary": [
+				{"value": "+8", "name": "к парированию"}
+			]
+		},
+		"price": 300,
+		"settings": {
+			"cameraPosition": [0, 0, 4.65],
+			"centerPosition": [0, -0.35, 0]
+		}
 	},
 
 	{
 		"id": "Bloodmoon",
-		"type": "two-handed-weapons",
+		"type": "epic",
 		"path": "",
 		"weaponType": "Двуручный Топор",
-		"label": "Эпический",
+		"label": "Эпическое",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Bloodmoon.png",
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Bloodmoon.glb",
 		"objectFit": false,
 		"title": "Кровавая Луна",
-		"description": "Уровень предмета: 14 Становится персональным при получении Уникальный использующийся Двуручное Топор Урон: 6 - 13 Скорость 3.60 (2.6 ед. урона в секунду) +4 к силе +7 к критическому удару (0.15% на 90 ур.) Прочность: 120 / 120 Требуется 27-й ур. Цена продажи: 1 63 81",
-		"dmg": 1000,
-		"speed": 2.6,
-		"price": 300
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"stats": {
+			"general": [
+				{"value": "14", "name": "Уровень предмета"},
+				{"value": "6 - 13 (2.6 ед. урона в секунду)", "name": "Урон"},
+				{"value": 27, "name": "Требуется уровень"},
+				{"value": 3.6, "name": "Скорость"}
+			],
+			"main": [
+				{"value": "+4", "name": "к силе"}
+			],
+			"secondary": [
+				{"value": "+7", "name": "к критическому удару"}
+			]
+		},
+		"price": 300,
+		"settings": {
+			"cameraPosition": [0, 0, 4.5],
+			"centerPosition": [0, -0.55, 0]
+		}
 	},
 
 	{
 		"id": "Mooncleaver",
-		"type": "two-handed-weapons",
+		"type": "epic",
 		"path": "",
 		"weaponType": "Двуручный Топор",
-		"label": "Эпический",
+		"label": "Эпическое",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Mooncleaver.png",
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Mooncleaver.glb",
 		"objectFit": false,
 		"title": "Лунный Колун",
-		"description": "Уровень предмета: 14 Становится персональным при получении Уникальный использующийся Двуручное Топор Урон: 6 - 13 Скорость 3.60 (2.6 ед. урона в секунду) +4 к силе +7 к критическому удару (0.15% на 90 ур.) Прочность: 120 / 120 Требуется 27-й ур. Цена продажи: 1 63 23",
-		"dmg": 1000,
-		"speed": 2.6,
-		"price": 300
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"stats": {
+			"general": [
+				{"value": "14", "name": "Уровень предмета"},
+				{"value": "6 - 13 (2.6 ед. урона в секунду)", "name": "Урон"},
+				{"value": 27, "name": "Требуется уровень"},
+				{"value": 3.6, "name": "Скорость"}
+			],
+			"main": [
+				{"value": "+4", "name": "к силе"}
+			],
+			"secondary": [
+				{"value": "+7", "name": "к критическому удару"}
+			]
+		},
+		"price": 300,
+		"settings": {
+			"cameraPosition": [0, 0, 4.5],
+			"centerPosition": [0, -0.55, 0]
+		}
 	},
 
 	{
 		"id": "LunarCrescent",
-		"type": "two-handed-weapons",
+		"type": "epic",
 		"path": "",
 		"weaponType": "Двуручный Топор",
-		"label": "Эпический",
+		"label": "Эпическое",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Lunar-Crescent.png",
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Lunar-Crescent.glb",
 		"objectFit": false,
 		"title": "Лунный Серп",
-		"description": "Уровень предмета: 14 Становится персональным при получении Уникальный использующийся Двуручное Топор Урон: 6 - 13 Скорость 3.60 (2.6 ед. урона в секунду) +4 к силе +7 к критическому удару (0.15% на 90 ур.) Прочность: 120 / 120 Требуется 27-й ур. Цена продажи: 1 41 91",
-		"dmg": 1000,
-		"speed": 2.6,
-		"price": 300
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"stats": {
+			"general": [
+				{"value": "14", "name": "Уровень предмета"},
+				{"value": "6 - 13 (2.6 ед. урона в секунду)", "name": "Урон"},
+				{"value": 27, "name": "Требуется уровень"},
+				{"value": 3.6, "name": "Скорость"}
+			],
+			"main": [
+				{"value": "+4", "name": "к силе"}
+			],
+			"secondary": [
+				{"value": "+7", "name": "к критическому удару"}
+			]
+		},
+		"price": 300,
+		"settings": {
+			"cameraPosition": [0, 0, 4.5],
+			"centerPosition": [0, -0.55, 0]
+		}
 	},
 
 	{
 		"id": "BladeOfHarbingers",
-		"type": "two-handed-weapons",
+		"type": "epic",
 		"path": "",
 		"weaponType": "Двуручный Топор",
-		"label": "Эпический",
+		"label": "Эпическое",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Blade-of-Harbingers.png",
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Blade-of-Harbingers.glb",
 		"objectFit": false,
 		"title": "Клинок Вестников",
-		"description": "Уровень предмета: 44 Становится персональным при получении Двуручное Топор Урон: 6 - 13 Скорость 3.60 (6.7 ед. урона в секунду) +9 к силе +14 к критическому удару (0.30% на 90 ур.) +13 к скорости (0.30% на 90 ур.) Прочность: 120 / 120 Требуется 30-й ур. Цена продажи: 1",
-		"dmg": 1000,
-		"speed": 2.6,
-		"price": 300
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"stats": {
+			"general": [
+				{"value": "16", "name": "Уровень предмета"},
+				{"value": "6 - 13 (2.6 ед. урона в секунду)", "name": "Урон"},
+				{"value": 27, "name": "Требуется уровень"},
+				{"value": 3.6, "name": "Скорость"}
+			],
+			"main": [
+				{"value": "+4", "name": "к силе"}
+			],
+			"secondary": [
+				{"value": "+7", "name": "к критическому удару"},
+				{"value": "+6", "name": "к скорости"}
+			]
+		},
+		"price": 300,
+		"settings": {
+			"cameraPosition": [0, 0, 4.4],
+			"centerPosition": [-0.05, -0.2, 0]
+		}
 	},
 
 	{
 		"id": "ShadowswordVanquishersBlade",
-		"type": "two-handed-weapons",
+		"type": "epic",
 		"path": "",
 		"weaponType": "Двуручный Топор",
-		"label": "Эпический",
+		"label": "Эпическое",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Shadowsword-Vanquishers-Blade.png",
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Shadowsword-Vanquishers-Blade.glb",
 		"objectFit": false,
 		"title": "Топор Покорителя из Клана Темного Меча",
-		"description": "Декоративный эффект Уровень предмета: 1 Привязывается к отряду Двуручное Топор Урон: 1 - 3 Скорость 3.60 (0.6 ед. урона в секунду) Использование: добавляет эту иллюзию для трансмогрификации в коллекцию вашего отряда. Цена продажи: 27",
-		"dmg": 1000,
-		"speed": 2.6,
-		"price": 300
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"stats": {
+			"general": [
+				{"value": "16", "name": "Уровень предмета"},
+				{"value": "6 - 13 (2.6 ед. урона в секунду)", "name": "Урон"},
+				{"value": 27, "name": "Требуется уровень"},
+				{"value": 3.6, "name": "Скорость"}
+			],
+			"main": [
+				{"value": "+4", "name": "к силе"}
+			],
+			"secondary": [
+				{"value": "+7", "name": "к критическому удару"},
+				{"value": "+6", "name": "к скорости"}
+			]
+		},
+		"price": 300,
+		"settings": {
+			"cameraPosition": [0, 0, 4.4],
+			"centerPosition": [-0.05, -0.2, 0]
+		}
 	},
 
 	{
 		"id": "SunLuteOfThePhoenixKing",
-		"type": "two-handed-weapons",
+		"type": "epic",
 		"path": "",
 		"weaponType": "Двуручный Топор",
-		"label": "Эпический",
+		"label": "Эпическое",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Sun-Lute-of-the-Phoenix-King.png",
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Sun-Lute-of-the-Phoenix-King.glb",
 		"objectFit": false,
 		"title": "Солнечная Лютня Короля Феникса",
-		"description": "Уровень предмета: 15 Становится персональным при получении Уникальный Двуручное Топор Урон: 7 - 15 Скорость 3.60 (3.1 ед. урона в секунду) +4 к силе +6 к выносливости +4 к критическому удару (0.09% на 90 ур.) +4 к искусности (0.09% на 90 ур.) Прочность: 120 / 120 Использование: Задать жару. (1 Мин Восстановление) Требуется 32-й ур. Цена продажи: 3 19 79",
-		"dmg": 1000,
-		"speed": 2.6,
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"stats": {
+			"general": [
+				{"value": "15", "name": "Уровень предмета"},
+				{"value": "7 - 15 (3.1 ед. урона в секунду)", "name": "Урон"},
+				{"value": 32, "name": "Требуется уровень"},
+				{"value": 3.6, "name": "Скорость"}
+			],
+			"main": [
+				{"value": "+4", "name": "к силе"},
+				{"value": "+6", "name": "к выносливости"}
+			],
+			"secondary": [
+				{"value": "+4", "name": "к критическому удару"},
+				{"value": "+4", "name": "к искусности"}
+			]
+		},
+		"effect": "Использование: Задать жару. (Восстановление: 1 минута).",
 		"price": 300
 	},
 
 	{
 		"id": "AdamantiteCleaver",
-		"type": "two-handed-weapons",
+		"type": "common",
 		"path": "",
 		"weaponType": "Двуручный Топор",
-		"label": "Эпический",
+		"label": "Необычное",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Adamantite-Cleaver.png",
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Adamantite-Cleaver.glb",
 		"objectFit": false,
 		"title": "Адамантитовый Колун",
-		"description": "Уровень предмета: 14 Становится персональным при надевании Двуручное Топор Урон: 6 - 13 Скорость 3.60 (2.6 ед. урона в секунду) +4 к ловкости +9 к выносливости Прочность: 85 / 85 Требуется 26-й ур. Цена продажи: 15",
-		"dmg": 1000,
-		"speed": 2.6,
-		"price": 300
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"stats": {
+			"general": [
+				{"value": "14", "name": "Уровень предмета"},
+				{"value": "6 - 13 (2.6 ед. урона в секунду)", "name": "Урон"},
+				{"value": 26, "name": "Требуется уровень"},
+				{"value": 3.6, "name": "Скорость"}
+			],
+			"main": [
+				{"value": "+4", "name": "к ловкости"},
+				{"value": "+9", "name": "к выносливости"}
+			]
+		},
+		"price": 300,
+		"settings": {
+			"cameraPosition": [0, 0, 3.7],
+			"centerPosition": [0, -0.25, 0]
+		}
 	},
 
 	{
 		"id": "BitingGreataxe",
-		"type": "two-handed-weapons",
+		"type": "common",
 		"path": "",
 		"weaponType": "Двуручный Топор",
-		"label": "Эпический",
+		"fraction": "Альянс",
+		"label": "Необычное",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Biting-Greataxe.png",
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Biting-Greataxe.glb",
 		"objectFit": false,
 		"title": "Большой Топор Жестокости",
-		"description": "Уровень предмета: 80 Становится персональным при получении Двуручное Топор Урон: 5 - 11 Скорость 3.60 (13.3 ед. урона в секунду) +34 к силе Прочность: 85 / 85 Цена продажи: 50 53 25",
-		"dmg": 1000,
-		"speed": 2.6,
-		"price": 300
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"stats": {
+			"general": [
+				{"value": "16", "name": "Уровень предмета"},
+				{"value": "5 - 11 (2.4 ед. урона в секунду)", "name": "Урон"},
+				{"value": 3.6, "name": "Скорость"}
+			],
+			"main": [
+				{"value": "+4", "name": "к силе"}
+			]
+		},
+		"price": 300,
+		"settings": {
+			"cameraPosition": [0, 0, 3.7],
+			"centerPosition": [0, -0.25, 0]
+		}
 	},
 
 	{
 		"id": "OgreSplittingAxe",
-		"type": "two-handed-weapons",
+		"type": "common",
 		"path": "",
 		"weaponType": "Двуручный Топор",
-		"label": "Эпический",
+		"label": "Необычное",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Ogre-Splitting-Axe.png",
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Ogre-Splitting-Axe.glb",
 		"objectFit": false,
 		"title": "Огрский Раскалывающий Топор",
-		"description": "Уровень предмета: 14 Становится персональным при надевании Двуручное Топор Урон: 6 - 13 Скорость 3.60 (2.6 ед. урона в секунду) +4 к силе +6 к выносливости Прочность: 85 / 85 Требуется 25-й ур. Цена продажи: 1 10",
-		"dmg": 1000,
-		"speed": 2.6,
-		"price": 300
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"stats": {
+			"general": [
+				{"value": "14", "name": "Уровень предмета"},
+				{"value": "6 - 13 (2.6 ед. урона в секунду)", "name": "Урон"},
+				{"value": 25, "name": "Требуется уровень"},
+				{"value": 3.6, "name": "Скорость"}
+			],
+			"main": [
+				{"value": "+4", "name": "к силе"},
+				{"value": "+6", "name": "к выносливости"}
+			]
+		},
+		"price": 300,
+		"settings": {
+			"centerPosition": [0, -0.4, 0]
+		}
 	},
 
 	{
 		"id": "GhostlyBattleAxe",
-		"type": "two-handed-weapons",
+		"type": "common",
 		"path": "",
 		"weaponType": "Двуручный Топор",
-		"label": "Эпический",
+		"label": "Необычное",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Ghostly-Battle-Axe.png",
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Ghostly-Battle-Axe.glb",
 		"objectFit": false,
 		"title": "Призрачная Боевая Секира",
-		"description": "Уровень предмета: 14 Становится персональным при надевании Двуручное Топор Урон: 6 - 13 Скорость 3.60 (2.6 ед. урона в секунду) +4 к силе +6 к выносливости Прочность: 85 / 85 Требуется 26-й ур. Цена продажи: 1 15",
-		"dmg": 1000,
-		"speed": 2.6,
-		"price": 300
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"stats": {
+			"general": [
+				{"value": "14", "name": "Уровень предмета"},
+				{"value": "6 - 13 (2.6 ед. урона в секунду)", "name": "Урон"},
+				{"value": 26, "name": "Требуется уровень"},
+				{"value": 3.6, "name": "Скорость"}
+			],
+			"main": [
+				{"value": "+4", "name": "к силе"},
+				{"value": "+6", "name": "к выносливости"}
+			]
+		},
+		"price": 300,
+		"settings": {
+			"centerPosition": [0, -0.4, 0]
+		}
 	},
 
 	{
 		"id": "LuckyStrikeAxe",
-		"type": "two-handed-weapons",
+		"type": "common",
 		"path": "",
 		"weaponType": "Двуручный Топор",
-		"label": "Эпический",
+		"label": "Необычное",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Lucky-Strike-Axe.png",
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Lucky-Strike-Axe.glb",
 		"objectFit": false,
 		"title": "Топор Счастливого Удара",
-		"description": "Уровень предмета: 13 Становится персональным при надевании Двуручное Топор Урон: 5 - 12 Скорость 3.60 (2.4 ед. урона в секунду) +3 к силе +5 к выносливости Прочность: 85 / 85 Требуется 24-й ур. Цена продажи: 70",
-		"dmg": 1000,
-		"speed": 2.6,
-		"price": 300
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"stats": {
+			"general": [
+				{"value": "13", "name": "Уровень предмета"},
+				{"value": "5 - 12 (2.4 ед. урона в секунду)", "name": "Урон"},
+				{"value": 24, "name": "Требуется уровень"},
+				{"value": 3.6, "name": "Скорость"}
+			],
+			"main": [
+				{"value": "+3", "name": "к силе"},
+				{"value": "+5", "name": "к выносливости"}
+			]
+		},
+		"price": 300,
+		"settings": {
+			"centerPosition": [0, -0.4, 0]
+		}
 	},
 
 	{
@@ -1373,17 +1661,36 @@
 
 	{
 		"id": "EthereumNexusReaver",
-		"type": "two-handed-weapons",
+		"type": "epic",
 		"path": "",
 		"weaponType": "Двуручный Топор",
-		"label": "Эпический",
+		"label": "Эпическое",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Ethereum-Nexus-Reaver.png",
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Ethereum-Nexus-Reaver.glb",
 		"objectFit": false,
 		"title": "Астральный Разбойник",
-		"description": "Уровень предмета: 38 Становится персональным при надевании Двуручное Топор Урон: 6 - 13 Скорость 3.60 (6.1 ед. урона в секунду) +10 к силе +9 к критическому удару (0.20% на 90 ур.) бесцветное гнездо бесцветное гнездо бесцветное гнездо При соответствии цвета: +1 к скорости Прочность: 120 / 120 Требуется 30-й ур. Цена продажи: 2 90 75 Добывается с: Судьболом Вероятность получения: 16.84%",
-		"dmg": 1000,
-		"speed": 2.6,
-		"price": 300
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"stats": {
+			"general": [
+				{"value": "14", "name": "Уровень предмета"},
+				{"value": "6 - 13 (2.6 ед. урона в секунду)", "name": "Урон"},
+				{"value": 27, "name": "Требуется уровень"},
+				{"value": 3.6, "name": "Скорость"}
+			],
+			"main": [
+				{"value": "+4", "name": "к силе"},
+				{"value": "+6", "name": "к выносливости"}
+			],
+			"secondary": [
+				{"value": "+4", "name": "к критическому удару"},
+				{"value": "+4", "name": "к скорости"}
+			]
+		},
+		"price": 300,
+		"settings": {
+			"cameraPosition": [0, 0, 4.2],
+			"centerPosition": [0, -0.15, 0]
+		}
 	},
 
 	{
