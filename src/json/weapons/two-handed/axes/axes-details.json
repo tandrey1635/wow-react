@@ -195,6 +195,38 @@
 	},
 
 	{
+		"id": "WallwatchersPoleaxeRecolor",
+		"type": "epic",
+		"path": "",
+		"weaponType": "Двуручный Топор",
+		"label": "Эпическое",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Wallwatchers-Poleaxe-recolor.png",
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Wallwatchers-Poleaxe-recolor.glb",
+		"objectFit": false,
+		"title": "Алебарда Стражника Стены из Другого Мира",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"stats": {
+			"general": [
+				{"value": "11", "name": "Уровень предмета"},
+				{"value": "4 - 10 (1.9 ед. урона в секунду)", "name": "Урон"},
+				{"value": 10, "name": "Требуется уровень"},
+				{"value": 3.6, "name": "Скорость"}
+			],
+			"main": [
+				{"value": "+28", "name": "к силе"},
+				{"value": "+28", "name": "к ловкости"},
+				{"value": "+38", "name": "к интелекту"},
+				{"value": "+12", "name": "к выносливости"}
+			]
+		},
+		"price": 300,
+		"settings": {
+			"cameraPosition": [0, 0, 5],
+			"centerPosition": [0, -0.1, 0]
+		}
+	},
+
+	{
 		"id": "WallwatchersGreataxe",
 		"type": "epic",
 		"path": "",
@@ -1694,6 +1726,39 @@
 	},
 
 	{
+		"id": "LegacyRecolor",
+		"type": "epic",
+		"path": "",
+		"weaponType": "Двуручный Топор",
+		"label": "Эпическое",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Legacy-recolor.png",
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Legacy-recolor.glb",
+		"objectFit": false,
+		"title": "Наследие из Другого Мира",
+		"description": "Об этом топоре, которым владели экзархи дренеев, ходят легенды со времен их изгнания из Аргуса.",
+		"stats": {
+			"general": [
+				{"value": "16", "name": "Уровень предмета"},
+				{"value": "6 - 13 (2.6 ед. урона в секунду)", "name": "Урон"},
+				{"value": 27, "name": "Требуется уровень"},
+				{"value": 3.6, "name": "Скорость"}
+			],
+			"main": [
+				{"value": "+4", "name": "к ловкости"},
+				{"value": "+8", "name": "к выносливости"}
+			],
+			"secondary": [
+				{"value": "+6", "name": "к критическому удару"}
+			]
+		},
+		"price": 300,
+		"settings": {
+			"cameraPosition": [0, 0, 4.5],
+			"centerPosition": [0, -0.45, 0]
+		}
+	},
+
+	{
 		"id": "Legionfoe",
 		"type": "rare",
 		"path": "",
@@ -1760,6 +1825,38 @@
 	},
 
 	{
+		"id": "SkyforgedGreatAxeRecolor",
+		"type": "rare",
+		"path": "",
+		"weaponType": "Двуручный Топор",
+		"label": "Редкое",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Skyforged-Great-Axe-recolor.png",
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Skyforged-Great-Axe-recolor.glb",
+		"objectFit": false,
+		"title": "Большой Топор Небесной Кузни из Другого Мира",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"stats": {
+			"general": [
+				{"value": "14", "name": "Уровень предмета"},
+				{"value": "6 - 13 (2.6 ед. урона в секунду)", "name": "Урон"},
+				{"value": 26, "name": "Требуется уровень"},
+				{"value": 3.6, "name": "Скорость"}
+			],
+			"main": [
+				{"value": "+4", "name": "к силе"}
+			],
+			"secondary": [
+				{"value": "+7", "name": "к критическому удару"}
+			]
+		},
+		"price": 300,
+		"settings": {
+			"cameraPosition": [0, 0, 4.5],
+			"centerPosition": [0, -0.45, 0]
+		}
+	},
+
+	{
 		"id": "CrystalforgedWarAxe",
 		"type": "rare",
 		"path": "",
@@ -1769,6 +1866,138 @@
 		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Crystalforged-War-Axe.glb",
 		"objectFit": false,
 		"title": "Секира Хрустальной Кузницы",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"stats": {
+			"general": [
+				{"value": "14", "name": "Уровень предмета"},
+				{"value": "6 - 13 (2.6 ед. урона в секунду)", "name": "Урон"},
+				{"value": 27, "name": "Требуется уровень"},
+				{"value": 3.6, "name": "Скорость"}
+			],
+			"main": [
+				{"value": "+4", "name": "к силе"},
+				{"value": "+6", "name": "к выносливости"}
+			],
+			"secondary": [
+				{"value": "+5", "name": "к критическому удару"}
+			]
+		},
+		"price": 300,
+		"settings": {
+			"cameraPosition": [0, 0, 4.2],
+			"centerPosition": [0, -0.55, 0]
+		}
+	},
+
+	{
+		"id": "CrystalforgedWarAxePurple",
+		"type": "rare",
+		"path": "",
+		"weaponType": "Двуручный Топор",
+		"label": "Редкое",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Crystalforged-War-Axe-purple.png",
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Crystalforged-War-Axe-purple.glb",
+		"objectFit": false,
+		"title": "Секира Хрустальной Кузницы из Другого Мира",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"stats": {
+			"general": [
+				{"value": "14", "name": "Уровень предмета"},
+				{"value": "6 - 13 (2.6 ед. урона в секунду)", "name": "Урон"},
+				{"value": 27, "name": "Требуется уровень"},
+				{"value": 3.6, "name": "Скорость"}
+			],
+			"main": [
+				{"value": "+4", "name": "к силе"},
+				{"value": "+6", "name": "к выносливости"}
+			],
+			"secondary": [
+				{"value": "+5", "name": "к критическому удару"}
+			]
+		},
+		"price": 300,
+		"settings": {
+			"cameraPosition": [0, 0, 4.2],
+			"centerPosition": [0, -0.55, 0]
+		}
+	},
+
+	{
+		"id": "CrystalforgedWarAxeGreen",
+		"type": "rare",
+		"path": "",
+		"weaponType": "Двуручный Топор",
+		"label": "Редкое",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Crystalforged-War-Axe-green.png",
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Crystalforged-War-Axe-green.glb",
+		"objectFit": false,
+		"title": "Секира Хрустальной Кузницы из Другого Мира",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"stats": {
+			"general": [
+				{"value": "14", "name": "Уровень предмета"},
+				{"value": "6 - 13 (2.6 ед. урона в секунду)", "name": "Урон"},
+				{"value": 27, "name": "Требуется уровень"},
+				{"value": 3.6, "name": "Скорость"}
+			],
+			"main": [
+				{"value": "+4", "name": "к силе"},
+				{"value": "+6", "name": "к выносливости"}
+			],
+			"secondary": [
+				{"value": "+5", "name": "к критическому удару"}
+			]
+		},
+		"price": 300,
+		"settings": {
+			"cameraPosition": [0, 0, 4.2],
+			"centerPosition": [0, -0.55, 0]
+		}
+	},
+
+	{
+		"id": "CrystalforgedWarAxeRed",
+		"type": "rare",
+		"path": "",
+		"weaponType": "Двуручный Топор",
+		"label": "Редкое",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Crystalforged-War-Axe-red.png",
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Crystalforged-War-Axe-red.glb",
+		"objectFit": false,
+		"title": "Секира Хрустальной Кузницы из Другого Мира",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"stats": {
+			"general": [
+				{"value": "14", "name": "Уровень предмета"},
+				{"value": "6 - 13 (2.6 ед. урона в секунду)", "name": "Урон"},
+				{"value": 27, "name": "Требуется уровень"},
+				{"value": 3.6, "name": "Скорость"}
+			],
+			"main": [
+				{"value": "+4", "name": "к силе"},
+				{"value": "+6", "name": "к выносливости"}
+			],
+			"secondary": [
+				{"value": "+5", "name": "к критическому удару"}
+			]
+		},
+		"price": 300,
+		"settings": {
+			"cameraPosition": [0, 0, 4.2],
+			"centerPosition": [0, -0.55, 0]
+		}
+	},
+
+	{
+		"id": "CrystalforgedWarAxePink",
+		"type": "rare",
+		"path": "",
+		"weaponType": "Двуручный Топор",
+		"label": "Редкое",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Crystalforged-War-Axe-pink.png",
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Crystalforged-War-Axe-pink.glb",
+		"objectFit": false,
+		"title": "Секира Хрустальной Кузницы из Другого Мира",
 		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
 		"stats": {
 			"general": [

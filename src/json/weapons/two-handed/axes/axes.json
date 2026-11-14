@@ -77,6 +77,17 @@
 	},
 
 	{
+		"id": "WallwatchersPoleaxeRecolor",
+		"type": "weapons",
+		"path": "WallwatchersPoleaxeRecolor",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Wallwatchers-Poleaxe-recolor.png",
+		"objectFit": true,
+		"title": "Алебарда Стражника Стены из Другого Мира",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
 		"id": "WallwatchersGreataxe",
 		"type": "weapons",
 		"path": "WallwatchersGreataxe",
@@ -605,6 +616,17 @@
 	},
 
 	{
+		"id": "LegacyRecolor",
+		"type": "weapons",
+		"path": "LegacyRecolor",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Legacy-recolor.png",
+		"objectFit": true,
+		"title": "Наследие из Другого Мира",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
 		"id": "Legionfoe",
 		"type": "weapons",
 		"path": "Legionfoe",
@@ -627,12 +649,67 @@
 	},
 
 	{
+		"id": "SkyforgedGreatAxeRecolor",
+		"type": "weapons",
+		"path": "SkyforgedGreatAxeRecolor",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Skyforged-Great-Axe-recolor.png",
+		"objectFit": true,
+		"title": "Большой Топор Небесной Кузни из Другого Мира",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
 		"id": "CrystalforgedWarAxe",
 		"type": "weapons",
 		"path": "CrystalforgedWarAxe",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Crystalforged-War-Axe.png",
 		"objectFit": false,
 		"title": "Секира Хрустальной Кузницы",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "CrystalforgedWarAxePurple",
+		"type": "weapons",
+		"path": "CrystalforgedWarAxePurple",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Crystalforged-War-Axe-purple.png",
+		"objectFit": false,
+		"title": "Секира Хрустальной Кузницы из Другого Мира",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "CrystalforgedWarAxeGreen",
+		"type": "weapons",
+		"path": "CrystalforgedWarAxeGreen",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Crystalforged-War-Axe-green.png",
+		"objectFit": false,
+		"title": "Секира Хрустальной Кузницы из Другого Мира",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "CrystalforgedWarAxeRed",
+		"type": "weapons",
+		"path": "CrystalforgedWarAxeRed",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Crystalforged-War-Axe-red.png",
+		"objectFit": false,
+		"title": "Секира Хрустальной Кузницы из Другого Мира",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "CrystalforgedWarAxePink",
+		"type": "weapons",
+		"path": "CrystalforgedWarAxePink",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Crystalforged-War-Axe-pink.png",
+		"objectFit": false,
+		"title": "Секира Хрустальной Кузницы из Другого Мира",
 		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
 		"price": 300
 	},
