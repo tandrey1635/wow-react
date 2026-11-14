@@ -110,12 +110,67 @@
 	},
 
 	{
+		"id": "CrudeBattleAxe",
+		"type": "weapons",
+		"path": "CrudeBattleAxe",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Crude-Battle-Axe.png",
+		"objectFit": false,
+		"title": "Грубый Боевой Топор",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "TwinBladedAxe",
+		"type": "weapons",
+		"path": "TwinBladedAxe",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Twin-Bladed-Axe.png",
+		"objectFit": false,
+		"title": "Двусторонний Топор",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "ShortHandledBattleAxe",
+		"type": "weapons",
+		"path": "ShortHandledBattleAxe",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Short-Handled-Battle-Axe.png",
+		"objectFit": false,
+		"title": "Боевой Топор с Короткой Рукоятью",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
 		"id": "BattleaxeOfTheSoberDwarf",
 		"type": "weapons",
 		"path": "BattleaxeOfTheSoberDwarf",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Battleaxe-of-the-Sober-Dwarf.png",
 		"objectFit": false,
 		"title": "Боевой Топор Дворфа Трезвенника",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "BattleAxe",
+		"type": "weapons",
+		"path": "BattleAxe",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Battle-Axe.png",
+		"objectFit": false,
+		"title": "Боевой Топор",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "BronzeBattleAxe",
+		"type": "weapons",
+		"path": "BronzeBattleAxe",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Bronze-Battle-Axe.png",
+		"objectFit": false,
+		"title": "Бронзовый Боевой Топор",
 		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
 		"price": 300
 	},
@@ -363,12 +418,34 @@
 	},
 
 	{
+		"id": "SpikedBattleAxeRecolor",
+		"type": "weapons",
+		"path": "SpikedBattleAxeRecolor",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Spiked-Battle-Axe-recolor.png",
+		"objectFit": false,
+		"title": "Шипастый Боевой Топор из Другого Мира",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
 		"id": "GrandMarshalsSunderer",
 		"type": "weapons",
 		"path": "GrandMarshalsSunderer",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Grand-Marshals-Sunderer.png",
 		"objectFit": false,
 		"title": "Рассекатель Главнокомандующего",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "GrandMarshalsSundererRecolor",
+		"type": "weapons",
+		"path": "GrandMarshalsSundererRecolor",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Grand-Marshals-Sunderer-recolor.png",
+		"objectFit": false,
+		"title": "Рассекатель Главнокомандующего из Другого Мира",
 		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
 		"price": 300
 	},
