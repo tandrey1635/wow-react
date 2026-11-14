@@ -737,6 +737,39 @@
 	},
 
 	{
+		"id": "HonedVoidaxePink",
+		"type": "weapons",
+		"path": "HonedVoidaxePink",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Honed-Voidaxe-pink.png",
+		"objectFit": false,
+		"title": "Заточенный Топор Бездны из Другого Мира",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "HonedVoidaxeGreen",
+		"type": "weapons",
+		"path": "HonedVoidaxeGreen",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Honed-Voidaxe-green.png",
+		"objectFit": false,
+		"title": "Заточенный Топор Бездны из Другого Мира",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "HonedVoidaxeBlue",
+		"type": "weapons",
+		"path": "HonedVoidaxeBlue",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Honed-Voidaxe-blue.png",
+		"objectFit": false,
+		"title": "Заточенный Топор Бездны из Другого Мира",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
 		"id": "Gorehowl",
 		"type": "weapons",
 		"path": "Gorehowl",
