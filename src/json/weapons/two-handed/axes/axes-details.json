@@ -672,6 +672,36 @@
 	},
 
 	{
+		"id": "SpinalReaperRecolor",
+		"type": "epic",
+		"path": "",
+		"weaponType": "Двуручный Топор",
+		"label": "Эпическое",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Spinal-Reaper-recolor.png",
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Spinal-Reaper-recolor.glb",
+		"objectFit": false,
+		"title": "Хребтистый Жнец из Другого Мира",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"stats": {
+			"general": [
+				{"value": "13", "name": "Уровень предмета"},
+				{"value": "5 - 12 (2.4 ед. урона в секунду)", "name": "Урон"},
+				{"value": 25, "name": "Требуется уровень"},
+				{"value": 3.6, "name": "Скорость"}
+			],
+			"main": [
+				{"value": "+3", "name": "к силе"}
+			]
+		},
+		"effect": "Если на персонаже: Восполнение 44 ед. маны или 20 ед. ярости, когда заклинатель убивает цель, дающую опыт или честь. Эффект не может действовать чаще чем раз в 10 секунд. (Восстановление: 10 секунд).",
+		"price": 300,
+		"settings": {
+			"cameraPosition": [0, 0, 4.6],
+			"centerPosition": [0, -0.25, 0]
+		}
+	},
+
+	{
 		"id": "ArcaniteReaper",
 		"type": "rare",
 		"path": "",
@@ -766,6 +796,40 @@
 	},
 
 	{
+		"id": "HighWarlordsBattleAxeRecolor",
+		"type": "epic",
+		"fraction": "Орда",
+		"path": "",
+		"weaponType": "Двуручный Топор",
+		"label": "Эпическое",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/High-Warlords-Battle-Axe-recolor.png",
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/High-Warlords-Battle-Axe-recolor.glb",
+		"objectFit": false,
+		"title": "Боевой Топор Верховного Вождя из Другого Мира",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"stats": {
+			"general": [
+				{"value": "15", "name": "Уровень предмета"},
+				{"value": "5 - 12 (2.4 ед. урона в секунду)", "name": "Урон"},
+				{"value": 28, "name": "Требуется уровень"},
+				{"value": 3.6, "name": "Скорость"}
+			],
+			"main": [
+				{"value": "+3", "name": "к силе"},
+				{"value": "+5", "name": "к выносливости"}
+			],
+			"secondary": [
+				{"value": "+4", "name": "к критическому удару"}
+			]
+		},
+		"price": 300,
+		"settings": {
+			"cameraPosition": [0, 0, 4.6],
+			"centerPosition": [0, -0.32, 0]
+		}
+	},
+
+	{
 		"id": "HellscreamsDecapitator",
 		"type": "heirloom",
 		"path": "",
@@ -815,6 +879,42 @@
 		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Grand-Marshals-Decapitator.glb",
 		"objectFit": false,
 		"title": "Лабрисса Главнокомандующего",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"stats": {
+			"general": [
+				{"value": "14", "name": "Уровень предмета"},
+				{"value": "6 - 13 (2.6 ед. урона в секунду)", "name": "Урон"},
+				{"value": 27, "name": "Требуется уровень"},
+				{"value": 3.6, "name": "Скорость"}
+			],
+			"main": [
+				{"value": "+3", "name": "к силе"},
+				{"value": "+5", "name": "к выносливости"}
+			],
+			"secondary": [
+				{"value": "+5", "name": "к критическому удару"},
+				{"value": "+3", "name": "к скорости"},
+				{"value": "+3", "name": "к универсальности"}
+			]
+		},
+		"price": 300,
+		"settings": {
+			"cameraPosition": [0, 0, 3.25],
+			"centerPosition": [0, -0.28, 0]
+		}
+	},
+
+	{
+		"id": "GrandMarshalsDecapitatorRecolor",
+		"type": "rare",
+		"path": "",
+		"weaponType": "Двуручный Топор",
+		"fraction": "Альянс",
+		"label": "Редкое",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Grand-Marshals-Decapitator-recolor.png",
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Grand-Marshals-Decapitator-recolor.glb",
+		"objectFit": false,
+		"title": "Лабрисса Главнокомандующего из Другого Мира",
 		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
 		"stats": {
 			"general": [
@@ -1280,7 +1380,40 @@
 		"price": 300,
 		"settings": {
 			"cameraPosition": [0, 0, 4.4],
-			"centerPosition": [-0.05, -0.2, 0]
+			"centerPosition": [-0.05, -0.18, 0]
+		}
+	},
+
+	{
+		"id": "BladeOfHarbingersRecolor",
+		"type": "epic",
+		"path": "",
+		"weaponType": "Двуручный Топор",
+		"label": "Эпическое",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Blade-of-Harbingers-recolor.png",
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Blade-of-Harbingers-recolor.glb",
+		"objectFit": false,
+		"title": "Клинок Вестников из Другого Мира",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"stats": {
+			"general": [
+				{"value": "16", "name": "Уровень предмета"},
+				{"value": "6 - 13 (2.6 ед. урона в секунду)", "name": "Урон"},
+				{"value": 27, "name": "Требуется уровень"},
+				{"value": 3.6, "name": "Скорость"}
+			],
+			"main": [
+				{"value": "+4", "name": "к силе"}
+			],
+			"secondary": [
+				{"value": "+7", "name": "к критическому удару"},
+				{"value": "+6", "name": "к скорости"}
+			]
+		},
+		"price": 300,
+		"settings": {
+			"cameraPosition": [0, 0, 4.4],
+			"centerPosition": [-0.05, -0.18, 0]
 		}
 	},
 
@@ -1313,7 +1446,40 @@
 		"price": 300,
 		"settings": {
 			"cameraPosition": [0, 0, 4.4],
-			"centerPosition": [-0.05, -0.2, 0]
+			"centerPosition": [-0.05, -0.18, 0]
+		}
+	},
+
+	{
+		"id": "ShadowswordVanquishersBladeRecolor",
+		"type": "epic",
+		"path": "",
+		"weaponType": "Двуручный Топор",
+		"label": "Эпическое",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Shadowsword-Vanquishers-Blade-recolor.png",
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Shadowsword-Vanquishers-Blade-recolor.glb",
+		"objectFit": false,
+		"title": "Топор Покорителя из Клана Темного Меча из Другого Мира",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"stats": {
+			"general": [
+				{"value": "16", "name": "Уровень предмета"},
+				{"value": "6 - 13 (2.6 ед. урона в секунду)", "name": "Урон"},
+				{"value": 27, "name": "Требуется уровень"},
+				{"value": 3.6, "name": "Скорость"}
+			],
+			"main": [
+				{"value": "+4", "name": "к силе"}
+			],
+			"secondary": [
+				{"value": "+7", "name": "к критическому удару"},
+				{"value": "+6", "name": "к скорости"}
+			]
+		},
+		"price": 300,
+		"settings": {
+			"cameraPosition": [0, 0, 4.4],
+			"centerPosition": [-0.05, -0.18, 0]
 		}
 	},
 

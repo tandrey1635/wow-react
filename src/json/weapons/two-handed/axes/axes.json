@@ -253,6 +253,17 @@
 	},
 
 	{
+		"id": "SpinalReaperRecolor",
+		"type": "weapons",
+		"path": "SpinalReaperRecolor",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Spinal-Reaper-recolor.png",
+		"objectFit": false,
+		"title": "Хребтистый Жнец из Другого Мира",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
 		"id": "ArcaniteReaper",
 		"type": "weapons",
 		"path": "ArcaniteReaper",
@@ -286,6 +297,17 @@
 	},
 
 	{
+		"id": "HighWarlordsBattleAxeRecolor",
+		"type": "weapons",
+		"path": "HighWarlordsBattleAxeRecolor",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/High-Warlords-Battle-Axe-recolor.png",
+		"objectFit": false,
+		"title": "Боевой Топор Верховного Вождя из Другого Мира",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
 		"id": "HellscreamsDecapitator",
 		"type": "weapons",
 		"path": "HellscreamsDecapitator",
@@ -303,6 +325,17 @@
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Grand-Marshals-Decapitator.png",
 		"objectFit": false,
 		"title": "Лабрисса Главнокомандующего",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "GrandMarshalsDecapitatorRecolor",
+		"type": "weapons",
+		"path": "GrandMarshalsDecapitatorRecolor",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Grand-Marshals-Decapitator-recolor.png",
+		"objectFit": false,
+		"title": "Лабрисса Главнокомандующего из Другого Мира",
 		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
 		"price": 300
 	},
@@ -462,12 +495,34 @@
 	},
 
 	{
+		"id": "BladeOfHarbingersRecolor",
+		"type": "weapons",
+		"path": "BladeOfHarbingersRecolor",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Blade-of-Harbingers-recolor.png",
+		"objectFit": true,
+		"title": "Клинок Вестников из Другого Мира",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
 		"id": "ShadowswordVanquishersBlade",
 		"type": "weapons",
 		"path": "ShadowswordVanquishersBlade",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Shadowsword-Vanquishers-Blade.png",
 		"objectFit": true,
 		"title": "Топор Покорителя из Клана Темного Меча",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "ShadowswordVanquishersBladeRecolor",
+		"type": "weapons",
+		"path": "ShadowswordVanquishersBladeRecolor",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Shadowsword-Vanquishers-Blade-recolor.png",
+		"objectFit": true,
+		"title": "Топор Покорителя из Клана Темного Меча из Другого Мира",
 		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
 		"price": 300
 	},
