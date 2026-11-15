@@ -990,6 +990,39 @@
 	},
 
 	{
+		"id": "GreataxeOfTheEbonBladeRed",
+		"type": "weapons",
+		"path": "GreataxeOfTheEbonBladeRed",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Great-axe-of-the-Ebon-Blade-red.png",
+		"objectFit": false,
+		"title": "Большой Топор Рыцаря Черного Клинка из Другого Мира",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "GreataxeOfTheEbonBladeGreen",
+		"type": "weapons",
+		"path": "GreataxeOfTheEbonBladeGreen",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Great-axe-of-the-Ebon-Blade-green.png",
+		"objectFit": false,
+		"title": "Большой Топор Рыцаря Черного Клинка из Другого Мира",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "GreataxeOfTheEbonBladePurple",
+		"type": "weapons",
+		"path": "GreataxeOfTheEbonBladePurple",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Great-axe-of-the-Ebon-Blade-purple.png",
+		"objectFit": false,
+		"title": "Большой Топор Рыцаря Черного Клинка из Другого Мира",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
 		"id": "BloodiedEbonAxe",
 		"type": "weapons",
 		"path": "BloodiedEbonAxe",

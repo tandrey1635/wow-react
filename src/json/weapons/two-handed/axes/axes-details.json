@@ -2726,47 +2726,210 @@
 
 	{
 		"id": "MercilessGladiatorsDecapitator",
-		"type": "two-handed-weapons",
+		"type": "epic",
 		"path": "",
 		"weaponType": "Двуручный Топор",
-		"label": "Эпический",
+		"label": "Эпическое",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Merciless-Gladiators-Decapitator.png",
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Merciless-Gladiators-Decapitator.glb",
 		"objectFit": false,
 		"title": "Лабрисса Безжалостного Гладиатора",
-		"description": "2-й сезон Уровень предмета: 44 Становится персональным при получении Двуручное Топор Урон: 6 - 13 Скорость 3.60 (6.7 ед. урона в секунду) +8 к силе +10 к выносливости +12 к критическому удару (0.26% на 90 ур.) +5 к скорости (0.11% на 90 ур.) +9 к универсальности (0.17% на 90 ур.) Прочность: 120 / 120 Требуется 30-й ур. Цена продажи: 4 77 1",
-		"dmg": 1000,
-		"speed": 2.6,
-		"price": 300
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"stats": {
+			"general": [
+				{"value": "32", "name": "Уровень предмета"},
+				{"value": "6 - 13 (2.6 ед. урона в секунду)", "name": "Урон"},
+				{"value": 30, "name": "Требуется уровень"},
+				{"value": 3.6, "name": "Скорость"}
+			],
+			"main": [
+				{"value": "+8", "name": "к силе"},
+				{"value": "+10", "name": "к выносливости"}
+			],
+			"secondary": [
+				{"value": "+12", "name": "к критическому удару"},
+				{"value": "+5", "name": "к скорости"},
+				{"value": "+9", "name": "к универсальности"}
+			]
+		},
+		"price": 300,
+		"settings": {
+			"centerPosition": [0, -0.22, 0]
+		}
 	},
 
 	{
 		"id": "TornHeartAxeOfBattle",
-		"type": "two-handed-weapons",
+		"type": "rare",
 		"path": "",
 		"weaponType": "Двуручный Топор",
-		"label": "Эпический",
+		"label": "Редкое",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Torn-Heart-Axe-of-Battle.png",
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Torn-Heart-Axe-of-Battle.glb",
 		"objectFit": false,
 		"title": "Боевой Топор Горемычного",
-		"description": "Уровень предмета: 80 Становится персональным при получении Двуручное Топор Урон: 6 - 13 Скорость 3.60 (13.3 ед. урона в секунду) +17 к силе +10 к ловкости +15 к выносливости +14 к критическому удару (0.30% на 90 ур.) +25 к скорости (0.57% на 90 ур.) Прочность: 100 / 100 Вам кажется, что этот топор явился из другого мира. Цена продажи: 62 99 4",
-		"dmg": 1000,
-		"speed": 2.6,
-		"price": 300
+		"description": "Вам кажется, что этот топор явился из другого мира.",
+		"stats": {
+			"general": [
+				{"value": "32", "name": "Уровень предмета"},
+				{"value": "6 - 13 (2.6 ед. урона в секунду)", "name": "Урон"},
+				{"value": 25, "name": "Требуется уровень"},
+				{"value": 3.6, "name": "Скорость"}
+			],
+			"main": [
+				{"value": "+8", "name": "к силе"},
+				{"value": "+5", "name": "к ловкости"},
+				{"value": "+9", "name": "к выносливости"}
+			],
+			"secondary": [
+				{"value": "+7", "name": "к критическому удару"},
+				{"value": "+12", "name": "к скорости"}
+			]
+		},
+		"price": 300,
+		"settings": {
+			"centerPosition": [0, -0.1, 0]
+		}
 	},
 
 	{
 		"id": "GreataxeOfTheEbonBlade",
-		"type": "two-handed-weapons",
+		"type": "rare",
 		"path": "",
 		"weaponType": "Двуручный Топор",
-		"label": "Эпический",
+		"label": "Редкое",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Great-axe-of-the-Ebon-Blade.png",
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Great-axe-of-the-Ebon-Blade.glb",
 		"objectFit": false,
 		"title": "Большой Топор Рыцаря Черного Клинка",
-		"description": "Уровень предмета: 13 Становится персональным при получении Двуручное Топор Урон: 5 - 12 Скорость 3.60 (2.4 ед. урона в секунду) +4 к силе +5 к выносливости +5 к критическому удару (0.41% на 80 ур.) Прочность: 100 / 100 Классы: Рыцарь смерти Цена продажи: 4",
-		"dmg": 1000,
-		"speed": 2.6,
-		"price": 300
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"stats": {
+			"general": [
+				{"value": "32", "name": "Уровень предмета"},
+				{"value": "5 - 12 (2.4 ед. урона в секунду)", "name": "Урон"},
+				{"value": 3.6, "name": "Скорость"}
+			],
+			"main": [
+				{"value": "+8", "name": "к силе"},
+				{"value": "+9", "name": "к выносливости"}
+			],
+			"secondary": [
+				{"value": "+14", "name": "к критическому удару"}
+			],
+			"third": [
+				{"className": "Рыцарь Смерти"}
+			]
+		},
+		"price": 300,
+		"settings": {
+			"cameraPosition": [0, 0, 4.2],
+			"centerPosition": [-0.15, -0.35, 0]
+		}
+	},
+
+	{
+		"id": "GreataxeOfTheEbonBladeRed",
+		"type": "rare",
+		"path": "",
+		"weaponType": "Двуручный Топор",
+		"label": "Редкое",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Great-axe-of-the-Ebon-Blade-red.png",
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Great-axe-of-the-Ebon-Blade-red.glb",
+		"objectFit": false,
+		"title": "Большой Топор Рыцаря Черного Клинка из Другого Мира",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"stats": {
+			"general": [
+				{"value": "32", "name": "Уровень предмета"},
+				{"value": "5 - 12 (2.4 ед. урона в секунду)", "name": "Урон"},
+				{"value": 3.6, "name": "Скорость"}
+			],
+			"main": [
+				{"value": "+8", "name": "к силе"},
+				{"value": "+9", "name": "к выносливости"}
+			],
+			"secondary": [
+				{"value": "+14", "name": "к критическому удару"}
+			],
+			"third": [
+				{"className": "Рыцарь Смерти"}
+			]
+		},
+		"price": 300,
+		"settings": {
+			"cameraPosition": [0, 0, 4.2],
+			"centerPosition": [-0.15, -0.35, 0]
+		}
+	},
+
+	{
+		"id": "GreataxeOfTheEbonBladeGreen",
+		"type": "rare",
+		"path": "",
+		"weaponType": "Двуручный Топор",
+		"label": "Редкое",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Great-axe-of-the-Ebon-Blade-green.png",
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Great-axe-of-the-Ebon-Blade-green.glb",
+		"objectFit": false,
+		"title": "Большой Топор Рыцаря Черного Клинка из Другого Мира",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"stats": {
+			"general": [
+				{"value": "32", "name": "Уровень предмета"},
+				{"value": "5 - 12 (2.4 ед. урона в секунду)", "name": "Урон"},
+				{"value": 3.6, "name": "Скорость"}
+			],
+			"main": [
+				{"value": "+8", "name": "к силе"},
+				{"value": "+9", "name": "к выносливости"}
+			],
+			"secondary": [
+				{"value": "+14", "name": "к критическому удару"}
+			],
+			"third": [
+				{"className": "Рыцарь Смерти"}
+			]
+		},
+		"price": 300,
+		"settings": {
+			"cameraPosition": [0, 0, 4.2],
+			"centerPosition": [-0.15, -0.35, 0]
+		}
+	},
+
+	{
+		"id": "GreataxeOfTheEbonBladePurple",
+		"type": "rare",
+		"path": "",
+		"weaponType": "Двуручный Топор",
+		"label": "Редкое",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Great-axe-of-the-Ebon-Blade-purple.png",
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Great-axe-of-the-Ebon-Blade-purple.glb",
+		"objectFit": false,
+		"title": "Большой Топор Рыцаря Черного Клинка из Другого Мира",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"stats": {
+			"general": [
+				{"value": "32", "name": "Уровень предмета"},
+				{"value": "5 - 12 (2.4 ед. урона в секунду)", "name": "Урон"},
+				{"value": 3.6, "name": "Скорость"}
+			],
+			"main": [
+				{"value": "+8", "name": "к силе"},
+				{"value": "+9", "name": "к выносливости"}
+			],
+			"secondary": [
+				{"value": "+14", "name": "к критическому удару"}
+			],
+			"third": [
+				{"className": "Рыцарь Смерти"}
+			]
+		},
+		"price": 300,
+		"settings": {
+			"cameraPosition": [0, 0, 4.2],
+			"centerPosition": [-0.15, -0.35, 0]
+		}
 	},
 
 	{

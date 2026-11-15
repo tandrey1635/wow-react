@@ -258,10 +258,25 @@ const Weapons = ()=> {
 										</div>
 									)}
 								)}
-								{weaponDetails.stats?.third?.map(({value, name}, i)=> {
+
+								{weaponDetails.stats?.third?.map(({value, name, className}, i)=> {
 									return (
 										<div key={i} className="weapon__details__stats__third">
 											{value} {name}
+
+											{className &&
+												<>
+													{"Классы: "}
+													<span className={`weapon__details__class ${
+														className == "Рыцарь Смерти"
+															? "weapon__details__class_death-knight"
+															: ''
+														}`}
+													>
+														{className}
+													</span>
+												</>
+											}
 										</div>
 									)}
 								)}

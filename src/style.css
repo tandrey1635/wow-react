@@ -932,6 +932,9 @@ footer {
 .weapon__details__stats__third {
   color: #ffc107;
 }
+.weapon__details__class_death-knight {
+  color: #c41f3b;
+}
 .weapon__details__info {
   height: 188px;
   overflow-y: auto;
