@@ -1089,12 +1089,34 @@
 	},
 
 	{
+		"id": "ColossalSkullCladCleaverRecolor",
+		"type": "weapons",
+		"path": "ColossalSkullCladCleaverRecolor",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Colossal-Skull-Clad-Cleaver-recolor.png",
+		"objectFit": false,
+		"title": "Колоссальный Украшенный Черепами Колун из Другого Мира",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
 		"id": "EdgeOfRuin",
 		"type": "weapons",
 		"path": "EdgeOfRuin",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Edge-of-Ruin.png",
 		"objectFit": false,
 		"title": "Лезвие Разгрома",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "EdgeOfRuinRecolor",
+		"type": "weapons",
+		"path": "EdgeOfRuinRecolor",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Edge-of-Ruin-recolor.png",
+		"objectFit": false,
+		"title": "Лезвие Разгрома из Другого Мира",
 		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
 		"price": 300
 	},
