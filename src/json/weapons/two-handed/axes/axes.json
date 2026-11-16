@@ -1166,12 +1166,78 @@
 	},
 
 	{
+		"id": "TyrannicalBeheaderLightBlue",
+		"type": "weapons",
+		"path": "TyrannicalBeheaderLightBlue",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Tyrannical-Beheader-light-blue.png",
+		"objectFit": false,
+		"title": "Тиранический Главорез из Другого Мира",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "TyrannicalBeheaderBlue",
+		"type": "weapons",
+		"path": "TyrannicalBeheaderBlue",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Tyrannical-Beheader-blue.png",
+		"objectFit": false,
+		"title": "Тиранический Главорез из Другого Мира",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "TyrannicalBeheaderRed",
+		"type": "weapons",
+		"path": "TyrannicalBeheaderRed",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Tyrannical-Beheader-red.png",
+		"objectFit": false,
+		"title": "Тиранический Главорез из Другого Мира",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "TyrannicalBeheaderYellow",
+		"type": "weapons",
+		"path": "TyrannicalBeheaderYellow",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Tyrannical-Beheader-yellow.png",
+		"objectFit": false,
+		"title": "Тиранический Главорез из Другого Мира",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "TyrannicalBeheaderLightYellow",
+		"type": "weapons",
+		"path": "TyrannicalBeheaderLightYellow",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Tyrannical-Beheader-light-yellow.png",
+		"objectFit": false,
+		"title": "Тиранический Главорез из Другого Мира",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
 		"id": "ScarletAxeOfAsymmetry",
 		"type": "weapons",
 		"path": "ScarletAxeOfAsymmetry",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Scarlet-Axe-of-Asymmetry.png",
 		"objectFit": false,
 		"title": "Алый Топор Асимметрии",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "SunAxeOfAsymmetry",
+		"type": "weapons",
+		"path": "SunAxeOfAsymmetry",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Sun-Axe-of-Asymmetry.png",
+		"objectFit": false,
+		"title": "Солнечный Топор Асимметрии из Другого Мира",
 		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
 		"price": 300
 	},
@@ -1194,6 +1260,17 @@
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Sapphire-Axe-of-Asymmetry.png",
 		"objectFit": false,
 		"title": "Сапфировый Топор Асимметрии",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "UnholyAxeOfAsymmetry",
+		"type": "weapons",
+		"path": "UnholyAxeOfAsymmetry",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Unholy-Axe-of-Asymmetry.png",
+		"objectFit": false,
+		"title": "Нечестивый Топор Асимметрии из Другого Мира",
 		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
 		"price": 300
 	},
