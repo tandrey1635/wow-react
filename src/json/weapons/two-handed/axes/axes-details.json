@@ -3770,11 +3770,12 @@
 
 	{
 		"id": "Stormedge",
-		"type": "two-handed-weapons",
+		"type": "common",
 		"path": "",
 		"weaponType": "Двуручный Топор",
 		"label": "Эпический",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Stormedge.png",
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d//nosite/Stormedge.glb",
 		"objectFit": false,
 		"title": "Лезвие Шторма",
 		"description": "Уровень предмета: 43 Становится персональным при получении Двуручное Топор Урон: 7 - 15 Скорость 3.60 (6.7 ед. урона в секунду) +9 к силе +13 к выносливости +8 к критическому удару (0.17% на 90 ур.) +10 к универсальности (0.19% на 90 ур.) Прочность: 120 / 120 Требуется 30-й ур. Цена продажи: 4 65 58 Добывается с: Ходир",
@@ -3815,11 +3816,12 @@
 
 	{
 		"id": "RamaladnisBladeOfCullingNormal",
-		"type": "two-handed-weapons",
+		"type": "epic",
 		"path": "",
 		"weaponType": "Двуручный Топор",
 		"label": "Эпический",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Ramaladnis-Blade-of-Culling-normal.png",
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d//nosite/Ramaladnis-Blade-of-Culling-normal.glb",
 		"objectFit": false,
 		"title": "Клинок Очищения Рамаладни",
 		"description": "Уровень предмета: 47 Становится персональным при получении Двуручное Топор Урон: 7 - 15 Скорость 3.60 (7.1 ед. урона в секунду) +7 к силе +14 к выносливости +6 к критическому удару (0.13% на 90 ур.) +7 к скорости (0.16% на 90 ур.) бесцветное гнездо бесцветное гнездо При соответствии цвета: +1 к силе Прочность: 120 / 120 Требуется 30-й ур. Цена продажи: 6 65 58 Добывается с: Саурфанг Смертоносный",
@@ -3845,11 +3847,12 @@
 
 	{
 		"id": "WrathfulGladiatorsDecapitator",
-		"type": "two-handed-weapons",
+		"type": "epic",
 		"path": "",
 		"weaponType": "Двуручный Топор",
 		"label": "Эпический",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Wrathful-Gladiators-Decapitator.png",
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d//nosite/Wrathful-Gladiators-Decapitator.glb",
 		"objectFit": false,
 		"title": "Лабрисса Разгневанного Гладиатора",
 		"description": "Уровень предмета: 47 Становится персональным при получении Двуручное Топор Урон: 7 - 15 Скорость 3.60 (7.1 ед. урона в секунду) +10 к силе +14 к выносливости +5 к критическому удару (0.11% на 90 ур.) +5 к универсальности (0.09% на 90 ур.) бесцветное гнездо бесцветное гнездо При соответствии цвета: +1 к силе атаки Прочность: 120 / 120 Требуется 30-й ур. Цена продажи: 6 29 75",
