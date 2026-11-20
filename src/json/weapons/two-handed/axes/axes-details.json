@@ -3725,11 +3725,12 @@
 
 	{
 		"id": "LotharsEdge",
-		"type": "two-handed-weapons",
+		"type": "epic",
 		"path": "",
 		"weaponType": "Двуручный Топор",
 		"label": "Эпический",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Lothars-Edge.png",
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/nosite/Lothars-Edge.glb",
 		"objectFit": false,
 		"title": "Лезвие Лотара",
 		"description": "Фракция: Альянс. Становится персональным при получении Двуручное Топор Урон: 7 - 15 Скорость 3.60 (6.9 ед. урона в секунду) +7 к силе +14 к выносливости +6 к критическому удару (0.13% на 90 ур.) +4 к скорости (0.09% на 90 ур.) бесцветное гнездо бесцветное гнездо При соответствии цвета: +1 к силе Прочность: 120 / 120 Требуется 30-й ур. Цена продажи: 5 44 27",
@@ -4139,11 +4140,12 @@
 
 	{
 		"id": "RelentlessGladiatorsSunderer",
-		"type": "two-handed-weapons",
+		"type": "epic",
 		"path": "",
 		"weaponType": "Двуручный Топор",
 		"label": "Эпический",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Relentless-Gladiators-Sunderer.png",
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/nosite/Relentless-Gladiators-Sunderer.glb",
 		"objectFit": false,
 		"title": "Рассекатель Неумолимого Гладиатора",
 		"description": "7-й сезон (элитный) Уровень предмета: 47 Становится персональным при получении Двуручное Топор Урон: 7 - 15 Скорость 3.60 (7.1 ед. урона в секунду) +7 к силе +14 к выносливости +5 к критическому удару (0.11% на 90 ур.) +10 к универсальности (0.19% на 90 ур.) бесцветное гнездо бесцветное гнездо При соответствии цвета: +1 к силе атаки Прочность: 120 / 120 Требуется 30-й ур. Цена продажи: 6 41 42",
@@ -4154,11 +4156,12 @@
 
 	{
 		"id": "RelentlessGladiatorsDecapitator",
-		"type": "two-handed-weapons",
+		"type": "epic",
 		"path": "",
 		"weaponType": "Двуручный Топор",
 		"label": "Эпический",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Relentless-Gladiators-Decapitator.png",
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/nosite/Relentless-Gladiators-Decapitator.glb",
 		"objectFit": false,
 		"title": "Лабрисса Неумолимого Гладиатора",
 		"description": "7-й сезон Уровень предмета: 47 Становится персональным при получении Двуручное Топор Урон: 7 - 15 Скорость 3.60 (7.1 ед. урона в секунду) +10 к силе +14 к выносливости +5 к критическому удару (0.11% на 90 ур.) +5 к универсальности (0.09% на 90 ур.) бесцветное гнездо бесцветное гнездо При соответствии цвета: +1 к силе атаки Прочность: 120 / 120 Требуется 30-й ур. Цена продажи: 6 69 47",
@@ -4169,11 +4172,12 @@
 
 	{
 		"id": "BryntrollTheBoneArbiter",
-		"type": "two-handed-weapons",
+		"type": "epic",
 		"path": "",
 		"weaponType": "Двуручный Топор",
 		"label": "Эпический",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Bryntroll-the-Bone-Arbiter.png",
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/nosite/Bryntroll-the-Bone-Arbiter.glb",
 		"objectFit": false,
 		"title": "Бринтролль, Костяной Судья",
 		"description": "Становится персональным при получении Двуручное Топор Урон: 7-15 Скорость 3.60 (6.9 ед. урона в секунду) +6 к силе бесцветное гнездо бесцветное гнездо бесцветное гнездо При соответствии цвета: +1 к силе Прочность: 120 / 120 Возможный эффект при попадании: Похищает у противника 53 ед. здоровья. Требуется 30-й ур. Цена продажи: 5 99 41 Добывается с: Лорд Ребрад Вероятность получения: 16.92%",
