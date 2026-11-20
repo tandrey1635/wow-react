@@ -3770,48 +3770,184 @@
 
 	{
 		"id": "Stormedge",
-		"type": "common",
+		"type": "epic",
 		"path": "",
 		"weaponType": "Двуручный Топор",
-		"label": "Эпический",
+		"label": "Эпическое",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Stormedge.png",
-		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d//nosite/Stormedge.glb",
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Stormedge.glb",
 		"objectFit": false,
 		"title": "Лезвие Шторма",
-		"description": "Уровень предмета: 43 Становится персональным при получении Двуручное Топор Урон: 7 - 15 Скорость 3.60 (6.7 ед. урона в секунду) +9 к силе +13 к выносливости +8 к критическому удару (0.17% на 90 ур.) +10 к универсальности (0.19% на 90 ур.) Прочность: 120 / 120 Требуется 30-й ур. Цена продажи: 4 65 58 Добывается с: Ходир",
-		"dmg": 1000,
-		"speed": 2.6,
-		"price": 300
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"stats": {
+			"general": [
+				{"value": "15", "name": "Уровень предмета"},
+				{"value": "7 - 15 (3.1 ед. урона в секунду)", "name": "Урон"},
+				{"value": 30, "name": "Требуется уровень"},
+				{"value": 3.6, "name": "Скорость"}
+			],
+			"main": [
+				{"value": "+4", "name": "к силе"},
+				{"value": "+6", "name": "к выносливости"}
+			],
+			"secondary": [
+				{"value": "+4", "name": "к критическому удару"},
+				{"value": "+5", "name": "к универсальности"}
+			],
+			"third": [
+				{"value": "", "name": "бесцветное гнездо"}
+			]
+		},
+		"price": 300,
+		"settings": {
+			"cameraPosition": [0, 0, 4.8],
+			"centerPosition": [0, -0.4, 0]
+		}
+	},
+
+	{
+		"id": "StormedgeRecolor",
+		"type": "epic",
+		"path": "",
+		"weaponType": "Двуручный Топор",
+		"label": "Эпическое",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Stormedge-recolor.png",
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Stormedge-recolor.glb",
+		"objectFit": false,
+		"title": "Лезвие Шторма из Другого Мира",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"stats": {
+			"general": [
+				{"value": "15", "name": "Уровень предмета"},
+				{"value": "7 - 15 (3.1 ед. урона в секунду)", "name": "Урон"},
+				{"value": 30, "name": "Требуется уровень"},
+				{"value": 3.6, "name": "Скорость"}
+			],
+			"main": [
+				{"value": "+4", "name": "к силе"},
+				{"value": "+6", "name": "к выносливости"}
+			],
+			"secondary": [
+				{"value": "+4", "name": "к критическому удару"},
+				{"value": "+5", "name": "к универсальности"}
+			],
+			"third": [
+				{"value": "", "name": "бесцветное гнездо"}
+			]
+		},
+		"price": 300,
+		"settings": {
+			"cameraPosition": [0, 0, 4.8],
+			"centerPosition": [0, -0.4, 0]
+		}
 	},
 
 	{
 		"id": "Worldcarver",
-		"type": "two-handed-weapons",
+		"type": "epic",
 		"path": "",
 		"weaponType": "Двуручный Топор",
-		"label": "Эпический",
+		"label": "Эпическое",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Worldcarver.png",
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Worldcarver.glb",
 		"objectFit": false,
 		"title": "Резец Мироздателя",
-		"description": "Уровень предмета: 41 Становится персональным при получении Двуручное Топор Урон: 7 - 15 Скорость 3.60 (6.4 ед. урона в секунду) +9 к силе +13 к выносливости +9 к критическому удару (0.20% на 90 ур.) +7 к скорости (0.16% на 90 ур.) Прочность: 120 / 120 Требуется 30-й ур. Цена продажи: 3 75 33 Добывается с: Повелитель горнов Игнис Вероятность получения: 16.68%",
-		"dmg": 1000,
-		"speed": 2.6,
-		"price": 300
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"stats": {
+			"general": [
+				{"value": "15", "name": "Уровень предмета"},
+				{"value": "7 - 15 (3.1 ед. урона в секунду)", "name": "Урон"},
+				{"value": 30, "name": "Требуется уровень"},
+				{"value": 3.6, "name": "Скорость"}
+			],
+			"main": [
+				{"value": "+4", "name": "к силе"},
+				{"value": "+6", "name": "к выносливости"}
+			],
+			"secondary": [
+				{"value": "+6", "name": "к критическому удару"},
+				{"value": "+2", "name": "к скорости"}
+			],
+			"third": [
+				{"value": "", "name": "бесцветное гнездо"}
+			]
+		},
+		"price": 300,
+		"settings": {
+			"cameraPosition": [0, 0, 4.8],
+			"centerPosition": [0, -0.4, 0]
+		}
+	},
+
+	{
+		"id": "WorldcarverRecolor",
+		"type": "epic",
+		"path": "",
+		"weaponType": "Двуручный Топор",
+		"label": "Эпическое",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Worldcarver-recolor.png",
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Worldcarver-recolor.glb",
+		"objectFit": false,
+		"title": "Резец Мироздателя из Другого Мира",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"stats": {
+			"general": [
+				{"value": "15", "name": "Уровень предмета"},
+				{"value": "7 - 15 (3.1 ед. урона в секунду)", "name": "Урон"},
+				{"value": 30, "name": "Требуется уровень"},
+				{"value": 3.6, "name": "Скорость"}
+			],
+			"main": [
+				{"value": "+4", "name": "к силе"},
+				{"value": "+6", "name": "к выносливости"}
+			],
+			"secondary": [
+				{"value": "+6", "name": "к критическому удару"},
+				{"value": "+2", "name": "к скорости"}
+			],
+			"third": [
+				{"value": "", "name": "бесцветное гнездо"}
+			]
+		},
+		"price": 300,
+		"settings": {
+			"cameraPosition": [0, 0, 4.8],
+			"centerPosition": [0, -0.4, 0]
+		}
 	},
 
 	{
 		"id": "EarthenCleaver",
-		"type": "two-handed-weapons",
+		"type": "common",
 		"path": "",
 		"weaponType": "Двуручный Топор",
-		"label": "Эпический",
+		"label": "Необычное",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Earthen-Cleaver.png",
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Earthen-Cleaver.glb",
 		"objectFit": false,
 		"title": "Колун Земельника",
-		"description": "Уровень предмета: 11 Становится персональным при получении Двуручное Топор Урон: 4 - 10 Скорость 3.60 (1.9 ед. урона в секунду) +3 к силе +4 к выносливости +4 к критическому удару (0.09% на 90 ур.) +2 к скорости (0.05% на 90 ур.) Прочность: 55 / 55 Требуется 10-й ур. Цена продажи: 28",
-		"dmg": 1000,
-		"speed": 2.6,
-		"price": 300
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"stats": {
+			"general": [
+				{"value": "11", "name": "Уровень предмета"},
+				{"value": "4 - 10 (3.1 ед. урона в секунду)", "name": "Урон"},
+				{"value": 10, "name": "Требуется уровень"},
+				{"value": 3.6, "name": "Скорость"}
+			],
+			"main": [
+				{"value": "+3", "name": "к силе"},
+				{"value": "+4", "name": "к выносливости"}
+			],
+			"secondary": [
+				{"value": "+4", "name": "к критическому удару"},
+				{"value": "+2", "name": "к скорости"}
+			]
+		},
+		"price": 300,
+		"settings": {
+			"cameraPosition": [0, 0, 4.8],
+			"centerPosition": [0, -0.4, 0]
+		}
 	},
 
 	{
@@ -3850,15 +3986,155 @@
 		"type": "epic",
 		"path": "",
 		"weaponType": "Двуручный Топор",
-		"label": "Эпический",
+		"label": "Эпическое",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Wrathful-Gladiators-Decapitator.png",
-		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d//nosite/Wrathful-Gladiators-Decapitator.glb",
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Wrathful-Gladiators-Decapitator.glb",
 		"objectFit": false,
 		"title": "Лабрисса Разгневанного Гладиатора",
-		"description": "Уровень предмета: 47 Становится персональным при получении Двуручное Топор Урон: 7 - 15 Скорость 3.60 (7.1 ед. урона в секунду) +10 к силе +14 к выносливости +5 к критическому удару (0.11% на 90 ур.) +5 к универсальности (0.09% на 90 ур.) бесцветное гнездо бесцветное гнездо При соответствии цвета: +1 к силе атаки Прочность: 120 / 120 Требуется 30-й ур. Цена продажи: 6 29 75",
-		"dmg": 1000,
-		"speed": 2.6,
-		"price": 300
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"stats": {
+			"general": [
+				{"value": "47", "name": "Уровень предмета"},
+				{"value": "7 - 15 (3.1 ед. урона в секунду)", "name": "Урон"},
+				{"value": 30, "name": "Требуется уровень"},
+				{"value": 3.6, "name": "Скорость"}
+			],
+			"main": [
+				{"value": "+10", "name": "к силе"},
+				{"value": "+14", "name": "к выносливости"}
+			],
+			"secondary": [
+				{"value": "+5", "name": "к критическому удару"},
+				{"value": "+5", "name": "к универсальности"}
+			],
+			"third": [
+				{"value": "", "name": "бесцветное гнездо"},
+				{"value": "", "name": "бесцветное гнездо"},
+				{"value": "", "name": "При соответствии цвета: +1 к силе атаки"}
+			]
+		},
+		"price": 300,
+		"settings": {
+			"cameraPosition": [0, 0, 4.45],
+			"centerPosition": [0, -0.15, 0]
+		}
+	},
+
+	{
+		"id": "WrathfulGladiatorsDecapitatorRed",
+		"type": "epic",
+		"path": "",
+		"weaponType": "Двуручный Топор",
+		"label": "Эпическое",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Wrathful-Gladiators-Decapitator-red.png",
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Wrathful-Gladiators-Decapitator-red.glb",
+		"objectFit": false,
+		"title": "Лабрисса Разгневанного Гладиатора из Другого Мира",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"stats": {
+			"general": [
+				{"value": "47", "name": "Уровень предмета"},
+				{"value": "7 - 15 (3.1 ед. урона в секунду)", "name": "Урон"},
+				{"value": 30, "name": "Требуется уровень"},
+				{"value": 3.6, "name": "Скорость"}
+			],
+			"main": [
+				{"value": "+10", "name": "к силе"},
+				{"value": "+14", "name": "к выносливости"}
+			],
+			"secondary": [
+				{"value": "+5", "name": "к критическому удару"},
+				{"value": "+5", "name": "к универсальности"}
+			],
+			"third": [
+				{"value": "", "name": "бесцветное гнездо"},
+				{"value": "", "name": "бесцветное гнездо"},
+				{"value": "", "name": "При соответствии цвета: +1 к силе атаки"}
+			]
+		},
+		"price": 300,
+		"settings": {
+			"cameraPosition": [0, 0, 4.45],
+			"centerPosition": [0, -0.15, 0]
+		}
+	},
+
+	{
+		"id": "WrathfulGladiatorsDecapitatorGreen",
+		"type": "epic",
+		"path": "",
+		"weaponType": "Двуручный Топор",
+		"label": "Эпическое",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Wrathful-Gladiators-Decapitator-green.png",
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Wrathful-Gladiators-Decapitator-green.glb",
+		"objectFit": false,
+		"title": "Лабрисса Разгневанного Гладиатора из Другого Мира",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"stats": {
+			"general": [
+				{"value": "47", "name": "Уровень предмета"},
+				{"value": "7 - 15 (3.1 ед. урона в секунду)", "name": "Урон"},
+				{"value": 30, "name": "Требуется уровень"},
+				{"value": 3.6, "name": "Скорость"}
+			],
+			"main": [
+				{"value": "+10", "name": "к силе"},
+				{"value": "+14", "name": "к выносливости"}
+			],
+			"secondary": [
+				{"value": "+5", "name": "к критическому удару"},
+				{"value": "+5", "name": "к универсальности"}
+			],
+			"third": [
+				{"value": "", "name": "бесцветное гнездо"},
+				{"value": "", "name": "бесцветное гнездо"},
+				{"value": "", "name": "При соответствии цвета: +1 к силе атаки"}
+			]
+		},
+		"price": 300,
+		"settings": {
+			"cameraPosition": [0, 0, 4.45],
+			"centerPosition": [0, -0.15, 0]
+		}
+	},
+
+	{
+		"id": "WrathfulGladiatorsDecapitatorBlue",
+		"type": "epic",
+		"path": "",
+		"weaponType": "Двуручный Топор",
+		"label": "Эпическое",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Wrathful-Gladiators-Decapitator-blue.png",
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Wrathful-Gladiators-Decapitator-blue.glb",
+		"objectFit": false,
+		"title": "Лабрисса Разгневанного Гладиатора из Другого Мира",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"stats": {
+			"general": [
+				{"value": "47", "name": "Уровень предмета"},
+				{"value": "7 - 15 (3.1 ед. урона в секунду)", "name": "Урон"},
+				{"value": 30, "name": "Требуется уровень"},
+				{"value": 3.6, "name": "Скорость"}
+			],
+			"main": [
+				{"value": "+10", "name": "к силе"},
+				{"value": "+14", "name": "к выносливости"}
+			],
+			"secondary": [
+				{"value": "+5", "name": "к критическому удару"},
+				{"value": "+5", "name": "к универсальности"}
+			],
+			"third": [
+				{"value": "", "name": "бесцветное гнездо"},
+				{"value": "", "name": "бесцветное гнездо"},
+				{"value": "", "name": "При соответствии цвета: +1 к силе атаки"}
+			]
+		},
+		"price": 300,
+		"settings": {
+			"cameraPosition": [0, 0, 4.45],
+			"centerPosition": [0, -0.15, 0]
+		}
 	},
 
 	{

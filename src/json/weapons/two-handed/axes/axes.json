@@ -1320,12 +1320,34 @@
 	},
 
 	{
+		"id": "StormedgeRecolor",
+		"type": "weapons",
+		"path": "StormedgeRecolor",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Stormedge-recolor.png",
+		"objectFit": true,
+		"title": "Лезвие Шторма из Другого Мира",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
 		"id": "Worldcarver",
 		"type": "weapons",
 		"path": "Worldcarver",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Worldcarver.png",
 		"objectFit": true,
 		"title": "Резец Мироздателя",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "WorldcarverRecolor",
+		"type": "weapons",
+		"path": "WorldcarverRecolor",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Worldcarver-recolor.png",
+		"objectFit": true,
+		"title": "Резец Мироздателя из Другого Мира",
 		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
 		"price": 300
 	},
@@ -1370,6 +1392,39 @@
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Wrathful-Gladiators-Decapitator.png",
 		"objectFit": true,
 		"title": "Лабрисса Разгневанного Гладиатора",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "WrathfulGladiatorsDecapitatorRed",
+		"type": "weapons",
+		"path": "WrathfulGladiatorsDecapitatorRed",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Wrathful-Gladiators-Decapitator-red.png",
+		"objectFit": true,
+		"title": "Лабрисса Разгневанного Гладиатора из Другого Мира",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "WrathfulGladiatorsDecapitatorGreen",
+		"type": "weapons",
+		"path": "WrathfulGladiatorsDecapitatorGreen",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Wrathful-Gladiators-Decapitator-green.png",
+		"objectFit": true,
+		"title": "Лабрисса Разгневанного Гладиатора из Другого Мира",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "WrathfulGladiatorsDecapitatorBlue",
+		"type": "weapons",
+		"path": "WrathfulGladiatorsDecapitatorBlue",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Wrathful-Gladiators-Decapitator-blue.png",
+		"objectFit": true,
+		"title": "Лабрисса Разгневанного Гладиатора из Другого Мира",
 		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
 		"price": 300
 	},
