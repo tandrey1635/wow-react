@@ -932,6 +932,12 @@ footer {
 .weapon__details__stats__third {
   color: #ffc107;
 }
+.weapon__details__class_warrior {
+  color: #854c27;
+}
+.weapon__details__class_paladin {
+  color: #fb3a86;
+}
 .weapon__details__class_death-knight {
   color: #c41f3b;
 }

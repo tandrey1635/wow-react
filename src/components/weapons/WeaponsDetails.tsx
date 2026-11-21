@@ -232,7 +232,7 @@ const Weapons = ()=> {
 							</div>
 						</div>
 
-						{weaponDetails.stats?.secondary &&
+						{(weaponDetails.stats?.secondary || weaponDetails.stats?.third) &&
 							<div className={`weapon__details__stats__bottom weapon__details__stats__bottom_secondary ${
 								weaponDetails.type == "common"
 									? "weapon__details__stats__bottom_secondary_common"
@@ -259,7 +259,7 @@ const Weapons = ()=> {
 									)}
 								)}
 
-								{weaponDetails.stats?.third?.map(({value, name, className}, i)=> {
+								{weaponDetails.stats?.third?.map(({value, name, className}, i) => {
 									return (
 										<div key={i} className="weapon__details__stats__third">
 											{value} {name}
@@ -267,19 +267,33 @@ const Weapons = ()=> {
 											{className &&
 												<>
 													{"Классы: "}
-													<span className={`weapon__details__class ${
-														className == "Рыцарь Смерти"
-															? "weapon__details__class_death-knight"
-															: ''
-														}`}
-													>
-														{className}
-													</span>
+													{className.map((classNameItem, i) => {
+														return (
+															<span
+																key={i}
+																className={`weapon__details__class ${
+																	classNameItem == "Воин"
+																		? "weapon__details__class_warrior"
+																		:
+																	classNameItem == "Паладин"
+																		? "weapon__details__class_paladin"
+																		:
+																	classNameItem === "Рыцарь Смерти"
+																		? "weapon__details__class_death-knight"
+																		: ''
+																}`}
+															>
+																{classNameItem}
+
+																{i < className.length - 1 ? ", " : ''}
+															</span>
+														)
+													})}
 												</>
 											}
 										</div>
-									)}
-								)}
+									)
+								})}
 							</div>
 						}
 

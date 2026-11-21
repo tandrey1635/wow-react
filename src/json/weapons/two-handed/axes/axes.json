@@ -1441,12 +1441,34 @@
 	},
 
 	{
+		"id": "RelentlessGladiatorsSundererRecolor",
+		"type": "weapons",
+		"path": "RelentlessGladiatorsSundererRecolor",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Relentless-Gladiators-Sunderer-recolor.png",
+		"objectFit": false,
+		"title": "Рассекатель Неумолимого Гладиатора из Другого Мира",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
 		"id": "RelentlessGladiatorsDecapitator",
 		"type": "weapons",
 		"path": "RelentlessGladiatorsDecapitator",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Relentless-Gladiators-Decapitator.png",
 		"objectFit": false,
 		"title": "Лабрисса Неумолимого Гладиатора",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "RelentlessGladiatorsDecapitatorRecolor",
+		"type": "weapons",
+		"path": "RelentlessGladiatorsDecapitatorRecolor",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Relentless-Gladiators-Decapitator-recolor.png",
+		"objectFit": false,
+		"title": "Лабрисса Неумолимого Гладиатора из Другого Мира",
 		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
 		"price": 300
 	},
@@ -1474,23 +1496,23 @@
 	},
 
 	{
-		"id": "ContaminatingCleaver",
-		"type": "weapons",
-		"path": "ContaminatingCleaver",
-		"img": "/src/assets/img/weapons/bg/two-handed/axes/Contaminating-Cleaver.png",
-		"objectFit": false,
-		"title": "Загрязняющий Тесак",
-		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
-		"price": 300
-	},
-
-	{
 		"id": "BonegaleGreataxe",
 		"type": "weapons",
 		"path": "BonegaleGreataxe",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Bonegale-Greataxe.png",
 		"objectFit": false,
 		"title": "Большой Топор Костяного Шторма",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "ContaminatingCleaver",
+		"type": "weapons",
+		"path": "ContaminatingCleaver",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Contaminating-Cleaver.png",
+		"objectFit": false,
+		"title": "Загрязняющий Тесак",
 		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
 		"price": 300
 	},
@@ -1518,6 +1540,17 @@
 	},
 
 	{
+		"id": "WhitefinAxeRecolor",
+		"type": "weapons",
+		"path": "WhitefinAxeRecolor",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Whitefin-Axe-recolor.png",
+		"objectFit": false,
+		"title": "Белоперый Топор из Другого Мира",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
 		"id": "TerminationAxe",
 		"type": "weapons",
 		"path": "TerminationAxe",
@@ -1540,23 +1573,34 @@
 	},
 
 	{
-		"id": "RiptideSlicer",
-		"type": "weapons",
-		"path": "RiptideSlicer",
-		"img": "/src/assets/img/weapons/bg/two-handed/axes/Riptide-Slicer.png",
-		"objectFit": false,
-		"title": "Рассекатель Прилива",
-		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
-		"price": 300
-	},
-
-	{
 		"id": "ShalugdoomTheAxeOfUnmaking",
 		"type": "weapons",
 		"path": "ShalugdoomTheAxeOfUnmaking",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Shalugdoom-the-Axe-of-Unmaking.png",
 		"objectFit": false,
 		"title": "Шалуг'дум, Топор Разрушений",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "ShalugdoomTheAxeOfUnmakingRecolor",
+		"type": "weapons",
+		"path": "ShalugdoomTheAxeOfUnmakingRecolor",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Shalugdoom-the-Axe-of-Unmaking-recolor.png",
+		"objectFit": false,
+		"title": "Шалуг'дум, Топор Разрушений из Другого Мира",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "RiptideSlicer",
+		"type": "weapons",
+		"path": "RiptideSlicer",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Riptide-Slicer.png",
+		"objectFit": false,
+		"title": "Рассекатель Прилива",
 		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
 		"price": 300
 	},
@@ -2049,7 +2093,7 @@
 		"id": "TimeLostWolfbiteLegacyOfGarad",
 		"type": "weapons",
 		"path": "TimeLostWolfbiteLegacyOfGarad",
-		"img": "/src/assets/img/weapons/bg/two-handed/axes/Time-Lost-Wolfbite, Legacy-of-Garad.png",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Time-Lost-Wolfbite-Legacy-of-Garad.png",
 		"objectFit": false,
 		"title": "Затерянный во Времени Укус Волка, Наследие Гарада",
 		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
