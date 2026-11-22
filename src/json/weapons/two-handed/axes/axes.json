@@ -1749,6 +1749,17 @@
 	},
 
 	{
+		"id": "SplinterspearBroadaxeRecolor",
+		"type": "weapons",
+		"path": "SplinterspearBroadaxeRecolor",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Splinterspear-Broadaxe-recolor.png",
+		"objectFit": false,
+		"title": "Широкий Топор Расщепленного Копья из Другого Мира",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
 		"id": "FrostwallDefendersAxe",
 		"type": "weapons",
 		"path": "FrostwallDefendersAxe",
@@ -1903,12 +1914,23 @@
 	},
 
 	{
-		"id": "PrimalCombatantsDecapitator",
+		"id": "PrimalCombatantsDecapitatorHorde",
 		"type": "weapons",
-		"path": "PrimalCombatantsDecapitator",
-		"img": "/src/assets/img/weapons/bg/two-handed/axes/Primal-Combatants-Decapitator.png",
+		"path": "PrimalCombatantsDecapitatorHorde",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Primal-Combatants-Decapitator-horde.png",
 		"objectFit": false,
-		"title": "Лабрисса Необузданного Бойца",
+		"title": "Лабрисса Необузданного Бойца (Орда)",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "PrimalCombatantsDecapitatorAlliance",
+		"type": "weapons",
+		"path": "PrimalCombatantsDecapitatorAlliance",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Primal-Combatants-Decapitator-alliance.png",
+		"objectFit": false,
+		"title": "Лабрисса Необузданного Бойца (Альянс)",
 		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
 		"price": 300
 	},

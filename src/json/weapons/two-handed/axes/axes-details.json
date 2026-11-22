@@ -4889,47 +4889,118 @@
 
 	{
 		"id": "EarthenSunderer",
-		"type": "two-handed-weapons",
+		"type": "common",
 		"path": "",
 		"weaponType": "Двуручный Топор",
-		"label": "Эпический",
+		"label": "Необычное",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Earthen-Sunderer.png",
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Earthen-Sunderer.glb",
 		"objectFit": false,
 		"title": "Рассекатель Земли",
-		"description": "Уровень предмета: 13 Становится персональным при надевании Двуручное Топор Урон: 5 - 12 Скорость 3.60 (2.4 ед. урона в секунду)  Прочность: 85 / 85 Требуется 29-й ур. Цена продажи: 41 91",
-		"dmg": 1000,
-		"speed": 2.6,
-		"price": 300
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"stats": {
+			"general": [
+				{"value": "13", "name": "Уровень предмета"},
+				{"value": "5 - 12 (2.4 ед. урона в секунду)", "name": "Урон"},
+				{"value": 29, "name": "Требуется уровень"},
+				{"value": 3.6, "name": "Скорость"}
+			]
+		},
+		"price": 300,
+		"settings": {
+			"cameraPosition": [0, 0, 3.55],
+			"centerPosition": [0, -0.15, 0]
+		}
 	},
 
 	{
 		"id": "RazorwindBroadaxe",
-		"type": "two-handed-weapons",
+		"type": "common",
 		"path": "",
 		"weaponType": "Двуручный Топор",
-		"label": "Эпический",
+		"label": "Необычное",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Razorwind-Broadaxe.png",
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Razorwind-Broadaxe.glb",
 		"objectFit": false,
 		"title": "Широкий Топор Колючего Ветра",
-		"description": "Уровень предмета: 15 Становится персональным при надевании Двуручное Топор Урон: 7 - 15 Скорость 3.60 (3.1 ед. урона в секунду) +4 к силе +6 к выносливости Прочность: 85 / 85 Требуется 29-й ур. Цена продажи: 1 84",
-		"dmg": 1000,
-		"speed": 2.6,
-		"price": 300
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"stats": {
+			"general": [
+				{"value": "15", "name": "Уровень предмета"},
+				{"value": "7 - 15 (3.1 ед. урона в секунду)", "name": "Урон"},
+				{"value": 29, "name": "Требуется уровень"},
+				{"value": 3.6, "name": "Скорость"}
+			],
+			"main": [
+				{"value": "+4", "name": "к силе"},
+				{"value": "+6", "name": "к выносливости"}
+			]
+		},
+		"price": 300,
+		"settings": {
+			"cameraPosition": [0, 0, 3.55],
+			"centerPosition": [0, -0.15, 0]
+		}
 	},
 
 	{
 		"id": "SplinterspearBroadaxe",
-		"type": "two-handed-weapons",
+		"type": "common",
 		"path": "",
 		"weaponType": "Двуручный Топор",
-		"label": "Эпический",
+		"label": "Необычное",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Splinterspear-Broadaxe.png",
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Splinterspear-Broadaxe.glb",
 		"objectFit": false,
 		"title": "Широкий Топор Расщепленного Копья",
-		"description": "Уровень предмета: 15 Становится персональным при надевании Двуручное Топор Урон: 7 - 15 Скорость 3.60 (3.1 ед. урона в секунду) +4 к силе +6 к выносливости Прочность: 85 / 85 Требуется 30-й ур. Цена продажи: 1 91",
-		"dmg": 1000,
-		"speed": 2.6,
-		"price": 300
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"stats": {
+			"general": [
+				{"value": "15", "name": "Уровень предмета"},
+				{"value": "7 - 15 (3.1 ед. урона в секунду)", "name": "Урон"},
+				{"value": 30, "name": "Требуется уровень"},
+				{"value": 3.6, "name": "Скорость"}
+			],
+			"main": [
+				{"value": "+4", "name": "к силе"},
+				{"value": "+6", "name": "к выносливости"}
+			]
+		},
+		"price": 300,
+		"settings": {
+			"cameraPosition": [0, 0, 3.55],
+			"centerPosition": [0, -0.15, 0]
+		}
+	},
+
+	{
+		"id": "SplinterspearBroadaxeRecolor",
+		"type": "common",
+		"path": "",
+		"weaponType": "Двуручный Топор",
+		"label": "Необычное",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Splinterspear-Broadaxe-recolor.png",
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Splinterspear-Broadaxe-recolor.glb",
+		"objectFit": false,
+		"title": "Широкий Топор Расщепленного Копья из Другого Мира",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"stats": {
+			"general": [
+				{"value": "15", "name": "Уровень предмета"},
+				{"value": "7 - 15 (3.1 ед. урона в секунду)", "name": "Урон"},
+				{"value": 30, "name": "Требуется уровень"},
+				{"value": 3.6, "name": "Скорость"}
+			],
+			"main": [
+				{"value": "+4", "name": "к силе"},
+				{"value": "+6", "name": "к выносливости"}
+			]
+		},
+		"price": 300,
+		"settings": {
+			"cameraPosition": [0, 0, 3.55],
+			"centerPosition": [0, -0.15, 0]
+		}
 	},
 
 	{
@@ -5143,48 +5214,137 @@
 	},
 
 	{
-		"id": "PrimalCombatantsDecapitator",
-		"type": "two-handed-weapons",
+		"id": "PrimalCombatantsDecapitatorHorde",
+		"type": "rare",
 		"path": "",
 		"weaponType": "Двуручный Топор",
-		"label": "Эпический",
-		"img": "/src/assets/img/weapons/bg/two-handed/axes/Primal-Combatants-Decapitator.png",
+		"fraction": "Орда",
+		"label": "Редкое",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Primal-Combatants-Decapitator-horde.png",
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Primal-Combatants-Decapitator-horde.glb",
 		"objectFit": false,
 		"title": "Лабрисса Необузданного Бойца",
-		"description": "Warlords of Draenor: 1-й сезон Уровень предмета: 49 Становится персональным при получении Двуручное Топор Урон: 7 - 16 Скорость 3.60 (7.4 ед. урона в секунду) +10 к силе +15 к выносливости +10 к критическому удару (0.22% на 90 ур.) +10 к искусности (0.22% на 90 ур.) Прочность: 100 / 100 Расы: Орк, Нежить, Таурен, Тролль, Гоблин, Эльф крови, Пандарен, Ночнорожденный, Таурен Крутогорья, Зандалар, Вульпера, Маг'хар, Драктир Земельник, Харанир Требуется 40-й ур. Цена продажи: 6 8 17",
-		"dmg": 1000,
-		"speed": 2.6,
-		"price": 300
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"stats": {
+			"general": [
+				{"value": "15", "name": "Уровень предмета"},
+				{"value": "7 - 16 (3.2 ед. урона в секунду)", "name": "Урон"},
+				{"value": 40, "name": "Требуется уровень"},
+				{"value": 3.6, "name": "Скорость"}
+			],
+			"main": [
+				{"value": "+5", "name": "к силе"},
+				{"value": "+7", "name": "к выносливости"}
+			],
+			"secondary": [
+				{"value": "+5", "name": "к критическому удару"},
+				{"value": "+5", "name": "к искусности"}
+			]
+		},
+		"price": 300,
+		"settings": {
+			"centerPosition": [0, -0.15, 0]
+		}
+	},
+
+	{
+		"id": "PrimalCombatantsDecapitatorAlliance",
+		"type": "rare",
+		"path": "",
+		"weaponType": "Двуручный Топор",
+		"fraction": "Альянс",
+		"label": "Редкое",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Primal-Combatants-Decapitator-alliance.png",
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Primal-Combatants-Decapitator-alliance.glb",
+		"objectFit": false,
+		"title": "Лабрисса Необузданного Бойца",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"stats": {
+			"general": [
+				{"value": "15", "name": "Уровень предмета"},
+				{"value": "7 - 16 (3.2 ед. урона в секунду)", "name": "Урон"},
+				{"value": 40, "name": "Требуется уровень"},
+				{"value": 3.6, "name": "Скорость"}
+			],
+			"main": [
+				{"value": "+5", "name": "к силе"},
+				{"value": "+7", "name": "к выносливости"}
+			],
+			"secondary": [
+				{"value": "+5", "name": "к критическому удару"},
+				{"value": "+5", "name": "к искусности"}
+			]
+		},
+		"price": 300,
+		"settings": {
+			"centerPosition": [0, -0.15, 0]
+		}
 	},
 
 	{
 		"id": "ExpeditiousBroadaxe",
-		"type": "two-handed-weapons",
+		"type": "epic",
 		"path": "",
 		"weaponType": "Двуручный Топор",
-		"label": "Эпический",
+		"label": "Эпическое",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Expeditious-Broadaxe.png",
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Expeditious-Broadaxe.glb",
 		"objectFit": false,
 		"title": "Всесокрушающий Широкий Топор",
-		"description": "Эпохальный Предмет закален в бою Уровень предмета: 51 Становится персональным при получении Двуручное Топор Урон: 7 - 16 Скорость 3.60 (7.8 ед. урона в секунду) +10 к силе +16 к выносливости +624 Крит (13.57% на 90 ур.)(13.57% @ L90) +635 Скор (14.43% на 90 ур.)(14.43% @ L90) +626 Искусность (13.61% на 90 ур.)(13.61 @ L90) +635 Универсальность (11.76% на 90 ур.)(11.76% @ L90) Прочность: 120 / 120 Требуется 40-й ур. Цена продажи: 10 88 86",
-		"dmg": 1000,
-		"speed": 2.6,
-		"price": 300
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"stats": {
+			"general": [
+				{"value": "16", "name": "Уровень предмета"},
+				{"value": "7 - 16 (3.2 ед. урона в секунду)", "name": "Урон"},
+				{"value": 40, "name": "Требуется уровень"},
+				{"value": 3.6, "name": "Скорость"}
+			],
+			"main": [
+				{"value": "+5", "name": "к силе"},
+				{"value": "+7", "name": "к выносливости"}
+			],
+			"secondary": [
+				{"value": "+5", "name": "к критическому удару"},
+				{"value": "+4", "name": "к универсальности"}
+			]
+		},
+		"price": 300,
+		"settings": {
+			"centerPosition": [0, -0.15, 0]
+		}
 	},
 
 	{
 		"id": "AxeOfTheStoneGeyser",
-		"type": "two-handed-weapons",
+		"type": "epic",
 		"path": "",
 		"weaponType": "Двуручный Топор",
-		"label": "Эпический",
+		"label": "Эпическое",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Axe-of-the-Stone-Geyser.png",
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Axe-of-the-Stone-Geyser.glb",
 		"objectFit": false,
 		"title": "Топор Каменного Гейзера",
-		"description": "Эпохальный Уровень предмета: 51 Становится персональным при получении Двуручное Топор Урон: 7 - 16 Скорость 3.60 (7.8 ед. урона в секунду) +10 к силе +16 к выносливости +11 к критическому удару (0.24% на 90 ур.) +9 к скорости (0.20% на 90 ур.) Прочность: 120 / 120 Требуется 40-й ур. Цена продажи: 10 7 13 Добывается с: Кромог",
-		"dmg": 1000,
-		"speed": 2.6,
-		"price": 300
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"stats": {
+			"general": [
+				{"value": "18", "name": "Уровень предмета"},
+				{"value": "7 - 16 (3.2 ед. урона в секунду)", "name": "Урон"},
+				{"value": 40, "name": "Требуется уровень"},
+				{"value": 3.6, "name": "Скорость"}
+			],
+			"main": [
+				{"value": "+5", "name": "к силе"},
+				{"value": "+7", "name": "к выносливости"}
+			],
+			"secondary": [
+				{"value": "+5", "name": "к критическому удару"},
+				{"value": "+4", "name": "к скорости"}
+			]
+		},
+		"price": 300,
+		"settings": {
+			"centerPosition": [0, -0.15, 0]
+		}
 	},
 
 	{
