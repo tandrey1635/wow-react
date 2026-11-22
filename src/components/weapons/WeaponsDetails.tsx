@@ -142,16 +142,26 @@ const Weapons = ()=> {
 
 						<div className="weapon__details__block__text d-flex align-items-center justify-content-between mt-2">
 							<p className="weapon__details__text">{weaponDetails.weaponType}</p>
-							{weaponDetails.fraction &&
-								<p className={`weapon__details__text ${
+							{(weaponDetails.fraction || weaponDetails.version) &&
+								<p className={`weapon__details__text weapon__details__text_type ${
 									weaponDetails.fraction == "Орда"
 										? "weapon__details__text_horde"
 										:
 									weaponDetails.fraction == "Альянс"
 										? "weapon__details__text_alliance"
-										: ''}`}
+										:
+									weaponDetails.version == "Героический"
+										? "weapon__details__text_version"
+										:
+									''}`}
 								>
-									<span className="weapon__details__text">Фракция:</span> {weaponDetails.fraction}
+									<span>
+										{weaponDetails.fraction
+											? "Фракция: "
+											: ''
+										}
+									</span>
+									{weaponDetails.fraction || weaponDetails.version}
 								</p>
 							}
 						</div>
@@ -316,9 +326,14 @@ const Weapons = ()=> {
 							} ${hasDescScroll ? "weapon__details__info_scroll" : ""} flex-grow-1 my-3`}
 						>
 
-							{weaponDetails.effect && <p className="weapon__details__descriptions weapon__details__descriptions_effect mb-3">{weaponDetails.effect}</p>}
+							{weaponDetails.effect &&
+								<p className="weapon__details__descriptions weapon__details__descriptions_effect mb-3">{weaponDetails.effect}
+								</p>
+							}
 
-							{weaponDetails.description && <p className="weapon__details__descriptions">{weaponDetails.description}</p>}
+							{weaponDetails.description &&
+								<p className="weapon__details__descriptions">{weaponDetails.description}</p>
+							}
 						</div>
 
 						<div className="weapon__details__price">

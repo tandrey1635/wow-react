@@ -807,11 +807,20 @@ footer {
   text-shadow: 2px 2px 2px #000;
   filter: drop-shadow(0 0 2px #000);
 }
+.weapon__details__text span {
+  color: #ffc107;
+}
+.weapon__details__text_type {
+  font-size: 22px;
+}
 .weapon__details__text_alliance {
   color: #037afb;
 }
 .weapon__details__text_horde {
   color: #b90c1c;
+}
+.weapon__details__text_version {
+  color: #7bed09;
 }
 .weapon__details__stats {
   font-weight: 700;

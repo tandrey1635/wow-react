@@ -1166,17 +1166,6 @@
 	},
 
 	{
-		"id": "TyrannicalBeheaderLightBlue",
-		"type": "weapons",
-		"path": "TyrannicalBeheaderLightBlue",
-		"img": "/src/assets/img/weapons/bg/two-handed/axes/Tyrannical-Beheader-light-blue.png",
-		"objectFit": false,
-		"title": "Тиранический Главорез из Другого Мира",
-		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
-		"price": 300
-	},
-
-	{
 		"id": "TyrannicalBeheaderBlue",
 		"type": "weapons",
 		"path": "TyrannicalBeheaderBlue",
@@ -1287,6 +1276,17 @@
 	},
 
 	{
+		"id": "LotharsEdgeRecolor",
+		"type": "weapons",
+		"path": "LotharsEdgeRecolor",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Lothars-Edge-recolor.png",
+		"objectFit": false,
+		"title": "Лезвие Лотара из Другого Мира",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
 		"id": "JusticebringerNormal",
 		"type": "weapons",
 		"path": "JusticebringerNormal",
@@ -1375,12 +1375,34 @@
 	},
 
 	{
+		"id": "RamaladnisBladeOfCullingNormalRecolor",
+		"type": "weapons",
+		"path": "RamaladnisBladeOfCullingNormalRecolor",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Ramaladnis-Blade-of-Culling-normal-recolor.png",
+		"objectFit": true,
+		"title": "Клинок Очищения Рамаладни из Другого Мира",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
 		"id": "RamaladnisBladeOfCullingHeroic",
 		"type": "weapons",
 		"path": "RamaladnisBladeOfCullingHeroic",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Ramaladnis-Blade-of-Culling-heroic.png",
 		"objectFit": true,
 		"title": "Клинок Очищения Рамаладни (Героический)",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "RamaladnisBladeOfCullingHeroicRecolor",
+		"type": "weapons",
+		"path": "RamaladnisBladeOfCullingHeroicRecolor",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Ramaladnis-Blade-of-Culling-heroic-recolor.png",
+		"objectFit": true,
+		"title": "Клинок Очищения Рамаладни из Другого Мира (Героический)",
 		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
 		"price": 300
 	},
@@ -1678,6 +1700,17 @@
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Phase-Lost-Chopper.png",
 		"objectFit": true,
 		"title": "Межфазовый Колун",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "PhaseLostChopperRecolor",
+		"type": "weapons",
+		"path": "PhaseLostChopperRecolor",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Phase-Lost-Chopper-recolor.png",
+		"objectFit": true,
+		"title": "Межфазовый Колун из Другого Мира",
 		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
 		"price": 300
 	},
