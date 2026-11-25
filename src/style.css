@@ -800,6 +800,10 @@ footer {
 .weapon__details__title_legendary {
   color: #ff8000;
 }
+.weapon__details__block__text {
+  grid-template-columns: repeat(2, 1fr);
+  justify-content: space-between;
+}
 .weapon__details__text {
   font-size: 26px;
   font-weight: 700;
@@ -812,6 +816,9 @@ footer {
 }
 .weapon__details__text_type {
   font-size: 22px;
+  grid-column: 2;
+  grid-row: 1;
+  justify-self: flex-end;
 }
 .weapon__details__text_alliance {
   color: #037afb;
@@ -820,6 +827,10 @@ footer {
   color: #b90c1c;
 }
 .weapon__details__text_version {
+  font-size: 20px;
+  grid-column: 1;
+  grid-row: 2;
+  justify-self: flex-start;
   color: #7bed09;
 }
 .weapon__details__stats {
@@ -839,6 +850,9 @@ footer {
 }
 .weapon__details__stats__top__info:nth-of-type(3), .weapon__details__stats__top__info:last-of-type {
   justify-self: flex-end;
+}
+.weapon__details__stats__top__info:last-of-type {
+  grid-row: 2;
 }
 .weapon__details__stats__top_common {
   border-bottom: 2px solid #7bed09;

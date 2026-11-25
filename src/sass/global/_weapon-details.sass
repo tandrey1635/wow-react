@@ -89,6 +89,9 @@
 			color: $heirloomColor
 		&_legendary
 			color: $legendaryColor
+	&__block__text
+		grid-template-columns: repeat(2, 1fr)
+		justify-content: space-between
 	&__text
 		font-size: 26px
 		font-weight: 700
@@ -99,11 +102,18 @@
 			color: $textColor
 		&_type
 			font-size: 22px
+			grid-column: 2
+			grid-row: 1
+			justify-self: flex-end
 		&_alliance
 			color: $allianceColor
 		&_horde
 			color: $hordeColor
 		&_version
+			font-size: 20px
+			grid-column: 1
+			grid-row: 2
+			justify-self: flex-start
 			color: $weaponVersionColor
 	&__stats
 		font-weight: 700
@@ -118,6 +128,8 @@
 					grid-row: 2
 				&:nth-of-type(3), &:last-of-type
 					justify-self: flex-end
+				&:last-of-type
+					grid-row: 2
 			&_common
 				border-bottom: 2px solid $commonBorder
 			&_rare

@@ -140,30 +140,26 @@ const Weapons = ()=> {
 							{weaponDetails.title}
 						</h2>
 
-						<div className="weapon__details__block__text d-flex align-items-center justify-content-between mt-2">
+						<div className="weapon__details__block__text d-grid align-items-center mt-2">
 							<p className="weapon__details__text">{weaponDetails.weaponType}</p>
-							{(weaponDetails.fraction || weaponDetails.version) &&
-								<p className={`weapon__details__text weapon__details__text_type ${
-									weaponDetails.fraction == "Орда"
+							{weaponDetails.fraction &&
+        						<p className={`weapon__details__text weapon__details__text_type ${
+									weaponDetails.fraction === "Орда"
 										? "weapon__details__text_horde"
-										:
-									weaponDetails.fraction == "Альянс"
-										? "weapon__details__text_alliance"
-										:
-									weaponDetails.version
-										? "weapon__details__text_version"
-										:
-									''}`}
-								>
-									<span>
-										{weaponDetails.fraction
-											? "Фракция: "
+										: weaponDetails.fraction === "Альянс"
+											? "weapon__details__text_alliance"
 											: ''
-										}
-									</span>
-									{weaponDetails.fraction || weaponDetails.version}
+									}`}>
+									<span>Фракция: </span>
+									{weaponDetails.fraction}
 								</p>
-							}
+    						}
+
+							{weaponDetails.version &&
+								<p className="weapon__details__text weapon__details__text_type weapon__details__text_version">
+									{weaponDetails.version}
+								</p>
+        					}
 						</div>
 
 						<div className="weapon__details__stats d-grid gap-2 mt-2">
