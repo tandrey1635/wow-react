@@ -1720,8 +1720,19 @@
 		"type": "weapons",
 		"path": "ExperimentalSpecimenSlicerRaidFinder",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Experimental-Specimen-Slicer-raid-finder.png",
-		"objectFit": true,
+		"objectFit": false,
 		"title": "Тесак для Экспериментальных Образцов\n (Поиск Рейда)",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"price": 300
+	},
+
+	{
+		"id": "ExperimentalSpecimenSlicerRaidFinderRecolor",
+		"type": "weapons",
+		"path": "ExperimentalSpecimenSlicerRaidFinderRecolor",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Experimental-Specimen-Slicer-raid-finder-recolor.png",
+		"objectFit": false,
+		"title": "Тесак для Экспериментальных Образцов из Другого Мира (Поиск Рейда)",
 		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
 		"price": 300
 	},
@@ -1731,7 +1742,7 @@
 		"type": "weapons",
 		"path": "ExperimentalSpecimenSlicerNormal",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Experimental-Specimen-Slicer-normal.png",
-		"objectFit": true,
+		"objectFit": false,
 		"title": "Тесак для Экспериментальных Образцов",
 		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
 		"price": 300
@@ -1742,7 +1753,7 @@
 		"type": "weapons",
 		"path": "ExperimentalSpecimenSlicerHeroic",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Experimental-Specimen-Slicer-heroic.png",
-		"objectFit": true,
+		"objectFit": false,
 		"title": "Тесак для Экспериментальных Образцов (Героический)",
 		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
 		"price": 300

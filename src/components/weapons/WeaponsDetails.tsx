@@ -150,7 +150,7 @@ const Weapons = ()=> {
 									weaponDetails.fraction == "Альянс"
 										? "weapon__details__text_alliance"
 										:
-									weaponDetails.version == "Героический"
+									weaponDetails.version
 										? "weapon__details__text_version"
 										:
 									''}`}

@@ -5088,47 +5088,161 @@
 
 	{
 		"id": "ExperimentalSpecimenSlicerRaidFinder",
-		"type": "two-handed-weapons",
+		"type": "epic",
 		"path": "",
 		"weaponType": "Двуручный Топор",
-		"label": "Эпический",
+		"version": "Поиск Рейда",
+		"label": "Эпическое",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Experimental-Specimen-Slicer-raid-finder.png",
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Experimental-Specimen-Slicer-raid-finder.glb",
 		"objectFit": false,
-		"title": "Тесак для Экспериментальных Образцов (Поиск Рейда)",
-		"description": "Уровень предмета: 49 Становится персональным при получении Двуручное Топор Урон: 7 - 15 Скорость 3.60 (7.4 ед. урона в секунду) +8 к силе +15 к выносливости +9 к критическому удару (0.20% на 90 ур.) +8 к искусности (0.17% на 90 ур.) бесцветное гнездо При соответствии цвета: +1 к силе Прочность: 120 / 120 Требуется 35-й ур. Цена продажи: 8 6 79 Добывается с: Йор'садж Неспящий Вероятность получения: 0.55%",
-		"dmg": 1000,
-		"speed": 2.6,
-		"price": 300
+		"title": "Тесак для Экспериментальных Образцов",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"stats": {
+			"general": [
+				{"value": "17", "name": "Уровень предмета"},
+				{"value": "7 - 15 (3.1 ед. урона в секунду)", "name": "Урон"},
+				{"value": 35, "name": "Требуется уровень"},
+				{"value": 3.6, "name": "Скорость"}
+			],
+			"main": [
+				{"value": "+4", "name": "к силе"},
+				{"value": "+7", "name": "к выносливости"}
+			],
+			"secondary": [
+				{"value": "+8", "name": "к критическому удару"},
+				{"value": "+8", "name": "к искусности"}
+			],
+			"third": [
+				{"value": "", "name": "бесцветное гнездо"},
+				{"value": "", "name": "При соответствии цвета: +1 к силе"}
+			]
+		},
+		"price": 300,
+		"settings": {
+			"cameraPosition": [0, 0, 4.65],
+			"centerPosition": [0, -0.3, 0],
+			"rotation": [0, 0, 1.58]
+		}
+	},
+
+	{
+		"id": "ExperimentalSpecimenSlicerRaidFinderRecolor",
+		"type": "epic",
+		"path": "",
+		"weaponType": "Двуручный Топор",
+		"version": "Поиск Рейда",
+		"label": "Эпическое",
+		"img": "/src/assets/img/weapons/bg/two-handed/axes/Experimental-Specimen-Slicer-raid-finder-recolor.png",
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Experimental-Specimen-Slicer-raid-finder-recolor.glb",
+		"objectFit": false,
+		"title": "Тесак для Экспериментальных Образцов из Другого Мира",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"stats": {
+			"general": [
+				{"value": "17", "name": "Уровень предмета"},
+				{"value": "7 - 15 (3.1 ед. урона в секунду)", "name": "Урон"},
+				{"value": 35, "name": "Требуется уровень"},
+				{"value": 3.6, "name": "Скорость"}
+			],
+			"main": [
+				{"value": "+4", "name": "к силе"},
+				{"value": "+7", "name": "к выносливости"}
+			],
+			"secondary": [
+				{"value": "+8", "name": "к критическому удару"},
+				{"value": "+8", "name": "к искусности"}
+			],
+			"third": [
+				{"value": "", "name": "бесцветное гнездо"},
+				{"value": "", "name": "При соответствии цвета: +1 к силе"}
+			]
+		},
+		"price": 300,
+		"settings": {
+			"cameraPosition": [0, 0, 4.65],
+			"centerPosition": [0, -0.3, 0],
+			"rotation": [0, 0, 1.58]
+		}
 	},
 
 	{
 		"id": "ExperimentalSpecimenSlicerNormal",
-		"type": "two-handed-weapons",
+		"type": "epic",
 		"path": "",
 		"weaponType": "Двуручный Топор",
-		"label": "Эпический",
+		"label": "Эпическое",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Experimental-Specimen-Slicer-normal.png",
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Experimental-Specimen-Slicer-normal.glb",
 		"objectFit": false,
 		"title": "Тесак для Экспериментальных Образцов",
-		"description": "Уровень предмета: 49 Становится персональным при получении Двуручное Топор Урон: 7 - 15 Скорость 3.60 (7.4 ед. урона в секунду) +8 к силе +15 к выносливости +9 к критическому удару (0.20% на 90 ур.) +8 к искусности (0.17% на 90 ур.) бесцветное гнездо При соответствии цвета: +1 к силе Прочность: 120 / 120 Требуется 35-й ур. Цена продажи: 8 6 79 Добывается с: Йор'садж Неспящий Вероятность получения: 6.90%",
-		"dmg": 1000,
-		"speed": 2.6,
-		"price": 300
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"stats": {
+			"general": [
+				{"value": "18", "name": "Уровень предмета"},
+				{"value": "8 - 16 (3.4 ед. урона в секунду)", "name": "Урон"},
+				{"value": 35, "name": "Требуется уровень"},
+				{"value": 3.6, "name": "Скорость"}
+			],
+			"main": [
+				{"value": "+7", "name": "к силе"},
+				{"value": "+7", "name": "к выносливости"}
+			],
+			"secondary": [
+				{"value": "+10", "name": "к критическому удару"},
+				{"value": "+10", "name": "к искусности"}
+			],
+			"third": [
+				{"value": "", "name": "бесцветное гнездо"},
+				{"value": "", "name": "При соответствии цвета: +1 к силе"}
+			]
+		},
+		"price": 300,
+		"settings": {
+			"cameraPosition": [0, 0, 4.65],
+			"centerPosition": [0, -0.3, 0],
+			"rotation": [0, 0, 1.58]
+		}
 	},
 
 	{
 		"id": "ExperimentalSpecimenSlicerHeroic",
-		"type": "two-handed-weapons",
+		"type": "epic",
 		"path": "",
 		"weaponType": "Двуручный Топор",
-		"label": "Эпический",
+		"version": "Героический",
+		"label": "Эпическое",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Experimental-Specimen-Slicer-heroic.png",
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Experimental-Specimen-Slicer-heroic.glb",
 		"objectFit": false,
-		"title": "Тесак для Экспериментальных Образцов (Героический)",
-		"description": "Становится персональным при получении Двуручное Топор Урон: 7 - 15 Скорость 3.60 (7.4 ед. урона в секунду) +8 к силе +15 к выносливости +9 к критическому удару (0.20% на 90 ур.) +8 к искусности (0.17% на 90 ур.) бесцветное гнездо При соответствии цвета: +1 к силе Прочность: 120 / 120 Требуется 35-й ур. Цена продажи: 8 6 79 Добывается с: Йор'садж Неспящий Вероятность получения: 15.23%",
-		"dmg": 1000,
-		"speed": 2.6,
-		"price": 300
+		"title": "Тесак для Экспериментальных Образцов",
+		"description": "Двуручный Топор, сокрушительная сила, проверенная веками. Рубит, сокрушает, уничтожает. Каждый взмах несет смерть. Никто не устоит перед его мощью.",
+		"stats": {
+			"general": [
+				{"value": "20", "name": "Уровень предмета"},
+				{"value": "9 - 20 (4 ед. урона в секунду)", "name": "Урон"},
+				{"value": 35, "name": "Требуется уровень"},
+				{"value": 3.6, "name": "Скорость"}
+			],
+			"main": [
+				{"value": "+10", "name": "к силе"},
+				{"value": "+10", "name": "к выносливости"}
+			],
+			"secondary": [
+				{"value": "+15", "name": "к критическому удару"},
+				{"value": "+15", "name": "к искусности"}
+			],
+			"third": [
+				{"value": "", "name": "бесцветное гнездо"},
+				{"value": "", "name": "При соответствии цвета: +1 к силе"}
+			]
+		},
+		"price": 300,
+		"settings": {
+			"cameraPosition": [0, 0, 4.65],
+			"centerPosition": [0, -0.3, 0],
+			"rotation": [0, 0, 1.58]
+		}
 	},
 
 	{
@@ -5279,62 +5393,150 @@
 
 	{
 		"id": "ShinkaExecutionOfDominionRaidFinder",
-		"type": "two-handed-weapons",
+		"type": "epic",
 		"path": "",
 		"weaponType": "Двуручный Топор",
-		"label": "Эпический",
+		"version": "Поиск Рейда",
+		"label": "Эпическое",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Shinka-Execution-of-Dominion-raid-finder.png",
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Shinka-Execution-of-Dominion-raid-finder.glb",
 		"objectFit": false,
-		"title": "Шин'ка, Палач Доминиона (Поиск Рейда)",
-		"description": "Поиск рейда Уровень предмета: 45 Становится персональным при получении Двуручное Топор Урон: 7 - 15 Скорость 3.60 (6.9 ед. урона в секунду) +9 к силе +14 к выносливости +9 к критическому удару (0.20% на 90 ур.) +9 к искусности (0.20% на 90 ур.)Пораженное ша Прочность: 120 / 120 Требуется 35-й ур. Поражен ша Цена продажи: 5 47 6 Добывается с: Ша Страха Вероятность получения: 1.91%",
-		"dmg": 1000,
-		"speed": 2.6,
-		"price": 300
+		"title": "Шин'ка, Палач Доминиона",
+		"description": "Поражен ша.",
+		"stats": {
+			"general": [
+				{"value": "15", "name": "Уровень предмета"},
+				{"value": "7 - 15 (3.1 ед. урона в секунду)", "name": "Урон"},
+				{"value": 35, "name": "Требуется уровень"},
+				{"value": 3.6, "name": "Скорость"}
+			],
+			"main": [
+				{"value": "+5", "name": "к силе"},
+				{"value": "+7", "name": "к выносливости"}
+			],
+			"secondary": [
+				{"value": "+9", "name": "к критическому удару"},
+				{"value": "+9", "name": "к искусности"}
+			],
+			"third": [
+				{"value": "", "name": "Пораженное ша гнездо"}
+			]
+		},
+		"price": 300,
+		"settings": {
+			"cameraPosition": [0, 0, 4.7],
+			"centerPosition": [-0.1, -0.3, 0]
+		}
 	},
 
 	{
 		"id": "ShinkaExecutionOfDominionNormal",
-		"type": "two-handed-weapons",
+		"type": "epic",
 		"path": "",
 		"weaponType": "Двуручный Топор",
-		"label": "Эпический",
+		"label": "Эпическое",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Shinka-Execution-of-Dominion-normal.png",
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Shinka-Execution-of-Dominion-normal.glb",
 		"objectFit": false,
 		"title": "Шин'ка, Палач Доминиона",
-		"description": "Уровень предмета: 45 Становится персональным при получении Двуручное Топор Урон: 7 - 15 Скорость 3.60 (6.9 ед. урона в секунду) +9 к силе +14 к выносливости +9 к критическому удару (0.20% на 90 ур.) +9 к искусности (0.20% на 90 ур.) Пораженное ша Прочность: 120 / 120 Требуется 35-й ур. Поражен ша Цена продажи: 5 47 6 Добывается с: Ша Страха Вероятность получения: 12.49%",
-		"dmg": 1000,
-		"speed": 2.6,
-		"price": 300
+		"description": "Поражен ша.",
+		"stats": {
+			"general": [
+				{"value": "16", "name": "Уровень предмета"},
+				{"value": "8 - 16 (3.4 ед. урона в секунду)", "name": "Урон"},
+				{"value": 35, "name": "Требуется уровень"},
+				{"value": 3.6, "name": "Скорость"}
+			],
+			"main": [
+				{"value": "+7", "name": "к силе"},
+				{"value": "+7", "name": "к выносливости"}
+			],
+			"secondary": [
+				{"value": "+10", "name": "к критическому удару"},
+				{"value": "+10", "name": "к искусности"}
+			],
+			"third": [
+				{"value": "", "name": "Пораженное ша гнездо"}
+			]
+		},
+		"price": 300,
+		"settings": {
+			"cameraPosition": [0, 0, 4.7],
+			"centerPosition": [-0.1, -0.3, 0]
+		}
 	},
 
 	{
 		"id": "ShinkaExecutionOfDominionHeroic",
-		"type": "two-handed-weapons",
+		"type": "epic",
 		"path": "",
 		"weaponType": "Двуручный Топор",
-		"label": "Эпический",
+		"version": "Героический",
+		"label": "Эпическое",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Shinka-Execution-of-Dominion-heroic.png",
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Shinka-Execution-of-Dominion-heroic.glb",
 		"objectFit": false,
-		"title": "Шин'ка, Палач Доминиона (Героический)",
-		"description": "Героический Уровень предмета: 45 Становится персональным при получении Двуручное Топор Урон: 7 - 15 Скорость 3.60 (6.9 ед. урона в секунду) +9 к силе +14 к выносливости +9 к критическому удару (0.20% на 90 ур.) +9 к искусности (0.20% на 90 ур.)Пораженное ша Прочность: 120 / 120 Требуется 35-й ур. Поражен ша Цена продажи: 5 47 6 Добывается с: Ша Страха Вероятность получения: 7.01%",
-		"dmg": 1000,
-		"speed": 2.6,
-		"price": 300
+		"title": "Шин'ка, Палач Доминиона",
+		"description": "Поражен ша.",
+		"stats": {
+			"general": [
+				{"value": "17", "name": "Уровень предмета"},
+				{"value": "9 - 20 (4 ед. урона в секунду)", "name": "Урон"},
+				{"value": 35, "name": "Требуется уровень"},
+				{"value": 3.6, "name": "Скорость"}
+			],
+			"main": [
+				{"value": "+10", "name": "к силе"},
+				{"value": "+10", "name": "к выносливости"}
+			],
+			"secondary": [
+				{"value": "+15", "name": "к критическому удару"},
+				{"value": "+15", "name": "к искусности"}
+			],
+			"third": [
+				{"value": "", "name": "Пораженное ша гнездо"}
+			]
+		},
+		"price": 300,
+		"settings": {
+			"cameraPosition": [0, 0, 4.7],
+			"centerPosition": [-0.1, -0.3, 0]
+		}
 	},
 
 	{
 		"id": "ShinkaTheTyrantsGreataxe",
-		"type": "two-handed-weapons",
+		"type": "epic",
 		"path": "",
 		"weaponType": "Двуручный Топор",
-		"label": "Эпический",
+		"label": "Эпическое",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Shinka-the-Tyrants-Greataxe.png",
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Shinka-the-Tyrants-Greataxe.glb",
 		"objectFit": false,
 		"title": "Шин'ка, Большой Топор Тирана",
-		"description": "Уровень предмета: 11 Становится персональным при получении Двуручное Топор Урон: 4 - 10 Скорость 3.60 (1.9 ед. урона в секунду) +28 к силе +28 к ловкости +38 к интеллекту +12 Выносливость Требуемый уровень: 10 - 0 [(0)]",
-		"dmg": 1000,
-		"speed": 2.6,
-		"price": 300
+		"description": "Поражен ша.",
+		"stats": {
+			"general": [
+				{"value": "11", "name": "Уровень предмета"},
+				{"value": "4 - 10 (1.9 ед. урона в секунду)", "name": "Урон"},
+				{"value": 10, "name": "Требуется уровень"},
+				{"value": 3.6, "name": "Скорость"}
+			],
+			"main": [
+				{"value": "+5", "name": "к силе"},
+				{"value": "+5", "name": "к ловкости"},
+				{"value": "+5", "name": "к интеллекту"},
+				{"value": "+5", "name": "к выносливости"}
+			],
+			"third": [
+				{"value": "", "name": "Пораженное ша гнездо"}
+			]
+		},
+		"price": 300,
+		"settings": {
+			"cameraPosition": [0, 0, 4.7],
+			"centerPosition": [-0.1, -0.3, 0]
+		}
 	},
 
 	{
@@ -5342,60 +5544,143 @@
 		"type": "epic",
 		"path": "",
 		"weaponType": "Двуручный Топор",
+		"version": "Поиск Рейда",
 		"label": "Эпическое",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Uroe-Harbinger-of-Terror-raid-finder.png",
-		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/nosite/Uroe-Harbinger-of-Terror-raid-finder.glb",
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Uroe-Harbinger-of-Terror-raid-finder.glb",
 		"objectFit": false,
-		"title": "Уро, Вестник ужаса (Поиск Рейда)",
-		"description": "Поиск рейда Уровень предмета: 47 Становится персональным при получении Двуручное Топор Урон: 7 - 15 Скорость 3.60 (7.1 ед. урона в секунду) +8 к силе +14 к выносливости +9 к критическому удару (0.20% на 90 ур.) +7 к искусности (0.15% на 90 ур.) бесцветное гнездо При соответствии цвета: +1 к силе Прочность: 120 / 120 Требуется 35-й ур. Гром. Цена продажи: 6 79 19 Добывается с: Лэй Шэнь Вероятность получения: 1.30%",
-		"dmg": 1000,
-		"speed": 2.6,
-		"price": 300
+		"title": "Уро, Вестник ужаса",
+		"description": "Гром.",
+		"stats": {
+			"general": [
+				{"value": "17", "name": "Уровень предмета"},
+				{"value": "7 - 15 (3.1 ед. урона в секунду)", "name": "Урон"},
+				{"value": 35, "name": "Требуется уровень"},
+				{"value": 3.6, "name": "Скорость"}
+			],
+			"main": [
+				{"value": "+4", "name": "к силе"},
+				{"value": "+7", "name": "к выносливости"}
+			],
+			"secondary": [
+				{"value": "+9", "name": "к критическому удару"},
+				{"value": "+7", "name": "к искусности"}
+			],
+			"third": [
+				{"value": "", "name": "бесцветное гнездо"},
+				{"value": "", "name": "При соответствии цвета: +1 к силе"}
+			]
+		},
+		"price": 300,
+		"settings": {
+			"centerPosition": [0, -0.1, 0]
+		}
 	},
 
 	{
 		"id": "UroeHarbingerOfTerrorNormal",
-		"type": "two-handed-weapons",
+		"type": "epic",
 		"path": "",
 		"weaponType": "Двуручный Топор",
-		"label": "Эпический",
+		"label": "Эпическое",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Uroe-Harbinger-of-Terror-normal.png",
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Uroe-Harbinger-of-Terror-normal.glb",
 		"objectFit": false,
 		"title": "Уро, Вестник ужаса",
-		"description": "Уровень предмета: 47 Становится персональным при получении Двуручное Топор Урон: 7 - 15 Скорость 3.60 (7.1 ед. урона в секунду) +8 к силе +14 к выносливости +9 к критическому удару (0.20% на 90 ур.) +7 к искусности (0.15% на 90 ур.) бесцветное гнездо При соответствии цвета: +1 к силе Прочность: 120 / 120 Требуется 35-й ур. Гром. Цена продажи: 6 79 19 Добывается с: Лэй Шэнь Вероятность получения: 2.82%",
-		"dmg": 1000,
-		"speed": 2.6,
-		"price": 300
+		"description": "Гром.",
+		"stats": {
+			"general": [
+				{"value": "18", "name": "Уровень предмета"},
+				{"value": "8 - 16 (3.4 ед. урона в секунду)", "name": "Урон"},
+				{"value": 35, "name": "Требуется уровень"},
+				{"value": 3.6, "name": "Скорость"}
+			],
+			"main": [
+				{"value": "+7", "name": "к силе"},
+				{"value": "+7", "name": "к выносливости"}
+			],
+			"secondary": [
+				{"value": "+10", "name": "к критическому удару"},
+				{"value": "+10", "name": "к искусности"}
+			],
+			"third": [
+				{"value": "", "name": "бесцветное гнездо"},
+				{"value": "", "name": "При соответствии цвета: +1 к силе"}
+			]
+		},
+		"price": 300,
+		"settings": {
+			"centerPosition": [0, -0.1, 0]
+		}
 	},
 
 	{
 		"id": "UroeHarbingerOfTerrorHeroic",
-		"type": "two-handed-weapons",
+		"type": "epic",
 		"path": "",
 		"weaponType": "Двуручный Топор",
-		"label": "Эпический",
+		"version": "Героический",
+		"label": "Эпическое",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Uroe-Harbinger-of-Terror-heroic.png",
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Uroe-Harbinger-of-Terror-heroic.glb",
 		"objectFit": false,
-		"title": "Уро, Вестник ужаса (Героический)",
-		"description": "Героический Уровень предмета: 47 Становится персональным при получении Двуручное Топор Урон: 7 - 16 Скорость 3.60 (7.1 ед. урона в секунду) +8 к силе +14 к выносливости +9 к критическому удару (0.20% на 90 ур.) +7 к искусности (0.15% на 90 ур.) бесцветное гнездо При соответствии цвета: +1 к силе Прочность: 120 / 120 Требуется 35-й ур. Гром. Цена продажи: 6 79 19 Добывается с: Лэй Шэнь Вероятность получения: 3.35%",
-		"dmg": 1000,
-		"speed": 2.6,
-		"price": 300
+		"title": "Уро, Вестник ужаса",
+		"description": "Гром.",
+		"stats": {
+			"general": [
+				{"value": "20", "name": "Уровень предмета"},
+				{"value": "9 - 20 (4 ед. урона в секунду)", "name": "Урон"},
+				{"value": 35, "name": "Требуется уровень"},
+				{"value": 3.6, "name": "Скорость"}
+			],
+			"main": [
+				{"value": "+10", "name": "к силе"},
+				{"value": "+10", "name": "к выносливости"}
+			],
+			"secondary": [
+				{"value": "+15", "name": "к критическому удару"},
+				{"value": "+15", "name": "к искусности"}
+			],
+			"third": [
+				{"value": "", "name": "бесцветное гнездо"},
+				{"value": "", "name": "При соответствии цвета: +1 к силе"}
+			]
+		},
+		"price": 300,
+		"settings": {
+			"centerPosition": [0, -0.1, 0]
+		}
 	},
 
 	{
 		"id": "UroeHarbingerOfFear",
-		"type": "two-handed-weapons",
+		"type": "epic",
 		"path": "",
 		"weaponType": "Двуручный Топор",
-		"label": "Эпический",
+		"label": "Эпическое",
 		"img": "/src/assets/img/weapons/bg/two-handed/axes/Uroe-Harbinger-of-Fear.png",
+		"model3d": "/src/assets/img/weapons/bg/two-handed/axes/model3d/Uroe-Harbinger-of-Fear.glb",
 		"objectFit": false,
 		"title": "Уро, Вестник Страха",
-		"description": "Уровень предмета: 11 Становится персональным при получении Двуручное Топор Урон: 4 - 10 Скорость 3.60 (1.9 ед. урона в секунду) +28 к силе +28 к ловкости +38 к интеллекту +12 Выносливость Требуемый уровень: 10 - 70 [(70)]",
-		"dmg": 1000,
-		"speed": 2.6,
-		"price": 300
+		"description": "Гром.",
+		"stats": {
+			"general": [
+				{"value": "11", "name": "Уровень предмета"},
+				{"value": "4 - 10 (1.9 ед. урона в секунду)", "name": "Урон"},
+				{"value": 10, "name": "Требуется уровень"},
+				{"value": 3.6, "name": "Скорость"}
+			],
+			"main": [
+				{"value": "+5", "name": "к силе"},
+				{"value": "+5", "name": "к ловкости"},
+				{"value": "+5", "name": "к интеллекту"},
+				{"value": "+5", "name": "к выносливости"}
+			]
+		},
+		"price": 300,
+		"settings": {
+			"centerPosition": [0, -0.1, 0]
+		}
 	},
 
 	{
