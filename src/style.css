@@ -687,6 +687,11 @@ footer {
   height: 765px;
   overflow: hidden;
 }
+@media (max-width: 1199.98px) {
+  .weapon__details__wrapper {
+    height: auto;
+  }
+}
 .weapon__details__wrapper_common {
   background: linear-gradient(325deg, #7bed09, transparent 30%, transparent 35%, #7bed09, transparent);
   border: 2px solid #7bed09;
@@ -716,21 +721,29 @@ footer {
   position: relative;
   width: 45%;
   height: 765px;
+  border-right: 2px solid;
+}
+@media (max-width: 1199.98px) {
+  .weapon__details__left {
+    width: 100%;
+    border-right: none;
+    border-bottom: 2px solid;
+  }
 }
 .weapon__details__left_common {
-  border-right: 2px solid #7bed09;
+  border-color: #7bed09;
 }
 .weapon__details__left_rare {
-  border-right: 2px solid #185ec1;
+  border-color: #185ec1;
 }
 .weapon__details__left_epic {
-  border-right: 2px solid #8400ff;
+  border-color: #8400ff;
 }
 .weapon__details__left_heirloom {
-  border-right: 2px solid #00bfff;
+  border-color: #00bfff;
 }
 .weapon__details__left_legendary {
-  border-right: 2px solid #ff8000;
+  border-color: #ff8000;
 }
 .weapon__details__label {
   position: absolute;
@@ -768,6 +781,26 @@ footer {
   height: inherit;
   filter: drop-shadow(0 0 6px #000);
 }
+@media (max-width: 1199.98px) {
+  .weapon__details__img {
+    padding: 64px;
+  }
+}
+@media (max-width: 767.98px) {
+  .weapon__details__img {
+    padding: 64px 56px;
+  }
+}
+@media (max-width: 575.98px) {
+  .weapon__details__img {
+    padding: 64px 32px;
+  }
+}
+@media (max-width: 425px) {
+  .weapon__details__img {
+    padding: 64px 16px;
+  }
+}
 .weapon__details__img canvas {
   max-width: 100%;
   max-height: 100%;
@@ -778,6 +811,11 @@ footer {
 }
 .weapon__details__right {
   width: 55%;
+}
+@media (max-width: 1199.98px) {
+  .weapon__details__right {
+    width: 100%;
+  }
 }
 .weapon__details__title {
   font-size: 36px;
@@ -803,6 +841,13 @@ footer {
 .weapon__details__block__text {
   grid-template-columns: repeat(2, 1fr);
   justify-content: space-between;
+}
+@media (max-width: 676px) {
+  .weapon__details__block__text {
+    display: flex !important;
+    flex-direction: column;
+    align-items: flex-start !important;
+  }
 }
 .weapon__details__text {
   font-size: 26px;
@@ -840,6 +885,12 @@ footer {
   grid-template-columns: 1.2fr 0.8fr;
   text-shadow: 2px 2px 2px #000;
   filter: drop-shadow(0 0 2px #000);
+}
+@media (max-width: 676px) {
+  .weapon__details__stats__top {
+    display: flex !important;
+    flex-direction: column;
+  }
 }
 .weapon__details__stats__top__info {
   font-size: 20px;

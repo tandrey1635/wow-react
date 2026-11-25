@@ -65,7 +65,7 @@ const Weapons = ()=> {
 					weaponDetails.type == "legendary"
 						? "weapon__details__wrapper_legendary"
 						: ''}
-					d-flex justify-content-between`}
+					d-flex flex-column flex-xl-row justify-content-between`}
 				>
 					<div className={`weapon__details__left ${
 						weaponDetails.type == "common"
